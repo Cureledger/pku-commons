@@ -72,19 +72,19 @@ Trained-by-the-clinic method, in strict order:
 
 ## Build steps
 
-- [ ] **1. Author `SKILL.md`.** Encode the contract + rubric above as the Skill instructions.
+- [x] **1. Author `SKILL.md`.** Encode the contract + rubric above as the Skill instructions.
   Bias the wording toward determinism: explicit ordered steps, explicit output schema, an
   explicit "do not emit confidence/bands" instruction. Keep reasoning bounded so the model
   does the rubric, not free-form analysis.
-- [ ] **2. Minimal phe-per-gram reference.** A small, cited table of phe-per-gram by protein
+- [x] **2. Minimal phe-per-gram reference.** A small, cited table of phe-per-gram by protein
   source class (seeded from the [food list](../food-list/) work and USDA nutrient 508), so
   step 3 is a lookup, not a recollection. Start with the classes the seed test set exercises.
-- [ ] **3. Recipe-factor procedure.** Write the concrete heuristic for step 4 (how ingredient
+- [x] **3. Recipe-factor procedure.** Write the concrete heuristic for step 4 (how ingredient
   order + declared protein + cooking sense combine into relative weights). Document its
   assumptions so it is reviewable by dietitians.
-- [ ] **4. Harness adapter** (`../benchmark/estimators/claude_skill.py`). Wrap the Skill's
+- [x] **4. Harness adapter** (`../benchmark/estimators/claude_skill.py`). Wrap the Skill's
   output in `estimate(case) -> {"phe_mg": ...}`. Single integration point; no benchmark peeking.
-- [ ] **5. Score & baseline.** Run against `seed_v0.jsonl`; record MAE / within-band% as the
+- [x] **5. Score & baseline.** Run against `seed_v0.jsonl`; record MAE / within-band% as the
   Skill's first leaderboard row and save the run JSON as the regression baseline.
 - [ ] **6. Peer-review matrix.** Once it scores, generate the review matrix (methodology /
   output-testing / reliability) for parents, dietitians, clinicians, and AI devs — the

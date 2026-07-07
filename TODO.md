@@ -5,13 +5,12 @@ Running list of outstanding work. Contributions welcome — see the audience pag
 
 ## Site
 
-- [ ] **No-login feedback form.** Feedback currently routes through pre-filled GitHub Issues
-  (works today, but requires a free GitHub account — friction for families/clinicians).
-  Replace with a real no-login web form once a form service is chosen and verified to embed
-  on GitHub Pages. Decision deferred: don't wire an endpoint that hasn't been integration-tested,
-  since a mis-wired form silently drops submissions. Affects the feedback section on
-  `docs/families.html`, `docs/clinicians.html`, `docs/devs.html`.
-- [ ] Fill real form endpoint once chosen (see above).
+- [x] **No-login feedback form.** Live Tally form (`tally.so/r/EkYaAL`) embedded inline on
+  `docs/families.html` and `docs/clinicians.html` — no login required. A one-line GitHub
+  Issues fallback link remains under each form for anyone who wants their feedback on the
+  public record. `docs/devs.html` intentionally keeps GitHub Issues as its primary channel.
+  _Verify on preview that the embed renders; the GitHub fallback covers the case where the
+  Tally script is blocked._
 
 ## Benchmark / data
 

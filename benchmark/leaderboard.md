@@ -12,10 +12,26 @@ comparable within the same version.
 | Rank | Estimator | Version | MAE (mg) ↓ | Within band ↑ | Bias (mg) | Date (UTC) | Run |
 |-----:|-----------|---------|----------:|--------------:|----------:|------------|-----|
 | 1 | `estimators.stub_estimator` (reference baseline) | v0 | 6.61 | 88.9% | +6.56 | 2026-07-07 | [json](results/stub_v0.json) |
+| 2 | `estimators.rubric_estimator` (deterministic rubric) | v0 | 12.76 | 83.3% | +6.83 | 2026-07-07 | [json](results/rubric_v0.json) |
+| 3 | `estimators.claude_skill` (Skill via LLM) | v0 | 23.57 | 50.0% | −16.41 | 2026-07-07 | [json](results/claude_skill_v0.json) |
 
-> The stub is a deliberately crude baseline (equal-weight recipe factor). It is here to
-> establish the floor; the goal is for real estimators — starting with the Claude Skill — to
-> beat it, especially on the multi-ingredient composite cases where it fails.
+> **Read these ranks with the method in mind — MAE alone is misleading here:**
+>
+> - The **stub** posts the lowest MAE but is not a generalizing estimator: it looks up phe
+>   from a built-in table keyed to these exact seed foods, so it effectively memorizes the
+>   single-ingredient answers and only its crude equal-weight recipe factor is ever tested.
+>   It is the floor, not a real competitor.
+> - The **deterministic rubric** (`rubric_estimator`) is the faithful, reproducible encoding
+>   of the [SKILL.md](../phe-estimator/SKILL.md) rubric: it derives phe from label protein ×
+>   a cited phe-per-g-protein class table (protein-panel path) or the food-list phe-per-100g
+>   (whole-food path). It generalizes to unseen labels — which is why it is the estimator to
+>   actually beat.
+> - The **Claude Skill** row is the *live model* applying that same rubric. The gap between it
+>   (23.57) and the deterministic rubric (12.76) is the **optimization target**: it measures
+>   how much precision the model loses by following the rubric loosely. Closing that gap —
+>   without adding confidence/band chatter — is the week's devops work. Its worst miss (c16,
+>   a rice+carrot bowl) is the recipe-factor weight-share problem the scale + food-list work
+>   exists to narrow.
 
 ## How to appear here
 
@@ -29,7 +45,7 @@ Tracked alongside performance for the hackathon:
 
 | Metric | Value |
 |---|---|
-| Estimators submitted | 1 (reference stub) |
+| Estimators submitted | 3 (stub, deterministic rubric, Claude Skill) |
 | External contributors | 0 |
 | Test-set cases (with citations) | 18 |
 | Food-reference rows (cited) | 11 |

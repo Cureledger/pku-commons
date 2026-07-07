@@ -1,0 +1,141 @@
+{
+  "estimator": "estimators.claude_skill (host.llm, claude-opus-4-8)",
+  "testset": "testset/seed_v0.jsonl",
+  "run_utc": "2026-07-07T18:57:30.623845Z",
+  "metrics": {
+    "mae_mg": 23.57,
+    "within_band_pct": 50.0,
+    "bias_mg": -16.41,
+    "rmse_mg": 42.6,
+    "crashed": 1,
+    "n": 18
+  },
+  "per_case": [
+    {
+      "id": "c01",
+      "truth": 57.8,
+      "est": 47.8,
+      "ae": 10.0,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c02",
+      "truth": 12.6,
+      "est": 24.5,
+      "ae": 11.9,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c03",
+      "truth": 51.9,
+      "est": 32.76,
+      "ae": 19.1,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c04",
+      "truth": 31.0,
+      "est": 32.45,
+      "ae": 1.5,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c05",
+      "truth": 27.4,
+      "est": 48.0,
+      "ae": 20.6,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c06",
+      "truth": 106.5,
+      "est": 78.5,
+      "ae": 28.0,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c07",
+      "truth": 1.0,
+      "est": 0.04,
+      "ae": 1.0,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c08",
+      "truth": 1.2,
+      "est": 0.3,
+      "ae": 0.9,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c09",
+      "truth": 32.4,
+      "est": 53.0,
+      "ae": 20.6,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c10",
+      "truth": 158.8,
+      "est": 148.5,
+      "ae": 10.3,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c11",
+      "truth": 46.4,
+      "est": "ERR",
+      "ae": "Skill returned error: No prote",
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c12",
+      "truth": 69.0,
+      "est": 45.0,
+      "ae": 24.0,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c13",
+      "truth": 9.7,
+      "est": 16.0,
+      "ae": 6.3,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c14",
+      "truth": 102.6,
+      "est": 54.0,
+      "ae": 48.6,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c15",
+      "truth": 77.8,
+      "est": 52.5,
+      "ae": 25.3,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c16",
+      "truth": 196.1,
+      "est": 39.0,
+      "ae": 157.1,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "c17",
+      "truth": 18.1,
+      "est": 17.0,
+      "ae": 1.1,
+      "verdict": "PASS"
+    },
+    {
+      "id": "c18",
+      "truth": 58.4,
+      "est": 44.0,
+      "ae": 14.4,
+      "verdict": "PASS"
+    }
+  ]
+}

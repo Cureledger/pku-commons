@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "units": "mg_phe_per_g_protein",
+    "purpose": "Step-3 lookup for the phe-estimator rubric: convert a protein source class to a phenylalanine-per-gram-of-protein basis. Phe is a roughly constant fraction of protein (~45-55 mg/g) across most sources, which is why label protein is a usable starting point; the class variation is what label protein alone misses, and what this table restores.",
+    "provenance": "Classes present in the seed test set are grounded in USDA FoodData Central (SR Legacy) nutrient 508 (Phenylalanine) / 203 (Protein) ratios computed from testset/food_reference.json. Classes not yet represented use documented typical amino-acid-composition values and are marked accordingly; they are refined as the living food list grows. This is a Layer-1 (cited) artifact.",
+    "version": "v0"
+  },
+  "classes": {
+    "none": {
+      "phe_mg_per_g_protein": 0.0,
+      "basis": "sugars, fats/oils, water, salt, most acids/flavorings carry no phe"
+    },
+    "cereal protein": {
+      "phe_mg_per_g_protein": 52.0,
+      "basis": "FDC-derived: rice white 53.4, potato flour 45.8; corroborated by typical cereal AA composition"
+    },
+    "vegetable protein": {
+      "phe_mg_per_g_protein": 48.0,
+      "basis": "FDC-derived mean of seed vegetables (tomato 30.7, broccoli 41.5, cucumber 52.5, carrot 65.6)"
+    },
+    "fruit protein": {
+      "phe_mg_per_g_protein": 33.0,
+      "basis": "FDC-derived mean of seed fruits (apple 25.9, strawberry 28.4, banana 45.0)"
+    },
+    "tuber/root starch": {
+      "phe_mg_per_g_protein": 46.0,
+      "basis": "FDC-derived: potato flour 45.8"
+    },
+    "refined starch": {
+      "phe_mg_per_g_protein": 0.0,
+      "basis": "cornstarch/tapioca: protein negligible; contribution ~1 mg/serving, treated as 0"
+    },
+    "dairy protein": {
+      "phe_mg_per_g_protein": 48.0,
+      "basis": "typical AA composition (milk/casein/whey); refine via food list \u2014 no seed data yet"
+    },
+    "legume protein": {
+      "phe_mg_per_g_protein": 51.0,
+      "basis": "typical AA composition (soy/pea/bean); refine via food list \u2014 no seed data yet"
+    },
+    "egg protein": {
+      "phe_mg_per_g_protein": 55.0,
+      "basis": "typical AA composition (whole egg); refine via food list \u2014 no seed data yet"
+    },
+    "nut/seed protein": {
+      "phe_mg_per_g_protein": 48.0,
+      "basis": "typical AA composition; refine via food list \u2014 no seed data yet"
+    },
+    "gelatin/collagen": {
+      "phe_mg_per_g_protein": 24.0,
+      "basis": "typical AA composition; gelatin is low in aromatic amino acids \u2014 refine via food list"
+    },
+    "unknown protein": {
+      "phe_mg_per_g_protein": 47.0,
+      "basis": "conservative central default when class cannot be determined (~mid of observed range)"
+    }
+  }
+}
