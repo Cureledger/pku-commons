@@ -1,6 +1,6 @@
 # PKU Commons — open infrastructure for reliable dietary phenylalanine estimation
 
-*Claude Life Sciences Hackathon · built for the PKU community.*
+*Claude Life Sciences Hackathon · built by and for the PKU community.*
 
 **Website:** enable GitHub Pages from `/docs` → landing hub + audience routes for
 [developers](docs/devs.html), [clinicians & researchers](docs/clinicians.html), and
