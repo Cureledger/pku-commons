@@ -1,4 +1,4 @@
-# PKU Commons — open infrastructure for reliable phe estimation
+# PKU Commons — open infrastructure for reliable dietary phenylalanine estimation
 
 *Claude Life Sciences Hackathon · built for the PKU community.*
 
