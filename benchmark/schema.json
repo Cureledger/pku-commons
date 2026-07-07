@@ -1,0 +1,97 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PKU Commons phe-benchmark test case",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "label",
+    "expected_phe_mg",
+    "ground_truth"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "stable case id, e.g. c01"
+    },
+    "name": {
+      "type": "string"
+    },
+    "label": {
+      "type": "object",
+      "required": [
+        "serving_size_g",
+        "ingredients"
+      ],
+      "properties": {
+        "serving_size_g": {
+          "type": "number",
+          "description": "grams per serving"
+        },
+        "protein_g_per_serving": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "ingredients": {
+          "type": "string",
+          "description": "ingredient list text as a parser would see it"
+        }
+      }
+    },
+    "expected_phe_mg": {
+      "type": "number",
+      "description": "ground-truth phe for the serving, mg"
+    },
+    "ground_truth": {
+      "type": "object",
+      "required": [
+        "method",
+        "source",
+        "components"
+      ],
+      "properties": {
+        "method": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        },
+        "components": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "food",
+              "fdcId",
+              "grams",
+              "phe_mg_per_100g",
+              "phe_mg"
+            ],
+            "properties": {
+              "food": {
+                "type": "string"
+              },
+              "fdcId": {
+                "type": "integer"
+              },
+              "grams": {
+                "type": "number"
+              },
+              "phe_mg_per_100g": {
+                "type": "number"
+              },
+              "phe_mg": {
+                "type": "number"
+              }
+            }
+          }
+        }
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

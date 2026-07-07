@@ -1,0 +1,405 @@
+{
+  "estimator": "estimators.stub_estimator",
+  "testset": "testset/seed_v0.jsonl",
+  "run_utc": "2026-07-07T17:22:34.989996Z",
+  "metrics": {
+    "n": 18,
+    "n_scored": 18,
+    "n_crashed": 0,
+    "mae_mg": 6.61,
+    "medae_mg": 0.0,
+    "rmse_mg": 18.51,
+    "bias_mg": 6.56,
+    "within_band_pct": 88.9,
+    "tolerance_band": {
+      "abs_tol_mg": 15.0,
+      "rel_tol": 0.15
+    }
+  },
+  "per_case": [
+    {
+      "id": "c01",
+      "name": "Raw banana, 1 medium (118 g)",
+      "truth_mg": 57.8,
+      "estimate_mg": 57.8,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Banana",
+            49
+          ]
+        ],
+        "grams_each": 118.0
+      }
+    },
+    {
+      "id": "c02",
+      "name": "Raw apple, 1 medium w/o skin (180 g)",
+      "truth_mg": 12.6,
+      "estimate_mg": 12.6,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Apple",
+            7
+          ]
+        ],
+        "grams_each": 180.0
+      }
+    },
+    {
+      "id": "c03",
+      "name": "Baby carrots, 85 g serving",
+      "truth_mg": 51.9,
+      "estimate_mg": 51.9,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Carrots",
+            61
+          ]
+        ],
+        "grams_each": 85.0
+      }
+    },
+    {
+      "id": "c04",
+      "name": "Cucumber slices, 100 g",
+      "truth_mg": 31.0,
+      "estimate_mg": 31.0,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Cucumber (peeled)",
+            31
+          ]
+        ],
+        "grams_each": 100.0
+      }
+    },
+    {
+      "id": "c05",
+      "name": "Strawberries, 144 g (1 cup)",
+      "truth_mg": 27.4,
+      "estimate_mg": 27.4,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Strawberries",
+            19
+          ]
+        ],
+        "grams_each": 144.0
+      }
+    },
+    {
+      "id": "c06",
+      "name": "Broccoli florets, 91 g (1 cup)",
+      "truth_mg": 106.5,
+      "estimate_mg": 106.5,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Broccoli",
+            117
+          ]
+        ],
+        "grams_each": 91.0
+      }
+    },
+    {
+      "id": "c07",
+      "name": "Cornstarch, 8 g (1 tbsp)",
+      "truth_mg": 1.0,
+      "estimate_mg": 1.0,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Cornstarch",
+            13
+          ]
+        ],
+        "grams_each": 8.0
+      }
+    },
+    {
+      "id": "c08",
+      "name": "Tapioca pearls dry, 30 g",
+      "truth_mg": 1.2,
+      "estimate_mg": 1.2,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Tapioca (pearl",
+            4
+          ]
+        ],
+        "grams_each": 30.0
+      }
+    },
+    {
+      "id": "c09",
+      "name": "Diced tomato, 120 g",
+      "truth_mg": 32.4,
+      "estimate_mg": 32.4,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Tomato",
+            27
+          ]
+        ],
+        "grams_each": 120.0
+      }
+    },
+    {
+      "id": "c10",
+      "name": "Cooked white rice equiv, 45 g dry",
+      "truth_mg": 158.8,
+      "estimate_mg": 158.8,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Rice",
+            353
+          ]
+        ],
+        "grams_each": 45.0
+      }
+    },
+    {
+      "id": "c11",
+      "name": "Fruit salad cup (apple+banana+strawberry), 200 g",
+      "truth_mg": 46.4,
+      "estimate_mg": 50.0,
+      "signed_err_mg": 3.6,
+      "abs_err_mg": 3.6,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Apples",
+            7
+          ],
+          [
+            "bananas",
+            49
+          ],
+          [
+            "strawberries",
+            19
+          ]
+        ],
+        "grams_each": 66.7
+      }
+    },
+    {
+      "id": "c12",
+      "name": "Veggie sticks tray (carrot+cucumber), 150 g",
+      "truth_mg": 69.0,
+      "estimate_mg": 69.0,
+      "signed_err_mg": 0.0,
+      "abs_err_mg": 0.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Carrots",
+            61
+          ],
+          [
+            "cucumber",
+            31
+          ]
+        ],
+        "grams_each": 75.0
+      }
+    },
+    {
+      "id": "c13",
+      "name": "Low-pro thickened fruit sauce (apple + cornstarch), 160 g",
+      "truth_mg": 9.7,
+      "estimate_mg": 16.0,
+      "signed_err_mg": 6.3,
+      "abs_err_mg": 6.3,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Apples",
+            7
+          ],
+          [
+            "cornstarch",
+            13
+          ]
+        ],
+        "grams_each": 80.0
+      }
+    },
+    {
+      "id": "c14",
+      "name": "Tomato-broccoli medley, 180 g",
+      "truth_mg": 102.6,
+      "estimate_mg": 129.6,
+      "signed_err_mg": 27.0,
+      "abs_err_mg": 27.0,
+      "passed": false,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Tomatoes",
+            27
+          ],
+          [
+            "broccoli",
+            117
+          ]
+        ],
+        "grams_each": 90.0
+      }
+    },
+    {
+      "id": "c15",
+      "name": "Banana-strawberry smoothie base (no dairy), 250 g",
+      "truth_mg": 77.8,
+      "estimate_mg": 85.0,
+      "signed_err_mg": 7.2,
+      "abs_err_mg": 7.2,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Bananas",
+            49
+          ],
+          [
+            "strawberries",
+            19
+          ]
+        ],
+        "grams_each": 125.0
+      }
+    },
+    {
+      "id": "c16",
+      "name": "Rice + carrot bowl (small), 130 g",
+      "truth_mg": 196.1,
+      "estimate_mg": 269.1,
+      "signed_err_mg": 73.0,
+      "abs_err_mg": 73.0,
+      "passed": false,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Rice (white)",
+            353
+          ],
+          [
+            "carrots",
+            61
+          ]
+        ],
+        "grams_each": 65.0
+      }
+    },
+    {
+      "id": "c17",
+      "name": "Tapioca-fruit pudding (tapioca + strawberry), 170 g",
+      "truth_mg": 18.1,
+      "estimate_mg": 19.5,
+      "signed_err_mg": 1.4,
+      "abs_err_mg": 1.4,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Tapioca",
+            4
+          ],
+          [
+            "strawberries",
+            19
+          ]
+        ],
+        "grams_each": 85.0
+      }
+    },
+    {
+      "id": "c18",
+      "name": "Cucumber-tomato side salad, 200 g",
+      "truth_mg": 58.4,
+      "estimate_mg": 58.0,
+      "signed_err_mg": -0.4,
+      "abs_err_mg": 0.4,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "matched": [
+          [
+            "Cucumber",
+            31
+          ],
+          [
+            "tomatoes",
+            27
+          ]
+        ],
+        "grams_each": 100.0
+      }
+    }
+  ],
+  "regression": {
+    "regressed": false,
+    "notes": [
+      "no baseline provided"
+    ]
+  }
+}

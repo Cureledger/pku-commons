@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PKU Commons — open, reliable phenylalanine-estimation infrastructure</title>
+<meta name="description" content="An open commons for reliable phenylalanine-estimation tools: a peer-reviewed Claude Skill, a living low-protein food list, a scalable Bluetooth scale integration, and a public accuracy benchmark.">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap">
+    <a class="brand" href="index.html">PKU&nbsp;<span>Commons</span></a>
+    <div class="spacer"></div>
+    <a class="link" href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">Developers</a>
+    <a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
+    <a class="link" href="families.html">Families</a>
+    <a class="link" href="#benchmark">Benchmark</a>
+    <a class="link" href="#peer-review">Peer Review</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <span class="kicker">Claude Life Sciences Hackathon · Open PKU Infrastructure</span>
+    <h1>Reliable phe estimation should be&nbsp;infrastructure, not luck.</h1>
+    <p class="lede">PKU Commons is an open, peer-reviewed foundation for phenylalanine-estimation
+      apps — so families, clinicians, and researchers can trust the numbers, and no app
+      dies just because one developer moves on.</p>
+    <div class="btn-row">
+      <a class="btn btn-primary" href="#benchmark">See how accuracy is measured</a>
+    </div>
+  </div>
+</header>
+
+<!-- ROUTER -->
+<section id="routes">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Choose your path</h2>
+      <p class="muted">The same infrastructure serves three communities. Pick the door that fits you.</p>
+    </div>
+    <div class="routes">
+      <a class="route devs" href="devs.html">
+        <div class="tag">Developers</div>
+        <h3>Build &amp; harden the tools</h3>
+        <p>Contribute to the Claude phe-estimator Skill, the food list, and the scale
+           integration. Get scored on the public benchmark. Ship apps that stay live.</p>
+        <div class="go">Read the repos &rarr;</div>
+      </a>
+      <a class="route clin" href="clinicians.html">
+        <div class="tag">Clinicians &amp; Researchers</div>
+        <h3>Judge the accuracy</h3>
+        <p>See exactly how phe estimates are computed and validated, test Phebe on real
+           labels, and tell us what a clinically-useful tool must get right.</p>
+        <div class="go">Review the method &rarr;</div>
+      </a>
+      <a class="route fam" href="families.html">
+        <div class="tag">Families &amp; Patients</div>
+        <h3>Make daily counting lighter</h3>
+        <p>Understand what these tools do, how we check they're reliable, and how your
+           feedback shapes the diet-for-life tools your family relies on.</p>
+        <div class="go">Start here &rarr;</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT / WHY -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>The problem we're solving</h2>
+    </div>
+    <div class="grid2">
+      <div>
+        <p>PKU (phenylketonuria) is an inborn error of metabolism: the body can't break down
+          <b>phenylalanine (phe)</b>, an amino acid in all protein. Left unmanaged, phe builds up
+          and is neurotoxic. The treatment is <b>"diet for life"</b> — a very-low-protein diet that
+          demands daily, gram-level precision.</p>
+        <p>Families can't use ordinary nutrition labels: protein grams are too coarse, and different
+          protein sources carry different amounts of phe. So parents run an intuitive algorithm —
+          deterministic math plus recipe-science judgment — to turn a label into a phe estimate,
+          then weigh and log every bite.</p>
+      </div>
+      <div>
+        <p>A new wave of AI phe-estimator apps is taking the labor out of that grind. That's genuinely
+          good news. But there is <b>no standard</b> by which a family can tell if an app is accurate,
+          or by which a clinician can trust its output — and prototype results vary widely.</p>
+        <p>PKU apps also tend to go unmaintained. When a solo developer stops, the app rots and families
+          lose a tool they'd built their routine around.</p>
+        <div class="callout teal">
+          <b>PKU Commons is the shared spine:</b> open method, open data, and a public accuracy
+          benchmark — so quality is guaranteed by the <em>eval</em>, not by any one author.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- THREE FEATURES -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Three open building blocks</h2>
+      <p class="muted">Each is independently reviewable and independently reusable.</p>
+    </div>
+    <div class="grid3">
+      <div class="card">
+        <span class="pill">Claude Skill</span>
+        <h3>Phe-estimator Skill</h3>
+        <p class="muted">Encodes the "think like a PKU parent" method: is this food countable
+          (&lt;2&nbsp;g protein/serving)? Which ingredients carry phe? What's the recipe factor?
+          Multiply by portion. Log it.</p>
+      </div>
+      <div class="card">
+        <span class="pill">Knowledge</span>
+        <h3>Living food list</h3>
+        <p class="muted">A maintained low-protein foods reference — forked in part from Open Food
+          Facts — that acts as a knowledge graph to raise reliability in the very-low-protein staple range.</p>
+      </div>
+      <div class="card">
+        <span class="pill">Hardware</span>
+        <h3>Bluetooth scale integration</h3>
+        <p class="muted">Reverse-engineered gram-scale support so weighing flows straight into logging.
+          Goal: connect the scale you already own instead of buying a new one.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BENCHMARK TEASER -->
+<section class="alt" id="benchmark">
+  <div class="wrap">
+    <div class="grid2">
+      <div>
+        <h2>The accuracy standard</h2>
+        <p>The heart of PKU Commons is a <b>public, reproducible benchmark</b>. Every test case pairs a
+          food label with a phe value computed from documented sources (USDA FoodData Central /
+          Open Food Facts) — so anyone can re-derive the "true" answer.</p>
+        <p>Any estimator — our Skill, or any app implementing the interface — is scored the same way:
+          error per case, mean absolute error, and percentage of estimates within a clinically-relevant
+          tolerance band.</p>
+      </div>
+      <div>
+        <div class="callout">
+          <p style="margin-top:0"><b>One benchmark, three jobs:</b></p>
+          <ul style="margin:0">
+            <li><b>Families &amp; clinicians</b> get the standard for judging an app's accuracy.</li>
+            <li><b>Contributions</b> are merged only when they improve the score without regressing —
+              so apps stay trustworthy even after a developer leaves.</li>
+            <li><b>The community</b> gets a leaderboard of performance over time (KPI&nbsp;#1).</li>
+          </ul>
+        </div>
+        <a class="btn btn-primary" href="devs.html#benchmark">How the benchmark works &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PEER-REVIEW MODEL -->
+<section id="peer-review">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>How we keep it trustworthy: a two-layer review model</h2>
+      <p class="muted">PKU Commons answers to two traditions at once. Clinicians and researchers ask
+        <em>"is this defensible?"</em>; engineers and families ask <em>"does it measurably work?"</em>
+        Those map onto two review methods — and we use both, on different parts of the system.</p>
+    </div>
+    <div class="grid2">
+      <div class="card">
+        <span class="pill">Layer 1 · Method &amp; data</span>
+        <h3>Legal-style review — citation to authority</h3>
+        <p class="muted">Every estimation rule and every food-list row carries a <b>citation to authority</b>
+          (a USDA FoodData Central id, an Open Food Facts code, or a named clinician / dietitian sign-off),
+          a <b>version</b>, and a <b>reviewer of record</b>. Challenges are filed as issues; resolutions
+          become part of a permanent audit trail. The record shows not just <em>what</em> is in the
+          knowledge base, but <em>why</em>, <em>on whose authority</em>, and <em>who can be asked</em>.</p>
+      </div>
+      <div class="card">
+        <span class="pill">Layer 2 · Estimator outputs</span>
+        <h3>Scientific-style review — measured, not asserted</h3>
+        <p class="muted">Accuracy claims are settled by <b>measurement against the public benchmark</b>,
+          not by argument. Ground truth is reproducible from documented sources; every estimator is scored
+          the same way; contributions merge only when they improve the score <b>without regressing</b>,
+          enforced in CI. The benchmark above is this layer in action.</p>
+      </div>
+    </div>
+    <div class="callout teal" style="margin-top:22px">
+      <b>Why this makes tools last:</b> quality is guaranteed by the <em>review model</em>, not by any one
+      author. Knowledge stands on cited authority; performance stands on a reproducible benchmark — so a tool
+      can change hands, or lose its original developer entirely, and families still know it meets the bar.
+    </div>
+    <p style="margin-top:18px">
+      <a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/docs/PEER-REVIEW.md" target="_blank" rel="noopener">Read the full model on GitHub &rarr;</a>
+    </p>
+  </div>
+</section>
+
+<!-- PAIN POINTS / SUGGESTED HACKS -->
+<section class="alt" id="hacks">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Devs: we challenge you to solve these</h2>
+      <p class="muted">
+        NPKUA's <a href="https://www.npkua.org/truepku/" target="_blank" rel="noopener">TruPKU / Voice of the Patient</a>
+        report catalogs the friction of living with PKU beyond the clinic and the lab. Each pain point below is
+        a <b>suggested hack</b> for the PKU Commons community — a concrete place to point AI and devops at
+        real patient burden. <span class="note">Themes summarized from the public report; see
+        <a href="https://github.com/Cureledger/pku-commons/blob/main/docs/pain-points.md" target="_blank" rel="noopener">pain-points.md</a> for the source of record.</span>
+      </p>
+    </div>
+
+    <div class="grid2">
+      <div class="hack">
+        <h4>1 · The daily counting grind</h4>
+        <p class="pain">Every food is weighed, calculated, and logged by hand — an exhausting, never-ending
+          accounting chore that families eventually abandon, and the clinic loses the data.</p>
+        <p class="fix"><b>Hack &rarr;</b> Cut estimation-to-log to one tap: label parse + scale weight +
+          auto-log, benchmark-verified so families trust the shortcut.</p>
+      </div>
+      <div class="hack">
+        <h4>2 · Slow blood-phe feedback</h4>
+        <p class="pain">Blood phe results come back 5–14 days later by mail. There is no timely link between
+          what a patient ate, how they feel, and their measured level.</p>
+        <p class="fix"><b>Hack &rarr;</b> Build the food ↔ symptom ↔ level data nexus: structured logs that are
+          ready to correlate the moment faster home testing arrives.</p>
+      </div>
+      <div class="hack">
+        <h4>3 · Labels don't speak PKU</h4>
+        <p class="pain">USDA protein grams are too coarse; phe-per-gram varies by protein source. Families
+          reverse-engineer every label by hand.</p>
+        <p class="fix"><b>Hack &rarr;</b> Improve the ingredient→phe classifier and grow the living food list so
+          the very-low-protein staples are covered and cited.</p>
+      </div>
+      <div class="hack">
+        <h4>4 · Tools that fade away</h4>
+        <p class="pain">Apps built by one parent or one small shop go unmaintained and disappear, stranding
+          the families who came to rely on them.</p>
+        <p class="fix"><b>Hack &rarr;</b> Ship on shared, benchmark-gated infrastructure so an app keeps working
+          — and keeps being trustworthy — after its author steps away.</p>
+      </div>
+      <div class="hack">
+        <h4>5 · Real-world conditions break tools</h4>
+        <p class="pain">Estimation happens in a grocery aisle on weak store Wi-Fi, one-handed, under time
+          pressure — not in a lab.</p>
+        <p class="fix"><b>Hack &rarr;</b> Design for the aisle: offline-tolerant, low-bandwidth, deterministic
+          behavior with graceful degradation when the network is poor.</p>
+      </div>
+      <div class="hack">
+        <h4>6 · New drugs raise the stakes</h4>
+        <p class="pain">Powerful new PKU therapies can over-correct into hypophenylalaninemia, which needs a
+          fast dietary response — but the dietary data loop is slow.</p>
+        <p class="fix"><b>Hack &rarr;</b> Make dietary phe data fast and shareable enough to support quick,
+          safe adjustments alongside modern treatment.</p>
+      </div>
+    </div>
+
+    <div class="callout" style="margin-top:26px">
+      Solved one of these, or found a seventh? <a href="devs.html">Open a PR</a> or
+      <a href="clinicians.html#feedback">tell us what you think</a>. Every accepted improvement is
+      measured on the benchmark and credited on the leaderboard.
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="brand" style="color:#fff">PKU&nbsp;<span style="color:#8fd4d4">Commons</span></div>
+      <p class="muted" style="color:#9fb3b3; max-width:38ch">Open infrastructure for reliable phe estimation.
+        Built by and for the PKU community.</p>
+    </div>
+    <div>
+      <p><a href="devs.html">Developers</a> · <a href="clinicians.html">Clinicians &amp; Researchers</a> · <a href="families.html">Families</a></p>
+      <p><a href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">GitHub repo</a></p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

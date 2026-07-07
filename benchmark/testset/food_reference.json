@@ -1,0 +1,87 @@
+{
+  "generated_utc": "2026-07-07T17:11:42.738886Z",
+  "source": "USDA FoodData Central (SR Legacy), nutrient 508 Phenylalanine, nutrient 203 Protein",
+  "units": {
+    "phe_mg_per_100g": "mg per 100 g edible portion",
+    "protein_g_per_100g": "g per 100 g"
+  },
+  "foods": {
+    "cornstarch": {
+      "fdcId": 169698,
+      "description": "Cornstarch",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 0.26,
+      "phe_mg_per_100g": 13.0
+    },
+    "tapioca pearl dry": {
+      "fdcId": 169717,
+      "description": "Tapioca, pearl, dry",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 0.19,
+      "phe_mg_per_100g": 4.0
+    },
+    "potato flour": {
+      "fdcId": 168446,
+      "description": "Potato flour",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 6.9,
+      "phe_mg_per_100g": 316.0
+    },
+    "rice white raw": {
+      "fdcId": 168879,
+      "description": "Rice, white, medium-grain, raw, enriched",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 6.61,
+      "phe_mg_per_100g": 353.0
+    },
+    "apple raw with skin": {
+      "fdcId": 171689,
+      "description": "Apples, raw, without skin",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 0.27,
+      "phe_mg_per_100g": 7.0
+    },
+    "banana raw": {
+      "fdcId": 173944,
+      "description": "Bananas, raw",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 1.09,
+      "phe_mg_per_100g": 49.0
+    },
+    "carrots raw": {
+      "fdcId": 170393,
+      "description": "Carrots, raw",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 0.93,
+      "phe_mg_per_100g": 61.0
+    },
+    "cucumber with peel raw": {
+      "fdcId": 169225,
+      "description": "Cucumber, peeled, raw",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 0.59,
+      "phe_mg_per_100g": 31.0
+    },
+    "broccoli raw": {
+      "fdcId": 170379,
+      "description": "Broccoli, raw",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 2.82,
+      "phe_mg_per_100g": 117.0
+    },
+    "strawberries raw": {
+      "fdcId": 167762,
+      "description": "Strawberries, raw",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 0.67,
+      "phe_mg_per_100g": 19.0
+    },
+    "tomatoes red ripe raw": {
+      "fdcId": 170457,
+      "description": "Tomatoes, red, ripe, raw, year round average",
+      "dataType": "SR Legacy",
+      "protein_g_per_100g": 0.88,
+      "phe_mg_per_100g": 27.0
+    }
+  }
+}
