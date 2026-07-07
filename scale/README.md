@@ -21,3 +21,10 @@ buying a new one.
 
 Driver work and the "add your scale" tutorial are tracked in the repo
 [`TODO.md`](../TODO.md). Contributions of new scale drivers are welcome.
+
+## Relationship to the benchmark
+
+Accurate gram weights are the input to every phe estimate: `phe = phe-per-gram × grams`.
+The weighing captured here feeds the portion term the phe-estimation
+[`benchmark/`](../benchmark/) scores — a mis-weighed portion is an estimation error no
+matter how good the label parser is.
