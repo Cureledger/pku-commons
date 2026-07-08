@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "title": "PKU Commons living low-protein food list",
+    "schema": "foods.schema.json",
+    "units": {
+      "phe_mg_per_100g": "mg per 100 g edible portion",
+      "protein_g_per_100g": "g per 100 g"
+    },
+    "review_model": "docs/PEER-REVIEW.md \u2014 Layer 1 (legal-style): every row carries citation + version + reviewer of record",
+    "version": "v0",
+    "generated_utc": "2026-07-08T11:48:34.157987Z",
+    "row_count": 11
+  },
+  "foods": [
+    {
+      "key": "cornstarch",
+      "description": "Cornstarch",
+      "phe_mg_per_100g": 13.0,
+      "protein_g_per_100g": 0.26,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 169698,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "tapioca pearl dry",
+      "description": "Tapioca, pearl, dry",
+      "phe_mg_per_100g": 4.0,
+      "protein_g_per_100g": 0.19,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 169717,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "potato flour",
+      "description": "Potato flour",
+      "phe_mg_per_100g": 316.0,
+      "protein_g_per_100g": 6.9,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 168446,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "rice white raw",
+      "description": "Rice, white, medium-grain, raw, enriched",
+      "phe_mg_per_100g": 353.0,
+      "protein_g_per_100g": 6.61,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 168879,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "apple raw with skin",
+      "description": "Apples, raw, without skin",
+      "phe_mg_per_100g": 7.0,
+      "protein_g_per_100g": 0.27,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 171689,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "banana raw",
+      "description": "Bananas, raw",
+      "phe_mg_per_100g": 49.0,
+      "protein_g_per_100g": 1.09,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 173944,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "carrots raw",
+      "description": "Carrots, raw",
+      "phe_mg_per_100g": 61.0,
+      "protein_g_per_100g": 0.93,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 170393,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "cucumber with peel raw",
+      "description": "Cucumber, peeled, raw",
+      "phe_mg_per_100g": 31.0,
+      "protein_g_per_100g": 0.59,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 169225,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "broccoli raw",
+      "description": "Broccoli, raw",
+      "phe_mg_per_100g": 117.0,
+      "protein_g_per_100g": 2.82,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 170379,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "strawberries raw",
+      "description": "Strawberries, raw",
+      "phe_mg_per_100g": 19.0,
+      "protein_g_per_100g": 0.67,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 167762,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    },
+    {
+      "key": "tomatoes red ripe raw",
+      "description": "Tomatoes, red, ripe, raw, year round average",
+      "phe_mg_per_100g": 27.0,
+      "protein_g_per_100g": 0.88,
+      "citation": {
+        "authority": "USDA_FDC",
+        "fdcId": 170457,
+        "dataType": "SR Legacy",
+        "nutrient_basis": "nutrient 508 Phenylalanine / 203 Protein"
+      },
+      "version": "v0",
+      "reviewer_of_record": "seed import (Nina, maintainer)",
+      "accepted_utc": "2026-07-07T17:11:42Z",
+      "notes": ""
+    }
+  ]
+}

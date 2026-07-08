@@ -1,0 +1,209 @@
+{
+  "generated_utc": "2026-07-08T11:45:11.424554Z",
+  "model_id": "claude-opus-4-8",
+  "testset": "seed_v0 (18 cases)",
+  "live_skill_runs": {
+    "n_runs": 3,
+    "mae_mg": [
+      33.73,
+      24.3,
+      34.64
+    ],
+    "within_band_pct": [
+      33.3,
+      44.4,
+      44.4
+    ],
+    "mae_range_mg": [
+      24.3,
+      34.64
+    ]
+  },
+  "deterministic_rubric": {
+    "mae_mg": 12.76,
+    "within_band_pct": 83.3
+  },
+  "phe_protein_ratio_spread_mg_per_g": {
+    "lo": 21.1,
+    "hi": 65.7,
+    "fold": 3.1
+  },
+  "label_ceiling": {
+    "single_ingredient_cases": 9,
+    "cases_band_exceeds_tolerance": 9
+  },
+  "per_case": [
+    {
+      "id": "c01",
+      "name": "Raw banana, 1 medium (118 g)",
+      "rubric_ae_mg": 15.2,
+      "skill_ae_mean_mg": 14.0,
+      "skill_ae_min_mg": 10.0,
+      "skill_ae_max_mg": 22.1,
+      "gap": "G1 conversion"
+    },
+    {
+      "id": "c02",
+      "name": "Raw apple, 1 medium w/o skin (180 g)",
+      "rubric_ae_mg": 3.6,
+      "skill_ae_mean_mg": 12.7,
+      "skill_ae_min_mg": 11.9,
+      "skill_ae_max_mg": 14.4,
+      "gap": "G2 label rounding"
+    },
+    {
+      "id": "c03",
+      "name": "Baby carrots, 85 g serving",
+      "rubric_ae_mg": 14.0,
+      "skill_ae_mean_mg": 21.2,
+      "skill_ae_min_mg": 12.4,
+      "skill_ae_max_mg": 38.9,
+      "gap": "G2 label rounding"
+    },
+    {
+      "id": "c04",
+      "name": "Cucumber slices, 100 g",
+      "rubric_ae_mg": 2.7,
+      "skill_ae_mean_mg": 15.0,
+      "skill_ae_min_mg": 12.8,
+      "skill_ae_max_mg": 19.2,
+      "gap": "G2 label rounding"
+    },
+    {
+      "id": "c05",
+      "name": "Strawberries, 144 g (1 cup)",
+      "rubric_ae_mg": 4.3,
+      "skill_ae_mean_mg": 14.5,
+      "skill_ae_min_mg": 2.4,
+      "skill_ae_max_mg": 20.6,
+      "gap": "G2 label rounding"
+    },
+    {
+      "id": "c06",
+      "name": "Broccoli florets, 91 g (1 cup)",
+      "rubric_ae_mg": 16.9,
+      "skill_ae_mean_mg": 30.8,
+      "skill_ae_min_mg": 24.3,
+      "skill_ae_max_mg": 35.6,
+      "gap": "G1 conversion"
+    },
+    {
+      "id": "c07",
+      "name": "Cornstarch, 8 g (1 tbsp)",
+      "rubric_ae_mg": 0.0,
+      "skill_ae_mean_mg": 0.6,
+      "skill_ae_min_mg": 0.4,
+      "skill_ae_max_mg": 0.9,
+      "gap": "G2 label rounding"
+    },
+    {
+      "id": "c08",
+      "name": "Tapioca pearls dry, 30 g",
+      "rubric_ae_mg": 1.5,
+      "skill_ae_mean_mg": 0.9,
+      "skill_ae_min_mg": 0.9,
+      "skill_ae_max_mg": 0.9,
+      "gap": "G2 label rounding"
+    },
+    {
+      "id": "c09",
+      "name": "Diced tomato, 120 g",
+      "rubric_ae_mg": 2.6,
+      "skill_ae_mean_mg": 20.6,
+      "skill_ae_min_mg": 20.6,
+      "skill_ae_max_mg": 20.6,
+      "gap": "G1 conversion"
+    },
+    {
+      "id": "c10",
+      "name": "Cooked white rice equiv, 45 g dry",
+      "rubric_ae_mg": 9.3,
+      "skill_ae_mean_mg": 10.3,
+      "skill_ae_min_mg": 10.3,
+      "skill_ae_max_mg": 10.3,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c11",
+      "name": "Fruit salad cup (apple+banana+strawberry), 200 g",
+      "rubric_ae_mg": 5.1,
+      "skill_ae_mean_mg": 173.6,
+      "skill_ae_min_mg": 173.6,
+      "skill_ae_max_mg": 173.6,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c12",
+      "name": "Veggie sticks tray (carrot+cucumber), 150 g",
+      "rubric_ae_mg": 7.5,
+      "skill_ae_mean_mg": 22.5,
+      "skill_ae_min_mg": 19.5,
+      "skill_ae_max_mg": 24.0,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c13",
+      "name": "Low-pro thickened fruit sauce (apple + cornstarch), 160 g",
+      "rubric_ae_mg": 0.7,
+      "skill_ae_mean_mg": 18.3,
+      "skill_ae_min_mg": 6.3,
+      "skill_ae_max_mg": 26.3,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c14",
+      "name": "Tomato-broccoli medley, 180 g",
+      "rubric_ae_mg": 0.0,
+      "skill_ae_mean_mg": 34.2,
+      "skill_ae_min_mg": 5.4,
+      "skill_ae_max_mg": 48.6,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c15",
+      "name": "Banana-strawberry smoothie base (no dairy), 250 g",
+      "rubric_ae_mg": 2.0,
+      "skill_ae_mean_mg": 22.0,
+      "skill_ae_min_mg": 20.3,
+      "skill_ae_max_mg": 25.3,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c16",
+      "name": "Rice + carrot bowl (small), 130 g",
+      "rubric_ae_mg": 136.3,
+      "skill_ae_mean_mg": 139.8,
+      "skill_ae_min_mg": 131.1,
+      "skill_ae_max_mg": 157.1,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c17",
+      "name": "Tapioca-fruit pudding (tapioca + strawberry), 170 g",
+      "rubric_ae_mg": 7.1,
+      "skill_ae_mean_mg": 27.2,
+      "skill_ae_min_mg": 15.9,
+      "skill_ae_max_mg": 32.9,
+      "gap": "G3 recipe-factor / food-list"
+    },
+    {
+      "id": "c18",
+      "name": "Cucumber-tomato side salad, 200 g",
+      "rubric_ae_mg": 0.9,
+      "skill_ae_mean_mg": 27.5,
+      "skill_ae_min_mg": 9.6,
+      "skill_ae_max_mg": 36.4,
+      "gap": "G3 recipe-factor / food-list"
+    }
+  ],
+  "gap_mean_live_skill_ae_mg": {
+    "G2 label rounding": 10.8,
+    "G1 conversion": 21.8,
+    "G3 recipe-factor / food-list": 52.8
+  },
+  "gap_owning_component": {
+    "G1 conversion": "phe-per-g-protein class table",
+    "G2 label rounding": "food-list external lookup",
+    "G3 recipe-factor / food-list": "estimator heuristic + food list"
+  }
+}

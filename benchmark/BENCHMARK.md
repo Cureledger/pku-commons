@@ -147,4 +147,4 @@ integration point between the Skill and this benchmark.
 - [x] Claude Skill adapter (`estimators/claude_skill.py`) — wired; deterministic rubric_estimator added as the reproducible reference
 - [ ] Expand test set: branded/packaged labels (Open Food Facts codes), more composites
 - [ ] Clinician-defined tolerance bands per phe range
-- [ ] GitHub Actions workflow that posts benchmark deltas on every PR
+- [x] GitHub Actions workflow that posts benchmark deltas on every PR (`.github/workflows/benchmark.yml`)

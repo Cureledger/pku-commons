@@ -25,12 +25,51 @@
     <h1>Build tools that families can trust — and that outlive you.</h1>
     <p class="lede">Contribute to open PKU infrastructure handled like any other open-source project:
       issues, PRs, and a public benchmark that gates quality automatically.</p>
+    <p class="lede"><strong>The one problem we most need help with:</strong> for a mixed food — a
+      fruit salad, a rice-and-carrot bowl — an estimator has to guess how much of each ingredient is
+      in it before it can compute anything. That single guess is our largest source of error, and
+      no one has a method that reliably beats a rough guess from the label alone. That is the open
+      problem we bring to the developer community.</p>
+    <p class="lede muted">It's one of <strong>four measured reliability gaps</strong>; the other three
+      already have a known path forward. <a href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" target="_blank" rel="noopener">Read the reliability map &rarr;</a></p>
     <div class="btn-row">
-      <a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">Read the repo &rarr;</a>
-      <a class="btn btn-ghost" href="#benchmark">Run the benchmark</a>
+      <a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">View the project on GitHub &rarr;</a>
+      <a class="btn btn-ghost" href="#benchmark">How quality is measured</a>
     </div>
   </div>
 </header>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>What developers are actually working on</h2>
+      <p class="muted">We broke "the app feels unreliable" into four specific, measurable gaps. Three
+        have a known path forward. One is the real open problem.</p>
+    </div>
+    <div class="grid2">
+      <div class="callout teal">
+        <p style="margin-top:0"><b>🎯 The open problem — Gap 3: the recipe factor.</b> For a mixed
+          food, how much of each ingredient is in it? That guess drives most of the error, and no
+          known method beats a rough estimate from the label. This is the one we're asking the
+          community to crack — and because the same problem (estimating hidden proportions from an
+          incomplete description) shows up far beyond PKU, a solution here is reusable everywhere.</p>
+      </div>
+      <div>
+        <p style="margin-top:0"><b>The three with a known path:</b></p>
+        <ul class="steps" style="list-style:none; padding-left:0">
+          <li><b>Gap 1 — converting protein to phe.</b> The ratio varies by food; the fix is a
+            better cited reference table.</li>
+          <li><b>Gap 2 — labels round protein.</b> In the very-low-protein range PKU lives in, that
+            rounding hides a lot; the fix is looking the food up in the cited food list instead of
+            trusting the label.</li>
+          <li><b>Gap 4 — the AI answering differently each time.</b> The fix is tightening how the
+            method is applied so the same food gives the same number.</li>
+        </ul>
+      </div>
+    </div>
+    <p style="margin-top:18px"><a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" target="_blank" rel="noopener">See the full reliability map, with the numbers &rarr;</a></p>
+  </div>
+</section>
 
 <section>
   <div class="wrap">

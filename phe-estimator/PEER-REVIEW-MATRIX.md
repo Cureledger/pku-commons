@@ -17,11 +17,13 @@ applied to the estimator; the benchmark is Layer 2 (measured). This document con
 | Estimator | MAE (mg) | Within band | What it is |
 |---|---:|---:|---|
 | Deterministic rubric (`rubric_estimator`) | 12.76 | 83.3% | The rubric encoded in Python — the reproducible reference |
-| **Claude Skill (`claude_skill`, live LLM)** | **23.57** | **50.0%** | The Skill following that rubric via the model |
+| **Claude Skill (`claude_skill`, live LLM)** | **24.3 / 33.7 / 34.6** | **33–44%** | The Skill following that rubric via the model (`claude-opus-4-8`), three identical runs |
 
 The gap between the two is the review-and-optimization target: it is how much precision the
-live model loses by applying the pinned rubric loosely. **The matrix below is how we close it
-without adding confidence/band chatter.**
+live model loses by applying the pinned rubric loosely. That the live Skill spans **24.3–34.6 mg
+across three identical runs** is itself reliability gap #4 (execution variance) — see
+[`docs/RELIABILITY.md`](../docs/RELIABILITY.md). **The matrix below is how we close both the gap
+and the variance without adding confidence/band chatter.**
 
 ---
 
@@ -59,7 +61,7 @@ Can the Skill be made to **follow the rubric precisely and repeatably**?
 | # | Question | Evidence to review | Sign-off |
 |---|---|---|---|
 | R1 | **Determinism.** On this run one composite (**c11**) was *refused* while its siblings estimated — same rubric, different behavior. Reduce run-to-run variance. | `results/claude_skill_v0.json` (c11 error) | ☐ |
-| R2 | **Rubric fidelity.** The Skill's 23.57 vs the rubric's 12.76 means the model deviates from the steps. Tighten the prompt so it applies step 4 as written — **without** adding hedging language. | both result JSONs; `SKILL.md` | ☐ |
+| R2 | **Rubric fidelity + reproducibility.** The Skill's ~24–35 mg (across runs) vs the rubric's 12.76 means the model deviates from the steps, and the run-to-run spread means it deviates *differently each time*. Tighten the prompt so it applies step 4 as written and reproducibly — **without** adding hedging language. | both result JSONs; `SKILL.md` | ☐ |
 | R3 | **The c16 failure** (rice+carrot bowl: rubric 332, Skill 39, truth 196) is the recipe-factor weight-share problem. Improve share estimation; this is where scale + food-list data plug in. | case c16 | ☐ |
 | R4 | **Regression safety.** Confirm every change is gated: `run_benchmark.py --baseline results/baseline_v0.json` must fail the merge if MAE rises. | `run_benchmark.py`; CI | ☐ |
 | R5 | **No answer-key leakage.** Confirm the adapter never reads `expected_phe_mg` / `ground_truth`. | `estimators/claude_skill.py`; `base.py` `label_view` | ☐ |

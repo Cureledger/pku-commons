@@ -1,0 +1,62 @@
+name: benchmark
+
+# The scientific-review merge gate (docs/PEER-REVIEW.md, Layer 2): every PR that touches an
+# estimator, the harness, the test set, or the food list is re-scored against the current
+# baseline. A regression (MAE up or within-band % down beyond tolerance) fails the check.
+# It also runs the food-list Layer-1 validation (every row must be cited).
+
+on:
+  pull_request:
+    paths:
+      - "benchmark/**"
+      - "phe-estimator/**"
+      - "food-list/**"
+      - ".github/workflows/benchmark.yml"
+  push:
+    branches: [main]
+    paths:
+      - "benchmark/**"
+      - "phe-estimator/**"
+      - "food-list/**"
+  workflow_dispatch:
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # No third-party dependencies — the harness and loader are standard-library only.
+
+      - name: Food-list Layer-1 validation (every row must be cited)
+        run: python food-list/foodlist.py
+
+      - name: Score deterministic rubric against baseline (regression gate)
+        working-directory: benchmark
+        run: |
+          python run_benchmark.py \
+            --estimator estimators.rubric_estimator \
+            --baseline results/baseline_v0.json \
+            --out results/_ci_rubric.json \
+            --report results/_ci_report.md
+
+      - name: Score reference stub (must not crash)
+        working-directory: benchmark
+        run: python run_benchmark.py --estimator estimators.stub_estimator
+
+      - name: Post benchmark report to the job summary
+        if: always()
+        working-directory: benchmark
+        run: |
+          echo "## Benchmark report" >> "$GITHUB_STEP_SUMMARY"
+          cat results/_ci_report.md >> "$GITHUB_STEP_SUMMARY" || true
+
+      # To gate YOUR estimator, add a step here:
+      #   python run_benchmark.py --estimator estimators.your_module \
+      #       --baseline results/baseline_v0.json
+      # CI fails (exit 1) if it regresses. See CONTRIBUTING.md.

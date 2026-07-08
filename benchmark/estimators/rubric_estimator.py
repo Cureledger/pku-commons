@@ -9,7 +9,7 @@ It intentionally makes the recipe-factor judgment by a documented, deterministic
 
     python run_benchmark.py --estimator estimators.rubric_estimator
 """
-import json, os, re
+import json, os, re, sys
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _TABLE_PATH = os.path.normpath(os.path.join(_HERE, "..", "..", "phe-estimator", "phe_per_g_protein.json"))
@@ -20,27 +20,20 @@ PHE_PER_G = {k: v["phe_mg_per_g_protein"] for k, v in _T["classes"].items()}
 
 # Whole-food phe-per-100g reference (the "food list" / knowledge-graph path). Used when a
 # recipe has an ingredients list but NO declared protein panel (e.g. a fruit salad).
-_REF_PATH = os.path.normpath(os.path.join(_HERE, "..", "testset", "food_reference.json"))
-with open(_REF_PATH) as fh:
-    _REF = json.load(fh).get("foods", {})
+# Single source of truth: the shared food-list loader (food-list/foodlist.py), which reads
+# the cited, versioned food-list/foods.json. Same stem-match logic as before, so this refactor
+# is numerically identical to the previous ad-hoc read of testset/food_reference.json.
+_FOODLIST_DIR = os.path.normpath(os.path.join(_HERE, "..", "..", "food-list"))
+if _FOODLIST_DIR not in sys.path:
+    sys.path.insert(0, _FOODLIST_DIR)
+import foodlist as _foodlist
 
-# Map reference food keys to simple stems we can match against ingredient names.
-_FOOD_PHE_100G = {}
-for _k, _v in _REF.items():
-    _phe = _v.get("phe_mg_per_100g")
-    if _phe is None:
-        continue
-    _stem = re.split(r"[ _]", _k)[0].lower().rstrip("s")  # "banana", "carrot", "strawberrie"->"strawberrie"
-    _FOOD_PHE_100G.setdefault(_stem, _phe)
+_FOOD_LIST = _foodlist.load()
 
 
 def lookup_food_phe_100g(name: str):
     """phe mg per 100 g of a whole food, by name stem; None if not in the food list."""
-    n = name.lower()
-    for stem, phe in _FOOD_PHE_100G.items():
-        if stem and stem[:6] in n:
-            return phe
-    return None
+    return _FOOD_LIST.phe_100g(name)
 
 # Ingredient-name -> protein source class. Order matters (first match wins).
 # Patterns use a leading \b but NO trailing boundary, so stems match their plurals

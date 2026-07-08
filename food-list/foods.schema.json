@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PKU Commons living food-list row",
+  "description": "One food-list entry. Every row is a Layer-1 (legal-style review) artifact: it MUST carry a citation to authority, a version, and a reviewer of record. See docs/PEER-REVIEW.md.",
+  "type": "object",
+  "required": ["key", "description", "phe_mg_per_100g", "citation", "version", "reviewer_of_record"],
+  "properties": {
+    "key": {
+      "type": "string",
+      "description": "stable lowercase lookup key, e.g. 'banana raw'"
+    },
+    "description": {
+      "type": "string",
+      "description": "human-readable food name (verbatim from the cited source where possible)"
+    },
+    "phe_mg_per_100g": {
+      "type": "number",
+      "description": "phenylalanine, mg per 100 g edible portion"
+    },
+    "protein_g_per_100g": {
+      "type": ["number", "null"],
+      "description": "protein, g per 100 g (for phe:protein ratio derivation)"
+    },
+    "citation": {
+      "type": "object",
+      "description": "Layer-1 requirement: authority this row answers to. Exactly one authority kind.",
+      "required": ["authority"],
+      "properties": {
+        "authority": {
+          "type": "string",
+          "enum": ["USDA_FDC", "OpenFoodFacts", "clinician_signoff"],
+          "description": "which citable authority backs this row"
+        },
+        "fdcId": {"type": "integer", "description": "USDA FoodData Central id (when authority=USDA_FDC)"},
+        "dataType": {"type": "string", "description": "FDC data type, e.g. 'SR Legacy'"},
+        "off_code": {"type": "string", "description": "Open Food Facts product barcode (when authority=OpenFoodFacts)"},
+        "signoff_by": {"type": "string", "description": "named clinician / RD (when authority=clinician_signoff)"},
+        "nutrient_basis": {"type": "string", "description": "e.g. 'nutrient 508 Phenylalanine / 203 Protein'"}
+      }
+    },
+    "version": {
+      "type": "string",
+      "description": "row version so history is reconstructable, e.g. 'v0'"
+    },
+    "reviewer_of_record": {
+      "type": "string",
+      "description": "who accepted this row and can be asked about it"
+    },
+    "accepted_utc": {
+      "type": "string",
+      "description": "ISO-8601 timestamp the row was accepted"
+    },
+    "notes": {"type": "string"}
+  }
+}

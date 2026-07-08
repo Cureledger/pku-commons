@@ -17,9 +17,11 @@ phe-estimation tools exist and stay reliable.
 | Path | What it is |
 |---|---|
 | [`docs/`](docs/) | GitHub Pages site: hub + 3 audience routes, [peer-review model](docs/PEER-REVIEW.md), [TruPKU pain-points](docs/pain-points.md) |
+| [**`docs/RELIABILITY.md`**](docs/RELIABILITY.md) | **The reliability map** — phe-estimator reliability decomposed into four named, benchmark-measured gaps, each with a concrete ask. This is the contribution ask to the Claude Community. |
 | [`benchmark/`](benchmark/) | The accuracy standard: [BENCHMARK.md](benchmark/BENCHMARK.md), pluggable harness, seed test set with USDA-FDC ground truth, [leaderboard](benchmark/leaderboard.md) |
-| [`phe-estimator/`](phe-estimator/) | The Claude phe-estimator Skill — "think like a PKU parent" method _(in progress)_ |
-| [`food-list/`](food-list/) | The living low-protein foods list — USDA / Open Food Facts knowledge graph _(in progress)_ |
+| [`phe-estimator/`](phe-estimator/) | The Claude phe-estimator Skill — "think like a PKU parent" method; scored live against the benchmark |
+| [`food-list/`](food-list/) | The living low-protein foods list — cited, schema'd, single shared loader ([`foodlist.py`](food-list/foodlist.py)) |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute: pick a reliability gap, improve it, prove it on the benchmark |
 | [`scale/`](scale/) | Bluetooth kitchen-scale integration (Etekcity ESN00 + FFF0 series) _(in progress)_ |
 
 ## The two-layer quality system

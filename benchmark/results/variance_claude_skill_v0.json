@@ -1,0 +1,138 @@
+{
+  "n_runs": 5,
+  "n_cases": 18,
+  "deterministic": false,
+  "spread": {
+    "mae_mg": {
+      "runs": [
+        34.16,
+        25.85,
+        27.01,
+        26.09,
+        25.21
+      ],
+      "min": 25.21,
+      "max": 34.16,
+      "mean": 27.66,
+      "stdev": 3.3,
+      "range": 8.95
+    },
+    "within_band_pct": {
+      "runs": [
+        44.4,
+        55.6,
+        38.9,
+        44.4,
+        38.9
+      ],
+      "min": 38.9,
+      "max": 55.6,
+      "mean": 44.44,
+      "stdev": 6.1,
+      "range": 16.7
+    },
+    "bias_mg": {
+      "runs": [
+        -2.97,
+        -11.06,
+        -6.86,
+        -16.54,
+        -15.6
+      ],
+      "min": -16.54,
+      "max": -2.97,
+      "mean": -10.61,
+      "stdev": 5.15,
+      "range": 13.57
+    },
+    "rmse_mg": {
+      "runs": [
+        62.45,
+        43.67,
+        41.03,
+        45.46,
+        38.46
+      ],
+      "min": 38.46,
+      "max": 62.45,
+      "mean": 46.21,
+      "stdev": 8.46,
+      "range": 23.99
+    }
+  },
+  "per_run": [
+    {
+      "n": 18,
+      "n_scored": 18,
+      "n_crashed": 0,
+      "mae_mg": 34.16,
+      "medae_mg": 18.25,
+      "rmse_mg": 62.45,
+      "bias_mg": -2.97,
+      "within_band_pct": 44.4,
+      "tolerance_band": {
+        "abs_tol_mg": 15.0,
+        "rel_tol": 0.15
+      }
+    },
+    {
+      "n": 18,
+      "n_scored": 18,
+      "n_crashed": 0,
+      "mae_mg": 25.85,
+      "medae_mg": 14.6,
+      "rmse_mg": 43.67,
+      "bias_mg": -11.06,
+      "within_band_pct": 55.6,
+      "tolerance_band": {
+        "abs_tol_mg": 15.0,
+        "rel_tol": 0.15
+      }
+    },
+    {
+      "n": 18,
+      "n_scored": 17,
+      "n_crashed": 1,
+      "mae_mg": 27.01,
+      "medae_mg": 20.3,
+      "rmse_mg": 41.03,
+      "bias_mg": -6.86,
+      "within_band_pct": 38.9,
+      "tolerance_band": {
+        "abs_tol_mg": 15.0,
+        "rel_tol": 0.15
+      }
+    },
+    {
+      "n": 18,
+      "n_scored": 18,
+      "n_crashed": 0,
+      "mae_mg": 26.09,
+      "medae_mg": 18.1,
+      "rmse_mg": 45.46,
+      "bias_mg": -16.54,
+      "within_band_pct": 44.4,
+      "tolerance_band": {
+        "abs_tol_mg": 15.0,
+        "rel_tol": 0.15
+      }
+    },
+    {
+      "n": 18,
+      "n_scored": 17,
+      "n_crashed": 1,
+      "mae_mg": 25.21,
+      "medae_mg": 20.3,
+      "rmse_mg": 38.46,
+      "bias_mg": -15.6,
+      "within_band_pct": 38.9,
+      "tolerance_band": {
+        "abs_tol_mg": 15.0,
+        "rel_tol": 0.15
+      }
+    }
+  ],
+  "estimator": "estimators.claude_skill",
+  "run_utc": "2026-07-08T12:49:10.190253Z",
+  "model_id": "claude-opus-4-8"
+}

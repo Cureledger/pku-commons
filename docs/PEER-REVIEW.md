@@ -117,8 +117,9 @@ addresses it directly:
 
 - [x] Two-layer model defined
 - [x] Benchmark harness scaffold + seed test set (see `benchmark/`)
-- [ ] Peer-review **matrix** — to be generated once the Skill is ready to test (per project plan)
+- [x] Peer-review **matrix** — [`phe-estimator/PEER-REVIEW-MATRIX.md`](../phe-estimator/PEER-REVIEW-MATRIX.md); reliability gaps in [`RELIABILITY.md`](RELIABILITY.md)
+- [x] Food-list Layer-1 contract enforced in code — [`food-list/foodlist.py`](../food-list/foodlist.py) `validate()` (every row cited/versioned/reviewed)
+- [x] CI wiring of the benchmark as a merge gate — [`.github/workflows/benchmark.yml`](../.github/workflows/benchmark.yml)
 - [ ] Clinician / RD reviewer roster and sign-off log
-- [ ] CI wiring of the benchmark as a merge gate
 
 *This document is itself reviewed under the same model: it lives in the repo and changes by pull request.*
