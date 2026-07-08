@@ -77,6 +77,8 @@ h3 { font-size: 1.2rem; }
   letter-spacing: .01em;
 }
 .hackathon-banner:hover { background: var(--blue-dk); color: #fff; text-decoration: none; }
+.hackathon-banner, .hackathon-banner:link, .hackathon-banner:visited { color: #fff; }
+.hackathon-banner b, .hackathon-banner span { color: #fff; }
 .hackathon-banner b { font-weight: 700; }
 .hackathon-banner .hb-cta { text-decoration: underline; text-underline-offset: 2px; white-space: nowrap; }
 .hackathon-banner .hb-arrow { font-family: var(--font-mono); }
