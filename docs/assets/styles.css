@@ -1,24 +1,44 @@
 /* PKU Commons — shared site styles
    Dependency-free. Served as-is by GitHub Pages from /docs.
-   Palette: calm clinical teal + warm accent; high-contrast, accessible. */
+   Modern developer-site look: one core blue, near-black ink, warm off-white,
+   Space Grotesk display + Hanken Grotesk body + IBM Plex Mono for data. */
 
 :root {
-  --ink:        #16242b;
-  --ink-soft:   #46565e;
+  --ink:        #101010;
+  --ink-soft:   #5c5c5c;
+  --ink-faint:  #8f8f8f;
   --paper:      #ffffff;
-  --wash:       #f4f8f8;
-  --line:       #d9e4e4;
-  --teal:       #0f7d7d;
-  --teal-dk:    #0a5c5c;
-  --teal-wash:  #e6f2f2;
-  --amber:      #d98324;
-  --amber-wash: #fbeede;
-  --violet:     #6b4e9e;
-  --violet-wash:#efe9f7;
+  --wash:       #faf9f5;
+  --wash-2:     #f0f0ec;
+  --line:       #e7e7e3;
+  --line-2:     #edede9;
+
+  /* one core color (logo blue) + tints */
+  --blue:       #1e3fd6;
+  --blue-dk:    #1833ad;
+  --blue-mid:   #2a4ff0;
+  --blue-wash:  #ecefff;
+  --blue-line:  #c3ccff;
+
+  /* legacy accent names remapped onto the single blue so existing
+     class hooks (teal / violet / amber) all resolve to the core color */
+  --teal:       var(--blue);
+  --teal-dk:    var(--blue-dk);
+  --teal-wash:  var(--blue-wash);
+  --amber:      var(--blue);
+  --amber-wash: var(--blue-wash);
+  --violet:     var(--blue);
+  --violet-wash:var(--blue-wash);
+
   --radius:     14px;
-  --shadow:     0 1px 2px rgba(16,36,43,.06), 0 6px 24px rgba(16,36,43,.07);
-  --maxw:       1080px;
-  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --radius-sm:  10px;
+  --shadow:     0 1px 2px rgba(16,16,16,.04), 0 8px 30px rgba(16,16,16,.06);
+  --shadow-sm:  0 1px 2px rgba(16,16,16,.05);
+  --maxw:       1120px;
+
+  --font:      "Hanken Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-disp: "Space Grotesk", var(--font);
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
 }
 
 * { box-sizing: border-box; }
@@ -31,13 +51,16 @@ body {
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
-a { color: var(--teal-dk); }
-a:hover { color: var(--teal); }
-h1, h2, h3 { line-height: 1.2; letter-spacing: -0.01em; }
-h2 { font-size: 1.6rem; margin-top: 0; }
-.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 20px; }
+a { color: var(--blue); text-decoration: none; }
+a:hover { color: var(--blue-dk); text-decoration: underline; text-underline-offset: 3px; }
+h1, h2, h3, h4 { font-family: var(--font-disp); line-height: 1.08; letter-spacing: -0.02em; font-weight: 700; }
+h1 { font-size: clamp(2.6rem, 6vw, 4rem); margin: 0 0 16px; }
+h2 { font-size: clamp(1.7rem, 3vw, 2.2rem); margin-top: 0; }
+h3 { font-size: 1.2rem; }
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
 .muted { color: var(--ink-soft); }
 .center { text-align: center; }
+::selection { background: var(--blue-wash); }
 
 /* ---- top nav ---- */
 .nav {
@@ -47,8 +70,11 @@ h2 { font-size: 1.6rem; margin-top: 0; }
   border-bottom: 1px solid var(--line);
 }
 .nav .wrap { display: flex; align-items: center; gap: 18px; height: 60px; }
-.brand { font-weight: 700; color: var(--ink); text-decoration: none; font-size: 1.05rem; }
-.brand span { color: var(--teal); }
+.brand { display: inline-flex; align-items: center; gap: 9px; font-family: var(--font-disp); font-weight: 700; color: var(--ink); text-decoration: none; font-size: 1.15rem; letter-spacing: -0.02em; }
+.brand:hover { text-decoration: none; }
+.brand span { color: var(--blue); }
+.brand-logo { width: 28px; height: 28px; border-radius: 6px; display: block; }
+footer .brand-logo { border-radius: 6px; }
 .nav .spacer { flex: 1; }
 .nav a.link { text-decoration: none; color: var(--ink-soft); font-size: .95rem; font-weight: 500; }
 .nav a.link:hover { color: var(--teal-dk); }
@@ -56,16 +82,16 @@ h2 { font-size: 1.6rem; margin-top: 0; }
 
 /* ---- hero ---- */
 .hero {
-  background: linear-gradient(160deg, var(--teal-wash), var(--wash) 70%);
+  background: var(--paper);
   border-bottom: 1px solid var(--line);
-  padding: 64px 0 56px;
+  padding: 84px 0 72px;
 }
-.hero h1 { font-size: 2.5rem; margin: 0 0 12px; }
-.hero p.lede { font-size: 1.2rem; color: var(--ink-soft); max-width: 46ch; }
+.hero h1 { font-size: clamp(2.6rem, 6vw, 4rem); margin: 0 0 20px; }
+.hero p.lede { font-size: 1.22rem; color: var(--ink-soft); max-width: 52ch; }
 .kicker {
-  display:inline-block; text-transform: uppercase; letter-spacing: .08em;
-  font-size: .72rem; font-weight: 700; color: var(--teal-dk);
-  background: var(--teal-wash); padding: 5px 11px; border-radius: 999px; margin-bottom: 16px;
+  display:inline-block; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: .08em;
+  font-size: .78rem; font-weight: 600; color: var(--blue);
+  background: none; padding: 0; margin-bottom: 18px;
 }
 
 /* ---- buttons ---- */
