@@ -63,6 +63,25 @@ h3 { font-size: 1.2rem; }
 ::selection { background: var(--blue-wash); }
 
 /* ---- top nav ---- */
+/* Site-wide hackathon announcement banner */
+.hackathon-banner {
+  display: block;
+  background: var(--blue);
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  font-family: var(--font);
+  font-size: .95rem;
+  font-weight: 500;
+  padding: 10px 18px;
+  letter-spacing: .01em;
+}
+.hackathon-banner:hover { background: var(--blue-dk); color: #fff; text-decoration: none; }
+.hackathon-banner b { font-weight: 700; }
+.hackathon-banner .hb-cta { text-decoration: underline; text-underline-offset: 2px; white-space: nowrap; }
+.hackathon-banner .hb-arrow { font-family: var(--font-mono); }
+@media (max-width: 560px){ .hackathon-banner { font-size: .85rem; padding: 9px 12px; } }
+
 .nav {
   position: sticky; top: 0; z-index: 10;
   background: rgba(255,255,255,.92);
