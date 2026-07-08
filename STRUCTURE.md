@@ -1,8 +1,6 @@
-# PKU Commons — target monorepo layout
+# PKU Commons ,  target monorepo layout
 
-Built fresh for the Claude Life Sciences Hackathon (no reference-repo reads).
-Drop this tree into a fresh public GitHub repo (e.g. `Cureledger/pku-commons`)
-and enable GitHub Pages from the `/docs` folder on the default branch.
+Built for the Claude Life Sciences Hackathon, with no reference-repo reads. Drop this tree into a fresh public GitHub repo (e.g. `Cureledger/pku-commons`) and enable GitHub Pages from the `/docs` folder on the default branch.
 
 ```
 pku-commons/
@@ -31,8 +29,8 @@ pku-commons/
 ```
 
 ## Notes
-- Site is dependency-free static HTML/CSS — no Jekyll build needed; Pages serves
-  `/docs` as-is. `.md` files render on GitHub and are linked from the pages.
-- The benchmark is the load-bearing artifact: it is the "standard" that lets
-  users/clinicians/researchers judge accuracy, the CI gate that keeps apps
-  trustworthy after a dev leaves, and the KPI #1 leaderboard.
+- The site is dependency-free static HTML and CSS. No Jekyll build is needed.
+  Pages serves `/docs` as-is. `.md` files render on GitHub and are linked from the pages.
+- The benchmark is the central artifact. It is the standard that lets
+  users, clinicians, and researchers judge accuracy, the CI gate that keeps apps
+  trustworthy after a developer leaves, and the source for the KPI #1 leaderboard.

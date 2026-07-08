@@ -1,144 +1,134 @@
-<!doctype html>
+html
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Clinicians &amp; Researchers — PKU Commons</title>
-<meta name="description" content="How PKU Commons computes and validates phenylalanine estimates: a reproducible, citation-backed method and a public accuracy benchmark clinicians and researchers can inspect.">
-<link rel="stylesheet" href="assets/styles.css">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Clinicians &amp; Researchers, PKU Commons</title>
+<meta content="How PKU Commons computes and validates phenylalanine estimates: a reproducible, citation-backed method and a public accuracy benchmark clinicians and researchers can inspect." name="description"/>
+<link href="assets/styles.css" rel="stylesheet"/>
 </head>
 <body>
-
 <nav class="nav">
-  <div class="wrap">
-    <a class="brand" href="index.html">PKU&nbsp;<span>Commons</span></a>
-    <div class="spacer"></div>
-    <a class="link" href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">Developers</a>
-    <a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
-    <a class="link" href="families.html">Families</a>
-  </div>
+<div class="wrap">
+<a class="brand" href="index.html">PKU <span>Commons</span></a>
+<div class="spacer"></div>
+<a class="link" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">Developers</a>
+<a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
+<a class="link" href="families.html">Families</a>
+<a class="link" href="hackathon.html">Hackathon</a>
+</div>
 </nav>
-
 <header class="hero">
-  <div class="wrap">
-    <span class="kicker">For Nutritionists · Researchers · Clinicians</span>
-    <h1>A standard you can inspect, test, and trust.</h1>
-    <p class="lede">Until now there's been no way to judge whether a phe-estimator app is accurate.
-      PKU Commons gives you the method, the data provenance, and a public benchmark — open to your review.</p>
-    <div class="btn-row">
-      <a class="btn btn-primary" href="#test">Download &amp; test Phebe</a>
-      <a class="btn btn-ghost" href="#method">See the method</a>
-    </div>
-  </div>
+<div class="wrap">
+<span class="kicker">For Nutritionists · Researchers · Clinicians</span>
+<h1>A standard you can inspect, test, and trust.</h1>
+<p class="lede">Until now there's been no way to judge whether a phe-estimator app is accurate.
+      PKU Commons gives you the method, the data provenance, and a public benchmark, open to your review.</p>
+<div class="btn-row">
+<a class="btn btn-primary" href="#test">Download &amp; test Phebe</a>
+<a class="btn btn-ghost" href="#method">See the method</a>
+</div>
+</div>
 </header>
-
 <section id="method">
-  <div class="wrap">
-    <div class="section-head">
-      <h2>How a phe estimate is produced</h2>
-      <p class="muted">The Skill encodes the method a trained PKU parent uses — made explicit and reviewable.</p>
-    </div>
-    <ol class="steps">
-      <li><b>Countable?</b> Screen the label to the diet-relevant range (≤ 2 g protein per serving), where
+<div class="wrap">
+<div class="section-head">
+<h2>How a phe estimate is produced</h2>
+<p class="muted">The Skill encodes the method a trained PKU parent uses, made explicit and reviewable.</p>
+</div>
+<ol class="steps">
+<li><b>Countable?</b> Screen the label to the diet-relevant range (≤ 2 g protein per serving), where
         precise phe counting matters most.</li>
-      <li><b>Find phe-bearing ingredients.</b> Parse the ingredient list for items that contribute phe.</li>
-      <li><b>Classify by protein source.</b> Assign a phe-per-gram-protein value per ingredient by type.</li>
-      <li><b>Apply a recipe factor.</b> Estimate each phe-bearing ingredient's relative weight in the recipe
+<li><b>Find phe-bearing ingredients.</b> Parse the ingredient list for items that contribute phe.</li>
+<li><b>Classify by protein source.</b> Assign a phe-per-gram-protein value per ingredient by type.</li>
+<li><b>Apply a recipe factor.</b> Estimate each phe-bearing ingredient's relative weight in the recipe
         from basic food science.</li>
-      <li><b>Scale to portion &amp; log.</b> Multiply by the weighed portion; record for tracking and clinic sharing.</li>
-    </ol>
-    <div class="callout violet">
+<li><b>Scale to portion &amp; log.</b> Multiply by the weighed portion; record for tracking and clinic sharing.</li>
+</ol>
+<div class="callout violet">
       We deliberately constrain the AI's non-deterministic reasoning and add explicit guidance for
-      foreseeable conditions (e.g. weak grocery Wi-Fi, partial labels) — reducing variance so estimates
+      foreseeable conditions (e.g. weak grocery Wi-Fi, partial labels), reducing variance so estimates
       are consistent and defensible.
     </div>
-  </div>
+</div>
 </section>
-
 <section class="alt" id="accuracy">
-  <div class="wrap">
-    <div class="section-head">
-      <h2>How accuracy is validated</h2>
-      <p class="muted">This is the part built for you: a reproducible standard, not a vendor claim.</p>
-    </div>
-    <div class="grid2">
-      <div>
-        <p><b>Reproducible ground truth.</b> Each benchmark case pairs a food label with a phe value computed
-          from documented public sources — USDA FoodData Central and Open Food Facts — with the source id
+<div class="wrap">
+<div class="section-head">
+<h2>How accuracy is validated</h2>
+<p class="muted">This is the part built for you: a reproducible standard, verified independently of vendor claims.</p>
+</div>
+<div class="grid2">
+<div>
+<p><b>Reproducible ground truth.</b> Each benchmark case pairs a food label with a phe value computed
+          from documented public sources, USDA FoodData Central and Open Food Facts, with the source id
           recorded. You (or anyone) can re-derive the "true" value independently.</p>
-        <p><b>Transparent metrics.</b> Every estimator is scored the same way: mean absolute error, per-case
+<p><b>Transparent metrics.</b> Every estimator is scored the same way: mean absolute error, per-case
           error, and the share of estimates falling within a clinically-relevant tolerance band.</p>
-      </div>
-      <div>
-        <p><b>Versioned &amp; audited.</b> Methodology rules and food-list rows carry a citation to authority,
+</div>
+<div>
+<p><b>Versioned &amp; audited.</b> Methodology rules and food-list rows carry a citation to authority,
           a version, and a reviewer of record. Your challenges become tracked issues with documented
-          resolutions — an audit trail, not a black box.</p>
-        <p><b>Your sign-off has standing.</b> Clinician / RD review is a first-class authority layer: a
+          resolutions, recorded in an audit trail anyone can inspect.</p>
+<p><b>Your sign-off has standing.</b> Clinician / RD review is a first-class authority layer: a
           named professional endorsement is a citable source in the record.</p>
-        <p><a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/BENCHMARK.md" target="_blank" rel="noopener">Read the benchmark method &rarr;</a>
-           &nbsp; <a class="btn btn-ghost" href="index.html#peer-review">The two-layer review model &rarr;</a></p>
-      </div>
-    </div>
-  </div>
+<p><a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/BENCHMARK.md" rel="noopener" target="_blank">Read the benchmark method →</a>
+             <a class="btn btn-ghost" href="index.html#peer-review">The two-layer review model →</a></p>
+</div>
+</div>
+</div>
 </section>
-
 <section id="test">
-  <div class="wrap">
-    <div class="section-head">
-      <h2>Download &amp; test Phebe</h2>
-      <p class="muted">Phebe is a phe-estimator and logger. Try it on labels you know and compare against
+<div class="wrap">
+<div class="section-head">
+<h2>Download &amp; test Phebe</h2>
+<p class="muted">Phebe is a phe-estimator and logger. Try it on labels you know and compare against
         your own judgment.</p>
-    </div>
-    <div class="btn-row">
-      <!-- APP STORE LINK PLACEHOLDERS -->
-      <a class="btn btn-primary" href="https://apps.apple.com/app/id6775838591" target="_blank" rel="noopener">Download on the App Store</a>
-      <a class="btn btn-ghost" href="https://play.google.com/store/apps/details?id=app.cureledger.phebe" target="_blank" rel="noopener">Get it on Google Play</a>
-      <a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">Read the repo</a>
-    </div>
-    <p class="note">Phebe is a <b>reference implementation of the PKU Commons standard</b> — a working
+</div>
+<div class="btn-row">
+<!-- APP STORE LINK PLACEHOLDERS -->
+<a class="btn btn-primary" href="https://apps.apple.com/app/id6775838591" rel="noopener" target="_blank">Download on the App Store</a>
+<a class="btn btn-ghost" href="https://play.google.com/store/apps/details?id=app.cureledger.phebe" rel="noopener" target="_blank">Get it on Google Play</a>
+<a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">Read the repo</a>
+</div>
+<p class="note">Phebe is a <b>reference implementation of the PKU Commons standard</b> a working
       example of the open method and benchmark, not the standard itself. Any app can implement the standard.</p>
-  </div>
+</div>
 </section>
-
 <section class="alt" id="feedback">
-  <div class="wrap">
-    <div class="grid2">
-      <div>
-        <h2>Tell us what you think</h2>
-        <p class="muted">What must a phe-estimator get right to be useful in your clinic or study? Where would
+<div class="wrap">
+<div class="grid2">
+<div>
+<h2>Tell us what you think</h2>
+<p class="muted">What must a phe-estimator get right to be useful in your clinic or study? Where would
           an estimate be dangerous if wrong? Your input directly shapes the tolerance bands and the method.</p>
-      </div>
-      <div>
-        <div class="form-embed">
-          <p style="margin-top:0"><b>Shape the standard:</b></p>
-          <p class="muted">Tell us the accuracy your clinic or study needs, the failure modes that
+</div>
+<div>
+<div class="form-embed">
+<p style="margin-top:0"><b>Shape the standard:</b></p>
+<p class="muted">Tell us the accuracy your clinic or study needs, the failure modes that
             concern you, and the data you'd want to see. Your input directly informs the tolerance
-            bands and the method — and, filed here, becomes part of the review record.</p>
-          <iframe data-tally-src="https://tally.so/embed/EkYaAL?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1"
-                  loading="lazy" width="100%" height="360" frameborder="0" marginheight="0" marginwidth="0"
-                  title="PKU Commons feedback form"></iframe>
-          <p class="note"><b>No login required.</b> Prefer GitHub?
-            <a href="https://github.com/Cureledger/pku-commons/issues/new?labels=feedback,clinical&amp;title=Clinician%2Fresearcher+feedback&amp;body=Role%3A+%28dietitian%2Fnutritionist%2C+clinician%2C+researcher%29%0A%0AWhat+would+make+this+trustworthy+enough+to+use%3A%0A%0AFailure+modes+that+concern+me%3A%0A"
-               target="_blank" rel="noopener">Open a feedback issue instead &rarr;</a></p>
-        </div>
-      </div>
-    </div>
-  </div>
+            bands and the method, and becomes part of the review record once filed here.</p>
+<iframe data-tally-src="https://tally.so/embed/EkYaAL?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1" frameborder="0" height="360" loading="lazy" marginheight="0" marginwidth="0" title="PKU Commons feedback form" width="100%"></iframe>
+<p class="note"><b>No login required.</b> Prefer GitHub?
+            <a href="https://github.com/Cureledger/pku-commons/issues/new?labels=feedback,clinical&amp;title=Clinician%2Fresearcher+feedback&amp;body=Role%3A+%28dietitian%2Fnutritionist%2C+clinician%2C+researcher%29%0A%0AWhat+would+make+this+trustworthy+enough+to+use%3A%0A%0AFailure+modes+that+concern+me%3A%0A" rel="noopener" target="_blank">Open a feedback issue instead →</a></p>
+</div>
+</div>
+</div>
+</div>
 </section>
-
 <footer>
-  <div class="wrap">
-    <div>
-      <div class="brand" style="color:#fff">PKU&nbsp;<span style="color:#8fd4d4">Commons</span></div>
-      <p class="muted" style="color:#9fb3b3; max-width:38ch">Open infrastructure for reliable phe estimation.</p>
-    </div>
-    <div>
-      <p><a href="index.html">Home</a> · <a href="devs.html">Developers</a> · <a href="families.html">Families</a></p>
-      <p><a href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">GitHub</a></p>
-    </div>
-  </div>
+<div class="wrap">
+<div>
+<div class="brand" style="color:#fff">PKU <span style="color:#8fd4d4">Commons</span></div>
+<p class="muted" style="color:#9fb3b3; max-width:38ch">Open infrastructure for reliable phe estimation.</p>
+</div>
+<div>
+<p><a href="index.html">Home</a> · <a href="devs.html">Developers</a> · <a href="families.html">Families</a></p>
+<p><a href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">GitHub</a></p>
+</div>
+</div>
 </footer>
-
 <script>
   // Tally embed loader: hydrates any iframe[data-tally-src] and enables dynamicHeight.
   (function(){

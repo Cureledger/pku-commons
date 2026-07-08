@@ -1,201 +1,191 @@
-<!doctype html>
+html
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Developers — PKU Commons</title>
-<meta name="description" content="Contribute to the PKU Commons open infrastructure: the Claude phe-estimator Skill, the living food list, and the Bluetooth scale integration — all scored on a public accuracy benchmark.">
-<link rel="stylesheet" href="assets/styles.css">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Developers, PKU Commons</title>
+<meta content="Contribute to the PKU Commons open infrastructure: the Claude phe-estimator Skill, the living food list, and the Bluetooth scale integration ,  all scored on a public accuracy benchmark." name="description"/>
+<link href="assets/styles.css" rel="stylesheet"/>
 </head>
 <body>
-
 <nav class="nav">
-  <div class="wrap">
-    <a class="brand" href="index.html">PKU&nbsp;<span>Commons</span></a>
-    <div class="spacer"></div>
-    <a class="link" href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">Developers</a>
-    <a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
-    <a class="link" href="families.html">Families</a>
-  </div>
+<div class="wrap">
+<a class="brand" href="index.html">PKU <span>Commons</span></a>
+<div class="spacer"></div>
+<a class="link" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">Developers</a>
+<a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
+<a class="link" href="families.html">Families</a>
+<a class="link" href="hackathon.html">Hackathon</a>
+</div>
 </nav>
-
 <header class="hero">
-  <div class="wrap">
-    <span class="kicker">For Developers</span>
-    <h1>Build tools that families can trust — and that outlive you.</h1>
-    <p class="lede">Contribute to open PKU infrastructure handled like any other open-source project:
+<div class="wrap">
+<span class="kicker">For Developers</span>
+<h1>Build tools that families can trust and that outlive you.</h1>
+<p class="lede">Contribute to open PKU infrastructure. It works like any other open-source project:
       issues, PRs, and a public benchmark that gates quality automatically.</p>
-    <p class="lede"><strong>The one problem we most need help with:</strong> for a mixed food — a
-      fruit salad, a rice-and-carrot bowl — an estimator has to guess how much of each ingredient is
-      in it before it can compute anything. That single guess is our largest source of error, and
-      no one has a method that reliably beats a rough guess from the label alone. That is the open
+<p class="lede"><strong>The one problem we most need help with:</strong> for a mixed food, a
+      fruit salad, a rice-and-carrot bowl, an estimator has to guess how much of each ingredient is
+      in it before it can compute anything. That single guess is our largest source of error. No
+      one has a method that reliably beats a rough guess from the label alone. That is the open
       problem we bring to the developer community.</p>
-    <p class="lede muted">It's one of <strong>four measured reliability gaps</strong>; the other three
-      already have a known path forward. <a href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" target="_blank" rel="noopener">Read the reliability map &rarr;</a></p>
-    <div class="btn-row">
-      <a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">View the project on GitHub &rarr;</a>
-      <a class="btn btn-ghost" href="#benchmark">How quality is measured</a>
-    </div>
-  </div>
+<p class="lede muted">It's one of <strong>four measured reliability gaps</strong>; the other three
+      already have a known path forward. <a href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" rel="noopener" target="_blank">Read the reliability map →</a></p>
+<div class="btn-row">
+<a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">View the project on GitHub →</a>
+<a class="btn btn-ghost" href="#benchmark">How quality is measured</a>
+</div>
+</div>
 </header>
-
 <section class="alt">
-  <div class="wrap">
-    <div class="section-head">
-      <h2>What developers are actually working on</h2>
-      <p class="muted">We broke "the app feels unreliable" into four specific, measurable gaps. Three
+<div class="wrap">
+<div class="section-head">
+<h2>What developers are actually working on</h2>
+<p class="muted">We broke "the app feels unreliable" into four specific, measurable gaps. Three
         have a known path forward. One is the real open problem.</p>
-    </div>
-    <div class="grid2">
-      <div class="callout teal">
-        <p style="margin-top:0"><b>🎯 The open problem — Gap 3: the recipe factor.</b> For a mixed
-          food, how much of each ingredient is in it? That guess drives most of the error, and no
+</div>
+<div class="grid2">
+<div class="callout teal">
+<p style="margin-top:0"><b>🎯 The open problem, Gap 3: the recipe factor.</b> For a mixed
+          food, how much of each ingredient is in it? That guess drives most of the error. No
           known method beats a rough estimate from the label. This is the one we're asking the
-          community to crack — and because the same problem (estimating hidden proportions from an
+          community to crack. Because the same problem (estimating hidden proportions from an
           incomplete description) shows up far beyond PKU, a solution here is reusable everywhere.</p>
-      </div>
-      <div>
-        <p style="margin-top:0"><b>The three with a known path:</b></p>
-        <ul class="steps" style="list-style:none; padding-left:0">
-          <li><b>Gap 1 — converting protein to phe.</b> The ratio varies by food; the fix is a
+</div>
+<div>
+<p style="margin-top:0"><b>The three with a known path:</b></p>
+<ul class="steps" style="list-style:none; padding-left:0">
+<li><b>Gap 1, converting protein to phe.</b> The ratio varies by food; the fix is a
             better cited reference table.</li>
-          <li><b>Gap 2 — labels round protein.</b> In the very-low-protein range PKU lives in, that
+<li><b>Gap 2, labels round protein.</b> In the very-low-protein range PKU lives in, that
             rounding hides a lot; the fix is looking the food up in the cited food list instead of
             trusting the label.</li>
-          <li><b>Gap 4 — the AI answering differently each time.</b> The fix is tightening how the
+<li><b>Gap 4, the AI answering differently each time.</b> The fix is tightening how the
             method is applied so the same food gives the same number.</li>
-        </ul>
-      </div>
-    </div>
-    <p style="margin-top:18px"><a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" target="_blank" rel="noopener">See the full reliability map, with the numbers &rarr;</a></p>
-  </div>
+</ul>
+</div>
+</div>
+<p style="margin-top:18px"><a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" rel="noopener" target="_blank">See the full reliability map, with the numbers →</a></p>
+</div>
 </section>
-
 <section>
-  <div class="wrap">
-    <div class="section-head">
-      <h2>Where to contribute</h2>
-      <p class="muted">Three building blocks, standard GitHub workflow. Fork, branch, PR.</p>
-    </div>
-    <div class="grid3">
-      <div class="card">
-        <span class="pill">phe-estimator/</span>
-        <h3>Claude Skill</h3>
-        <p class="muted">The label-parsing + recipe-factor method as a Claude Skill. Priority target:
+<div class="wrap">
+<div class="section-head">
+<h2>Where to contribute</h2>
+<p class="muted">Three building blocks, standard GitHub workflow. Fork, branch, PR.</p>
+</div>
+<div class="grid3">
+<div class="card">
+<span class="pill">phe-estimator/</span>
+<h3>Claude Skill</h3>
+<p class="muted">The label-parsing + recipe-factor method as a Claude Skill. Priority target:
           reduce non-deterministic reasoning, harden behavior under real-world conditions (weak Wi-Fi,
           partial labels).</p>
-        <p><a href="https://github.com/Cureledger/pku-commons/tree/main/phe-estimator" target="_blank" rel="noopener">Open the Skill &rarr;</a></p>
-      </div>
-      <div class="card">
-        <span class="pill">food-list/</span>
-        <h3>Living food list</h3>
-        <p class="muted">A maintained low-protein reference (USDA FDC / Open Food Facts derived). Add
+<p><a href="https://github.com/Cureledger/pku-commons/tree/main/phe-estimator" rel="noopener" target="_blank">Open the Skill →</a></p>
+</div>
+<div class="card">
+<span class="pill">food-list/</span>
+<h3>Living food list</h3>
+<p class="muted">A maintained low-protein reference (USDA FDC / Open Food Facts derived). Add
           rows with provenance, improve the ingredient→phe classifier, expand very-low-protein coverage.</p>
-        <p><a href="https://github.com/Cureledger/pku-commons/tree/main/food-list" target="_blank" rel="noopener">Open the food list &rarr;</a></p>
-      </div>
-      <div class="card">
-        <span class="pill">scale/</span>
-        <h3>Scale integration</h3>
-        <p class="muted">Bluetooth gram-scale support, reverse-engineered per device. Add a new scale by
+<p><a href="https://github.com/Cureledger/pku-commons/tree/main/food-list" rel="noopener" target="_blank">Open the food list →</a></p>
+</div>
+<div class="card">
+<span class="pill">scale/</span>
+<h3>Scale integration</h3>
+<p class="muted">Bluetooth gram-scale support, reverse-engineered per device. Add a new scale by
           following the tutorial; goal is "connect the scale you own."</p>
-        <p><a href="https://github.com/Cureledger/pku-commons/tree/main/scale" target="_blank" rel="noopener">Open the scale module &rarr;</a></p>
-      </div>
-    </div>
-  </div>
+<p><a href="https://github.com/Cureledger/pku-commons/tree/main/scale" rel="noopener" target="_blank">Open the scale module →</a></p>
+</div>
+</div>
+</div>
 </section>
-
 <section class="alt" id="benchmark">
-  <div class="wrap">
-    <div class="section-head">
-      <h2>The benchmark is the quality gate</h2>
-      <p class="muted">You don't argue that your estimate is accurate — you measure it.</p>
-    </div>
-    <div class="grid2">
-      <div>
-        <p>Any estimator that implements the interface can be scored against the public test set. Ground
+<div class="wrap">
+<div class="section-head">
+<h2>The benchmark is the quality gate</h2>
+<p class="muted">You don't argue that your estimate is accurate. You measure it.</p>
+</div>
+<div class="grid2">
+<div>
+<p>Any estimator that implements the interface can be scored against the public test set. Ground
           truth is computed from documented sources (USDA FoodData Central / Open Food Facts), so it's
           reproducible by anyone.</p>
-        <ol class="steps">
-          <li>Implement the estimator interface (one function: label in → phe estimate out).</li>
-          <li>Run <code>python benchmark/run_benchmark.py --estimator your_module</code>.</li>
-          <li>Get MAE, per-case error, and % within the tolerance band — plus regression vs. the last version.</li>
-          <li>Open a PR. CI runs the same benchmark; merges require no regression.</li>
-        </ol>
-      </div>
-      <div>
-        <div class="callout teal">
-          <p style="margin-top:0"><b>Why this matters for sustainability:</b> quality is guaranteed by the
-            eval, not the author. An app can change hands — or lose its original developer entirely — and
+<ol class="steps">
+<li>Implement the estimator interface (one function: label in → phe estimate out).</li>
+<li>Run <code>python benchmark/run_benchmark.py --estimator your_module</code>.</li>
+<li>Get MAE, per-case error, and % within the tolerance band, plus regression vs. the last version.</li>
+<li>Open a PR. CI runs the same benchmark; merges require no regression.</li>
+</ol>
+</div>
+<div>
+<div class="callout teal">
+<p style="margin-top:0"><b>Why this matters for sustainability:</b> quality is guaranteed by the
+            eval, and not by the author. An app can change hands, or lose its original developer entirely, and
             families still know it meets the bar, because every version is scored.</p>
-        </div>
-        <p><a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/BENCHMARK.md" target="_blank" rel="noopener">Read BENCHMARK.md &rarr;</a>
-           &nbsp;·&nbsp;
-           <a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/leaderboard.md" target="_blank" rel="noopener">See the leaderboard &rarr;</a></p>
-      </div>
-    </div>
-  </div>
+</div>
+<p><a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/BENCHMARK.md" rel="noopener" target="_blank">Read BENCHMARK.md →</a>
+            · 
+           <a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/leaderboard.md" rel="noopener" target="_blank">See the leaderboard →</a></p>
+</div>
+</div>
+</div>
 </section>
-
 <section>
-  <div class="wrap">
-    <div class="section-head">
-      <h2>How we review — two layers</h2>
-    </div>
-    <div class="grid2">
-      <div class="card">
-        <h3>Method &amp; data → citation-backed</h3>
-        <p class="muted">Every rule and every food-list row carries a citation to authority (USDA FDC id,
+<div class="wrap">
+<div class="section-head">
+<h2>How we review: two layers</h2>
+</div>
+<div class="grid2">
+<div class="card">
+<h3>Method &amp; data → citation-backed</h3>
+<p class="muted">Every rule and every food-list row carries a citation to authority (USDA FDC id,
           Open Food Facts code, or named clinician sign-off), a version, and a reviewer of record.
           Challenges become issues; resolutions become the audit trail.</p>
-      </div>
-      <div class="card">
-        <h3>Estimator output → benchmark-gated</h3>
-        <p class="muted">Accuracy claims are settled by measurement against the public test set, with
+</div>
+<div class="card">
+<h3>Estimator output → benchmark-gated</h3>
+<p class="muted">Accuracy claims are settled by measurement against the public test set, with
           regression checks in CI. No number goes up without evidence.</p>
-      </div>
-    </div>
-    <p style="margin-top:18px"><a class="btn btn-ghost" href="index.html#peer-review">Read the full peer-review model &rarr;</a></p>
-  </div>
+</div>
+</div>
+<p style="margin-top:18px"><a class="btn btn-ghost" href="index.html#peer-review">Read the full peer-review model →</a></p>
+</div>
 </section>
-
 <section class="alt" id="feedback">
-  <div class="wrap">
-    <div class="grid2">
-      <div>
-        <h2>Tell us what you think</h2>
-        <p class="muted">Found a gap, a failure case, or a scale we should support? We want it. File it as an
-          issue, or drop a quick note here.</p>
-        <p><a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons/issues/new" target="_blank" rel="noopener">Open an issue &rarr;</a></p>
-      </div>
-      <div>
-        <div class="form-embed">
-          <p style="margin-top:0"><b>Fastest path:</b></p>
-          <p class="muted">Open an issue with your idea, failure case, or a scale we should support —
-            it goes straight into the review queue where contributions are triaged.</p>
-          <div class="btn-row">
-            <a class="btn btn-primary"
-               href="https://github.com/Cureledger/pku-commons/issues/new?labels=feedback,dev&amp;title=Developer+feedback&amp;body=Type%3A+%28app+dev%2C+data%2FML%2C+hardware%2Fscale%2C+other%29%0A%0AWhat+would+make+this+infrastructure+more+useful%3A%0A"
-               target="_blank" rel="noopener">Open a feedback issue &rarr;</a>
-          </div>
-          <p class="note">A no-login web form is on the roadmap; for now feedback flows through GitHub Issues.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="wrap">
+<div class="grid2">
+<div>
+<h2>Tell us what you think</h2>
+<p class="muted">Found a gap, a failure case, or a scale we should support? We want it. File it as an
+          issue, or leave a note here.</p>
+<p><a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons/issues/new" rel="noopener" target="_blank">Open an issue →</a></p>
+</div>
+<div>
+<div class="form-embed">
+<p style="margin-top:0"><b>Fastest path:</b></p>
+<p class="muted">Open an issue with your idea, failure case, or a scale we should support.
+            It goes straight into the review queue where contributions are triaged.</p>
+<div class="btn-row">
+<a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons/issues/new?labels=feedback,dev&amp;title=Developer+feedback&amp;body=Type%3A+%28app+dev%2C+data%2FML%2C+hardware%2Fscale%2C+other%29%0A%0AWhat+would+make+this+infrastructure+more+useful%3A%0A" rel="noopener" target="_blank">Open a feedback issue →</a>
+</div>
+<p class="note">A no-login web form is on the roadmap; for now feedback flows through GitHub Issues.</p>
+</div>
+</div>
+</div>
+</div>
 </section>
-
 <footer>
-  <div class="wrap">
-    <div>
-      <div class="brand" style="color:#fff">PKU&nbsp;<span style="color:#8fd4d4">Commons</span></div>
-      <p class="muted" style="color:#9fb3b3; max-width:38ch">Open infrastructure for reliable phe estimation.</p>
-    </div>
-    <div>
-      <p><a href="index.html">Home</a> · <a href="clinicians.html">Clinicians &amp; Researchers</a> · <a href="families.html">Families</a></p>
-      <p><a href="https://github.com/Cureledger/pku-commons" target="_blank" rel="noopener">GitHub</a></p>
-    </div>
-  </div>
+<div class="wrap">
+<div>
+<div class="brand" style="color:#fff">PKU <span style="color:#8fd4d4">Commons</span></div>
+<p class="muted" style="color:#9fb3b3; max-width:38ch">Open infrastructure for reliable phe estimation.</p>
+</div>
+<div>
+<p><a href="index.html">Home</a> · <a href="clinicians.html">Clinicians &amp; Researchers</a> · <a href="families.html">Families</a></p>
+<p><a href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">GitHub</a></p>
+</div>
+</div>
 </footer>
-
 </body>
 </html>
