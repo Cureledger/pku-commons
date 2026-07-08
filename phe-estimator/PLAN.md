@@ -86,7 +86,7 @@ Trained-by-the-clinic method, in strict order:
   output in `estimate(case) -> {"phe_mg": ...}`. Single integration point; no benchmark peeking.
 - [x] **5. Score & baseline.** Run against `seed_v0.jsonl`; record MAE / within-band% as the
   Skill's first leaderboard row and save the run JSON as the regression baseline.
-- [ ] **6. Peer-review matrix.** Once it scores, generate the review matrix (methodology /
+- [x] **6. Peer-review matrix.** Once it scores, generate the review matrix (methodology /
   output-testing / reliability) for parents, dietitians, clinicians, and AI devs — the
   maintainer's explicit "CRITICAL" gate before wider testing.
 

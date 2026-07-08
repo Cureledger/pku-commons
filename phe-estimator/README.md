@@ -80,6 +80,11 @@ Skill.
 > **CRITICAL:** We will have Claude Science create a peer-review matrix once we feel the
 > Skill is ready to test.
 
+The Skill is now scored and ready to test — the review instrument is
+[**PEER-REVIEW-MATRIX.md**](PEER-REVIEW-MATRIX.md). It turns "is it ready?" into specific,
+assignable review tasks (methodology / output-testing / reliability), each tied to real
+benchmark cases and to a reviewer role.
+
 ## The harness (already built)
 
 The accuracy of this Skill is not a matter of opinion — it is measured against a public,
