@@ -6,9 +6,9 @@ PKU families already use AI phe-estimator apps, because the alternative is nothi
 
 This document sets that standard. It does not claim the problem is solved, and it does not claim the problem is unsolvable. It is a **map**. It takes "the app feels unreliable" (a statement no developer can act on) and breaks it into four specific engineering gaps, each measured against the public [benchmark](../benchmark/BENCHMARK.md), each owned by a specific component of this reference implementation, and each something a contributor can pick up and improve in isolation.
 
-**That map is the ask.** Pick a gap. Improve the component that owns it. Prove it on the benchmark without regressing the others. The scoreboard shows whether you moved the number.
+The map is the ask. Pick a gap, improve the component that owns it, and prove it on the benchmark without regressing the others. The scoreboard shows whether you moved the number.
 
-> **Read Gap 3 first.** Two of these gaps already have a known route to a fix: Gaps 1 to 2 close by routing *around* the rounded label to the cited food list, and the portion-weight problem closes with a connected scale. **Gap 3, inferring the relative weights of ingredients in a mixed food from a short, rounded label, has no known route.** It is the largest error source here, and it takes the same shape as problems far beyond PKU (estimating any hidden proportion from an incomplete description). It is the problem we are asking the community to crack, because a method that beats our baseline here is reusable anywhere that shape recurs.
+Read Gap 3 first. Two of these gaps already have a known route to a fix. Gaps 1 and 2 close by routing around the rounded label to the cited food list, and the portion-weight problem closes with a connected scale. Gap 3, inferring the relative weights of ingredients in a mixed food from a short, rounded label, has no known route. It is the largest error source here, and it takes the same shape as problems far beyond PKU, such as estimating any hidden proportion from an incomplete description. It is the problem we are asking the community to crack, because a method that beats our baseline here is reusable anywhere that shape recurs.
 
 ---
 
@@ -18,8 +18,8 @@ Every number below comes from `benchmark/run_benchmark.py` on the public `seed_v
 
 We compare two things throughout:
 
-- **The deterministic rubric** (`estimators.rubric_estimator`), the 7-step method from [`SKILL.md`](../phe-estimator/SKILL.md) encoded as plain Python. No model, no network. It is the reproducible reference: run it a thousand times, get the same answer. MAE **12.76 mg**, 83.3% within the clinical tolerance band.
-- **The live Claude Skill** (`estimators.claude_skill`), the same rubric, applied by the model (`claude-opus-4-8`) at runtime. Across **three identical runs** its MAE was **24.3, 33.7, and 34.6 mg**; within-band 33 to 44%.
+- The deterministic rubric (`estimators.rubric_estimator`) is the 7-step method from [`SKILL.md`](../phe-estimator/SKILL.md) encoded as plain Python. No model, no network. It is the reproducible reference: run it a thousand times, get the same answer. MAE 12.76 mg, 83.3% within the clinical tolerance band.
+- The live Claude Skill (`estimators.claude_skill`) is the same rubric, applied by the model (`claude-opus-4-8`) at runtime. Across three identical runs its MAE was 24.3, 33.7, and 34.6 mg; within-band 33 to 44%.
 
 ![The four reliability gaps, measured on seed_v0](assets/reliability_gaps.png)
 
@@ -67,7 +67,7 @@ We compare two things throughout:
 
 **The ask.** Reduce run-to-run variance of the live Skill toward the deterministic rubric's zero, *without* adding confidence bands or hedging language (the Skill contract forbids them, and they trade away precision). Measure this as the spread of MAE across N repeated benchmark runs using [`benchmark/variance.py`](../benchmark/variance.py) (`python variance.py --estimator … --runs 5`), which reports min/mean/max/range. A five-run baseline of the live Skill spans MAE **25 to 34 mg (mean 27.7, stdev 3.3)** against the deterministic rubric's flat 12.76. Closing that spread to near zero is the goal.
 
-## Gap → component → contribution type, at a glance
+## Gap, owning component, and contribution type at a glance
 
 | Gap | Mean live-Skill error | Owning component | Review layer |
 |---|--:|---|---|
@@ -98,6 +98,6 @@ benchmark run that improves the score without regressing it.
 
 1. Read [`benchmark/BENCHMARK.md`](../benchmark/BENCHMARK.md) and run it once against the stub.
 2. Pick a gap above and its owning component.
-3. See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the clone → implement → benchmark → PR flow.
+3. See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the clone, implement, benchmark, PR flow.
 4. Open a PR. CI runs the benchmark and posts your deltas. A passing, non-regressing run lands you
    on the [leaderboard](../benchmark/leaderboard.md).

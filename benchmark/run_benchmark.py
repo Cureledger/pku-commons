@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PKU Commons — phe-estimation benchmark harness.
+"""PKU Commons phe-estimation benchmark harness.
 
 Scores any estimator that implements `estimate(case) -> float | {"phe_mg": float, ...}`
 against the public seed test set, using ground truth computed from USDA FoodData Central.
@@ -18,9 +18,9 @@ Metrics reported per run:
     bias_mg           mean signed error (estimate - truth); + = over-estimation
 
 Tolerance band (clinically-motivated, tunable): an estimate "passes" a case if it is
-within max(ABS_TOL_MG, REL_TOL * truth) of ground truth. Defaults: 15 mg OR 15%,
-whichever is larger — small absolute floor so near-zero foods aren't judged on relative
-error alone.
+within max(ABS_TOL_MG, REL_TOL * truth) of ground truth. Defaults: 15 mg or 15%,
+whichever is larger. The small absolute floor keeps near-zero foods from being judged
+on relative error alone.
 
 Exit code is non-zero if --baseline is given and this run REGRESSES (mae up or
 within_band_pct down beyond --tolerance). That makes the harness usable as a CI merge gate.
@@ -111,7 +111,7 @@ def score(estimate_fn, cases, abs_tol, rel_tol):
 def render_report(run):
     m = run["metrics"]
     lines = []
-    lines.append(f"# Benchmark report — `{run['estimator']}`\n")
+    lines.append(f"# Benchmark report: `{run['estimator']}`\n")
     lines.append(f"- **Run:** {run['run_utc']}")
     lines.append(f"- **Test set:** `{run['testset']}` ({m['n']} cases)")
     lines.append(f"- **Tolerance band:** ±max({m['tolerance_band']['abs_tol_mg']} mg, "
@@ -129,9 +129,9 @@ def render_report(run):
     lines.append("| id | case | truth mg | est mg | err mg | pass |")
     lines.append("|---|---|--:|--:|--:|:--:|")
     for p in run["per_case"]:
-        est = "—" if p["estimate_mg"] is None else p["estimate_mg"]
-        err = "—" if p["abs_err_mg"] is None else p["abs_err_mg"]
-        chk = "✅" if p["passed"] else "❌"
+        est = "n/a" if p["estimate_mg"] is None else p["estimate_mg"]
+        err = "n/a" if p["abs_err_mg"] is None else p["abs_err_mg"]
+        chk = "pass" if p["passed"] else "FAIL"
         nm = (p["name"] or "")[:40]
         lines.append(f"| {p['id']} | {nm} | {p['truth_mg']} | {est} | {err} | {chk} |")
     return "\n".join(lines) + "\n"
@@ -147,14 +147,14 @@ def check_regression(cur, base, tol):
     if bm.get("mae_mg") is not None and cm.get("mae_mg") is not None:
         if cm["mae_mg"] > bm["mae_mg"] * (1 + tol):
             regressed = True
-            notes.append(f"MAE regressed: {bm['mae_mg']} -> {cm['mae_mg']} mg")
+            notes.append(f"MAE regressed: {bm['mae_mg']} to {cm['mae_mg']} mg")
         else:
-            notes.append(f"MAE ok: {bm['mae_mg']} -> {cm['mae_mg']} mg")
+            notes.append(f"MAE ok: {bm['mae_mg']} to {cm['mae_mg']} mg")
     if cm["within_band_pct"] < bm["within_band_pct"] * (1 - tol):
         regressed = True
-        notes.append(f"within-band regressed: {bm['within_band_pct']}% -> {cm['within_band_pct']}%")
+        notes.append(f"within-band regressed: {bm['within_band_pct']}% to {cm['within_band_pct']}%")
     else:
-        notes.append(f"within-band ok: {bm['within_band_pct']}% -> {cm['within_band_pct']}%")
+        notes.append(f"within-band ok: {bm['within_band_pct']}% to {cm['within_band_pct']}%")
     return regressed, notes
 
 

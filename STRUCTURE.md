@@ -1,11 +1,11 @@
-# PKU Commons ,  target monorepo layout
+# PKU Commons: target monorepo layout
 
-Built for the Claude Life Sciences Hackathon, with no reference-repo reads. Drop this tree into a fresh public GitHub repo (e.g. `Cureledger/pku-commons`) and enable GitHub Pages from the `/docs` folder on the default branch.
+Built for the Claude Life Sciences Hackathon, with no reference-repo reads. Drop this tree into a fresh public GitHub repo (for example `Cureledger/pku-commons`) and enable GitHub Pages from the `/docs` folder on the default branch.
 
 ```
 pku-commons/
 ├── README.md                     # main project README (from pasted stub)
-├── docs/                         # GitHub Pages site  (Settings → Pages → /docs)
+├── docs/                         # GitHub Pages site  (Settings, Pages, /docs)
 │   ├── index.html                # hub: intro + 3-way audience router + TruPKU hacks
 │   ├── devs.html                 # developer route
 │   ├── clinicians.html           # nutritionist / researcher / clinician route
@@ -32,5 +32,5 @@ pku-commons/
 - The site is dependency-free static HTML and CSS. No Jekyll build is needed.
   Pages serves `/docs` as-is. `.md` files render on GitHub and are linked from the pages.
 - The benchmark is the central artifact. It is the standard that lets
-  users, clinicians, and researchers judge accuracy, the CI gate that keeps apps
-  trustworthy after a developer leaves, and the source for the KPI #1 leaderboard.
+  users, clinicians, and researchers judge accuracy, it is the CI gate that keeps apps
+  trustworthy after a developer leaves, and it is the source for the KPI #1 leaderboard.

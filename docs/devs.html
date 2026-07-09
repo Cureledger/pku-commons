@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <title>Developers, PKU Commons</title>
-<meta content="Contribute to the PKU Commons open infrastructure: the Claude phe-estimator Skill, the living food list, and the Bluetooth scale integration ,  all scored on a public accuracy benchmark." name="description"/>
+<meta content="Contribute to the PKU Commons open infrastructure: the Claude phe-estimator Skill, the living food list, and the Bluetooth scale integration, all scored on a public accuracy benchmark." name="description"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
@@ -34,9 +34,9 @@
       one has a method that reliably beats a rough guess from the label alone. That is the open
       problem we bring to the developer community.</p>
 <p class="lede muted">It's one of <strong>four measured reliability gaps</strong>; the other three
-      already have a known path forward. <a href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" rel="noopener" target="_blank">Read the reliability map →</a></p>
+      already have a known path forward. <a href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" rel="noopener" target="_blank">Read the reliability map</a></p>
 <div class="btn-row">
-<a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">View the project on GitHub →</a>
+<a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">View the project on GitHub</a>
 <a class="btn btn-ghost" href="#benchmark">How quality is measured</a>
 </div>
 </div>
@@ -50,7 +50,7 @@
 </div>
 <div class="grid2">
 <div class="callout teal">
-<p style="margin-top:0"><b>🎯 The open problem, Gap 3: the recipe factor.</b> For a mixed
+<p style="margin-top:0"><b>The open problem, Gap 3: the recipe factor.</b> For a mixed
           food, how much of each ingredient is in it? That guess drives most of the error. No
           known method beats a rough estimate from the label. This is the one we're asking the
           community to crack. Because the same problem (estimating hidden proportions from an
@@ -69,7 +69,7 @@
 </ul>
 </div>
 </div>
-<p style="margin-top:18px"><a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" rel="noopener" target="_blank">See the full reliability map, with the numbers →</a></p>
+<p style="margin-top:18px"><a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/docs/RELIABILITY.md" rel="noopener" target="_blank">See the full reliability map, with the numbers</a></p>
 </div>
 </section>
 <section>
@@ -85,21 +85,21 @@
 <p class="muted">The label-parsing + recipe-factor method as a Claude Skill. Priority target:
           reduce non-deterministic reasoning, harden behavior under real-world conditions (weak Wi-Fi,
           partial labels).</p>
-<p><a href="https://github.com/Cureledger/pku-commons/tree/main/phe-estimator" rel="noopener" target="_blank">Open the Skill →</a></p>
+<p><a href="https://github.com/Cureledger/pku-commons/tree/main/phe-estimator" rel="noopener" target="_blank">Open the Skill</a></p>
 </div>
 <div class="card">
 <span class="pill">food-list/</span>
 <h3>Living food list</h3>
 <p class="muted">A maintained low-protein reference (USDA FDC / Open Food Facts derived). Add
-          rows with provenance, improve the ingredient→phe classifier, expand very-low-protein coverage.</p>
-<p><a href="https://github.com/Cureledger/pku-commons/tree/main/food-list" rel="noopener" target="_blank">Open the food list →</a></p>
+          rows with provenance, improve the ingredient-to-phe classifier, expand very-low-protein coverage.</p>
+<p><a href="https://github.com/Cureledger/pku-commons/tree/main/food-list" rel="noopener" target="_blank">Open the food list</a></p>
 </div>
 <div class="card">
 <span class="pill">scale/</span>
 <h3>Scale integration</h3>
 <p class="muted">Bluetooth gram-scale support, reverse-engineered per device. Add a new scale by
           following the tutorial; goal is "connect the scale you own."</p>
-<p><a href="https://github.com/Cureledger/pku-commons/tree/main/scale" rel="noopener" target="_blank">Open the scale module →</a></p>
+<p><a href="https://github.com/Cureledger/pku-commons/tree/main/scale" rel="noopener" target="_blank">Open the scale module</a></p>
 </div>
 </div>
 </div>
@@ -116,7 +116,7 @@
           truth is computed from documented sources (USDA FoodData Central / Open Food Facts), so it's
           reproducible by anyone.</p>
 <ol class="steps">
-<li>Implement the estimator interface (one function: label in → phe estimate out).</li>
+<li>Implement the estimator interface (one function, label in and phe estimate out).</li>
 <li>Run <code>python benchmark/run_benchmark.py --estimator your_module</code>.</li>
 <li>Get MAE, per-case error, and % within the tolerance band, plus regression vs. the last version.</li>
 <li>Open a PR. CI runs the same benchmark; merges require no regression.</li>
@@ -128,9 +128,9 @@
             eval, and not by the author. An app can change hands, or lose its original developer entirely, and
             families still know it meets the bar, because every version is scored.</p>
 </div>
-<p><a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/BENCHMARK.md" rel="noopener" target="_blank">Read BENCHMARK.md →</a>
+<p><a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/BENCHMARK.md" rel="noopener" target="_blank">Read BENCHMARK.md</a>
             · 
-           <a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/leaderboard.md" rel="noopener" target="_blank">See the leaderboard →</a></p>
+           <a href="https://github.com/Cureledger/pku-commons/blob/main/benchmark/leaderboard.md" rel="noopener" target="_blank">See the leaderboard</a></p>
 </div>
 </div>
 </div>
@@ -142,18 +142,18 @@
 </div>
 <div class="grid2">
 <div class="card">
-<h3>Method &amp; data → citation-backed</h3>
+<h3>Method and data, citation-backed</h3>
 <p class="muted">Every rule and every food-list row carries a citation to authority (USDA FDC id,
           Open Food Facts code, or named clinician sign-off), a version, and a reviewer of record.
           Challenges become issues; resolutions become the audit trail.</p>
 </div>
 <div class="card">
-<h3>Estimator output → benchmark-gated</h3>
+<h3>Estimator output, benchmark-gated</h3>
 <p class="muted">Accuracy claims are settled by measurement against the public test set, with
           regression checks in CI. No number goes up without evidence.</p>
 </div>
 </div>
-<p style="margin-top:18px"><a class="btn btn-ghost" href="index.html#peer-review">Read the full peer-review model →</a></p>
+<p style="margin-top:18px"><a class="btn btn-ghost" href="index.html#peer-review">Read the full peer-review model</a></p>
 </div>
 </section>
 <section class="alt" id="feedback">
@@ -163,7 +163,7 @@
 <h2>Tell us what you think</h2>
 <p class="muted">Found a gap, a failure case, or a scale we should support? We want it. File it as an
           issue, or leave a note here.</p>
-<p><a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons/issues/new" rel="noopener" target="_blank">Open an issue →</a></p>
+<p><a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons/issues/new" rel="noopener" target="_blank">Open an issue</a></p>
 </div>
 <div>
 <div class="form-embed">
@@ -171,7 +171,7 @@
 <p class="muted">Open an issue with your idea, failure case, or a scale we should support.
             It goes straight into the review queue where contributions are triaged.</p>
 <div class="btn-row">
-<a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons/issues/new?labels=feedback,dev&amp;title=Developer+feedback&amp;body=Type%3A+%28app+dev%2C+data%2FML%2C+hardware%2Fscale%2C+other%29%0A%0AWhat+would+make+this+infrastructure+more+useful%3A%0A" rel="noopener" target="_blank">Open a feedback issue →</a>
+<a class="btn btn-primary" href="https://github.com/Cureledger/pku-commons/issues/new?labels=feedback,dev&amp;title=Developer+feedback&amp;body=Type%3A+%28app+dev%2C+data%2FML%2C+hardware%2Fscale%2C+other%29%0A%0AWhat+would+make+this+infrastructure+more+useful%3A%0A" rel="noopener" target="_blank">Open a feedback issue</a>
 </div>
 <p class="note">A no-login web form is on the roadmap; for now feedback flows through GitHub Issues.</p>
 </div>

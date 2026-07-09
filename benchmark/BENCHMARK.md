@@ -2,47 +2,43 @@
 
 *The accuracy standard for phenylalanine-estimator tools.*
 
-This benchmark is the scientific spine of PKU Commons. It lets **anyone** — a family, a
-clinician, a researcher, or a maintainer's CI — score a phe-estimator against a public,
+This benchmark is the scientific spine of PKU Commons. It lets anyone, whether a family, a
+clinician, a researcher, or a maintainer's CI, score a phe-estimator against a public,
 reproducible answer key. It is Layer 2 of the [peer-review model](../docs/PEER-REVIEW.md).
 
-> **What it is:** a way to *measure* whether an estimate is accurate.
-> **What it is not:** a food-suitability judgment or medical advice. It scores numeric phe
-> estimation against database-derived ground truth.
-
----
+It measures whether an estimate is accurate. It is not a food-suitability judgment or medical
+advice; it scores numeric phe estimation against database-derived ground truth.
 
 ## Why this exists
 
-Phe-estimator apps are multiplying, but there has been **no standard** by which a user can
-judge accuracy or a clinician can trust output. Without a shared measuring stick, "accurate"
-is just a marketing word, and apps that decay after their author leaves take families' trust
-down with them. A public benchmark fixes all three problems at once — it is the standard, the
-CI quality gate, and the KPI-#1 leaderboard.
+Phe-estimator apps are multiplying, but there has been no standard by which a user can judge
+accuracy or a clinician can trust output. Without a shared measuring stick, "accurate" is just a
+marketing word, and apps that decay after their author leaves take families' trust down with
+them. A public benchmark fixes all three problems at once. It is the standard, the CI quality
+gate, and the KPI-#1 leaderboard.
 
 ---
 
 ## How ground truth is computed (reproducibility statement)
 
-Every test case pairs a **food label** with an **expected phe value in milligrams**, computed
-as:
+Every test case pairs a food label with an expected phe value in milligrams, computed as:
 
 ```
 expected_phe_mg = Σ  (FDC phe_mg_per_100g[ingredient] × grams[ingredient] / 100)
 ```
 
-- Per-ingredient phe comes from **USDA FoodData Central (SR Legacy)**, nutrient **508
-  (Phenylalanine)**, cross-referenced with nutrient 203 (Protein).
-- Each component records its **FDC id**, the grams used, and the phe contribution — see
+- Per-ingredient phe comes from USDA FoodData Central (SR Legacy), nutrient 508 (Phenylalanine),
+  cross-referenced with nutrient 203 (Protein).
+- Each component records its FDC id, the grams used, and the phe contribution. See
   `ground_truth.components` in every case and the consolidated `testset/food_reference.json`.
-- Because the inputs are public FDC records and the arithmetic is documented, **anyone can
-  re-derive any expected value independently.** That reproducibility is the whole point:
-  ground truth answers to a citable authority, not to us.
+- Because the inputs are public FDC records and the arithmetic is documented, anyone can
+  re-derive any expected value independently. That reproducibility is the point: ground truth
+  answers to a citable authority, not to us.
 
-The seed set (`testset/seed_v0.jsonl`, 18 cases) deliberately spans the diet-relevant range:
-near-zero staples (cornstarch, tapioca), common very-low-protein fruits and vegetables, a
-couple of higher-phe items to test over-estimation control, and multi-ingredient recipes where
-the "recipe factor" judgment matters.
+The seed set (`testset/seed_v0.jsonl`, 18 cases) spans the diet-relevant range on purpose:
+near-zero staples (cornstarch, tapioca), common very-low-protein fruits and vegetables, a couple
+of higher-phe items to test over-estimation control, and multi-ingredient recipes where the
+recipe-factor judgment matters.
 
 ---
 
@@ -52,22 +48,22 @@ For each estimator run we report:
 
 | Metric | Meaning |
 |---|---|
-| **MAE (mg)** | Mean absolute error — the headline accuracy number. |
-| **Median AE (mg)** | Median absolute error — robust to a few hard cases. |
-| **RMSE (mg)** | Root-mean-square error — penalizes large misses. |
-| **Bias (mg)** | Mean signed error; **+** means the estimator systematically **over**-estimates. |
-| **Within band %** | Share of cases inside the tolerance band (below). |
-| **Crashed** | Cases where the estimator raised an error (counts as a fail, not a crashed run). |
+| MAE (mg) | Mean absolute error, the headline accuracy number. |
+| Median AE (mg) | Median absolute error, robust to a few hard cases. |
+| RMSE (mg) | Root-mean-square error, penalizes large misses. |
+| Bias (mg) | Mean signed error; a positive value means the estimator systematically over-estimates. |
+| Within band % | Share of cases inside the tolerance band (below). |
+| Crashed | Cases where the estimator raised an error (counts as a fail, not a crashed run). |
 
 ### Tolerance band
 
-An estimate **passes** a case if its absolute error is within
-`max(ABS_TOL_MG, REL_TOL × truth)`. Defaults: **15 mg or 15 %, whichever is larger.**
+An estimate passes a case if its absolute error is within `max(ABS_TOL_MG, REL_TOL × truth)`.
+Defaults: 15 mg or 15%, whichever is larger.
 
-The absolute floor keeps near-zero foods (e.g. 1 mg cornstarch) from being judged on relative
-error alone. The band is a **tunable, clinically-motivated parameter** — dietitians and
-clinicians are explicitly invited to propose the right numbers via the review process; changing
-it is a Layer-1 (citation + reviewer-of-record) decision.
+The absolute floor keeps near-zero foods (for example 1 mg cornstarch) from being judged on
+relative error alone. The band is a tunable, clinically-motivated parameter. Dietitians and
+clinicians are invited to propose the right numbers through the review process; changing it is a
+Layer-1 decision, needing a citation and a reviewer of record.
 
 ---
 
@@ -89,7 +85,7 @@ python run_benchmark.py --estimator estimators.my_estimator \
 # exit code 1 if MAE went up or within-band% went down beyond --tolerance
 ```
 
-No third-party dependencies — standard-library Python 3.8+.
+No third-party dependencies. Standard-library Python 3.8+.
 
 ### Expanding the test set (USDA FDC key)
 
@@ -122,8 +118,8 @@ def estimate(case: dict) -> float | dict:
     return {"phe_mg": 42.0, "meta": {...}}   # or just: return 42.0
 ```
 
-Then run `python run_benchmark.py --estimator your_pkg.your_module`. To score the **Claude
-phe-estimator Skill**, wrap its output in an `estimate(case)` adapter — that adapter is the
+Then run `python run_benchmark.py --estimator your_pkg.your_module`. To score the Claude
+phe-estimator Skill, wrap its output in an `estimate(case)` adapter. That adapter is the
 integration point between the Skill and this benchmark.
 
 ---
@@ -144,7 +140,7 @@ integration point between the Skill and this benchmark.
 - [x] Seed test set (v0) with FDC-computed ground truth and full provenance
 - [x] Pluggable harness + metrics + regression gate
 - [x] Reference stub estimator
-- [x] Claude Skill adapter (`estimators/claude_skill.py`) — wired; deterministic rubric_estimator added as the reproducible reference
+- [x] Claude Skill adapter (`estimators/claude_skill.py`) wired, with the deterministic rubric_estimator added as the reproducible reference
 - [ ] Expand test set: branded/packaged labels (Open Food Facts codes), more composites
 - [ ] Clinician-defined tolerance bands per phe range
 - [x] GitHub Actions workflow that posts benchmark deltas on every PR (`.github/workflows/benchmark.yml`)
