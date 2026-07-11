@@ -4,14 +4,39 @@ This is the single integration point between the Skill (phe-estimator/SKILL.md) 
 benchmark. It sends the Skill instructions + a case's label to a model, parses the JSON the
 Skill is contracted to return, and hands the harness one `phe_mg` number.
 
-The model caller is injected so this is testable and provider-agnostic:
+The model caller is injected so this is provider-agnostic. YOU supply a function
+    fn(system_prompt, user_prompt) -> str
+that returns the model's text reply. The number path never leaves this file, so any
+model works. Pick the wiring that matches how you (the tester) run:
 
-    # in a Claude Science kernel:
-    from estimators import claude_skill
-    claude_skill.set_model_caller(lambda system, user: host.llm(user, system=system)["text"])
-    # then: python run_benchmark.py --estimator estimators.claude_skill
-      (or call estimate(case) directly once the caller is set)
+--- 1. You ARE a coding agent (Claude Code, Cursor, etc.) — the decentralized path ---
+No API key. You answer the cases yourself, in your own session. In a Python REPL
+started from this repo, define a caller that returns what YOU (the agent) reply with
+when handed the system + user prompt, then run the cases:
 
+    from estimators import claude_skill, base
+    import run_benchmark as rb, variance as var
+    # `agent_reply` is however your harness lets you produce a completion for a
+    # (system, user) pair — e.g. your own tool call, or reading your response back.
+    claude_skill.set_model_caller(lambda system, user: agent_reply(system, user))
+    var.run_variance(claude_skill.estimate, var.load_cases("low_protein_usda.jsonl"), runs=5)
+
+--- 2. You have an Anthropic API key ---
+    import os, anthropic
+    _c = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    def call(system, user):
+        m = _c.messages.create(model="claude-sonnet-4-5", max_tokens=1024,
+                               temperature=0,           # temperature 0 = reproducible
+                               system=system, messages=[{"role":"user","content":user}])
+        return m.content[0].text
+    claude_skill.set_model_caller(call)
+    # then: python run_benchmark.py --estimator estimators.claude_skill \
+    #           --testset low_protein_usda.jsonl --model claude-sonnet-4-5
+
+--- 3. Any other provider (OpenAI, local model, ...) ---
+Wire the same fn(system, user) -> str against your client. Set temperature 0.
+
+Always pass --model (or PKU_BENCH_MODEL) so your result says which model ran it.
 If no caller is set, estimate() raises — it never silently fabricates a number.
 """
 import json, os, re
