@@ -1,0 +1,34 @@
+{
+  "test": "single-ingredient: model-classifies, code-computes",
+  "estimator": "classify_estimator",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0,
+  "runs": 3,
+  "n_foods": 53,
+  "accuracy": {
+    "mae_mg": 13.3,
+    "within_band_pct": 67.9,
+    "answered": 51
+  },
+  "reproducibility": {
+    "identical_pct": 98.0,
+    "identical": 48,
+    "of": 49
+  },
+  "comparison": {
+    "cursor_invent_numbers": {
+      "mae_mg": 20.77,
+      "within_band_pct": 57.9,
+      "foods_zeroed": 340
+    },
+    "deterministic_rubric_floor": {
+      "mae_mg": 11.61,
+      "within_band_pct": 69.5
+    },
+    "perfect_classification_ceiling": {
+      "mae_mg": 2.8,
+      "within_band_pct": 98.6
+    }
+  },
+  "finding": "Model classifies into 1 of 12 phe-source classes; code applies the embedded coefficient (protein x phe_per_g_protein). Foods Cursor zeroed (sweet potato, chard, cream of wheat) now get real numbers. 98% reproducible because output space is 12 labels not a free number. Remaining error is classification error, not fabrication \u2014 the lever a developer improves."
+}

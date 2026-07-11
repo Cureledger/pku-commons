@@ -83,13 +83,31 @@ Read the ingredients list. Phenylalanine rides on protein, so identify the ingre
 carry protein. Pure sugars, fats and oils, water, salt, and most acids and flavorings carry no
 phe. Assign them `phe_source_class: "none"` and `est_share: 0.0`.
 
-**3. Classify each phe-bearing ingredient by protein source.**
-Assign a `phe_source_class` so you can apply a phe-per-gram basis. Common classes:
-`cereal protein` (wheat, rice, corn, oat flour), `dairy protein` (milk, whey, casein),
-`legume protein` (soy, pea, bean), `vegetable/fruit protein`, `egg protein`, `nut/seed
-protein`, `gelatin/collagen`, `none`. Use the phe-per-gram reference table when available;
-otherwise use the per-class default. Different sources carry different phe per gram of
-protein, which is why label protein alone is too rough.
+**3. Classify each phe-bearing ingredient by protein source, and read its coefficient.**
+Assign a `phe_source_class`, then use the phe-per-gram-of-protein coefficient for that class.
+Phe is a roughly constant fraction of protein within a source class, so this coefficient is
+what turns label protein into phe. Different sources carry different phe per gram of protein,
+which is why label protein alone is too rough. Use these coefficients (mg phe per g protein):
+
+| phe_source_class | phe_mg_per_g_protein | typical members |
+|---|---|---|
+| none | 0.0 | sugars, fats/oils, water, salt, most acids/flavorings |
+| refined starch | 0.0 | cornstarch, tapioca (protein negligible) |
+| gelatin/collagen | 24.0 | gelatin (low in aromatic amino acids) |
+| fruit protein | 33.0 | apple, banana, berry, grape, most fruit |
+| tuber/root starch | 46.0 | potato, sweet potato, yam, cassava |
+| unknown protein | 47.0 | central default when class cannot be determined |
+| vegetable protein | 48.0 | carrot, broccoli, tomato, squash, greens, chard |
+| dairy protein | 48.0 | milk, cheese, yogurt, whey, casein |
+| nut/seed protein | 48.0 | almond, peanut, seeds |
+| legume protein | 51.0 | soy, pea, bean, lentil |
+| cereal protein | 52.0 | wheat, rice, corn, oat, farina, flour, pasta |
+| egg protein | 55.0 | whole egg |
+
+These are the canonical v0 coefficients (`phe_per_g_protein.json`, USDA FDC nutrient 508/203
+derived where seed data exists). When a food is a single whole ingredient, classify the food
+itself. When unsure of the class, use `unknown protein` (47.0) — never guess a phe number
+directly, and never assign `none` to a food that contains protein.
 
 **4. Estimate the recipe factor (the core judgment).**
 Estimate the relative weight share (`est_share`, summing to about 1.0 across phe-bearing
