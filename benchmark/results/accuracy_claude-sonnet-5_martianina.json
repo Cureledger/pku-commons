@@ -1,0 +1,18 @@
+{
+  "test": "accuracy",
+  "model": "claude-sonnet-5",
+  "runner": "cursor-agent",
+  "n_cases": 729,
+  "n_answered": 729,
+  "n_unanswered": 0,
+  "mae_mg": 20.77,
+  "medae_mg": 11.8,
+  "rmse_mg": 32.37,
+  "bias_mg": -12.38,
+  "within_band_pct": 57.9,
+  "tolerance_band": {
+    "abs_tol_mg": 15.0,
+    "rel_tol": 0.15
+  },
+  "run_utc": "2026-07-11T19:15:41.287805Z"
+}
