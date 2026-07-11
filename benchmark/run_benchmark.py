@@ -47,7 +47,29 @@ def load_estimator(dotted):
     mod = importlib.import_module(dotted)
     if not hasattr(mod, "estimate"):
         raise SystemExit(f"Estimator module '{dotted}' has no `estimate(case)` function.")
+    # An estimator declares DETERMINISTIC = True if its output cannot vary run-to-run
+    # (no model, no network). Only such estimators may run without a --model id.
+    mod.estimate._deterministic = bool(getattr(mod, "DETERMINISTIC", False))
     return mod.estimate
+
+
+def resolve_model(estimate_fn, model):
+    """Return the model label to stamp, or raise if a model-backed estimator lacks one.
+
+    A model-backed estimator with no --model/PKU_BENCH_MODEL is a REFUSAL, not a
+    'deterministic' stamp: a result whose model is unknown is not comparable and must
+    not masquerade as reproducible.
+    """
+    if getattr(estimate_fn, "_deterministic", False):
+        return model or "deterministic"
+    if not model:
+        raise SystemExit(
+            "This estimator is model-backed (not declared DETERMINISTIC), so its result "
+            "is meaningless without knowing which model produced it. Pass --model "
+            "(e.g. --model claude-sonnet-4) or set PKU_BENCH_MODEL. Refusing to run rather "
+            "than stamp an unidentified run as 'deterministic'."
+        )
+    return model
 
 
 def coerce(result):
@@ -112,6 +134,8 @@ def render_report(run):
     m = run["metrics"]
     lines = []
     lines.append(f"# Benchmark report: `{run['estimator']}`\n")
+    lines.append(f"- **Model / engine:** `{run.get('model', 'deterministic')}`"
+                 + (f" (runner: {run['runner']})" if run.get('runner') else ""))
     lines.append(f"- **Run:** {run['run_utc']}")
     lines.append(f"- **Test set:** `{run['testset']}` ({m['n']} cases)")
     lines.append(f"- **Tolerance band:** ±max({m['tolerance_band']['abs_tol_mg']} mg, "
@@ -170,14 +194,26 @@ def main():
     ap.add_argument("--rel-tol", type=float, default=REL_TOL_DEFAULT)
     ap.add_argument("--tolerance", type=float, default=0.0,
                     help="fractional slack allowed before a metric counts as a regression")
+    ap.add_argument("--model", default=os.environ.get("PKU_BENCH_MODEL"),
+                    help="identify the model/engine that produced this run (e.g. "
+                         "'claude-sonnet-4', 'cursor:gpt-4o'). Defaults to the "
+                         "PKU_BENCH_MODEL env var. Deterministic estimators may leave it unset "
+                         "(recorded as 'deterministic'). REQUIRED for model-backed estimators so "
+                         "results from different models/agents are distinguishable.")
+    ap.add_argument("--runner", default=os.environ.get("PKU_BENCH_RUNNER"),
+                    help="who/what ran this (e.g. 'claude-code', 'cursor', a handle). "
+                         "Defaults to the PKU_BENCH_RUNNER env var.")
     args = ap.parse_args()
 
     cases = load_testset(args.testset)
     estimate_fn = load_estimator(args.estimator)
+    model_label = resolve_model(estimate_fn, args.model)
     metrics, per_case = score(estimate_fn, cases, args.abs_tol_mg, args.rel_tol)
 
     run = {
         "estimator": args.estimator,
+        "model": model_label,
+        "runner": args.runner,
         "testset": os.path.relpath(args.testset, here),
         "run_utc": datetime.datetime.utcnow().isoformat() + "Z",
         "metrics": metrics,

@@ -16,9 +16,15 @@ failure. A failure you report is worth as much as a pass.
 
     git clone https://github.com/Cureledger/pku-commons
     cd pku-commons/benchmark
-    python run_benchmark.py --estimator estimators.rubric_estimator
-    # Expect it to print a table and finish with no error. Standard-library
-    # Python 3.8+. No dependencies to install.
+    python run_benchmark.py --estimator estimators.rubric_estimator \
+        --testset low_protein_usda.jsonl
+    # Expect a table of ~729 single-ingredient foods and a summary line, with
+    # no error. Standard-library Python 3.8+. No dependencies to install.
+    #
+    # low_protein_usda.jsonl is the 729-food single-ingredient corpus: one whole
+    # food per case, phe ground truth from USDA FoodData Central (nutrient 508),
+    # each with its fdcId. It isolates ONE thing — how precisely the estimator
+    # reads a single-ingredient label — before mixed dishes are added later.
 
 If that table does not print, stop and report the error (see "Report back").
 
@@ -33,13 +39,17 @@ the answer key is invalid and will be rejected.
 
 ### TASK A — Reproducibility test (needs many model calls; good use of spare cycles)
 
-Measure whether the same meal gives the same number twice.
+Measure whether the same single-ingredient food gives the same number twice,
+across the 729-food corpus.
 
     python variance.py --estimator estimators.rubric_estimator --runs 5 \
+        --testset low_protein_usda.jsonl \
         --out results/variance_rubric_<yourhandle>.json
 
 Then do the same for any LLM-backed estimator you have wired (see
-`estimators/claude_skill.py` for how one is wired). Run it with `--runs 5`.
+`estimators/claude_skill.py` for how one is wired), with the same `--testset`
+and `--runs 5`. This is the precision test: how tightly the AI reproduces a
+one-ingredient lookup run to run.
 
 Report: the min / mean / max / range of MAE for each estimator you ran. A
 range of 0 is perfect reproducibility. Any range above 0 on an LLM estimator
@@ -55,9 +65,12 @@ Take a real food label from your volunteer's kitchen, or a real mixed dish.
    FoodData Central (https://fdc.nal.usda.gov), record the FDC id and the grams
    you used, and sum. Put this in `ground_truth.components` with every FDC id
    and gram amount, so anyone can re-derive your number.
-3. Append the line to `benchmark/testset/seed_v0.jsonl`.
-4. Run `python run_benchmark.py --estimator estimators.rubric_estimator` and
-   note whether the current method passed or failed your new case.
+3. Append the line to `benchmark/low_protein_usda.jsonl`, then confirm it is
+   arithmetically honest — this must exit 0:
+       python validate_cases.py low_protein_usda.jsonl
+4. Run `python run_benchmark.py --estimator estimators.rubric_estimator \
+       --testset low_protein_usda.jsonl` and note whether the current method
+   passed or failed your new case.
 
 Report: your new case, and whether the method got it right. A mixed dish the
 method fails is exactly what we want.
@@ -78,8 +91,8 @@ Report: your MAE and within-band %, and one sentence on your method.
 ## Report back (required — this is the point)
 
 Open a Pull Request against `Cureledger/pku-commons` containing only the file
-you produced (your `results/*.json`, or your new line in `seed_v0.jsonl`, or
-your estimator file). Title it `robot-test: <task letter> — <yourhandle>`.
+you produced (your `results/*.json`, or your new line in
+`low_protein_usda.jsonl`, or your estimator file). Title it `robot-test: <task letter> — <yourhandle>`.
 Paste this block into the PR description, filled in:
 
     Task: A / B / C

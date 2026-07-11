@@ -9,6 +9,10 @@ It intentionally makes the recipe-factor judgment by a documented, deterministic
 
     python run_benchmark.py --estimator estimators.rubric_estimator
 """
+
+# Plain-Python, no model/network: identical output every run.
+DETERMINISTIC = True
+
 import json, os, re, sys
 
 _HERE = os.path.dirname(os.path.abspath(__file__))

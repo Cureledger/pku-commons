@@ -11,6 +11,10 @@ version of the "think like a PKU parent" method:
 
 Its errors are the point: they show what the benchmark rewards improving.
 """
+
+# Plain-Python, no model/network: identical output every run.
+DETERMINISTIC = True
+
 import re
 from .base import label_view
 

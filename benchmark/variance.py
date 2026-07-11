@@ -83,14 +83,27 @@ def main():
     ap.add_argument("--out", default=None, help="write the variance report JSON here")
     ap.add_argument("--abs-tol-mg", type=float, default=rb.ABS_TOL_MG_DEFAULT)
     ap.add_argument("--rel-tol", type=float, default=rb.REL_TOL_DEFAULT)
+    ap.add_argument("--model", default=os.environ.get("PKU_BENCH_MODEL"),
+                    help="identify the model/engine under test (e.g. 'claude-sonnet-4', "
+                         "'cursor:gpt-4o'). Defaults to the PKU_BENCH_MODEL env var. This is the "
+                         "precision test — the result is meaningless without knowing WHICH model "
+                         "was re-run, so set this for any model-backed estimator.")
+    ap.add_argument("--runner", default=os.environ.get("PKU_BENCH_RUNNER"),
+                    help="who/what ran this (e.g. 'claude-code', 'cursor', a handle). "
+                         "Defaults to the PKU_BENCH_RUNNER env var.")
     args = ap.parse_args()
 
     estimate_fn = rb.load_estimator(args.estimator)
+    model_label = rb.resolve_model(estimate_fn, args.model)
     cases = load_cases(args.testset)
     report = run_variance(estimate_fn, cases, args.runs, args.abs_tol_mg, args.rel_tol)
     report["estimator"] = args.estimator
+    report["model"] = model_label
+    report["runner"] = args.runner
     report["run_utc"] = datetime.datetime.utcnow().isoformat() + "Z"
 
+    print(f"model / engine: {report['model']}"
+          + (f"  (runner: {report['runner']})" if report['runner'] else ""))
     print(render(report))
     if args.out:
         os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)

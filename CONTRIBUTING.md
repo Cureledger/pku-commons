@@ -88,10 +88,12 @@ reads estimator output only and changes no estimate.
 
 ### Add a benchmark test case
 
-Add a line to [`benchmark/testset/seed_v0.jsonl`](benchmark/testset/seed_v0.jsonl) conforming to
-[`benchmark/schema.json`](benchmark/schema.json), with `ground_truth.components` citing the FDC
-ids and grams used so anyone can re-derive `expected_phe_mg`. Use
-[`benchmark/fetch_fdc.py`](benchmark/fetch_fdc.py) to pull values.
+Add a line to [`benchmark/low_protein_usda.jsonl`](benchmark/low_protein_usda.jsonl) (the
+729-food single-ingredient corpus) conforming to [`benchmark/schema.json`](benchmark/schema.json),
+with `ground_truth.components` citing the FDC ids and grams used so anyone can re-derive
+`expected_phe_mg`. Use [`benchmark/fetch_fdc.py`](benchmark/fetch_fdc.py) to pull values, then
+validate the file is arithmetically honest with `python benchmark/validate_cases.py
+benchmark/low_protein_usda.jsonl` (must exit 0).
 
 ---
 
