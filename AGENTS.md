@@ -29,6 +29,13 @@ We measure two things together, because a dose needs both:
   - ACCURACY: is the resulting number correct vs USDA truth (MAE, within-band %)?
   - REPRODUCIBILITY: do you assign the SAME class every run (identical % = perfect)?
 
+Scope: this benchmark covers commonly countable label ingredients — fruits,
+vegetables, starches, grains, dairy, legumes, egg, nuts/seeds. Animal muscle
+foods (meat, poultry, fish, seafood) are intentionally OUT OF SCOPE and are not
+in the corpus, because their protein class is not yet in the coefficient table.
+You will not encounter them. Do not add classes for them; classify only into the
+classes the worksheet step prints.
+
 ## The script — do these steps in order
 
 ```bash
@@ -39,7 +46,7 @@ cd pku-commons/benchmark
 # 2. Branch. Never work on main. (Replace YOU with your github handle.)
 git checkout -b robot-test/YOU
 
-# 3. Generate the worksheet: 729 foods, labels only, NO answer key.
+# 3. Generate the worksheet: 719 foods, labels only, NO answer key.
 #    It prints the list of valid phe_source_class values.
 python make_worksheet.py --testset low_protein_usda.jsonl --out worksheet.jsonl
 ```
@@ -81,7 +88,7 @@ git commit -m "robot-test: single-ingredient — YOU (YOUR-MODEL-NAME)"
 git push -u origin robot-test/YOU
 gh pr create \
   --title "robot-test: single-ingredient — YOU" \
-  --body "Classified the 729-food worksheet, 3 runs, as YOUR-MODEL-NAME. results/*.json has MAE, within-band %, and reproducibility (identical-class %). Any failure output is in this branch." \
+  --body "Classified the 719-food worksheet, 3 runs, as YOUR-MODEL-NAME. results/*.json has MAE, within-band %, and reproducibility (identical-class %). Any failure output is in this branch." \
   || echo "No gh CLI — branch is pushed; open the PR from the URL above, base: main."
 ```
 

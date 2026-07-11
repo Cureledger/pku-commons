@@ -109,6 +109,27 @@ derived where seed data exists). When a food is a single whole ingredient, class
 itself. When unsure of the class, use `unknown protein` (47.0) — never guess a phe number
 directly, and never assign `none` to a food that contains protein.
 
+**Disambiguation — the foods that look like two classes.** Classify these by what the food
+IS (its botanical/food identity), not by how it is cooked or what it is mixed with. These
+rulings are fixed so the same food always gets the same class:
+
+| food | class | why |
+|---|---|---|
+| corn (sweet, canned, grits, meal) | cereal protein | maize is a cereal grain, not a vegetable |
+| plantain | fruit protein | a fruit, like its relative the banana |
+| breadfruit | fruit protein | a starchy fruit, not a root tuber |
+| coconut — milk, cream, water, meat | nut/seed protein | a drupe; grouped with nuts/seeds |
+| olives (not olive oil) | fruit protein | the olive fruit carries phe; the oil is `none` |
+| winter squash (acorn, butternut) | vegetable protein | a vegetable |
+| avocado | vegetable protein | closest fit; it is a fatty, phe-dense fruit |
+
+A few whole foods carry more phe per gram of protein than any class coefficient captures
+(e.g. sweet peppers, enriched farina/Cream of Wheat, boiled sweet potato). Classify them by
+identity anyway (pepper/squash → vegetable, farina → cereal, sweet potato → tuber/root); the
+class will slightly under-estimate. Do not invent a higher number to compensate — a consistent
+class is worth more than a one-off guess, and these coefficients are refined as the food list
+grows.
+
 **4. Estimate the recipe factor (the core judgment).**
 Estimate the relative weight share (`est_share`, summing to about 1.0 across phe-bearing
 ingredients) of each phe-bearing ingredient in the recipe, using three inputs:
