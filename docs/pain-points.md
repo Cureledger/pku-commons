@@ -29,4 +29,4 @@ work at a real daily burden.
 
 | Item(s) | Wording verified against source? | Reviewer of record | Date | Notes |
 |---------|----------------------------------|--------------------|------|-------|
-| 1-6 | Pending | _(unassigned)_ | _(pending)_ | Themes summarized from public report and README. Awaiting NPKUA or clinician wording check. |
+| 1-6 | Pending | _(unassigned)_ | _(pending)_ | Themes summarized from public report and README.  |
