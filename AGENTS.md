@@ -1,22 +1,33 @@
-# AGENTS.md — PKU Commons accuracy test
+# AGENTS.md — PKU Commons single-ingredient reliability test
 
 You are an AI coding agent. This is a script, not a menu. Run every step below
-in order. Do not ask the human anything. Do not improvise, skip, or reorder.
-When you finish, a Pull Request exists — that is the deliverable.
+in order. Do not ask the human anything. Do not improvise, do not add steps, do
+not design your own food-classification scheme. When you finish, a Pull Request
+exists — that is the deliverable.
 
 If any command exits non-zero, do not stop: capture its output and continue to
 the PR step, putting the failure in the PR body. A reported failure is a valid
 result.
 
-## What this measures
+## What this measures — read this so you do the RIGHT job
 
-How ACCURATELY an AI reads a single-ingredient food label and produces its
-phenylalanine number, compared to USDA ground truth (nutrient 508) across 729
-foods. A PKU parent doses off this number. The metric is MAE (mean absolute
-error, in mg of phe) and within-band % (share of foods inside the tolerance).
-Lower MAE and higher within-band % are better. YOU are the estimator: you read
-each food and write your own number. No API key, no model wiring — you answer
-the foods yourself, which is the whole point of a decentralized agent test.
+The phe-estimator method (see `phe-estimator/SKILL.md`) turns a food label into a
+phe number in ONE model judgment plus arithmetic:
+
+    phe_mg  =  protein_g_per_serving  ×  coefficient[phe_source_class]
+
+The `protein_g_per_serving` is printed on the label. The `coefficient` is a fixed
+number per food class (fruit 33, cereal 52, legume 51, egg 55, none 0, …). The ONLY
+judgment is: **which phe_source_class is this food?** Code does the multiplication.
+
+So your job here is NOT to estimate a phe number from your own knowledge — that is
+what fails. Your job is to CLASSIFY each food into one phe-source class. The number
+comes from the coefficient, not from you. This is why it is both accurate and
+reproducible: the same food gets the same class gets the same number.
+
+We measure two things together, because a dose needs both:
+  - ACCURACY: is the resulting number correct vs USDA truth (MAE, within-band %)?
+  - REPRODUCIBILITY: do you assign the SAME class every run (identical % = perfect)?
 
 ## The script — do these steps in order
 
@@ -29,42 +40,48 @@ cd pku-commons/benchmark
 git checkout -b robot-test/YOU
 
 # 3. Generate the worksheet: 729 foods, labels only, NO answer key.
+#    It prints the list of valid phe_source_class values.
 python make_worksheet.py --testset low_protein_usda.jsonl --out worksheet.jsonl
 ```
 
-**4. Fill in the worksheet — this is your job as the agent.**
+**4. Classify each food — three times.**
 `worksheet.jsonl` has one food per line: `{"id", "name", "label"}` where `label`
-is what is printed on the package (serving size in grams, protein per serving,
-ingredient text). For EACH line, estimate the phenylalanine in milligrams for
-that serving, using the method in `phe-estimator/SKILL.md` and your own
-knowledge of foods. Write ONE line per food to `answers.jsonl`:
+gives the ingredients and `protein_g_per_serving`. For EACH line, choose ONE
+`phe_source_class` (the 12 valid values are printed by step 3 and listed in
+`phe-estimator/SKILL.md`). Rules that matter:
+  - A food that contains protein is NEVER `none`. `none` is only sugars, fats/oils,
+    water, salt, pure refined starch, and alcohol.
+  - When unsure of the class, use `unknown protein` — never leave it blank, never
+    guess a phe number.
+
+Write one line per food:
 
 ```json
-{"id": "usda-170409", "phe_mg": 90.0}
+{"id": "usda-170409", "phe_source_class": "cereal protein"}
 ```
 
-Rules: one number per food. If you genuinely cannot identify a food, still write
-a line with your best estimate — a food you skip is scored as wrong, so a guess
-is strictly better than a blank. Do NOT open `low_protein_usda.jsonl` or read
-`expected_phe_mg` / `ground_truth`; that is the answer key and using it
-invalidates the result.
+Do this THREE times into `run1.jsonl`, `run2.jsonl`, `run3.jsonl`, classifying the
+whole worksheet fresh each time (three passes show whether you assign the same class
+repeatably). Never open `low_protein_usda.jsonl` or read
+`expected_phe_mg`/`ground_truth` — that is the answer key.
 
 ```bash
-# 5. Score your answers against USDA truth. --model = the model YOU are running
-#    as (e.g. claude-sonnet-4.5, gpt-4o), so the result is attributable.
+# 5. Score all three runs. The scorer applies protein x coefficient and grades
+#    accuracy vs USDA truth AND reproducibility across your 3 runs.
+#    --model = the model YOU run as (e.g. claude-sonnet-4.5, gpt-4o), for attribution.
 python score_worksheet.py \
-  --answers answers.jsonl \
+  --answers run1.jsonl run2.jsonl run3.jsonl \
   --testset low_protein_usda.jsonl \
   --model YOUR-MODEL-NAME \
-  --out results/accuracy_YOUR-MODEL-NAME_YOU.json
+  --out results/YOUR-MODEL-NAME_YOU.json
 
-# 6. Commit your answers + your score, then open the PR.
-git add answers.jsonl results/accuracy_*.json
-git commit -m "robot-test: accuracy — YOU (YOUR-MODEL-NAME)"
+# 6. Commit your runs + your score, then open the PR.
+git add run1.jsonl run2.jsonl run3.jsonl results/*.json
+git commit -m "robot-test: single-ingredient — YOU (YOUR-MODEL-NAME)"
 git push -u origin robot-test/YOU
 gh pr create \
-  --title "robot-test: accuracy — YOU" \
-  --body "Filled the 729-food worksheet as YOUR-MODEL-NAME and scored it. See results/accuracy_*.json for MAE and within-band %. Answers in answers.jsonl. Any failure output is in this branch." \
+  --title "robot-test: single-ingredient — YOU" \
+  --body "Classified the 729-food worksheet, 3 runs, as YOUR-MODEL-NAME. results/*.json has MAE, within-band %, and reproducibility (identical-class %). Any failure output is in this branch." \
   || echo "No gh CLI — branch is pushed; open the PR from the URL above, base: main."
 ```
 
@@ -73,15 +90,5 @@ That is the whole job. Do not do anything not listed above.
 ## The one rule that invalidates a result if broken
 
 Never read `low_protein_usda.jsonl`, `case["expected_phe_mg"]`, or
-`case["ground_truth"]` — that is the answer key. The worksheet
-(`make_worksheet.py` → `worksheet.jsonl`) already strips it; work only from the
-worksheet.
-
-## Optional: test a model through the harness instead of answering by hand
-
-If you have an API key and want the harness to drive the model automatically
-(rather than filling the worksheet yourself), `estimators/claude_skill.py` has
-copy-paste wiring at the top, then:
-`python run_benchmark.py --estimator estimators.claude_skill --testset low_protein_usda.jsonl --model <name>`.
-Set temperature 0. This is not required — the worksheet path above is the
-default and needs nothing.
+`case["ground_truth"]`. The worksheet strips the answer key. You classify from the
+label; the coefficient table supplies the number.

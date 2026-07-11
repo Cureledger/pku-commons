@@ -30,8 +30,13 @@ def main():
     print(f"wrote {a.out}: {len(cases)} foods, answer key present: {leaked}")
     if leaked:
         sys.exit("ERROR: answer key leaked into worksheet")
-    print("Fill in phe_mg for each food and write answers to a .jsonl of "
-          '{"id": ..., "phe_mg": ...} lines, then run score_worksheet.py.')
+    classes = list(json.load(open(os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), "..", "phe-estimator",
+        "phe_per_g_protein.json")))["classes"].keys())
+    print("For each food, choose ONE phe_source_class from:")
+    print("  " + ", ".join(classes))
+    print('Write answers to a .jsonl of {"id": ..., "phe_source_class": "..."} lines,')
+    print("then run score_worksheet.py (it applies protein x coefficient and scores).")
 
 
 if __name__ == "__main__":
