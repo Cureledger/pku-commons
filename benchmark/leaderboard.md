@@ -11,9 +11,10 @@ comparable within the same version.
 
 | Rank | Estimator | Version | MAE (mg), lower better | Within band, higher better | Bias (mg) | Date (UTC) | Run |
 |-----:|-----------|---------|----------:|--------------:|----------:|------------|-----|
+| 1 | `estimators.precision_yield_estimator` (convex optimization, zero-leakage, train-calibrated) | v0 | 11.64 | 94.4% | +10.63 | 2026-07-11 | [json](results/precision_yield.json) |
+| 2 | `estimators.rubric_estimator` (deterministic rubric, the baseline to beat) | v0 | 12.76 | 83.3% | +6.83 | 2026-07-08 | [json](results/rubric_v0.json) |
+| 3 | `estimators.claude_skill` (Skill via LLM, `claude-opus-4-8`) | v0 | 33.73 | 33.3% | -1.36 | 2026-07-08 | [json](results/claude_skill_v0.json) |
 | n/a | `estimators.stub_estimator` (reference floor, memorizes seed answers, does not generalize) | v0 | 6.61 | 88.9% | +6.56 | 2026-07-08 | [json](results/stub_v0.json) |
-| 1 | `estimators.rubric_estimator` (deterministic rubric, the one to beat) | v0 | 12.76 | 83.3% | +6.83 | 2026-07-08 | [json](results/rubric_v0.json) |
-| 2 | `estimators.claude_skill` (Skill via LLM, `claude-opus-4-8`) | v0 | 33.73 | 33.3% | -1.36 | 2026-07-08 | [json](results/claude_skill_v0.json) |
 
 Ranking rule: generalizing estimators are ranked by MAE. The stub is listed unranked as a
 reference floor, because it looks its answers up from a table keyed to these exact seed foods, so

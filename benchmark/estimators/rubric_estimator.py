@@ -26,6 +26,7 @@ PHE_PER_G = {k: v["phe_mg_per_g_protein"] for k, v in _T["classes"].items()}
 _FOODLIST_DIR = os.path.normpath(os.path.join(_HERE, "..", "..", "food-list"))
 if _FOODLIST_DIR not in sys.path:
     sys.path.insert(0, _FOODLIST_DIR)
+# pyrefly: ignore [missing-import]
 import foodlist as _foodlist
 
 _FOOD_LIST = _foodlist.load()
