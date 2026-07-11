@@ -1,0 +1,9 @@
+[
+  {"id":"g01","name":"Rice & broccoli (dense-first trap)","protein_g_per_serving":null,
+   "ingredients":[["rice white raw",25],["broccoli raw",120]],
+   "notes":"trap: rice listed first but is the lighter component"},
+  {"id":"g02","name":"Apple & banana cup","protein_g_per_serving":null,
+   "ingredients":[["banana raw",80],["apple raw with skin",70]]},
+  {"id":"g03","name":"Cucumber-tomato-strawberry salad","protein_g_per_serving":null,
+   "ingredients":[["cucumber with peel raw",120],["tomatoes red ripe raw",60],["strawberries raw",40]]}
+]
