@@ -26,16 +26,72 @@
 </nav>
 <header class="hero">
 <div class="wrap">
-<span class="kicker">Claude Life Sciences Hackathon · Open PKU Infrastructure</span>
-<h1>Reliable phe estimation is infrastructure.</h1>
-<p class="lede">PKU Commons is an open, peer-reviewed foundation for phenylalanine-estimation
-      apps. Families, clinicians, and researchers can trust the numbers, and no app
-      dies just because one developer moves on.</p>
-<div class="btn-row">
-<a class="btn btn-primary" href="#benchmark">See how accuracy is measured</a>
+<span class="kicker kicker-live"><span class="live-dot"></span>Claude Life Sciences Hackathon Report · July 2026</span>
+<h1>We ran a hackathon on PKU tools. Here is what we found.</h1>
+<p class="lede">PKU families count the amino acid phenylalanine to the milligram, for life, and AI apps are
+      starting to carry that work. This month, developers across the Claude hackathon are testing
+      those tools with us. The first finding is clear: the AI can do the math, and the nutrition
+      label is what holds accuracy back.</p>
+<div class="hero-status">
+<div class="hs-item hs-done">
+<div class="hs-tag">Found it</div>
+<h3>Sorting the food is the reliable step</h3>
+<p>Developers gave us strong formulas. The reliable move is to have the AI sort each food into
+             the right protein type first. Sort it right and the phenylalanine number follows by
+             arithmetic, so the same food returns the same answer every time.</p>
 </div>
+<div class="hs-item hs-open">
+<div class="hs-tag">Still open</div>
+<h3>Mixed foods are the hard part</h3>
+<p>Working out how much of each ingredient sits in a bowl, from a short ingredient list, has no
+             settled method. This is the problem we are handing to every developer in the hackathon
+             for the rest of the month.</p>
+</div>
+<div class="hs-item hs-ask">
+<div class="hs-tag">Asking for help</div>
+<h3>Turning kitchen logs into evidence</h3>
+<p>Families already bridge the gap between the label and the real phenylalanine by hand, with a
+             gram scale and mental math. We are building a way a computer can repeat, so those logs
+             count as clinical research evidence.</p>
+</div>
+</div>
+<div class="btn-row">
+<a class="btn btn-primary" href="hackathon.html">Test with us</a>
+<a class="btn btn-ghost" href="#benchmark">See how we score accuracy</a>
+</div>
+<p class="hero-foot">Open community testing runs all month, starting at the NPKUA meeting this week.</p>
 </div>
 </header>
+<!-- THE PROBLEM WITH FOOD LABELS -->
+<section class="alt" id="labels">
+<div class="wrap">
+<div class="section-head">
+<h2>The problem with USDA/FDA food data</h2>
+<p class="lead-blue">Most PKU apps read phenylalanine from the same place, and that place runs out of
+        answers exactly where families need them.</p>
+</div>
+<div class="grid2 labels-grid">
+<div>
+<p>PKU apps generally read phenylalanine from USDA FoodData Central. It has measured
+          phenylalanine for single ingredients like an egg or an apple. It has almost no
+          phenylalanine for packaged, composed foods like a candy bar or a frozen meal.</p>
+<p>For those foods, the record is just the Nutrition Facts label: protein rounded to the whole
+          gram, and no amino acids at all. So the app guesses, and different apps guess differently.
+          The result: families, clinicians and researchers do not know if they can rely on app data.</p>
+</div>
+<div>
+<p>USDA cannot fix this by measuring 350,000 packaged products. The change that scales is to
+          calculate phenylalanine from the recipe, using measured ingredient values, and to say so on
+          every number.</p>
+<div class="callout teal">
+<b>PKU Commons does that.</b> Every phenylalanine value carries how it was found, whether
+          measured, calculated, or estimated, and how far it might be off. Apps get scored on the
+          quality of their data first.
+        </div>
+</div>
+</div>
+</div>
+</section>
 <!-- ROUTER -->
 <section id="routes">
 <div class="wrap">
@@ -261,8 +317,8 @@
 <footer>
 <div class="wrap">
 <div>
-<div class="brand" style="color:#fff">PKU <span style="color:#8fd4d4">Commons</span></div>
-<p class="muted" style="color:#9fb3b3; max-width:38ch">Open infrastructure for reliable phe estimation.
+<div class="brand" style="color:#fff">PKU <span style="color:#aeb9ff">Commons</span></div>
+<p class="muted" style="color:#9aa0bd; max-width:38ch">Open infrastructure for reliable phe estimation.
         Built by and for the PKU community.</p>
 </div>
 <div>
