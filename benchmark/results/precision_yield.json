@@ -1,0 +1,541 @@
+{
+  "estimator": "estimators.precision_yield_estimator",
+  "testset": "testset\\seed_v0.jsonl",
+  "run_utc": "2026-07-11T17:48:10.714750Z",
+  "metrics": {
+    "n": 18,
+    "n_scored": 18,
+    "n_crashed": 0,
+    "mae_mg": 11.64,
+    "medae_mg": 3.1,
+    "rmse_mg": 35.5,
+    "bias_mg": 10.63,
+    "within_band_pct": 94.4,
+    "tolerance_band": {
+      "abs_tol_mg": 15.0,
+      "rel_tol": 0.15
+    }
+  },
+  "per_case": [
+    {
+      "id": "c01",
+      "name": "Raw banana, 1 medium (118 g)",
+      "truth_mg": 57.8,
+      "estimate_mg": 60.3,
+      "signed_err_mg": 2.5,
+      "abs_err_mg": 2.5,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 58.0,
+        "serving_size_g": 118.0,
+        "portion_g": 118.0,
+        "countable": true,
+        "protein_g_per_serving": 1.29,
+        "ingredients_considered": [
+          {
+            "name": "Banana",
+            "phe_source_class": "fruit protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02",
+      "name": "Raw apple, 1 medium w/o skin (180 g)",
+      "truth_mg": 12.6,
+      "estimate_mg": 14.2,
+      "signed_err_mg": 1.6,
+      "abs_err_mg": 1.6,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 12.7,
+        "serving_size_g": 180.0,
+        "portion_g": 180.0,
+        "countable": true,
+        "protein_g_per_serving": 0.49,
+        "ingredients_considered": [
+          {
+            "name": "Apple",
+            "phe_source_class": "fruit protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03",
+      "name": "Baby carrots, 85 g serving",
+      "truth_mg": 51.9,
+      "estimate_mg": 53.9,
+      "signed_err_mg": 2.0,
+      "abs_err_mg": 2.0,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 51.8,
+        "serving_size_g": 85.0,
+        "portion_g": 85.0,
+        "countable": true,
+        "protein_g_per_serving": 0.79,
+        "ingredients_considered": [
+          {
+            "name": "Carrots",
+            "phe_source_class": "vegetable protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04",
+      "name": "Cucumber slices, 100 g",
+      "truth_mg": 31.0,
+      "estimate_mg": 32.5,
+      "signed_err_mg": 1.5,
+      "abs_err_mg": 1.5,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 31.0,
+        "serving_size_g": 100.0,
+        "portion_g": 100.0,
+        "countable": true,
+        "protein_g_per_serving": 0.59,
+        "ingredients_considered": [
+          {
+            "name": "Cucumber",
+            "phe_source_class": "vegetable protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05",
+      "name": "Strawberries, 144 g (1 cup)",
+      "truth_mg": 27.4,
+      "estimate_mg": 28.7,
+      "signed_err_mg": 1.3,
+      "abs_err_mg": 1.3,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 27.2,
+        "serving_size_g": 144.0,
+        "portion_g": 144.0,
+        "countable": true,
+        "protein_g_per_serving": 0.96,
+        "ingredients_considered": [
+          {
+            "name": "Strawberries",
+            "phe_source_class": "fruit protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06",
+      "name": "Broccoli florets, 91 g (1 cup)",
+      "truth_mg": 106.5,
+      "estimate_mg": 110.9,
+      "signed_err_mg": 4.4,
+      "abs_err_mg": 4.4,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 106.6,
+        "serving_size_g": 91.0,
+        "portion_g": 91.0,
+        "countable": false,
+        "protein_g_per_serving": 2.57,
+        "ingredients_considered": [
+          {
+            "name": "Broccoli",
+            "phe_source_class": "vegetable protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07",
+      "name": "Cornstarch, 8 g (1 tbsp)",
+      "truth_mg": 1.0,
+      "estimate_mg": 2.4,
+      "signed_err_mg": 1.4,
+      "abs_err_mg": 1.4,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 0.9,
+        "serving_size_g": 8.0,
+        "portion_g": 8.0,
+        "countable": true,
+        "protein_g_per_serving": 0.021,
+        "ingredients_considered": [
+          {
+            "name": "Cornstarch",
+            "phe_source_class": "refined starch",
+            "est_share": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08",
+      "name": "Tapioca pearls dry, 30 g",
+      "truth_mg": 1.2,
+      "estimate_mg": 4.1,
+      "signed_err_mg": 2.9,
+      "abs_err_mg": 2.9,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 2.6,
+        "serving_size_g": 30.0,
+        "portion_g": 30.0,
+        "countable": true,
+        "protein_g_per_serving": 0.057,
+        "ingredients_considered": [
+          {
+            "name": "Tapioca",
+            "phe_source_class": "refined starch",
+            "est_share": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09",
+      "name": "Diced tomato, 120 g",
+      "truth_mg": 32.4,
+      "estimate_mg": 34.0,
+      "signed_err_mg": 1.6,
+      "abs_err_mg": 1.6,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 32.5,
+        "serving_size_g": 120.0,
+        "portion_g": 120.0,
+        "countable": true,
+        "protein_g_per_serving": 1.06,
+        "ingredients_considered": [
+          {
+            "name": "Tomato",
+            "phe_source_class": "fruit protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10",
+      "name": "Cooked white rice equiv, 45 g dry",
+      "truth_mg": 158.8,
+      "estimate_mg": 165.0,
+      "signed_err_mg": 6.2,
+      "abs_err_mg": 6.2,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 158.6,
+        "serving_size_g": 45.0,
+        "portion_g": 45.0,
+        "countable": false,
+        "protein_g_per_serving": 2.97,
+        "ingredients_considered": [
+          {
+            "name": "Rice",
+            "phe_source_class": "cereal protein",
+            "est_share": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "c11",
+      "name": "Fruit salad cup (apple+banana+strawberry), 200 g",
+      "truth_mg": 46.4,
+      "estimate_mg": 42.9,
+      "signed_err_mg": -3.5,
+      "abs_err_mg": 3.5,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 41.3,
+        "serving_size_g": 200.0,
+        "portion_g": 200.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Apples",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.545
+          },
+          {
+            "name": "bananas",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.273
+          },
+          {
+            "name": "strawberries",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.182
+          }
+        ]
+      }
+    },
+    {
+      "id": "c12",
+      "name": "Veggie sticks tray (carrot+cucumber), 150 g",
+      "truth_mg": 69.0,
+      "estimate_mg": 79.6,
+      "signed_err_mg": 10.6,
+      "abs_err_mg": 10.6,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 76.5,
+        "serving_size_g": 150.0,
+        "portion_g": 150.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Carrots",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.667
+          },
+          {
+            "name": "cucumber",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.333
+          }
+        ]
+      }
+    },
+    {
+      "id": "c13",
+      "name": "Low-pro thickened fruit sauce (apple + cornstarch), 160 g",
+      "truth_mg": 9.7,
+      "estimate_mg": 11.9,
+      "signed_err_mg": 2.2,
+      "abs_err_mg": 2.2,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 10.4,
+        "serving_size_g": 160.0,
+        "portion_g": 160.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Apples",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.48
+          },
+          {
+            "name": "cornstarch",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.24
+          },
+          {
+            "name": "water",
+            "phe_source_class": "unknown (unsafe)",
+            "est_share": 0.16
+          },
+          {
+            "name": "sugar",
+            "phe_source_class": "unknown (unsafe)",
+            "est_share": 0.12
+          }
+        ],
+        "clinical_warning": "unrecognized_ingredients"
+      }
+    },
+    {
+      "id": "c14",
+      "name": "Tomato-broccoli medley, 180 g",
+      "truth_mg": 102.6,
+      "estimate_mg": 106.7,
+      "signed_err_mg": 4.1,
+      "abs_err_mg": 4.1,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 102.6,
+        "serving_size_g": 180.0,
+        "portion_g": 180.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Tomatoes",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.667
+          },
+          {
+            "name": "broccoli",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.333
+          }
+        ]
+      }
+    },
+    {
+      "id": "c15",
+      "name": "Banana-strawberry smoothie base (no dairy), 250 g",
+      "truth_mg": 77.8,
+      "estimate_mg": 83.0,
+      "signed_err_mg": 5.2,
+      "abs_err_mg": 5.2,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 79.8,
+        "serving_size_g": 250.0,
+        "portion_g": 250.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Bananas",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.545
+          },
+          {
+            "name": "strawberries",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.273
+          },
+          {
+            "name": "water",
+            "phe_source_class": "unknown (unsafe)",
+            "est_share": 0.182
+          }
+        ],
+        "clinical_warning": "unrecognized_ingredients"
+      }
+    },
+    {
+      "id": "c16",
+      "name": "Rice + carrot bowl (small), 130 g",
+      "truth_mg": 196.1,
+      "estimate_mg": 345.7,
+      "signed_err_mg": 149.6,
+      "abs_err_mg": 149.6,
+      "passed": false,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 332.4,
+        "serving_size_g": 130.0,
+        "portion_g": 130.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Rice",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.667
+          },
+          {
+            "name": "carrots",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.333
+          }
+        ]
+      }
+    },
+    {
+      "id": "c17",
+      "name": "Tapioca-fruit pudding (tapioca + strawberry), 170 g",
+      "truth_mg": 18.1,
+      "estimate_mg": 12.5,
+      "signed_err_mg": -5.6,
+      "abs_err_mg": 5.6,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 11.0,
+        "serving_size_g": 170.0,
+        "portion_g": 170.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Tapioca",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.48
+          },
+          {
+            "name": "strawberries",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.24
+          },
+          {
+            "name": "sugar",
+            "phe_source_class": "unknown (unsafe)",
+            "est_share": 0.16
+          },
+          {
+            "name": "water",
+            "phe_source_class": "unknown (unsafe)",
+            "est_share": 0.12
+          }
+        ],
+        "clinical_warning": "unrecognized_ingredients"
+      }
+    },
+    {
+      "id": "c18",
+      "name": "Cucumber-tomato side salad, 200 g",
+      "truth_mg": 58.4,
+      "estimate_mg": 61.7,
+      "signed_err_mg": 3.3,
+      "abs_err_mg": 3.3,
+      "passed": true,
+      "error": null,
+      "meta": {
+        "recipe_factor_mg_per_serving": 59.3,
+        "serving_size_g": 200.0,
+        "portion_g": 200.0,
+        "countable": null,
+        "protein_g_per_serving": null,
+        "path": "food-list lookup (no protein panel)",
+        "ingredients_considered": [
+          {
+            "name": "Cucumber",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.667
+          },
+          {
+            "name": "tomatoes",
+            "phe_source_class": "whole food (food-list)",
+            "est_share": 0.333
+          }
+        ]
+      }
+    }
+  ],
+  "regression": {
+    "regressed": false,
+    "notes": [
+      "MAE ok: 12.76 to 11.64 mg",
+      "within-band ok: 83.3% to 94.4%"
+    ]
+  }
+}
