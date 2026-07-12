@@ -43,6 +43,10 @@ import foodlist as _foodlist
 
 _FOOD_LIST = _foodlist.load()
 
+# Deterministic: no model, no network — output cannot vary run to run. This lets
+# the harness score it (and CI gate it) without a --model id. See run_benchmark.py.
+DETERMINISTIC = True
+
 PHE_PER_G = {
     "none":              0.0,    # Official: no Phe bearing
     "refined starch":    0.0,    # Official: protein negligible
