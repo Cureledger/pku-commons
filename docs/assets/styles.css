@@ -183,6 +183,52 @@ footer .brand-logo { border-radius: 6px; }
   .hero h1 { max-width: none; }
 }
 
+/* ---- run a test CTA band ---- */
+.runtest {
+  background:
+    radial-gradient(900px 420px at 85% -20%, rgba(190,255,120,.28) 0%, rgba(190,255,120,0) 58%),
+    linear-gradient(160deg, #0c8055 0%, #0a704b 100%);
+  color: #f2fff8;
+  border-top: 1px solid #0a6e4c;
+  border-bottom: 1px solid #0a6e4c;
+  padding: 44px 0;
+}
+.rt-inner {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 28px;
+}
+.rt-copy { flex: 1 1 520px; }
+.rt-kicker {
+  display: inline-block; font-family: var(--font-mono); font-size: .78rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: .07em; color: #eafff0; margin-bottom: 10px;
+}
+.runtest h2 { color: #fff; font-size: clamp(1.5rem, 2.6vw, 2rem); margin: 0 0 12px; }
+.runtest p { color: #ecfff5; font-size: 1.05rem; line-height: 1.55; margin: 0 0 18px; max-width: 62ch; }
+.runtest code {
+  font-family: var(--font-mono); font-size: .92em; background: rgba(6,32,21,.32);
+  color: #eaffbf; padding: 1px 7px; border-radius: 6px;
+}
+.rt-cmd {
+  display: inline-flex; align-items: center; gap: 10px;
+  background: rgba(6,32,21,.34); border: 1px solid rgba(234,255,191,.35);
+  border-radius: var(--radius-sm); padding: 11px 15px;
+  font-family: var(--font-mono); font-size: .92rem;
+}
+.rt-prompt { color: #d6ff7a; font-weight: 700; }
+.rt-cmd-text { color: #f2fff8; }
+.rt-actions { flex: 0 0 auto; display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
+.btn-run {
+  background: #ffffff; color: #0a6e48; font-weight: 700;
+  box-shadow: 0 1px 2px rgba(0,0,0,.15), 0 8px 24px rgba(6,32,21,.22);
+}
+.btn-run:hover { background: #f0fff7; color: #0a6e48; }
+.rt-link { color: #eafff0; font-family: var(--font-mono); font-size: .88rem; text-decoration: underline; text-underline-offset: 2px; }
+.rt-link:hover { color: #fff; }
+@media (max-width: 720px) {
+  .rt-actions { flex-basis: 100%; }
+  .btn-run { width: 100%; text-align: center; }
+}
+
 /* ---- the problem with food labels ---- */
 .lead-blue { color: var(--blue); font-weight: 500; }
 .labels-grid { align-items: start; }
