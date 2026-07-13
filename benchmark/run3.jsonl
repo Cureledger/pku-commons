@@ -43,26 +43,26 @@
 {"id": "usda-170684", "phe_source_class": "refined starch"}
 {"id": "usda-169314", "phe_source_class": "vegetable protein"}
 {"id": "usda-169206", "phe_source_class": "vegetable protein"}
-{"id": "usda-171705", "phe_source_class": "vegetable protein"}
-{"id": "usda-171706", "phe_source_class": "vegetable protein"}
+{"id": "usda-171705", "phe_source_class": "fruit protein"}
+{"id": "usda-171706", "phe_source_class": "fruit protein"}
 {"id": "usda-170999", "phe_source_class": "fruit protein"}
-{"id": "usda-173519", "phe_source_class": "fruit protein"}
+{"id": "usda-173519", "phe_source_class": "none"}
 {"id": "usda-170967", "phe_source_class": "cereal protein"}
 {"id": "usda-170966", "phe_source_class": "cereal protein"}
 {"id": "usda-171363", "phe_source_class": "cereal protein"}
 {"id": "usda-171362", "phe_source_class": "cereal protein"}
 {"id": "usda-170970", "phe_source_class": "cereal protein"}
-{"id": "usda-171364", "phe_source_class": "cereal protein"}
-{"id": "usda-170971", "phe_source_class": "cereal protein"}
-{"id": "usda-172317", "phe_source_class": "cereal protein"}
+{"id": "usda-171364", "phe_source_class": "egg protein"}
+{"id": "usda-170971", "phe_source_class": "egg protein"}
+{"id": "usda-172317", "phe_source_class": "unknown protein"}
 {"id": "usda-171379", "phe_source_class": "dairy protein"}
 {"id": "usda-170977", "phe_source_class": "fruit protein"}
 {"id": "usda-171374", "phe_source_class": "fruit protein"}
 {"id": "usda-170998", "phe_source_class": "fruit protein"}
-{"id": "usda-173487", "phe_source_class": "fruit protein"}
+{"id": "usda-173487", "phe_source_class": "unknown protein"}
 {"id": "usda-168144", "phe_source_class": "fruit protein"}
-{"id": "usda-173478", "phe_source_class": "fruit protein"}
-{"id": "usda-170989", "phe_source_class": "tuber/root starch"}
+{"id": "usda-173478", "phe_source_class": "none"}
+{"id": "usda-170989", "phe_source_class": "unknown protein"}
 {"id": "usda-173485", "phe_source_class": "fruit protein"}
 {"id": "usda-172255", "phe_source_class": "fruit protein"}
 {"id": "usda-173505", "phe_source_class": "vegetable protein"}
@@ -106,7 +106,7 @@
 {"id": "usda-169327", "phe_source_class": "vegetable protein"}
 {"id": "usda-169326", "phe_source_class": "vegetable protein"}
 {"id": "usda-169320", "phe_source_class": "vegetable protein"}
-{"id": "usda-170193", "phe_source_class": "none"}
+{"id": "usda-170193", "phe_source_class": "unknown protein"}
 {"id": "usda-169966", "phe_source_class": "vegetable protein"}
 {"id": "usda-168507", "phe_source_class": "vegetable protein"}
 {"id": "usda-169147", "phe_source_class": "vegetable protein"}
@@ -121,7 +121,7 @@
 {"id": "usda-174854", "phe_source_class": "none"}
 {"id": "usda-173209", "phe_source_class": "none"}
 {"id": "usda-171869", "phe_source_class": "none"}
-{"id": "usda-171882", "phe_source_class": "vegetable protein"}
+{"id": "usda-171882", "phe_source_class": "unknown protein"}
 {"id": "usda-171890", "phe_source_class": "none"}
 {"id": "usda-171889", "phe_source_class": "none"}
 {"id": "usda-175100", "phe_source_class": "fruit protein"}
@@ -137,7 +137,7 @@
 {"id": "usda-171711", "phe_source_class": "fruit protein"}
 {"id": "usda-171714", "phe_source_class": "fruit protein"}
 {"id": "usda-169974", "phe_source_class": "vegetable protein"}
-{"id": "usda-173412", "phe_source_class": "dairy protein"}
+{"id": "usda-173412", "phe_source_class": "none"}
 {"id": "usda-173410", "phe_source_class": "dairy protein"}
 {"id": "usda-173411", "phe_source_class": "dairy protein"}
 {"id": "usda-173430", "phe_source_class": "dairy protein"}
@@ -158,7 +158,7 @@
 {"id": "usda-168516", "phe_source_class": "vegetable protein"}
 {"id": "usda-170389", "phe_source_class": "vegetable protein"}
 {"id": "usda-170388", "phe_source_class": "vegetable protein"}
-{"id": "usda-172901", "phe_source_class": "dairy protein"}
+{"id": "usda-172901", "phe_source_class": "vegetable protein"}
 {"id": "usda-167995", "phe_source_class": "gelatin/collagen"}
 {"id": "usda-167971", "phe_source_class": "dairy protein"}
 {"id": "usda-171715", "phe_source_class": "fruit protein"}
@@ -225,7 +225,7 @@
 {"id": "usda-171721", "phe_source_class": "fruit protein"}
 {"id": "usda-169843", "phe_source_class": "vegetable protein"}
 {"id": "usda-171722", "phe_source_class": "fruit protein"}
-{"id": "usda-171904", "phe_source_class": "fruit protein"}
+{"id": "usda-171904", "phe_source_class": "none"}
 {"id": "usda-173453", "phe_source_class": "dairy protein"}
 {"id": "usda-172214", "phe_source_class": "dairy protein"}
 {"id": "usda-171261", "phe_source_class": "legume protein"}
@@ -256,14 +256,14 @@
 {"id": "usda-173022", "phe_source_class": "fruit protein"}
 {"id": "usda-174666", "phe_source_class": "fruit protein"}
 {"id": "usda-173021", "phe_source_class": "fruit protein"}
-{"id": "usda-169625", "phe_source_class": "unknown protein"}
-{"id": "usda-168800", "phe_source_class": "unknown protein"}
-{"id": "usda-168845", "phe_source_class": "unknown protein"}
-{"id": "usda-168795", "phe_source_class": "unknown protein"}
+{"id": "usda-169625", "phe_source_class": "dairy protein"}
+{"id": "usda-168800", "phe_source_class": "dairy protein"}
+{"id": "usda-168845", "phe_source_class": "dairy protein"}
+{"id": "usda-168795", "phe_source_class": "dairy protein"}
 {"id": "usda-169619", "phe_source_class": "dairy protein"}
-{"id": "usda-168802", "phe_source_class": "unknown protein"}
-{"id": "usda-168844", "phe_source_class": "unknown protein"}
-{"id": "usda-169626", "phe_source_class": "egg protein"}
+{"id": "usda-168802", "phe_source_class": "dairy protein"}
+{"id": "usda-168844", "phe_source_class": "dairy protein"}
+{"id": "usda-169626", "phe_source_class": "dairy protein"}
 {"id": "usda-167953", "phe_source_class": "none"}
 {"id": "usda-169596", "phe_source_class": "gelatin/collagen"}
 {"id": "usda-169231", "phe_source_class": "vegetable protein"}
@@ -311,10 +311,10 @@
 {"id": "usda-168156", "phe_source_class": "fruit protein"}
 {"id": "usda-169089", "phe_source_class": "fruit protein"}
 {"id": "usda-169908", "phe_source_class": "fruit protein"}
-{"id": "usda-168536", "phe_source_class": "vegetable protein"}
-{"id": "usda-168430", "phe_source_class": "vegetable protein"}
+{"id": "usda-168536", "phe_source_class": "tuber/root starch"}
+{"id": "usda-168430", "phe_source_class": "tuber/root starch"}
 {"id": "usda-169910", "phe_source_class": "fruit protein"}
-{"id": "usda-171018", "phe_source_class": "none"}
+{"id": "usda-171018", "phe_source_class": "legume protein"}
 {"id": "usda-168819", "phe_source_class": "fruit protein"}
 {"id": "usda-169092", "phe_source_class": "fruit protein"}
 {"id": "usda-169911", "phe_source_class": "fruit protein"}
@@ -395,8 +395,8 @@
 {"id": "usda-169263", "phe_source_class": "vegetable protein"}
 {"id": "usda-169262", "phe_source_class": "vegetable protein"}
 {"id": "usda-169260", "phe_source_class": "vegetable protein"}
-{"id": "usda-169094", "phe_source_class": "fruit protein"}
-{"id": "usda-169095", "phe_source_class": "fruit protein"}
+{"id": "usda-169094", "phe_source_class": "vegetable protein"}
+{"id": "usda-169095", "phe_source_class": "vegetable protein"}
 {"id": "usda-170003", "phe_source_class": "vegetable protein"}
 {"id": "usda-170100", "phe_source_class": "vegetable protein"}
 {"id": "usda-170001", "phe_source_class": "vegetable protein"}
@@ -492,7 +492,7 @@
 {"id": "usda-173239", "phe_source_class": "cereal protein"}
 {"id": "usda-172778", "phe_source_class": "cereal protein"}
 {"id": "usda-172780", "phe_source_class": "cereal protein"}
-{"id": "usda-172785", "phe_source_class": "cereal protein"}
+{"id": "usda-172785", "phe_source_class": "egg protein"}
 {"id": "usda-175020", "phe_source_class": "cereal protein"}
 {"id": "usda-168559", "phe_source_class": "vegetable protein"}
 {"id": "usda-169945", "phe_source_class": "fruit protein"}
@@ -511,7 +511,7 @@
 {"id": "usda-169950", "phe_source_class": "fruit protein"}
 {"id": "usda-169949", "phe_source_class": "fruit protein"}
 {"id": "usda-172087", "phe_source_class": "vegetable protein"}
-{"id": "usda-167861", "phe_source_class": "none"}
+{"id": "usda-167861", "phe_source_class": "unknown protein"}
 {"id": "usda-170047", "phe_source_class": "tuber/root starch"}
 {"id": "usda-170112", "phe_source_class": "tuber/root starch"}
 {"id": "usda-170033", "phe_source_class": "tuber/root starch"}
@@ -532,15 +532,15 @@
 {"id": "usda-170453", "phe_source_class": "tuber/root starch"}
 {"id": "usda-170029", "phe_source_class": "tuber/root starch"}
 {"id": "usda-170028", "phe_source_class": "tuber/root starch"}
-{"id": "usda-169650", "phe_source_class": "refined starch"}
-{"id": "usda-170241", "phe_source_class": "refined starch"}
-{"id": "usda-169654", "phe_source_class": "refined starch"}
-{"id": "usda-168831", "phe_source_class": "refined starch"}
-{"id": "usda-170242", "phe_source_class": "refined starch"}
+{"id": "usda-169650", "phe_source_class": "none"}
+{"id": "usda-170241", "phe_source_class": "none"}
+{"id": "usda-169654", "phe_source_class": "none"}
+{"id": "usda-168831", "phe_source_class": "none"}
+{"id": "usda-170242", "phe_source_class": "none"}
 {"id": "usda-169606", "phe_source_class": "refined starch"}
 {"id": "usda-170243", "phe_source_class": "refined starch"}
-{"id": "usda-169609", "phe_source_class": "refined starch"}
-{"id": "usda-170644", "phe_source_class": "refined starch"}
+{"id": "usda-169609", "phe_source_class": "none"}
+{"id": "usda-170644", "phe_source_class": "none"}
 {"id": "usda-169273", "phe_source_class": "vegetable protein"}
 {"id": "usda-170527", "phe_source_class": "vegetable protein"}
 {"id": "usda-168450", "phe_source_class": "vegetable protein"}
@@ -557,20 +557,20 @@
 {"id": "usda-170081", "phe_source_class": "vegetable protein"}
 {"id": "usda-168914", "phe_source_class": "cereal protein"}
 {"id": "usda-169711", "phe_source_class": "cereal protein"}
-{"id": "usda-171404", "phe_source_class": "unknown protein"}
-{"id": "usda-171416", "phe_source_class": "unknown protein"}
+{"id": "usda-171404", "phe_source_class": "none"}
+{"id": "usda-171416", "phe_source_class": "none"}
 {"id": "usda-171417", "phe_source_class": "none"}
-{"id": "usda-171405", "phe_source_class": "unknown protein"}
-{"id": "usda-171019", "phe_source_class": "unknown protein"}
+{"id": "usda-171405", "phe_source_class": "none"}
+{"id": "usda-171019", "phe_source_class": "none"}
 {"id": "usda-171403", "phe_source_class": "egg protein"}
 {"id": "usda-171406", "phe_source_class": "legume protein"}
-{"id": "usda-171408", "phe_source_class": "legume protein"}
+{"id": "usda-171408", "phe_source_class": "none"}
 {"id": "usda-173594", "phe_source_class": "egg protein"}
 {"id": "usda-171009", "phe_source_class": "egg protein"}
 {"id": "usda-171010", "phe_source_class": "egg protein"}
-{"id": "usda-171007", "phe_source_class": "unknown protein"}
-{"id": "usda-171008", "phe_source_class": "unknown protein"}
-{"id": "usda-171402", "phe_source_class": "unknown protein"}
+{"id": "usda-171007", "phe_source_class": "none"}
+{"id": "usda-171008", "phe_source_class": "egg protein"}
+{"id": "usda-171402", "phe_source_class": "egg protein"}
 {"id": "usda-173468", "phe_source_class": "none"}
 {"id": "usda-171409", "phe_source_class": "egg protein"}
 {"id": "usda-167759", "phe_source_class": "fruit protein"}
@@ -599,18 +599,18 @@
 {"id": "usda-173597", "phe_source_class": "none"}
 {"id": "usda-171546", "phe_source_class": "unknown protein"}
 {"id": "usda-172908", "phe_source_class": "unknown protein"}
-{"id": "usda-171537", "phe_source_class": "dairy protein"}
-{"id": "usda-174549", "phe_source_class": "dairy protein"}
-{"id": "usda-171540", "phe_source_class": "dairy protein"}
-{"id": "usda-172907", "phe_source_class": "dairy protein"}
-{"id": "usda-174553", "phe_source_class": "dairy protein"}
-{"id": "usda-171155", "phe_source_class": "dairy protein"}
-{"id": "usda-171158", "phe_source_class": "dairy protein"}
-{"id": "usda-172917", "phe_source_class": "dairy protein"}
+{"id": "usda-171537", "phe_source_class": "vegetable protein"}
+{"id": "usda-174549", "phe_source_class": "vegetable protein"}
+{"id": "usda-171540", "phe_source_class": "vegetable protein"}
+{"id": "usda-172907", "phe_source_class": "vegetable protein"}
+{"id": "usda-174553", "phe_source_class": "unknown protein"}
+{"id": "usda-171155", "phe_source_class": "vegetable protein"}
+{"id": "usda-171158", "phe_source_class": "tuber/root starch"}
+{"id": "usda-172917", "phe_source_class": "tuber/root starch"}
 {"id": "usda-174807", "phe_source_class": "egg protein"}
 {"id": "usda-172913", "phe_source_class": "vegetable protein"}
-{"id": "usda-172881", "phe_source_class": "dairy protein"}
-{"id": "usda-171574", "phe_source_class": "dairy protein"}
+{"id": "usda-172881", "phe_source_class": "vegetable protein"}
+{"id": "usda-171574", "phe_source_class": "vegetable protein"}
 {"id": "usda-174562", "phe_source_class": "unknown protein"}
 {"id": "usda-174563", "phe_source_class": "unknown protein"}
 {"id": "usda-171161", "phe_source_class": "vegetable protein"}
@@ -671,7 +671,7 @@
 {"id": "usda-169307", "phe_source_class": "tuber/root starch"}
 {"id": "usda-169306", "phe_source_class": "tuber/root starch"}
 {"id": "usda-168482", "phe_source_class": "tuber/root starch"}
-{"id": "usda-170681", "phe_source_class": "unknown protein"}
+{"id": "usda-170681", "phe_source_class": "none"}
 {"id": "usda-169925", "phe_source_class": "fruit protein"}
 {"id": "usda-169106", "phe_source_class": "fruit protein"}
 {"id": "usda-169924", "phe_source_class": "fruit protein"}
@@ -724,6 +724,6 @@
 {"id": "usda-170551", "phe_source_class": "tuber/root starch"}
 {"id": "usda-170072", "phe_source_class": "tuber/root starch"}
 {"id": "usda-170071", "phe_source_class": "tuber/root starch"}
-{"id": "usda-169358", "phe_source_class": "vegetable protein"}
-{"id": "usda-170074", "phe_source_class": "vegetable protein"}
-{"id": "usda-170073", "phe_source_class": "vegetable protein"}
+{"id": "usda-169358", "phe_source_class": "tuber/root starch"}
+{"id": "usda-170074", "phe_source_class": "tuber/root starch"}
+{"id": "usda-170073", "phe_source_class": "tuber/root starch"}
