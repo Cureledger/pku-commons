@@ -14,8 +14,14 @@
       "price_note": "unknown (sold through shop.cambrooke.com and medical distributors)",
       "notes": "Cambrooke is the dominant US low-protein food house; breads are one of ~16 low-protein food categories spanning 100+ SKUs.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"},
-        {"title": "Low Protein Foods | Ajinomoto Cambrooke", "url": "https://www.cambrooke.com/products/low-protein-foods/p65/"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        },
+        {
+          "title": "Low Protein Foods | Ajinomoto Cambrooke",
+          "url": "https://www.cambrooke.com/products/low-protein-foods/p65/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -27,9 +33,12 @@
       "geography": "US",
       "distribution": "direct / retail / prescription",
       "price_note": "unknown",
-      "notes": "Separate 'Fresh Filled Pasta' and 'Rice and Pasta' categories — a differentiator vs dry-only competitors.",
+      "notes": "Separate 'Fresh Filled Pasta' and 'Rice and Pasta' categories, a differentiator vs dry-only competitors.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        }
       ],
       "confidence": "sourced"
     },
@@ -43,7 +52,10 @@
       "price_note": "unknown",
       "notes": "Low-protein cheese is a hard-to-formulate niche; Cambrooke is one of few makers with a dedicated cheese line.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        }
       ],
       "confidence": "sourced"
     },
@@ -57,7 +69,10 @@
       "price_note": "unknown",
       "notes": "Ready meals plus a meat-alternatives line; convenience prepared meals are the higher-margin end of the low-protein shelf.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        }
       ],
       "confidence": "sourced"
     },
@@ -71,7 +86,10 @@
       "price_note": "unknown",
       "notes": "Baking category alongside breakfast, desserts, chocolates; core staple category for at-home low-protein cooking.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        }
       ],
       "confidence": "sourced"
     },
@@ -83,9 +101,12 @@
       "geography": "US",
       "distribution": "direct / retail / prescription",
       "price_note": "unknown",
-      "notes": "Snacks/desserts/chocolates/spreads/sauces/soups round out a full-pantry strategy — breadth is Cambrooke's moat.",
+      "notes": "Snacks/desserts/chocolates/spreads/sauces/soups round out a full-pantry strategy, breadth is Cambrooke's moat.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        }
       ],
       "confidence": "sourced"
     },
@@ -99,7 +120,10 @@
       "price_note": "unknown",
       "notes": "Dedicated infant/toddler low-protein weaning line; captures patients at diagnosis (newborn screening) for lifetime retention.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        }
       ],
       "confidence": "sourced"
     },
@@ -113,8 +137,14 @@
       "price_note": "~$682 per case (Glytactin BetterMilk Original pouch, shop.cambrooke.com); single 1.4-1.8 oz packets sold each",
       "notes": "GMP-based 'milk' straddles food/formula (15g Glytactin protein/serving); flagged as borderline vs the formula dataset. Uses GMPure low-Phe GMP as a differentiator.",
       "sources": [
-        {"title": "Glytactin BetterMilk | Ajinomoto Cambrooke", "url": "https://www.cambrooke.com/products/glytactin/bettermilk/"},
-        {"title": "Glytactin BetterMilk Original pouch — shop.cambrooke.com", "url": "https://shop.cambrooke.com/product/1214/glytactin-bettermilk-orignal-pouch"}
+        {
+          "title": "Glytactin BetterMilk | Ajinomoto Cambrooke",
+          "url": "https://www.cambrooke.com/products/glytactin/bettermilk/"
+        },
+        {
+          "title": "Glytactin BetterMilk Original pouch, shop.cambrooke.com",
+          "url": "https://shop.cambrooke.com/product/1214/glytactin-bettermilk-orignal-pouch"
+        }
       ],
       "confidence": "sourced"
     },
@@ -128,8 +158,14 @@
       "price_note": "unknown (prescribable in UK/EU; retail via NutriciaStore AU)",
       "notes": "Loprofin is Nutricia/Danone's flagship low-protein range; pasta in 250-500g packs across multiple shapes. Danone is the largest global metabolic-nutrition player.",
       "sources": [
-        {"title": "Low Protein Foods | Loprofin | NutriciaStore AU", "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"},
-        {"title": "Loprofin low-protein products | Nutricia Metabolics", "url": "https://www.nutriciametabolics.com/en-gb/products/low-protein/"}
+        {
+          "title": "Low Protein Foods | Loprofin | NutriciaStore AU",
+          "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"
+        },
+        {
+          "title": "Loprofin low-protein products | Nutricia Metabolics",
+          "url": "https://www.nutriciametabolics.com/en-gb/products/low-protein/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -143,7 +179,10 @@
       "price_note": "unknown",
       "notes": "Low-protein rice substitute, a staple carbohydrate replacement.",
       "sources": [
-        {"title": "Low Protein Foods | Loprofin | NutriciaStore AU", "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"}
+        {
+          "title": "Low Protein Foods | Loprofin | NutriciaStore AU",
+          "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"
+        }
       ],
       "confidence": "sourced"
     },
@@ -157,7 +196,10 @@
       "price_note": "unknown",
       "notes": "500g all-purpose baking mix plus savory crackers; broad SKU count supports prescription reimbursement in EU markets.",
       "sources": [
-        {"title": "Low Protein Foods | Loprofin | NutriciaStore AU", "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"}
+        {
+          "title": "Low Protein Foods | Loprofin | NutriciaStore AU",
+          "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"
+        }
       ],
       "confidence": "sourced"
     },
@@ -171,7 +213,10 @@
       "price_note": "unknown",
       "notes": "Egg replacer (100g) and low-protein milk substitute; enabling ingredients for home baking and pouring.",
       "sources": [
-        {"title": "Low Protein Foods | Loprofin | NutriciaStore AU", "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"}
+        {
+          "title": "Low Protein Foods | Loprofin | NutriciaStore AU",
+          "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"
+        }
       ],
       "confidence": "sourced"
     },
@@ -185,7 +230,10 @@
       "price_note": "unknown",
       "notes": "Kid-oriented low-protein breakfast cereals (375g), competing with regular sugary cereals on taste/format.",
       "sources": [
-        {"title": "Low Protein Foods | Loprofin | NutriciaStore AU", "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"}
+        {
+          "title": "Low Protein Foods | Loprofin | NutriciaStore AU",
+          "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"
+        }
       ],
       "confidence": "sourced"
     },
@@ -199,7 +247,10 @@
       "price_note": "unknown (prescribable in UK)",
       "notes": "Older Nutricia low-protein baking line still appearing on UK prescription formularies alongside Loprofin.",
       "sources": [
-        {"title": "Special Low Protein/Low Phenylalanine Prescribable Products (NSPKU)", "url": "https://www.nspku.org/wp-content/uploads/2020/02/Low-Protein-Prescription-Foods_Revised_AUG_19.pdf"}
+        {
+          "title": "Special Low Protein/Low Phenylalanine Prescribable Products (NSPKU)",
+          "url": "https://www.nspku.org/wp-content/uploads/2020/02/Low-Protein-Prescription-Foods_Revised_AUG_19.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -213,8 +264,14 @@
       "price_note": "unknown (500g packs; prescribable in UK/EU)",
       "notes": "Dr. Schar (a major gluten-free house) entered PKU in 2013; Italian pasta heritage positions Mevalia on taste. <1g protein/100g.",
       "sources": [
-        {"title": "Mevalia low-protein products", "url": "https://www.mevalia.com/en"},
-        {"title": "Mevalia Spaghetti — Vitafriends PKU", "url": "https://www.vitafriendspku.co.uk/pku/product/mevalia-spaghetti"}
+        {
+          "title": "Mevalia low-protein products",
+          "url": "https://www.mevalia.com/en"
+        },
+        {
+          "title": "Mevalia Spaghetti, Vitafriends PKU",
+          "url": "https://www.vitafriendspku.co.uk/pku/product/mevalia-spaghetti"
+        }
       ],
       "confidence": "sourced"
     },
@@ -228,8 +285,14 @@
       "price_note": "unknown (500g bread mix)",
       "notes": "Versatile bread/pizza/pie mix, free from gluten/milk/egg/soy; plus a dedicated bread-and-snacks sub-range.",
       "sources": [
-        {"title": "Mevalia Bread Mix — Vitafriends PKU", "url": "https://www.vitafriendspku.co.uk/pku/product/mevalia-bread-mix"},
-        {"title": "Mevalia Bread and Snacks", "url": "http://www.mevalia.com/en/products-low-protein/bread-and-snacks/"}
+        {
+          "title": "Mevalia Bread Mix, Vitafriends PKU",
+          "url": "https://www.vitafriendspku.co.uk/pku/product/mevalia-bread-mix"
+        },
+        {
+          "title": "Mevalia Bread and Snacks",
+          "url": "http://www.mevalia.com/en/products-low-protein/bread-and-snacks/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -243,8 +306,14 @@
       "price_note": "unknown (prescribable UK)",
       "notes": "Firstplay has made low-protein foods since 1984, launched Promin 1993; 100+ SKUs. US access via exclusive Pentec Health/ZOIA distribution deal.",
       "sources": [
-        {"title": "Promin — First Play Dietary Foods", "url": "https://prominpku.com/first-play-dietary-foods-promin/"},
-        {"title": "Pentec Health — Low Protein Foods (US distribution)", "url": "https://pentechealth.com/low-protein-foods/"}
+        {
+          "title": "Promin, First Play Dietary Foods",
+          "url": "https://prominpku.com/first-play-dietary-foods-promin/"
+        },
+        {
+          "title": "Pentec Health, Low Protein Foods (US distribution)",
+          "url": "https://pentechealth.com/low-protein-foods/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -258,7 +327,10 @@
       "price_note": "unknown",
       "notes": "Burger mix and meat substitutes packed on-site; savory prepared-meal focus differentiates from bakery-led competitors.",
       "sources": [
-        {"title": "Promin — First Play Dietary Foods", "url": "https://prominpku.com/first-play-dietary-foods-promin/"}
+        {
+          "title": "Promin, First Play Dietary Foods",
+          "url": "https://prominpku.com/first-play-dietary-foods-promin/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -272,7 +344,10 @@
       "price_note": "unknown",
       "notes": "Grab-and-go formats (bars, smoothies) are a growth edge for older PKU patients managing diet adherence.",
       "sources": [
-        {"title": "Americans With Metabolic Diseases Access Firstplay & Promin (PRWeb)", "url": "https://www.prweb.com/releases/americans-with-metabolic-diseases-have-access-to-firstplay-dietary-foods-and-promin-low-protein-foods-via-exclusive-distribution-agreement-with-pentec-health-zoia-pharma-301903096.html"}
+        {
+          "title": "Americans With Metabolic Diseases Access Firstplay & Promin (PRWeb)",
+          "url": "https://www.prweb.com/releases/americans-with-metabolic-diseases-have-access-to-firstplay-dietary-foods-and-promin-low-protein-foods-via-exclusive-distribution-agreement-with-pentec-health-zoia-pharma-301903096.html"
+        }
       ],
       "confidence": "sourced"
     },
@@ -286,8 +361,14 @@
       "price_note": "unknown (prescribable UK; ~500g)",
       "notes": "Single flagship all-purpose mix (bread, cakes, pancakes, omelettes, burgers) founded by PKU parents; punches above weight on versatility.",
       "sources": [
-        {"title": "Fate Special Foods — Products", "url": "https://www.fatespecialfoods.com/products"},
-        {"title": "Fate Low Protein Bread Mix — Vitafriends PKU AU", "url": "https://vitafriendspku.com.au/pku/product/fate"}
+        {
+          "title": "Fate Special Foods, Products",
+          "url": "https://www.fatespecialfoods.com/products"
+        },
+        {
+          "title": "Fate Low Protein Bread Mix, Vitafriends PKU AU",
+          "url": "https://vitafriendspku.com.au/pku/product/fate"
+        }
       ],
       "confidence": "sourced"
     },
@@ -301,7 +382,10 @@
       "price_note": "unknown",
       "notes": "Chocolate sponge/pudding/crumble mix; small-batch specialty desserts.",
       "sources": [
-        {"title": "Fate Special Foods — Products", "url": "https://www.fatespecialfoods.com/products"}
+        {
+          "title": "Fate Special Foods, Products",
+          "url": "https://www.fatespecialfoods.com/products"
+        }
       ],
       "confidence": "sourced"
     },
@@ -315,8 +399,14 @@
       "price_note": "~$6-9 per 8-16 oz loaf (retail; varies by channel)",
       "notes": "Gluten-free maker whose corn/tapioca loaves are PKU staples; ~40 cal/slice. Retail (non-Rx) availability is unusual in this category.",
       "sources": [
-        {"title": "Ener-G Foods Corn Loaf — PKU Perspectives", "url": "https://www.pkuperspectives.com/bread/ener-g-foods-8oz-corn-loaf/"},
-        {"title": "Ener-G Foods", "url": "https://www.ener-g.com/"}
+        {
+          "title": "Ener-G Foods Corn Loaf, PKU Perspectives",
+          "url": "https://www.pkuperspectives.com/bread/ener-g-foods-8oz-corn-loaf/"
+        },
+        {
+          "title": "Ener-G Foods",
+          "url": "https://www.ener-g.com/"
+        }
       ],
       "confidence": "estimate"
     },
@@ -330,8 +420,14 @@
       "price_note": "unknown",
       "notes": "Dinner rolls, bread crumbs and flour/baking ingredients extend the loaf line into cooking staples.",
       "sources": [
-        {"title": "Ener-G Foods Tapioca Dinner Rolls — PKU Perspectives", "url": "https://www.pkuperspectives.com/buns-bagels-rolls/ener-g-foods-gluten-free-dinner-rolls-9.88oz/"},
-        {"title": "Ener-G Bread Crumbs — PKU Perspectives", "url": "https://www.pkuperspectives.com/flour-baking-ingredients/ener-g-bread-crumbs/"}
+        {
+          "title": "Ener-G Foods Tapioca Dinner Rolls, PKU Perspectives",
+          "url": "https://www.pkuperspectives.com/buns-bagels-rolls/ener-g-foods-gluten-free-dinner-rolls-9.88oz/"
+        },
+        {
+          "title": "Ener-G Bread Crumbs, PKU Perspectives",
+          "url": "https://www.pkuperspectives.com/flour-baking-ingredients/ener-g-bread-crumbs/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -345,7 +441,10 @@
       "price_note": "unknown (UK prescribable; ~500g)",
       "notes": "All-purpose flour mix for bread, cakes, biscuits, pastries; long-standing UK prescription staple.",
       "sources": [
-        {"title": "Juvela Low Protein Mix 500g — Chemist.net", "url": "https://www.chemist.net/juvela-low-protein-mix-500g-pd-4180"}
+        {
+          "title": "Juvela Low Protein Mix 500g, Chemist.net",
+          "url": "https://www.chemist.net/juvela-low-protein-mix-500g-pd-4180"
+        }
       ],
       "confidence": "sourced"
     },
@@ -359,7 +458,10 @@
       "price_note": "unknown (400g loaf)",
       "notes": "Ready-sliced low-protein loaf for toast/sandwiches; convenience format vs bake-your-own mixes.",
       "sources": [
-        {"title": "Juvela Low Protein Sliced Loaf 400g — Chemist.net", "url": "https://www.chemist.net/juvela-low-protein-sliced-loaf-400g-pd-4173"}
+        {
+          "title": "Juvela Low Protein Sliced Loaf 400g, Chemist.net",
+          "url": "https://www.chemist.net/juvela-low-protein-sliced-loaf-400g-pd-4173"
+        }
       ],
       "confidence": "sourced"
     },
@@ -373,7 +475,10 @@
       "price_note": "unknown",
       "notes": "One of the oldest low-protein brands; flour mix and pasta appear on UK prescription formularies and US import channels.",
       "sources": [
-        {"title": "Special Low Protein/Low Phenylalanine Prescribable Products (NSPKU)", "url": "https://www.nspku.org/wp-content/uploads/2020/02/Low-Protein-Prescription-Foods_Revised_AUG_19.pdf"}
+        {
+          "title": "Special Low Protein/Low Phenylalanine Prescribable Products (NSPKU)",
+          "url": "https://www.nspku.org/wp-content/uploads/2020/02/Low-Protein-Prescription-Foods_Revised_AUG_19.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -387,8 +492,14 @@
       "price_note": "unknown",
       "notes": "German FSMP maker (founded 1999); starch-based rice/semolina replacers plus micronutrient and thickening systems.",
       "sources": [
-        {"title": "metaX — Low Protein Products", "url": "https://metax.org/en/products/lowproteinproducts.aspx"},
-        {"title": "metaX low-protein rice substitute — PKU-Versand Huber", "url": "https://www.pku-versand-huber.de/product_info.php?language=en&products_id=214"}
+        {
+          "title": "metaX, Low Protein Products",
+          "url": "https://metax.org/en/products/lowproteinproducts.aspx"
+        },
+        {
+          "title": "metaX low-protein rice substitute, PKU-Versand Huber",
+          "url": "https://www.pku-versand-huber.de/product_info.php?language=en&products_id=214"
+        }
       ],
       "confidence": "sourced"
     },
@@ -402,7 +513,10 @@
       "price_note": "unknown (direct-to-patient webshop)",
       "notes": "Runs its own DTC webshop, a channel model shared by German metabolic-food specialists.",
       "sources": [
-        {"title": "Low protein products — metaX Onlineshop", "url": "https://metax-shop.org/en/eiweissarme-produkte/"}
+        {
+          "title": "Low protein products, metaX Onlineshop",
+          "url": "https://metax-shop.org/en/eiweissarme-produkte/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -416,8 +530,14 @@
       "price_note": "~$12-19 per 1 lb bag (mixes); on-the-go packets ~$2",
       "notes": "US low-protein baking-mix brand carried by PKU Perspectives; pizza crust, muffin and pancake mixes.",
       "sources": [
-        {"title": "Country Sunrise Pizza Crust Mix — PKU Perspectives", "url": "https://www.pkuperspectives.com/baking-mixes/country-sunrise-pizza-crust-mix//"},
-        {"title": "Baking (Low Protein) — PKU Perspectives", "url": "https://pkuperspectives.com/product-category/shop-by-diet/lowprotein/baking-lowprotein/"}
+        {
+          "title": "Country Sunrise Pizza Crust Mix, PKU Perspectives",
+          "url": "https://www.pkuperspectives.com/baking-mixes/country-sunrise-pizza-crust-mix//"
+        },
+        {
+          "title": "Baking (Low Protein), PKU Perspectives",
+          "url": "https://pkuperspectives.com/product-category/shop-by-diet/lowprotein/baking-lowprotein/"
+        }
       ],
       "confidence": "estimate"
     },
@@ -429,9 +549,12 @@
       "geography": "US",
       "distribution": "retail / online (PKU Perspectives)",
       "price_note": "~$8.95 per 2.82 oz (80g) pouch",
-      "notes": "Low-protein 'peanut butter' analog — a flavor category rarely served, priced at a steep per-ounce premium.",
+      "notes": "Low-protein 'peanut butter' analog, a flavor category rarely served, priced at a steep per-ounce premium.",
       "sources": [
-        {"title": "Country Sunrise Low Protein PB & Honey Mix — PKU Perspectives", "url": "https://pkuperspectives.com/product/spreads-country-sunrise-low-protein-flavored-peanut-butter-honey-mix-2-82-oz-80g/"}
+        {
+          "title": "Country Sunrise Low Protein PB & Honey Mix, PKU Perspectives",
+          "url": "https://pkuperspectives.com/product/spreads-country-sunrise-low-protein-flavored-peanut-butter-honey-mix-2-82-oz-80g/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -445,7 +568,10 @@
       "price_note": "Meal kits ~$6.50-6.95; specialty 1 lb mixes ~$17.95-18.95; patties (4-pk) ~$12.95",
       "notes": "Aggregator carrying 500+ low-protein SKUs across Country Sunrise, Nutricia, Schar, Ener-G plus gluten-free/vegan crossovers (Violife, Daiya, Miracle Noodle); a key US demand-side channel.",
       "sources": [
-        {"title": "PKU Perspectives", "url": "https://pkuperspectives.com/"}
+        {
+          "title": "PKU Perspectives",
+          "url": "https://pkuperspectives.com/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -459,7 +585,10 @@
       "price_note": "unknown",
       "notes": "US-carried low-protein pasta brand listed among PKU Perspectives featured brands.",
       "sources": [
-        {"title": "PKU Perspectives — featured brands", "url": "https://pkuperspectives.com/"}
+        {
+          "title": "PKU Perspectives, featured brands",
+          "url": "https://pkuperspectives.com/"
+        }
       ],
       "confidence": "estimate"
     },
@@ -471,9 +600,12 @@
       "geography": "UK",
       "distribution": "prescription / pharmacy",
       "price_note": "unknown",
-      "notes": "'Taylor's' could not be verified as a distinct PKU brand; UK prescribable ranges include PK Foods — flagged for a contributor to confirm which brand was intended.",
+      "notes": "'Taylor's' could not be verified as a distinct PKU brand; UK prescribable ranges include PK Foods, flagged for a contributor to confirm which brand was intended.",
       "sources": [
-        {"title": "Low Protein Foods available on prescription for PKU (NSPKU)", "url": "https://nspku.org/download/low-protein-foods-available-on-prescription-for-patients-with-pku/"}
+        {
+          "title": "Low Protein Foods available on prescription for PKU (NSPKU)",
+          "url": "https://nspku.org/download/low-protein-foods-available-on-prescription-for-patients-with-pku/"
+        }
       ],
       "confidence": "unknown"
     },
@@ -487,7 +619,10 @@
       "price_note": "unknown",
       "notes": "Schar's mainstream gluten-free breads are cross-purchased by PKU families for lower-protein options; blurs the medical-food/retail boundary.",
       "sources": [
-        {"title": "PKU Perspectives — featured brands (Schar)", "url": "https://pkuperspectives.com/"}
+        {
+          "title": "PKU Perspectives, featured brands (Schar)",
+          "url": "https://pkuperspectives.com/"
+        }
       ],
       "confidence": "estimate"
     },
@@ -499,9 +634,12 @@
       "geography": "AU / UK / global",
       "distribution": "prescription / pharmacy",
       "price_note": "unknown",
-      "notes": "Vitaflo is formula-led (PKU sphere/air/explore, excluded) but distributes Fate low-protein mixes in Australia — Nestlé's foothold on the food side is thin vs Danone/Cambrooke.",
+      "notes": "Vitaflo is formula-led (PKU sphere/air/explore, excluded) but distributes Fate low-protein mixes in Australia, Nestlé's foothold on the food side is thin vs Danone/Cambrooke.",
       "sources": [
-        {"title": "Fate — Low Protein Foods | Vitaflo Australia", "url": "https://www.nestlehealthscience.com.au/vitaflo/conditions/low-protein-foods/fate"}
+        {
+          "title": "Fate, Low Protein Foods | Vitaflo Australia",
+          "url": "https://www.nestlehealthscience.com.au/vitaflo/conditions/low-protein-foods/fate"
+        }
       ],
       "confidence": "sourced"
     },
@@ -515,7 +653,10 @@
       "price_note": "unknown",
       "notes": "Chocolate/strawberry flakes and sweet formats target pediatric adherence; complements the savory pasta/bread core.",
       "sources": [
-        {"title": "Low Protein Foods | Loprofin | NutriciaStore AU", "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"}
+        {
+          "title": "Low Protein Foods | Loprofin | NutriciaStore AU",
+          "url": "https://www.nutriciastore.com.au/kids/metabolics/low-protein-foods"
+        }
       ],
       "confidence": "sourced"
     },
@@ -529,7 +670,10 @@
       "price_note": "unknown",
       "notes": "Breakfast items and side dishes fill out full-day meal coverage; part of the 100+ item low-protein catalog.",
       "sources": [
-        {"title": "Ajinomoto Cambrooke — Low Protein categories", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+        {
+          "title": "Ajinomoto Cambrooke, Low Protein categories",
+          "url": "https://shop.cambrooke.com/category/2/low-protein"
+        }
       ],
       "confidence": "sourced"
     },
@@ -543,7 +687,10 @@
       "price_note": "unknown",
       "notes": "Parent brand behind Promin; low-protein cereal and bread lines, dedicated single-category factory in Stockport.",
       "sources": [
-        {"title": "Pentec Health — Low Protein Foods", "url": "https://pentechealth.com/low-protein-foods/"}
+        {
+          "title": "Pentec Health, Low Protein Foods",
+          "url": "https://pentechealth.com/low-protein-foods/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -557,7 +704,10 @@
       "price_note": "unknown",
       "notes": "Flour and baking staples extend Mevalia beyond pasta into home-cooking ingredients.",
       "sources": [
-        {"title": "Mevalia — complete range", "url": "https://www.mevalia.com/en"}
+        {
+          "title": "Mevalia, complete range",
+          "url": "https://www.mevalia.com/en"
+        }
       ],
       "confidence": "estimate"
     },
@@ -571,7 +721,10 @@
       "price_note": "unknown",
       "notes": "Sweet/savory snack formats within the Loprofin range support diet variety and adherence.",
       "sources": [
-        {"title": "PKU Product Range | Nutricia UK", "url": "https://www.nutricia.co.uk/hcp/where-we-specialise/inherited-metabolic-disorders/pku-product-range.html"}
+        {
+          "title": "PKU Product Range | Nutricia UK",
+          "url": "https://www.nutricia.co.uk/hcp/where-we-specialise/inherited-metabolic-disorders/pku-product-range.html"
+        }
       ],
       "confidence": "estimate"
     },
@@ -585,7 +738,10 @@
       "price_note": "unknown",
       "notes": "Second US online aggregator for low-protein/PKU foods alongside PKU Perspectives; demand-side consolidation is limited (few specialist retailers).",
       "sources": [
-        {"title": "Low Protein & PKU Friendly Foods — AlternativeStores", "url": "https://alternativestores.com/collections/low-protein-pku"}
+        {
+          "title": "Low Protein & PKU Friendly Foods, AlternativeStores",
+          "url": "https://alternativestores.com/collections/low-protein-pku"
+        }
       ],
       "confidence": "estimate"
     },
@@ -597,9 +753,12 @@
       "geography": "US",
       "distribution": "direct / specialty pharmacy",
       "price_note": "unknown",
-      "notes": "Exclusive US distribution deal (announced ~2023) that opened American access to UK Firstplay/Promin lines — a distribution gap being filled, not a manufacturer.",
+      "notes": "Exclusive US distribution deal (announced ~2023) that opened American access to UK Firstplay/Promin lines, a distribution gap being filled, not a manufacturer.",
       "sources": [
-        {"title": "Pentec Health newsroom — Firstplay/Promin US access", "url": "https://pentechealth.com/newsroom/americans-with-metabolic-diseases-have-access-to-firstplay-dietary-foods-and-promin-low-protein-foods-via-exclusive-distribution-agreement-with-pentec-health/"}
+        {
+          "title": "Pentec Health newsroom, Firstplay/Promin US access",
+          "url": "https://pentechealth.com/newsroom/americans-with-metabolic-diseases-have-access-to-firstplay-dietary-foods-and-promin-low-protein-foods-via-exclusive-distribution-agreement-with-pentec-health/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -613,8 +772,14 @@
       "price_note": "US low-protein foods ~$1,274-1,961/yr per patient (formula separate); total PKU treatment est. $19,057-$54,147/yr; UK pharmacy markups 200-300% over manufacturing cost",
       "notes": "98% of special low-protein food subgroups cost more than regular/'free-from' equivalents; ~60% of US families pay out of pocket, driving price sensitivity and adherence gaps.",
       "sources": [
-        {"title": "Special Low Protein Foods Prescribed in England: Prescribing & Cost (PMC8620831)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8620831/"},
-        {"title": "PKU Patients, Families Burdened by High Treatment Costs", "url": "https://phenylketonurianews.com/2020/01/08/pku-patients-and-their-families-feel-high-burden-of-costs-and-time-needed-for-treatment-us-survey-finds/"}
+        {
+          "title": "Special Low Protein Foods Prescribed in England: Prescribing & Cost (PMC8620831)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8620831/"
+        },
+        {
+          "title": "PKU Patients, Families Burdened by High Treatment Costs",
+          "url": "https://phenylketonurianews.com/2020/01/08/pku-patients-and-their-families-feel-high-burden-of-costs-and-time-needed-for-treatment-us-survey-finds/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -628,8 +793,14 @@
       "price_note": "Some US states cap low-protein-food coverage at ~$3,000/yr; UK/EU largely prescription-reimbursed",
       "notes": "EU markets run on physician prescription + reimbursement (favoring Nutricia/Mevalia/Promin); US is a patchwork of state mandates, caps and out-of-pocket, favoring direct/retail sellers (Cambrooke, PKU Perspectives).",
       "sources": [
-        {"title": "State Statutes and Regulations on Dietary Treatment (HRSA)", "url": "https://www.hrsa.gov/sites/default/files/hrsa/advisory-committees/heritable-disorders/reports-recommendations/state-laws-medical-foods-tab.pdf"},
-        {"title": "UK Patient Access to Low-Protein Prescription Foods in PKU (PMC11820046)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11820046/"}
+        {
+          "title": "State Statutes and Regulations on Dietary Treatment (HRSA)",
+          "url": "https://www.hrsa.gov/sites/default/files/hrsa/advisory-committees/heritable-disorders/reports-recommendations/state-laws-medical-foods-tab.pdf"
+        },
+        {
+          "title": "UK Patient Access to Low-Protein Prescription Foods in PKU (PMC11820046)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11820046/"
+        }
       ],
       "confidence": "sourced"
     }

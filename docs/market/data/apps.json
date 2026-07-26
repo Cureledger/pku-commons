@@ -1,0 +1,283 @@
+{
+  "dataset": "apps",
+  "title": "PKU apps & software",
+  "updated": "2026-07-26",
+  "source_note": "Compiled from App Store / Google Play listings, developer and manufacturer sites (Cycle Pharmaceuticals, Nutricia/Danone, Vitaflo/Nestle Health Science, Ajinomoto Cambrooke), the flok / National PKU News nonprofit, howmuchphe.org, community app roundups, and the Cureledger / PKU Commons project pages for Phebe. Market-facing facts only: who builds each tool, business model, platform, and whether it survives. The recurring pattern across the category is fragmentation into many solo- or small-shop apps that go unmaintained when one developer moves on; PKU Commons exists as a response to exactly that survival problem. Cost, backing, and status are marked estimate where a listing did not state them explicitly.",
+  "records": [
+    {
+      "name": "Phebe",
+      "developer": "Cureledger / Team Phebe (PKU Commons)",
+      "category": "phe-estimator",
+      "platforms": "Android (Google Play) / web / Claude Skill",
+      "cost": "free",
+      "backing": "open-source / nonprofit",
+      "status": "WIP",
+      "notes": "Early-stage AI phe-estimator that reads a nutrition label 'the way a PKU parent would', estimates phe, and logs it; positioned as the reference implementation of the open PKU Commons accuracy standard rather than a finished market leader. Honest about thin data and AI-assisted estimation. Its survival strategy is the point: built on shared open infrastructure so the tool outlives any single developer, the failure mode that kills most PKU apps.",
+      "market_signal": "Only entrant pairing an AI estimator with a public, reproducible accuracy benchmark and open infrastructure; the differentiator is verifiable reliability and continuity, not features.",
+      "sources": [
+        {"title": "Phebe on Google Play (app.cureledger.phebe)", "url": "https://play.google.com/store/apps/details?id=app.cureledger.phebe"},
+        {"title": "PKU Commons - families page (download & test Phebe)", "url": "https://github.com/martianina/pku-commons"},
+        {"title": "Cureledger", "url": "https://cureledger.com"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "flok (formerly PKU News)",
+      "developer": "flok / National PKU News (501c3 nonprofit)",
+      "category": "community",
+      "platforms": "iOS / Android",
+      "cost": "free",
+      "backing": "nonprofit",
+      "status": "live",
+      "notes": "Free app and research platform for inherited metabolic disorders (PKU, HCU, MSUD, organic acidemias, tyrosinemia, urea cycle disorders); rebrand of the long-running National PKU News nonprofit. Food database of 10,000+ items with six amino acids, plus mood/symptom/lab tracking, wearable integration (Apple Health / Google Fit), and patient-led research. Nonprofit backing is the strongest survival signal in the category.",
+      "market_signal": "The nonprofit consolidator: multi-IMD scope plus a research arm gives it durability that solo apps lack; competes on trust and longevity rather than a single feature.",
+      "sources": [
+        {"title": "flok | Innovation of Care", "url": "https://www.flok.org/"},
+        {"title": "flok Health on the App Store", "url": "https://apps.apple.com/us/app/flok-health/id1666886583"},
+        {"title": "Introducing flok - PKU News", "url": "https://pkunews.org/exciting-news-for-our-community/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "How Much Phe (HowMuchPhe.org)",
+      "developer": "National PKU News (now flok); built by Sarah Chamberlin",
+      "category": "diet-tracker",
+      "platforms": "web",
+      "cost": "freemium / subscription",
+      "backing": "nonprofit",
+      "status": "live",
+      "notes": "The classic web-based phe-counting database, launched July 2014 from the Low Protein Food List for PKU; phe/protein/exchange/calorie values for 10,000+ foods with intake and blood-level charting and export. Reported 2,500+ subscribers and 1,000+ daily users. Now being folded into the flok platform, showing consolidation of the nonprofit tooling.",
+      "market_signal": "Deepest curated food database in the space and a scholarship/clinic model for access; its migration into flok signals the category consolidating around one nonprofit spine.",
+      "sources": [
+        {"title": "How Much Phe? | Welcome", "url": "https://howmuchphe.org/"},
+        {"title": "How Much Phe - PKU News", "url": "https://pkunews.org/how-much-phe/"},
+        {"title": "HowMuchPhe.org for Clinics", "url": "https://howmuchphe.org/clinics"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Cycle Vita PKU",
+      "developer": "Cycle Pharmaceuticals",
+      "category": "manufacturer-companion",
+      "platforms": "iOS / Android",
+      "cost": "free",
+      "backing": "manufacturer (pharma)",
+      "status": "live",
+      "notes": "AI-powered PKU management app launched April 2025 by a pharma company; searchable 9,000+ food database, an AI meal scanner that estimates phe from a photo, plus lab-result tracking and medication/formula reminders. Pharma backing means real budget and likely durability, but the app steers toward the maker's treatment ecosystem. Targeted at adolescents/young adults gaining independence.",
+      "market_signal": "First well-funded AI-photo phe estimator; pharma money solves the maintenance problem but raises the question of neutrality vs. an independent, verifiable standard.",
+      "sources": [
+        {"title": "Cycle Pharmaceuticals launches Cycle Vita PKU (BusinessWire)", "url": "https://www.businesswire.com/news/home/20250410778512/en/Cycle-Pharmaceuticals-Launches-Cycle-Vita-PKU-an-AI-Powered-Smartphone-App-for-On-The-Go-Management-of-Phenylketonuria-PKU"},
+        {"title": "Cycle Vita PKU on the App Store", "url": "https://apps.apple.com/us/app/cycle-vita-pku/id6737810019"},
+        {"title": "Cycle Vita PKU on Google Play", "url": "https://play.google.com/store/apps/details?id=com.cyclevita"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "EasyPKU",
+      "developer": "EasyPKU (with the Norwegian PKU Association)",
+      "category": "diet-tracker",
+      "platforms": "iOS / Android",
+      "cost": "freemium ($2.99-$4.99/mo)",
+      "backing": "small shop / patient-org partnership",
+      "status": "live",
+      "notes": "Tracks phe, protein, exchanges, formula, and calories; GDPR-compliant with encrypted cloud storage, multi-user family sharing, blood-level graphs, and export. Partnered with the Norwegian PKU Association since 2022 (members act as test users). Three subscription tiers give it a real revenue model, which is unusual and a survival positive in a category dominated by free solo apps.",
+      "market_signal": "Rare working subscription business model plus a national patient-org partnership; proves families will pay for family-sharing and reliability.",
+      "sources": [
+        {"title": "EasyPKU - The Leading PKU App Worldwide", "url": "https://easypku.com/"},
+        {"title": "EasyPKU on the App Store", "url": "https://apps.apple.com/au/app/easypku/id6480478980"},
+        {"title": "EasyPKU on Google Play", "url": "https://play.google.com/store/apps/details?id=com.easypku.app.v2"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PKU Tools",
+      "developer": "Andre Reus (solo developer)",
+      "category": "phe-estimator",
+      "platforms": "Android (TWA) / web",
+      "cost": "freemium",
+      "backing": "solo-dev",
+      "status": "live",
+      "notes": "All-in-one tool (scale, nutrition table, calculator) with food-database search, barcode scanning, and a phe/protein converter; also lets the user describe or photograph a food and have AI estimate weight and nutrition. Solo-developed lineage dating to 2013; last updated April 2025, so currently maintained but carries classic single-developer continuity risk.",
+      "market_signal": "Shows solo devs are already bolting AI photo-estimation onto legacy apps; feature-competitive but one person away from going stale.",
+      "sources": [
+        {"title": "PKU Tools: All-in-One Nutrition App for PKU", "url": "https://pkutools.com/"},
+        {"title": "PKU Tools on Google Play", "url": "https://play.google.com/store/apps/details?id=com.pkutools.twa"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PKU Diet - Phenylketonuria",
+      "developer": "Viacheslav Gatsko (solo developer)",
+      "category": "diet-tracker",
+      "platforms": "iOS / Android",
+      "cost": "free / freemium",
+      "backing": "solo-parent / solo-dev",
+      "status": "live",
+      "notes": "For families and children on phe-restricted diets; calculates phe, protein, calories, fat, carbs and protein equivalent, supports custom products, and tracks amino acids per product/meal/day. A widely-listed solo-built app; classic single-developer maintenance exposure.",
+      "market_signal": "Broad reach on both stores off a solo build; illustrates how thin the wall is between 'popular' and 'abandoned' when there is one maintainer.",
+      "sources": [
+        {"title": "PKU Diet on the App Store", "url": "https://apps.apple.com/us/app/pku-diet-phenylketonuria/id1534022932"},
+        {"title": "PKU Diet on Google Play", "url": "https://play.google.com/store/apps/details?id=app.pkudiet"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "DietAssistant for PKU",
+      "developer": "Julian Waluschyk (solo developer, has PKU)",
+      "category": "diet-tracker",
+      "platforms": "iOS / Android",
+      "cost": "freemium",
+      "backing": "solo-dev (patient-built)",
+      "status": "live",
+      "notes": "Daily food logging with a branded-food database, supermarket barcode scanning, phe-or-protein tracking, and blood-value charting; built by a developer who has PKU. Patient-built apps carry strong domain credibility but the same lone-maintainer survival risk.",
+      "market_signal": "Patient-founder credibility is a real trust asset; the gap is continuity and verified accuracy, not empathy.",
+      "sources": [
+        {"title": "DietAssistant for PKU", "url": "https://dietassistant.net/en/"},
+        {"title": "DietAssistant for PKU on the App Store", "url": "https://apps.apple.com/us/app/dietassistant-for-pku/id1480126771"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PKU Bite",
+      "developer": "Imobisoft Ltd with 5 specialist IMD dietitians (NSPKU-aligned)",
+      "category": "diet-tracker",
+      "platforms": "iOS / Android",
+      "cost": "free / paid",
+      "backing": "small shop + clinical team",
+      "status": "live",
+      "notes": "Reference/education app covering 1,100+ specialist and regular low-protein foods, colour-coded by the NSPKU traffic-light system into exchange-free, avoid, and count-as-exchange categories. Built over two years with a dietitian team; subject of a published efficacy study, giving it more clinical validation than most.",
+      "market_signal": "Clinician-authored content plus a peer-reviewed efficacy study is a differentiator; more a curated food guide than a live estimator, leaving the AI-estimation lane open.",
+      "sources": [
+        {"title": "PKU Bite on the App Store", "url": "https://apps.apple.com/gb/app/pku-bite/id1609993210"},
+        {"title": "Efficacy of a New Low-Protein Multimedia Diet App for PKU (Nutrients)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9182776/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "MyPKU",
+      "developer": "MyPKU (small UK developer)",
+      "category": "logging",
+      "platforms": "web / mobile",
+      "cost": "unknown",
+      "backing": "solo / small shop",
+      "status": "live",
+      "notes": "Looks up protein and phe per 100g from trusted public nutrition databases, lets users save frequently-used items, and check labels before buying. Lightweight label-check and logging tool; team size and business model not disclosed.",
+      "market_signal": "Signals demand for a fast in-store label checker; underspecified backing makes its longevity unclear.",
+      "sources": [
+        {"title": "MyPKU", "url": "https://mypku.co.uk/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "name": "Metabolic Diet App",
+      "developer": "MetabolicDietApp.org (metabolic-clinic / academic origin)",
+      "category": "diet-tracker",
+      "platforms": "web / iOS / Android",
+      "cost": "free",
+      "backing": "unknown (clinic/academic)",
+      "status": "live",
+      "notes": "Free online portal with per-disorder trackers across multiple inherited metabolic disorders, including a PKU module for families and children on phe-restricted diets. Multi-disorder scope suggests an institutional rather than solo origin, but funding and maintenance owner are not clearly stated.",
+      "market_signal": "Multi-disorder free portal competes with flok on breadth; unclear funding leaves its survival an open question.",
+      "sources": [
+        {"title": "Metabolic Diet App - PKU", "url": "http://www.metabolicdietapp.org/pku.html"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "name": "PKU Manager / Phe Rechner",
+      "developer": "Solo developer (creator of the early Android app 'Phe Rechner')",
+      "category": "diet-tracker",
+      "platforms": "Android",
+      "cost": "unknown",
+      "backing": "solo-dev",
+      "status": "unknown",
+      "notes": "PKU Manager descends from Phe Rechner, one of the first PKU apps for Android, and is associated with the PKU Tools ecosystem. Represents the early-generation solo-built German-language phe calculators; current maintenance and store availability are uncertain, an example of the aging-solo-app risk.",
+      "market_signal": "Emblem of the first solo-app generation; several such apps are semi-abandoned, which is the exact continuity gap PKU Commons targets.",
+      "sources": [
+        {"title": "PKU Apps roundup", "url": "http://pku-apps.com/"},
+        {"title": "PKU Tools", "url": "https://pkutools.com/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "name": "Nutricia Homeward MyConneX / LowPro App",
+      "developer": "Nutricia (Danone)",
+      "category": "manufacturer-companion",
+      "platforms": "iOS (MyConneX) / web tools",
+      "cost": "free",
+      "backing": "manufacturer",
+      "status": "live",
+      "notes": "MyConneX manages monthly Nutricia Homeward orders of medical nutrition supplies; the separate LowPro App tracks protein/exchange intake, protein-substitute doses, and blood levels, and the Nutricia Learning Center hosts diet-record tools for clinic visits. Manufacturer-funded and durable, but oriented around ordering and using Nutricia's own products.",
+      "market_signal": "Formula makers use companion apps to lock in the infant-to-adult product relationship; tracking is a retention tool, not a neutral estimator.",
+      "sources": [
+        {"title": "Nutricia Homeward MyConneX on the App Store", "url": "https://apps.apple.com/gb/app/nutricia-homeward-myconnex/id6738952142"},
+        {"title": "Apps from Nutricia", "url": "https://www.nutricia.co.uk/hcp/services/nutricia-apps.html"},
+        {"title": "Nutricia Learning Center - patient resources", "url": "https://www.nutricialearningcenter.com/en/metabolics/patient-resource-content"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "VitafriendsPKU",
+      "developer": "Vitaflo / Nestle Health Science",
+      "category": "manufacturer-companion",
+      "platforms": "web",
+      "cost": "free",
+      "backing": "manufacturer",
+      "status": "live",
+      "notes": "Online support resource for patients using Vitaflo PKU protein substitutes: how to make and take each product, flavors, age-specific guidance, and recipes. A brand-support and adherence portal rather than a standalone phe-tracking app; funded by Nestle Health Science.",
+      "market_signal": "Manufacturer support content is a retention lever around its formulas; leaves independent day-to-day phe estimation to third-party apps.",
+      "sources": [
+        {"title": "Vitafriends PKU USA", "url": "https://vitafriendspkuusa.com/pku-journey"},
+        {"title": "Vitafriends-PKU | Nestle Health Science", "url": "https://www.nestlehealthscience.us/vitaflo-usa/vitaflo_healthy_tips/vitafriends-pku"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Cambrooke (Ajinomoto) recipes & PKU resources",
+      "developer": "Ajinomoto Cambrooke",
+      "category": "manufacturer-companion",
+      "platforms": "web",
+      "cost": "free",
+      "backing": "manufacturer",
+      "status": "live",
+      "notes": "Cambrooke, founded in 2000 by parents of two children with PKU, offers Glytactin/GMP formulas plus recipe and metabolic-formula resources, but no confirmed dedicated phe-tracking or estimator app was found, only web recipe and product resources. Included to mark the absence: a major manufacturer without a companion tracking app.",
+      "market_signal": "A manufacturer-shaped hole: Cambrooke has the parent-founder story and product line but no app, an obvious partnership or white-label opening.",
+      "sources": [
+        {"title": "Ajinomoto Cambrooke - PKU", "url": "https://www.cambrooke.com/products/pku/refresh/"},
+        {"title": "Cambrooke metabolic-formula recipes", "url": "https://www.cambrooke.com/recipes/metabolic-formula/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "name": "Aptatek phenyx (POC phe monitor app)",
+      "developer": "Aptatek Biosciences",
+      "category": "manufacturer-companion",
+      "platforms": "iOS / Android (device companion)",
+      "cost": "unknown (device-tied)",
+      "backing": "VC / startup",
+      "status": "beta / WIP",
+      "notes": "Companion app to a portable point-of-care phenylalanine blood monitor (disposable cartridge + Bluetooth reader); the app guides the finger-prick test and shares results with clinicians. This is blood-phe self-monitoring hardware, distinct from dietary phe estimation, but a notable tech entrant in PKU self-management.",
+      "market_signal": "Home phe blood monitoring is the adjacent frontier; pairing device-measured phe with dietary estimation would close the loop no current diet app can.",
+      "sources": [
+        {"title": "Home Phe Monitor Updates - PKU News", "url": "https://pkunews.org/home-phe-monitor-updates/"},
+        {"title": "Fully Integrated Point-of-Care Platform for Self-Monitoring of Phe (ACS Sensors)", "url": "https://pubs.acs.org/doi/10.1021/acssensors.3c01384"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "name": "Comidamed PKU resources",
+      "developer": "Comidamed (medical-nutrition company)",
+      "category": "manufacturer-companion",
+      "platforms": "web",
+      "cost": "unknown",
+      "backing": "manufacturer",
+      "status": "unknown",
+      "notes": "Comidamed markets comida-PKU medical foods and publishes a PKU 'Applications' resource page, but no standalone phe-tracking app was confirmed; it appears to be primarily a nutrition company with web resources. Marked low confidence pending a confirmed app.",
+      "market_signal": "Another manufacturer with product resources but no tracking app; reinforces that the software layer is largely left to third parties.",
+      "sources": [
+        {"title": "Application | Phenylketonuria | Comidamed", "url": "https://www.comidamed.com/en/applications-phenylketonuria"}
+      ],
+      "confidence": "unknown"
+    }
+  ]
+}

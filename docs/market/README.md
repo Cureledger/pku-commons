@@ -14,13 +14,15 @@ mechanism-of-action science lives here by design.
 | Medical foods | [`data/medical_foods.json`](data/medical_foods.json) | 44 | Low-protein staples and specialty foods by brand, category, geography, price |
 | Formulas | [`data/formulas.json`](data/formulas.json) | 46 | Amino-acid and GMP protein substitutes across life stage and format |
 | Drugs & pipeline | [`data/drugs.json`](data/drugs.json) | 22 | Approved therapies, pipeline candidates, and market-relevant trials |
+| Apps | [`data/apps.json`](data/apps.json) | 17 | The phe-counting and diet software, its lone-maintainer survival problem, and the AI-estimator entrants |
+| Medical devices | [`data/devices.json`](data/devices.json) | 23 | The hardware layer, led by the missing home phe monitor (the biggest disruption gap in PKU) |
 | Companies | [`data/manufacturers.json`](data/manufacturers.json) | 27 | Who the players are and who owns whom |
 | Clinics & dietitians | [`data/clinics.json`](data/clinics.json) | 46 | The care-delivery layer and its access gaps |
 | Restaurants & schools | [`data/restaurants_schools.json`](data/restaurants_schools.json) | 24 | Two near-empty consumer markets |
 | Money | [`data/payers.json`](data/payers.json) | 25 | Market size, reimbursement, and the legislation that could unlock it |
 | Advocacy & legal | [`data/advocacy_legal.json`](data/advocacy_legal.json) | 29 | Patient organizations and the litigation shaping access |
 
-Total: **337 cited records** across ten datasets.
+Total: **377 cited records** across twelve datasets.
 
 ## Provenance rules
 

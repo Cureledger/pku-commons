@@ -2,7 +2,7 @@
   "dataset": "payers",
   "title": "Payers, reimbursement & market size",
   "updated": "2026-07-26",
-  "source_note": "Money-side market facts for PKU: how treatment gets paid for and how big the flows are. Compiled from National PKU Alliance (NPKUA) and the Patients & Providers for Medical Nutrition Equity coalition (nutritionequity.org), the EveryLife Foundation MNEA fact sheets, Congress.gov / GovTrack bill records, published market-research summaries (Grand View Research, Mordor Intelligence, Strategic Market Research, Research and Markets), BioMarin investor releases, Drugs.com/GoodRx price guides, and peer-reviewed cost-burden studies (Rose et al. 2019). Market-size figures are vendor analyst estimates and vary widely by scope (drug-only vs. medical-foods-inclusive) — each record notes its vendor and is marked accordingly. Drug list prices are US estimates; weight-based dosing makes per-patient annual cost vary widely. No biomedical/mechanism science.",
+  "source_note": "Money-side market facts for PKU: how treatment gets paid for and how big the flows are. Compiled from National PKU Alliance (NPKUA) and the Patients & Providers for Medical Nutrition Equity coalition (nutritionequity.org), the EveryLife Foundation MNEA fact sheets, Congress.gov / GovTrack bill records, published market-research summaries (Grand View Research, Mordor Intelligence, Strategic Market Research, Research and Markets), BioMarin investor releases, Drugs.com/GoodRx price guides, and peer-reviewed cost-burden studies (Rose et al. 2019). Market-size figures are vendor analyst estimates and vary widely by scope (drug-only vs. medical-foods-inclusive), each record notes its vendor and is marked accordingly. Drug list prices are US estimates; weight-based dosing makes per-patient annual cost vary widely. No biomedical/mechanism science.",
   "records": [
     {
       "topic": "The core coverage problem: medical foods are not treated like drugs",
@@ -11,20 +11,32 @@
       "figure": "up to ~8x grocery cost, out of pocket",
       "market_signal": "The gap between 'medically necessary' and 'reimbursed' is the entire commercial opening: any product, benefit-navigation, or coverage-automation play that closes it addresses a structural, decades-old payer failure.",
       "sources": [
-        {"title": "NPKUA / EveryLife Foundation — People with PKU need medical nutrition to thrive (fact sheet)", "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"},
-        {"title": "Insurance Coverage | NPKUA", "url": "https://www.npkua.org/resources/insurance-coverage/"}
+        {
+          "title": "NPKUA / EveryLife Foundation, People with PKU need medical nutrition to thrive (fact sheet)",
+          "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"
+        },
+        {
+          "title": "Insurance Coverage | NPKUA",
+          "url": "https://www.npkua.org/resources/insurance-coverage/"
+        }
       ],
       "confidence": "sourced"
     },
     {
-      "topic": "State coverage mandates — the patchwork",
+      "topic": "State coverage mandates, the patchwork",
       "category": "coverage-mandate",
       "detail": "Roughly 35 states have legislative mandates requiring state-regulated, employer-sponsored insurance to cover medical foods for inherited metabolic disorders such as PKU. Mandates vary sharply: some cover formula only and exclude low-protein modified foods, bars, or modular products; some impose age caps; and the rest of the states have no mandate at all. Coverage of a medically necessary, lifelong treatment therefore turns substantially on the patient's ZIP code.",
       "figure": "~35 of 50 states mandate some coverage",
       "market_signal": "A 50-state patchwork with per-state carve-outs is a navigation nightmare for families and a defensible niche for anyone who can standardize eligibility, appeals, and product sourcing across state lines.",
       "sources": [
-        {"title": "States — Patients & Providers for Medical Nutrition Equity", "url": "https://nutritionequity.org/states/"},
-        {"title": "State Laws and Policies for the Coverage of Metabolic Formula and Foods (NUCDF)", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"}
+        {
+          "title": "States, Patients & Providers for Medical Nutrition Equity",
+          "url": "https://nutritionequity.org/states/"
+        },
+        {
+          "title": "State Laws and Policies for the Coverage of Metabolic Formula and Foods (NUCDF)",
+          "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"
+        }
       ],
       "confidence": "sourced"
     },
@@ -33,22 +45,34 @@
       "category": "coverage-mandate",
       "detail": "State insurance mandates do not reach self-funded employer plans, which are governed by federal ERISA and are exempt from state-mandated benefits. Because roughly two-thirds of US workers with employer coverage are in self-funded plans, a family can live in a state with a full PKU mandate and still have no guaranteed coverage. Self-funded plans routinely design PKU medical foods out of their benefit.",
       "figure": "self-funded ERISA plans exempt from state mandates",
-      "market_signal": "Explains why state-by-state advocacy has capped out and why only federal action (MNEA) truly closes the gap — self-funded exposure is the reason the whole category stays under-reimbursed.",
+      "market_signal": "Explains why state-by-state advocacy has capped out and why only federal action (MNEA) truly closes the gap, self-funded exposure is the reason the whole category stays under-reimbursed.",
       "sources": [
-        {"title": "Insurance & Coverage Resources — PKU Perspectives", "url": "https://pkuperspectives.com/insurance-coverage-resources/"},
-        {"title": "Insurance Coverage | NPKUA", "url": "https://www.npkua.org/resources/insurance-coverage/"}
+        {
+          "title": "Insurance & Coverage Resources, PKU Perspectives",
+          "url": "https://pkuperspectives.com/insurance-coverage-resources/"
+        },
+        {
+          "title": "Insurance Coverage | NPKUA",
+          "url": "https://www.npkua.org/resources/insurance-coverage/"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "topic": "Age caps and formula-only limits",
       "category": "coverage-mandate",
-      "detail": "Many state mandates and Title V programs cap coverage by age — commonly cutting off in childhood or at income thresholds — even though PKU treatment is lifelong and dietary control matters most for adults planning pregnancy (maternal PKU). Adults with PKU are the most likely to lose coverage precisely when their formula costs are highest. Some states cover formula but not the low-protein modified foods that make the diet livable.",
+      "detail": "Many state mandates and Title V programs cap coverage by age, commonly cutting off in childhood or at income thresholds, even though PKU treatment is lifelong and dietary control matters most for adults planning pregnancy (maternal PKU). Adults with PKU are the most likely to lose coverage precisely when their formula costs are highest. Some states cover formula but not the low-protein modified foods that make the diet livable.",
       "figure": "coverage often ends in childhood; adult formula cost is highest",
-      "market_signal": "The adult PKU population is systematically under-served by existing coverage — an under-monetized cohort for adult-focused formula, food, and adherence products.",
+      "market_signal": "The adult PKU population is systematically under-served by existing coverage, an under-monetized cohort for adult-focused formula, food, and adherence products.",
       "sources": [
-        {"title": "Newborn screening 50 years later: access issues faced by adults with PKU (Genetics in Medicine)", "url": "https://www.nature.com/articles/gim201310"},
-        {"title": "State Statutes & Regulations on Dietary Treatment of Disorders (HRSA)", "url": "https://www.hrsa.gov/sites/default/files/hrsa/advisory-committees/heritable-disorders/reports-recommendations/state-laws-medical-foods-tab.pdf"}
+        {
+          "title": "Newborn screening 50 years later: access issues faced by adults with PKU (Genetics in Medicine)",
+          "url": "https://www.nature.com/articles/gim201310"
+        },
+        {
+          "title": "State Statutes & Regulations on Dietary Treatment of Disorders (HRSA)",
+          "url": "https://www.hrsa.gov/sites/default/files/hrsa/advisory-committees/heritable-disorders/reports-recommendations/state-laws-medical-foods-tab.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -59,8 +83,14 @@
       "figure": "all 50 states + DC + PR cover via Medicaid, with limits",
       "market_signal": "Medicaid is the anchor payer for PKU nutrition; a coverage-expansion (MNEA) that pulls commercial plans up to the Medicaid baseline would sharply enlarge the reliably-reimbursed patient pool.",
       "sources": [
-        {"title": "State Laws and Policies for the Coverage of Metabolic Formula and Foods (NUCDF)", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"},
-        {"title": "Insurance Coverage | NPKUA", "url": "https://www.npkua.org/resources/insurance-coverage/"}
+        {
+          "title": "State Laws and Policies for the Coverage of Metabolic Formula and Foods (NUCDF)",
+          "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"
+        },
+        {
+          "title": "Insurance Coverage | NPKUA",
+          "url": "https://www.npkua.org/resources/insurance-coverage/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -71,8 +101,14 @@
       "figure": "null",
       "market_signal": "The commercially-insured middle class is the affordability crunch point and the natural first customer for cash-pay PKU food/DTC subscription and benefits-advocacy models.",
       "sources": [
-        {"title": "Chapter 14: Insurance Coverage for PKU Treatment (NPKUA PKU Binder)", "url": "https://www.npkua.org/wp-content/uploads/2024/05/PKU-Binder-2011-Ch14.pdf"},
-        {"title": "Insurance Coverage | NPKUA", "url": "https://www.npkua.org/resources/insurance-coverage/"}
+        {
+          "title": "Chapter 14: Insurance Coverage for PKU Treatment (NPKUA PKU Binder)",
+          "url": "https://www.npkua.org/wp-content/uploads/2024/05/PKU-Binder-2011-Ch14.pdf"
+        },
+        {
+          "title": "Insurance Coverage | NPKUA",
+          "url": "https://www.npkua.org/resources/insurance-coverage/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -81,22 +117,34 @@
       "category": "legislation",
       "detail": "The MNEA is the flagship federal bill that would require Medicare, Medicaid, CHIP, Tricare, the Federal Employee Health Benefit program, and private insurance to cover medically necessary formula, low-protein modified foods, and individual amino acids for PKU and other inherited metabolic disorders and certain digestive conditions. It would override the state patchwork and the ERISA self-funded loophole in one stroke. It has been introduced in every Congress since 2017 (H.R. 2587/S. 1194 in 2017, H.R. 2501 in 2019, H.R. 3783 in 2021, H.R. 6892 in 2023) and has never passed.",
       "figure": "introduced 5+ times since 2017; never enacted",
-      "market_signal": "This is the single biggest binary catalyst for the US PKU medical-foods market — passage would convert a patchwork cash-pay category into a federally guaranteed reimbursed benefit overnight.",
+      "market_signal": "This is the single biggest binary catalyst for the US PKU medical-foods market, passage would convert a patchwork cash-pay category into a federally guaranteed reimbursed benefit overnight.",
       "sources": [
-        {"title": "H.R.6892 — Medical Nutrition Equity Act of 2023 (Congress.gov)", "url": "https://www.congress.gov/bill/118th-congress/house-bill/6892/text"},
-        {"title": "Patients & Providers for Medical Nutrition Equity", "url": "https://nutritionequity.org/"}
+        {
+          "title": "H.R.6892, Medical Nutrition Equity Act of 2023 (Congress.gov)",
+          "url": "https://www.congress.gov/bill/118th-congress/house-bill/6892/text"
+        },
+        {
+          "title": "Patients & Providers for Medical Nutrition Equity",
+          "url": "https://nutritionequity.org/"
+        }
       ],
       "confidence": "sourced"
     },
     {
-      "topic": "MNEA successor — Medical Foods and Formulas Access Act of 2025",
+      "topic": "MNEA successor, Medical Foods and Formulas Access Act of 2025",
       "category": "legislation",
       "detail": "In the 119th Congress the effort was reintroduced/renamed as the Medical Foods and Formulas Access Act of 2025 (H.R. 5684), introduced by Rep. McGovern with Reps. Rutherford, Dingell, and Fitzpatrick in October 2025 and referred to committee. Like prior MNEA versions it remains in committee and has not advanced to a floor vote, continuing the multi-Congress stall.",
       "figure": "H.R. 5684, introduced Oct 2025, in committee",
-      "market_signal": "The rebranding signals persistent bipartisan sponsorship but also the same legislative inertia — model the catalyst as 'live but unscheduled,' not imminent.",
+      "market_signal": "The rebranding signals persistent bipartisan sponsorship but also the same legislative inertia, model the catalyst as 'live but unscheduled,' not imminent.",
       "sources": [
-        {"title": "H.R.5684 — Medical Foods and Formulas Access Act of 2025 (Congress.gov)", "url": "https://www.congress.gov/bill/119th-congress/house-bill/5684/text"},
-        {"title": "McGovern, Colleagues Introduce Medical Foods and Formulas Access Act (House.gov)", "url": "https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=400278"}
+        {
+          "title": "H.R.5684, Medical Foods and Formulas Access Act of 2025 (Congress.gov)",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5684/text"
+        },
+        {
+          "title": "McGovern, Colleagues Introduce Medical Foods and Formulas Access Act (House.gov)",
+          "url": "https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=400278"
+        }
       ],
       "confidence": "sourced"
     },
@@ -105,10 +153,16 @@
       "category": "legislation",
       "detail": "No CBO cost estimate has been published for any MNEA version (H.R. 2501, H.R. 3783, or H.R. 6892 all show no CBO score), so the bill carries budget uncertainty into a crowded health-mandate queue with no scored offset. It covers a small, rare-disease population that lacks the lobbying scale of larger conditions, and mandating new private-insurance benefits draws standard cost and federalism objections. The result is a bipartisan-but-low-priority bill that is repeatedly reintroduced and dies in committee.",
       "figure": "no CBO score; dies in committee each Congress",
-      "market_signal": "Passage risk is high and timing unknowable — investors should treat MNEA as upside optionality, not base case, and build models that work under today's patchwork.",
+      "market_signal": "Passage risk is high and timing unknowable, investors should treat MNEA as upside optionality, not base case, and build models that work under today's patchwork.",
       "sources": [
-        {"title": "H.R.3783 — Medical Nutrition Equity Act of 2021 (GovTrack)", "url": "https://www.govtrack.us/congress/bills/117/hr3783"},
-        {"title": "H.R.6892 — Medical Nutrition Equity Act of 2023 (Congress.gov, all actions)", "url": "https://www.congress.gov/bill/118th-congress/house-bill/6892"}
+        {
+          "title": "H.R.3783, Medical Nutrition Equity Act of 2021 (GovTrack)",
+          "url": "https://www.govtrack.us/congress/bills/117/hr3783"
+        },
+        {
+          "title": "H.R.6892, Medical Nutrition Equity Act of 2023 (Congress.gov, all actions)",
+          "url": "https://www.congress.gov/bill/118th-congress/house-bill/6892"
+        }
       ],
       "confidence": "sourced"
     },
@@ -117,10 +171,16 @@
       "category": "market-size",
       "detail": "Grand View Research estimates the global phenylketonuria treatment market will reach about USD 851.0 million by 2030, growing at a ~9.4% CAGR from 2025 to 2030. Within this, Palynziq (the enzyme-substitution injectable) accounted for the largest share at ~67.9% in 2024, meaning drug therapy dominates the reported 'treatment market' value even though dietary management reaches far more patients.",
       "figure": "$851.0M by 2030, CAGR ~9.4% (2025-2030)",
-      "market_signal": "The most-cited 'PKU market' number is really a drug market — dietary/medical-foods spend is largely uncaptured, so the true addressable nutrition market is under-counted by headline reports.",
+      "market_signal": "The most-cited 'PKU market' number is really a drug market, dietary/medical-foods spend is largely uncaptured, so the true addressable nutrition market is under-counted by headline reports.",
       "sources": [
-        {"title": "Phenylketonuria Treatment Market Size Report, 2025-2030 (Grand View Research)", "url": "https://www.grandviewresearch.com/industry-analysis/phenylketonuria-pku-treatment-market"},
-        {"title": "Global Phenylketonuria Treatment Market press release (Grand View Research)", "url": "https://www.grandviewresearch.com/press-release/global-phenylketonuria-pku-treatment-market"}
+        {
+          "title": "Phenylketonuria Treatment Market Size Report, 2025-2030 (Grand View Research)",
+          "url": "https://www.grandviewresearch.com/industry-analysis/phenylketonuria-pku-treatment-market"
+        },
+        {
+          "title": "Global Phenylketonuria Treatment Market press release (Grand View Research)",
+          "url": "https://www.grandviewresearch.com/press-release/global-phenylketonuria-pku-treatment-market"
+        }
       ],
       "confidence": "sourced"
     },
@@ -128,10 +188,13 @@
       "topic": "US/global PKU treatment market size (Mordor Intelligence)",
       "category": "market-size",
       "detail": "Mordor Intelligence values the phenylketonuria treatment market at about USD 1.01 billion in 2026, growing at a ~10.46% CAGR to roughly USD 1.66 billion by 2031. This is higher than Grand View's figure, illustrating how vendor estimates diverge based on scope and methodology.",
-      "figure": "$1.01B (2026) → $1.66B by 2031, CAGR ~10.46%",
-      "market_signal": "Vendor estimates cluster around a ~9-11% CAGR and a low-single-billions market — a small but reliably double-digit-growth niche, attractive for focused rare-disease plays rather than scale-players.",
+      "figure": "$1.01B (2026) to $1.66B by 2031, CAGR ~10.46%",
+      "market_signal": "Vendor estimates cluster around a ~9-11% CAGR and a low-single-billions market, a small but reliably double-digit-growth niche, attractive for focused rare-disease plays rather than scale-players.",
       "sources": [
-        {"title": "Phenylketonuria Treatment Market Size, Analysis & Growth Drivers (Mordor Intelligence)", "url": "https://www.mordorintelligence.com/industry-reports/phenylketonuria-treatment-market"}
+        {
+          "title": "Phenylketonuria Treatment Market Size, Analysis & Growth Drivers (Mordor Intelligence)",
+          "url": "https://www.mordorintelligence.com/industry-reports/phenylketonuria-treatment-market"
+        }
       ],
       "confidence": "sourced"
     },
@@ -139,10 +202,13 @@
       "topic": "PKU treatment market size (Strategic Market Research)",
       "category": "market-size",
       "detail": "Strategic Market Research values the PKU treatment market at about USD 1.2 billion in 2024, reaching roughly USD 2.0 billion by 2030 at a ~6.5% CAGR. This report notes medical foods hold the largest share by treatment type, a different emphasis from drug-weighted estimates.",
-      "figure": "$1.2B (2024) → $2.0B by 2030, CAGR ~6.5%",
-      "market_signal": "When a vendor weights medical foods rather than drugs, the market reads larger and slower-growing — the nutrition segment is big but under-monetized because so much is cash-pay.",
+      "figure": "$1.2B (2024) to $2.0B by 2030, CAGR ~6.5%",
+      "market_signal": "When a vendor weights medical foods rather than drugs, the market reads larger and slower-growing, the nutrition segment is big but under-monetized because so much is cash-pay.",
       "sources": [
-        {"title": "Phenylketonuria (PKU) Treatment Market Size ($2.0 Billion) 2030 (Strategic Market Research)", "url": "https://www.strategicmarketresearch.com/market-report/phenylketonuria-treatment-market"}
+        {
+          "title": "Phenylketonuria (PKU) Treatment Market Size ($2.0 Billion) 2030 (Strategic Market Research)",
+          "url": "https://www.strategicmarketresearch.com/market-report/phenylketonuria-treatment-market"
+        }
       ],
       "confidence": "sourced"
     },
@@ -150,22 +216,31 @@
       "topic": "Medical foods for inborn errors of metabolism (IEM) market",
       "category": "market-size",
       "detail": "The broader medical-foods-for-IEM category (which includes PKU protein substitutes and low-protein products alongside other metabolic disorders) is estimated at about USD 3.87 billion in 2026, rising to roughly USD 6.07 billion by 2030 at a ~11.9% CAGR, per a Research and Markets summary. PKU is one of the largest single conditions within this category.",
-      "figure": "$3.87B (2026) → $6.07B by 2030, CAGR ~11.9%",
-      "market_signal": "The nutrition/medical-foods TAM dwarfs the PKU drug-market figure — the money is in food, and it grows faster; a coverage catalyst would accelerate it further.",
+      "figure": "$3.87B (2026) to $6.07B by 2030, CAGR ~11.9%",
+      "market_signal": "The nutrition/medical-foods TAM dwarfs the PKU drug-market figure, the money is in food, and it grows faster; a coverage catalyst would accelerate it further.",
       "sources": [
-        {"title": "Medical Foods for Inborn Errors of Metabolism Market Report 2026 (Research and Markets)", "url": "https://www.researchandmarkets.com/reports/5939913/medical-foods-inborn-errors-metabolism-market"}
+        {
+          "title": "Medical Foods for Inborn Errors of Metabolism Market Report 2026 (Research and Markets)",
+          "url": "https://www.researchandmarkets.com/reports/5939913/medical-foods-inborn-errors-metabolism-market"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "topic": "US PKU patient population (market denominator)",
       "category": "market-size",
-      "detail": "PKU occurs in roughly 1 in 15,000-16,500 US births, and there are an estimated ~16,500 people living with PKU in the United States. This small, precisely-identified (via universal newborn screening) population is the denominator for every US PKU revenue model — high value per patient, low absolute count.",
+      "detail": "PKU occurs in roughly 1 in 15,000-16,500 US births, and there are an estimated ~16,500 people living with PKU in the United States. This small, precisely-identified (via universal newborn screening) population is the denominator for every US PKU revenue model, high value per patient, low absolute count.",
       "figure": "~16,500 US patients; incidence ~1 in 15,000-16,500 births",
-      "market_signal": "A rare, fully-screened, lifelong-treatment population means near-zero patient-finding cost and durable per-patient revenue — classic orphan economics, but a hard ceiling on volume.",
+      "market_signal": "A rare, fully-screened, lifelong-treatment population means near-zero patient-finding cost and durable per-patient revenue, classic orphan economics, but a hard ceiling on volume.",
       "sources": [
-        {"title": "EveryLife/NPKUA IEM fact sheet (PKU incidence 1 in 16,500)", "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"},
-        {"title": "Newborn screening 50 years later: access issues faced by adults with PKU (Genetics in Medicine)", "url": "https://www.nature.com/articles/gim201310"}
+        {
+          "title": "EveryLife/NPKUA IEM fact sheet (PKU incidence 1 in 16,500)",
+          "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"
+        },
+        {
+          "title": "Newborn screening 50 years later: access issues faced by adults with PKU (Genetics in Medicine)",
+          "url": "https://www.nature.com/articles/gim201310"
+        }
       ],
       "confidence": "sourced"
     },
@@ -174,10 +249,16 @@
       "category": "drug-reimbursement",
       "detail": "Palynziq (pegvaliase), BioMarin's injectable enzyme-substitution therapy for adult PKU, launched at a WAC of about $488 per unit; with typical dosing of one to two units daily the list price is roughly $267,000-$356,000 per patient per year. After rebates, discounts, and expected compliance, BioMarin guided to an average net price of about $192,000 per patient per year. It is reimbursed as a high-cost specialty/rare-disease drug through pharmacy and medical benefits.",
       "figure": "list ~$267K-$356K/yr; net ~$192K/yr per patient",
-      "market_signal": "PKU can command specialty-drug pricing when packaged as a drug — the ~$192K net vs. a family's ~$6-9K/yr uncovered food bill shows how differently payers treat a 'drug' vs. 'food' for the same disease.",
+      "market_signal": "PKU can command specialty-drug pricing when packaged as a drug, the ~$192K net vs. a family's ~$6-9K/yr uncovered food bill shows how differently payers treat a 'drug' vs. 'food' for the same disease.",
       "sources": [
-        {"title": "BioMarin scores FDA nod for Palynziq, $192K launch (Fierce Pharma)", "url": "https://www.fiercepharma.com/pharma/biomarin-scores-long-sought-fda-nod-for-rare-disease-drug-but-can-it-hit-blockbuster-status"},
-        {"title": "Pegvaliase (Palynziq) — NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/books/NBK602679/"}
+        {
+          "title": "BioMarin scores FDA nod for Palynziq, $192K launch (Fierce Pharma)",
+          "url": "https://www.fiercepharma.com/pharma/biomarin-scores-long-sought-fda-nod-for-rare-disease-drug-but-can-it-hit-blockbuster-status"
+        },
+        {
+          "title": "Pegvaliase (Palynziq), NCBI Bookshelf",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK602679/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -186,10 +267,16 @@
       "category": "drug-reimbursement",
       "detail": "Palynziq generated about USD 355.0 million in net product revenue for BioMarin in 2024 and grew a further ~22% year-over-year in 2025, making it the single largest revenue driver in the PKU drug market. Its ~68% share of the reported PKU treatment market (per Grand View) means one specialty drug largely defines the headline market value.",
       "figure": "~$355M revenue (2024); +~22% Y/Y (2025)",
-      "market_signal": "One drug carries the market's growth story — demonstrates that payers will fund high-cost PKU therapy, validating premium pricing for differentiated PKU products.",
+      "market_signal": "One drug carries the market's growth story, demonstrates that payers will fund high-cost PKU therapy, validating premium pricing for differentiated PKU products.",
       "sources": [
-        {"title": "BioMarin Reports Fourth Quarter and Full Year 2024 Results (PRNewswire)", "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2024-results-sets-full-year-2025-guidance-302379769.html"},
-        {"title": "BioMarin Reports Fourth Quarter and Full-year 2025 Results (PRNewswire)", "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results-302694181.html"}
+        {
+          "title": "BioMarin Reports Fourth Quarter and Full Year 2024 Results (PRNewswire)",
+          "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2024-results-sets-full-year-2025-guidance-302379769.html"
+        },
+        {
+          "title": "BioMarin Reports Fourth Quarter and Full-year 2025 Results (PRNewswire)",
+          "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results-302694181.html"
+        }
       ],
       "confidence": "sourced"
     },
@@ -198,22 +285,34 @@
       "category": "drug-reimbursement",
       "detail": "Kuvan (sapropterin), BioMarin's oral BH4-cofactor pill, is reimbursed as a specialty drug; branded list price has historically been cited around $60,000-$100,000 per year depending on weight-based dose. It lost US exclusivity in October 2020 and now faces generic sapropterin competition; Kuvan brand net revenue fell to about USD 100 million in 2025 (down ~17% Y/Y) as generics eroded price. Generic sapropterin tablets are materially cheaper (e.g., ~$1,568 for 120 x 100 mg vs. ~$4,931 branded).",
       "figure": "branded historically ~$60K-$100K/yr; 2025 brand revenue ~$100M",
-      "market_signal": "Generic entry shows the PKU drug segment is subject to normal patent-cliff economics — durable value accrues to differentiated/on-patent products, not commodity molecules.",
+      "market_signal": "Generic entry shows the PKU drug segment is subject to normal patent-cliff economics, durable value accrues to differentiated/on-patent products, not commodity molecules.",
       "sources": [
-        {"title": "Sapropterin / Kuvan Prices (Drugs.com price guide)", "url": "https://www.drugs.com/price-guide/kuvan"},
-        {"title": "BioMarin Reports Fourth Quarter and Full-year 2025 Results (PRNewswire)", "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results-302694181.html"}
+        {
+          "title": "Sapropterin / Kuvan Prices (Drugs.com price guide)",
+          "url": "https://www.drugs.com/price-guide/kuvan"
+        },
+        {
+          "title": "BioMarin Reports Fourth Quarter and Full-year 2025 Results (PRNewswire)",
+          "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results-302694181.html"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "topic": "Drug vs. food: the reimbursement asymmetry",
       "category": "drug-reimbursement",
-      "detail": "The same disease is paid for two ways: PKU drugs (Palynziq ~$192K/yr net, Kuvan tens of thousands/yr) are reimbursed as specialty pharmaceuticals with prior authorization but reliable coverage, while PKU medical foods — the treatment every patient needs — are often unreimbursed and paid out of pocket. Payers will spend six figures on a PKU drug for one patient while denying a few thousand dollars of formula for another.",
+      "detail": "The same disease is paid for two ways: PKU drugs (Palynziq ~$192K/yr net, Kuvan tens of thousands/yr) are reimbursed as specialty pharmaceuticals with prior authorization but reliable coverage, while PKU medical foods, the treatment every patient needs, are often unreimbursed and paid out of pocket. Payers will spend six figures on a PKU drug for one patient while denying a few thousand dollars of formula for another.",
       "figure": "~$192K/yr drug covered vs. ~$6-9K/yr food often not",
       "market_signal": "The asymmetry is the arbitrage: reclassifying or bundling medical nutrition toward drug-like reimbursement (or riding an MNEA mandate) is where trapped value sits.",
       "sources": [
-        {"title": "AHRQ Effective Health Care — PKU drug vs. medical foods cost nomination", "url": "https://effectivehealthcare.ahrq.gov/get-involved/nominated-topics/for-patients-with-pku-there-is-now-a-pharmaceutical-drug-to-treat-this-condition-in-the-past-is-was-treated-by-medical-foods-that-eliminated-the-harmful-substance-phenylalanine-the-cost-of-the-new-drug-is-70k-year-the-cost-t"},
-        {"title": "Pegvaliase (Palynziq) — NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/books/NBK602679/"}
+        {
+          "title": "AHRQ Effective Health Care, PKU drug vs. medical foods cost nomination",
+          "url": "https://effectivehealthcare.ahrq.gov/get-involved/nominated-topics/for-patients-with-pku-there-is-now-a-pharmaceutical-drug-to-treat-this-condition-in-the-past-is-was-treated-by-medical-foods-that-eliminated-the-harmful-substance-phenylalanine-the-cost-of-the-new-drug-is-70k-year-the-cost-t"
+        },
+        {
+          "title": "Pegvaliase (Palynziq), NCBI Bookshelf",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK602679/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -222,21 +321,30 @@
       "category": "out-of-pocket",
       "detail": "A US financial- and time-burden study (Rose et al., 2019) found the average annual cost of medical foods was about $6,400 for a child with PKU (formula ~$4,418 + low-protein foods ~$1,961) and about $9,000 for an adult (formula ~$7,753 + low-protein foods ~$1,274). Out-of-pocket spending on low-protein foods alone averaged ~$1,651/yr for children and ~$967/yr for adults, on top of 300+ hours per year spent shopping for and preparing the diet.",
       "figure": "~$6,400/yr (child) and ~$9,000/yr (adult) in medical-food cost",
-      "market_signal": "A quantified, recurring, largely-cash annual spend per household — the direct revenue line a DTC PKU food/subscription business would capture, and the exact dollar figure an MNEA mandate would shift onto payers.",
+      "market_signal": "A quantified, recurring, largely-cash annual spend per household, the direct revenue line a DTC PKU food/subscription business would capture, and the exact dollar figure an MNEA mandate would shift onto payers.",
       "sources": [
-        {"title": "The financial and time burden associated with phenylketonuria treatment in the United States (Rose et al., 2019, PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"},
-        {"title": "PKU Patients, Families Burdened by High Treatment Costs (Phenylketonuria News summary)", "url": "https://phenylketonurianews.com/2020/01/08/pku-patients-and-their-families-feel-high-burden-of-costs-and-time-needed-for-treatment-us-survey-finds/"}
+        {
+          "title": "The financial and time burden associated with phenylketonuria treatment in the United States (Rose et al., 2019, PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"
+        },
+        {
+          "title": "PKU Patients, Families Burdened by High Treatment Costs (Phenylketonuria News summary)",
+          "url": "https://phenylketonurianews.com/2020/01/08/pku-patients-and-their-families-feel-high-burden-of-costs-and-time-needed-for-treatment-us-survey-finds/"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "topic": "Annual treatment cost range and unit prices (NPKUA/EveryLife)",
       "category": "out-of-pocket",
-      "detail": "NPKUA/EveryLife estimate the annual total cost to treat an inherited metabolic disorder with medical nutrition ranges from about $2,254 for an infant to nearly $25,000 for an adult male or pregnant woman. Unit prices illustrate the premium: metabolic formula is $300+ per case of six, a loaf of low-protein bread ~$13.99, a box of low-protein pasta ~$11.49, and low-protein cheese slices ~$13.40 — up to ~8x ordinary grocery prices.",
+      "detail": "NPKUA/EveryLife estimate the annual total cost to treat an inherited metabolic disorder with medical nutrition ranges from about $2,254 for an infant to nearly $25,000 for an adult male or pregnant woman. Unit prices illustrate the premium: metabolic formula is $300+ per case of six, a loaf of low-protein bread ~$13.99, a box of low-protein pasta ~$11.49, and low-protein cheese slices ~$13.40, up to ~8x ordinary grocery prices.",
       "figure": "~$2,254 (infant) to ~$25,000 (adult/pregnant) per year",
       "market_signal": "Wide per-cohort cost range plus 8x grocery premiums signals pricing power and margin in specialty PKU food manufacturing, and a large latent bill waiting to move onto payers.",
       "sources": [
-        {"title": "EveryLife/NPKUA — How coverage of medical foods for IEM can save lives & costs", "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"}
+        {
+          "title": "EveryLife/NPKUA, How coverage of medical foods for IEM can save lives & costs",
+          "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -245,10 +353,16 @@
       "category": "out-of-pocket",
       "detail": "Reported family experiences bracket the studies: one Maryland family described paying about $450/month out of pocket for medical nutrition (~$5,400/yr), and formula alone can run $600-$2,000 per month depending on age and dose. These recurring, uncapped costs are a leading affordability driver of treatment non-adherence, which raises long-term costs to the health system.",
       "figure": "~$450/mo (~$5,400/yr) reported; formula $600-$2,000/mo",
-      "market_signal": "Affordability-driven non-adherence is both a public-health harm and a churn/retention problem — the core justification any innovator uses to pitch payers on covering nutrition to avoid downstream cost.",
+      "market_signal": "Affordability-driven non-adherence is both a public-health harm and a churn/retention problem, the core justification any innovator uses to pitch payers on covering nutrition to avoid downstream cost.",
       "sources": [
-        {"title": "Breaking Barriers: Securing Equal Access to Medical Food (flok)", "url": "https://flok.org/news/medical-nutrition-equity"},
-        {"title": "Phenylketonuria (PKU) — Patients & Providers for Medical Nutrition Equity", "url": "https://nutritionequity.org/category/conditions/iem-rusp/pku/"}
+        {
+          "title": "Breaking Barriers: Securing Equal Access to Medical Food (flok)",
+          "url": "https://flok.org/news/medical-nutrition-equity"
+        },
+        {
+          "title": "Phenylketonuria (PKU), Patients & Providers for Medical Nutrition Equity",
+          "url": "https://nutritionequity.org/category/conditions/iem-rusp/pku/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -259,8 +373,14 @@
       "figure": "WIC covers infants/children (to ~age 5) meeting income limits",
       "market_signal": "WIC + state programs de-risk the pediatric formula segment (a guaranteed payer for the youngest patients) but leave the adult and low-protein-food market almost entirely to private cash-pay.",
       "sources": [
-        {"title": "USDA Food and Nutrition — Infant Formula", "url": "https://www.fna.usda.gov/fs/infant-formula"},
-        {"title": "MI-WIC Policy — Food Package Qualifying Conditions (metabolic formula)", "url": "https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Assistance-Programs/WIC-Media/7-03-Food-Pkg-Qualifying-Conditions_Final-2123.pdf"}
+        {
+          "title": "USDA Food and Nutrition, Infant Formula",
+          "url": "https://www.fna.usda.gov/fs/infant-formula"
+        },
+        {
+          "title": "MI-WIC Policy, Food Package Qualifying Conditions (metabolic formula)",
+          "url": "https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Assistance-Programs/WIC-Media/7-03-Food-Pkg-Qualifying-Conditions_Final-2123.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -269,10 +389,16 @@
       "category": "assistance-program",
       "detail": "Beyond insurance mandates, a large group of states (on the order of 30-plus) provide metabolic formula and some low-protein foods directly to PKU patients through Title V / Children with Special Health Care Needs (CSHCN) programs or state health-department newborn-screening follow-up programs. Coverage scope, income limits, and age caps vary widely by state, so this is a supplemental rather than uniform safety net.",
       "figure": "~30+ states provide foods via Title V/CSHCN, with wide variation",
-      "market_signal": "State direct-supply programs are an existing distribution and reimbursement channel — a potential B2G customer base for PKU food suppliers, and a fragmentation that a standardized platform could consolidate.",
+      "market_signal": "State direct-supply programs are an existing distribution and reimbursement channel, a potential B2G customer base for PKU food suppliers, and a fragmentation that a standardized platform could consolidate.",
       "sources": [
-        {"title": "State Laws and Policies for the Coverage of Metabolic Formula and Foods (NUCDF)", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"},
-        {"title": "Insurance Coverage | NPKUA", "url": "https://www.npkua.org/resources/insurance-coverage/"}
+        {
+          "title": "State Laws and Policies for the Coverage of Metabolic Formula and Foods (NUCDF)",
+          "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"
+        },
+        {
+          "title": "Insurance Coverage | NPKUA",
+          "url": "https://www.npkua.org/resources/insurance-coverage/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -281,21 +407,30 @@
       "category": "assistance-program",
       "detail": "BioMarin operates copay and patient-assistance programs for its PKU drugs: eligible commercially-insured patients can pay as little as $0 per Kuvan/Palynziq prescription, and a patient-assistance program provides the drug free to qualifying uninsured/underinsured patients. These programs cushion out-of-pocket exposure on the drug side but do not cover medical foods, which have no equivalent manufacturer backstop.",
       "figure": "$0 copay for eligible commercial patients (drugs only)",
-      "market_signal": "Robust drug-side assistance vs. near-zero food-side assistance underscores the reimbursement gap — a whitespace for a nutrition-focused patient-assistance or cost-sharing model.",
+      "market_signal": "Robust drug-side assistance vs. near-zero food-side assistance underscores the reimbursement gap, a whitespace for a nutrition-focused patient-assistance or cost-sharing model.",
       "sources": [
-        {"title": "PKU Support and Resources | KUVAN (BioMarin)", "url": "https://www.kuvan.com/support-resources/"},
-        {"title": "Kuvan Prices, Coupons, Copay Cards & Patient Assistance (Drugs.com)", "url": "https://www.drugs.com/price-guide/kuvan"}
+        {
+          "title": "PKU Support and Resources | KUVAN (BioMarin)",
+          "url": "https://www.kuvan.com/support-resources/"
+        },
+        {
+          "title": "Kuvan Prices, Coupons, Copay Cards & Patient Assistance (Drugs.com)",
+          "url": "https://www.drugs.com/price-guide/kuvan"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "topic": "System-cost argument driving the coverage catalyst",
       "category": "legislation",
-      "detail": "The advocacy case for federal coverage is a cost-avoidance argument: untreated PKU causes irreversible cognitive impairment (children can lose ~4 IQ points per month without medical nutrition), and maternal PKU can cause birth defects — outcomes far more expensive to society than the ~$2,254-$25,000/yr cost of nutrition. This 'pay a little now or a lot later' framing is the economic backbone of the MNEA push.",
+      "detail": "The advocacy case for federal coverage is a cost-avoidance argument: untreated PKU causes irreversible cognitive impairment (children can lose ~4 IQ points per month without medical nutrition), and maternal PKU can cause birth defects, outcomes far more expensive to society than the ~$2,254-$25,000/yr cost of nutrition. This 'pay a little now or a lot later' framing is the economic backbone of the MNEA push.",
       "figure": "~4 IQ points/month lost untreated vs. ~$2,254-$25,000/yr to treat",
-      "market_signal": "A clean health-economics ROI story (cheap prevention, catastrophic untreated cost) is the argument that ultimately moves payers and legislators — the wedge for value-based coverage deals even absent MNEA.",
+      "market_signal": "A clean health-economics ROI story (cheap prevention, catastrophic untreated cost) is the argument that ultimately moves payers and legislators, the wedge for value-based coverage deals even absent MNEA.",
       "sources": [
-        {"title": "EveryLife/NPKUA — People with PKU need medical nutrition to thrive", "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"}
+        {
+          "title": "EveryLife/NPKUA, People with PKU need medical nutrition to thrive",
+          "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"
+        }
       ],
       "confidence": "sourced"
     }

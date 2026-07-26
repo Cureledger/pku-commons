@@ -47,7 +47,7 @@
 
 /* section tabs */
 .tabbar { position: sticky; top: 56px; z-index: 8; background: rgba(255,255,255,.94); backdrop-filter: saturate(1.4) blur(8px); border-bottom: 1px solid var(--line); }
-.tabbar .wrap { display: flex; gap: 4px; overflow-x: auto; padding-top: 8px; padding-bottom: 8px; }
+.tabbar .wrap { display: flex; flex-wrap: wrap; gap: 4px 6px; padding-top: 8px; padding-bottom: 8px; }
 .tab { flex: 0 0 auto; font-family: var(--font-disp); font-weight: 600; font-size: .9rem; color: var(--ink-soft); padding: 8px 14px; border-radius: 999px; cursor: pointer; border: 1px solid transparent; white-space: nowrap; background: none; }
 .tab:hover { color: var(--ink); background: var(--wash); }
 .tab.active { color: #fff; background: var(--blue); border-color: var(--blue); }
@@ -80,9 +80,9 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 
 /* badges */
 .badge { display: inline-block; font-family: var(--font-mono); font-size: .68rem; font-weight: 500; padding: 2px 7px; border-radius: 5px; white-space: nowrap; }
-.b-full,.b-universal,.b-approved,.b-yes { background: #e4f6ea; color: #1a7a3c; }
-.b-partial,.b-limited,.b-pipeline { background: #fdf0dc; color: #a86a10; }
-.b-none,.b-trial { background: #fde4e4; color: #b02a2a; }
+.b-full,.b-universal,.b-approved,.b-yes,.b-live,.b-fdacleared,.b-commerciallyavailable,.b-available { background: #e4f6ea; color: #1a7a3c; }
+.b-partial,.b-limited,.b-pipeline,.b-beta,.b-wip,.b-researchprototype,.b-research,.b-concept,.b-pointofcareresearch { background: #fdf0dc; color: #a86a10; }
+.b-none,.b-trial,.b-unmaintained,.b-discontinued,.b-doesnotexistyet { background: #fde4e4; color: #b02a2a; }
 .b-unknown { background: var(--wash-2); color: var(--ink-faint); }
 .b-sourced { background: var(--blue-wash); color: var(--blue-dk); }
 .b-estimate { background: #f3edfb; color: #6b3fb0; }
@@ -144,12 +144,12 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 <section class="statband">
 <div class="wrap" style="padding-top:28px;padding-bottom:28px;">
 <div class="stat-grid" id="statGrid">
-<div class="stat-cell"><div class="stat-num" id="s-pop">—</div><div class="stat-lab">Estimated US PKU patients</div></div>
-<div class="stat-cell"><div class="stat-num" id="s-market">—</div><div class="stat-lab">Treatment market size est. (see Money)</div></div>
-<div class="stat-cell"><div class="stat-num" id="s-products">—</div><div class="stat-lab">Foods &amp; formulas catalogued</div></div>
-<div class="stat-cell"><div class="stat-num" id="s-companies">—</div><div class="stat-lab">Manufacturers &amp; companies</div></div>
-<div class="stat-cell"><div class="stat-num" id="s-gapstates">—</div><div class="stat-lab">US states with a coverage gap</div></div>
-<div class="stat-cell"><div class="stat-num" id="s-pipeline">—</div><div class="stat-lab">Drugs &amp; pipeline programs</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-pop">…</div><div class="stat-lab">Estimated US PKU patients</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-market">…</div><div class="stat-lab">Treatment market size est. (see Money)</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-products">…</div><div class="stat-lab">Foods &amp; formulas catalogued</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-companies">…</div><div class="stat-lab">Manufacturers &amp; companies</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-gapstates">…</div><div class="stat-lab">US states with a coverage gap</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-pipeline">…</div><div class="stat-lab">Drugs &amp; pipeline programs</div></div>
 </div>
 </div>
 </section>
@@ -158,9 +158,10 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 <div class="wrap">
 <div class="section-head" style="margin-bottom:18px;">
 <h2>Where the opportunities are</h2>
-<p class="muted" style="max-width:74ch;">Six gaps the data keeps pointing at. Each is a market that exists because the current one does not serve it. The tables below are the evidence.</p>
+<p class="muted" style="max-width:74ch;">Seven gaps the data keeps pointing at. Each is a market that exists because the current one does not serve it. The tables below are the evidence.</p>
 </div>
 <div class="gapgrid">
+<div class="gapcard" style="border-left-color:#b02a2a;"><h4>No home phe monitor</h4><p>PKU has no glucometer. Patients still mail a dried blood spot to a lab and wait 5 to 14 days for a result, so diet and level are never linked in real time. Diabetes built a device industry on exactly this loop. It is the single biggest disruption opening in PKU. <b>See Medical Devices.</b></p></div>
 <div class="gapcard"><h4>The cash-pay food layer</h4><p>Payers fund PKU as a six-figure drug but treat the medical food every patient eats as optional. Roughly two-thirds of US patients pay out of pocket, about $6,400 to $9,000 a year. A lower-cost, better-tasting staples brand has room to run. <b>See Money, Medical Foods.</b></p></div>
 <div class="gapcard"><h4>Adult care has no home</h4><p>Care clusters at a handful of pediatric metabolic centers; dedicated adult PKU clinics are scarce and most US adults are lost to follow-up. Telehealth metabolic nutrition is the obvious lever and barely exists. <b>See Clinics &amp; Dietitians.</b></p></div>
 <div class="gapcard"><h4>The dietitian is the bottleneck</h4><p>The binding constraint on care is not doctors but metabolic dietitians, with caseloads past 130 patients each and a documented workforce shortage. Tools that multiply an RD's reach are underbuilt. <b>See Clinics &amp; Dietitians.</b></p></div>
@@ -241,6 +242,27 @@ const DATASETS = [
       {h:'Status', f:r=>r.status||'—'},
       {h:'Indication', f:r=>r.indication||'—'},
       {h:'Market note', f:r=>r.market_note||'—'},
+    ]},
+  { id:'apps', file:'market/data/apps.json', tab:'Apps', blurb:'The software patients use to count phe and manage the diet. Fragmented, often built by one parent, and prone to going dark when that person moves on. AI estimators are the new entrants.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'App', f:r=>cell(r.name, r.developer), strong:true},
+      {h:'Category', f:r=>r.category||'—'},
+      {h:'Platforms', f:r=>r.platforms||'—'},
+      {h:'Cost', f:r=>r.cost||'—'},
+      {h:'Backing', f:r=>r.backing||'—'},
+      {h:'Status', f:r=>badge(r.status)},
+      {h:'Market signal', f:r=>r.market_signal||r.notes||'—'},
+    ]},
+  { id:'devices', file:'market/data/devices.json', tab:'Medical Devices', blurb:'The hardware layer, and the biggest gap in PKU. There is no home phenylalanine monitor: results still come back 5 to 14 days later by mail. Diabetes has glucometers and CGMs; PKU has nothing. That absence is the disruption opportunity.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Device', f:r=>cell(r.name, r.maker), strong:true},
+      {h:'Category', f:r=>r.category||'—'},
+      {h:'Status', f:r=>badge(r.status)},
+      {h:'Availability', f:r=>r.availability||'—'},
+      {h:'What it is', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
     ]},
   { id:'manufacturers', file:'market/data/manufacturers.json', tab:'Companies', blurb:'Who the players are and who owns whom. Two food conglomerates dominate formula; one biotech dominates drugs.',
     filterKey:'segment', filterLabel:{},
@@ -394,7 +416,7 @@ function computeStats(){
   // US population: sum of est if parseable, else headline estimate
   document.getElementById('s-pop').textContent = '~16,500';
   // market size: clean headline range; detail lives in the Money tab
-  document.getElementById('s-market').textContent = store['payers'] ? '$1–2B' : '—';
+  document.getElementById('s-market').textContent = store['payers'] ? '$1-2B' : '…';
 }
 
 loadAll();

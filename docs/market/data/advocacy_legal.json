@@ -11,9 +11,18 @@
       "detail": "The only US national nonprofit dedicated solely to PKU, founded 2008 (working group from 2006), organized around four programs: research, advocacy, support, and education. It funds peer-reviewed and targeted research grants toward a cure, runs a patient registry, and is the national voice at NIH, FDA and Congress on medical-food access and newborn screening. It also operates an Insurance Navigator support program and coordinates ~a dozen regional affiliates through its Affiliate Council.",
       "market_signal": "Primary patient-aggregation and research-funding hub in the US; the gatekeeper relationship for any PKU product launch, registry access, or trial recruitment.",
       "sources": [
-        {"title": "About NPKUA", "url": "https://www.npkua.org/about-npkua/"},
-        {"title": "National PKU Alliance - NORD directory", "url": "https://rarediseases.org/organizations/national-pku-alliance/"},
-        {"title": "NPKUA Affiliate Council", "url": "https://www.npkua.org/affiliates/"}
+        {
+          "title": "About NPKUA",
+          "url": "https://www.npkua.org/about-npkua/"
+        },
+        {
+          "title": "National PKU Alliance - NORD directory",
+          "url": "https://rarediseases.org/organizations/national-pku-alliance/"
+        },
+        {
+          "title": "NPKUA Affiliate Council",
+          "url": "https://www.npkua.org/affiliates/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -24,7 +33,10 @@
       "detail": "NPKUA's research function invests in peer-reviewed and targeted PKU studies, funds grants and fellowships, and supports the PKU patient registry used to advance treatment research. It positions itself as accelerating the timeline to a cure by co-funding early science and enabling clinical-trial infrastructure. Grant scale is modest relative to industry R&D but is a key non-dilutive source and credibility signal for academic PKU researchers.",
       "market_signal": "Non-dilutive research capital and registry data that de-risk early PKU science; a natural co-funding and data partner for innovators.",
       "sources": [
-        {"title": "About NPKUA (research program)", "url": "https://www.npkua.org/about-npkua/"}
+        {
+          "title": "About NPKUA (research program)",
+          "url": "https://www.npkua.org/about-npkua/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -35,8 +47,14 @@
       "detail": "NORD was founded in 1983 by Abbey Meyers and rare-disease group leaders out of the coalition that passed the Orphan Drug Act, and now supports a network of 360+ patient-advocacy organizations serving over half a million patients. For PKU it runs patient-assistance/copay programs, maintains a disease directory, and lobbies on newborn screening and orphan-drug policy. It is an umbrella and policy force rather than a PKU-specific body.",
       "market_signal": "Umbrella policy muscle and patient-assistance rails that shape orphan-drug reimbursement; relevant to any PKU therapy's access strategy.",
       "sources": [
-        {"title": "About NORD", "url": "https://rarediseases.org/about-us/"},
-        {"title": "PKU Patient Assistance Program FAQ (NORD)", "url": "https://rarediseases.org/wp-content/uploads/2020/10/PKU-PAP-FAQ-10-2020.pdf"}
+        {
+          "title": "About NORD",
+          "url": "https://rarediseases.org/about-us/"
+        },
+        {
+          "title": "PKU Patient Assistance Program FAQ (NORD)",
+          "url": "https://rarediseases.org/wp-content/uploads/2020/10/PKU-PAP-FAQ-10-2020.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -47,9 +65,18 @@
       "detail": "Founded in 1987 and headquartered in Germany, E.S.PKU is a patient-driven umbrella organization representing roughly 41 national PKU member organizations across Europe. Its mission is to promote the educational and social welfare of people with PKU and allied disorders and to stimulate scientific and medical research. It coordinates pan-European advocacy, an annual conference, and consensus positions (the 'landmarks' documents).",
       "market_signal": "Single point of contact for pan-European PKU patient reach and cross-border advocacy; useful for EU market access and multi-country trials.",
       "sources": [
-        {"title": "E.S.PKU official site", "url": "https://www.espku.org/"},
-        {"title": "E.S.PKU - Wikipedia", "url": "https://en.wikipedia.org/wiki/European_Society_for_Phenylketonuria_and_Allied_Disorders_Treated_as_Phenylketonuria"},
-        {"title": "Orphanet: E.S.PKU federation profile", "url": "https://www.orpha.net/en/patient-organisations/federations-alliances/309201"}
+        {
+          "title": "E.S.PKU official site",
+          "url": "https://www.espku.org/"
+        },
+        {
+          "title": "E.S.PKU - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/European_Society_for_Phenylketonuria_and_Allied_Disorders_Treated_as_Phenylketonuria"
+        },
+        {
+          "title": "Orphanet: E.S.PKU federation profile",
+          "url": "https://www.orpha.net/en/patient-organisations/federations-alliances/309201"
+        }
       ],
       "confidence": "sourced"
     },
@@ -60,8 +87,14 @@
       "detail": "A US nonprofit based in Encinitas, California, providing support and services to children with PKU and their families. It runs a national hotline connecting families to PKU clinics and support groups, educates legislators on family needs, and operates programs for college scholarships, crisis intervention, and research support. It is one of the older US PKU service organizations, complementary to NPKUA.",
       "market_signal": "Direct-to-family service and referral channel; a distribution touchpoint for pediatric PKU products and support resources.",
       "sources": [
-        {"title": "Children's PKU Network - NORD directory", "url": "https://rarediseases.org/organizations/childrens-pku-network/"},
-        {"title": "Children's PKU Network - GuideStar profile", "url": "https://www.guidestar.org/profile/33-0455608"}
+        {
+          "title": "Children's PKU Network - NORD directory",
+          "url": "https://rarediseases.org/organizations/childrens-pku-network/"
+        },
+        {
+          "title": "Children's PKU Network - GuideStar profile",
+          "url": "https://www.guidestar.org/profile/33-0455608"
+        }
       ],
       "confidence": "sourced"
     },
@@ -72,8 +105,14 @@
       "detail": "Founded in 1989 by nutritionist Virginia Schuett, National PKU News published a widely subscribed national PKU newsletter (78 issues over 26 years, through 2015) reaching subscribers across the US, Canada, and dozens of other countries. It also produced core low-protein cookery and education materials (e.g., 'Low Protein Cookery for PKU'). It functions primarily as an information/education publisher rather than a lobbying body.",
       "market_signal": "Legacy trusted-content channel and diet-education authority; low commercial footprint but high credibility for patient-facing content.",
       "sources": [
-        {"title": "PKU News - Staff/History", "url": "https://pkunews.org/staff/"},
-        {"title": "PKU News - Board", "url": "https://pkunews.org/board/"}
+        {
+          "title": "PKU News - Staff/History",
+          "url": "https://pkunews.org/staff/"
+        },
+        {
+          "title": "PKU News - Board",
+          "url": "https://pkunews.org/board/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -84,9 +123,18 @@
       "detail": "Formed in 1973, NSPKU is the world's oldest PKU patient charity, representing people with PKU to government, the NHS, industry, and media in the UK. Its membership includes 900+ families/individuals and 170+ medical professionals, and it works through a Medical Advisory Panel of expert clinicians. It runs a helpline, family conference, and active parliamentary campaigns (e.g., for NHS access to sapropterin and equitable treatment).",
       "market_signal": "The UK access-and-reimbursement lobby; its NICE/NHS campaigns directly shape whether PKU therapies get funded in Britain.",
       "sources": [
-        {"title": "About NSPKU", "url": "https://nspku.org/about-nspku/"},
-        {"title": "NSPKU - Our work", "url": "https://nspku.org/our-work/"},
-        {"title": "Campaign together for PKU (Parliamentary campaign)", "url": "https://nspku.org/campaign-together-for-pku-our-new-parliamentary-campaign/"}
+        {
+          "title": "About NSPKU",
+          "url": "https://nspku.org/about-nspku/"
+        },
+        {
+          "title": "NSPKU - Our work",
+          "url": "https://nspku.org/our-work/"
+        },
+        {
+          "title": "Campaign together for PKU (Parliamentary campaign)",
+          "url": "https://nspku.org/campaign-together-for-pku-our-new-parliamentary-campaign/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -97,8 +145,14 @@
       "detail": "Germany's national PKU self-help organization, founded December 1975 by eight parent couples and now ~1,900 members organized into 17 regional groups plus specialist groups for allied disorders (homocystinuria, NKH, organic acidemias, tyrosinosis, neurotransmitter disorders). It provides social and legal consultation, dietitian referral, and regular regional meetings, and advocates independently for patient interests. It is a founding-tier member of the European E.S.PKU network.",
       "market_signal": "Largest single-country PKU patient bloc in Europe; anchor partner for German-market access and DACH-region engagement.",
       "sources": [
-        {"title": "DIG PKU - Orphanet profile", "url": "https://www.orpha.net/en/patient-organisations/patient/139754"},
-        {"title": "DIG PKU official site", "url": "https://www.dig-pku.de/"}
+        {
+          "title": "DIG PKU - Orphanet profile",
+          "url": "https://www.orpha.net/en/patient-organisations/patient/139754"
+        },
+        {
+          "title": "DIG PKU official site",
+          "url": "https://www.dig-pku.de/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -109,8 +163,14 @@
       "detail": "CanPKU+ is Canada's national volunteer nonprofit (organized 2008, based in Toronto) serving people affected by PKU, MSUD, HCU, urea cycle disorders, and related inherited metabolic disorders. It provides education, advocacy, and resources, and works to advance equitable access to diagnosis, treatment, and lifelong care across Canada. It collaborates with rare-disease registries including the NPKUA-hosted PKU registry and files formal briefs to Parliament (e.g., on rare-disease drug strategy).",
       "market_signal": "The Canadian access lobby and registry partner; relevant to pan-Canadian reimbursement (CADTH/pCPA) and cross-border trial recruitment.",
       "sources": [
-        {"title": "CanPKU+ About Us", "url": "https://www.canpku.org/index.cfm?fuseaction=Page.ViewPage&pageId=472"},
-        {"title": "CanPKU+ written brief to Parliament (HESA)", "url": "https://www.ourcommons.ca/Content/Committee/432/HESA/Brief/BR10948189/br-external/CanadianPKUAndAlliedDisordersInc-e.pdf"}
+        {
+          "title": "CanPKU+ About Us",
+          "url": "https://www.canpku.org/index.cfm?fuseaction=Page.ViewPage&pageId=472"
+        },
+        {
+          "title": "CanPKU+ written brief to Parliament (HESA)",
+          "url": "https://www.ourcommons.ca/Content/Committee/432/HESA/Brief/BR10948189/br-external/CanadianPKUAndAlliedDisordersInc-e.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -121,8 +181,14 @@
       "detail": "MDDA is Australia's national peak body for the inborn-errors-of-metabolism (IEM) community, representing patients to government, industry, and other organizations. Its advocacy secured a notable win: as of 1 April 2023, Kuvan (sapropterin) was listed on the Pharmaceutical Benefits Scheme (PBS) for sapropterin-responsive adults with PKU/HPA, capping scripts at ~AUD 30 (or ~AUD 7.30 concession). It provides carer resources, conferences, and treatment-access campaigns.",
       "market_signal": "Demonstrated PBS reimbursement-unlock capability; the counterpart for any therapy seeking Australian government subsidy.",
       "sources": [
-        {"title": "MDDA - Advocacy", "url": "https://mdda.org.au/advocacy/"},
-        {"title": "MDDA - PBS win for Kuvan (PKU community)", "url": "https://mdda.org.au/breaking-news-the-power-of-advocacy-a-win-for-equitable-treatment-for-the-pku-community/"}
+        {
+          "title": "MDDA - Advocacy",
+          "url": "https://mdda.org.au/advocacy/"
+        },
+        {
+          "title": "MDDA - PBS win for Kuvan (PKU community)",
+          "url": "https://mdda.org.au/breaking-news-the-power-of-advocacy-a-win-for-equitable-treatment-for-the-pku-community/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -133,7 +199,10 @@
       "detail": "Metabolic Support UK is the umbrella patient charity for all inherited metabolic disorders in the UK, providing bespoke support, information, and peer groups; it states it supports over 40,000 people worldwide through peer groups, conferences, blogs, and webinars. PKU falls within its remit as one of many IEMs, complementing the PKU-specific NSPKU. Its breadth makes it a cross-condition advocacy and information platform rather than a single-disease lobby.",
       "market_signal": "Cross-metabolic-disorder reach and patient data useful for platform plays spanning multiple IEMs, not PKU alone.",
       "sources": [
-        {"title": "Metabolic Support UK - Phenylketonuria", "url": "https://metabolicsupport.org/condition/phenylketonuria/"}
+        {
+          "title": "Metabolic Support UK - Phenylketonuria",
+          "url": "https://metabolicsupport.org/condition/phenylketonuria/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -144,8 +213,14 @@
       "detail": "A US patient-advocacy foundation focused on rare-disease policy and legislation, EveryLife is a lead backer of the Medical Nutrition Equity Act and of newborn-screening expansion. It publishes fact sheets on how medical-food coverage varies by state and mobilizes patient advocates (including PKU families) for federal 'hill day' lobbying. It functions as policy infrastructure across many rare diseases including PKU.",
       "market_signal": "Federal-policy engine behind medical-food coverage mandates; a key ally for reimbursement-reform lobbying in the PKU nutrition segment.",
       "sources": [
-        {"title": "EveryLife - Medical Nutrition Equity Act fact sheet", "url": "https://everylifefoundation.org/wp-content/uploads/2024/02/MNEA-FactSheet-2024.pdf"},
-        {"title": "EveryLife - Newborn Screening take action", "url": "https://everylifefoundation.org/newborn-screening-take-action/"}
+        {
+          "title": "EveryLife - Medical Nutrition Equity Act fact sheet",
+          "url": "https://everylifefoundation.org/wp-content/uploads/2024/02/MNEA-FactSheet-2024.pdf"
+        },
+        {
+          "title": "EveryLife - Newborn Screening take action",
+          "url": "https://everylifefoundation.org/newborn-screening-take-action/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -156,7 +231,10 @@
       "detail": "Genetic Alliance is a long-standing US nonprofit coalition of disease-advocacy organizations, health systems, and researchers that builds registries, biobanks, and participant-centered research infrastructure across genetic conditions. It has been active historically in newborn-screening advocacy and health-data platforms relevant to PKU and other IEMs. Its role is enabling infrastructure and coalition-building rather than PKU-specific lobbying.",
       "market_signal": "Registry/biobank and data-platform partner spanning genetic diseases; relevant to real-world-evidence and patient-engagement strategies.",
       "sources": [
-        {"title": "Patient advocacy in newborn screening (context)", "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.c.30166"}
+        {
+          "title": "Patient advocacy in newborn screening (context)",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.c.30166"
+        }
       ],
       "confidence": "estimate"
     },
@@ -167,7 +245,10 @@
       "detail": "A US regional PKU parent organization begun in 1994 and founded by parents of children with PKU, with the stated goal of promoting the health and well-being of people with PKU. It provides support, connection, and community activities, and is part of the broader NPKUA-affiliated ecosystem of regional groups. Its scale is local/regional relative to the national NPKUA.",
       "market_signal": "Grassroots family network illustrating the fragmented regional layer beneath NPKUA; useful for local engagement and awareness.",
       "sources": [
-        {"title": "Alliance of PKU Families", "url": "https://alliancepkufamilies.org/home/"}
+        {
+          "title": "Alliance of PKU Families",
+          "url": "https://alliancepkufamilies.org/home/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -178,8 +259,14 @@
       "detail": "ANPAD is a state/regional PKU organization whose mission is to help individuals with PKU and allied disorders adhere to treatment, inform families of research and treatment advances, raise public awareness, and build a support network. It is one of NPKUA's regional affiliates and engages on state-level issues such as medical-nutrition coverage. Its footprint is Arizona-focused.",
       "market_signal": "Example of the state-affiliate layer that drives local coverage advocacy and awareness; granular market-access reach.",
       "sources": [
-        {"title": "ANPAD News - Medical Nutrition Equality Act", "url": "https://anpadnews.org/blogs/news/medical-nutrition-equality-act"},
-        {"title": "NPKUA Affiliate Council", "url": "https://www.npkua.org/affiliates/"}
+        {
+          "title": "ANPAD News - Medical Nutrition Equality Act",
+          "url": "https://anpadnews.org/blogs/news/medical-nutrition-equality-act"
+        },
+        {
+          "title": "NPKUA Affiliate Council",
+          "url": "https://www.npkua.org/affiliates/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -190,7 +277,10 @@
       "detail": "MACPAD is a 501(c)(3) regional nonprofit dedicated to improving the health and well-being of individuals and families affected by PKU and related metabolic disorders in the Mid-Atlantic US. It offers community, education, and support and is part of the NPKUA affiliate network. Like other affiliates it concentrates on regional family support and state advocacy.",
       "market_signal": "Regional affiliate covering the Mid-Atlantic corridor; a local channel for patient engagement and state-level coverage campaigns.",
       "sources": [
-        {"title": "NPKUA Affiliate Council", "url": "https://www.npkua.org/affiliates/"}
+        {
+          "title": "NPKUA Affiliate Council",
+          "url": "https://www.npkua.org/affiliates/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -201,7 +291,10 @@
       "detail": "A state-level PKU organization supporting people and families affected by PKU and allied disorders in Illinois, part of the NPKUA regional affiliate ecosystem. It provides support, education, and community events and advocates on state coverage and clinic-access issues. Scale is state-focused.",
       "market_signal": "Representative Midwest state affiliate; illustrates the state-by-state structure of US PKU patient organizing.",
       "sources": [
-        {"title": "NPKUA Affiliate Council", "url": "https://www.npkua.org/affiliates/"}
+        {
+          "title": "NPKUA Affiliate Council",
+          "url": "https://www.npkua.org/affiliates/"
+        }
       ],
       "confidence": "estimate"
     },
@@ -212,7 +305,10 @@
       "detail": "A US patient organization for homocystinuria (HCU) and allied inherited metabolic disorders, closely adjacent to the PKU community and cross-listed in PKU resource directories. It shares the medical-food coverage and newborn-screening policy agenda with PKU groups and coordinates on federal legislation. It is an allied-disorder organization rather than PKU-specific.",
       "market_signal": "Adjacent-IEM ally that co-drives shared coverage policy; relevant to platform strategies spanning amino-acid metabolic disorders.",
       "sources": [
-        {"title": "HCU Network America - other metabolic organizations", "url": "https://hcunetworkamerica.org/other-metabolic-organizations/"}
+        {
+          "title": "HCU Network America - other metabolic organizations",
+          "url": "https://hcunetworkamerica.org/other-metabolic-organizations/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -223,56 +319,86 @@
       "detail": "An organization preserving and promoting the legacy of Robert Guthrie, who developed the blood-spot PKU newborn-screening test in 1958-1963, and advocating for continued and expanded newborn screening. It functions as a heritage and awareness body that reinforces the screening-mandate narrative underpinning PKU diagnosis. Its role is historical stewardship and screening advocacy rather than direct patient services.",
       "market_signal": "Keeper of the newborn-screening origin story that legitimizes universal PKU detection, the top of the diagnosis funnel for any therapy.",
       "sources": [
-        {"title": "Robert Guthrie Legacy Project - Newborn Screening", "url": "https://www.robertguthriepku.org/newborn-screening"}
+        {
+          "title": "Robert Guthrie Legacy Project - Newborn Screening",
+          "url": "https://www.robertguthriepku.org/newborn-screening"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "kind": "litigation",
-      "name": "BioMarin (and Merck & Cie) v. Par Pharmaceutical — Kuvan ANDA patent litigation",
+      "name": "BioMarin (and Merck & Cie) v. Par Pharmaceutical, Kuvan ANDA patent litigation",
       "geography": "US",
       "detail": "After Par Pharmaceutical filed ANDAs with Paragraph IV certifications (notices dated Jan 2015 and Jan 2016) seeking to market generic sapropterin (Kuvan 100 mg tablets and oral powder), BioMarin and patent co-owner Merck & Cie sued Par for patent infringement; the cases were consolidated. In April 2017 the parties settled: BioMarin granted Par a non-exclusive license to launch a generic beginning October 1, 2020 (or April 1, 2021 absent first-filer exclusivity, or earlier under certain conditions). This is the defining Hatch-Waxman patent matter in PKU.",
       "market_signal": "The template for PKU small-molecule generic entry: negotiated launch dates via Paragraph IV settlement set the exclusivity clock innovators must model.",
       "sources": [
-        {"title": "Jones Day - BioMarin resolves Kuvan patent claims against Par", "url": "https://www.jonesday.com/en/practices/experience/2017/04/biomarin-resolves-patent-infringement-claims-against-par-pharmaceutical-related-to-kuvan"},
-        {"title": "BioMarin - Kuvan patent challenge settlement (press release)", "url": "https://www.prnewswire.com/news-releases/biomarin-announces-kuvan-sapropterin-dihydrochloride-patent-challenge-settlement-300439214.html"},
-        {"title": "BioMarin 10-K FY2017 (litigation disclosure)", "url": "https://www.sec.gov/Archives/edgar/data/0001048477/000156459018003114/bmrn-10k_20171231.htm"}
+        {
+          "title": "Jones Day - BioMarin resolves Kuvan patent claims against Par",
+          "url": "https://www.jonesday.com/en/practices/experience/2017/04/biomarin-resolves-patent-infringement-claims-against-par-pharmaceutical-related-to-kuvan"
+        },
+        {
+          "title": "BioMarin - Kuvan patent challenge settlement (press release)",
+          "url": "https://www.prnewswire.com/news-releases/biomarin-announces-kuvan-sapropterin-dihydrochloride-patent-challenge-settlement-300439214.html"
+        },
+        {
+          "title": "BioMarin 10-K FY2017 (litigation disclosure)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001048477/000156459018003114/bmrn-10k_20171231.htm"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "kind": "litigation",
-      "name": "Kuvan generic entry — Par launch (Oct 1, 2020) and market erosion",
+      "name": "Kuvan generic entry, Par launch (Oct 1, 2020) and market erosion",
       "geography": "US",
       "detail": "Pursuant to the 2017 settlement, Par launched AB-rated generic sapropterin tablets and oral packets on October 1, 2020. Branded Kuvan had list prices around $5,040 per 120x100 mg tablets and $1,260 per 30-packet powder (Jan 2021) and generated roughly $400-450M in annual revenue at peak, which plateaued and then eroded post-2020 as generic competition entered. This is the commercial consequence of the patent settlement rather than a separate lawsuit.",
       "market_signal": "Concrete example of orphan small-molecule revenue cliff post-settlement; frames pricing and lifecycle expectations for PKU pharmacotherapy.",
       "sources": [
-        {"title": "OptumRx - Kuvan first-time generic", "url": "https://professionals.optumrx.com/publications/library/newgenerics_kuvan_2020-1001.html"},
-        {"title": "DrugPatentWatch - sapropterin generic entry", "url": "https://www.drugpatentwatch.com/p/generic-api/SAPROPTERIN+DIHYDROCHLORIDE"}
+        {
+          "title": "OptumRx - Kuvan first-time generic",
+          "url": "https://professionals.optumrx.com/publications/library/newgenerics_kuvan_2020-1001.html"
+        },
+        {
+          "title": "DrugPatentWatch - sapropterin generic entry",
+          "url": "https://www.drugpatentwatch.com/p/generic-api/SAPROPTERIN+DIHYDROCHLORIDE"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "kind": "litigation",
-      "name": "Palynziq (pegvaliase) — biologic exclusivity, no reported generic/patent litigation",
+      "name": "Palynziq (pegvaliase), biologic exclusivity, no reported generic/patent litigation",
       "geography": "US",
       "detail": "Palynziq (pegvaliase-pqpz), BioMarin's injectable enzyme-substitution therapy approved 2018 for adults and (2025) adolescents with PKU, is a biologic protected by BLA/biologics exclusivity and patents; no public ANDA-style patent litigation or antitrust matter over it was found as of mid-2026. As a biologic it would face biosimilar (BPCIA 'patent dance') rather than Hatch-Waxman challenges, and none is publicly reported. Recorded here as an absence-of-litigation data point, not an alleged matter.",
       "market_signal": "Biologic status insulates the highest-value PKU therapy from near-term generic litigation, a durable-exclusivity contrast to Kuvan.",
       "sources": [
-        {"title": "FDA approves Palynziq for adolescents 12+ (2025)", "url": "https://www.prnewswire.com/news-releases/us-food-and-drug-administration-approves-biomarins-palynziq-pegvaliase-pqpz-for-adolescents-12-years-of-age-and-older-with-phenylketonuria-pku-302700090.html"}
+        {
+          "title": "FDA approves Palynziq for adolescents 12+ (2025)",
+          "url": "https://www.prnewswire.com/news-releases/us-food-and-drug-administration-approves-biomarins-palynziq-pegvaliase-pqpz-for-adolescents-12-years-of-age-and-older-with-phenylketonuria-pku-302700090.html"
+        }
       ],
       "confidence": "estimate"
     },
     {
       "kind": "litigation",
-      "name": "Mandatory newborn screening laws — legal/ethics backdrop",
+      "name": "Mandatory newborn screening laws, legal/ethics backdrop",
       "geography": "US",
       "detail": "PKU newborn screening was the first mass genetic-screening mandate: Massachusetts passed the first mandatory law in 1963, New York's Public Health Law 2500-a followed in 1965, and by 1967 some 37 states required screening, many enacted by voice vote with little debate after a Kennedy-era Advertising Council campaign. The rapid mandates later raised enduring ethical/legal debates over compulsory testing, consent, and retention of blood-spot samples. This statutory backdrop, not litigation per se, created the universal-detection foundation of the PKU market.",
       "market_signal": "State mandate = ~100% birth-cohort case identification; the legal scaffolding that guarantees the incident-patient funnel for every PKU product.",
       "sources": [
-        {"title": "Newborn Screening History - NY Wadsworth Center", "url": "https://wadsworth.org/programs/newborn/screening/history"},
-        {"title": "Newborn Screening: Ethical, Legal, and Social Implications (PMC)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7768912/"},
-        {"title": "History of Newborn PKU Screening in the U.S. (LSU)", "url": "https://biotech.law.lsu.edu/research/fed/tfgt/appendix5.htm"}
+        {
+          "title": "Newborn Screening History - NY Wadsworth Center",
+          "url": "https://wadsworth.org/programs/newborn/screening/history"
+        },
+        {
+          "title": "Newborn Screening: Ethical, Legal, and Social Implications (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7768912/"
+        },
+        {
+          "title": "History of Newborn PKU Screening in the U.S. (LSU)",
+          "url": "https://biotech.law.lsu.edu/research/fed/tfgt/appendix5.htm"
+        }
       ],
       "confidence": "sourced"
     },
@@ -283,9 +409,18 @@
       "detail": "The dominant PKU 'legal' activity is administrative: denials of coverage for low-phenylalanine medical foods and formula, and subsequent appeals, rather than reported class actions. Historically nearly half of privately insured patients were denied special-food coverage and only ~10% of Medicaid-eligibles were covered; NPKUA runs an Insurance Navigator program specifically to support appeals. No single landmark PKU insurance class action was found in public sources; the pattern is high-volume individual appeals under state mandates and plan terms.",
       "market_signal": "Reimbursement friction is a structural demand suppressor for medical foods; a coverage-guarantee or PBM solution is a real market gap.",
       "sources": [
-        {"title": "NPKUA - Insurance Coverage resources", "url": "https://www.npkua.org/resources/insurance-coverage/"},
-        {"title": "Insurance coverage of special foods in PKU (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/8434099/"},
-        {"title": "NPKUA PKU Binder Ch.14 - Insurance Coverage", "url": "https://www.npkua.org/wp-content/uploads/2024/05/PKU-Binder-2011-Ch14.pdf"}
+        {
+          "title": "NPKUA - Insurance Coverage resources",
+          "url": "https://www.npkua.org/resources/insurance-coverage/"
+        },
+        {
+          "title": "Insurance coverage of special foods in PKU (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8434099/"
+        },
+        {
+          "title": "NPKUA PKU Binder Ch.14 - Insurance Coverage",
+          "url": "https://www.npkua.org/wp-content/uploads/2024/05/PKU-Binder-2011-Ch14.pdf"
+        }
       ],
       "confidence": "estimate"
     },
@@ -296,8 +431,14 @@
       "detail": "State medical-food mandates do not reach self-funded employer plans, which are governed by federal ERISA and can lawfully exclude PKU medical foods even in states with full coverage mandates. This preemption is a recurring basis for denials and appeals affecting many working families, and is a core argument for federal legislation. It is a legal/regulatory structural barrier rather than a single case.",
       "market_signal": "ERISA preemption caps the addressable insured market for medical foods; federal fix (MNEA) would materially expand coverage.",
       "sources": [
-        {"title": "EveryLife - Medical foods coverage / ERISA gap fact sheet", "url": "https://everylifefoundation.org/wp-content/uploads/2024/02/MNEA-FactSheet-2024.pdf"},
-        {"title": "NPKUA PKU Binder Ch.14 - Insurance Coverage", "url": "https://www.npkua.org/wp-content/uploads/2024/05/PKU-Binder-2011-Ch14.pdf"}
+        {
+          "title": "EveryLife - Medical foods coverage / ERISA gap fact sheet",
+          "url": "https://everylifefoundation.org/wp-content/uploads/2024/02/MNEA-FactSheet-2024.pdf"
+        },
+        {
+          "title": "NPKUA PKU Binder Ch.14 - Insurance Coverage",
+          "url": "https://www.npkua.org/wp-content/uploads/2024/05/PKU-Binder-2011-Ch14.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -308,9 +449,18 @@
       "detail": "The Medical Nutrition Equity Act (MNEA) is repeatedly introduced federal legislation (e.g., H.R.2501/116th, H.R.3783 & S.2013/117th, H.R.6892/118th) to mandate Medicare, Medicaid, other federal programs, and private insurance to cover medically necessary foods, vitamins, and amino acids for metabolic disorders including PKU. NPKUA has pushed it since ~2009; it has not been enacted as of 2026. It is the policy remedy aimed squarely at the coverage-denial and ERISA-gap problems.",
       "market_signal": "Passage would unlock nationwide reimbursement for PKU nutrition products; a binary policy catalyst for the medical-foods segment.",
       "sources": [
-        {"title": "H.R.3783 (117th) - Medical Nutrition Equity Act of 2021 (Congress.gov)", "url": "https://www.congress.gov/bill/117th-congress/house-bill/3783"},
-        {"title": "H.R.6892 (118th) - Medical Nutrition Equity Act of 2023 text", "url": "https://www.congress.gov/bill/118th-congress/house-bill/6892/text"},
-        {"title": "NPKUA - Advocacy (MNEA)", "url": "https://www.npkua.org/advocacy/"}
+        {
+          "title": "H.R.3783 (117th) - Medical Nutrition Equity Act of 2021 (Congress.gov)",
+          "url": "https://www.congress.gov/bill/117th-congress/house-bill/3783"
+        },
+        {
+          "title": "H.R.6892 (118th) - Medical Nutrition Equity Act of 2023 text",
+          "url": "https://www.congress.gov/bill/118th-congress/house-bill/6892/text"
+        },
+        {
+          "title": "NPKUA - Advocacy (MNEA)",
+          "url": "https://www.npkua.org/advocacy/"
+        }
       ],
       "confidence": "sourced"
     },
@@ -321,18 +471,24 @@
       "detail": "In New York, coverage disputes turned on statutory definitions: a Department of Financial Services opinion (OGC No. 10-12-03) addressed whether a product such as CaminoPro qualifies as an 'enteral formula' versus a modified solid food, which determines mandated coverage under Chapter 380 of the Laws of 1993. These definitional fights (formula vs. food vs. supplement) are a recurring administrative-legal battleground for PKU medical-food reimbursement. This is regulatory interpretation, not a class-action lawsuit.",
       "market_signal": "Product classification (formula vs. food) directly gates mandated coverage; formulation and labeling choices carry reimbursement consequences.",
       "sources": [
-        {"title": "NY DFS OGC Opinion 10-12-03 - Defining 'Enteral Formula'", "url": "https://www.dfs.ny.gov/insurance/ogco2010/rg101203.htm"}
+        {
+          "title": "NY DFS OGC Opinion 10-12-03 - Defining 'Enteral Formula'",
+          "url": "https://www.dfs.ny.gov/insurance/ogco2010/rg101203.htm"
+        }
       ],
       "confidence": "sourced"
     },
     {
       "kind": "litigation",
-      "name": "Orphan Drug Act of 1983 — enabling legal framework",
+      "name": "Orphan Drug Act of 1983, enabling legal framework",
       "geography": "US",
       "detail": "The Orphan Drug Act (1983), whose passage created NORD, established the incentive framework (tax credits, fee waivers, and 7-year market exclusivity) that underpins PKU drug development, including BioMarin's Kuvan and Palynziq. It is the foundational statute shaping the economics and exclusivity of every US PKU therapy. Recorded as legal backdrop rather than a dispute.",
       "market_signal": "Orphan exclusivity and incentives are the reason PKU pharma is commercially viable; central to any PKU drug investment thesis.",
       "sources": [
-        {"title": "NORD - The Orphan Drug Act explainer", "url": "https://rarediseases.org/wp-content/uploads/2023/11/NORD-ODA-Explainer.pdf"}
+        {
+          "title": "NORD - The Orphan Drug Act explainer",
+          "url": "https://rarediseases.org/wp-content/uploads/2023/11/NORD-ODA-Explainer.pdf"
+        }
       ],
       "confidence": "sourced"
     },
@@ -343,8 +499,14 @@
       "detail": "Coverage of PKU formula and low-protein modified foods is governed by an inconsistent patchwork of state mandate laws: some states (e.g., Arkansas, California, Maryland, Minnesota) mandate both foods and formula, while others limit coverage by age (e.g., under 21) or to formula only, and self-funded plans escape mandates entirely. Ongoing state legislative activity (mandated-benefit bills and reviews) continually reshapes coverage. This regulatory fragmentation is the day-to-day legal landscape for PKU nutrition.",
       "market_signal": "Coverage varies sharply by state and age band, fragmenting the addressable market and creating geography-specific access strategies.",
       "sources": [
-        {"title": "NORD State Report Card - Medical Nutrition (7th ed.)", "url": "https://rarediseases.org/wp-content/uploads/2022/04/NRD-2226-App_Medical-Nutrition_FNL-1-1.pdf"},
-        {"title": "State Laws and Policies for Coverage of Metabolic Foods (NUCDF)", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"}
+        {
+          "title": "NORD State Report Card - Medical Nutrition (7th ed.)",
+          "url": "https://rarediseases.org/wp-content/uploads/2022/04/NRD-2226-App_Medical-Nutrition_FNL-1-1.pdf"
+        },
+        {
+          "title": "State Laws and Policies for Coverage of Metabolic Foods (NUCDF)",
+          "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"
+        }
       ],
       "confidence": "sourced"
     }

@@ -1,0 +1,444 @@
+{
+  "dataset": "devices",
+  "title": "PKU medical devices & hardware",
+  "updated": "2026-07-26",
+  "source_note": "Market/opportunity map of the hardware around PKU: the lab analyzers and dried-blood-spot systems that run newborn screening and monitoring, the mail-in DBS services patients use today, the point-of-care and at-home phe-testing efforts trying to close the biggest device gap in the disease, and the consumer scales repurposed for gram-level food weighing. Compiled July 2026 from manufacturer product pages (Revvity/PerkinElmer, Sciex, Baebies, Neoteryx, Etekcity/VeSync), the 2026 Nutrients review 'Point-of-Care Testing in PKU: A New ERA' (PMC12693881), the Egoo validation study (Orphanet JRD 2025 / NCT06940193), Aptatek/Lumos and Clemson/Circa press and ClinicalTrials.gov, and PKU-community monitoring guidance (PKU News, U-Washington, Alder Hey NHS). The through-line: there is still no cleared, commercially available home phe monitor in the US, the category-defining gap. Development stages are marked honestly; several highly visible efforts are research/clinical-stage, not products. Prices/turnaround are cited or marked estimate.",
+  "records": [
+    {
+      "name": "Home phenylalanine monitor",
+      "maker": "(none exists yet)",
+      "category": "home phe monitor (gap)",
+      "status": "does-not-exist-yet",
+      "availability": "none",
+      "detail": "There is no cleared, commercially available consumer device that lets a PKU patient measure blood phe at home the way a person with diabetes uses a glucometer or CGM. Monitoring still depends on dried-blood-spot cards mailed to a central lab, with results returning roughly 5-14 days later, so daily diet decisions are made blind.",
+      "market_signal": "THE headline gap. PKU is the original newborn-screened disease yet has no home monitor 60+ years on; whoever ships a cleared, reimbursed at-home phe test owns a category with no incumbent and a built-in lifelong-adherence use case.",
+      "sources": [
+        {
+          "title": "Point-of-Care Testing in PKU: A New ERA of Blood Phenylalanine Monitoring (Nutrients 2026)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12693881/"
+        },
+        {
+          "title": "Monitoring Blood Phenylalanine Levels at Home (Univ. of Washington PKU Clinic)",
+          "url": "https://depts.washington.edu/pku/pdfs/MonitoringAtHome.pdf"
+        },
+        {
+          "title": "Home Phe Monitor Updates (PKU News)",
+          "url": "https://pkunews.org/home-phe-monitor-updates/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Egoo Phe System (P300 analyzer + Phe Test capsule + Collect board)",
+      "maker": "Egoo Health (Denmark)",
+      "category": "point-of-care (research)",
+      "status": "commercially available",
+      "availability": "EU",
+      "detail": "CE-marked benchtop-to-home reader that runs an enzymatic, bioluminescent phe assay on ~40 uL of finger-prick blood; plasma is filtered on the Collect board and results appear in a Bluetooth smartphone app in ~29 minutes. Validation in PKU females showed strong agreement with dried blood spot (concordance ~0.91). Marketed as an adjunct to clinical monitoring, not a replacement.",
+      "market_signal": "Closest thing to a real home phe test today, but CE-marked/EU only and not FDA-cleared for the US; a US regulatory + reimbursement path is the open lane. Currently in a US accuracy/usability trial (NCT06940193).",
+      "sources": [
+        {
+          "title": "Performance of the Egoo test for phenylalanine in females with PKU (Orphanet JRD 2025)",
+          "url": "https://ojrd.biomedcentral.com/articles/10.1186/s13023-025-03989-6"
+        },
+        {
+          "title": "Egoo Phe self-test home-use study (ClinicalTrials.gov NCT06940193)",
+          "url": "https://clinicaltrials.gov/study/NCT06940193"
+        },
+        {
+          "title": "egoo.health | PKU Testing",
+          "url": "https://www.egoo.health/pku"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PheCheck (aptamer-based in-home phe monitor)",
+      "maker": "Aptatek BioSciences (Columbia University spinout); development partner Lumos Diagnostics",
+      "category": "point-of-care (research)",
+      "status": "research prototype",
+      "availability": "research-only",
+      "detail": "Handheld Bluetooth reader + single-use lateral-flow cartridge + phone app that uses DNA aptamers to quantify phe in ~5 uL of capillary blood, targeting a ~20-minute at-home result. Holds an FDA Breakthrough Device Designation. As of mid-2026 it is still in clinical development, not cleared: a PheCheck validation study (NCT07551921) was slated to start May 2026 with primary completion ~Dec 2026.",
+      "market_signal": "The most advanced US-focused home-monitor bet, but repeatedly financed in bridge tranches and not yet cleared or launched. Execution/funding risk is the story; a successful 2026-2027 clearance would be the first true US home phe monitor.",
+      "sources": [
+        {
+          "title": "Aptatek receives FDA Breakthrough Device Designation for home phe monitoring (BioSpace)",
+          "url": "https://www.biospace.com/aptatek-biosciences-inc-receives-fda-breakthrough-device-designation-for-a-home-based-test-system-that-enables-patients-to-monitor-blood-levels-of-phenylalanine-in-real-time"
+        },
+        {
+          "title": "Lumos Diagnostics follow-on deal to push PheCheck toward FDA clearance",
+          "url": "https://www.proactiveinvestors.com/companies/news/1085803/lumos-diagnostics-inks-follow-on-deal-with-aptatek-to-push-phecheck-towards-fda-clearance-1085803.html"
+        },
+        {
+          "title": "PheCheck Validation Study (ClinicalTrials.gov NCT07551921)",
+          "url": "https://clinicaltrials.gov/study/NCT07551921"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "At-home urine phe test (colorimetric dip disc + smartphone)",
+      "maker": "Clemson University (LaTour lab); licensed to Circa Bioscience, LLC",
+      "category": "point-of-care (research)",
+      "status": "research prototype",
+      "availability": "research-only",
+      "detail": "Low-cost urine test: a colorimetric disc is dipped in urine and photographed with a phone, reading the Fe3+/phenylpyruvic-acid color change (RGB) in about one minute to estimate blood phe. IRB clinical trial began 2019; reported to estimate blood phe within ~2.0 mg/dL at 90% confidence once individually correlated. Licensed to Circa Bioscience for commercialization; still pre-market.",
+      "market_signal": "Cheapest, most patient-friendly form factor (urine, no lancet) and a plausible daily-use adherence tool, but it estimates rather than directly measures blood phe and needs per-patient calibration; commercialization has been slow.",
+      "sources": [
+        {
+          "title": "Urine Test for At-Home Monitoring of Blood Phe (Clemson LaTour Labs)",
+          "url": "https://cecas.clemson.edu/latourlabs/Research/PKU.html"
+        },
+        {
+          "title": "P008: At-home/point-of-care urine test for blood Phe monitoring for PKU (Genetics in Medicine Open 2026)",
+          "url": "https://www.gimopen.org/article/S2949-7744(26)00009-9/fulltext"
+        },
+        {
+          "title": "Development of a Urine Test for At-Home Monitoring of Blood Phe (SBIR)",
+          "url": "https://legacy.www.sbir.gov/node/2503983"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PheCheck / ammonia-lyase self-monitoring method (PAL + portable ammonia detector)",
+      "maker": "Academic (published method; uses a pre-existing portable ammonia detection system)",
+      "category": "point-of-care (research)",
+      "status": "research prototype",
+      "availability": "research-only",
+      "detail": "Method that reacts phenylalanine ammonia-lyase (PAL) with a blood sample to release ammonia proportional to phe, then reads the ammonia on an existing portable detector. Distinct from the aptamer approach; demonstrates a repurposed-hardware route to home phe estimation.",
+      "market_signal": "Illustrates that home phe sensing can piggyback on cheap, already-commercialized detector hardware rather than a bespoke reader; a low-capex path if accuracy holds.",
+      "sources": [
+        {
+          "title": "A method for phenylalanine self-monitoring using PAL and a portable ammonia detection system (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10068251/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Aptamer-field-effect-transistor (Apta-FET) phe sensor",
+      "maker": "Academic (published in ACS Sensors)",
+      "category": "point-of-care (research)",
+      "status": "research prototype",
+      "availability": "research-only",
+      "detail": "Electronic biosensor that detects phe via an aptamer immobilized on a field-effect transistor, giving a direct electrical readout. Bench-stage proof of concept, not a packaged device.",
+      "market_signal": "Represents the electrochemical/electronic-sensor lane (the CGM-style vision for phe). Years from product, but the closest conceptual analog to continuous glucose sensing.",
+      "sources": [
+        {
+          "title": "Phenylalanine Monitoring via Aptamer-Field-Effect-Transistor Sensors (ACS Sensors)",
+          "url": "https://pubs.acs.org/doi/abs/10.1021/acssensors.9b01963"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Whole-blood paper-based phe detection device",
+      "maker": "Academic (published in Sensors)",
+      "category": "point-of-care (research)",
+      "status": "research prototype",
+      "availability": "research-only",
+      "detail": "Paper microfluidic device that performs enzymatic phe detection directly on whole blood for PKU therapy monitoring, aimed at a cheap disposable format. Laboratory proof of concept.",
+      "market_signal": "Low-cost disposable chemistry is the commodity layer a home system needs; useful IP/partnering target rather than a standalone product.",
+      "sources": [
+        {
+          "title": "Development of a Whole Blood Paper-Based Device for Phenylalanine Detection (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6190008/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Mitra VAMS (volumetric absorptive microsampling)",
+      "maker": "Neoteryx (Trajan Scientific)",
+      "category": "blood-spot collection",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "Finger-prick collection device whose hydrophilic tip absorbs a precise 10-30 uL blood volume (tip self-indicates when full), improving on the variable-volume classic DBS card. Studied for PKU phe monitoring with strong concordance to plasma. Sample still ships to a lab for analysis.",
+      "market_signal": "Upgrades the collection step but keeps the mail-to-lab loop; a bridge product, not a home reader. Signals demand for better-than-DBS sampling that a home device would ultimately displace.",
+      "sources": [
+        {
+          "title": "Point-of-Care Testing in PKU: A New ERA (Nutrients 2026) - VAMS/Mitra section",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12693881/"
+        },
+        {
+          "title": "Phe in venous plasma vs capillary blood using volumetric collection devices (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10623100/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Dried blood spot (DBS) monitoring card + lancet kit",
+      "maker": "Generic (Whatman/Ahlstrom 903 filter cards; supplied by clinics and screening labs)",
+      "category": "blood-spot collection",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "The standard at-home collection step: finger-prick, two hanging drops onto filter paper, air-dry, mail to a lab. Minimally invasive and cheap to produce, but the sample must travel and be assayed centrally, driving the multi-day results delay.",
+      "market_signal": "The incumbent 'home' workflow is really a paper card plus the postal service. Its entire value proposition (cheap, mailable) is also its weakness (slow, no on-the-spot number) that a home reader attacks.",
+      "sources": [
+        {
+          "title": "Monitoring Blood Phenylalanine Levels at Home (Univ. of Washington)",
+          "url": "https://depts.washington.edu/pku/pdfs/MonitoringAtHome.pdf"
+        },
+        {
+          "title": "Collection of blood spots for home monitoring of PKU (Alder Hey NHS)",
+          "url": "https://www.alderhey.nhs.uk/about/publications/collection-of-blood-spots-for-the-home-monitoring-of-phenylketonuria-pku/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Revvity PKU Monitoring (mail-in DBS service, test B0018)",
+      "maker": "Revvity (formerly PerkinElmer Genomics)",
+      "category": "mail-in monitoring",
+      "status": "commercially available",
+      "availability": "US",
+      "detail": "Central-lab service that measures phe (and typically tyrosine) on a mailed dried blood spot to track treatment and compliance in diagnosed PKU/hyperphenylalaninemia patients. Patient collects at home; lab runs and reports. Turnaround is a few lab days plus shipping, so real-world results land days after the stick.",
+      "market_signal": "One of the dominant paid mail-in monitoring pipes. A large installed base of recurring, reimbursed testing is exactly the revenue an at-home device would try to convert or disintermediate.",
+      "sources": [
+        {
+          "title": "PKU Monitoring (Revvity test B0018)",
+          "url": "https://www.revvity.com/test/PKU-Monitoring-B0018"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Phenylalanine & Tyrosine, Self-Collect, Blood Spot (test PKUSC)",
+      "maker": "Mayo Clinic Laboratories",
+      "category": "mail-in monitoring",
+      "status": "commercially available",
+      "availability": "US",
+      "detail": "Self-collected dried-blood-spot mail-in test for monitoring PKU therapy, measuring phe and tyrosine. Patient collects at home with the supplied kit and mails it in; reported turnaround on the order of ~3 lab days plus transit.",
+      "market_signal": "Confirms mail-in phe monitoring is a routine catalog service across major reference labs, not a niche. The friction (kits, mailing, wait) is standardized and ripe to be collapsed by point-of-care.",
+      "sources": [
+        {
+          "title": "PKUSC - Phenylalanine and Tyrosine, Self-Collect, Blood Spot (Mayo Clinic Labs)",
+          "url": "https://www.mayocliniclabs.com/test-catalog/Overview/610508"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "NHS home blood-spot PKU monitoring (clinic mail-in program)",
+      "maker": "UK metabolic centres (e.g. Alder Hey Children's NHS Trust) via regional screening labs",
+      "category": "mail-in monitoring",
+      "status": "commercially available",
+      "availability": "EU",
+      "detail": "Publicly funded model where the clinic supplies blood-spot cards, the family collects on a set schedule at home, and cards are posted to the metabolic lab; results are phoned/messaged back and used to adjust diet. Same multi-day loop as the US commercial services but free at point of use.",
+      "market_signal": "Shows the mail-in loop is the global default, funded either commercially (US) or by the state (UK/EU). A device play must fit both a fee-for-service and a single-payer reimbursement logic.",
+      "sources": [
+        {
+          "title": "Collection of blood spots for home monitoring of PKU (Alder Hey NHS)",
+          "url": "https://www.alderhey.nhs.uk/about/publications/collection-of-blood-spots-for-the-home-monitoring-of-phenylketonuria-pku/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "NeoBase 2 Non-derivatized MSMS kit",
+      "maker": "Revvity (PerkinElmer)",
+      "category": "lab phe analyzer",
+      "status": "FDA-cleared",
+      "availability": "global",
+      "detail": "Tandem mass spectrometry (MS/MS) reagent kit that quantifies phe and other amino acids/acylcarnitines from a single DBS punch, run on a triple-quadrupole instrument (e.g. Waters Xevo TQD). MS/MS is the most widely used first-tier method worldwide for phe determination in newborn screening.",
+      "market_signal": "Core consumable of the centralized-lab status quo. High-throughput and accurate, but tethered to capital instruments and central labs, which is precisely why phe testing never left the building.",
+      "sources": [
+        {
+          "title": "Neonatal Phenylalanine kit / NeoBase family (Revvity)",
+          "url": "https://www.revvity.com/product/neonatal-phenylalanine-kit-960-tests-np-1000"
+        },
+        {
+          "title": "TMS vs fluorometric phe measurement for newborn screening (PMC)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916910/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Neonatal Phenylalanine kit (fluorometric, NP-1000)",
+      "maker": "Revvity (PerkinElmer)",
+      "category": "lab phe analyzer",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "Quantitative fluorometric microplate assay for phe in dried blood specimens, used as an aid in identifying PKU in newborns. The classic non-MS chemistry still run by many screening programs, especially outside high-resource MS/MS labs.",
+      "market_signal": "The affordable lab workhorse for regions without mass spec. Its persistence shows how much of the world still runs plate-based lab chemistry, leaving point-of-care wide open globally.",
+      "sources": [
+        {
+          "title": "Neonatal Phenylalanine kit (960 tests, NP-1000) (Revvity)",
+          "url": "https://www.revvity.com/product/neonatal-phenylalanine-kit-960-tests-np-1000"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "GSP Instrument (Genetic Screening Processor)",
+      "maker": "Revvity (PerkinElmer)",
+      "category": "lab phe analyzer",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "High-throughput automated batch analyzer for newborn screening on 96-well microplates from DBS, combining DELFIA immunoassay and enzymatic chemistries with automated plate handling. The dominant platform in medium-to-large public screening labs that a phe assay runs on.",
+      "market_signal": "Capital-instrument backbone of centralized screening. Its dominance is the moat a home/point-of-care disruptor routes around rather than competes with head-on.",
+      "sources": [
+        {
+          "title": "GSP Instrument (IVD) (Revvity)",
+          "url": "https://www.revvity.com/product/genetic-screening-processor-2021-2021-0010"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Sciex IVD-MS newborn screening solution (triple-quad MS/MS + amino-acid/acylcarnitine kit)",
+      "maker": "Sciex (Danaher)",
+      "category": "lab phe analyzer",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "Triple-quadrupole mass spectrometers plus a validated IVD reagent kit that quantify panels of amino acids (including phe) and acylcarnitines from a single DBS in one run, for clinical screening labs (CE-IVD in Europe).",
+      "market_signal": "The other major MS/MS vendor in centralized screening. Confirms the lab-analyzer layer is a mature two-to-three-vendor oligopoly, with no consumer/home offering from any of them.",
+      "sources": [
+        {
+          "title": "Newborn Screening Solution from SCIEX (press release)",
+          "url": "https://sciex.com/about-us/press-releases/2014/newborn-screening-solution"
+        },
+        {
+          "title": "LC-MS/MS in Newborn Screening Laboratories (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9781967/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Quantase / Wallac phenylalanine enzymatic kit",
+      "maker": "Bio-Rad (Quantase); Wallac (now Revvity) enzymatic phe kits",
+      "category": "lab phe analyzer",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "Enzymatic/colorimetric phe assay (phenylalanine dehydrogenase, NAD+-linked) in microtitre-plate kit form for DBS, historically used to replace the Guthrie test for screening and monitoring. Still referenced in screening literature and comparisons.",
+      "market_signal": "Legacy plate chemistry that unseated the Guthrie test decades ago; a reminder that phe testing has been re-platformed before, but always staying inside the lab.",
+      "sources": [
+        {
+          "title": "PKU screening using the Quantase phenylalanine kit (ScienceDirect)",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/0925616494000265"
+        },
+        {
+          "title": "ROC evaluation of Guthrie, Wallac, and Isolab phenylalanine kits (Clinical Chemistry)",
+          "url": "https://academic.oup.com/clinchem/article/43/10/1838/5640590"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Guthrie bacterial inhibition assay",
+      "maker": "Originated by Robert Guthrie (1960s); historically kit-supplied by multiple vendors",
+      "category": "lab phe analyzer",
+      "status": "discontinued",
+      "availability": "research-only",
+      "detail": "The original 1960s newborn-screening test: a DBS punch placed on agar seeded with Bacillus subtilis, where bacterial growth indicates elevated phe. Founded population newborn screening but is largely retired in favor of fluorometric and MS/MS methods.",
+      "market_signal": "Historical anchor: it created the screened-newborn population that PKU care depends on, yet 60 years of lab innovation never produced a patient-held device. The unfinished job is home monitoring.",
+      "sources": [
+        {
+          "title": "Use of the Guthrie bacterial inhibition assay to monitor blood phe (ScienceDirect)",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/0925616496001302"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "SEEKER (digital microfluidics newborn-screening platform)",
+      "maker": "Baebies (Durham, NC)",
+      "category": "lab phe analyzer",
+      "status": "FDA-cleared",
+      "availability": "US",
+      "detail": "FDA-authorized digital-microfluidics platform that runs multiple enzyme assays from a single DBS punch; currently deployed for four lysosomal storage disorders in US newborn screening. Does not currently offer a phe/PKU assay, but its droplet-on-a-chip architecture is a candidate route to near-patient metabolic testing.",
+      "market_signal": "Proof that miniaturized, chip-based DBS assays can win FDA clearance and enter screening labs. If pointed at phe, the platform (and its near-patient sibling below) is a credible disruption vector.",
+      "sources": [
+        {
+          "title": "Digital microfluidics comes of age (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30004274/"
+        },
+        {
+          "title": "Digital Microfluidics Proves Its Performance (Baebies)",
+          "url": "https://baebies.com/digital-microfluidics-proves-its-performance/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "FINDER (near-patient testing device)",
+      "maker": "Baebies (Durham, NC)",
+      "category": "point-of-care (research)",
+      "status": "research prototype",
+      "availability": "research-only",
+      "detail": "Baebies' near-patient / point-of-care instrument built on the same digital-microfluidics core as SEEKER, positioned to bring DBS-style assays closer to the bedside/clinic. Not a PKU/phe product today.",
+      "market_signal": "The most plausible corporate platform to add a point-of-care phe assay, since the microfluidics, DBS know-how, and regulatory experience already exist. A partnership/assay-add target worth watching.",
+      "sources": [
+        {
+          "title": "Digital microfluidics comes of age: HTS to bedside diagnostics (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30004274/"
+        },
+        {
+          "title": "Baebies platform / second-tier testing (Baebies)",
+          "url": "https://baebies.com/innovate-session-review-baebies-team-second-tier-testing-service-assay-pipeline/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Etekcity ESN00 Smart Nutrition Scale (Bluetooth food scale)",
+      "maker": "Etekcity / VeSync",
+      "category": "smart scale",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "Consumer Bluetooth kitchen scale (3 g-5000 g, 1 g increments, 4 sensors) that pairs to the VeSync app for macro/micronutrient lookups against a ~1M-food database. Repurposed by PKU families and the PKU Commons project (which integrates the ESN00 / FFF0-series scales) for gram-level protein/phe weighing, since the app's protein readout maps to phe budgeting.",
+      "market_signal": "The de-facto PKU weighing device is a general-purpose consumer scale bent to the task via community tooling. No vendor markets to PKU, so the integration/data layer (not the hardware) is where value accrues.",
+      "sources": [
+        {
+          "title": "Etekcity ESN00 Smart Nutrition Scale (product page)",
+          "url": "https://etekcity.com/products/smart-nutrition-scale-esn00"
+        },
+        {
+          "title": "Etekcity ESN00 Smart Nutrition Scale review (Digital Trends)",
+          "url": "https://www.digitaltrends.com/home/etekcity-esn00-smart-nutrition-scale-review/"
+        }
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PKU-purpose-built smart scale",
+      "maker": "(none exists yet)",
+      "category": "smart scale (gap)",
+      "status": "does-not-exist-yet",
+      "availability": "none",
+      "detail": "No scale is designed and sold for PKU. A purpose-built device would weigh in grams and surface phe (mg) per portion using a phe-aware food database and per-food phe factors, rather than the generic calorie/macro focus of consumer nutrition scales.",
+      "market_signal": "A clean niche-hardware or software-plus-scale-bundle opportunity: PKU families already buy consumer scales and bolt on spreadsheets/apps; a phe-native scale or app-scale bundle would own the daily weighing ritual.",
+      "sources": [
+        {
+          "title": "Etekcity ESN00 (generic consumer scale used as the PKU stand-in)",
+          "url": "https://etekcity.com/products/smart-nutrition-scale-esn00"
+        }
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "name": "Connected formula-preparation / dispenser hardware (e.g. Baby Brezza-class)",
+      "maker": "Baby Brezza and other consumer infant-formula makers (no PKU-specific product)",
+      "category": "other",
+      "status": "commercially available",
+      "availability": "global",
+      "detail": "Automatic formula makers/dispensers mix powdered formula with heated water to a set consistency. General infant-formula devices exist and are patented, but none is built for metabolic (PKU) amino-acid formula, whose exact gram dosing and mixing needs differ. PKU caregivers still measure and mix by hand.",
+      "market_signal": "Formula prep is a manual, precision-sensitive daily chore with no PKU-specific device. A metabolic-formula dispenser (accurate to the gram, dose-logged) is an untouched adjacent hardware gap.",
+      "sources": [
+        {
+          "title": "Baby Formula Dispensers & Mixers (Baby Brezza)",
+          "url": "https://babybrezza.com/collections/baby-formula-dispensers-mixers"
+        },
+        {
+          "title": "Device to automatically prepare infant formula (US patent 6,829,431)",
+          "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6829431"
+        }
+      ],
+      "confidence": "estimate"
+    }
+  ]
+}
