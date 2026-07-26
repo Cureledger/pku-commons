@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>PKU Market Atlas: phenylketonuria as a market</title>
+<meta content="Everything about phenylketonuria (PKU) as a market: geography and coverage law, every medical food and formula, drugs and pipeline, manufacturers, clinics and dietitians, restaurants and schools, payers, advocacy and litigation. Built so investors and innovators can see the opportunities." name="description"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
+<link href="assets/styles.css" rel="stylesheet"/>
+<style>
+/* ---- Market Atlas page-specific styles (build on shared tokens) ---- */
+.mkt-hero { background: var(--ink); color: #fff; padding: 64px 0 52px; }
+.mkt-hero .kicker { color: #b9c4ff; }
+.mkt-hero h1 { color: #fff; font-size: clamp(2.4rem, 5.4vw, 3.6rem); }
+.mkt-hero .lede { color: #d7d7d2; max-width: 60ch; font-size: 1.14rem; }
+.mkt-hero .lede b { color: #fff; }
+.mkt-hero .hero-foot { color: #9a9a95; font-size: .86rem; margin-top: 22px; }
+.mkt-hero-logo { display: block; margin-bottom: 22px; }
+.lede-intro { margin-bottom: 14px; }
+.hero-bullets { list-style: none; padding: 0; margin: 0 0 22px; max-width: 66ch; }
+.hero-bullets li { position: relative; padding-left: 26px; margin-bottom: 12px; color: #d7d7d2; font-size: 1.05rem; line-height: 1.5; }
+.hero-bullets li::before { content: ""; position: absolute; left: 2px; top: .6em; width: 8px; height: 8px; border-radius: 2px; background: var(--blue-mid); }
+.hero-bullets li b { color: #fff; }
+.mkt-hero .lede-close { color: #d7d7d2; font-size: 1.08rem; max-width: 66ch; }
+
+/* TruPKU report banner */
+.report-banner { display: block; background: var(--blue); color: #fff; text-decoration: none; }
+.report-banner:hover { background: var(--blue-dk); text-decoration: none; }
+.report-banner .wrap { display: flex; align-items: center; gap: 14px; padding-top: 15px; padding-bottom: 15px; }
+.report-banner .rb-tag { font-family: var(--font-mono); font-size: .7rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; background: rgba(255,255,255,.16); padding: 4px 9px; border-radius: 5px; white-space: nowrap; }
+.report-banner .rb-text { font-size: .95rem; font-weight: 500; }
+.report-banner .rb-text b { font-weight: 700; }
+.report-banner .rb-cta { margin-left: auto; font-family: var(--font-disp); font-weight: 600; font-size: .92rem; white-space: nowrap; }
+.report-banner .rb-arrow { font-family: var(--font-mono); }
+@media (max-width: 640px){ .report-banner .wrap { flex-wrap: wrap; gap: 8px; } .report-banner .rb-cta { margin-left: 0; } }
+
+/* headline stat band */
+.statband { background: var(--wash); border-bottom: 1px solid var(--line); }
+.stat-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.stat-cell { background: var(--paper); padding: 20px 18px; }
+.stat-num { font-family: var(--font-disp); font-weight: 700; font-size: 1.7rem; color: var(--blue); letter-spacing: -.02em; line-height: 1.05; }
+.stat-lab { font-size: .8rem; color: var(--ink-soft); margin-top: 4px; line-height: 1.3; }
+@media (max-width: 900px){ .stat-grid { grid-template-columns: repeat(3,1fr);} }
+@media (max-width: 520px){ .stat-grid { grid-template-columns: repeat(2,1fr);} .stat-num{font-size:1.4rem;} }
+
+/* section tabs */
+.tabbar { position: sticky; top: 56px; z-index: 8; background: rgba(255,255,255,.94); backdrop-filter: saturate(1.4) blur(8px); border-bottom: 1px solid var(--line); }
+.tabbar .wrap { display: flex; gap: 4px; overflow-x: auto; padding-top: 8px; padding-bottom: 8px; }
+.tab { flex: 0 0 auto; font-family: var(--font-disp); font-weight: 600; font-size: .9rem; color: var(--ink-soft); padding: 8px 14px; border-radius: 999px; cursor: pointer; border: 1px solid transparent; white-space: nowrap; background: none; }
+.tab:hover { color: var(--ink); background: var(--wash); }
+.tab.active { color: #fff; background: var(--blue); border-color: var(--blue); }
+
+.panel { display: none; padding: 40px 0 20px; }
+.panel.active { display: block; }
+.panel-head { margin-bottom: 20px; }
+.panel-head h2 { margin-bottom: 6px; }
+.panel-head p { color: var(--ink-soft); max-width: 72ch; margin: 0; }
+
+/* toolbar: filter + search + count */
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 18px 0 14px; }
+.toolbar input[type=search]{ font-family: var(--font); font-size: .92rem; padding: 8px 12px; border: 1px solid var(--line); border-radius: var(--radius-sm); min-width: 220px; flex: 1 1 220px; max-width: 360px; }
+.chip { font-family: var(--font-mono); font-size: .74rem; padding: 5px 10px; border: 1px solid var(--line); border-radius: 999px; cursor: pointer; color: var(--ink-soft); background: var(--paper); }
+.chip:hover { border-color: var(--blue-line); color: var(--ink); }
+.chip.active { background: var(--blue-wash); border-color: var(--blue-line); color: var(--blue-dk); }
+.count { margin-left: auto; font-family: var(--font-mono); font-size: .78rem; color: var(--ink-faint); }
+
+/* data table */
+.tbl-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
+table.data { width: 100%; border-collapse: collapse; font-size: .9rem; }
+table.data th { text-align: left; font-family: var(--font-disp); font-weight: 600; font-size: .76rem; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-faint); padding: 11px 14px; border-bottom: 1px solid var(--line); background: var(--wash); position: sticky; top: 0; white-space: nowrap; }
+table.data td { padding: 11px 14px; border-bottom: 1px solid var(--line-2); vertical-align: top; }
+table.data tr:last-child td { border-bottom: none; }
+table.data tr:hover td { background: var(--wash); }
+td.strong { font-weight: 600; color: var(--ink); min-width: 140px; }
+td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight: 400; }
+.src a { font-family: var(--font-mono); font-size: .72rem; }
+.src { white-space: nowrap; }
+
+/* badges */
+.badge { display: inline-block; font-family: var(--font-mono); font-size: .68rem; font-weight: 500; padding: 2px 7px; border-radius: 5px; white-space: nowrap; }
+.b-full,.b-universal,.b-approved,.b-yes { background: #e4f6ea; color: #1a7a3c; }
+.b-partial,.b-limited,.b-pipeline { background: #fdf0dc; color: #a86a10; }
+.b-none,.b-trial { background: #fde4e4; color: #b02a2a; }
+.b-unknown { background: var(--wash-2); color: var(--ink-faint); }
+.b-sourced { background: var(--blue-wash); color: var(--blue-dk); }
+.b-estimate { background: #f3edfb; color: #6b3fb0; }
+.conf { font-family: var(--font-mono); font-size: .66rem; color: var(--ink-faint); }
+
+/* loading / empty */
+.loading, .empty { padding: 40px 16px; text-align: center; color: var(--ink-faint); font-family: var(--font-mono); font-size: .85rem; }
+.err { color: var(--blue-dk); }
+
+/* gap callouts */
+.gapgrid { display: grid; grid-template-columns: repeat(3,1fr); gap: 16px; margin: 8px 0 28px; }
+@media (max-width: 820px){ .gapgrid { grid-template-columns: 1fr; } }
+.gapcard { border: 1px solid var(--line); border-left: 3px solid var(--blue); border-radius: var(--radius-sm); padding: 16px 18px; background: var(--paper); }
+.gapcard h4 { font-family: var(--font-disp); margin: 0 0 6px; font-size: 1rem; }
+.gapcard p { margin: 0; font-size: .88rem; color: var(--ink-soft); }
+
+.disclaimer { border-top: 1px solid var(--line); padding: 26px 0 46px; color: var(--ink-faint); font-size: .82rem; }
+.disclaimer .wrap { max-width: 80ch; }
+</style>
+</head>
+<body>
+<nav class="nav">
+<div class="wrap">
+<a class="brand" href="index.html"><img class="brand-logo" src="assets/pku-commons-logo.png" alt="PKU Commons logo" width="28" height="28"/>PKU <span>Commons</span></a>
+<div class="spacer"></div>
+<a class="link" href="index.html">Home</a>
+<a class="link" href="clinicians.html">Clinicians</a>
+<a class="link" href="families.html">Families</a>
+<a class="link" href="market.html" aria-current="page">Market Atlas</a>
+<a class="link" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">GitHub</a>
+</div>
+</nav>
+
+<header class="mkt-hero">
+<div class="wrap">
+<img class="mkt-hero-logo" src="assets/pku-commons-logo.png" alt="PKU Commons" width="56" height="56"/>
+<span class="kicker">PKU Market Atlas · open dataset · updated July 2026</span>
+<h1>Phenylketonuria, as a market.</h1>
+<p class="lede lede-intro">This is a <b>stunted market</b>, and patients carry what it leaves undone:</p>
+<ul class="hero-bullets">
+<li>A handful of suppliers. Formulas priced like drugs, and the low-protein food insurers treat as optional.</li>
+<li><b>Two-thirds of US families pay out of pocket</b>, roughly $6,400 to $9,000 a year.</li>
+<li>Tools built by one parent that vanish when they move on.</li>
+<li>Every gram of food weighed, counted, and logged by hand.</li>
+<li>Blood-phe results that come back 5 to 14 days later by mail.</li>
+<li>Nutrition labels never written for PKU, reverse-engineered one at a time.</li>
+</ul>
+<p class="lede lede-close">This atlas maps the market underneath that burden, so the people who could fix it can see where to start.</p>
+</div>
+</header>
+<a class="report-banner" href="https://www.npkua.org/wp-content/uploads/2025/12/TruePKU-VOP-Report-WEB-VERSION93.pdf" target="_blank" rel="noopener">
+<div class="wrap">
+<span class="rb-tag">The evidence</span>
+<span class="rb-text">Every pain point above is documented in NPKUA's <b>TruPKU / Voice of the Patient report</b>.</span>
+<span class="rb-cta">Read the report <span class="rb-arrow">&rsaquo;</span></span>
+</div>
+</a>
+
+<section class="statband">
+<div class="wrap" style="padding-top:28px;padding-bottom:28px;">
+<div class="stat-grid" id="statGrid">
+<div class="stat-cell"><div class="stat-num" id="s-pop">—</div><div class="stat-lab">Estimated US PKU patients</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-market">—</div><div class="stat-lab">Treatment market size est. (see Money)</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-products">—</div><div class="stat-lab">Foods &amp; formulas catalogued</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-companies">—</div><div class="stat-lab">Manufacturers &amp; companies</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-gapstates">—</div><div class="stat-lab">US states with a coverage gap</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-pipeline">—</div><div class="stat-lab">Drugs &amp; pipeline programs</div></div>
+</div>
+</div>
+</section>
+
+<section style="padding:44px 0 8px;">
+<div class="wrap">
+<div class="section-head" style="margin-bottom:18px;">
+<h2>Where the opportunities are</h2>
+<p class="muted" style="max-width:74ch;">Six gaps the data keeps pointing at. Each is a market that exists because the current one does not serve it. The tables below are the evidence.</p>
+</div>
+<div class="gapgrid">
+<div class="gapcard"><h4>The cash-pay food layer</h4><p>Payers fund PKU as a six-figure drug but treat the medical food every patient eats as optional. Roughly two-thirds of US patients pay out of pocket, about $6,400 to $9,000 a year. A lower-cost, better-tasting staples brand has room to run. <b>See Money, Medical Foods.</b></p></div>
+<div class="gapcard"><h4>Adult care has no home</h4><p>Care clusters at a handful of pediatric metabolic centers; dedicated adult PKU clinics are scarce and most US adults are lost to follow-up. Telehealth metabolic nutrition is the obvious lever and barely exists. <b>See Clinics &amp; Dietitians.</b></p></div>
+<div class="gapcard"><h4>The dietitian is the bottleneck</h4><p>The binding constraint on care is not doctors but metabolic dietitians, with caseloads past 130 patients each and a documented workforce shortage. Tools that multiply an RD's reach are underbuilt. <b>See Clinics &amp; Dietitians.</b></p></div>
+<div class="gapcard"><h4>Restaurants and schools: white space</h4><p>No chain caters to low-protein diets and no product helps families navigate school accommodation. Both surfaces are close to empty. The emptiness is the opening. <b>See Restaurants &amp; Schools.</b></p></div>
+<div class="gapcard"><h4>Coverage law is a patchwork</h4><p>Only about 35 states mandate medical-food coverage, none of it reaches self-funded ERISA plans, and the federal fix keeps dying in committee. Passage would convert a cash-pay category into a guaranteed benefit overnight. <b>See US Coverage, Money.</b></p></div>
+<div class="gapcard"><h4>The undiagnosed international tail</h4><p>China, India, and much of the developing world screen partially or not at all, leaving tens of thousands diagnosed late or never. Demand there is latent behind screening and ability to pay, not clinical need. <b>See Global.</b></p></div>
+</div>
+</div>
+</section>
+
+<div class="tabbar">
+<div class="wrap" id="tabbar"></div>
+</div>
+
+<main class="wrap" id="panels"></main>
+
+<section class="disclaimer">
+<div class="wrap">
+This atlas is an open market map for research and opportunity-scouting. It is not investment,
+medical, or legal advice. Figures marked <span class="badge b-estimate">estimate</span> are reasoned
+from public inputs, not single-source facts; figures marked <span class="badge b-sourced">sourced</span>
+carry a citation. Found something wrong or missing? Every dataset lives in
+<a href="https://github.com/Cureledger/pku-commons/tree/main/docs/market/data" target="_blank" rel="noopener">docs/market/data</a>.
+Open a pull request.
+</div>
+</section>
+
+<script>
+// ---- Dataset registry: file, label, and how to render each row ----
+const DATASETS = [
+  { id:'geo-us', file:'market/data/geo_us.json', tab:'US Coverage', blurb:'Every US state and DC. Does the law force insurers to cover PKU formula and medical foods, or do families pay out of pocket? The gaps are the market.',
+    filterKey:'coverage_mandate', filterLabel:{full:'Full mandate',partial:'Partial',none:'No mandate',unknown:'Unknown'},
+    cols:[
+      {h:'State', f:r=>cell(r.state,r.abbr), strong:true},
+      {h:'Coverage', f:r=>badge(r.coverage_mandate)},
+      {h:'What the law does', f:r=>r.coverage_summary||'—'},
+      {h:'Est. patients', f:r=>r.est_pku_population||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'geo-intl', file:'market/data/geo_intl.json', tab:'Global', blurb:'The top ~20 country markets. Newborn screening coverage and who pays for treatment vary enormously. Unscreened populations are undiagnosed demand.',
+    filterKey:'nbs_status', filterLabel:{universal:'Universal NBS',partial:'Partial',limited:'Limited',none:'No NBS',unknown:'Unknown'},
+    cols:[
+      {h:'Country', f:r=>cell(r.country,r.region), strong:true},
+      {h:'Newborn screening', f:r=>badge(r.nbs_status)},
+      {h:'Who pays', f:r=>r.who_pays||'—'},
+      {h:'Est. population', f:r=>r.est_population||'—'},
+      {h:'Drug access', f:r=>r.drug_access||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'medical-foods', file:'market/data/medical_foods.json', tab:'Medical Foods', blurb:'Low-protein staples and specialty foods: the breads, pastas, mixes and prepared meals families buy on top of formula.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Product line', f:r=>cell(r.product_line,r.brand), strong:true},
+      {h:'Category', f:r=>r.category||'—'},
+      {h:'Maker', f:r=>r.manufacturer||'—'},
+      {h:'Geo', f:r=>r.geography||'—'},
+      {h:'Distribution', f:r=>r.distribution||'—'},
+      {h:'Price', f:r=>r.price_note||'—'},
+      {h:'Notes', f:r=>r.notes||'—'},
+    ]},
+  { id:'formulas', file:'market/data/formulas.json', tab:'Formulas', blurb:'The recurring-revenue core: phe-free amino-acid formulas and GMP protein substitutes, across every life stage and format.',
+    filterKey:'type', filterLabel:{},
+    cols:[
+      {h:'Product', f:r=>cell(r.product,r.brand), strong:true},
+      {h:'Maker', f:r=>r.manufacturer||'—'},
+      {h:'Type', f:r=>r.type||'—'},
+      {h:'Format', f:r=>r.format||'—'},
+      {h:'Life stage', f:r=>r.life_stage||'—'},
+      {h:'Geo', f:r=>r.geography||'—'},
+      {h:'Reimbursement', f:r=>r.reimbursement||'—'},
+    ]},
+  { id:'drugs', file:'market/data/drugs.json', tab:'Drugs & Pipeline', blurb:'Approved therapies and the pipeline behind them: who owns the drug market today and what is coming.',
+    filterKey:'kind', filterLabel:{'approved-drug':'Approved',pipeline:'Pipeline',trial:'Trial'},
+    cols:[
+      {h:'Name', f:r=>cell(r.name,r.sponsor), strong:true},
+      {h:'Kind', f:r=>badge(r.kind)},
+      {h:'Modality', f:r=>r.modality||'—'},
+      {h:'Status', f:r=>r.status||'—'},
+      {h:'Indication', f:r=>r.indication||'—'},
+      {h:'Market note', f:r=>r.market_note||'—'},
+    ]},
+  { id:'manufacturers', file:'market/data/manufacturers.json', tab:'Companies', blurb:'Who the players are and who owns whom. Two food conglomerates dominate formula; one biotech dominates drugs.',
+    filterKey:'segment', filterLabel:{},
+    cols:[
+      {h:'Company', f:r=>cell(r.company, r.parent && r.parent!=='null' ? 'part of '+r.parent : ''), strong:true},
+      {h:'Segment', f:r=>r.segment||'—'},
+      {h:'HQ', f:r=>r.hq_country||'—'},
+      {h:'Ownership', f:r=>r.ownership||'—'},
+      {h:'Scale', f:r=>r.scale_note||'—'},
+      {h:'M&A / notes', f:r=>r.ma_note||r.notes||'—'},
+    ]},
+  { id:'clinics', file:'market/data/clinics.json', tab:'Clinics & Dietitians', blurb:'The care-delivery layer. PKU care sits at relatively few metabolic centers; adult care and metabolic dietitians are scarce, and the access gaps are opportunities.',
+    filterKey:'region', filterLabel:{},
+    cols:[
+      {h:'Name', f:r=>cell(r.name,r.location), strong:true},
+      {h:'Region', f:r=>r.region||'—'},
+      {h:'Adult care', f:r=>badge(r.adult_care)},
+      {h:'Telehealth', f:r=>badge(r.telehealth)},
+      {h:'Notes', f:r=>r.notes||'—'},
+    ]},
+  { id:'restaurants-schools', file:'market/data/restaurants_schools.json', tab:'Restaurants & Schools', blurb:'The thinnest markets of all: dining, meal delivery, and school accommodation. The emptiness is the point: these are wide-open, unserved gaps.',
+    filterKey:'segment', filterLabel:{},
+    cols:[
+      {h:'Name', f:r=>cell(r.name, r.segment), strong:true},
+      {h:'What it is', f:r=>r.what_it_is||'—'},
+      {h:'Geo', f:r=>r.geography||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'payers', file:'market/data/payers.json', tab:'Money', blurb:'Market size, the coverage patchwork, and the legislation that could unlock it. This is the money side.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Topic', f:r=>cell(r.topic, r.category), strong:true},
+      {h:'Headline', f:r=>r.figure && r.figure!=='null' ? '<b>'+esc(r.figure)+'</b>' : '—'},
+      {h:'Detail', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'advocacy-legal', file:'market/data/advocacy_legal.json', tab:'Advocacy & Legal', blurb:'The organized community and the courtroom: patient orgs that aggregate demand and fund research, plus the coverage-denial and patent litigation shaping access.',
+    filterKey:'kind', filterLabel:{advocacy:'Advocacy',litigation:'Litigation'},
+    cols:[
+      {h:'Name', f:r=>cell(r.name, r.geography), strong:true},
+      {h:'Kind', f:r=>badge(r.kind)},
+      {h:'Detail', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+];
+
+// ---- helpers ----
+function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function cell(main, sub){ return '<span>'+esc(main)+'</span>'+(sub?'<span class="sub">'+esc(sub)+'</span>':''); }
+function badge(v){ if(v==null||v==='') return '<span class="badge b-unknown">unknown</span>';
+  const k=String(v).toLowerCase().replace(/[^a-z]/g,''); return '<span class="badge b-'+k+'">'+esc(v)+'</span>'; }
+function srcCell(r){
+  const s=r.sources||[]; const conf=r.confidence||'unknown';
+  let links=s.slice(0,3).map((x,i)=>x&&x.url?'<a href="'+esc(x.url)+'" target="_blank" rel="noopener" title="'+esc(x.title||'')+'">['+(i+1)+']</a>':'').filter(Boolean).join(' ');
+  return '<div class="src">'+(links||'<span class="conf">—</span>')+'</div><span class="badge b-'+esc(conf)+'" style="margin-top:4px">'+esc(conf)+'</span>';
+}
+
+const store = {}; // id -> {meta, records}
+
+async function loadAll(){
+  const tabbar=document.getElementById('tabbar');
+  const panels=document.getElementById('panels');
+  DATASETS.forEach((d,i)=>{
+    const t=document.createElement('button'); t.className='tab'+(i===0?' active':''); t.textContent=d.tab; t.dataset.id=d.id;
+    t.onclick=()=>selectTab(d.id); tabbar.appendChild(t);
+    const p=document.createElement('section'); p.className='panel'+(i===0?' active':''); p.id='panel-'+d.id;
+    p.innerHTML='<div class="panel-head"><h2>'+esc(d.tab)+'</h2><p>'+esc(d.blurb)+'</p></div>'+
+      '<div class="toolbar" id="tb-'+d.id+'"></div>'+
+      '<div class="tbl-wrap" id="body-'+d.id+'"><div class="loading">Loading '+esc(d.file)+' …</div></div>';
+    panels.appendChild(p);
+  });
+  await Promise.all(DATASETS.map(loadOne));
+  computeStats();
+}
+
+async function loadOne(d){
+  const body=document.getElementById('body-'+d.id);
+  try{
+    const res=await fetch(d.file, {cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const json=await res.json();
+    store[d.id]={meta:json, records:json.records||[]};
+    renderTable(d);
+  }catch(e){
+    body.innerHTML='<div class="loading err">Dataset pending: '+esc(d.file)+' not published yet ('+esc(e.message)+'). '+
+      'Research in progress; this table fills in when the data lands.</div>';
+  }
+}
+
+function activeFilters(d){ return (store[d.id]._filters)||new Set(); }
+
+function renderTable(d){
+  const rec=store[d.id].records;
+  const tb=document.getElementById('tb-'+d.id);
+  // build filter chips from distinct filterKey values
+  const vals=[...new Set(rec.map(r=>r[d.filterKey]).filter(v=>v!=null&&v!==''))];
+  store[d.id]._filters = store[d.id]._filters||new Set();
+  let html='<input type="search" placeholder="Search '+esc(d.tab)+'…" oninput="onSearch(\''+d.id+'\',this.value)"/>';
+  vals.forEach(v=>{ const lab=(d.filterLabel&&d.filterLabel[v])||v;
+    html+='<button class="chip" data-v="'+esc(v)+'" onclick="toggleFilter(\''+d.id+'\',\''+esc(v).replace(/'/g,"\\'")+'\',this)">'+esc(lab)+'</button>'; });
+  html+='<span class="count" id="count-'+d.id+'"></span>';
+  tb.innerHTML=html;
+  drawRows(d);
+}
+
+function drawRows(d){
+  const body=document.getElementById('body-'+d.id);
+  const q=(store[d.id]._q||'').toLowerCase();
+  const filt=store[d.id]._filters;
+  let rows=store[d.id].records.filter(r=>{
+    if(filt.size && !filt.has(String(r[d.filterKey]))) return false;
+    if(q){ return JSON.stringify(r).toLowerCase().includes(q); }
+    return true;
+  });
+  const cols=d.cols;
+  let h='<table class="data"><thead><tr>';
+  cols.forEach(c=>h+='<th>'+esc(c.h)+'</th>'); h+='<th>Source</th></tr></thead><tbody>';
+  if(!rows.length){ h+='<tr><td colspan="'+(cols.length+1)+'"><div class="empty">No rows match.</div></td></tr>'; }
+  rows.forEach(r=>{ h+='<tr>';
+    cols.forEach(c=>h+='<td'+(c.strong?' class="strong"':'')+'>'+(c.f(r)||'—')+'</td>');
+    h+='<td>'+srcCell(r)+'</td></tr>'; });
+  h+='</tbody></table>';
+  body.innerHTML=h;
+  const cnt=document.getElementById('count-'+d.id);
+  if(cnt) cnt.textContent=rows.length+' of '+store[d.id].records.length;
+}
+
+function onSearch(id,v){ store[id]._q=v; const d=DATASETS.find(x=>x.id===id); drawRows(d); }
+function toggleFilter(id,v,el){ const s=store[id]._filters; if(s.has(v)){s.delete(v);el.classList.remove('active');} else {s.add(v);el.classList.add('active');} drawRows(DATASETS.find(x=>x.id===id)); }
+function selectTab(id){
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.id===id));
+  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id==='panel-'+id));
+  window.scrollTo({top:document.querySelector('.tabbar').offsetTop-4,behavior:'smooth'});
+}
+
+function num(n){ return n==null?'—':n.toLocaleString(); }
+function computeStats(){
+  // products = foods + formulas
+  const foods=(store['medical-foods']&&store['medical-foods'].records.length)||0;
+  const formulas=(store['formulas']&&store['formulas'].records.length)||0;
+  const companies=(store['manufacturers']&&store['manufacturers'].records.length)||0;
+  const drugs=(store['drugs']&&store['drugs'].records.length)||0;
+  document.getElementById('s-products').textContent = (foods+formulas)? num(foods+formulas) : '—';
+  document.getElementById('s-companies').textContent = companies? num(companies) : '—';
+  document.getElementById('s-pipeline').textContent = drugs? num(drugs) : '—';
+  // gap states = US states with coverage_mandate partial/none
+  if(store['geo-us']){
+    const g=store['geo-us'].records.filter(r=>['partial','none'].includes(String(r.coverage_mandate))).length;
+    document.getElementById('s-gapstates').textContent = g? num(g) : '—';
+  }
+  // US population: sum of est if parseable, else headline estimate
+  document.getElementById('s-pop').textContent = '~16,500';
+  // market size: clean headline range; detail lives in the Money tab
+  document.getElementById('s-market').textContent = store['payers'] ? '$1–2B' : '—';
+}
+
+loadAll();
+</script>
+</body>
+</html>

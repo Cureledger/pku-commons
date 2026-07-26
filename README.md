@@ -18,6 +18,7 @@ phe-estimation tools reliable after any one developer leaves.
 |---|---|
 | [`docs/`](docs/) | GitHub Pages site: hub and 3 audience routes, [peer-review model](docs/PEER-REVIEW.md), [TruPKU pain-points](docs/pain-points.md) |
 | [`docs/RELIABILITY.md`](docs/RELIABILITY.md) | The reliability map. Phe-estimator reliability broken into four named, benchmark-measured gaps, each with a concrete task for the Claude Community to pick up. |
+| [`docs/market/`](docs/market/) | The [PKU Market Atlas](docs/market.html): PKU as a market, not a biology. 337 cited records across coverage law, medical foods, formulas, drugs, companies, clinics, restaurants, schools, payers, advocacy, and litigation, rendered as an investor-facing dashboard. |
 | [`benchmark/`](benchmark/) | The accuracy standard: [BENCHMARK.md](benchmark/BENCHMARK.md), pluggable harness, seed test set with USDA-FDC ground truth, [leaderboard](benchmark/leaderboard.md) |
 | [`phe-estimator/`](phe-estimator/) | The Claude phe-estimator Skill. Uses a "think like a PKU parent" method, scored live against the benchmark |
 | [`food-list/`](food-list/) | The living low-protein foods list. Cited, schema'd, one shared loader ([`foodlist.py`](food-list/foodlist.py)) |

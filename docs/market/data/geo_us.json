@@ -1,0 +1,732 @@
+{
+  "dataset": "geo-us",
+  "title": "US state-by-state PKU market & coverage",
+  "updated": "2026-07-26",
+  "source_note": "Coverage-mandate facts are anchored to the most recent comprehensive state-by-state survey: the Catalyst Center (Boston University School of Public Health / ACMG-HRSA), 'State Statutes & Regulations on Dietary Treatment of Disorders Identified Through Newborn Screening,' Nov 2016 (35 states + jurisdictions have a private-insurance medical-food mandate; 16 have none), cross-checked against the National PKU News / NUCDF 'State Laws and Policies for the Coverage of Metabolic Food and Formula' table and NPKUA's insurance-coverage resources. THREE market caveats apply everywhere: (1) ERISA-exempt self-funded employer plans are not bound by any state mandate, so many privately-insured families still pay out of pocket; (2) mandates that cover 'formula only' leave low-protein modified foods (MLPFs) uncovered; (3) statutes change - confirm current text before relying on it. PKU population figures are scaled estimates (US affected population ~16,500, i.e. roughly 1 in 20,000 residents from a birth incidence of ~1 in 10,000-15,000), apportioned by 2023 state population; true counts vary with ancestry mix and are not registry-confirmed.",
+  "records": [
+    {
+      "state": "Alabama",
+      "abbr": "AL",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate for PKU medical foods. Coverage runs through Medicaid (enteral, case-by-case), WIC, and Title V (Children's Rehabilitation Services; UAB Sparks Clinic).",
+      "medicaid_note": "Medicaid covers metabolic foods case-by-case with age limits (Nutritional Product Grid); enteral emphasized.",
+      "est_pku_population": "~250 (estimate)",
+      "clinics_note": "UAB / Sparks Clinic at Children's of Alabama (Birmingham) metabolic program.",
+      "market_signal": "Market gap: no mandate, so privately-insured families lean on patchy state programs and pay OOP for low-protein foods.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "NPKUA - Insurance Coverage", "url": "https://www.npkua.org/resources/insurance-coverage/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Alaska",
+      "abbr": "AK",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (AS 21.42.380) covers PKU formula ONLY - no low-protein modified foods; annual cap set by each insurer; fraternal benefit societies exempt.",
+      "medicaid_note": "Medicaid/EPSDT covers PKU formula for enrollees under 21 at high nutritional risk.",
+      "est_pku_population": "~35 (estimate)",
+      "clinics_note": "No in-state metabolic clinic; patients typically referred to Seattle Children's / OHSU.",
+      "market_signal": "Formula-only, PKU-only mandate: families pay OOP for low-protein foods; remote geography compounds access cost.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "National PKU News / NUCDF - State Laws & Policies", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Arizona",
+      "abbr": "AZ",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (20-1402) covers formula + low-protein food but only at 50% of cost for most plans (75% of amino-acid formula for ACOs); annual cap $5,000 (formula+foods) / $20,000 formula for ACOs.",
+      "medicaid_note": "AHCCCS/Medicaid covers metabolic foods for NBS conditions incl PKU; WIC limited.",
+      "est_pku_population": "~370 (estimate)",
+      "clinics_note": "Phoenix Children's Hospital; University of Arizona metabolic genetics.",
+      "market_signal": "Partial: 50% cost-share plus caps leave meaningful OOP exposure even for insured families.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Arkansas",
+      "abbr": "AR",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (23-79-701 to 703) covers formula + low-protein food, but insurance coverage only kicks in after a $2,400 income-tax-credit mechanism; state reimburses uninsured up to $1,000/person above $2,400.",
+      "medicaid_note": "Medicaid covers enteral for children under 21; nutritional therapy for other metabolic conditions.",
+      "est_pku_population": "~150 (estimate)",
+      "clinics_note": "Arkansas Children's Hospital / UAMS metabolic genetics.",
+      "market_signal": "Partial: tax-credit gating and modest state backstop mean real OOP before coverage engages.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "California",
+      "abbr": "CA",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (Health & Safety 1374.56; Ins 10123.89) is PKU-only: covers formula plus special low-protein food products that exceed the cost of a normal diet. Broader IEM coverage runs through state programs (GHPP over 21, CCS under 21).",
+      "medicaid_note": "Medi-Cal covers enteral nutrition to prevent serious disability/death; GHPP and CCS fill gaps by income.",
+      "est_pku_population": "~1,900 (estimate)",
+      "clinics_note": "UCSF, Children's Hospital Los Angeles, Stanford, UCLA metabolic clinics.",
+      "market_signal": "Largest patient base; mandate is PKU-specific and 'excess-cost' framed, so state programs (GHPP/CCS) carry adult and low-income load.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "National PKU News / NUCDF - State Laws & Policies", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Colorado",
+      "abbr": "CO",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (10-16-104) covers formula + modular counterparts for all IEMs but NOT low-protein modified foods; applies only to plans with a pharmacy benefit; PKU formula age-capped at 21 (women of child-bearing age to 35).",
+      "medicaid_note": "Medicaid/WIC cover metabolic formula; WIC under 19 plus pregnant women.",
+      "est_pku_population": "~300 (estimate)",
+      "clinics_note": "Children's Hospital Colorado inherited metabolic diseases clinic (Aurora).",
+      "market_signal": "Partial: broad on formula but no MLPF coverage and pharmacy-benefit/age gating create OOP gaps.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Connecticut",
+      "abbr": "CT",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (38a-492c / 38a-518c) covers all inherited metabolic diseases + CF: formula, amino-acid preparations, and low-protein modified foods - but formula coverage is capped at age 12.",
+      "medicaid_note": "Medicaid covers PKU and other NBS metabolic disorders as prescribed by the health department.",
+      "est_pku_population": "~180 (estimate)",
+      "clinics_note": "Connecticut Children's (Hartford); Yale metabolic genetics (New Haven).",
+      "market_signal": "Broad on foods but the age-12 formula cutoff pushes older patients OOP - a lifelong-cost gap.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Delaware",
+      "abbr": "DE",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (18 Del. C. 3571D) covers PKU and other inherited metabolic diseases: medical food, formula, and low-protein modified foods - but PKU age-capped at 21 (men) / 35 (women); required only if pharmacy services covered. State Specialty Formula Fund backstops the uninsured.",
+      "medicaid_note": "Medicaid and WIC cover formula; Title V Specialty Formula Fund covers costs not covered by insurance.",
+      "est_pku_population": "~50 (estimate)",
+      "clinics_note": "Nemours Children's (Wilmington); patients often referred to CHOP (Philadelphia).",
+      "market_signal": "Partial: broad benefit undercut by age caps; adults over the cap pay OOP absent state fund eligibility.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "District of Columbia",
+      "abbr": "DC",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (enteral, not oral; sliding scale for indigent infants), WIC, and Health Services for Children with Special Needs (HSCSN, SSI recipients under 24).",
+      "medicaid_note": "DC Medicaid covers enteral but not oral medical foods; partial sliding-scale help for indigent families.",
+      "est_pku_population": "~35 (estimate)",
+      "clinics_note": "Children's National Hospital metabolism/genetics.",
+      "market_signal": "Market gap: no mandate and enteral-only Medicaid leave oral medical foods largely OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Florida",
+      "abbr": "FL",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (627.42395) covers all IEMs (enteral formula for non-PKU, low-protein modified foods) but historically available only via special rider / additional premium and not through HMOs; MLPF cap $2,500 (OAD/AAD), age up to 24 (14 for OAD/AAD).",
+      "medicaid_note": "Medicaid covers formula for PKU and dietary treatment as medically indicated; WIC provides PKU formula.",
+      "est_pku_population": "~1,100 (estimate)",
+      "clinics_note": "Nemours (Orlando/Jacksonville), University of Florida (Gainesville), Nicklaus Children's (Miami).",
+      "market_signal": "Large population but rider/premium structure and HMO gaps make effective coverage thin; caps drive OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "National PKU News / NUCDF - State Laws & Policies", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Georgia",
+      "abbr": "GA",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (enteral, not oral), WIC (formula + low-protein modified foods), and the state NBS/Children's Medical Services program (up to age 21).",
+      "medicaid_note": "Georgia Medicaid covers enteral but not oral; oral considered with documentation of IEM such as PKU.",
+      "est_pku_population": "~550 (estimate)",
+      "clinics_note": "Emory Metabolic Genetics Clinic (Atlanta); Emory NBS follow-up; MNT4P research program supports 450+ GA families.",
+      "market_signal": "Market gap: no mandate; enteral-only Medicaid. MNT4P at Emory exists precisely to bridge medical-food coverage gaps.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "Emory Metabolic Genetics Clinic", "url": "https://med.emory.edu/departments/human-genetics/patient-care/metabolic-genetics-clinic/"},
+        {"title": "MNT4P - IMD Nutrition Support (Emory)", "url": "https://mnt4p.org/clinical-community-services/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Hawaii",
+      "abbr": "HI",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (431:10A-120) covers broad inborn errors of metabolism (amino/organic acid, carbohydrate, fat): medical foods, formula, and low-protein foods, up to 80% of cost.",
+      "medicaid_note": "Medicaid (HRS 346-67) and WIC cover medical foods and low-protein foods.",
+      "est_pku_population": "~70 (estimate)",
+      "clinics_note": "Kapiolani Medical Center for Women & Children (Honolulu) metabolic program.",
+      "market_signal": "Well-covered on paper; 80%-of-cost design still leaves a 20% co-share, and ERISA self-funded plans remain exempt.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Idaho",
+      "abbr": "ID",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (medical foods at no charge, enteral not oral) and the Children's Special Health Program (CSHP, PKU formula; adults over 18 buy formula at CSHP cost).",
+      "medicaid_note": "Idaho Medicaid (IDAPA 16.03.09) covers medical foods; enteral not oral.",
+      "est_pku_population": "~100 (estimate)",
+      "clinics_note": "No dedicated in-state metabolic clinic; St. Luke's and CSHP coordinate; referrals to Salt Lake / Seattle.",
+      "market_signal": "Market gap: no mandate, and adults over 18 buy formula at cost - a clear OOP pocket.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Illinois",
+      "abbr": "IL",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (215 ILCS 5/356z.10) covers amino/organic-acid disorders incl PKU and FAODs but FORMULA ONLY (incl amino-acid elemental) - no low-protein modified foods. UIC Specialized Care for Children backstops (income under 285% FPL, birth-21).",
+      "medicaid_note": "Medicaid covers formula for PKU/FAOD/EE/SBS; UIC covers copays/deductibles for underinsured.",
+      "est_pku_population": "~600 (estimate)",
+      "clinics_note": "UIC / Ann & Robert H. Lurie Children's Hospital (Chicago); UIC Specialized Care for Children.",
+      "market_signal": "Formula-only mandate: low-protein foods are OOP unless UIC income eligibility is met.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Indiana",
+      "abbr": "IN",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (27-13-7-18) covers inherited metabolic diseases treatable by amino-acid restriction but FORMULA ONLY, enteral, prescription required - no low-protein modified foods.",
+      "medicaid_note": "Medicaid and WIC cover formula (not food); CSHCS covers metabolic disorders under 21, income under 250% FPL.",
+      "est_pku_population": "~340 (estimate)",
+      "clinics_note": "Riley Children's Health / Indiana University (Indianapolis) metabolic genetics.",
+      "market_signal": "Formula-only, food-excluded mandate: low-protein foods are OOP for most families.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Iowa",
+      "abbr": "IA",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid/WIC (nutrition products providing >=51% of daily calories) and the University of Iowa special medical formula program (amino/organic acid diseases).",
+      "medicaid_note": "Medicaid covers oral nutrition products and enteral therapy meeting the 51%-calorie test.",
+      "est_pku_population": "~160 (estimate)",
+      "clinics_note": "University of Iowa Stead Family Children's Hospital special medical formula program (Iowa City).",
+      "market_signal": "Market gap: no mandate; families depend on the university formula program and Medicaid calorie tests.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Kansas",
+      "abbr": "KS",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (case-by-case), and health-department ESTF / Title V programs (metabolic formula + low-protein food) with a $1,500 food cap (Health Dept, income under 300% FPL) and age limits.",
+      "medicaid_note": "Medicaid covers necessary treatment products case-by-case when not available elsewhere; sliding fee to 385% FPL via Title V.",
+      "est_pku_population": "~145 (estimate)",
+      "clinics_note": "University of Kansas Medical Center (Kansas City); Children's Mercy (Kansas City, MO) serves KS families.",
+      "market_signal": "Market gap: no mandate; income-tested state programs with a low food cap leave OOP exposure.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Kentucky",
+      "abbr": "KY",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (KRS 304.17A-258; KAR 17:500) covers ALL inborn errors of metabolism: formula, amino-acid preparations, and low-protein modified foods. Caps $25,000 formula / $4,000 low-protein foods; required if prescription coverage provided.",
+      "medicaid_note": "Medicaid covers special foods/supplements ($25,000 cap); Metabolic Foods and Formula Program backstops uninsured/denied.",
+      "est_pku_population": "~220 (estimate)",
+      "clinics_note": "University of Louisville / Norton Children's (Louisville); University of Kentucky (Lexington).",
+      "market_signal": "Among the best-covered: broad IEM scope plus MLPFs and a state safety-net program; ERISA plans still exempt.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "Kentucky Metabolic Foods and Formula Program", "url": "https://www.chfs.ky.gov/agencies/dph/dmch/cfhib/Pages/kymffp.aspx"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Louisiana",
+      "abbr": "LA",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (R.S. 22:246) covers low-protein food (<=1g protein/serving) for GA/IVA/MSUD/MMA/PKU/PROP/TYR/urea-cycle; formula covered via insurance/Medicaid/state program; $2,400 annual cap on formula+low-protein foods; self-insured plans separately addressed (R.S. 22:469).",
+      "medicaid_note": "Medicaid and Title V cover formula for inborn errors of metabolism.",
+      "est_pku_population": "~230 (estimate)",
+      "clinics_note": "Hayward Genetics Center (Tulane, New Orleans); LSU Health.",
+      "market_signal": "Partial: mandate centers on food with a $2,400 cap - real OOP once the cap is hit.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Maine",
+      "abbr": "ME",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (24 2320-D; 24-A 2745-D/2837-D/4238) covers inborn errors of metabolism: medical/metabolic/amino-acid formula and modified low-protein foods. $3,000 annual food cap; amino-acid elemental formula age-capped under 2.",
+      "medicaid_note": "MaineCare covers IEM nutritional products under 18; CSHCN adds a pilot for older children/adults (income under 225% FPL, $3,000 uncovered-cost cap).",
+      "est_pku_population": "~70 (estimate)",
+      "clinics_note": "Maine Medical Center (Portland); complex cases referred to Boston Children's.",
+      "market_signal": "Broadly covered incl MLPFs, but the $3,000 food cap and adult reliance on a limited pilot leave residual OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Maryland",
+      "abbr": "MD",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (15-807 food; 15-843 formula) covers inherited metabolic disease incl all NBS conditions: amino-acid elemental formulas and low-protein modified food products, for individual/group/HMO/nonprofit plans.",
+      "medicaid_note": "Medicaid covers medical foods as prescribed; Title V Children's Medical Services adds formula and metabolic-error medication.",
+      "est_pku_population": "~300 (estimate)",
+      "clinics_note": "Johns Hopkins, University of Maryland, Kennedy Krieger Institute (Baltimore).",
+      "market_signal": "Well-covered: formula + MLPFs mandated across plan types; ERISA self-funded exemption is the main residual gap.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Massachusetts",
+      "abbr": "MA",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (M.G.L. 175 47I and related) covers PKU/TYR/HCY/MSUD/PROP/MMA and GI conditions: formula and enteral formula. Food cap $2,500 (not applied to formula/low-protein); $5,000 for low-protein modified foods for amino/organic-acid diseases.",
+      "medicaid_note": "MassHealth covers formula and low-protein food ($5,000 cap, case-by-case); MDPH Metabolic Food and Formula Program covers uninsured/underinsured.",
+      "est_pku_population": "~350 (estimate)",
+      "clinics_note": "Boston Children's Hospital, Mass General, UMass metabolic programs.",
+      "market_signal": "Well-covered with a state food-and-formula program; caps and ERISA exemption are the residual OOP drivers.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Michigan",
+      "abbr": "MI",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (formula, case-by-case), WIC (coordinated through metabolic clinic), and Title V CSHCN / Children with Special Needs Fund (MSUD, PKU, other IEMs; no income limit).",
+      "medicaid_note": "Medicaid covers formula case-by-case; CSN Fund is payer of last resort for CSHCN.",
+      "est_pku_population": "~500 (estimate)",
+      "clinics_note": "Children's Hospital of Michigan Metabolic Clinic (Detroit); University of Michigan (Ann Arbor).",
+      "market_signal": "Market gap: large population, no mandate; families rely on CSHCN/CSN Fund and pay OOP for uncovered foods.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Minnesota",
+      "abbr": "MN",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (62A.26 PKU; 62E.06) is PKU-only for insurance (amino-acid formula; low-protein foods per DOI/DOH interpretation). Medicaid (256B.0625) is broader (PKU, hyperlysinemia, MSUD, others).",
+      "medicaid_note": "Medical Assistance covers parenteral/enteral nutrition products; broad for PKU/MSUD/hyperlysinemia, case-by-case otherwise.",
+      "est_pku_population": "~280 (estimate)",
+      "clinics_note": "University of Minnesota (Minneapolis); Mayo Clinic (Rochester).",
+      "market_signal": "Partial: insurance mandate is PKU-only; non-PKU IEM families lean on Medicaid case-by-case.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Mississippi",
+      "abbr": "MS",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (case-by-case, PKU only) and WIC (PKU only); Children's Medical Program requires financial qualification.",
+      "medicaid_note": "Medicaid covers PKU case-by-case; among the thinnest public postures.",
+      "est_pku_population": "~145 (estimate)",
+      "clinics_note": "University of Mississippi Medical Center (Jackson) metabolic genetics.",
+      "market_signal": "One of the widest gaps: no mandate, PKU-only and means-tested public coverage, heavy OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Missouri",
+      "abbr": "MO",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (376.1219) covers PKU and other amino/organic-acid diseases: formula + low-protein modified foods, but capped $5,000 and only under age 6 for private plans (cost-share up to 50%). State Metabolic Formula Program covers a broad disorder list with income-based rates.",
+      "medicaid_note": "Medicaid covers formula for inherited amino/organic-acid diseases; Health Dept program pays 50-100% by age/income.",
+      "est_pku_population": "~300 (estimate)",
+      "clinics_note": "Children's Mercy (Kansas City); St. Louis Children's / Washington University (St. Louis).",
+      "market_signal": "Partial: the private mandate's under-6 age cap is severe; older patients depend on the state program.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "Missouri RSMo 376.1219", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=376.1219"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Montana",
+      "abbr": "MT",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (MCA 33-22-131) covers inborn errors of amino-acid, carbohydrate and fat metabolism: medical foods and nutritional management (caps/durational limits may apply). HCSP and Healthy Montana Kids add state coverage.",
+      "medicaid_note": "Medicaid covers IEM medical standards of treatment; HCSP under 19 ($2,000 cap), HMK under 18 (income <=250% FPL).",
+      "est_pku_population": "~55 (estimate)",
+      "clinics_note": "Shodair Children's Hospital (Helena); complex cases referred out of state.",
+      "market_signal": "Broad mandate plus state programs; possible plan-level caps and ERISA exemption are the residual gaps.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Nebraska",
+      "abbr": "NE",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate (2016 Catalyst survey). Coverage via Medicaid/DHHS Food Supplement and Treatment Services (formula free; food supplements up to $2,000/yr), WIC, and the Elemental Formula Reimbursement Program ($12,000 cap, 50% of OOP).",
+      "medicaid_note": "Medicaid/DHHS program covers formula (no fee) and scaled food supplements; EFRP reimburses elemental formula.",
+      "est_pku_population": "~100 (estimate)",
+      "clinics_note": "University of Nebraska Medical Center / Children's Nebraska (Omaha).",
+      "market_signal": "Market gap: no private mandate; state reimbursement program covers only 50% of OOP up to a cap.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Nevada",
+      "abbr": "NV",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (NRS 689A.0423 and parallel group/HMO statutes) covers inherited metabolic diseases of amino/organic acid, fat, carbohydrate: enteral formula and special food products; $2,500 food cap, prescription required.",
+      "medicaid_note": "Medicaid covers enteral (not oral) for IEM, $2,500/yr unless medical necessity exceeds; MCH program adds $2,000 cap.",
+      "est_pku_population": "~160 (estimate)",
+      "clinics_note": "Limited in-state metabolic capacity; some patients referred to California centers.",
+      "market_signal": "Mandate is broad but the $2,500 food cap and enteral-only Medicaid create OOP once caps bind.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "New Hampshire",
+      "abbr": "NH",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (RSA 415:6-c; 420-A:17; 420-B:8-ff) covers inherited amino/organic-acid diseases: enteral formula, modified low-protein foods, and food products; $1,800 cap on low-protein food.",
+      "medicaid_note": "Medicaid covers enteral (not oral); WIC coordinates special formulas with Medicaid.",
+      "est_pku_population": "~70 (estimate)",
+      "clinics_note": "Dartmouth-Hitchcock Medical Center (Lebanon).",
+      "market_signal": "Broadly covered incl MLPFs; the $1,800 food cap and enteral-only Medicaid are the residual gaps.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "New Jersey",
+      "abbr": "NJ",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (extensive: NJ Rev Stat 17B:26-2.1v and many parallel provisions) covers inherited metabolic disease for all NBS conditions: non-standard/medical formulas and (via State Health Benefits Program) low-protein modified foods; required if prescription drugs covered.",
+      "medicaid_note": "Medicaid coverage delivered at three specialty clinics; SHBP covers medical foods and MLPFs for state employees.",
+      "est_pku_population": "~450 (estimate)",
+      "clinics_note": "Rutgers/Children's Hospital of NJ; many patients use CHOP (Philadelphia) or NYC centers.",
+      "market_signal": "Well-covered across many plan types; ERISA self-funded exemption remains the main structural gap.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "New Mexico",
+      "abbr": "NM",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (NMSA 59A-22-41.1; 59A-46-43.2; 59A-47-38) covers genetic inborn errors of amino-acid, fat and carbohydrate metabolism: medical foods and nutritional management (caps/durational limits may apply if applied to other illnesses).",
+      "medicaid_note": "Medicaid covers a broad disorder list (oral case-by-case); Title V Children's Medical Services under 21.",
+      "est_pku_population": "~100 (estimate)",
+      "clinics_note": "University of New Mexico (Albuquerque) metabolic genetics.",
+      "market_signal": "Broad mandate; oral-coverage case-by-case in Medicaid and ERISA exemption are residual gaps.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "New York",
+      "abbr": "NY",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (Ins 3216(i)(21); 3221(k)(11); 4303(y)) covers all inborn errors of metabolism: formula, enteral formula, and low-protein foods; $2,500 cap on low-protein foods.",
+      "medicaid_note": "Medicaid covers all IEM formulas case-by-case; WIC covers supplemental formula and medical food.",
+      "est_pku_population": "~950 (estimate)",
+      "clinics_note": "Mount Sinai, NYU, Columbia (NYC); Upstate/Rochester programs.",
+      "market_signal": "Large well-covered market; the $2,500 low-protein-food cap and ERISA exemption drive residual OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "North Carolina",
+      "abbr": "NC",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (case-by-case, up to 21), WIC (metabolic formulas), and the NBS / Title V CSHCN program (treatment products when not otherwise available).",
+      "medicaid_note": "Medicaid covers IEM (PKU, GALT) case-by-case up to age 21.",
+      "est_pku_population": "~550 (estimate)",
+      "clinics_note": "Duke (Durham) and UNC (Chapel Hill) metabolic clinics.",
+      "market_signal": "Market gap: large population, no mandate; families rely on Medicaid case-by-case and NBS backstop.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "North Dakota",
+      "abbr": "ND",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (26.1-36-09.7; self-insured 54-52.1-04.11) covers PKU and MSUD only, as part of prescription-drug coverage: medical foods and low-protein foods; $3,000 cap. State Metabolic Food Program adds coverage (males under 22 / females under 45).",
+      "medicaid_note": "Medicaid covers PKU/MSUD medical foods and low-protein foods; state program provides formula free within age bands.",
+      "est_pku_population": "~40 (estimate)",
+      "clinics_note": "Sanford Health (Fargo); referrals to Minnesota centers.",
+      "market_signal": "Partial: mandate limited to PKU/MSUD with a $3,000 cap; notable is that it does reach self-insured plans.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Ohio",
+      "abbr": "OH",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (formula only for PKU/specified genetic disorders) and the NBS program (metabolic formula). Among the thinnest coverage matrices in the survey.",
+      "medicaid_note": "Medicaid covers formula only for PKU and specified genetic disorders; no low-protein foods.",
+      "est_pku_population": "~600 (estimate)",
+      "clinics_note": "Cincinnati Children's, Nationwide Children's (Columbus), UH/Cleveland Clinic (Cleveland).",
+      "market_signal": "Major gap: large population, no mandate, formula-only Medicaid - low-protein foods essentially all OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Oklahoma",
+      "abbr": "OK",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (PKU; other conditions case-by-case), WIC (special formulas), and the SSI Disabled Children's Program (non-specialized formula for SSI kids).",
+      "medicaid_note": "Medicaid covers PKU; other metabolic conditions case-by-case.",
+      "est_pku_population": "~200 (estimate)",
+      "clinics_note": "OU Health / Oklahoma Children's Hospital (Oklahoma City).",
+      "market_signal": "Market gap: no mandate; PKU-centric Medicaid, so most low-protein foods are OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Oregon",
+      "abbr": "OR",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (ORS 743A.070 formula; 743A.188) covers inborn errors of amino-acid, carbohydrate and fat metabolism: enteral formula and low-protein food.",
+      "medicaid_note": "Oregon Health Plan covers medically necessary formulas and foods when prescribed (may need prior auth).",
+      "est_pku_population": "~210 (estimate)",
+      "clinics_note": "Oregon Health & Science University (OHSU, Portland) metabolic clinic.",
+      "market_signal": "Well-covered incl MLPFs; ERISA self-funded exemption is the main residual gap.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Pennsylvania",
+      "abbr": "PA",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (Act 158 Medical Foods Insurance Coverage Act; 40 3904) covers PKU, branched-chain ketonuria, GALT, HCY: formula and amino-acid elemental formula plus supplements - historically formula-centric; age 18 and under; copay/coinsurance may apply (exempt from deductibles).",
+      "medicaid_note": "Medicaid covers case-by-case; Bureau of Family Health provides PKU metabolic formula via a Dept of Aging claims system.",
+      "est_pku_population": "~650 (estimate)",
+      "clinics_note": "Children's Hospital of Philadelphia (CHOP); UPMC Children's (Pittsburgh).",
+      "market_signal": "Partial: age-18 cap and formula-centric benefit leave adults and low-protein foods exposed OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Rhode Island",
+      "abbr": "RI",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (27-20-56 and parallel plans) covers inherited amino/organic-acid diseases plus GI conditions: enteral formula and low-protein modified foods; $2,500 cap; also mandates newborn-screening-fee coverage.",
+      "medicaid_note": "Medicaid covers IEM (PKU/TYR/HCY/MSUD/PROP/MMA), $2,500 cap, case-by-case; WIC special formula.",
+      "est_pku_population": "~55 (estimate)",
+      "clinics_note": "Hasbro Children's Hospital / Brown University (Providence).",
+      "market_signal": "Broadly covered incl MLPFs; the $2,500 cap and ERISA exemption are the residual OOP drivers.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "South Carolina",
+      "abbr": "SC",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (enteral, not oral; unspecified inborn metabolic disorders) and WIC.",
+      "medicaid_note": "Medicaid covers enteral but not oral medical foods.",
+      "est_pku_population": "~270 (estimate)",
+      "clinics_note": "Greenwood Genetic Center; MUSC (Charleston) metabolic programs.",
+      "market_signal": "Market gap: no mandate and enteral-only Medicaid, so oral medical foods are largely OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "South Dakota",
+      "abbr": "SD",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (58-17-62 and parallel plans) covers PKU only: formula and amino-acid-based formula plus dietary management - no low-protein modified foods.",
+      "medicaid_note": "Medicaid covers enteral (not oral) oral-nutrition supplements / nutrition therapy.",
+      "est_pku_population": "~45 (estimate)",
+      "clinics_note": "Sanford Health (Sioux Falls) metabolic program.",
+      "market_signal": "Partial: PKU-only, formula-only mandate; low-protein foods and non-PKU IEMs are OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Tennessee",
+      "abbr": "TN",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (Tenn. Code Ann. 56-7-2505) covers PKU only, FORMULA ONLY - no low-protein modified foods.",
+      "medicaid_note": "TennCare/Medicaid is payer for therapeutic products for IEM patients also WIC-eligible; metabolic disorders up to 21.",
+      "est_pku_population": "~350 (estimate)",
+      "clinics_note": "Vanderbilt (Nashville); Le Bonheur Children's (Memphis); UT programs.",
+      "market_signal": "Partial: PKU-only, formula-only mandate; low-protein foods and non-PKU IEM foods are OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Texas",
+      "abbr": "TX",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (TIC 1377.051; Chapter 1359) covers PKU and inborn errors of amino-acid/urea/organic-acid metabolism, FORMULA ONLY (incl amino-acid elemental) - no low-protein modified foods; coverage must mirror prescription-drug benefits.",
+      "medicaid_note": "Medicaid covers formula for inborn metabolic disorders case-by-case; CSHCN and NBS add nutritional services/products.",
+      "est_pku_population": "~1,500 (estimate)",
+      "clinics_note": "UT Southwestern (Dallas), Texas Children's / Baylor (Houston), UT Health (San Antonio).",
+      "market_signal": "Second-largest population but formula-only mandate: low-protein foods are a large OOP gap statewide.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "National PKU News / NUCDF - State Laws & Policies", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Utah",
+      "abbr": "UT",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (31A-22-623; R590-76-4 HMOs; R590-194) covers inborn errors of amino-acid or urea-cycle metabolism treatable by dietary restriction: dietary products (deductible/copay apply on major medical).",
+      "medicaid_note": "Medicaid covers medical foods meeting the Orphan Drug Act definition (oral/tube) under 21, case-by-case.",
+      "est_pku_population": "~170 (estimate)",
+      "clinics_note": "University of Utah / Intermountain Primary Children's Hospital (Salt Lake City).",
+      "market_signal": "Mandated but deductible/copay and case-by-case Medicaid create moderate OOP; ERISA exemption applies.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Vermont",
+      "abbr": "VT",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (8 V.S.A. 4089e) covers inherited metabolic disease for all NBS conditions: medically necessary medical foods and low-protein modified food products; $2,500 cap on low-protein foods.",
+      "medicaid_note": "Medicaid covers low-protein modified foods (Act 128); Title V CSHCN is payer of last resort.",
+      "est_pku_population": "~30 (estimate)",
+      "clinics_note": "University of Vermont Medical Center (Burlington).",
+      "market_signal": "Broadly covered incl MLPFs; the $2,500 food cap and ERISA exemption are the residual gaps.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Virginia",
+      "abbr": "VA",
+      "coverage_mandate": "none",
+      "coverage_summary": "No current private-insurance mandate in the 2016 survey (an earlier formula/food statute existed with a $2,000 cap and age limits; confirm current law). Coverage via Medicaid (tube feeding only) and Dept of Health (metabolic formula, low-protein food, supplements) under 21 / income-tested.",
+      "medicaid_note": "Medicaid covers core NBS panel, tube feeding only; DOH program income-tested (under 21; over 21 if income <300% FPL; $1,500 cap above that).",
+      "est_pku_population": "~430 (estimate)",
+      "clinics_note": "Virginia Commonwealth University (Richmond), UVA (Charlottesville); Northern VA families use Children's National.",
+      "market_signal": "Market gap: no active mandate per 2016 survey; tube-feeding-only Medicaid and income-tested DOH leave OOP for oral foods.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"},
+        {"title": "National PKU News / NUCDF - State Laws & Policies", "url": "https://nucdf.org/file_download/a176f34f-8813-4ae5-a33a-baea9fd2850e"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Washington",
+      "abbr": "WA",
+      "coverage_mandate": "partial",
+      "coverage_summary": "Mandate (48.20.520; 48.21.300) covers PKU only (plus elemental formula for eosinophilic GI disorders): formula and medically necessary elemental formula - no broad low-protein-food benefit.",
+      "medicaid_note": "Medicaid (WAC 388-554-300) covers oral/tube enteral nutrition products and supplies; specialty clinics cover NBS disorders.",
+      "est_pku_population": "~400 (estimate)",
+      "clinics_note": "Seattle Children's Hospital / University of Washington biochemical genetics.",
+      "market_signal": "Partial: PKU-only mandate; non-PKU IEMs and low-protein foods depend on Medicaid/specialty clinics.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "West Virginia",
+      "abbr": "WV",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (formula only for PKU/GALT; must refer to WVU Genetics), WIC, and the Office of Maternal, Child & Family Health (metabolic formula/supplements for PKU, tyrosinemia, organic acidemias).",
+      "medicaid_note": "Medicaid covers formula only, referred through the WVU Genetics team.",
+      "est_pku_population": "~90 (estimate)",
+      "clinics_note": "WVU Genetics team (Morgantown) is the state's central metabolic referral.",
+      "market_signal": "Market gap: no mandate, formula-only Medicaid; low-protein foods largely OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Wisconsin",
+      "abbr": "WI",
+      "coverage_mandate": "none",
+      "coverage_summary": "No private-insurance mandate. Coverage via Medicaid (HFS 107.09) for medically necessary specially formulated nutritional supplements and replacement products (enteral/parenteral) for nutritional risk; WIC shows no coverage in the survey.",
+      "medicaid_note": "Medicaid covers medically necessary nutritional supplements/replacements incl metabolic disorders.",
+      "est_pku_population": "~300 (estimate)",
+      "clinics_note": "Children's Wisconsin / Medical College of Wisconsin (Milwaukee); UW-Madison.",
+      "market_signal": "Market gap: no mandate; coverage rests on Medicaid medical-necessity, so many families pay OOP.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "state": "Wyoming",
+      "abbr": "WY",
+      "coverage_mandate": "full",
+      "coverage_summary": "Mandate (26-20-401) covers a broad inherited-enzymatic-disorder list (PKU, maternal PKU, MSUD, TYR, HCY, urea-cycle disorders, GA, MMA, PROP, etc.): medical nutrition therapy. Medicaid and CSHCN add specialty formulas and medical foods.",
+      "medicaid_note": "Wyoming Medicaid covers specialty formulas and medical foods for diagnosed IEM (amino/carb/fat) with treatment plan.",
+      "est_pku_population": "~30 (estimate)",
+      "clinics_note": "No in-state metabolic clinic; patients typically referred to Children's Hospital Colorado (Denver).",
+      "market_signal": "Broad mandate on paper, but no in-state clinic means travel costs; ERISA exemption applies.",
+      "sources": [
+        {"title": "State Statutes & Regulations on Dietary Treatment (Catalyst Center, BU), Nov 2016", "url": "https://www.umdf.org/wp-content/uploads/2017/09/Dietary_Treament_Supplements_2016.pdf"}
+      ],
+      "confidence": "sourced"
+    }
+  ]
+}

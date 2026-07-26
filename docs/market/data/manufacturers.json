@@ -1,0 +1,418 @@
+{
+  "dataset": "manufacturers",
+  "title": "PKU manufacturers & companies",
+  "updated": "2026-07-26",
+  "source_note": "Corporate/market map of companies across the PKU value chain (medical food, protein-substitute formula, drug, and services). Compiled from company sites, press releases, M&A coverage, and PitchBook/Crunchbase-style profiles. Revenue figures are parent-level or divisional where noted; segment-specific PKU revenue is rarely disclosed and is marked 'estimate' or 'unknown'. Not investment advice.",
+  "records": [
+    {
+      "company": "Nutricia",
+      "parent": "Danone",
+      "hq_country": "Netherlands (parent: France)",
+      "segment": "food+formula",
+      "ownership": "public parent (Danone, Euronext Paris)",
+      "scale_note": "Nutricia is the core of Danone's Specialized Nutrition division; medical-nutrition unit revenue reported around $1.6B (Growjo estimate). Danone group revenue ~EUR 27B (2024).",
+      "ma_note": "Nutricia acquired by Danone via the EUR 12.3B purchase of Royal Numico in 2007; delisted from Amsterdam exchange end of 2007. SHS International (metabolic specialist) rolled in earlier.",
+      "notes": "Category originator (first PKU product, 1956) and global volume leader in metabolic formula; one of the two food conglomerates (with Nestle) that dominate PKU protein substitutes.",
+      "sources": [
+        {"title": "Nutricia — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nutricia"},
+        {"title": "Nutricia Medical Nutrition revenue — Growjo", "url": "https://growjo.com/company/Nutricia_Medical_Nutrition"},
+        {"title": "Nutricia Metabolics — About", "url": "https://www.nutriciametabolics.com/en-kw/about-us/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Vitaflo",
+      "parent": "Nestlé Health Science",
+      "hq_country": "UK",
+      "segment": "food+formula",
+      "ownership": "public parent (Nestlé, SIX Swiss Exchange)",
+      "scale_note": "At acquisition (2010) had ~CHF 40M annual sales; now embedded in Nestlé Health Science (a multi-billion-CHF division). Segment-level revenue not separately disclosed.",
+      "ma_note": "Liverpool-based; acquired by Nestlé (Nestlé Health Science) in August 2010. In 2021 Vitaflo acquired Dr. Schär's inborn-errors-of-metabolism protein-substitute product line and its Rosbach, Germany plant.",
+      "notes": "Nestlé's entry vehicle into inherited metabolic disorders; the #2 pole of the formula duopoly opposite Danone/Nutricia, and an active consolidator of smaller metabolic lines.",
+      "sources": [
+        {"title": "Nestlé to enter clinical nutrition for inherited metabolic disorders (Vitaflo)", "url": "https://www.nestle.com/media/pressreleases/allpressreleases/nestl%C3%A9-enter-fast-growing-global-market-clinical-nutrition-products-inherited-metabolic-disorders"},
+        {"title": "Nestlé acquisition focuses on food for metabolic disorders — NutraIngredients", "url": "https://www.nutraingredients.com/Article/2010/08/02/Nestle-acquisition-focuses-on-food-for-metabolic-disorders/"},
+        {"title": "Vitaflo acquires Dr. Schär IEM business — Vitafriends PKU", "url": "https://www.vitafriendspku.co.uk/pku/news/vitaflo-announcement"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Ajinomoto Cambrooke (formerly Cambrooke Therapeutics)",
+      "parent": "Ajinomoto Co., Inc.",
+      "hq_country": "USA (Massachusetts); parent: Japan",
+      "segment": "food+formula",
+      "ownership": "public parent (Ajinomoto, Tokyo Stock Exchange)",
+      "scale_note": "Small subsidiary; standalone revenue not disclosed. Ajinomoto group revenue ~JPY 1.4T. Cambrooke deal value not publicly detailed.",
+      "ma_note": "Founded 2000 by PKU parents Lynn & David Paolella (as Cambrooke Foods). Backed by Galen Partners and Seventure Partners; acquired by Ajinomoto (via Ajinomoto North America) in Nov 2017; renamed Ajinomoto Cambrooke in April 2019.",
+      "notes": "Pioneered Glytactin/GMP (glycomacropeptide) intact-protein medical food, differentiating from amino-acid formulas; gives Japanese food-and-amino-acid giant Ajinomoto a PKU foothold.",
+      "sources": [
+        {"title": "Ajinomoto Acquires Cambrooke Therapeutics — Prepared Foods", "url": "https://www.preparedfoods.com/articles/120616-ajinomoto-acquires-cambrooke-therapeutics"},
+        {"title": "Ajinomoto buys Cambrooke Therapeutics — Just Food", "url": "https://www.just-food.com/news/ajinomoto-buys-us-medical-foods-firm-cambrooke-therapeutics/"},
+        {"title": "About Us — Ajinomoto Cambrooke", "url": "https://www.cambrooke.com/about/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Dr. Schär (Mevalia)",
+      "parent": "Dr. Schär AG/SpA (independent)",
+      "hq_country": "Italy (South Tyrol)",
+      "segment": "food",
+      "ownership": "private (family-controlled)",
+      "scale_note": "European leader in gluten-free; group revenue estimated in the several-hundred-million-EUR range (private, not disclosed). Mevalia is its low-protein/metabolic brand.",
+      "ma_note": "Launched Mevalia low-protein line in 2013. Divested its inborn-errors-of-metabolism protein-substitute (amino-acid mixture) product line and Rosbach plant to Nestlé/Vitaflo in 2021, retaining Mevalia low-protein foods.",
+      "notes": "Independent private counterweight to the conglomerates on the low-protein food side; exited the higher-margin formula/protein-substitute niche to Nestlé while keeping staple low-protein foods.",
+      "sources": [
+        {"title": "Dr. Schär presents Mevalia low-protein line", "url": "https://newsroomfromitaly.myblog.it/2013/04/17/17-04-2013-dr-schar-presenta-mevalia-la-nuova-linea-di-prodo/"},
+        {"title": "Mevalia — About / products", "url": "https://www.mevalia.com/en"},
+        {"title": "Vitaflo acquires Dr. Schär IEM business", "url": "https://www.vitafriendspku.co.uk/pku/news/vitaflo-announcement"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Abbott Nutrition (Phenex)",
+      "parent": "Abbott Laboratories",
+      "hq_country": "USA",
+      "segment": "formula",
+      "ownership": "public parent (Abbott, NYSE: ABT)",
+      "scale_note": "Abbott Nutrition division revenue ~$8B (parent Abbott ~$40B+ total). PKU line (Phenex-1/-2) is a small metabolic-formula niche within it; PKU-specific revenue unknown.",
+      "ma_note": "No recent PKU-specific M&A; Phenex is a longstanding metabolic medical-food line under Abbott's broader nutrition franchise (Similac/Ensure/PediaSure).",
+      "notes": "Large diversified US player present in PKU via amino-acid formulas, but PKU is peripheral to its mainstream nutrition business.",
+      "sources": [
+        {"title": "Abbott Nutrition — Phenex-1", "url": "https://www.abbottnutrition.com/our-products/phenex-1"},
+        {"title": "Abbott Nutrition — Phenex-2", "url": "https://www.abbottnutrition.com/our-products/phenex-2"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Mead Johnson Nutrition (Phenyl-Free)",
+      "parent": "Reckitt Benckiser Group",
+      "hq_country": "USA; parent: UK",
+      "segment": "formula",
+      "ownership": "public parent (Reckitt, LSE: RKT)",
+      "scale_note": "Reckitt acquired Mead Johnson for ~$16.6B in 2017. Mead Johnson (now Reckitt's Nutrition/MJN unit) multi-billion revenue; PKU (Phenyl-Free) line is a small legacy metabolic niche.",
+      "ma_note": "Mead Johnson acquired by Reckitt Benckiser in 2017. Reckitt announced strategic review / plans to divest its Mead Johnson infant-nutrition business (2024-2025), which could change ownership of the Phenyl-Free line.",
+      "notes": "Phenyl-Free is a historic PKU medical food; its parent's infant-nutrition arm is itself an M&A target, adding uncertainty to this small niche.",
+      "sources": [
+        {"title": "Phenyl-Free 1 — Mead Johnson HCP", "url": "https://hcp.meadjohnson.com/s/product/a4R4J000000PpR0UAK/phenylfree-1"},
+        {"title": "Phenyl-Free 2Hp metabolic formula", "url": "https://www.avacaremedical.com/mead-johnson-phenyl-free-2hp-pku-metabolic-formula-powder-1-lb-can"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Applied Nutrition Corporation",
+      "parent": "independent (US)",
+      "hq_country": "USA (Cedar Knolls, New Jersey)",
+      "segment": "food+formula",
+      "ownership": "private",
+      "scale_note": "Small privately held US medical-foods maker; revenue not disclosed. Not to be confused with UK-listed Applied Nutrition Plc (sports nutrition, unrelated).",
+      "ma_note": "No notable M&A. Long-running independent supplier of PKU/MSUD formulas and protein-free foods/candies.",
+      "notes": "Independent US niche player supplying metabolic formulas and low-protein/protein-free convenience products; competes on specialty SKUs rather than scale.",
+      "sources": [
+        {"title": "Applied Nutrition — Wikipedia (medical foods)", "url": "https://en.wikipedia.org/wiki/Applied_Nutrition"},
+        {"title": "Low protein food product companies — Organic Acidemia Association", "url": "https://oaanews.org/blog/low-protein-food-product-companies/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "company": "metaX",
+      "parent": "independent (family business)",
+      "hq_country": "Germany",
+      "segment": "food+formula",
+      "ownership": "private (family-owned)",
+      "scale_note": "Small German FSMP maker (founded 1999; Friedberg & Burgheim sites); revenue not disclosed.",
+      "ma_note": "No notable M&A; independent. Involved in R&D on recombinant/Phe-free nutritional proteins.",
+      "notes": "Independent European specialist in XPhe amino-acid mixtures and low-protein foods; innovator on next-gen protein substitutes.",
+      "sources": [
+        {"title": "About metaX", "url": "https://metax.org/en/ueber-uns/ueber-metax"},
+        {"title": "metaX low protein products", "url": "https://metax.org/en/products/lowproteinproducts.aspx"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Firstplay Dietary Foods (Promin)",
+      "parent": "independent (family business)",
+      "hq_country": "UK (Stockport)",
+      "segment": "food",
+      "ownership": "private (family-owned)",
+      "scale_note": "Small family firm (formed 1993); 100+ low-protein SKUs. Revenue not disclosed.",
+      "ma_note": "Independent; entered US market via an exclusive distribution agreement with Pentec Health / ZOIA Pharma (2023).",
+      "notes": "Independent UK low-protein food maker (Promin brand); reaches the US through distribution partnerships rather than being acquired.",
+      "sources": [
+        {"title": "Promin — About", "url": "https://prominpku.com/about"},
+        {"title": "Pentec Health distribution of Firstplay/Promin in US", "url": "https://pentechealth.com/newsroom/americans-with-metabolic-diseases-have-access-to-firstplay-dietary-foods-and-promin-low-protein-foods-via-exclusive-distribution-agreement-with-pentec-health/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Ener-G Foods",
+      "parent": "independent (US)",
+      "hq_country": "USA (Seattle, WA)",
+      "segment": "food",
+      "ownership": "private",
+      "scale_note": "Small privately held specialty-food maker (est. 1962); revenue not disclosed.",
+      "ma_note": "No notable M&A; long-standing independent.",
+      "notes": "Independent low-protein/gluten-free food maker serving PKU and renal diets; broad free-from catalog, PKU is one of several use cases.",
+      "sources": [
+        {"title": "Ener-G Foods", "url": "https://www.ener-g.com/"},
+        {"title": "Ener-G Foods BBB profile", "url": "https://www.bbb.org/us/wa/seattle/profile/foods/ener-g-foods-inc-1296-7048703"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Fate Special Foods",
+      "parent": "independent (family business)",
+      "hq_country": "UK",
+      "segment": "food",
+      "ownership": "private (family-owned)",
+      "scale_note": "Very small family company (founded 2001 by PKU parents); revenue not disclosed.",
+      "ma_note": "Independent; Fate-branded low-protein mixes are distributed internationally (e.g., via Vitaflo/Nestlé networks in Australia).",
+      "notes": "Micro-scale PKU-founder-run baking-mix maker; illustrates the long tail of family-run low-protein food businesses.",
+      "sources": [
+        {"title": "Fate Special Foods — About", "url": "https://www.fatespecialfoods.com/about"},
+        {"title": "Fate low-protein foods — Vitaflo Australia", "url": "https://www.nestlehealthscience.com.au/vitaflo/conditions/low-protein-foods/fate"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Solace Nutrition",
+      "parent": "independent (US)",
+      "hq_country": "USA",
+      "segment": "food+formula",
+      "ownership": "private",
+      "scale_note": "Small privately held medical-nutrition company; revenue not disclosed.",
+      "ma_note": "No notable M&A. Markets differentiated LNAA (large neutral amino acid) products (NeoPhe, PreKUnil).",
+      "notes": "Independent niche player pursuing an alternative mechanism (LNAA Phe-blocking) rather than standard amino-acid formula.",
+      "sources": [
+        {"title": "Solace Nutrition — PKU products", "url": "https://www.solacenutrition.com/product-category/conditions/pku/"},
+        {"title": "PreKUnil LNAA Tablets — Solace Nutrition", "url": "https://www.solacenutrition.com/product/prekunil-lnaa-tablets/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "PKU Perspectives",
+      "parent": "independent (US)",
+      "hq_country": "USA",
+      "segment": "food",
+      "ownership": "private (for-profit, family-run)",
+      "scale_note": "Micro-scale for-profit specialty foods; revenue not disclosed.",
+      "ma_note": "No M&A; independent.",
+      "notes": "Family-run low-protein convenience-food maker; another long-tail community-founded supplier.",
+      "sources": [
+        {"title": "PKU Perspectives — About", "url": "https://pkuperspectives.com/about/"},
+        {"title": "PKU Perspectives — home", "url": "https://pkuperspectives.com/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "BioMarin Pharmaceutical",
+      "parent": "independent (public)",
+      "hq_country": "USA (California)",
+      "segment": "drug",
+      "ownership": "public (Nasdaq: BMRN)",
+      "scale_note": "Total company revenue grew 13% YoY in FY2025; Palynziq ~$106M in Q2 2025 alone (+20% YoY). Kuvan revenue declining on generic erosion. Market cap in the tens of billions.",
+      "ma_note": "Kuvan (sapropterin) lost US exclusivity in 2020 following a 2017 patent settlement with Par. Palynziq (pegvaliase) Phase 3 PEGASUS positive in adolescents; filings submitted H2 2025 to expand age eligibility (possible 2026 approval). Dropped a preclinical next-gen PKU candidate.",
+      "notes": "The dominant PKU drug company: originator of both Kuvan and the only enzyme-substitution therapy (Palynziq). Now facing generic sapropterin and new entrants (PTC's sepiapterin, Otsuka's oral).",
+      "sources": [
+        {"title": "BioMarin Q4 & FY2025 results", "url": "https://www.biomarin.com/news/press-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results/"},
+        {"title": "BioMarin Q2 2025 results (Palynziq $106M)", "url": "https://investors.biomarin.com/news/news-details/2025/BioMarin-Reports-Strong-Second-Quarter-2025-Results-and-Raises-Full-year-Guidance-for-Total-Revenues-Non-GAAP-Operating-Margin-and-Non-GAAP-Diluted-EPS/default.aspx"},
+        {"title": "BioMarin drops preclinical PKU drug — Fierce Biotech", "url": "https://www.fiercebiotech.com/biotech/biomarin-drops-preclinical-pku-drug-once-seen-potential-palynziq-successor"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Par Pharmaceutical (Endo)",
+      "parent": "Endo, Inc. (formerly Endo International)",
+      "hq_country": "USA",
+      "segment": "drug",
+      "ownership": "public parent (Endo relisted post-bankruptcy)",
+      "scale_note": "Par is Endo's generics arm; sapropterin is one product in a broad generic portfolio. Product-level revenue not disclosed.",
+      "ma_note": "First and (initially) only generic Kuvan: began shipping generic sapropterin dihydrochloride tablets and oral-solution powder on 1 Oct 2020 under a 2017 licensing settlement with BioMarin.",
+      "notes": "First mover in generic sapropterin, opening price competition against BioMarin's Kuvan.",
+      "sources": [
+        {"title": "Endo/Par begins shipment of generic Kuvan", "url": "https://investor.endo.com/2020-10-01-Endo-Begins-Shipment-of-Generic-Kuvan-R-Tablets-and-Powder-for-Oral-Solution-sapropterin-dihydrochloride"},
+        {"title": "BioMarin–Par Kuvan patent settlement", "url": "https://www.prnewswire.com/news-releases/biomarin-announces-kuvan-sapropterin-dihydrochloride-patent-challenge-settlement-300439214.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Dr. Reddy's Laboratories",
+      "parent": "independent (public)",
+      "hq_country": "India",
+      "segment": "drug",
+      "ownership": "public (NSE/BSE; NYSE: RDY)",
+      "scale_note": "Large global generics maker (group revenue >$3B); sapropterin is one niche generic. Manufacturer of record for the Javygtor branded generic.",
+      "ma_note": "Launched generic sapropterin dihydrochloride powder for oral solution (2021) and tablets in the US; supplies the Javygtor product marketed by Cycle Pharmaceuticals.",
+      "notes": "Major generic entrant compressing sapropterin economics; supply backbone behind branded-generic Javygtor.",
+      "sources": [
+        {"title": "Dr. Reddy's launches generic sapropterin powder — BioSpace", "url": "https://www.biospace.com/dr-reddy-s-laboratories-announces-the-launch-of-a-generic-version-of-sapropterin-dihydrochloride-powder-for-oral-solution-100-mg-in-the-u-s-market"},
+        {"title": "Javygtor prescribing information — Drugs.com", "url": "https://www.drugs.com/pro/javygtor.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Cycle Pharmaceuticals",
+      "parent": "independent (private)",
+      "hq_country": "UK (Cambridge)",
+      "segment": "drug",
+      "ownership": "private",
+      "scale_note": "Private rare-disease specialty pharma; revenue not disclosed. Markets Javygtor in the US.",
+      "ma_note": "Launched Javygtor (sapropterin dihydrochloride tablets and powder) in the US in October 2022 as a branded rare-disease offering.",
+      "notes": "Rare-disease commercialization specialist using patient-support wrap-around services to compete in the sapropterin market against both BioMarin and pure generics.",
+      "sources": [
+        {"title": "Javygtor US launch — Cycle Pharma", "url": "https://cyclepharma.com/news/new-us-product-javygtor-sapropterin-dihydrochloride-tablets-and-powder-launches-for-phenylketonuria-pku-treatment/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Aucta Pharmaceuticals (Zelvysia)",
+      "parent": "independent (private)",
+      "hq_country": "USA (New Jersey)",
+      "segment": "drug",
+      "ownership": "private",
+      "scale_note": "Private specialty/generic developer; revenue not disclosed.",
+      "ma_note": "Zelvysia (sapropterin dihydrochloride) approved April 2025, a further sapropterin entrant expanding competition.",
+      "notes": "Later sapropterin entrant, evidence of a crowding generic/branded-generic field around the off-patent BH4 molecule.",
+      "sources": [
+        {"title": "Zelvysia (sapropterin) — sapropterin policy doc referencing Zelvysia", "url": "https://info.caremark.com/content/dam/enterprise/caremark/microsites/dig/pdfs/pa-fep/fep-criteria/FEP_Criteria_Zelvysia.pdf"},
+        {"title": "Zelvysia drug information", "url": "https://alldrugs.com/zelvysia"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "company": "PTC Therapeutics (Sephience / sepiapterin)",
+      "parent": "independent (public)",
+      "hq_country": "USA (New Jersey)",
+      "segment": "drug",
+      "ownership": "public (Nasdaq: PTCT)",
+      "scale_note": "Mid-cap rare-disease pharma (multi-hundred-million to ~$1B revenue range). Sephience approved in EU, US and Japan within six months (2025), a new global launch.",
+      "ma_note": "Acquired sepiapterin (CNSA-001) via the $10M-upfront-plus-milestones acquisition of Censa Pharmaceuticals in June 2020; Sephience FDA and Japan approvals landed in 2025.",
+      "notes": "First credible branded challenger to BioMarin's oral franchise: a BH4 precursor claiming a broader responder population than sapropterin; pricing expected Q1 2026.",
+      "sources": [
+        {"title": "PTC announces FDA approval of Sephience (sepiapterin)", "url": "https://ir.ptcbio.com/news-releases/news-release-details/ptc-therapeutics-announces-fda-approval-sephiencetm-sepiapterin"},
+        {"title": "PTC to acquire Censa Pharmaceuticals", "url": "https://ir.ptcbio.com/news-releases/news-release-details/ptc-therapeutics-acquire-censa-pharmaceuticals"},
+        {"title": "PTC announces Sephience approval in Japan", "url": "https://www.prnewswire.com/news-releases/ptc-therapeutics-announces-approval-of-sephience-sepiapterin-for-the-treatment-of-children-and-adults-living-with-phenylketonuria-pku-in-japan-302647819.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Otsuka Pharmaceutical (Jnana / JNT-517, repinatrabit)",
+      "parent": "Otsuka Holdings",
+      "hq_country": "Japan",
+      "segment": "drug",
+      "ownership": "public parent (Otsuka Holdings, Tokyo Stock Exchange)",
+      "scale_note": "Large diversified pharma (group revenue >JPY 2T). Acquired PKU asset for up to ~$1.1B ($800M upfront + up to $325M milestones).",
+      "ma_note": "Acquired Jnana Therapeutics (Aug–Sep 2024) for its lead PKU candidate JNT-517 (now repinatrabit), an oral SLC6A19 inhibitor; Otsuka initiated a global Phase 3 in 2025.",
+      "notes": "Big-pharma bet on a first-in-class oral, diet-independent PKU mechanism; a leading threat to reshape the drug segment if Phase 3 succeeds.",
+      "sources": [
+        {"title": "Otsuka to acquire Jnana Therapeutics (JNT-517)", "url": "https://www.otsuka.co.jp/en/company/newsreleases/2024/20240801_1.html"},
+        {"title": "Otsuka pays $800M for Jnana — Fierce Biotech", "url": "https://www.fiercebiotech.com/biotech/otsuka-pays-800m-jnana-therapeutics-and-clinical-stage-pku-drug"},
+        {"title": "Otsuka initiates Phase 3 of repinatrabit for PKU", "url": "https://otsuka-us.com/news/otsuka-initiates-global-phase-3-clinical-trial-evaluating-repinatrabit-treatment"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Jnana Therapeutics",
+      "parent": "Otsuka Pharmaceutical (acquired 2024)",
+      "hq_country": "USA (Massachusetts)",
+      "segment": "drug",
+      "ownership": "VC-backed, now wholly owned subsidiary of Otsuka",
+      "scale_note": "Clinical-stage biotech; acquired for up to ~$1.1B. Pre-acquisition VC-funded.",
+      "ma_note": "Developed JNT-517 (oral SLC6A19 inhibitor) through Phase 1b/2 in PKU; acquired by Otsuka in 2024 (announced Aug, completed Sep).",
+      "notes": "Origin of the leading oral PKU small molecule; exit validates VC interest in non-formula, diet-independent PKU therapeutics.",
+      "sources": [
+        {"title": "Otsuka completes acquisition of Jnana", "url": "https://www.jnanatx.com/otsuka-pharmaceutical-completes-acquisition-of-jnana-therapeutics-inc/"},
+        {"title": "Jnana Phase 1/2 JNT-517 data", "url": "https://www.jnanatx.com/jnana-therapeutics-presents-new-positive-data-from-phase-1-2-study-of-jnt-517-in-individuals-with-phenylketonuria-results-support-planned-pivotal-study-in-early-2025/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Synlogic",
+      "parent": "independent (was public); wound down",
+      "hq_country": "USA (Massachusetts)",
+      "segment": "drug",
+      "ownership": "was public (Nasdaq: SYBX); ceased operations",
+      "scale_note": "Clinical-stage synthetic-biology biotech; effectively wound down.",
+      "ma_note": "Discontinued the Synpheny-3 Phase 3 of SYNB1934 (labafenogene marselecobac) for PKU in early 2024 for likely futility; cut >90% of staff and ceased operations, pursuing strategic alternatives.",
+      "notes": "Cautionary case: the engineered-bacteria (live biotherapeutic) approach to PKU failed in pivotal trials, removing a pipeline contender.",
+      "sources": [
+        {"title": "Synlogic to cease operations, cut >90% of staff", "url": "https://www.synbiobeta.com/read/synlogic-announces-plan-to-cease-operations-and-reduce-its-workforce-by-more-than-90"},
+        {"title": "Synlogic shuts down after PKU Phase 3 fail — pharmaphorum", "url": "https://pharmaphorum.com/rd/synlogic-shuts-down-after-pku-drug-fails-phase-3-trial"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Homology Medicines (now Q32 Bio)",
+      "parent": "independent (public shell became Q32 Bio)",
+      "hq_country": "USA (Massachusetts)",
+      "segment": "drug",
+      "ownership": "was public (Nasdaq); reverse-merged",
+      "scale_note": "Former gene-therapy biotech; PKU program discontinued.",
+      "ma_note": "Discontinued its PKU gene-therapy/editing programs (HMI-102 / HMI-103) amid a tough financing environment; reverse-merged with Q32 Bio (Nov 2023), which pivoted the entity to autoimmune/inflammatory disease (Nasdaq: QTTB).",
+      "notes": "Illustrates gene therapy's retreat from PKU on financing and technical risk; the corporate shell survives in an unrelated field.",
+      "sources": [
+        {"title": "Q32 Bio and Homology Medicines merger agreement", "url": "https://www.globenewswire.com/news-release/2023/11/16/2781720/0/en/Q32-Bio-and-Homology-Medicines-Announce-Merger-Agreement.html"},
+        {"title": "Homology enters reverse merger with Q32 Bio — BioPharma Dive", "url": "https://www.biopharmadive.com/news/homology-gene-editing-biotech-reverse-merger-q32-bio/700074/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Sangamo Therapeutics",
+      "parent": "independent (public)",
+      "hq_country": "USA (California)",
+      "segment": "drug",
+      "ownership": "public (Nasdaq: SGMO)",
+      "scale_note": "Small/mid-cap genomic-medicine company; PKU is not a current core program.",
+      "ma_note": "Earlier disclosed a PKU gene-therapy program (ST-101, clinical plans ~2021); recent pipeline focuses on hemophilia A, Fabry and others, with PKU no longer a highlighted active clinical program.",
+      "notes": "Former genomic-medicine entrant into PKU; largely deprioritized, reflecting the broader cooling of gene-therapy activity in the indication.",
+      "sources": [
+        {"title": "Sangamo pipeline & programs", "url": "https://www.sangamo.com/programs/"},
+        {"title": "Sangamo R&D Day pipeline update", "url": "https://investor.sangamo.com/news-releases/news-release-details/sangamo-highlights-advancements-genomic-medicine-pipeline-and"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "company": "Moderna",
+      "parent": "independent (public)",
+      "hq_country": "USA (Massachusetts)",
+      "segment": "drug",
+      "ownership": "public (Nasdaq: MRNA)",
+      "scale_note": "Large mRNA company; PKU is an early-stage, non-front-runner pipeline program (mRNA-3283 / mRNA-3210).",
+      "ma_note": "No PKU-specific M&A; PKU is an internal rare-disease mRNA program behind its lead metabolic candidate (methylmalonic acidemia).",
+      "notes": "Represents the mRNA/enzyme-replacement approach (transient PAH expression) to PKU; optionality rather than a near-term commercial threat.",
+      "sources": [
+        {"title": "Moderna PKU (mRNA-3210) program presentation", "url": "https://s29.q4cdn.com/435878511/files/doc_downloads/program_detail/2024/06/pku-5-02-24.pdf"},
+        {"title": "How PKU became a proving ground for new drugs — C&EN", "url": "https://cen.acs.org/business/phenylketonuria-once-neglected-disease-became/97/i27"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Pentec Health / ZOIA Pharma",
+      "parent": "Pentec Health (private)",
+      "hq_country": "USA (Pennsylvania)",
+      "segment": "services",
+      "ownership": "private",
+      "scale_note": "Specialty pharmacy / distribution provider; PKU-segment revenue not disclosed.",
+      "ma_note": "Signed an exclusive US distribution agreement (2023) for Firstplay Dietary Foods and Promin low-protein products via ZOIA Pharma.",
+      "notes": "Represents the distribution/specialty-pharmacy services layer that connects overseas low-protein food makers to US patients and payers.",
+      "sources": [
+        {"title": "Pentec Health / ZOIA Pharma distribution of Firstplay & Promin", "url": "https://pentechealth.com/newsroom/americans-with-metabolic-diseases-have-access-to-firstplay-dietary-foods-and-promin-low-protein-foods-via-exclusive-distribution-agreement-with-pentec-health/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "company": "Aurobindo Pharma (and other generic sapropterin makers)",
+      "parent": "Aurobindo Pharma (public); plus Annora, Micro Labs, Zenara, MSN group",
+      "hq_country": "India (multiple)",
+      "segment": "drug",
+      "ownership": "public / private generic manufacturers",
+      "scale_note": "Large Indian generics houses; sapropterin is a minor line each. Segment revenue not disclosed.",
+      "ma_note": "Part of the widening pool of sapropterin dihydrochloride ANDA holders (alongside Annora, Micro Labs, Zenara and others) commoditizing the former Kuvan monopoly.",
+      "notes": "The long tail of generic sapropterin suppliers driving BH4-molecule prices toward commodity levels post-exclusivity.",
+      "sources": [
+        {"title": "Generic sapropterin dihydrochloride manufacturers list — WellRx", "url": "https://www.wellrx.com/sapropterin-dihydrochloride/drug-information/"},
+        {"title": "Generic sapropterin patent/entry overview — DrugPatentWatch", "url": "https://www.drugpatentwatch.com/p/generic-api/SAPROPTERIN+DIHYDROCHLORIDE"}
+      ],
+      "confidence": "estimate"
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "dataset": "clinics",
+  "title": "Metabolic clinics & dietitian network",
+  "updated": "2026-07-26",
+  "source_note": "Compiled from NPKUA/BioMarin/KUVAN clinic finders, hospital metabolic-program pages, GMDI, regional genetics collaboratives (SERN/NECMP), and peer-reviewed access studies (Nature Genetics in Medicine, Orphanet JRD, MDPI Nutrients). Care-delivery/market view only — no clinical protocols. Clinic-level adult_care and telehealth flags are 'unknown' where the program page did not state a policy; PKU care is concentrated at ~90-120 US metabolic centers and dedicated adult PKU clinics are rare.",
+  "records": [
+    {
+      "kind": "clinic",
+      "name": "Boston Children's Hospital — Metabolism Program",
+      "location": "Boston, MA",
+      "region": "US-Northeast",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "High-volume PKU/IEM center; structured pediatric-to-adult transition begins at age 12, but follow-up care is pediatric-anchored.",
+      "sources": [
+        {"title": "Metabolism Program | Your Visit — Boston Children's Hospital", "url": "https://www.childrenshospital.org/services/metabolism-program/your-visit"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Children's Hospital of Philadelphia (CHOP) — Metabolic Disease Program",
+      "location": "Philadelphia, PA",
+      "region": "US-Northeast",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "Major East-Coast pediatric IEM/PKU referral center in a dense metro; adult PKU patients typically referred out or held over.",
+      "sources": [
+        {"title": "CHOP Metabolic Disease Program", "url": "https://www.chop.edu/centers-programs/metabolic-disease-program"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Mount Sinai — Program for Inherited Metabolic Diseases",
+      "location": "New York, NY",
+      "region": "US-Northeast",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "One of the largest US Newborn Screening referral centers; explicitly serves children and adults, with an Adult Genetic Program partnering the IMD program — a rarer adult-capable node.",
+      "sources": [
+        {"title": "Program for Inherited Metabolic Diseases — Mount Sinai", "url": "https://www.mountsinai.org/care/genetics/services/inherited-metabolic-diseases"},
+        {"title": "Adult Genetic Program — Mount Sinai", "url": "https://www.mountsinai.org/care/genetics/services/adult-genetic"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Connecticut Children's Medical Center — Metabolic Program",
+      "location": "Hartford, CT",
+      "region": "US-Northeast",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "State pediatric metabolic referral node; member of New England Consortium of Metabolic Programs.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Rhode Island Hospital / Hasbro Children's — Metabolic Clinic",
+      "location": "Providence, RI",
+      "region": "US-Northeast",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Small-state metabolic node; part of New England regional consortium coverage.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Vermont Medical Center — Metabolic Clinic",
+      "location": "Burlington, VT",
+      "region": "US-Northeast",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Rural-serving New England node; wide catchment for a low-density state, illustrating access distance for rural PKU patients.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Emory University — Metabolic Genetics Clinic",
+      "location": "Atlanta, GA",
+      "region": "US-South",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Anchor Southeast IEM/PKU center; home of nutrition-guidelines leadership (SERN/GMDI, Rani Singh). Serves broad multi-state catchment.",
+      "sources": [
+        {"title": "Metabolic Genetics Clinic — Emory School of Medicine", "url": "https://med.emory.edu/departments/human-genetics/patient-care/metabolic-genetics-clinic/index.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Texas Children's Hospital — Metabolic Clinic (Baylor)",
+      "location": "Houston, TX",
+      "region": "US-South",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "Largest Texas pediatric metabolic center; Baylor-affiliated, high newborn-screen referral volume.",
+      "sources": [
+        {"title": "Texas Children's Hospital — Metabolic Clinic", "url": "https://www.texaschildrens.org/departments/metabolic-clinic"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "UT Southwestern Medical Center — PKU / Genetic & Metabolic",
+      "location": "Dallas, TX",
+      "region": "US-South",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Explicitly cares for adult and pediatric PKU patients — a scarcer adult-capable center in the South.",
+      "sources": [
+        {"title": "Phenylketonuria — UT Southwestern Medical Center", "url": "https://utswmed.org/conditions-treatments/phenylketonuria/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Medical University of South Carolina (MUSC) — Metabolic/Genetics",
+      "location": "Charleston, SC",
+      "region": "US-South",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "State metabolic referral node listed in NPKUA locations; SERN region coverage.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Tennessee Health Science Center — Metabolic Clinic",
+      "location": "Memphis, TN",
+      "region": "US-South",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Tennessee metabolic node; SERN region. Large rural catchment across the Mid-South.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Nicklaus Children's Hospital — Metabolic Program",
+      "location": "Miami, FL",
+      "region": "US-South",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "South Florida pediatric metabolic center; serves a large, geographically strung-out state.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Cincinnati Children's Hospital — Metabolic Diseases / PKU",
+      "location": "Cincinnati, OH",
+      "region": "US-Midwest",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Major Midwest IEM/PKU center with active PKU research and a noted adult metabolic program.",
+      "sources": [
+        {"title": "Cincinnati Children's — Metabolic Diseases / PKU", "url": "https://www.cincinnatichildrens.org/service/p/pku"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Wisconsin — Waisman Center Biochemical Genetics (PKU)",
+      "location": "Madison, WI",
+      "region": "US-Midwest",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Long-running PKU program with dedicated PKU research and adult follow-up; frequently cited access-research site.",
+      "sources": [
+        {"title": "PKU News — Waisman Center, University of Wisconsin–Madison", "url": "https://www.waisman.wisc.edu/news/pku-news/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Illinois Health — Metabolic/PKU Clinic",
+      "location": "Chicago, IL",
+      "region": "US-Midwest",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Chicago metabolic node listed in NPKUA locations; known for adult PKU services in the region.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Mayo Clinic — Biochemical Genetics / Metabolic Clinic",
+      "location": "Rochester, MN",
+      "region": "US-Midwest",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Integrated adult+pediatric academic center; national referral draw for complex IEM including PKU.",
+      "sources": [
+        {"title": "Mayo Clinic — Medical Genetics / Metabolic", "url": "https://www.mayoclinic.org/departments-centers/medical-genetics/sections/overview/ovc-20456104"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Children's Mercy Kansas City — Metabolic Clinic",
+      "location": "Kansas City, MO",
+      "region": "US-Midwest",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "Regional pediatric metabolic center covering a large Plains catchment (KS/MO) with sparse alternatives.",
+      "sources": [
+        {"title": "Children's Mercy — Genetics & Metabolism", "url": "https://www.childrensmercy.org/departments-and-clinics/genetics/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Michigan — Metabolism/Genetics Clinic",
+      "location": "Ann Arbor, MI",
+      "region": "US-Midwest",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Academic metabolic program serving Michigan; adult and pediatric metabolic genetics.",
+      "sources": [
+        {"title": "University of Michigan — Medical Genetics", "url": "https://www.uofmhealth.org/conditions-treatments/genetics"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "UCSF Benioff Children's — Metabolic Program",
+      "location": "San Francisco, CA",
+      "region": "US-West",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Major Northern California academic metabolic/PKU center; adult metabolic services available.",
+      "sources": [
+        {"title": "UCSF — Metabolic / Medical Genetics", "url": "https://www.ucsfhealth.org/clinics/medical-genetics"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Children's Hospital Los Angeles — Metabolic / Biochemical Genetics",
+      "location": "Los Angeles, CA",
+      "region": "US-West",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "High-volume Southern California pediatric metabolic center; serves a very large population base.",
+      "sources": [
+        {"title": "CHLA — Metabolic / Genetics", "url": "https://www.chla.org/the-division-medical-genetics"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Harbor–UCLA Medical Center — Metabolic Clinic (Adult PKU)",
+      "location": "Torrance, CA",
+      "region": "US-West",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Notable adult-serving metabolic clinic (Los Angeles Biomedical); one of California's adult PKU access points.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"},
+        {"title": "California Clinics — CCPKUAD", "url": "https://www.ccpkuad.org/copy-of-california-clinics-1"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Seattle Children's Hospital — Biochemical Genetics",
+      "location": "Seattle, WA",
+      "region": "US-West",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "Pacific Northwest pediatric metabolic hub; pairs with UW adult PKU program for transition.",
+      "sources": [
+        {"title": "Seattle Children's — Biochemical Genetics", "url": "https://www.seattlechildrens.org/clinics/biochemical-genetics/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Washington — Cristine M. Trahms Program for PKU",
+      "location": "Seattle, WA",
+      "region": "US-West",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Dedicated PKU program serving WA state across the lifespan, including adults — an uncommon named adult PKU service.",
+      "sources": [
+        {"title": "Phenylketonuria (PKU) Clinic — UW Clinical Training Unit", "url": "https://uw-ctu.org/specialty-clinics/clinics/phenylketonuria-pku-clinic/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Children's Hospital Colorado / CU Anschutz — Inherited Metabolic Diseases Clinic",
+      "location": "Aurora, CO",
+      "region": "US-West",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Only comprehensive metabolic service in the Rocky Mountain region; explicitly treats children and adults — a large single-clinic catchment and a clear rural access chokepoint.",
+      "sources": [
+        {"title": "Metabolic Clinic — Children's Hospital Colorado", "url": "https://www.childrenscolorado.org/doctors-and-departments/departments/genetics/metabolic/"},
+        {"title": "Inherited Metabolic Diseases Nutrition Department — CU Anschutz", "url": "https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/clinical-services/inherited-metabolic-diseases-nutrition-department"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Intermountain Health — Metabolic Service",
+      "location": "Salt Lake City, UT",
+      "region": "US-West",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Regional metabolic node serving UT/ID and the interior West; large low-density catchment.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Kapiolani Medical Center for Women & Children — Metabolic Clinic",
+      "location": "Honolulu, HI",
+      "region": "US-West",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Sole Hawaii metabolic node; extreme geographic isolation makes telehealth/mainland-referral central to access.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Oregon Health & Science University (OHSU) — Metabolic/Genetics",
+      "location": "Portland, OR",
+      "region": "US-West",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Academic metabolic center for Oregon and the broader Pacific Northwest; adult metabolic genetics available.",
+      "sources": [
+        {"title": "OHSU — Genetics & Metabolism", "url": "https://www.ohsu.edu/doernbecher/genetics-metabolism"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Minnesota — Metabolic/Genetics Clinic (Adult IMD)",
+      "location": "Minneapolis, MN",
+      "region": "US-Midwest",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Academic center with an adult inherited-metabolic clinic; upper-Midwest catchment.",
+      "sources": [
+        {"title": "M Health Fairview / University of Minnesota — Genetics", "url": "https://www.mhealthfairview.org/specialties/genetics"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Nationwide Children's Hospital — Metabolic Clinic",
+      "location": "Columbus, OH",
+      "region": "US-Midwest",
+      "adult_care": "pediatric-only",
+      "telehealth": "unknown",
+      "notes": "Large-volume pediatric metabolic center in Ohio; complements Cincinnati for statewide coverage.",
+      "sources": [
+        {"title": "Nationwide Children's — Genetic & Metabolic Disorders", "url": "https://www.nationwidechildrens.org/specialties/genetic-and-metabolic-disorders"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Duke University — Metabolic / Biochemical Genetics",
+      "location": "Durham, NC",
+      "region": "US-South",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Academic metabolic center serving the Carolinas; adult and pediatric metabolic genetics, SERN region.",
+      "sources": [
+        {"title": "Duke — Medical Genetics", "url": "https://www.dukehealth.org/treatments/medical-genetics"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "Vanderbilt University Medical Center — Metabolic/Genetics",
+      "location": "Nashville, TN",
+      "region": "US-South",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Academic metabolic program for middle Tennessee; broad rural catchment across the Mid-South.",
+      "sources": [
+        {"title": "Vanderbilt — Medical Genetics & Genomic Medicine", "url": "https://www.vumc.org/genetics/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "clinic",
+      "name": "University of Colorado / national reference — see Children's Colorado; Rocky Mountain access note",
+      "location": "Rocky Mountain region",
+      "region": "US-West",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Interior-West coverage rests heavily on a single comprehensive center (Aurora, CO), leaving WY/MT/ND/SD/NM patients traveling hundreds of miles.",
+      "sources": [
+        {"title": "Metabolic Clinic — Children's Hospital Colorado (only comprehensive Rocky Mountain service)", "url": "https://www.childrenscolorado.org/doctors-and-departments/departments/genetics/metabolic/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Charles Dent Metabolic Unit — National Hospital for Neurology & Neurosurgery",
+      "location": "London, UK",
+      "region": "International",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Flagship UK adult metabolic center of excellence for inherited metabolic disease including PKU.",
+      "sources": [
+        {"title": "Clinical centres for PKU — NSPKU", "url": "https://nspku.org/clinical-centres-for-pku/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Birmingham Children's Hospital / Birmingham Metabolic Service",
+      "location": "Birmingham, UK",
+      "region": "International",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "One of the UK's largest metabolic services (paired adult/paediatric provision); reference PKU center.",
+      "sources": [
+        {"title": "Clinical centres for PKU — NSPKU", "url": "https://nspku.org/clinical-centres-for-pku/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "University Hospital Leipzig — Adult Inherited Metabolic Disease Clinic",
+      "location": "Leipzig, Germany",
+      "region": "International",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Established a dedicated adult IEM outpatient clinic and structured transition in 2005 — an early model for adult PKU care (10-year single-centre experience published).",
+      "sources": [
+        {"title": "Ten years of specialized adult care for phenylketonuria — a single-centre experience (Orphanet JRD)", "url": "https://ojrd.biomedcentral.com/articles/10.1186/s13023-016-0410-6"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "clinic",
+      "name": "Dutch PKU Centres of Expertise (government-designated)",
+      "location": "Netherlands",
+      "region": "International",
+      "adult_care": "yes",
+      "telehealth": "unknown",
+      "notes": "Reference model: the Dutch government formally designated 2 hospitals as PKU centres of expertise — a concentration/quality model absent in the US, UK, and Germany.",
+      "sources": [
+        {"title": "Patient's thoughts and expectations about centres of expertise for PKU (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/33407655/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "PKU care is concentrated at ~90–120 US metabolic centers",
+      "location": "United States",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Specialty PKU care clusters at children's hospitals and academic medical centers reachable only via clinic-finder tools (NPKUA, BioMarin, KUVAN). The concentration creates real travel/access burden for rural patients and is the core market gap.",
+      "sources": [
+        {"title": "Find a Local PKU Clinic — BioMarin", "url": "https://pku.biomarin.com/en-us/about-pku/find-a-clinic/"},
+        {"title": "Find a Specialized PKU Clinic — KUVAN", "url": "https://www.kuvan.com/getting-and-taking-kuvan/find-a-pku-clinic/"},
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "Adult PKU access gap: >70% of US adults not in specialty care",
+      "location": "United States",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Patient, social, and economic factors keep more than 70% of US adults with PKU from accessing treatment; many are 'lost to follow-up.' Dedicated adult PKU clinics are scarce, so adults are often held over in pediatric centers — the single largest unmet-need signal in PKU care delivery.",
+      "sources": [
+        {"title": "Newborn screening 50 years later: access issues faced by adults with PKU (Genetics in Medicine)", "url": "https://www.nature.com/articles/gim201310"},
+        {"title": "Adult patient perspectives on PKU care: need for dedicated adult management (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/31778858/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "Metabolic dietitian shortage: ~133 patients per RD FTE and rising",
+      "location": "United States",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "GMDI professional-status surveys show median caseload rising to 133 patients per dietitian FTE (2020), up from 124 (2017) and 120 (2013). Burnout and overwhelming ratios are top challenges — the dietitian layer, not physicians, is the binding constraint on PKU care capacity.",
+      "sources": [
+        {"title": "Compensation for metabolic dietitians in the US: 2023 GMDI survey (PMC)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11470630/"},
+        {"title": "Examining Roles, Challenges, and Opportunities Within the Metabolic Genetics Workforce (AJMG-A)", "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63889"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "GMDI — Genetic Metabolic Dietitians International (professional body)",
+      "location": "United States / international",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Founded 2005; the profession's standards body for metabolic nutrition. Runs a Job Connection board (a live labor-shortage signal), a mentorship program, and co-authors the national nutrition-management guidelines with SERN.",
+      "sources": [
+        {"title": "GMDI Resources", "url": "https://gmdi.org/Resources"},
+        {"title": "GMDI Job Connection", "url": "https://gmdi.org/Opportunities/GMDI-Job-Connection"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "SERN / SERC — Southeast Regional Genetics Network nutrition guidelines",
+      "location": "Southeast US (Region 3)",
+      "region": "US-South",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "HRSA-funded regional collaborative that, with GMDI, produced evidence- and consensus-based nutrition-management guidelines for PKU and other IMDs — the shared clinical infrastructure many clinics rely on. Serves AL, GA, FL, LA, MS, NC, SC, TN.",
+      "sources": [
+        {"title": "Nutrition Management Guidelines — Southeast Regional Genetics Network", "url": "https://southeastgenetics.org/ngp/guidelines.php"},
+        {"title": "SERC — ACMG NCC/RC", "url": "https://www.acmg.net/NCCRCG/About_Us/Regional_Collaboratives/SERC/NCCRCG/Regional_Collaborative/SERC.aspx"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "New England Consortium of Metabolic Programs (NECMP)",
+      "location": "New England (CT, ME, MA, NH, RI, VT)",
+      "region": "US-Northeast",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Regional consortium coordinating metabolic clinics across six New England states — a model for pooling scarce specialty capacity across small states.",
+      "sources": [
+        {"title": "New England Consortium of Metabolic Programs", "url": "https://www.newenglandconsortium.org/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "HRSA Regional Genetics Networks (RGN) — national coordinating layer",
+      "location": "United States",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "The NCC/RC system organizes US genetic/metabolic care into regional networks (e.g., SERN, plus Mountain States, Western States, Heartland, Mid-Atlantic, New England, New York-Mid-Atlantic). Federal telehealth and access-equity mandates run through this layer — the policy channel for closing rural gaps.",
+      "sources": [
+        {"title": "The NCC/RC System at 10 Years: A Look Back", "url": "https://www.negenetics.org/sites/negenetics.org/files/libraries/ncc_collaborator/ncc_collaborator_retrospective_final.pdf"},
+        {"title": "SERN — National Coordinating Center for the Regional Genetics Networks", "url": "https://nccrcg.org/rgns/sern/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "Telehealth metabolic nutrition — emerging access category",
+      "location": "United States",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "yes",
+      "notes": "Video/hybrid dietitian counseling has high patient acceptance (~90% would recommend) and is the most credible near-term lever for the rural + adult + dietitian-shortage gaps. Still nascent for PKU specifically; a whitespace for branded remote metabolic-nutrition services.",
+      "sources": [
+        {"title": "Telehealth for Nutritional Care: improving patient flow (PMC)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9282778/"},
+        {"title": "Telehealth Nutrition Counseling — Intermountain Health", "url": "https://intermountainhealthcare.org/services/virtual-care/nutrition-counseling"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "kind": "network-note",
+      "name": "Patient-organization clinic finders are the de-facto market directory",
+      "location": "United States",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "No single authoritative public registry of PKU clinics exists; patients navigate via advocacy/manufacturer finders (NPKUA, BioMarin, KUVAN) and state groups (Georgia PKU Connect, CCPKUAD, Maternal PKU Support). Fragmented discovery is itself an access barrier and a data-product opportunity.",
+      "sources": [
+        {"title": "Locations Archive — NPKUA", "url": "https://www.npkua.org/locations/"},
+        {"title": "California Clinics — CCPKUAD", "url": "https://www.ccpkuad.org/copy-of-california-clinics-1"},
+        {"title": "RESOURCES — Georgia PKU Connect", "url": "https://georgiapku.org/resources/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "kind": "network-note",
+      "name": "Maternal PKU: preconception access gap compounds the adult gap",
+      "location": "United States",
+      "region": "US-national",
+      "adult_care": "unknown",
+      "telehealth": "unknown",
+      "notes": "Women with PKU who fell out of adult specialty care face high fetal risk; gaps in preconception metabolic care are documented. Maternal PKU is a high-acuity subsegment where the adult-care shortage has the steepest clinical and cost consequences.",
+      "sources": [
+        {"title": "Maternal PKU: Consequences of Dietary Non-Adherence and Gaps in Preconception Care (PMC)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11856750/"},
+        {"title": "Find a Clinic — Maternal PKU Support", "url": "https://maternalpku.weebly.com/find-a-clinic.html"}
+      ],
+      "confidence": "sourced"
+    }
+  ]
+}

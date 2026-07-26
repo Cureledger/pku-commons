@@ -1,0 +1,376 @@
+{
+  "dataset": "geo-intl",
+  "title": "International PKU markets",
+  "updated": "2026-07-26",
+  "source_note": "Market- and policy-facing facts (newborn-screening coverage, who funds formula/medical foods, scaled prevalence, sapropterin/pegvaliase availability, dominant suppliers and advocacy) compiled from ESPKU and national PKU associations, Orphanet and published PKU epidemiology reviews (global prevalence meta-analyses; the 59-country systematic review; the Arab Countries/Turkey/Iran review), WHO and international newborn-screening surveys, and BioMarin/EMA/HAS/NICE/CADTH regulatory and HTA records. Biomedical mechanism deliberately excluded. Patient-population figures scaled from incidence x national birth counts are estimates, not registry counts, and are flagged confidence:estimate; incidence ratios and screening/reimbursement status are sourced where cited.",
+  "records": [
+    {
+      "country": "United States",
+      "region": "North America",
+      "nbs_status": "universal",
+      "prevalence_note": "Incidence ~1:10,000-15,000 live births (~1:12,500 commonly cited); ~16,500 diagnosed patients is an advocacy estimate, not a registry count (estimate)",
+      "est_population": "~16,500 diagnosed (range ~15,000-20,000)",
+      "who_pays": "Patchwork: private insurance, Medicaid, and state medical-food coverage laws; ~half of states offer no/partial medical-food coverage and ~18 states no adult coverage (access barrier)",
+      "drug_access": "Kuvan: yes (FDA-approved 2007, widely reimbursed, now generic); Palynziq: yes (FDA-approved 2018 adults, expanded to age 12+ in 2026)",
+      "market_signal": "Largest, best-capitalized market with full drug pipeline, but fragmented state/payer medical-food reimbursement is the dominant access barrier",
+      "sources": [
+        {"title": "Newborn screening 50 years later: access issues faced by adults with PKU (Genetics in Medicine)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"},
+        {"title": "National PKU Alliance", "url": "https://www.npkua.org/"},
+        {"title": "BioMarin - FDA approves Palynziq for adolescents 12+", "url": "https://www.biomarin.com/news/press-releases/u-s-food-and-drug-administration-approves-biomarins-palynziq-pegvaliase-pqpz-for-adolescents-12-years-of-age-and-older-with-phenylketonuria-pku/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Canada",
+      "region": "North America",
+      "nbs_status": "universal",
+      "prevalence_note": "Province/territory-run screening; incidence ~1:12,000-15,000; ~300 affected births/yr; national living-patient total not centrally published (estimate)",
+      "est_population": "~2,000-3,000 living patients (scaled estimate); ~300 new cases/yr",
+      "who_pays": "Provincial health systems; formula/medical-food coverage varies by province (uneven access); treatment ~CAD 12,000/patient/yr and higher in adolescents/adults",
+      "drug_access": "Kuvan: yes (available; provincial reimbursement varies, CADTH-reviewed); Palynziq: limited (approved but inconsistent provincial reimbursement)",
+      "market_signal": "Universal screening undercut by province-by-province formula and drug reimbursement, a patchwork like the US; advocacy via Canadian PKU and Allied Disorders Association",
+      "sources": [
+        {"title": "Newborn Genetic Screening - PKU (CICH Profile)", "url": "https://cichprofile.ca/module/2/section/4/page/newborn-genetic-screening-specific-conditions-phenylketonuria-pku/"},
+        {"title": "PKU - Newborn Screening Ontario", "url": "https://www.newbornscreening.on.ca/en/results/screen-positive-results/disease-information/phenylketonuria-pku/"},
+        {"title": "Pegvaliase (Palynziq): CADTH Reimbursement Recommendation", "url": "https://pubmed.ncbi.nlm.nih.gov/38620365/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "United Kingdom",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "Guthrie NBS since the 1960s; incidence ~1:10,000-12,000 live births (estimate for living count)",
+      "est_population": "~2,500-3,500 living patients (scaled estimate)",
+      "who_pays": "NHS funds amino-acid formula and prescribable low-protein foods; full reimbursement on specialist-centre indication",
+      "drug_access": "Kuvan: yes (sapropterin recommended by NICE as HST, 2021); Palynziq: limited (EU/UK marketing authorisation exists but not routinely NHS-commissioned)",
+      "market_signal": "Mature single-payer market with strong advocacy (NSPKU) and home-grown supplier Vitaflo (Nestle); drug uptake gated by NICE/NHS commissioning",
+      "sources": [
+        {"title": "What is PKU - NSPKU / pku.org.uk", "url": "https://www.nspku.org/"},
+        {"title": "Special low protein foods for PKU: availability in Europe and nutritional profile", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688958/"},
+        {"title": "The Prevalence and Incidence of Congenital PKU in 59 Countries (systematic review)", "url": "https://jpr.mazums.ac.ir/article-1-352-en.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Germany",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "Universal MS/MS newborn screening; incidence ~1:6,000-10,000 live births (estimate for living count)",
+      "est_population": "~3,000-5,000 living patients (scaled estimate)",
+      "who_pays": "Statutory health insurance fully reimburses amino-acid mixtures; low-protein foods generally NOT reimbursed (partial gap)",
+      "drug_access": "Kuvan: yes (available/reimbursed); Palynziq: yes (EU-approved 2019, used and AMNOG-assessed; real-world use confirmed via OPAL study)",
+      "market_signal": "Large, well-funded market with full drug availability; low-protein-food coverage gap and AMNOG price negotiation shape margins; advocacy via DIG PKU",
+      "sources": [
+        {"title": "Special low protein foods for PKU: availability in Europe (reimbursement by country)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688958/"},
+        {"title": "European Commission Approves Palynziq (pegvaliase) for PKU age 16+", "url": "https://www.biomarin.com/news/press-releases/european-commission-approves-palynziq-pegvaliase-injection-for-treatment-of-phenylketonuria-pku-in-patients-aged-16-years-or-older/"},
+        {"title": "Global prevalence of classic PKU based on neonatal screening data", "url": "https://www.e-cep.org/journal/view.php?number=20125553578"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "France",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "National NBS via former AFDPHE network; incidence ~1:13,000-16,000 (lower than UK/Germany) (estimate for living count)",
+      "est_population": "~2,500-3,500 living patients (nationwide claims-data studies exist; scaled estimate)",
+      "who_pays": "National health insurance (Assurance Maladie) funds formula; reimbursable low-protein food list is very limited (partial gap)",
+      "drug_access": "Kuvan: yes (reimbursed); Palynziq: yes (HAS issued favourable reimbursement opinion for PKU age 16+ with Phe >600 umol/L)",
+      "market_signal": "Universal screening plus favourable Palynziq HTA opinion opens the drug market; restricted low-protein-food reimbursement is the residual friction",
+      "sources": [
+        {"title": "Haute Autorite de Sante - PALYNZIQ (pegvaliase)", "url": "https://www.has-sante.fr/jcms/p_3221966/en/palynziq-pegvaliase"},
+        {"title": "Health economic impact of PKU in France - nationwide health-insurance claims study", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11381437/"},
+        {"title": "Special low protein foods for PKU: availability in Europe (France limited list)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688958/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Italy",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "Mandatory nationwide NBS (expanded metabolic screening in law since 2016); one review reported Italy among the highest recorded PKU prevalence; incidence roughly ~1:8,000-17,000 with regional variation (estimate for living count)",
+      "est_population": "~3,000-4,500 living patients (scaled estimate)",
+      "who_pays": "National health service reimburses food for special medical purposes in full on indication of accredited rare-disease centres",
+      "drug_access": "Kuvan: yes (available); Palynziq: yes (EU-approved 2019; AIFA-assessed)",
+      "market_signal": "Full public reimbursement and the widest low-protein-food range in Europe (~256 products); home-grown supplier Dr Schar/Mevalia; strong regional metabolic centres",
+      "sources": [
+        {"title": "Italian national consensus statement on management and pharmacological treatment of PKU", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8594187/"},
+        {"title": "Special low protein foods for PKU: availability in Europe (Italy full reimbursement, 256 products)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688958/"},
+        {"title": "The Prevalence and Incidence of Congenital PKU in 59 Countries (Italy highest prevalence)", "url": "https://jpr.mazums.ac.ir/article-1-352-en.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Spain",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "Region-run (CCAA) universal NBS; incidence ~1:12,000-15,000 (estimate for living count)",
+      "est_population": "~2,000-3,000 living patients (scaled estimate)",
+      "who_pays": "National health system funds formula and medical foods on specialist indication; some regional variation across autonomous communities",
+      "drug_access": "Kuvan: yes (available); Palynziq: limited (EU-approved 2019; national reimbursement/access uneven)",
+      "market_signal": "Universal coverage with regional variation; established metabolic centres and patient federation; Nutricia/Vitaflo dominant suppliers",
+      "sources": [
+        {"title": "International Survey on Phenylketonuria Newborn Screening (Spain included)", "url": "https://www.mdpi.com/2409-515X/11/1/18"},
+        {"title": "Special low protein foods for PKU: availability in Europe", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688958/"},
+        {"title": "Global prevalence of classic PKU based on neonatal screening data", "url": "https://www.e-cep.org/journal/view.php?number=20125553578"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "country": "Netherlands",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "National NBS since 1974 (pilot 1969); relatively low incidence ~1:18,000 (estimate for living count)",
+      "est_population": "~1,000-1,500 living patients (scaled estimate)",
+      "who_pays": "National system with near-complete reimbursement of orphan products and medical foods (among the most generous in the EU)",
+      "drug_access": "Kuvan: yes (available); Palynziq: yes (EU-approved 2019; used/assessed via Zorginstituut)",
+      "market_signal": "Small but very well-covered market; home of Nutricia (Danone), the dominant global PKU formula supplier; strong metabolic infrastructure",
+      "sources": [
+        {"title": "Communication of an Abnormal Metabolic Newborn Screening Result in The Netherlands", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9571573/"},
+        {"title": "Special low protein foods for PKU: availability in Europe (NL/DE/FR reimbursement)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688958/"},
+        {"title": "European Commission Approves Palynziq (pegvaliase) for PKU age 16+", "url": "https://www.biomarin.com/news/press-releases/european-commission-approves-palynziq-pegvaliase-injection-for-treatment-of-phenylketonuria-pku-in-patients-aged-16-years-or-older/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Ireland",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "One of the world's first national NBS programmes (since 1966); highest incidence in Western Europe ~1:4,500 live births (sourced)",
+      "est_population": "~700-1,000 living patients (scaled estimate on high incidence)",
+      "who_pays": "HSE (public health system) funds formula and medical foods; delivered through specialist metabolic services",
+      "drug_access": "Kuvan: limited (available to responsive patients; access constrained); Palynziq: limited (EU-approved but not routinely funded)",
+      "market_signal": "Highest per-capita PKU burden in Western Europe on a small population; dense, engaged patient base (PKU Association of Ireland) despite constrained drug funding",
+      "sources": [
+        {"title": "What is PKU - PKU Association of Ireland", "url": "https://pku.ie/what-is-pku/"},
+        {"title": "A Practical Guide to Newborn Bloodspot Screening in Ireland (HSE)", "url": "https://www.hse.ie/eng/health/child/newbornscreening/newbornbloodspotscreening/practicalguide.pdf"},
+        {"title": "The Prevalence and Incidence of Congenital PKU in 59 Countries (Ireland high incidence)", "url": "https://jpr.mazums.ac.ir/article-1-352-en.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Nordics (Sweden, Norway, Denmark, Finland, Iceland)",
+      "region": "Europe",
+      "nbs_status": "partial",
+      "prevalence_note": "Sweden, Norway, Denmark and Iceland run universal NBS covering PKU; Finland historically had no PKU-specific national screening because incidence is exceptionally low (~1:100,000-200,000, lowest in Europe) (sourced)",
+      "est_population": "~1,000-1,500 living patients across the region (scaled estimate; Finland contributes very few)",
+      "who_pays": "Tax-funded national health systems cover formula and medical foods",
+      "drug_access": "Kuvan: yes (available across Nordic systems); Palynziq: limited (EU-approved; access varies by national HTA)",
+      "market_signal": "Well-funded universal-coverage systems but tiny, low-incidence patient pools (Finland near-zero); low volume, not a growth market",
+      "sources": [
+        {"title": "Screening for phenylketonuria in newborn in Finland (INAHTA)", "url": "https://database.inahta.org/article/7680"},
+        {"title": "International Survey on Phenylketonuria Newborn Screening (Nordic countries)", "url": "https://www.mdpi.com/2409-515X/11/1/18"},
+        {"title": "Global prevalence of classic PKU based on neonatal screening data (Finland lowest)", "url": "https://www.e-cep.org/journal/view.php?number=20125553578"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Turkey",
+      "region": "Europe/MENA",
+      "nbs_status": "universal",
+      "prevalence_note": "World's highest reported classic-PKU/HPA incidence ~1:4,000-4,500 (some regions to ~1:2,600), driven by ~20-25% consanguinity; national NBS since 1987, MS/MS-based since 2006 (sourced; count scaled)",
+      "est_population": "~300-325 new cases/yr on ~1.3M births; ~8,000-12,000 living patients (estimate)",
+      "who_pays": "National system - Social Security Institution (SGK, ~95% coverage) reimburses PKU formula, medical foods and listed drugs",
+      "drug_access": "Kuvan: yes (sapropterin available/used, published Turkish cohorts); Palynziq: limited (no confirmed SGK reimbursement found)",
+      "market_signal": "Largest high-incidence market in the set: universal payer plus huge patient base drives strong medical-food demand, though SGK price/volume controls compress margins",
+      "sources": [
+        {"title": "Prevalence of PKU in Arab Countries, Turkey, and Iran (El-Metwally 2018)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5932526/"},
+        {"title": "Sapropterin treatment in Turkish hyperphenylalaninemia patients", "url": "https://pubmed.ncbi.nlm.nih.gov/26701937/"},
+        {"title": "SGK reimbursement - PPRI Turkey pharma system profile", "url": "https://ppri.goeg.at/sites/ppri.goeg.at/files/inline-files/TURKEY_0.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Poland",
+      "region": "Europe",
+      "nbs_status": "universal",
+      "prevalence_note": "NBS since 1965, mandatory nationwide for decades; classic-PKU incidence ~1:7,000-8,000; genetically homogeneous (R408W ~60% of alleles) (sourced; count scaled)",
+      "est_population": "~45-55 new cases/yr on ~350k births; ~2,000-3,000 living patients (estimate)",
+      "who_pays": "National system - NFZ (Narodowy Fundusz Zdrowia) reimburses medicines and foods for special medical purposes from public funds",
+      "drug_access": "Kuvan: yes (EU-approved, available; reimbursement narrower than diet); Palynziq: limited (EU-approved age 16+ but access/reimbursement constrained)",
+      "market_signal": "Stable EU-regulated single-payer market with mature NBS and homogeneous genetics; predictable but modest, price-regulated demand",
+      "sources": [
+        {"title": "The Prevalence and Incidence of Congenital PKU in 59 Countries (systematic review)", "url": "https://jpr.mazums.ac.ir/article-1-352-en.html"},
+        {"title": "25 years of newborn screening for PKU in Poland", "url": "https://www.sciencedirect.com/science/article/abs/pii/092561649390015B"},
+        {"title": "NFZ reimbursement under the cross-border directive", "url": "https://kpk.nfz.gov.pl/en/reimbursement-under-the-directive.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Russia",
+      "region": "Europe/Eurasia",
+      "nbs_status": "universal",
+      "prevalence_note": "2023 expansion from 5 to 36 conditions covered ~98.5% of the birth cohort; PKU is the most prevalent IMD at ~1:4,600 (538 confirmed among 2.47M screened, 2023-24) (sourced; count scaled)",
+      "est_population": "~270 new cases/yr on ~1.2M births; ~8,000-12,000 living patients (registry-scale estimate)",
+      "who_pays": "National system - federal/regional state provision of Phe-restricted diet therapy and formula; diet remains the mainstay",
+      "drug_access": "Kuvan: no/limited (BH4 historically not registered/used; high non-responder rate); Palynziq: no (not available; Western-pharma access further constrained by post-2022 sanctions)",
+      "market_signal": "Large patient base but BioMarin franchise effectively closed (no registration plus sanctions); opportunity is domestic/import-substitute medical foods and diet tools, not branded pharma",
+      "sources": [
+        {"title": "Two Years of Expanded Newborn Screening in Russia (2023-24, IJNS)", "url": "https://doi.org/10.3390/ijns12010013"},
+        {"title": "Molecular/biochemical characterization of HPA, expanded NBS 2023-24 (IJMS)", "url": "https://doi.org/10.3390/ijms27125597"},
+        {"title": "Genotypes of 2579 Russian PKU patients - high BH4 non-response, BH4 not used", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342299/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Saudi Arabia",
+      "region": "MENA",
+      "nbs_status": "universal",
+      "prevalence_note": "National NBS since 2005 and premarital screening since 2003; consanguinity-driven burden; classic-PKU ~1:14,600 births (broader HPA higher) (sourced; count scaled)",
+      "est_population": "~35 new PKU cases/yr on ~500k births; ~1,000-2,000 living patients (estimate)",
+      "who_pays": "National system - MOH-funded specialist centres (e.g., King Faisal Specialist Hospital) provide screening, formula and management",
+      "drug_access": "Kuvan: yes/limited (used within tertiary genetics centres); Palynziq: limited (confined to specialist centres, no confirmed national reimbursement)",
+      "market_signal": "Wealthy state payer with genetics-centre concentration means high per-patient spend on a small cohort; premarital screening caps future incidence growth",
+      "sources": [
+        {"title": "PKU in Saudi Arabia: Diagnosis, Genetics, Therapeutic Strategies (Biology 2025)", "url": "https://www.mdpi.com/2079-7737/15/14/1122"},
+        {"title": "Prevalence of PKU in Arab Countries, Turkey, and Iran (El-Metwally 2018)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5932526/"},
+        {"title": "Expanded Newborn Screening Program in Saudi Arabia - incidence of screened disorders", "url": "https://www.researchgate.net/publication/315629305"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Brazil",
+      "region": "South America",
+      "nbs_status": "universal",
+      "prevalence_note": "National 'Teste do Pezinho' via SUS, mandatory 30+ years; incidence ~1:25,000 (Rio de Janeiro data), lower than North America (sourced; national extrapolation)",
+      "est_population": "~1,000-3,000+ patients (scaled from ~2.5M births/yr; imprecise, estimate)",
+      "who_pays": "National public system (SUS) funds diet formula and follow-up; access to adequate treatment after diagnosis is the cited bottleneck",
+      "drug_access": "Kuvan: limited (ANVISA-approved from 30 days, but SUS PCDT since 2018 funds mainly pregnant women / those who may become pregnant); Palynziq: no (not approved)",
+      "market_signal": "Strong universal screening but post-diagnosis treatment access is the bottleneck and drug funding is narrowly limited to pregnancy; large underserved base",
+      "sources": [
+        {"title": "Fenilcetonuria: acesso ao tratamento adequado e o principal desafio (Portal Hospitais Brasil)", "url": "https://portalhospitaisbrasil.com.br/artigo-fenilcetonuria-acesso-ao-tratamento-adequado-e-principal-desafio-apos-diagnostico-confirmado-no-teste-do-pezinho/"},
+        {"title": "SUS fornece medicamento para gestantes com fenilcetonuria (NUPAD/UFMG)", "url": "https://www.nupad.medicina.ufmg.br/sus-fornece-medicamento-para-gestantes-com-fenilcetonuria/"},
+        {"title": "Mutation analysis PAH gene, Rio de Janeiro (incidence 1:25,000)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6081236/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Mexico",
+      "region": "North America (Latin America)",
+      "nbs_status": "partial",
+      "prevalence_note": "PKU in Ministry of Health panel since 2011 but coverage fragmented/incomplete and tied to employment-based insurance; detected incidence ~1:27,500 likely reflects under-screening (sourced; true rate may be higher)",
+      "est_population": "~1,000-2,000 patients (rough scaled estimate; under-ascertainment likely)",
+      "who_pays": "Fragmented public systems (IMSS/ISSSTE/Secretaria de Salud) plus private and out-of-pocket; no uniform national medical-food entitlement (major barrier)",
+      "drug_access": "Kuvan: limited/unclear (registered but access not systematic); Palynziq: no (not approved in Latin America)",
+      "market_signal": "Incomplete screening plus fragmented payer system leaves many undetected or unfunded; biggest access-infrastructure opportunity in Latin America",
+      "sources": [
+        {"title": "Newborn screening in Mexico and Latin America: present and future", "url": "https://www.oaepublish.com/articles/rdodj.2024.02"},
+        {"title": "Epidemiologia de la fenilcetonuria obtenida mediante tamiz neonatal", "url": "https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=84881"},
+        {"title": "Outcome of Expanded Newborn Screening, Northeast Mexico", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11418224/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Argentina",
+      "region": "South America",
+      "nbs_status": "universal",
+      "prevalence_note": "Mandatory by law (Law 23.413 since 1986; Law 26.279 requires screening in public and private hospitals); incidence ~1:12,000-13,000 (sourced; patient total advocacy estimate)",
+      "est_population": "~700 people with PKU (nationally cited)",
+      "who_pays": "National mandate - public system plus obras sociales / private insurers required to cover reduced-Phe formula (standard funded treatment)",
+      "drug_access": "Kuvan: limited/unclear (diet-formula-centric model, sapropterin not prominently reimbursed); Palynziq: no (not approved in Latin America)",
+      "market_signal": "Strong legal screening/coverage mandate and organized infrastructure (FEI), but small, diet-focused market with limited pharma penetration",
+      "sources": [
+        {"title": "Modelo de atencion de pacientes con fenilcetonuria (PKU) en Argentina", "url": "https://www.redalyc.org/pdf/4236/423640339005.pdf"},
+        {"title": "Ley 26.279 (InfoLEG)", "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/131902/norma.htm"},
+        {"title": "Pesquisa neonatal (Argentina.gob.ar)", "url": "https://www.argentina.gob.ar/salud/glosario/pesquisaneonatal"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Australia",
+      "region": "Oceania",
+      "nbs_status": "universal",
+      "prevalence_note": "National newborn bloodspot screening across all states/territories; incidence ~1:10,000 births (per MDDA) (estimate for living count)",
+      "est_population": "~2,000-3,000 living patients (scaled estimate); ~30-40 new cases/yr",
+      "who_pays": "Public health system; Kuvan reimbursed on the Pharmaceutical Benefits Scheme for responsive patients; medical foods via state metabolic services (coverage varies)",
+      "drug_access": "Kuvan: yes (sapropterin PBS-listed for responsive PKU); Palynziq: no/limited (not PBS-listed)",
+      "market_signal": "Mature universal-screening market with public Kuvan reimbursement but no funded pegvaliase; established metabolic-clinic network and MDDA advocacy",
+      "sources": [
+        {"title": "Phenylketonuria - Metabolic Dietary Disorders Association (MDDA)", "url": "https://mdda.org.au/diagnosis/phenylketonuria/"},
+        {"title": "Clinical Review Report: Sapropterin dihydrochloride (Kuvan)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK533816/"},
+        {"title": "Newborn Screening and Treatment of PKU: Health Outcomes and Cost-Effectiveness", "url": "https://www.mdpi.com/2227-9067/8/5/381"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Japan",
+      "region": "Asia",
+      "nbs_status": "universal",
+      "prevalence_note": "Universal NBS since 1977; very low incidence - hyperphenylalaninemia ~1:80,000, classic PKU rarer (~1:125,000+) (sourced)",
+      "est_population": "Only a handful of new PKU cases/yr; small prevalent cohort (low hundreds nationally)",
+      "who_pays": "National system - medical foods and BH4 therapy covered under universal health insurance",
+      "drug_access": "Kuvan: yes (originated in Japan as Biopten, approved and reimbursed since the 1990s); Palynziq: no/limited (not established in the Japanese market)",
+      "market_signal": "Mature, saturated, low-incidence market with screening and reimbursement already solved; low volume, not a growth market",
+      "sources": [
+        {"title": "Long-Term Neurological Outcomes of Adult PKU Patients before/after NBS in Japan", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8167766/"},
+        {"title": "Long-term follow-up of tetrahydrobiopterin (Biopten) therapy in Japan", "url": "https://pubmed.ncbi.nlm.nih.gov/22832064/"},
+        {"title": "Mild hyperphenylalaninemia identified by newborn screening in Japan", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006226/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "China",
+      "region": "Asia",
+      "nbs_status": "partial",
+      "prevalence_note": "Screening exceeds 99% in developed provinces but rural/western coverage lags and detection is delayed; national incidence ~1:11,000-11,600 (higher in the north) (sourced; count scaled)",
+      "est_population": "~800-900 new cases/yr on ~9M births; tens of thousands prevalent plus an undiagnosed rural tail (estimate)",
+      "who_pays": "Mixed/out-of-pocket - no unified national coverage; special-food reimbursement is provincial and unstable (some regions ~70%, others none), driving heavy household burden",
+      "drug_access": "Kuvan: limited/no (not broadly approved/reimbursed; management is diet-based); Palynziq: no",
+      "market_signal": "Largest absolute Asian patient pool; core barriers are patchy reimbursement and rural diagnosis gaps - opportunity in affordable medical foods and access infrastructure",
+      "sources": [
+        {"title": "Insurance Reimbursement for Special Foods and Phe Levels in PKU in China", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11154153/"},
+        {"title": "Household financial burden of PKU in China", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5393103/"},
+        {"title": "Newborn screening for inborn errors of metabolism in mainland China: 30 years", "url": "https://pubmed.ncbi.nlm.nih.gov/23430943/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "India",
+      "region": "Asia",
+      "nbs_status": "limited",
+      "prevalence_note": "No national NBS program; screening is hospital-level, private-package or state pilot only, so the vast majority of ~23M annual births are unscreened; no reliable national incidence (South-Asian estimates ~1:18,000-35,000) (estimate/unknown)",
+      "est_population": "Genuinely unknown; potentially several hundred to >1,000 affected births/yr, overwhelmingly undiagnosed/untreated",
+      "who_pays": "Out-of-pocket - formula and medical foods largely self-funded; no systematic public coverage",
+      "drug_access": "Kuvan: no/limited; Palynziq: no",
+      "market_signal": "Largest undiagnosed/untreated latent population; huge unmet need but weak diagnosis pipeline and low ability-to-pay - screening infrastructure is the gating problem, not demand",
+      "sources": [
+        {"title": "Status of Newborn Screening and Inborn Errors of Metabolism in India", "url": "https://pubmed.ncbi.nlm.nih.gov/29736696/"},
+        {"title": "Implementing and validating newborn screening for IEM in South India (2-yr study)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11816103/"},
+        {"title": "Improving newborn screening in India: gaps and quality control", "url": "https://www.sciencedirect.com/science/article/abs/pii/S0009898124001220"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "country": "South Korea",
+      "region": "Asia",
+      "nbs_status": "universal",
+      "prevalence_note": "Means-tested program from 1991, extended to all newborns in 1997 (MS/MS-based); low incidence ~1:41,000-80,500 (higher than Japan) (sourced)",
+      "est_population": "Only a few new PKU cases/yr on ~230k births; small prevalent cohort (low hundreds)",
+      "who_pays": "National system - screening and management delivered through universal National Health Insurance",
+      "drug_access": "Kuvan: limited (registered/used in select responsive patients; management largely diet-based); Palynziq: no",
+      "market_signal": "Small, well-covered, low-incidence market with screening solved; niche volume, not a growth opportunity",
+      "sources": [
+        {"title": "Newborn screening in Korea", "url": "https://pubmed.ncbi.nlm.nih.gov/15906703/"},
+        {"title": "Global prevalence of classic PKU from neonatal screening (incl. Korea)", "url": "https://www.e-cep.org/journal/view.php?number=20125553578"},
+        {"title": "The molecular basis of phenylketonuria in Koreans", "url": "https://www.researchgate.net/publication/8214383_The_molecular_basis_of_phenylketonuria_in_Koreans"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "country": "Rest of World (Sub-Saharan Africa, parts of Southeast Asia, other low-coverage regions)",
+      "region": "Global",
+      "nbs_status": "none",
+      "prevalence_note": "Most of Sub-Saharan Africa has little to no NBS and SE Asia is uneven; PKU lower in African-ancestry populations (~1:90,000) vs global ~1:10,000, but large regions have no screening data at all (estimate)",
+      "est_population": "Largely uncounted; Sub-Saharan Africa bears ~30% of the global congenital-disorder burden with near-absent detection (large latent undiagnosed population)",
+      "who_pays": "Out-of-pocket - formula and medical foods almost entirely self-funded; minimal public or insurance coverage",
+      "drug_access": "Kuvan: no; Palynziq: no",
+      "market_signal": "Structural infrastructure gap (labs, cold chain, no screening) is the binding constraint; WHO is pushing NBS scale-up - long-horizon opportunity, near-term access very hard",
+      "sources": [
+        {"title": "Globalizing newborn screening: bridging gaps in diagnosis and treatment", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12571786/"},
+        {"title": "WHO urges scale up of newborn screening (2026)", "url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects"},
+        {"title": "Global prevalence of classic PKU (ancestry variation)", "url": "https://www.e-cep.org/journal/view.php?number=20125553578"}
+      ],
+      "confidence": "estimate"
+    }
+  ]
+}

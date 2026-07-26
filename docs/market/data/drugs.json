@@ -1,0 +1,314 @@
+{
+  "dataset": "drugs",
+  "title": "PKU drugs, pipeline & clinical trials",
+  "updated": "2026-07-26",
+  "source_note": "Market-facing facts (approval status, sponsor, indication scope, pricing/market size, trial phase) compiled from company press releases and investor materials (BioMarin, PTC Therapeutics, Otsuka/Jnana, Synlogic, Homology/Q32, Sanofi, Moderna), FDA approval records, ClinicalTrials.gov, and biotech trade press (Fierce, BioPharma Dive, pharmaphorum). Pricing figures are US list-price estimates unless noted; annualized drug costs vary widely by weight-based dosing. Mechanism-of-action biochemistry deliberately excluded. Some prices/market sizes are analyst estimates and marked accordingly.",
+  "records": [
+    {
+      "name": "Kuvan (sapropterin dihydrochloride)",
+      "kind": "approved-drug",
+      "sponsor": "BioMarin",
+      "modality": "oral small molecule (BH4 cofactor)",
+      "status": "FDA-approved 2007; lost US market exclusivity Oct 2020; now faces generic competition",
+      "indication": "hyperphenylalaninemia due to BH4-responsive PKU, patients 1 month and older, as adjunct to a Phe-restricted diet",
+      "market_note": "Historically BioMarin's flagship, generating ~$400-450M/yr at peak. Full-year 2025 Kuvan net product revenue was $100M, down ~17% Y/Y due to generic erosion. Original branded list price frequently cited around $60,000-$100,000/yr depending on weight-based dose.",
+      "sources": [
+        {"title": "BioMarin Reports Fourth Quarter and Full-year 2025 Financial and Operating Results", "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results-302694181.html"},
+        {"title": "BioMarin Announces Kuvan (sapropterin) Patent Challenge Settlement", "url": "https://www.biomarin.com/news/press-releases/biomarin-announces-kuvanr-sapropterin-dihydrochloride-patent-challenge-settlement/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Sapropterin dihydrochloride (Par / Endo authorized & ANDA generic)",
+      "kind": "approved-drug",
+      "sponsor": "Par Pharmaceutical (Endo)",
+      "modality": "oral small molecule (BH4 cofactor) — generic of Kuvan",
+      "status": "Launched Oct 2020 under 2017 BioMarin patent-litigation settlement; first US generic of Kuvan tablets and powder",
+      "indication": "same as Kuvan — BH4-responsive PKU",
+      "market_note": "Par was first to launch generic tablet and powder formulations Oct 1, 2020, opening price competition that drove Kuvan brand revenue down. Specific generic net pricing not publicly disclosed; generics typically discount materially vs. brand list price.",
+      "sources": [
+        {"title": "BioMarin Announces Kuvan (sapropterin) Patent Challenge Settlement (Par, 2017)", "url": "https://www.prnewswire.com/news-releases/biomarin-announces-kuvan-sapropterin-dihydrochloride-patent-challenge-settlement-300439214.html"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Sapropterin dihydrochloride (Dr. Reddy's generic)",
+      "kind": "approved-drug",
+      "sponsor": "Dr. Reddy's Laboratories",
+      "modality": "oral small molecule (BH4 cofactor) — generic of Kuvan",
+      "status": "Powder for oral solution 100mg launched April 2021 (therapeutic-equivalent AB-rated generic); tablets under 2015 BioMarin settlement license",
+      "indication": "same as Kuvan — BH4-responsive PKU",
+      "market_note": "Dr. Reddy's followed Par into the US market on tablet and later powder formulations, adding to generic competition. Dr. Reddy's also supplies the sapropterin API used by Cycle Pharmaceuticals' branded Javygtor. Generic net pricing not disclosed.",
+      "sources": [
+        {"title": "Dr. Reddy's Announces Launch of Generic Sapropterin Dihydrochloride Powder in US", "url": "https://www.pharmacytimes.com/view/dr-reddy-s-laboratories-announces-launch-of-generic-version-of-sapropterin-dihydrochloride-powder-in-us-market"},
+        {"title": "BioMarin and Dr Reddy's reach settlement over Kuvan tablets litigation", "url": "https://www.thepharmaletter.com/article/biomarin-and-dr-reddy-s-reach-settlement-over-kuvan-tablets-litigation"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Javygtor (sapropterin dihydrochloride)",
+      "kind": "approved-drug",
+      "sponsor": "Cycle Pharmaceuticals (with Dr. Reddy's)",
+      "modality": "oral small molecule (BH4 cofactor) — branded sapropterin",
+      "status": "FDA-approved / launched US Oct 2022; branded reformulation/repositioning of sapropterin with patient-support wrapper (Cycle Vita)",
+      "indication": "PKU patients responsive to sapropterin who want to remain on BH4 therapy",
+      "market_note": "Branded sapropterin tablet and powder marketed by Cycle Pharmaceuticals via partnership with Dr. Reddy's, differentiating on individualized patient support services rather than molecule. Typically positioned as non-preferred on payer formularies. List price not prominently disclosed.",
+      "sources": [
+        {"title": "New US product JAVYGTOR (sapropterin) launches for PKU treatment — Cycle Pharma", "url": "https://cyclepharma.com/news/new-us-product-javygtor-sapropterin-dihydrochloride-tablets-and-powder-launches-for-phenylketonuria-pku-treatment/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Palynziq (pegvaliase-pqpz)",
+      "kind": "approved-drug",
+      "sponsor": "BioMarin",
+      "modality": "enzyme substitution therapy (PEGylated recombinant phenylalanine ammonia lyase), subcutaneous injection",
+      "status": "FDA-approved May 2018 for adults; adolescent (12-17) label expansion approved 2026 (PEGASUS Phase 3; PDUFA Feb 28, 2026)",
+      "indication": "adults with PKU with uncontrolled blood Phe >600 umol/L on existing management; now extended to adolescents 12-17",
+      "market_note": "Launched 2018 at ~$192,000/yr average list price (weight-based dosing can push individual cost higher). Full-year 2025 net product revenue $433M, +22% Y/Y (fourth straight quarter of 20%+ growth). Largest share of PKU treatment market (~68% in 2024 per Grand View). Analysts have cited peak commercial opportunity around $1B.",
+      "sources": [
+        {"title": "BioMarin scores FDA nod for Palynziq, but its $192K launch could be tough — Fierce Pharma", "url": "https://www.fiercepharma.com/pharma/biomarin-scores-long-sought-fda-nod-for-rare-disease-drug-but-can-it-hit-blockbuster-status"},
+        {"title": "BioMarin Reports Fourth Quarter and Full-year 2025 Financial and Operating Results", "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results-302694181.html"},
+        {"title": "FDA Approves BioMarin's PALYNZIQ for Adolescents 12+ with PKU", "url": "https://finviz.com/news/325879/us-food-and-drug-administration-approves-biomarins-palynziq-pegvaliase-pqpz-for-adolescents-12-years-of-age-and-older-with-phenylketonuria-pku"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Sephience (sepiapterin)",
+      "kind": "approved-drug",
+      "sponsor": "PTC Therapeutics",
+      "modality": "oral small molecule (PAH activator / BH4 precursor), powder for reconstitution",
+      "status": "FDA-approved July 28, 2025; also approved EU and Japan within ~6 months. Third-ever US-approved PKU therapy.",
+      "indication": "hyperphenylalaninemia in adult and pediatric patients 1 month and older with sepiapterin-responsive PKU",
+      "market_note": "Financial-market estimates put the annual price around $492,000/yr (PTC had not formally published US list price as of Sept 2025). Pharmacy pricing seen ~$3,824 per 30x250mg and ~$15,270 per 30x1000mg packs (Drugs.com). Broad age label (from 1 month) positions it to compete with sapropterin on the BH4-responsive segment.",
+      "sources": [
+        {"title": "PTC Therapeutics Announces FDA Approval of Sephience (sepiapterin) for PKU", "url": "https://ir.ptcbio.com/news-releases/news-release-details/ptc-therapeutics-announces-fda-approval-sephiencetm-sepiapterin"},
+        {"title": "Sephience Prices, Coupons & Patient Assistance — Drugs.com", "url": "https://www.drugs.com/price-guide/sephience"},
+        {"title": "FDA approves sepiapterin to treat PKU — Contemporary Pediatrics", "url": "https://www.contemporarypediatrics.com/view/fda-approves-sepiapterin-to-treat-phenylketonuria-in-adult-pediatric-patients"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Repinatrabit / JNT-517",
+      "kind": "pipeline",
+      "sponsor": "Otsuka Pharmaceutical (acquired Jnana Therapeutics 2024)",
+      "modality": "oral small molecule (SLC6A19 inhibitor; renal Phe reabsorption blocker)",
+      "status": "Phase 3 (global registrational). Otsuka initiated Phase 3 (NCT06971731) with actual start Oct 20, 2025; recruiting. Positive Phase 1b/2 proof-of-concept reported 2024.",
+      "indication": "PKU (potential first-in-class oral therapy that increases urinary Phe excretion, diet-independent mechanism)",
+      "market_note": "Otsuka acquired Jnana for ~$800M upfront plus up to $325M milestones (~$1.1B total) in Sept 2024, explicitly for JNT-517. Has FDA orphan drug and rare pediatric disease designations plus EMA orphan designation. Seen as a leading late-stage oral challenger to BioMarin's franchise.",
+      "sources": [
+        {"title": "Otsuka to Acquire Jnana Therapeutics — includes JNT-517 for PKU", "url": "https://www.otsuka.co.jp/en/company/newsreleases/2024/20240801_1.html"},
+        {"title": "Otsuka buys Jnana and PKU drug in $1.1bn deal — pharmaphorum", "url": "https://pharmaphorum.com/news/otsuka-buys-jnana-and-pku-drug-11bn-deal"},
+        {"title": "Otsuka Initiates Global Phase 3 Trial Evaluating Repinatrabit for PKU", "url": "https://otsuka-us.com/news/otsuka-initiates-global-phase-3-clinical-trial-evaluating-repinatrabit-treatment"},
+        {"title": "A Study of JNT-517 in Participants With PKU (NCT06971731)", "url": "https://clinicaltrials.gov/study/NCT06971731"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "BMN 307",
+      "kind": "pipeline",
+      "sponsor": "BioMarin",
+      "modality": "AAV5 gene therapy (delivers PAH gene to liver)",
+      "status": "Discontinued / halted. PHEARLESS Phase 1/2 (NCT04480567) dosed first patient 2020; FDA clinical hold Sept 2021 after preclinical mouse tumorigenicity signal. Program not advanced; BioMarin deprioritized PKU gene therapy.",
+      "indication": "adults with PKU / PAH deficiency (was aiming for a one-time durable treatment)",
+      "market_note": "Once positioned as the front-runner in the PKU gene-therapy race with FDA Fast Track. The 2021 clinical hold on a tumorigenicity signal effectively stalled the program and reset the competitive field, leaving no clear gene-therapy leader.",
+      "sources": [
+        {"title": "US FDA Placed a Clinical Hold on BMN 307 PHEARLESS Phase 1/2 Gene Therapy Study", "url": "https://www.biomarin.com/news/press-releases/u-s-fda-placed-a-clinical-hold-on-bmn-307-phearless-phase-1-2-gene-therapy-study-in-adults-with-pku-based-on-interim-pre-clinical-study-findings/"},
+        {"title": "BMN 307 Trial for PKU Stopped Over Safety Issues — Patient Worthy", "url": "https://patientworthy.com/2021/09/28/bmn-307-trial-pku-stopped-safety-concerns/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "SYNB1934 (labafenogene marselecobac)",
+      "kind": "pipeline",
+      "sponsor": "Synlogic",
+      "modality": "synthetic biology — engineered live biotic (oral probiotic strain that degrades Phe in gut)",
+      "status": "Discontinued Feb 2024. Synpheny-3 pivotal study stopped after internal review found it unlikely to meet primary endpoint (not a safety issue). Synlogic ceased operations and cut >90% of workforce.",
+      "indication": "PKU (next-generation strain, oral, diet-adjunct)",
+      "market_note": "The lead of Synlogic's synthetic-biotic platform; its Phase 3 failure ended the company as a going concern and removed the probiotic modality from the near-term PKU market. Positive Phase 2 data (2023) had advanced it to Phase 3 before the pivotal miss.",
+      "sources": [
+        {"title": "Synlogic Announces Decision to Discontinue Synpheny-3 Study", "url": "https://investor.synlogictx.com/news-releases/news-release-details/synlogic-announces-decision-discontinue-synpheny-3-study-and"},
+        {"title": "Synlogic shuts down after PKU drug fails phase 3 trial — pharmaphorum", "url": "https://pharmaphorum.com/rd/synlogic-shuts-down-after-pku-drug-fails-phase-3-trial"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "SYNB1618",
+      "kind": "pipeline",
+      "sponsor": "Synlogic",
+      "modality": "synthetic biology — engineered live biotic (first-generation oral Phe-degrading strain)",
+      "status": "Discontinued. First-generation strain superseded by SYNB1934; Synlogic's PKU program and the company wound down in 2024.",
+      "indication": "PKU (oral, diet-adjunct)",
+      "market_note": "Original clinical PKU biotic; Phase 2 enrolled it alongside SYNB1934 (11 vs 9 patients). Company selected SYNB1934 to carry into Phase 3, then discontinued the whole program in 2024.",
+      "sources": [
+        {"title": "Efficacy and safety of a synthetic biotic for PKU: a phase 2 clinical trial — PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/37770764/"},
+        {"title": "Synlogic Announces Positive Top-Line Phase 2 Data for PKU; SYNB1934 Advances to Phase 3", "url": "https://investor.synlogictx.com/news-releases/news-release-details/synlogic-announces-positive-top-line-phase-2-data"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "HMI-102",
+      "kind": "pipeline",
+      "sponsor": "Homology Medicines (now Q32 Bio after reverse merger)",
+      "modality": "AAVHSC gene therapy (PAH gene delivery)",
+      "status": "Discontinued. IND withdrawn Sept 2023 (FDA acknowledged Nov 2023). pheNIX Phase 1/2 showed some biologic activity but program dropped when Homology pivoted then reverse-merged with Q32 Bio.",
+      "indication": "adults with classical PKU",
+      "market_note": "Was among the earliest PKU gene therapies in the clinic (first data reported 2020). Homology exited PKU/gene therapy entirely via reverse merger with immunology company Q32 Bio, removing it from the market race.",
+      "sources": [
+        {"title": "Homology enters reverse merger with Q32 Bio — BioPharma Dive", "url": "https://www.biopharmadive.com/news/homology-gene-editing-biotech-reverse-merger-q32-bio/700074/"},
+        {"title": "Homology Trades in Gene Delivery for Gene Editing to Treat PKU — CGTLive", "url": "https://www.cgtlive.com/view/homology-trades-gene-delivery-gene-editing-phenylketonuria"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "HMI-103",
+      "kind": "pipeline",
+      "sponsor": "Homology Medicines (now Q32 Bio after reverse merger)",
+      "modality": "AAVHSC in vivo nuclease-free gene editing (PAH)",
+      "status": "Discontinued. pheEDIT Phase 1 (adults with classical PKU) inactivated Sept 2023; IND withdrawn March 2024.",
+      "indication": "adults with classical PKU",
+      "market_note": "Homology's next-gen gene-editing successor to HMI-102; discontinued alongside the company's exit from PKU via the Q32 Bio reverse merger. No longer an active market asset.",
+      "sources": [
+        {"title": "Homology Medicines to Reverse Merge with Q32 Bio — Global Genes", "url": "https://globalgenes.org/raredaily/homology-medicines-to-reverse-merge-with-q32-bio/"},
+        {"title": "Homology Trades in Gene Delivery for Gene Editing to Treat PKU — CGTLive", "url": "https://www.cgtlive.com/view/homology-trades-gene-delivery-gene-editing-phenylketonuria"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "SAR444836 (Sanofi PKU gene therapy)",
+      "kind": "pipeline",
+      "sponsor": "Sanofi",
+      "modality": "AAV gene therapy (human PAH gene transfer), single IV administration",
+      "status": "Phase 1/2 (NCT05972629), active/not-recruiting as of 2025. Started Aug 2023; generally well-tolerated with transient liver enzyme elevations reported.",
+      "indication": "adults with PKU (aim: reduce Phe and potentially eliminate Phe-restricted diet)",
+      "market_note": "One of the few remaining active PKU gene-therapy programs after BioMarin's and Homology's setbacks. Backed by a large pharma with rare-disease commercial reach, making it a credible gene-therapy contender if Phase 1/2 supports advancement.",
+      "sources": [
+        {"title": "Phase 1/2 Open-label Study of SAR444836 in Adults With PKU (NCT05972629)", "url": "https://clinicaltrials.gov/study/NCT05972629"},
+        {"title": "Sanofi's Gene Therapy Study for PKU — The Globe and Mail", "url": "https://www.theglobeandmail.com/investing/markets/stocks/SNY/pressreleases/33819361/sanofis-gene-therapy-study-for-pku-a-potential-game-changer/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "mRNA-3283",
+      "kind": "pipeline",
+      "sponsor": "Moderna",
+      "modality": "mRNA therapeutic (encodes PAH; lipid nanoparticle delivery, repeat-dose maintenance)",
+      "status": "Early clinical / development stage. Part of Moderna's rare-disease franchise; disclosed as a PKU candidate (originally profiled ~2021).",
+      "indication": "PKU (repeat-dose maintenance approach, alternative to one-time gene therapy)",
+      "market_note": "Moderna groups PKU with other rare metabolic mRNA programs (MMA, PA, GSD1a) as a portfolio it has framed as a ~$10B opportunity. mRNA maintenance dosing is a distinct modality bet vs. one-time gene therapy; commercial timing remains early.",
+      "sources": [
+        {"title": "Moderna's therapeutics: Phenylketonuria (PKU) (mRNA-3283) program detail", "url": "https://s29.q4cdn.com/435878511/files/doc_presentations/program-detail/therapeutics/PKU-(11-04-21).pdf"},
+        {"title": "Moderna Announces Expansion of mRNA Research Across Rare Disease Franchises — Pharmacy Times", "url": "https://www.pharmacytimes.com/view/moderna-announces-expansion-of-mrna-research-across-respiratory-oncology-rare-disease-franchises"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "NGGT002",
+      "kind": "pipeline",
+      "sponsor": "NGGT Inc.",
+      "modality": "AAV gene therapy (PAH), single-dose",
+      "status": "Phase 1/2 dose-escalation. US PHEdom study (NCT06332807) began recruiting Jan 2025, est. completion Dec 2030; parallel China trials (NCT06687733 sponsor-initiated, NCT06061614 investigator-initiated).",
+      "indication": "adults with classic PKU",
+      "market_note": "An emerging (China/US) gene-therapy entrant keeping the one-time-cure modality alive after larger players stumbled. Early stage; no pricing or commercial data yet.",
+      "sources": [
+        {"title": "AAV Gene Therapy Clinical Study in Adult Classic PKU (PHEdom) — NCT06332807", "url": "https://clinicaltrials.gov/study/NCT06332807"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PTC923 / sepiapterin (pre-approval program)",
+      "kind": "trial",
+      "sponsor": "PTC Therapeutics",
+      "modality": "oral small molecule (PAH activator / BH4 precursor)",
+      "status": "Phase 3 APHENITY completed; supported FDA approval July 2025 (now marketed as Sephience). Phase 3 showed significant blood-Phe reductions across age groups at 6 weeks.",
+      "indication": "PKU across pediatric and adult age groups (sepiapterin-responsive)",
+      "market_note": "This is the development-program record behind the approved Sephience product; retained for pipeline-to-market traceability. Rapid multi-region approval (US/EU/Japan within ~6 months) signals aggressive global commercialization.",
+      "sources": [
+        {"title": "sepiapterin (PTC 923) — DrugHunter", "url": "https://drughunter.com/molecule/sepiapterin-ptc-923"},
+        {"title": "FDA Approves Sepiapterin for Adults, Children With PKU — Pharmacy Times", "url": "https://www.pharmacytimes.com/view/fda-approves-sepiapterin-for-adults-children-living-with-phenylketonuria"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PEGASUS (Palynziq adolescent Phase 3)",
+      "kind": "trial",
+      "sponsor": "BioMarin",
+      "modality": "enzyme substitution therapy (pegvaliase)",
+      "status": "Phase 3 met primary endpoint (statistically significant blood-Phe reduction vs diet alone in 12-17 yr olds); supported 2026 adolescent label expansion (PDUFA Feb 28, 2026).",
+      "indication": "adolescents 12-17 with PKU",
+      "market_note": "Label-expansion trial that grows Palynziq's addressable population beyond adults, supporting continued double-digit revenue growth of BioMarin's leading PKU product.",
+      "sources": [
+        {"title": "BMRN's PKU Drug Palynziq Meets Goal in Late-Stage Pediatric Study — Yahoo Finance", "url": "https://finance.yahoo.com/news/bmrns-pku-drug-palynziq-meets-141400981.html"},
+        {"title": "FDA Accepts BioMarin's PALYNZIQ sBLA for Priority Review (Adolescents 12-17)", "url": "https://www.biomarin.com/news/press-releases/fda-accepts-biomarins-palynziq-pegvaliase-pqpz-supplemental-biologics-license-application-for-priority-review-to-expand-use-to-adolescents-aged-12-17-with-phenylketonuria/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Repinatrabit Phase 3 (NCT06971731)",
+      "kind": "trial",
+      "sponsor": "Otsuka Pharmaceutical",
+      "modality": "oral small molecule (SLC6A19 inhibitor)",
+      "status": "Phase 3, recruiting (actual start Oct 20, 2025). Twice-daily oral dosing; efficacy/safety/tolerability in PKU participants.",
+      "indication": "PKU",
+      "market_note": "The registrational trial that would bring the first diet-independent oral PKU therapy to market if positive; central to Otsuka's rationale for the ~$1.1B Jnana acquisition.",
+      "sources": [
+        {"title": "A Study of JNT-517 in Participants With PKU (NCT06971731)", "url": "https://clinicaltrials.gov/study/NCT06971731"},
+        {"title": "Otsuka Initiates Global Phase 3 Trial Evaluating Repinatrabit for PKU", "url": "https://otsuka-us.com/news/otsuka-initiates-global-phase-3-clinical-trial-evaluating-repinatrabit-treatment"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PHEARLESS (BMN 307 Phase 1/2, NCT04480567)",
+      "kind": "trial",
+      "sponsor": "BioMarin",
+      "modality": "AAV5 gene therapy",
+      "status": "Halted / on clinical hold since Sept 2021 (preclinical tumorigenicity signal). Not advancing.",
+      "indication": "adults with PKU / PAH deficiency",
+      "market_note": "The trial whose 2021 clinical hold reset the PKU gene-therapy race. Retained as a market signal: illustrates the regulatory/safety risk that has repeatedly stalled one-time gene-therapy approaches in PKU.",
+      "sources": [
+        {"title": "BioMarin Doses First Participant in PHEARLESS Phase 1/2 Study of BMN 307", "url": "https://www.biomarin.com/news/press-releases/biomarin-pioneer-in-phenylketonuria-pku-and-gene-therapy-doses-first-participant-in-global-phearless-phase-1-2-study-of-bmn-307-gene-therapy/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "Large Neutral Amino Acids (LNAA) in adult classical PKU (NCT06337864)",
+      "kind": "trial",
+      "sponsor": "academic / investigator-initiated",
+      "modality": "next-gen substrate / medical nutrition (large neutral amino acids)",
+      "status": "Interventional study of LNAA effect in adults with classical PKU (active per ClinicalTrials.gov listing).",
+      "indication": "adults with classical PKU",
+      "market_note": "Represents the medical-food / substrate-competition segment (LNAA formulations) that overlaps the drug market and is a lower-cost adjunct. Non-drug modality but market-relevant as an alternative spend category.",
+      "sources": [
+        {"title": "Effect of Large Neutral Amino Acids in Adults With Classical PKU (NCT06337864)", "url": "https://clinicaltrials.gov/study/NCT06337864"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "pheNIX gene therapy clinical study (adult PKU)",
+      "kind": "trial",
+      "sponsor": "Homology Medicines (now Q32 Bio)",
+      "modality": "AAVHSC gene therapy (HMI-102)",
+      "status": "Discontinued. Showed some biologic activity but company exited PKU; IND for HMI-102 withdrawn 2023.",
+      "indication": "adults with PKU",
+      "market_note": "Historical Phase 1/2 gene-therapy trial retained as a market data point on the discontinued Homology program; no path to commercialization.",
+      "sources": [
+        {"title": "Gene Therapy Clinical Study in Adult PKU (pheNIX) — New England Consortium of Metabolic Programs", "url": "https://www.newenglandconsortium.org/gene-therapy-clinical-study-in-adult-pku-phenix"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "name": "PKU treatment market (sizing context)",
+      "kind": "trial",
+      "sponsor": "n/a (market aggregate)",
+      "modality": "market sizing across all PKU therapeutics",
+      "status": "reference record",
+      "indication": "all PKU",
+      "market_note": "Third-party analysts (Grand View Research) size the global PKU treatment market and forecast growth through 2030; Palynziq held ~68% treatment-market share in 2024. BioMarin's total 2025 revenue across all products was a record $3.22B (PKU franchise Palynziq $433M + Kuvan $100M within Enzyme Therapies). Precise total PKU-market dollar figure varies by analyst methodology — treat as estimate.",
+      "sources": [
+        {"title": "Phenylketonuria Treatment Market Size Report, 2025-2030 — Grand View Research", "url": "https://www.grandviewresearch.com/industry-analysis/phenylketonuria-pku-treatment-market"},
+        {"title": "BioMarin Reports Fourth Quarter and Full-year 2025 Financial and Operating Results", "url": "https://www.prnewswire.com/news-releases/biomarin-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results-302694181.html"}
+      ],
+      "confidence": "estimate"
+    }
+  ]
+}

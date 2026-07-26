@@ -1,0 +1,288 @@
+{
+  "dataset": "restaurants-schools",
+  "title": "Food service, restaurants & schools",
+  "updated": "2026-07-26",
+  "source_note": "Compiled 2026-07-26 from PKU advocacy orgs (NPKUA, PKU News, NSPKU), USDA/FNS Child Nutrition guidance, low-protein food vendors, metabolic camp listings, and peer-reviewed patient-experience studies. Market surfaces here are deliberately thin: for restaurants and school services the near-total absence of PKU-specific offerings IS the finding. Vendor claims are self-reported; regulatory items cite federal rule/guidance. Where no single source anchors a market-size claim, records are marked estimate.",
+  "records": [
+    {
+      "segment": "restaurant",
+      "name": "PKU-specific restaurant chains (near-zero)",
+      "what_it_is": "There is no known US or global restaurant chain that markets low-protein / PKU-safe menus. People with PKU dine out by improvising around allergen and vegetable-forward items, not from a PKU offering.",
+      "market_signal": "wide-open gap: no dedicated restaurant category exists",
+      "geography": "global",
+      "sources": [
+        {"title": "Barriers to dining out with PKU (limited low-protein choice 90%, no protein info 67%)", "url": "https://www.jneb.org/article/s1499-4046(13)00708-2/abstract"},
+        {"title": "Foods To Eat and Avoid on a PKU Diet — Cleveland Clinic", "url": "https://health.clevelandclinic.org/pku-diet"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "segment": "restaurant",
+      "name": "Chain nutrition/protein disclosures families rely on",
+      "what_it_is": "FDA menu-labeling rules require chains with 20+ locations to post calories and provide full nutrition (including protein grams) on request. PKU families use this published protein data to back-calculate approximate phe and choose safer items.",
+      "market_signal": "underserved: data exists as a byproduct of FDA labeling, not built for PKU; protein grams are a crude phe proxy",
+      "geography": "US",
+      "sources": [
+        {"title": "Restaurant Nutrition Guide 2026 (FDA menu-labeling context)", "url": "https://tastybend.com/restaurant-nutrition/"},
+        {"title": "What's on the menu — energy/nutrient content of US chain menus", "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B2B9C89AB21F4FDFD867767F0AC5D7CC/S136898001200122Xa.pdf/whats-on-the-menu-a-review-of-the-energy-and-nutritional-content-of-us-chain-restaurant-menus.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "restaurant",
+      "name": "Allergen-friendly practices as adjacent proxy",
+      "what_it_is": "Restaurants increasingly accommodate allergen requests (gluten-free, dairy-free) and ingredient swaps. PKU families lean on this flexibility informally, but no allergen program addresses total protein/phe load, which is the PKU constraint.",
+      "market_signal": "underserved adjacency: allergen accommodation is mature, protein-load accommodation is absent",
+      "geography": "US / international",
+      "sources": [
+        {"title": "PKU dining barriers — need for staff training and low-protein flexibility", "url": "https://www.jneb.org/article/s1499-4046(13)00708-2/abstract"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "segment": "restaurant",
+      "name": "Restaurant phe estimation (the computation gap)",
+      "what_it_is": "No mainstream restaurant menu publishes phenylalanine. Families estimate restaurant phe manually from protein grams or by matching menu items to generic food-database entries, an error-prone workaround.",
+      "market_signal": "wide-open gap: no restaurant-menu phe data layer or estimation service exists",
+      "geography": "global",
+      "sources": [
+        {"title": "How Much Phe? — food phe database (does not cover restaurant menus natively)", "url": "https://howmuchphe.org/site/about"},
+        {"title": "PKU dining barriers — no protein information cited by 67% of patients", "url": "https://www.jneb.org/article/s1499-4046(13)00708-2/abstract"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "Ajinomoto Cambrooke — low-protein foods & ready meals",
+      "what_it_is": "Founder-led (Paolella family, two children with PKU) US maker of Glytactin formula plus low-protein pastas, rice, baking mixes and a 'Ready Meals' line, sold direct with home delivery and a CambrookeCare reimbursement program.",
+      "market_signal": "served (products), but limited prepared/ready-to-eat depth — heat-and-eat entrees remain thin",
+      "geography": "US / international (Cambrooke UK)",
+      "sources": [
+        {"title": "Low Protein Foods — Ajinomoto Cambrooke", "url": "https://www.cambrooke.com/products/low-protein-foods/"},
+        {"title": "Cambrooke online shop (Ready Meals, rice & pasta)", "url": "https://shop.cambrooke.com/category/2/low-protein"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "PKU Perspectives — specialty low-protein retailer",
+      "what_it_is": "Online store aggregating low-protein, gluten-free, dairy-free, kosher and vegan products for PKU, MSUD and other metabolic disorders; a reseller/marketplace rather than a prepared-meal service.",
+      "market_signal": "served as retail catalog; not a cooked-meal delivery",
+      "geography": "US",
+      "sources": [
+        {"title": "PKU Perspectives — specialized low-protein foods", "url": "https://pkuperspectives.com/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "Promin (via ZoiaPharma) — US market entry",
+      "what_it_is": "UK low-protein meal-solution brand (soups, pasta pots, pancake/pudding mixes) that entered the US market through distributor ZoiaPharma, expanding shelf-stable low-protein convenience products.",
+      "market_signal": "emerging: new US entrant signals demand for convenience low-protein, still shelf-stable not fresh-prepared",
+      "geography": "US / international (UK origin)",
+      "sources": [
+        {"title": "Promin Low Protein Foods — Now in the USA", "url": "https://prominpku.com/usa/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "Nutricia Metabolics — low-protein foods & ready meals",
+      "what_it_is": "Major medical-nutrition company (Danone) supplying PKU formula plus a low-protein food range including ready-to-use items, distributed in the US via medicalfood.com.",
+      "market_signal": "served (incumbent supplier); prepared-meal breadth limited vs. formula focus",
+      "geography": "US / international",
+      "sources": [
+        {"title": "Nutricia — Low Protein Diet, PKU and Metabolic Formulas (Ready range)", "url": "https://www.nutriciametabolics.com/en-us/shop/ready.aspx"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "Vitaflo USA (Nestlé Health Science)",
+      "what_it_is": "Clinical-nutrition maker of PKU protein substitutes and specialist products with 30+ years in inborn errors of metabolism; formula/medical-food focused rather than prepared meals.",
+      "market_signal": "served (formula incumbent); not a meal-delivery player",
+      "geography": "US / international",
+      "sources": [
+        {"title": "Formula and Medical Food Vendors — HCU Network America", "url": "https://hcunetworkamerica.org/formula-and-medical-food-vendors/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "Fresh / chef-prepared PKU meal kits (near-zero)",
+      "what_it_is": "Beyond shelf-stable products, there is essentially no fresh, chef-prepared, phe-counted meal-kit or meal-delivery service comparable to mainstream services (HelloFresh, Factor) but built for PKU macros.",
+      "market_signal": "wide-open gap: no fresh phe-counted meal-kit service exists at scale",
+      "geography": "global",
+      "sources": [
+        {"title": "Low-Protein Cooking for PKU — Goldring Center (recipes, not delivery)", "url": "https://goldringcenter.tulane.edu/low-protein-cooking-for-pku/"},
+        {"title": "Emerging US low-protein meal solutions still limited", "url": "https://prominpku.com/usa/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "How Much Phe? — recipe & intake computation service",
+      "what_it_is": "Subscription ($45/yr) diet-management system from National PKU News with phe/protein/exchange values for 7,000+ foods, custom recipes and multi-member tracking; the de facto phe-calculation backbone families use, but not a food or delivery service.",
+      "market_signal": "served as a data/tracking tool; monetized subscription proves willingness to pay for phe computation",
+      "geography": "US",
+      "sources": [
+        {"title": "How Much Phe? — About / FAQ ($45/yr, 7000+ foods)", "url": "https://howmuchphe.org/site/faq"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "meal-delivery",
+      "name": "BioMarin PKU recipe resources",
+      "what_it_is": "Pharma-sponsored (BioMarin) recipe library supporting patients on their therapies; content/marketing resource rather than a food or delivery product.",
+      "market_signal": "served as free content; no commercial food offering",
+      "geography": "US",
+      "sources": [
+        {"title": "BioMarin PKU — Recipes", "url": "https://pku.biomarin.com/en-us/resources/recipes/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-policy",
+      "name": "USDA meal-modification requirement (7 CFR 210.10(m) / 220.8(m))",
+      "what_it_is": "Federal rule requiring School Food Authorities to make reasonable meal modifications for a student whose disability restricts their diet, on a written medical statement from a recognized authority. PKU's phe restriction qualifies.",
+      "market_signal": "served by regulation (mandate exists); execution/quality at the district level is the gap",
+      "geography": "US",
+      "sources": [
+        {"title": "USDA FNS — Modifications to Accommodate Disabilities", "url": "https://www.usda.gov/sites/default/files/guidance-documents/fns.cacfp-sfsp-modificationsAccomodateDisabilities.pdf"},
+        {"title": "USDA regulations in schools — FAACT summary", "url": "https://www.foodallergyawareness.org/accommodations/accommodations-in-schools/usda-regulations/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-policy",
+      "name": "504 Plan accommodation for PKU",
+      "what_it_is": "Section 504 (Rehabilitation Act) plan documenting diet/food accommodations plus supports like supervised formula timing; if the 504 contains the required medical detail, USDA does not require a separate medical statement.",
+      "market_signal": "served by law; families still navigate it largely unaided",
+      "geography": "US",
+      "sources": [
+        {"title": "NPKUA — sample 504 Plan for PKU", "url": "https://www.npkua.org/wp-content/uploads/2024/05/sample-504-plan.pdf"},
+        {"title": "NPKUA — Section 504 Classroom Accommodations", "url": "https://www.npkua.org/wp-content/uploads/2025/07/Section-504-Classroom-Accommodations-1.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-policy",
+      "name": "IEP for PKU-related learning needs",
+      "what_it_is": "Individualized Education Program for students needing specialized instruction; relevant when untreated/poorly controlled PKU causes learning difficulty. Diet accommodation more commonly rides on a 504 than an IEP.",
+      "market_signal": "served by law where learning impact is documented; narrower applicability than 504",
+      "geography": "US",
+      "sources": [
+        {"title": "NPKUA — School Age (504 vs IEP)", "url": "https://www.npkua.org/school-age/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-policy",
+      "name": "School formula administration & Individual Health Care Plan",
+      "what_it_is": "Protein-substitute (formula) must be taken on schedule during the school day; studies show an Individual Health Care Plan significantly improves supervision and parent-school communication, with a private space mattering because peer pressure deters kids from drinking formula openly.",
+      "market_signal": "underserved: mandate is thin, quality depends on an IHCP many schools lack",
+      "geography": "US / international",
+      "sources": [
+        {"title": "Provision & Supervision of Food and Protein Substitute in School — parent experiences", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8621748/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-service-gap",
+      "name": "School-accommodation navigation services for families (near-zero)",
+      "what_it_is": "There is no purpose-built paid service or platform that helps a PKU family draft a 504/IHCP, coach the meeting, and hand the district a ready meal-modification packet. Families rely on free advocacy templates and volunteer knowledge.",
+      "market_signal": "wide-open gap: no PKU-specific school-navigation product exists",
+      "geography": "US",
+      "sources": [
+        {"title": "NPKUA — School Information resource hub", "url": "https://www.npkua.org/What-is-PKU/School-Information"},
+        {"title": "PKU News — Back to School With PKU", "url": "https://pkunews.org/back-to-school-with-pku/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "segment": "school-service-gap",
+      "name": "School staff / nurse & food-service training for PKU",
+      "what_it_is": "Training exists only as scattered free PDFs (MacGill 'Unpacking PKU for School Nurses', New England Consortium Educator's Guide, Nutricia teacher guide, HCU Network Food Services Guide). No structured, certified training program or curriculum product for cafeteria staff and nurses.",
+      "market_signal": "underserved: free one-off guides exist; no scalable training product or credential",
+      "geography": "US",
+      "sources": [
+        {"title": "Unpacking PKU for School Nurses — MacGill", "url": "https://www.macgill.com/resource-library/unpacking-pku.html"},
+        {"title": "An Educator's Guide to PKU — New England Consortium", "url": "https://www.newenglandconsortium.org/educators-pku"},
+        {"title": "Food Services Guide — Low Protein School Lunch Program (HCU Network)", "url": "https://hcunetworkamerica.org/wp-content/uploads/2019/02/SLP_FoodServGuide_2013_web.pdf"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-service-gap",
+      "name": "Low-protein school-lunch procurement (thin)",
+      "what_it_is": "Cambrooke runs a School Lunch Program listing low-protein foods schools can purchase, but there is no turnkey procurement/logistics service ensuring a PKU child's compliant tray day to day; provision quality varies widely by district.",
+      "market_signal": "underserved: one vendor program, no district-wide procurement/fulfillment layer",
+      "geography": "US",
+      "sources": [
+        {"title": "Food Services Guide — Low Protein School Lunch Program", "url": "https://hcunetworkamerica.org/wp-content/uploads/2019/02/SLP_FoodServGuide_2013_web.pdf"},
+        {"title": "PKU News — PKU in the Cafeteria", "url": "https://pkunews.org/pku-in-the-cafeteria/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-service-gap",
+      "name": "School-day phe tracking tools (gap)",
+      "what_it_is": "No school-facing tool lets a nurse or cafeteria log a student's phe intake and formula timing and share it with parents; families back-fill from general apps like How Much Phe? after the fact.",
+      "market_signal": "wide-open gap: no school-context phe-tracking / parent-sync product",
+      "geography": "US / international",
+      "sources": [
+        {"title": "How Much Phe? — consumer tracking, not school-integrated", "url": "https://howmuchphe.org/"},
+        {"title": "IHCP improves supervision & communication (study)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8621748/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "segment": "camp",
+      "name": "flok Family Camp (Oregon & New Hampshire)",
+      "what_it_is": "Free multi-day family camps for people with PKU or any inherited metabolic disorder (2026: Antelope OR Jun 4-7; Tuftonboro NH Sep 17-20) with camp activities, cooking demos and research updates; scholarships available.",
+      "market_signal": "served by nonprofit/sponsor funding; not a commercial market",
+      "geography": "US",
+      "sources": [
+        {"title": "flok Family Camp", "url": "https://www.flok.org/camp/"},
+        {"title": "flok Family Camp NH — UIC DSCC listing", "url": "https://dscc.uic.edu/events/flok-family-camp-in-new-hampshire-for-individuals-affected-by-pku-phenylketonuria-or-any-inherited-metabolic-disorder/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "camp",
+      "name": "State/clinic-hosted PKU summer camps",
+      "what_it_is": "Regional camps run by state PKU organizations and metabolic clinics each year (e.g., Camp Huber Main via Alliance of PKU Families); NPKUA maintains a national list of PKU camps.",
+      "market_signal": "served by volunteer/clinic effort; fragmented, capacity-limited, non-commercial",
+      "geography": "US",
+      "sources": [
+        {"title": "NPKUA — PKU Camps list", "url": "https://www.npkua.org/resources/pku-camps"},
+        {"title": "Camp Huber Main — Alliance of PKU Families", "url": "https://alliancepkufamilies.org/alliance-of-pku-families-supporting-those-affected-by-pku/camp-huber/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "camp",
+      "name": "Camp community/support value (why the category persists)",
+      "what_it_is": "Metabolic camps function as the main in-person community and peer-support surface for PKU families, filling a social/education gap that no commercial service addresses; documented by patient-org and sponsor coverage.",
+      "market_signal": "underserved adjacency: high demand, funding-constrained supply, no scalable paid model",
+      "geography": "US",
+      "sources": [
+        {"title": "PKU Camps Create Community, Support Networks — BioMarin", "url": "https://www.biomarin.com/news/stories/family-camp-helps-create-community-support-networks-for-people-with-pku/"},
+        {"title": "Family Camp — PKU News", "url": "https://pkunews.org/camp/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "segment": "school-policy",
+      "name": "International: prescription low-protein foods & school provision (UK/Europe)",
+      "what_it_is": "In the UK, ~150 low-protein prescription foods are available via GPs and home-delivery/pharmacy channels, but studies report ~50% of families hit access/supply problems at least weekly; school provision quality also varies. Reimbursement systems differ across Europe.",
+      "market_signal": "served by public reimbursement in principle; access, supply reliability and school provision are the gaps",
+      "geography": "international (UK/Europe)",
+      "sources": [
+        {"title": "UK Patient Access to Low-Protein Prescription Foods in PKU: An Uneasy Path", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11820046/"},
+        {"title": "Special Low Protein Foods Prescribed in England for PKU — patterns & cost", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8620831/"}
+      ],
+      "confidence": "sourced"
+    }
+  ]
+}
