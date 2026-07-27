@@ -36,6 +36,22 @@
 .report-banner .rb-arrow { font-family: var(--font-mono); }
 @media (max-width: 640px){ .report-banner .wrap { flex-wrap: wrap; gap: 8px; } .report-banner .rb-cta { margin-left: 0; } }
 
+/* prediction markets band (under the hero) */
+.pmband { background: var(--paper); border-bottom: 1px solid var(--line); padding: 40px 0 34px; }
+.pm-head { display: flex; align-items: flex-end; gap: 24px; margin-bottom: 20px; flex-wrap: wrap; }
+.pm-head h2 { margin: 6px 0 8px; }
+.pm-head p { color: var(--ink-soft); max-width: 62ch; margin: 0; font-size: .98rem; }
+.pm-cta { margin-left: auto; flex: 0 0 auto; }
+.pm-cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
+@media (max-width: 1080px){ .pm-cards { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 760px){ .pm-cards { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 520px){ .pm-cards { grid-template-columns: 1fr; } .pm-cta { margin-left: 0; } }
+.pm-card { border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 13px 14px; background: var(--paper); cursor: pointer; text-align: left; font: inherit; transition: border-color .15s, box-shadow .15s; display: flex; flex-direction: column; gap: 8px; }
+.pm-card:hover { border-color: var(--blue-line); box-shadow: var(--shadow-sm); }
+.pm-card .pm-q { font-family: var(--font-disp); font-weight: 600; font-size: .88rem; line-height: 1.32; color: var(--ink); }
+.pm-card .pm-meta { margin-top: auto; display: flex; align-items: center; gap: 8px; font-family: var(--font-mono); font-size: .68rem; color: var(--ink-faint); }
+.pm-card .pm-cat { background: var(--blue-wash); color: var(--blue-dk); padding: 2px 7px; border-radius: 5px; }
+
 /* headline stat band */
 .statband { background: var(--wash); border-bottom: 1px solid var(--line); }
 .stat-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
@@ -83,6 +99,8 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 .b-full,.b-universal,.b-approved,.b-yes,.b-live,.b-fdacleared,.b-commerciallyavailable,.b-available { background: #e4f6ea; color: #1a7a3c; }
 .b-partial,.b-limited,.b-pipeline,.b-beta,.b-wip,.b-researchprototype,.b-research,.b-concept,.b-pointofcareresearch { background: #fdf0dc; color: #a86a10; }
 .b-none,.b-trial,.b-unmaintained,.b-discontinued,.b-doesnotexistyet { background: #fde4e4; color: #b02a2a; }
+.b-posted { background: #e4f6ea; color: #1a7a3c; }
+.b-proposed { background: var(--blue-wash); color: var(--blue-dk); }
 .b-unknown { background: var(--wash-2); color: var(--ink-faint); }
 .b-sourced { background: var(--blue-wash); color: var(--blue-dk); }
 .b-estimate { background: #f3edfb; color: #6b3fb0; }
@@ -140,6 +158,21 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 <span class="rb-cta">Read the report <span class="rb-arrow">&rsaquo;</span></span>
 </div>
 </a>
+
+<section class="pmband">
+<div class="wrap">
+<div class="pm-head">
+<div>
+<span class="kicker">Prediction markets</span>
+<h2>The open questions, priced.</h2>
+<p>Every claim in this atlas eventually resolves true or false. These five open the book, each anchored
+to a row in the tables below and settled by a public record.</p>
+</div>
+<button class="btn btn-primary pm-cta" onclick="selectTab('markets')">See all markets</button>
+</div>
+<div class="pm-cards" id="pmCards"></div>
+</div>
+</section>
 
 <section class="statband">
 <div class="wrap" style="padding-top:28px;padding-bottom:28px;">
@@ -323,6 +356,16 @@ const DATASETS = [
       {h:'Detail', f:r=>r.detail||'—'},
       {h:'Market signal', f:r=>r.market_signal||'—'},
     ]},
+  { id:'markets', file:'market/data/markets.json', tab:'Prediction Markets', blurb:'Open questions in this atlas, written as tradeable markets. Each one is anchored to a data point in the tables and resolves on an objective public source: an FDA listing, ClinicalTrials.gov, Congress.gov, a state statute, or a court record.',
+    filterKey:'category', filterLabel:{'drug-pipeline':'Drugs & pipeline',devices:'Devices',policy:'Policy',litigation:'Litigation','market-structure':'Market structure',apps:'Apps'},
+    cols:[
+      {h:'Market', f:r=>cell(r.question, r.anchor_tab ? 'anchored to '+r.anchor_tab : ''), strong:true},
+      {h:'Category', f:r=>r.category||'—'},
+      {h:'Status', f:r=>badge(r.status)},
+      {h:'Closes', f:r=>r.close_date||'—'},
+      {h:'Resolves on', f:r=>r.resolves_on||'—'},
+      {h:'Why it is live', f:r=>r.anchor_fact||'—'},
+    ]},
 ];
 
 // ---- helpers ----
@@ -352,6 +395,7 @@ async function loadAll(){
   });
   await Promise.all(DATASETS.map(loadOne));
   computeStats();
+  renderFeaturedMarkets();
 }
 
 async function loadOne(d){
@@ -415,6 +459,23 @@ function selectTab(id){
 }
 
 function num(n){ return n==null?'—':n.toLocaleString(); }
+// Featured markets under the hero. Picks four headline questions, falls back to the first four.
+const FEATURED=['at-home phenylalanine test','Medical Foods and Formulas Access Act','filed in North Carolina','repinatrabit (JNT-517)','glycomacropeptide (GMP)'];
+function renderFeaturedMarkets(){
+  const host=document.getElementById('pmCards'); const band=document.querySelector('.pmband');
+  if(!host) return;
+  const recs=(store['markets']&&store['markets'].records)||[];
+  if(!recs.length){ if(band) band.style.display='none'; return; }
+  const picked=[];
+  FEATURED.forEach(key=>{ const m=recs.find(r=>r.question.includes(key)&&!picked.includes(r)); if(m) picked.push(m); });
+  recs.forEach(r=>{ if(picked.length<5&&!picked.includes(r)) picked.push(r); });
+  host.innerHTML=picked.slice(0,5).map(r=>
+    '<button class="pm-card" onclick="selectTab(\'markets\')">'+
+      '<span class="pm-q">'+esc(r.question)+'</span>'+
+      '<span class="pm-meta"><span class="pm-cat">'+esc(r.category||'')+'</span>closes '+esc((r.close_date||'').slice(0,7))+'</span>'+
+    '</button>').join('');
+}
+
 function computeStats(){
   // products = foods + formulas
   const foods=(store['medical-foods']&&store['medical-foods'].records.length)||0;
