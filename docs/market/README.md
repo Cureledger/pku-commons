@@ -22,10 +22,9 @@ mechanism-of-action science lives here by design.
 | Mental health | [`data/mental_health.json`](data/mental_health.json) | 20 | High phe driving neuropsychiatric symptoms, and providers medicating instead of addressing diet |
 | Restaurants & schools | [`data/restaurants_schools.json`](data/restaurants_schools.json) | 24 | Two near-empty consumer markets |
 | Money | [`data/payers.json`](data/payers.json) | 25 | Market size, reimbursement, and the legislation that could unlock it |
-| Prediction markets | [`data/markets.json`](data/markets.json) | 19 | Atlas questions written as tradeable markets, each anchored to a data point with an objective resolution source |
 | Advocacy & legal | [`data/advocacy_legal.json`](data/advocacy_legal.json) | 29 | Patient organizations and the litigation shaping access |
 
-Total: **433 records** across fifteen datasets.
+Total: **414 cited records** across fourteen datasets.
 
 ## Provenance rules
 

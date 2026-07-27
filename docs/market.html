@@ -83,8 +83,6 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 .b-full,.b-universal,.b-approved,.b-yes,.b-live,.b-fdacleared,.b-commerciallyavailable,.b-available { background: #e4f6ea; color: #1a7a3c; }
 .b-partial,.b-limited,.b-pipeline,.b-beta,.b-wip,.b-researchprototype,.b-research,.b-concept,.b-pointofcareresearch { background: #fdf0dc; color: #a86a10; }
 .b-none,.b-trial,.b-unmaintained,.b-discontinued,.b-doesnotexistyet { background: #fde4e4; color: #b02a2a; }
-.b-posted { background: #e4f6ea; color: #1a7a3c; }
-.b-proposed { background: var(--blue-wash); color: var(--blue-dk); }
 .b-unknown { background: var(--wash-2); color: var(--ink-faint); }
 .b-sourced { background: var(--blue-wash); color: var(--blue-dk); }
 .b-estimate { background: #f3edfb; color: #6b3fb0; }
@@ -324,16 +322,6 @@ const DATASETS = [
       {h:'Kind', f:r=>badge(r.kind)},
       {h:'Detail', f:r=>r.detail||'—'},
       {h:'Market signal', f:r=>r.market_signal||'—'},
-    ]},
-  { id:'markets', file:'market/data/markets.json', tab:'Prediction Markets', blurb:'Open questions in this atlas, written as tradeable markets. Each one is anchored to a data point in the tables and resolves on an objective public source: an FDA listing, ClinicalTrials.gov, Congress.gov, a state statute, or a court record.',
-    filterKey:'category', filterLabel:{'drug-pipeline':'Drugs & pipeline',devices:'Devices',policy:'Policy',litigation:'Litigation','market-structure':'Market structure',apps:'Apps'},
-    cols:[
-      {h:'Market', f:r=>cell(r.question, r.anchor_tab ? 'anchored to '+r.anchor_tab : ''), strong:true},
-      {h:'Category', f:r=>r.category||'—'},
-      {h:'Status', f:r=>badge(r.status)},
-      {h:'Closes', f:r=>r.close_date||'—'},
-      {h:'Resolves on', f:r=>r.resolves_on||'—'},
-      {h:'Why it is live', f:r=>r.anchor_fact||'—'},
     ]},
 ];
 
