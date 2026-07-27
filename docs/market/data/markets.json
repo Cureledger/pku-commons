@@ -1,0 +1,217 @@
+{
+  "dataset": "markets",
+  "title": "Prediction markets on PKU",
+  "updated": "2026-07-26",
+  "source_note": "Candidate prediction markets anchored to atlas data points. Each carries an objective resolution source and the atlas tab whose data motivates it. Status tracks whether a market has been posted on an exchange.",
+  "records": [
+    {
+      "question": "Will the FDA clear any at-home phenylalanine test before Dec 31, 2028?",
+      "category": "devices",
+      "status": "proposed",
+      "close_date": "2028-12-31",
+      "resolves_on": "FDA device clearance database (510(k), De Novo, or PMA) listing a phenylalanine test indicated for home or lay use",
+      "anchor_tab": "Medical Devices",
+      "anchor_fact": "No cleared home phe monitor exists. Contenders are pre-market: PheCheck holds FDA Breakthrough Designation and was in validation in 2026, Egoo Phe is CE-marked and running a US trial.",
+      "sources": [{"title": "PKU Market Atlas, Medical Devices", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will Aptatek file an FDA submission for PheCheck before Dec 31, 2027?",
+      "category": "devices",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "Company announcement or FDA submission record",
+      "anchor_tab": "Medical Devices",
+      "anchor_fact": "PheCheck is an aptamer-based in-home phe monitor with FDA Breakthrough Designation, still a research prototype as of 2026.",
+      "sources": [{"title": "PKU Market Atlas, Medical Devices", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will the Egoo Phe US trial report results before July 1, 2027?",
+      "category": "devices",
+      "status": "proposed",
+      "close_date": "2027-07-01",
+      "resolves_on": "ClinicalTrials.gov results posting or company announcement",
+      "anchor_tab": "Medical Devices",
+      "anchor_fact": "Egoo Phe is CE-marked and available in the EU only, with a US trial underway.",
+      "sources": [{"title": "PKU Market Atlas, Medical Devices", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will a US patient be able to get a blood phe result in under 24 hours through any commercial pathway by Dec 31, 2028?",
+      "category": "devices",
+      "status": "proposed",
+      "close_date": "2028-12-31",
+      "resolves_on": "Publicly advertised commercial service or cleared device offering sub-24-hour phe turnaround to US patients",
+      "anchor_tab": "Medical Devices",
+      "anchor_fact": "Monitoring depends on dried blood spot cards mailed to a lab, with results returning roughly 5 to 14 days later.",
+      "sources": [{"title": "PKU Market Atlas, Medical Devices", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will the repinatrabit (JNT-517) Phase 3 trial report a positive primary endpoint before Dec 31, 2027?",
+      "category": "drug-pipeline",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "Otsuka announcement or ClinicalTrials.gov results for NCT06971731",
+      "anchor_tab": "Drugs & Pipeline",
+      "anchor_fact": "Otsuka acquired JNT-517 from Jnana for up to about 1.1 billion dollars and began a global registrational Phase 3 in Oct 2025. It is an oral, diet-independent candidate.",
+      "sources": [{"title": "PKU Market Atlas, Drugs & Pipeline", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will repinatrabit receive FDA approval before Dec 31, 2029?",
+      "category": "drug-pipeline",
+      "status": "proposed",
+      "close_date": "2029-12-31",
+      "resolves_on": "FDA approval listing (Drugs@FDA)",
+      "anchor_tab": "Drugs & Pipeline",
+      "anchor_fact": "Phase 3 began Oct 2025. First-in-class oral small molecule that would not require dietary restriction.",
+      "sources": [{"title": "PKU Market Atlas, Drugs & Pipeline", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will any PKU gene therapy dose a patient in a new US trial before Dec 31, 2027?",
+      "category": "drug-pipeline",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "ClinicalTrials.gov status change to recruiting or active with a US site, for a PKU gene therapy not previously dosing",
+      "anchor_tab": "Drugs & Pipeline",
+      "anchor_fact": "The gene therapy race stalled. BMN 307 has been on clinical hold since 2021, Homology withdrew HMI-102 and HMI-103, leaving Sanofi SAR444836 and NGGT002.",
+      "sources": [{"title": "PKU Market Atlas, Drugs & Pipeline", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will Moderna's mRNA-3283 enter Phase 2 before Dec 31, 2027?",
+      "category": "drug-pipeline",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "ClinicalTrials.gov phase designation",
+      "anchor_tab": "Drugs & Pipeline",
+      "anchor_fact": "mRNA-3283 is in early clinical development within Moderna's rare disease portfolio.",
+      "sources": [{"title": "PKU Market Atlas, Drugs & Pipeline", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will Sephience (sepiapterin) report over 100 million dollars in net sales for a full calendar year before 2029?",
+      "category": "drug-pipeline",
+      "status": "proposed",
+      "close_date": "2029-03-31",
+      "resolves_on": "PTC Therapeutics annual report or SEC filing",
+      "anchor_tab": "Drugs & Pipeline",
+      "anchor_fact": "Sephience was FDA-approved July 2025 and broke BioMarin's duopoly. Estimated annual cost about 492 thousand dollars.",
+      "sources": [{"title": "PKU Market Atlas, Drugs & Pipeline", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will any Palynziq (pegvaliase) biosimilar application be filed before Dec 31, 2030?",
+      "category": "drug-pipeline",
+      "status": "proposed",
+      "close_date": "2030-12-31",
+      "resolves_on": "FDA filing acceptance or litigation record",
+      "anchor_tab": "Drugs & Pipeline",
+      "anchor_fact": "Kuvan was commoditized by generics after the 2017 patent settlement, but the higher-value biologic Palynziq shows no reported generic or patent litigation.",
+      "sources": [{"title": "PKU Market Atlas, Drugs & Pipeline", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will the Medical Foods and Formulas Access Act pass either chamber of Congress before Jan 3, 2027?",
+      "category": "policy",
+      "status": "proposed",
+      "close_date": "2027-01-03",
+      "resolves_on": "Congress.gov roll call showing House or Senate passage of H.R. 5684 or a successor bill",
+      "anchor_tab": "Money",
+      "anchor_fact": "The Medical Nutrition Equity Act has been introduced at least five times since 2017 and has never been enacted. It carries no CBO score and dies in committee each Congress.",
+      "sources": [{"title": "PKU Market Atlas, Money", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will any US state enact a new full medical-food mandate covering both formula and low-protein foods before Dec 31, 2027?",
+      "category": "policy",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "Enacted state statute text",
+      "anchor_tab": "US Coverage",
+      "anchor_fact": "16 states plus DC have no mandate and 19 more are partial, most commonly covering formula while excluding low-protein modified foods.",
+      "sources": [{"title": "PKU Market Atlas, US Coverage", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will Ohio, Michigan, Georgia, or North Carolina enact any PKU medical-food coverage mandate before Dec 31, 2028?",
+      "category": "policy",
+      "status": "proposed",
+      "close_date": "2028-12-31",
+      "resolves_on": "Enacted statute in any of the four named states",
+      "anchor_tab": "US Coverage",
+      "anchor_fact": "These are the four largest-population states with no mandate at all. Ohio Medicaid is formula-only, so low-protein foods are essentially out of pocket.",
+      "sources": [{"title": "PKU Market Atlas, US Coverage", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will a putative class action over PKU medical-food or formula coverage denial be filed in North Carolina before Dec 31, 2027?",
+      "category": "litigation",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "A putative class complaint alleging denial of PKU formula or medical-food coverage, filed in a North Carolina state or federal court, verifiable on PACER or NC court records",
+      "anchor_tab": "Advocacy & Legal",
+      "anchor_fact": "North Carolina has no coverage mandate and a large patient population, with families relying on case-by-case Medicaid. No PKU coverage class action has been identified in any state to date; the documented pattern is individual ERISA appeals, and ERISA preemption of self-funded plans is the structural barrier to a class vehicle.",
+      "sources": [{"title": "PKU Market Atlas, Advocacy & Legal", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will a putative class action over PKU medical-food or formula coverage denial be filed in any US state before Dec 31, 2027?",
+      "category": "litigation",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "A putative class complaint on PKU formula or medical-food denial filed in any US state or federal court, verifiable on PACER",
+      "anchor_tab": "Advocacy & Legal",
+      "anchor_fact": "The broader version of the North Carolina market. No such class action has been identified to date.",
+      "sources": [{"title": "PKU Market Atlas, Advocacy & Legal", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will any state attorney general or insurance commissioner open an enforcement action over medical-food coverage denials before Dec 31, 2028?",
+      "category": "litigation",
+      "status": "proposed",
+      "close_date": "2028-12-31",
+      "resolves_on": "Published AG or insurance-department enforcement action or consent order",
+      "anchor_tab": "Advocacy & Legal",
+      "anchor_fact": "Coverage-denial appeals are high-volume but administrative rather than courtroom, and no regulator enforcement sweep has been identified.",
+      "sources": [{"title": "PKU Market Atlas, Advocacy & Legal", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will another PKU formula or low-protein food company be acquired by a major food or pharma group before Dec 31, 2027?",
+      "category": "market-structure",
+      "status": "proposed",
+      "close_date": "2027-12-31",
+      "resolves_on": "Announced acquisition of a company with a PKU formula or low-protein food line",
+      "anchor_tab": "Companies",
+      "anchor_fact": "The segment is a conglomerate duopoly. Nestle Health Science acquired Dr. Schar's inborn-errors-of-metabolism business in 2021, and Ajinomoto holds Cambrooke.",
+      "sources": [{"title": "PKU Market Atlas, Companies", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will a GMP-based protein substitute gain national reimbursement in a new major market before Dec 31, 2028?",
+      "category": "market-structure",
+      "status": "proposed",
+      "close_date": "2028-12-31",
+      "resolves_on": "National formulary or reimbursement listing in a G20 market",
+      "anchor_tab": "Formulas",
+      "anchor_fact": "GMP products are displacing traditional amino-acid formulas, with the category growing at roughly 9 to 10 percent annually.",
+      "sources": [{"title": "PKU Market Atlas, Formulas", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    },
+    {
+      "question": "Will any AI phe-estimator app publish accuracy scored against a public benchmark before July 1, 2027?",
+      "category": "apps",
+      "status": "proposed",
+      "close_date": "2027-07-01",
+      "resolves_on": "Published result on a public, reproducible phe-estimation benchmark",
+      "anchor_tab": "Apps",
+      "anchor_fact": "AI estimators are arriving fast, including Cycle Vita PKU, with no shared standard for judging accuracy. PKU Commons operates a public benchmark.",
+      "sources": [{"title": "PKU Market Atlas, Apps", "url": "https://cureledger.github.io/pku-commons/market.html"}],
+      "confidence": "sourced"
+    }
+  ]
+}
