@@ -1,0 +1,184 @@
+{
+  "dataset": "dental",
+  "title": "Dental & oral-health burden",
+  "updated": "2026-07-26",
+  "source_note": "Compiled from peer-reviewed dental and metabolic literature (case-control and nation-based cross-sectional studies from Germany, Australia, Brazil, Iran, and Latvia; a pediatric-dentistry review of inborn errors of metabolism), patient-education guidance (NSPKU, Vitafriends), and US health-services data on dental access and cost burden for children with special health care needs. The core mechanism is well documented: the PKU diet leans on frequent, fermentable, often-sugary special low-protein foods plus acidic amino-acid formulas consumed several times a day, which raises caries and erosion risk. The evidence on caries is honestly mixed. Larger and more recent studies find more caries and enamel defects in PKU, while an older Australian study found no caries difference, so records reflect both sides. The product and service white space (no PKU-specific oral-care product, no low-cariogenic formula marketed for teeth, thin PKU-aware dental care) is documented by absence and by patient-reported gaps; those records are marked accordingly.",
+  "records": [
+    {
+      "topic": "Caries risk from the low-protein diet",
+      "category": "caries-risk",
+      "detail": "In a German nation-based cross-sectional study, PKU patients had 1.6 times more caries than matched controls (95% CI 1.22 to 2.20, p=0.001), with mean DMFT 5.61 versus 2.84 in controls.",
+      "market_signal": "The largest controlled dataset points to a real, measurable caries excess in PKU, not a rumor.",
+      "sources": [
+        {"title": "Dietary and metabolic effects on the oral status of patients with phenylketonuria: a nation-based cross-sectional study (Germany, 2023)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9939867/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Evidence on caries is mixed",
+      "category": "evidence",
+      "detail": "An older Australian study of 40 PKU children found no significant caries difference from controls, with over 75% of children caries-free, while a 2024 Iranian case-control study found a small but significant caries excess (ICDAS median 1.50 vs 1.00, p=0.045).",
+      "market_signal": "Smaller and older studies temper the signal, so honest positioning treats caries risk as elevated but variable, driven by fluoride use and diet control.",
+      "sources": [
+        {"title": "The implication of phenylketonuria on oral health, Kilpatrick et al. 1999 (Australia)", "url": "https://pubmed.ncbi.nlm.nih.gov/10633517/"},
+        {"title": "Oral Health Status of Children and Adolescents With Phenylketonuria: A Case-Control Study (Iran, 2024)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13092221/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Enamel defects and hypoplasia in PKU",
+      "category": "enamel-defect",
+      "detail": "The German study found developmental enamel defects in 63.9% of PKU patients versus 19.0% of controls, roughly seven times higher (p<0.001), and a Brazilian study found 36% versus 15%, a 3.3-fold greater chance (p<0.001).",
+      "market_signal": "Two independent controlled studies converge on far more enamel defects in PKU, a durable structural vulnerability that primes teeth for caries and erosion.",
+      "sources": [
+        {"title": "Dietary and metabolic effects on the oral status of patients with phenylketonuria (Germany, 2023)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9939867/"},
+        {"title": "Developmental defects of enamel in phenylketonuria patients, Salvadori et al. 2014 (Brazil)", "url": "https://pubmed.ncbi.nlm.nih.gov/25514259/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Amino-acid formula acidity drives erosion",
+      "category": "formula-acidity",
+      "detail": "In the Australian study the titratable acidity of flavored PKU protein substitutes (92.86 to 126.8 mEq/l) was far higher than their unflavored versions (4.18 to 14.0 mEq/l) and higher than Coca-Cola (38.56 mEq/l), so flavored formulas carry substantial erosive potential.",
+      "market_signal": "Formula acidity is quantified and beatable, an opening for a low-acid or pH-buffered PKU formula positioned on tooth safety.",
+      "sources": [
+        {"title": "The implication of phenylketonuria on oral health, Kilpatrick et al. 1999", "url": "https://pubmed.ncbi.nlm.nih.gov/10633517/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Tooth wear and erosion measured in PKU",
+      "category": "enamel-defect",
+      "detail": "The same Australian study found signs of tooth wear in 33% of PKU children versus 24% of controls (p<0.05), attributed to the acidic amino-acid supplements even where caries rates matched.",
+      "market_signal": "Erosion is the more consistent PKU-specific dental signal, and it tracks directly to formula chemistry rather than sugar alone.",
+      "sources": [
+        {"title": "The implication of phenylketonuria on oral health, Kilpatrick et al. 1999", "url": "https://pubmed.ncbi.nlm.nih.gov/10633517/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Grazing pattern raises acid and sugar exposure",
+      "category": "caries-risk",
+      "detail": "PKU phenylalanine-free protein substitutes are typically taken three to four times a day and are often mixed with sugary drinks to improve taste, spreading acid and fermentable-carbohydrate exposure across the day.",
+      "market_signal": "Frequency, not just content, is the caries driver, so a once-daily or lower-frequency delivery format would reduce exposure time.",
+      "sources": [
+        {"title": "Dietary and metabolic effects on the oral status of patients with phenylketonuria (Germany, 2023)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9939867/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Special low-protein foods are carbohydrate-heavy",
+      "category": "caries-risk",
+      "detail": "UK analysis found special low-protein foods supply a mean 40% carbohydrate and 21% sugar and up to about half of daily energy, and a pediatric-dentistry review notes IEM medical foods such as an MSUD gel can be 27% sugars, so the staple diet is inherently fermentable.",
+      "market_signal": "The bulk of the plate is engineered around starch and sugar, a formulation lever that no PKU brand currently markets on dental safety.",
+      "sources": [
+        {"title": "Special Low Protein Foods in the UK: macronutrient composition vs regular foods", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7353443/"},
+        {"title": "Impact of dietary interventions in inborn errors of metabolism in paediatric dentistry (review)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869363/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Periodontal status is worse in PKU",
+      "category": "evidence",
+      "detail": "The German study found PKU patients had about four times higher periodontal screening (PSR) values than controls (mean 1.99 vs 1.52, 95% CI 2.26 to 7.15, p<0.001), so the burden extends beyond teeth to gums.",
+      "market_signal": "Periodontal risk widens the addressable oral-care need into adult PKU, not just pediatric caries.",
+      "sources": [
+        {"title": "Dietary and metabolic effects on the oral status of patients with phenylketonuria (Germany, 2023)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9939867/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "General dentists do not understand PKU",
+      "category": "care-access",
+      "detail": "In a Latvian study, PKU patients reported that dentists and hygienists lacked knowledge of the specific challenges of PKU and its oral-health impact, describing a clear professional-education gap.",
+      "market_signal": "PKU literacy in dentistry is near zero, an opening for a PKU-aware dental network, training module, or referral directory.",
+      "sources": [
+        {"title": "Oral health care knowledge among Phenylketonuria patients in the Latvian population", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638625/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Metabolic clinics rarely include dental care",
+      "category": "care-access",
+      "detail": "The IEM pediatric-dentistry review calls for early referral to dental services and liaison with metabolic dietitians precisely because a bidirectional link exists (dental infection is a catabolic stressor), implying dental is not routinely embedded in metabolic clinics.",
+      "market_signal": "Dental sits outside the metabolic care team by default, a coordination gap a service could fill.",
+      "sources": [
+        {"title": "Impact of dietary interventions in inborn errors of metabolism in paediatric dentistry (review)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869363/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "PKU families see the dentist less",
+      "category": "care-access",
+      "detail": "Despite comparable caries rates in the Australian study, significantly fewer PKU children had ever seen a dentist than controls, a preventive-care access gap layered on top of elevated risk.",
+      "market_signal": "Lower dental contact plus higher structural risk is exactly the underserved profile that preventive programs target.",
+      "sources": [
+        {"title": "The implication of phenylketonuria on oral health, Kilpatrick et al. 1999", "url": "https://pubmed.ncbi.nlm.nih.gov/10633517/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Existing PKU dental guidance is thin and scattered",
+      "category": "care-access",
+      "detail": "PKU dental advice exists but is limited to patient-society leaflets (NSPKU caregiver oral-health guide, Vitafriends dental-health page) and a review recommending high-fluoride varnish (22,600 ppm), sealants, and frequent recall, rather than a standardized PKU dental protocol.",
+      "market_signal": "There is no consolidated, authoritative PKU dental standard, leaving room for a definitive guideline and toolkit.",
+      "sources": [
+        {"title": "Oral Health care for children with PKU, a guide for caregivers (NSPKU)", "url": "https://nspku.org/download/oral-health-care-for-children-with-pku-phenylketonuria-a-guide-for-caregivers/"},
+        {"title": "Managing Dental Health in PKU (Vitafriends PKU)", "url": "https://www.vitafriendspku.co.uk/pku-journey/adults/pku-and-general-health/dental-health-in-pku"},
+        {"title": "Impact of dietary interventions in inborn errors of metabolism in paediatric dentistry (review)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869363/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "No PKU-specific oral-care product exists",
+      "category": "product-gap",
+      "detail": "No commercial oral-care product (toothpaste, rinse, remineralizing regimen, or high-fluoride kit) is marketed specifically for the PKU diet, so patients rely on generic high-caries-risk protocols adapted informally by clinicians.",
+      "market_signal": "Clear white space for a branded PKU oral-care regimen bundled with formula or medical-food delivery.",
+      "sources": [
+        {"title": "Oral health care knowledge among Phenylketonuria patients in the Latvian population", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638625/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "topic": "Glycomacropeptide is an unexploited tooth-friendly formula angle",
+      "category": "product-gap",
+      "detail": "Glycomacropeptide (GMP), a low-phenylalanine intact protein already used in PKU medical foods, has been shown to inhibit adhesion of cariogenic bacteria and is used in toothpastes, yet no PKU GMP product is positioned on dental benefit.",
+      "market_signal": "A dual claim (lower Phe plus lower cariogenicity) is scientifically plausible and commercially unclaimed.",
+      "sources": [
+        {"title": "Food Products Made With Glycomacropeptide, a Low Phenylalanine Whey Protein", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3402906/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "topic": "Aspartame in toothpaste is an unaddressed PKU-specific product need",
+      "category": "product-gap",
+      "detail": "PKU patients must avoid aspartame, yet in the Latvian study only 42% of adults initially used aspartame-free oral-care products (rising to 60% after advice), and many could not name their toothpaste brand, showing a labeling and product-awareness gap.",
+      "market_signal": "A certified aspartame-free, PKU-labeled oral-care line answers a concrete safety requirement no mainstream brand flags.",
+      "sources": [
+        {"title": "Oral health care knowledge among Phenylketonuria patients in the Latvian population", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638625/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Dental cost and coverage add to family burden",
+      "category": "coverage",
+      "detail": "US dental care is poorly covered and costly (about $136 billion annual national spend), and among families of children with special health care needs 40% report financial burden and 16.3% report unmet preventive dental need, with out-of-pocket costs a documented barrier.",
+      "market_signal": "High out-of-pocket dental cost on a high-risk, low-coverage population strengthens the case for bundled preventive care and payer engagement.",
+      "sources": [
+        {"title": "Health and Economic Benefits of Oral Disease Interventions (CDC)", "url": "https://www.cdc.gov/nccdphp/priorities/oral-disease.html"},
+        {"title": "Caregiver Burdens and Preventive Dental Care for Children with Special Health Care Needs (National Survey of CSHCN)", "url": "https://link.springer.com/article/10.1007/s10995-016-2083-0"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "topic": "The PKU dental evidence base is still thin",
+      "category": "evidence",
+      "detail": "A UK Health Research Authority study was set up specifically to define the oral-health needs of children with PKU, signaling that the evidence base is small, heterogeneous, and not yet settled into standard care.",
+      "market_signal": "Whoever funds or runs the definitive PKU oral-health study owns the guideline narrative and the product-claim ground.",
+      "sources": [
+        {"title": "What are the oral health needs of children with Phenylketonuria (PKU)? (UK HRA)", "url": "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/what-are-the-oral-health-needs-of-children-with-phenylketonuria-pku/"}
+      ],
+      "confidence": "sourced"
+    }
+  ]
+}

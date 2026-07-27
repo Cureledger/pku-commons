@@ -18,11 +18,13 @@ mechanism-of-action science lives here by design.
 | Medical devices | [`data/devices.json`](data/devices.json) | 23 | The hardware layer, led by the missing home phe monitor (the biggest disruption gap in PKU) |
 | Companies | [`data/manufacturers.json`](data/manufacturers.json) | 27 | Who the players are and who owns whom |
 | Clinics & dietitians | [`data/clinics.json`](data/clinics.json) | 46 | The care-delivery layer and its access gaps |
+| Dental | [`data/dental.json`](data/dental.json) | 17 | The diet's toll on teeth and the missing PKU-aware dental care and products |
+| Mental health | [`data/mental_health.json`](data/mental_health.json) | 20 | High phe driving neuropsychiatric symptoms, and providers medicating instead of addressing diet |
 | Restaurants & schools | [`data/restaurants_schools.json`](data/restaurants_schools.json) | 24 | Two near-empty consumer markets |
 | Money | [`data/payers.json`](data/payers.json) | 25 | Market size, reimbursement, and the legislation that could unlock it |
 | Advocacy & legal | [`data/advocacy_legal.json`](data/advocacy_legal.json) | 29 | Patient organizations and the litigation shaping access |
 
-Total: **377 cited records** across twelve datasets.
+Total: **414 cited records** across fourteen datasets.
 
 ## Provenance rules
 

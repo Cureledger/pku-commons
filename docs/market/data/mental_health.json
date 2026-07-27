@@ -1,0 +1,219 @@
+{
+  "dataset": "mental-health",
+  "title": "Mental health & neuropsychiatric care gap",
+  "updated": "2026-07-26",
+  "source_note": "Compiled from peer-reviewed PKU literature (systematic reviews and meta-analyses, cohort and audit studies, the PKU executive-function literature, dietary-resumption and drug studies), clinical guidelines (ACMG 2023, European/ESPKU), and patient-reported evidence (NPKUA TruePKU Voice of the Patient report). The core clinical facts are well documented: adults and adolescents with PKU, especially those off diet or with high phenylalanine (Phe), carry an elevated neuropsychiatric burden, and lowering Phe improves mood, attention, and cognition. The specific market thesis, that struggling PKU patients are often handed psychiatric medication instead of being routed back to diet and PKU-literate care, is a reasoned inference built on documented pieces (SSRIs may work poorly in PKU, most clinics do not screen for psychiatric distress, most patients get no metabolic-team mental health support, and general mental-health providers lack PKU literacy). Records that rest on that inference rather than a single hard statistic are marked confidence estimate and say so. This is market and education-gap analysis for investors and innovators, not medical advice.",
+  "records": [
+    {
+      "topic": "High phe drives anxiety, depression, and inattention",
+      "category": "symptom-burden",
+      "detail": "A systematic review and meta-analysis found neuropsychiatric symptoms in adults with PKU exceed general-population estimates for inattention, hyperactivity, depression, and anxiety, with high Phe associated with more symptoms and low Phe with better performance.",
+      "market_signal": "The core demand signal: a definable patient population carrying above-baseline psychiatric burden tied to a measurable biomarker.",
+      "sources": [
+        {"title": "Systematic Review and Meta-Analysis of Neuropsychiatric Symptoms and Executive Functioning in Adults With PKU (PubMed 27805419)", "url": "https://pubmed.ncbi.nlm.nih.gov/27805419/"},
+        {"title": "Full article (Developmental Neuropsychology)", "url": "https://www.tandfonline.com/doi/full/10.1080/87565641.2016.1243109"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Measured prevalence of mood and anxiety diagnoses in PKU adults",
+      "category": "symptom-burden",
+      "detail": "A retrospective audit of 220 non-pregnant adults at one large UK centre found anxiety in 19.1 percent, depression in 14.1 percent, low mood in 14.5 percent, and mood swings in 10 percent, documented diagnoses rather than screening estimates.",
+      "market_signal": "Roughly one in five adult PKU patients carries a documented anxiety diagnosis, a concrete addressable segment.",
+      "sources": [
+        {"title": "Mental health diagnoses in adults with PKU: a retrospective systematic audit (PMC8691050)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8691050/"},
+        {"title": "Orphanet Journal of Rare Diseases (Springer)", "url": "https://link.springer.com/article/10.1186/s13023-021-02138-z"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Executive-function deficits persist into adulthood",
+      "category": "symptom-burden",
+      "detail": "A systematic review of early-treated adults found the most consistent Phe-related impairments in working memory, sustained attention, and inhibitory control; the executive-deficit hypothesis links these to disrupted prefrontal dopamine.",
+      "market_signal": "Executive dysfunction, not just mood, is the durable functional complaint that tools and therapy can target.",
+      "sources": [
+        {"title": "A systematic review of cognitive functioning in early treated adults with PKU (PMC6117942)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6117942/"},
+        {"title": "Executive Functions and Long-Term Metabolic Control in Adults with PKU (PMC11943845)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11943845/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "A phe threshold correlates with worse mood",
+      "category": "symptom-burden",
+      "detail": "In the UK audit, adults with two-year average Phe above 600 micromol per liter had over three times the odds of a low-mood diagnosis (odds ratio 3.1, p equals 0.041), the clearest dose-response link between metabolic control and psychiatric outcome in that cohort.",
+      "market_signal": "Phe level is a screenable, trackable predictor of mood, which is exactly what a data product can operationalize.",
+      "sources": [
+        {"title": "Mental health diagnoses in adults with PKU (PMC8691050)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8691050/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Patients name mental health as a top burden",
+      "category": "evidence",
+      "detail": "The NPKUA TruePKU Externally-Led Patient-Focused Drug Development Voice of the Patient report (2025) lists executive-function trouble, attention problems, emotional-regulation difficulty, anxiety, and depression among the most commonly reported symptoms interfering with daily and family life.",
+      "market_signal": "Patient-reported priority validates demand from the buyer side, not just the literature.",
+      "sources": [
+        {"title": "TruePKU EL-PFDD Voice of the Patient Report (NPKUA, 2025 PDF)", "url": "https://www.npkua.org/wp-content/uploads/2025/12/TruePKU-VOP-Report-WEB-VERSION93.pdf"},
+        {"title": "TruePKU EL-PFDD program page (NPKUA)", "url": "https://www.npkua.org/truepku/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Returning to diet improves mood, anxiety, and cognition",
+      "category": "reversibility",
+      "detail": "The ReDAPT study of adults who resumed dietary control after stopping showed cognitive-proficiency scores rising from about 91.9 to 99.4 over twelve months, with more time on diet correlating with lower anxiety and depression, though the sample was small (nine participants).",
+      "market_signal": "Direct evidence for the treat-the-diet thesis: the intervention is dietary re-engagement, not a psychiatric drug.",
+      "sources": [
+        {"title": "The effect of improved dietary control on cognitive and psychiatric functioning in adults with PKU: the ReDAPT study (PMC7814424)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7814424/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Sapropterin reduces ADHD-type inattention",
+      "category": "reversibility",
+      "detail": "A randomized, placebo-controlled, double-blind study found sapropterin reduced inattentive ADHD symptoms within the first four weeks, with gains maintained across 26 weeks, indicating these symptoms are potentially reversible when blood Phe is lowered.",
+      "market_signal": "Shows the inattention that looks like adult ADHD can respond to lowering Phe, reframing the treatment target.",
+      "sources": [
+        {"title": "RCT of sapropterin for ADHD symptoms and executive function in PKU (ScienceDirect S1096719214003710)", "url": "https://www.sciencedirect.com/science/article/pii/S1096719214003710"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Pegvaliase users report brain fog, focus, and anxiety improving",
+      "category": "reversibility",
+      "detail": "In an interview study of adults on pegvaliase, most rated quality of life better or much better than before, citing loss of brain fog, improved focus at work, and improved anxiety as Phe fell; review literature describes adult psychiatric and cognitive symptoms as often reversible.",
+      "market_signal": "Drug-driven Phe reduction converts into reported mental-health gains, a template the diet-and-therapy side can borrow.",
+      "sources": [
+        {"title": "Long-term comparative effectiveness of pegvaliase versus standard of care (ScienceDirect S1096719219303634)", "url": "https://www.sciencedirect.com/science/article/pii/S1096719219303634"},
+        {"title": "Psychiatric and Cognitive Aspects of PKU: Limitations of Diet and Promise of New Treatments (PMC6748028)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6748028/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Phe itself changes cognition under controlled conditions",
+      "category": "reversibility",
+      "detail": "The PICO trial, a randomized placebo-controlled crossover study, tested the direct effect of Phe on cognitive, cerebral, and neurometabolic parameters in adults, supporting the causal link between Phe exposure and brain function rather than mere association.",
+      "market_signal": "Causal-grade evidence strengthens the claim that the lever is Phe, which underwrites diet-first products.",
+      "sources": [
+        {"title": "Impact of phenylalanine on cognitive, cerebral, and neurometabolic parameters (the PICO study) (PMC7020385)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7020385/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Standard antidepressants may work poorly in PKU",
+      "category": "over-medication-gap",
+      "detail": "The UK audit authors note that first-line SSRIs may be less effective in PKU because high Phe lowers brain serotonin availability, which the drug depends on, so treating the symptom without lowering Phe can underperform.",
+      "market_signal": "A published reason the head-pill-first path can fail, and an opening for diet-plus-therapy positioning.",
+      "sources": [
+        {"title": "Mental health diagnoses in adults with PKU (PMC8691050)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8691050/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Psychiatric symptoms get treated without checking phe or diet",
+      "category": "over-medication-gap",
+      "detail": "No published study directly quantifies how often PKU patients receive psychiatric medication instead of a Phe or diet review, but the pieces line up: symptoms mimic primary psychiatric illness, metabolic causes commonly go unrecognized (diagnostic overshadowing), and most clinics do not screen, so this is a reasoned care-gap inference, not a measured rate.",
+      "market_signal": "The central thesis, honestly flagged: a documented-adjacent gap where diet review is skipped in favor of a prescription.",
+      "sources": [
+        {"title": "Psychiatric and Cognitive Aspects of PKU (PMC6748028)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6748028/"},
+        {"title": "Diagnostic overshadowing (overview)", "url": "https://en.wikipedia.org/wiki/Diagnostic_overshadowing"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "topic": "Most metabolic clinics do not screen for psychiatric distress",
+      "category": "provider-education",
+      "detail": "Work on clinic screening reports that only about 15 percent of metabolic clinics routinely screen for psychiatric symptoms such as depression, anxiety, and phobias, so distress is largely detected by chance rather than by protocol.",
+      "market_signal": "A near-empty screening market inside the very clinics that own these patients.",
+      "sources": [
+        {"title": "Screening for cognitive and social-emotional problems in individuals with PKU: tools for use in the metabolic clinic (PubMed 20123479)", "url": "https://pubmed.ncbi.nlm.nih.gov/20123479/"},
+        {"title": "Routine screening yields high incidence of psychiatric distress in PKU clinics (ScienceDirect S1096719212004131)", "url": "https://www.sciencedirect.com/science/article/abs/pii/S1096719212004131"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "General mental-health providers lack PKU literacy",
+      "category": "provider-education",
+      "detail": "There is no formal survey of PKU knowledge among therapists, psychiatrists, and GPs, but PKU is rare, absent from most mental-health training, and its symptoms overlap ordinary anxiety, depression, and ADHD, so a non-metabolic provider will rarely think to ask about Phe or diet. This is a reasoned inference, not a measured statistic.",
+      "market_signal": "Provider education and a referral or literacy layer is a greenfield with essentially no incumbent.",
+      "sources": [
+        {"title": "Psychiatric and Cognitive Aspects of PKU (PMC6748028)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6748028/"}
+      ],
+      "confidence": "estimate"
+    },
+    {
+      "topic": "Few patients get mental-health care from their metabolic team",
+      "category": "care-access",
+      "detail": "In a study of adult PKU clinics in the UK, only about 7 percent of patients obtained mental-health treatment through their metabolic clinic or a metabolic-team psychologist, so most who need support are sent into a general system that does not know PKU.",
+      "market_signal": "The metabolic-clinic-to-mental-health handoff is broken, the exact seam a PKU-aware service can fill.",
+      "sources": [
+        {"title": "Adult PKU Clinics in the UK: Users Experiences and Perspectives (PMC10610305)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10610305/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "When clinics do screen, distress turns up in large numbers",
+      "category": "care-access",
+      "detail": "A diversified-care study reported that routine screening yields a high incidence of psychiatric distress in PKU clinics, meaning the burden is not rare or hidden by design but simply undetected wherever screening is not standard.",
+      "market_signal": "Screening is high-yield, so a low-cost intake tool surfaces a backlog of unmet need on day one.",
+      "sources": [
+        {"title": "A diversified approach for PKU treatment: routine screening yields high incidence of psychiatric distress (ScienceDirect S1096719212004131)", "url": "https://www.sciencedirect.com/science/article/abs/pii/S1096719212004131"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Maternal PKU carries a distinct mental-health load",
+      "category": "care-access",
+      "detail": "Women managing pregnancy under strict Phe control face heavy stress from diet and daily formula, and reports on maternal PKU describe anxiety or depression in a large share of cases, one case-report review citing about 34 percent, on top of fear about fetal effects of high Phe.",
+      "market_signal": "A time-bound, high-stakes segment (preconception and pregnancy) with acute demand for PKU-aware emotional support.",
+      "sources": [
+        {"title": "Maternal PKU: Consequences of Dietary Non-Adherence and Gaps in Preconception Care, a Case Report (PMC11856750)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11856750/"},
+        {"title": "Psychosocial issues and outcomes in maternal PKU (ScienceDirect S1096719209002984)", "url": "https://www.sciencedirect.com/science/article/abs/pii/S1096719209002984"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Parents of young PKU children carry mealtime anxiety",
+      "category": "care-access",
+      "detail": "A case-control study found elevated anxiety and altered coping in parents and children around weaning and solid-food introduction, driven by the burden of protein substitute and natural-protein restriction, a caregiver mental-health need distinct from the patient's own.",
+      "market_signal": "The buyer is often the parent; caregiver support and coping tools are a parallel, underserved market.",
+      "sources": [
+        {"title": "Mealtime Anxiety and Coping Behaviour in Parents and Children during Weaning in PKU (PMC6950038)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6950038/"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Guidelines endorse lifelong control and neuropsychiatric monitoring",
+      "category": "provider-education",
+      "detail": "The ACMG 2023 evidence-based guideline backs lifelong Phe control (target 120 to 360 micromol per liter) and age-specific neuropsychiatric and cognitive assessment, and European and ESPKU guidance similarly ties lifelong dietary control to better neuropsychiatric outcomes.",
+      "market_signal": "Guideline language exists to justify reimbursement and adoption of monitoring, but delivery lags the recommendation.",
+      "sources": [
+        {"title": "Phenylalanine hydroxylase deficiency: 2023 ACMG evidence-based clinical guideline (Genetics in Medicine)", "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"},
+        {"title": "ACMG sets new lifelong guidelines for managing PAH deficiency (News-Medical)", "url": "https://www.news-medical.net/news/20241204/ACMG-sets-new-lifelong-guidelines-for-managing-phenylalanine-hydroxylase-deficiency.aspx"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "Validated screening tools exist but sit mostly unused",
+      "category": "service-opportunity",
+      "detail": "A uniform assessment method for PKU already specifies short, computer-scored instruments (for adults the BRIEF, Beck Anxiety Inventory, and Beck Depression Inventory II), administrable in under an hour in English and Spanish, yet routine use in clinics remains the exception.",
+      "market_signal": "The instruments are off-the-shelf; the opportunity is workflow, delivery, and interpretation, not inventing the test.",
+      "sources": [
+        {"title": "Screening for cognitive and social-emotional problems in PKU: tools for the metabolic clinic (PubMed 20123479)", "url": "https://pubmed.ncbi.nlm.nih.gov/20123479/"},
+        {"title": "Measuring Burden of Illness in PKU: PKU Symptom Severity and Impacts Scale (Advances in Therapy)", "url": "https://link.springer.com/article/10.1007/s12325-021-01986-2"}
+      ],
+      "confidence": "sourced"
+    },
+    {
+      "topic": "PKU-literate telehealth therapy barely exists",
+      "category": "service-opportunity",
+      "detail": "Searches for PKU-aware or metabolic-aware telehealth counseling return only generic behavioral-health services with no PKU specialization, so a therapist who understands Phe, diet burden, and the diet-first framing is effectively unavailable at scale. This absence is an observed market gap, presented as a reasoned inference rather than a counted figure.",
+      "market_signal": "The clearest whitespace: a national PKU-literate telehealth therapy and screening service, embeddable with metabolic clinics.",
+      "sources": [
+        {"title": "Adult PKU Clinics in the UK: Users Experiences and Perspectives (PMC10610305)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10610305/"},
+        {"title": "Psychiatric and Cognitive Aspects of PKU (PMC6748028)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6748028/"}
+      ],
+      "confidence": "estimate"
+    }
+  ]
+}
