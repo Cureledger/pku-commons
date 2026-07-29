@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>European PKU Guidelines: digest and US gap analysis</title>
+<meta content="The 86 recommendations in the European PKU guidelines, with a column comparing each one to the care North Carolinians receive." name="description"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
+<link href="assets/styles.css" rel="stylesheet"/>
+<style>
+.gl-hero { background: var(--ink); color: #fff; padding: 56px 0 46px; }
+.gl-hero .kicker { color: #b9c4ff; }
+.gl-hero h1 { color: #fff; font-size: clamp(2.2rem, 5vw, 3.3rem); }
+.gl-hero .lede { color: #d7d7d2; max-width: 66ch; font-size: 1.1rem; }
+.gl-hero .lede b { color: #fff; }
+.gl-hero-logo { display: block; margin-bottom: 20px; }
+.gl-hero .hero-foot { color: #9a9a95; font-size: .85rem; margin-top: 20px; max-width: 78ch; }
+.gl-hero .hero-foot a { color: #b9c4ff; }
+
+/* scorecard */
+.scoreband { background: var(--wash); border-bottom: 1px solid var(--line); padding: 26px 0; }
+.score-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.score-cell { background: var(--paper); padding: 18px; }
+.score-num { font-family: var(--font-disp); font-weight: 700; font-size: 1.8rem; letter-spacing: -.02em; line-height: 1; }
+.score-lab { font-size: .82rem; color: var(--ink); margin-top: 5px; line-height: 1.3; font-weight: 600; }
+.score-lab span { display: block; font-weight: 400; color: var(--ink-faint); font-size: .74rem; margin-top: 2px; }
+.score-intro { max-width: 70ch; margin: 0 0 16px; color: var(--ink-soft); font-size: .95rem; }
+.score-grid { grid-template-columns: repeat(6,1fr); }
+@media (max-width: 1000px){ .score-grid { grid-template-columns: repeat(3,1fr);} }
+.sc-meets .score-num { color: #1a7a3c; }
+.sc-partial .score-num { color: #a86a10; }
+.sc-fails .score-num { color: #b02a2a; }
+.sc-unknown .score-num { color: var(--ink-faint); }
+@media (max-width: 620px){ .score-grid { grid-template-columns: repeat(2,1fr);} }
+
+.tabbar { position: sticky; top: 56px; z-index: 8; background: rgba(255,255,255,.94); backdrop-filter: saturate(1.4) blur(8px); border-bottom: 1px solid var(--line); }
+.tabbar .wrap { display: flex; flex-wrap: wrap; gap: 4px 6px; padding-top: 8px; padding-bottom: 8px; }
+.tab { flex: 0 0 auto; font-family: var(--font-disp); font-weight: 600; font-size: .88rem; color: var(--ink-soft); padding: 7px 13px; border-radius: 999px; cursor: pointer; border: 1px solid transparent; white-space: nowrap; background: none; }
+.tab:hover { color: var(--ink); background: var(--wash); }
+.tab.active { color: #fff; background: var(--blue); border-color: var(--blue); }
+
+.panel { display: none; padding: 34px 0 20px; }
+.panel.active { display: block; }
+.panel-head h2 { margin-bottom: 6px; }
+.panel-head p { color: var(--ink-soft); max-width: 74ch; margin: 0; }
+
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 18px 0 14px; }
+.toolbar input[type=search]{ font-family: var(--font); font-size: .92rem; padding: 8px 12px; border: 1px solid var(--line); border-radius: var(--radius-sm); min-width: 220px; flex: 1 1 220px; max-width: 340px; }
+.chip { font-family: var(--font-mono); font-size: .74rem; padding: 5px 10px; border: 1px solid var(--line); border-radius: 999px; cursor: pointer; color: var(--ink-soft); background: var(--paper); }
+.chip:hover { border-color: var(--blue-line); color: var(--ink); }
+.chip.active { background: var(--blue-wash); border-color: var(--blue-line); color: var(--blue-dk); }
+.count { margin-left: auto; font-family: var(--font-mono); font-size: .78rem; color: var(--ink-faint); }
+
+.tbl-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
+table.data { width: 100%; border-collapse: collapse; font-size: .9rem; }
+table.data th { text-align: left; font-family: var(--font-disp); font-weight: 600; font-size: .74rem; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-faint); padding: 11px 13px; border-bottom: 1px solid var(--line); background: var(--wash); white-space: nowrap; }
+table.data td { padding: 12px 13px; border-bottom: 1px solid var(--line-2); vertical-align: top; }
+table.data tr:last-child td { border-bottom: none; }
+table.data tr:hover td { background: var(--wash); }
+td.num { font-family: var(--font-mono); font-size: .8rem; color: var(--ink-faint); white-space: nowrap; }
+td.rec { font-weight: 600; color: var(--ink); min-width: 230px; }
+td.gap { min-width: 250px; }
+td.gap .gap-note { display: block; margin-top: 5px; font-weight: 400; color: var(--ink-soft); font-size: .87rem; }
+
+.badge { display: inline-block; font-family: var(--font-mono); font-size: .68rem; font-weight: 500; padding: 2px 7px; border-radius: 5px; white-space: nowrap; }
+.b-meets { background: #e4f6ea; color: #1a7a3c; }
+.b-partial { background: #fdf0dc; color: #a86a10; }
+.b-fails { background: #fde4e4; color: #b02a2a; }
+.b-unknown { background: var(--wash-2); color: var(--ink-faint); }
+.b-strong { background: var(--blue-wash); color: var(--blue-dk); }
+.b-conditional { background: var(--wash-2); color: var(--ink-soft); }
+/* failure taxonomy */
+.g-met { background: #e4f6ea; color: #1a7a3c; }
+.g-notfunded { background: #fde4e4; color: #b02a2a; font-weight: 600; }
+.g-nousstandard { background: #fdeadc; color: #a34a10; }
+.g-usstandarddiffers { background: #fdf0dc; color: #a86a10; }
+.g-noaccess { background: #f6e4f2; color: #8a2a72; }
+.g-partiallydelivered { background: var(--wash-2); color: var(--ink-soft); }
+.g-unverified { background: var(--wash-2); color: var(--ink-faint); }
+td.grade { white-space: nowrap; }
+td.grade .ev { display: block; }
+td.grade .badge { margin-top: 3px; }
+td.failcell { white-space: nowrap; }
+td.gap { font-size: .88rem; color: var(--ink); }
+.ev { font-family: var(--font-mono); font-size: .7rem; color: var(--ink-faint); white-space: nowrap; }
+.src a { font-family: var(--font-mono); font-size: .72rem; }
+.src { white-space: nowrap; }
+
+.loading, .empty { padding: 36px 16px; text-align: center; color: var(--ink-faint); font-family: var(--font-mono); font-size: .85rem; }
+.disclaimer { border-top: 1px solid var(--line); padding: 24px 0 44px; color: var(--ink-faint); font-size: .82rem; }
+.disclaimer .wrap { max-width: 84ch; }
+</style>
+</head>
+<body>
+<nav class="nav">
+<div class="wrap">
+<a class="brand" href="index.html"><img class="brand-logo" src="assets/pku-commons-logo.png" alt="PKU Commons logo" width="28" height="28"/>PKU <span>Commons</span></a>
+<div class="spacer"></div>
+<a class="link" href="index.html">Home</a>
+<a class="link" href="clinicians.html">Clinicians</a>
+<a class="link" href="families.html">Families</a>
+<a class="link" href="market.html">Market Atlas</a>
+<a class="link" href="guidelines.html" aria-current="page">Guidelines</a>
+<a class="link" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">GitHub</a>
+</div>
+</nav>
+
+<header class="gl-hero">
+<div class="wrap">
+<img class="gl-hero-logo" src="assets/pku-commons-logo.png" alt="PKU Commons" width="52" height="52"/>
+<span class="kicker">European PKU guidelines</span>
+<h1>What good PKU care looks like, and what North Carolinians get.</h1>
+</div>
+</header>
+
+<section class="scoreband">
+<div class="wrap">
+<p class="score-intro">We compared NC PKU care to the 2025 EU recommendations for care.</p>
+<div class="score-grid">
+<div class="score-cell sc-fails"><div class="score-num" id="s-notfunded">…</div><div class="score-lab">Not funded<span>No payer is required to cover it</span></div></div>
+<div class="score-cell sc-partial"><div class="score-num" id="s-differs">…</div><div class="score-lab">US standard differs<span>US guidance sets a different rule</span></div></div>
+<div class="score-cell sc-partial"><div class="score-num" id="s-nostd">…</div><div class="score-lab">No US standard<span>US guidance does not address it</span></div></div>
+<div class="score-cell sc-fails"><div class="score-num" id="s-noaccess">…</div><div class="score-lab">No access<span>No provider or centre in reach</span></div></div>
+<div class="score-cell sc-unknown"><div class="score-num" id="s-partialdel">…</div><div class="score-lab">Partially delivered<span>Delivered inconsistently</span></div></div>
+<div class="score-cell sc-meets"><div class="score-num" id="s-met">…</div><div class="score-lab">Met<span>Delivered as recommended</span></div></div>
+</div>
+</div>
+</section>
+
+<div class="tabbar"><div class="wrap" id="tabbar"></div></div>
+<main class="wrap" id="panels"></main>
+
+<section class="disclaimer">
+<div class="wrap">
+van Wegberg AMJ, MacDonald A, Ahring K, et al. European guidelines on diagnosis and treatment of phenylketonuria:
+First revision. <i>Molecular Genetics and Metabolism</i>. 2025;145(2):109125.
+<a href="https://doi.org/10.1016/j.ymgme.2025.109125" target="_blank" rel="noopener">doi.org/10.1016/j.ymgme.2025.109125</a>.
+Open access, CC BY 4.0.
+</div>
+</section>
+
+<script>
+const DOMAINS=[
+ {id:'diet', name:'Diet & Nutrition', blurb:'Protein substitutes, low protein foods, and dietary management.'},
+ {id:'screening', name:'Screening & Diagnosis', blurb:'Case finding, differential diagnosis, and genotyping.'},
+ {id:'targets', name:'Treatment Targets', blurb:'Treatment thresholds and target blood phenylalanine by age.'},
+ {id:'monitoring', name:'Monitoring', blurb:'Testing frequency, clinic visit intervals, and biomarkers.'},
+ {id:'care', name:'Care Team & Follow-up', blurb:'Care team composition, transition to adult care, and organ and mental health surveillance.'},
+ {id:'maternal', name:'Maternal PKU', blurb:'Preconception control, pregnancy monitoring, and postpartum care.'},
+ {id:'special', name:'Special Groups', blurb:'Late diagnosed and previously untreated patients.'},
+ {id:'drugs', name:'Drug Therapy', blurb:'Sapropterin responsiveness and long term use, and pegvaliase.'}
+];
+const FILE='guidelines/data/recommendations.json';
+let RECS=[];
+const state={};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function badge(v,cls){if(!v)return '<span class="badge b-unknown">unclear</span>';
+  const k=String(v).toLowerCase().replace(/[^a-z]/g,'');return '<span class="badge b-'+k+'">'+esc(v)+'</span>';}
+function gapBadge(v){if(!v)return '<span class="badge g-unverified">unverified</span>';
+  const k=String(v).toLowerCase().replace(/[^a-z]/g,'');return '<span class="badge g-'+k+'">'+esc(v)+'</span>';}
+function srcCell(r){const s=r.sources||[];
+  const links=s.slice(0,3).map((x,i)=>x&&x.url?'<a href="'+esc(x.url)+'" target="_blank" rel="noopener" title="'+esc(x.title||'')+'">['+(i+1)+']</a>':'').filter(Boolean).join(' ');
+  return '<div class="src">'+(links||'<span class="ev">—</span>')+'</div>';}
+
+async function load(){
+  const tabbar=document.getElementById('tabbar'), panels=document.getElementById('panels');
+  DOMAINS.forEach((d,i)=>{
+    const t=document.createElement('button');t.className='tab'+(i===0?' active':'');t.textContent=d.name;t.dataset.id=d.id;
+    t.onclick=()=>selectTab(d.id);tabbar.appendChild(t);
+    const p=document.createElement('section');p.className='panel'+(i===0?' active':'');p.id='panel-'+d.id;
+    p.innerHTML='<div class="panel-head"><h2>'+esc(d.name)+'</h2><p>'+esc(d.blurb)+'</p></div>'+
+      '<div class="toolbar" id="tb-'+d.id+'"></div><div class="tbl-wrap" id="body-'+d.id+'"><div class="loading">Loading…</div></div>';
+    panels.appendChild(p);
+  });
+  try{
+    const res=await fetch(FILE,{cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const j=await res.json();
+    RECS=j.records||[];
+  }catch(e){
+    DOMAINS.forEach(d=>{document.getElementById('body-'+d.id).innerHTML='<div class="loading">Digest pending. '+esc(e.message)+'</div>';});
+    return;
+  }
+  DOMAINS.forEach(d=>{state[d.id]={q:'',f:new Set()};renderToolbar(d);draw(d);});
+  score();
+}
+function rowsFor(d){return RECS.filter(r=>r.domain===d.name);}
+function renderToolbar(d){
+  const tb=document.getElementById('tb-'+d.id);
+  const order=['Not funded','US standard differs','No US standard','No access','Partially delivered','Met','Unverified'];
+  const present=new Set(rowsFor(d).map(r=>r.gap).filter(Boolean));
+  const vals=order.filter(v=>present.has(v));
+  let h='<input type="search" placeholder="Search…" oninput="onSearch(\''+d.id+'\',this.value)"/>';
+  vals.forEach(v=>{h+='<button class="chip" onclick="toggle(\''+d.id+'\',\''+esc(v)+'\',this)">'+esc(v)+'</button>';});
+  h+='<span class="count" id="count-'+d.id+'"></span>';
+  tb.innerHTML=h;
+}
+function draw(d){
+  const st=state[d.id];
+  let rows=rowsFor(d).filter(r=>{
+    if(st.f.size&&!st.f.has(String(r.gap)))return false;
+    if(st.q)return JSON.stringify(r).toLowerCase().includes(st.q.toLowerCase());
+    return true;});
+  let h='<table class="data"><thead><tr><th>#</th><th>Standard of care (Europe)</th><th>Grade</th><th>What North Carolina delivers</th><th>Failure</th><th>Source</th></tr></thead><tbody>';
+  if(!rows.length)h+='<tr><td colspan="6"><div class="empty">No rows match.</div></td></tr>';
+  rows.sort((a,b)=>a.num-b.num).forEach(r=>{
+    h+='<tr><td class="num">'+esc(r.num)+'</td>'+
+      '<td class="rec">'+esc(r.digest||'')+'</td>'+
+      '<td class="grade"><span class="ev">'+esc(r.level||'')+'</span>'+badge(r.strength)+
+        (r.agree?'<span class="ev">'+esc(r.agree)+' agree</span>':'')+'</td>'+
+      '<td class="gap">'+esc(r.nc_note||'')+'</td>'+
+      '<td class="failcell">'+gapBadge(r.gap)+'</td>'+
+      '<td>'+srcCell(r)+'</td></tr>';});
+  h+='</tbody></table>';
+  document.getElementById('body-'+d.id).innerHTML=h;
+  const c=document.getElementById('count-'+d.id);
+  if(c)c.textContent=rows.length+' of '+rowsFor(d).length;
+}
+function onSearch(id,v){state[id].q=v;draw(DOMAINS.find(x=>x.id===id));}
+function toggle(id,v,el){const s=state[id].f;if(s.has(v)){s.delete(v);el.classList.remove('active');}else{s.add(v);el.classList.add('active');}draw(DOMAINS.find(x=>x.id===id));}
+function selectTab(id){
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.id===id));
+  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id==='panel-'+id));
+  window.scrollTo({top:document.querySelector('.tabbar').offsetTop-4,behavior:'smooth'});
+}
+function score(){
+  const c={};
+  RECS.forEach(r=>{const k=r.gap||'Unverified';c[k]=(c[k]||0)+1;});
+  const map={'s-notfunded':'Not funded','s-differs':'US standard differs','s-nostd':'No US standard',
+             's-noaccess':'No access','s-partialdel':'Partially delivered','s-met':'Met'};
+  Object.entries(map).forEach(([id,label])=>{
+    const el=document.getElementById(id); if(el) el.textContent=c[label]||0;});
+}
+load();
+</script>
+</body>
+</html>

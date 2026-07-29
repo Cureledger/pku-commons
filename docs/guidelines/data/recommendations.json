@@ -1,0 +1,2022 @@
+{
+ "dataset": "espku-guidelines",
+ "title": "European PKU guidelines, first revision: digest and US gap analysis",
+ "updated": "2026-07-29",
+ "source_note": "Recommendations paraphrased from van Wegberg et al., European guidelines on diagnosis and treatment of phenylketonuria: first revision, Molecular Genetics and Metabolism 145 (2025) 109125. Evidence level, strength, and expert agreement reported as published. The North Carolina column is our own assessment of care access with per-row sources.",
+ "records": [
+  {
+   "num": 1,
+   "domain": "Screening & Diagnosis",
+   "digest": "Every country should run newborn screening for PKU. Finding babies early is what makes early treatment possible, and it pays for itself.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "meets",
+   "nc_note": "North Carolina requires a blood spot on every baby born in the state under G.S. 130A-125, and PKU has been screened here since 1966.",
+   "sources": [
+    {
+     "title": "NCDHHS Newborn Screening Services",
+     "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/newborn-screening-services"
+    },
+    {
+     "title": "North Carolina S.L. 1991-661, An Act to Establish a Newborn Screening Program",
+     "url": "https://www.ncleg.net/enactedlegislation/sessionlaws/html/1991-1992/sl1991-661.html"
+    },
+    {
+     "title": "HRSA Newborn Screening Panel, North Carolina",
+     "url": "https://newbornscreening.hrsa.gov/your-state/north-carolina"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 2,
+   "domain": "Screening & Diagnosis",
+   "digest": "Test mothers who were never screened themselves, especially if their baby shows high phenylalanine or signs of maternal PKU syndrome.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "US centers do test the mother when an infant screens positive or presents with the maternal PKU pattern, so the reactive half happens.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "Berry et al., Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 3,
+   "domain": "Screening & Diagnosis",
+   "digest": "Screen immigrant and refugee children under six as a matter of routine, and older ones when symptoms suggest it.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "CDC domestic refugee screening guidance routes newborns to the state panel but sets no routine PKU test for immigrant or refugee children past the newborn period.",
+   "sources": [
+    {
+     "title": "CDC Immigrant and Refugee Health, Domestic Guidance: Laboratory Testing",
+     "url": "https://www.cdc.gov/immigrant-refugee-health/hcp/domestic-guidance/laboratory-testing.html"
+    },
+    {
+     "title": "CDC Yellow Book, Post-Arrival Medical Screening of Newly Arrived Refugees, Immigrants, and Migrants",
+     "url": "https://www.cdc.gov/yellow-book/hcp/refugees-immigrants-migrants/post-arrival-medical-screening.html"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 4,
+   "domain": "Screening & Diagnosis",
+   "digest": "Before starting treatment, rule out BH4 cofactor defects and DNAJC12 deficiency, which look similar but need different treatment.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "DNAJC12 testing is not routine anywhere in the US and usually turns up only through a broader gene panel or exome, so that step is inconsistent here.",
+   "sources": [
+    {
+     "title": "GeneReviews, Phenylalanine Hydroxylase Deficiency",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    },
+    {
+     "title": "Donnelly et al., A Case of DNAJC12-Deficient Hyperphenylalaninemia Detected on Newborn Screening",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10801465/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 5,
+   "domain": "Screening & Diagnosis",
+   "digest": "Genotype the patient. It separates PAH deficiency from lookalikes, hints at sapropterin response, and helps pin down severity.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "85%",
+   "us_status": "meets",
+   "nc_note": "The 2024 ACMG guideline goes further than Europe and recommends PAH genetic testing at birth for every confirmed case.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "ACMG releases evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.eurekalert.org/news-releases/1066234"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 6,
+   "domain": "Screening & Diagnosis",
+   "digest": "Sort patients into groups: no treatment needed below 360, treatment needed and cofactor responsive, or treatment needed and not responsive.",
+   "level": "very low (D)",
+   "strength": "conditional",
+   "agree": "75%",
+   "us_status": "partial",
+   "nc_note": "The practical dividing line is the same, because ACMG also puts the treatment threshold at 360 umol/L, but the vocabulary a North Carolina family hears in clinic is not the European scheme.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "GeneReviews, Phenylalanine Hydroxylase Deficiency",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 7,
+   "domain": "Treatment Targets",
+   "digest": "Begin treatment as fast as possible, ideally before the baby is ten days old.",
+   "level": "expert opinion (for 10 days of age)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "partial",
+   "nc_note": "US guidance also calls for treatment in the first week to ten days of life, and North Carolina screens early enough to permit that.",
+   "sources": [
+    {
+     "title": "GeneReviews, Phenylalanine Hydroxylase Deficiency",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    },
+    {
+     "title": "Delays in Newborn Screening for Phenylketonuria from Birth to Diagnosis",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11120001/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 8,
+   "domain": "Treatment Targets",
+   "digest": "Do not treat below 360. Keep checking at low frequency until at least age six in case levels climb.",
+   "level": "low (C), however the age cut-off: expert opinion",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "ACMG likewise does not treat untreated levels at or below 360 umol/L, so the threshold itself matches.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "GMDI Nutrition Management Guideline for Phenylketonuria",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    }
+   ],
+   "gap": "No US standard"
+  },
+  {
+   "num": 9,
+   "domain": "Treatment Targets",
+   "digest": "Start treatment in any child whose untreated level reaches 360 or above.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "meets",
+   "nc_note": "This matches ACMG, which calls for lifelong treatment when untreated phenylalanine runs above 360 umol/L.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "NC Medicaid Clinical Coverage Policy 5A-3, Nursing Equipment and Supplies",
+     "url": "https://medicaid.ncdhhs.gov/documents/files/5a-3-4/open"
+    },
+    {
+     "title": "NPKUA, Insurance Coverage",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 10,
+   "domain": "Treatment Targets",
+   "digest": "Through age twelve, aim to keep blood phenylalanine between 120 and 360.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "meets",
+   "nc_note": "Identical to the US target for this age group under both the 2014 and the 2024 ACMG guidelines.",
+   "sources": [
+    {
+     "title": "Vockley et al., Phenylalanine hydroxylase deficiency: diagnosis and management guideline (Genet Med 2014)",
+     "url": "https://www.nature.com/articles/gim2013157"
+    },
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 11,
+   "domain": "Treatment Targets",
+   "digest": "From twelve to eighteen, the target range widens to between 120 and 600.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "fails",
+   "nc_note": "ACMG holds every US patient to 360 umol/L for life, so a North Carolina teenager sitting at 500 umol/L is told to tighten control while the same teenager in Europe would be told they are in range.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "ACMG sets new lifelong guidelines for managing phenylalanine hydroxylase deficiency",
+     "url": "https://www.news-medical.net/news/20241204/ACMG-sets-new-lifelong-guidelines-for-managing-phenylalanine-hydroxylase-deficiency.aspx"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 12,
+   "domain": "Treatment Targets",
+   "digest": "Everyone with PKU needs lifelong follow-up at a specialist metabolic centre, including adults not taking any phenylalanine-lowering treatment.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "fails",
+   "nc_note": "The US loses most adults. Published estimates put more than half of all US patients outside metabolic clinic care, and roughly 71 percent of adults aged 19 to 45 not actively treated.",
+   "sources": [
+    {
+     "title": "Berry et al., Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "NCDHHS Newborn Screening Services (treatment center list)",
+     "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/newborn-screening-services"
+    },
+    {
+     "title": "North Carolina S.L. 1991-661",
+     "url": "https://www.ncleg.net/enactedlegislation/sessionlaws/html/1991-1992/sl1991-661.html"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 13,
+   "domain": "Treatment Targets",
+   "digest": "Over eighteen, the suggested target range is 120 to 600.",
+   "level": "very low (D)",
+   "strength": "conditional",
+   "agree": "75%",
+   "us_status": "fails",
+   "nc_note": "A North Carolina adult running 450 to 600 umol/L is treated as out of control by their clinic and by insurers reviewing therapy, while the European guideline would call that acceptable.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "ACMG releases evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.eurekalert.org/news-releases/1066234"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 14,
+   "domain": "Treatment Targets",
+   "digest": "No treatment is needed before or during pregnancy if untreated levels stay consistently under 360.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "85%",
+   "us_status": "meets",
+   "nc_note": "US guidance draws the same line, since ACMG treats 360 umol/L as the ceiling for fetal safety.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "Berry et al., Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 15,
+   "domain": "Treatment Targets",
+   "digest": "During pregnancy, hold blood phenylalanine between 120 and 360.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "meets",
+   "nc_note": "Coverage is the North Carolina weak point, because medical foods for a pregnant adult depend on Medicaid eligibility or out of pocket purchase rather than any state insurance mandate.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "ACOG, Management of Women With Phenylalanine Hydroxylase Deficiency (Phenylketonuria)",
+     "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/management-of-women-with-phenylalanine-hydroxylase-deficiency-phenylketonuria"
+    },
+    {
+     "title": "NORD State Medical Nutrition Coverage report",
+     "url": "https://nutritionequity.org/wp-content/uploads/sites/12/2025/09/NORD-Medical-Nutrition-10th-Edition-FINAL.pdf"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 16,
+   "domain": "Treatment Targets",
+   "digest": "Reach the target range before conception. If she is already pregnant when seen, get there within seven days.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "ACMG strongly recommends getting to 360 umol/L or lower before conception, so the preconception half matches.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "NC Medicaid Clinical Coverage Policy 5A-3, Nursing Equipment and Supplies",
+     "url": "https://medicaid.ncdhhs.gov/documents/files/5a-3-4/open"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 17,
+   "domain": "Monitoring",
+   "digest": "Blood phenylalanine, by dried blood spot or plasma, is the biomarker that matters for tracking control.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "meets",
+   "nc_note": "North Carolina patients monitor with mail-in dried blood spot cards run through the state newborn screening program or a reference lab such as Mayo.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency (Vockley et al.)",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "Mayo Clinic Laboratories: Phenylalanine and Tyrosine, Blood Spot (PKUBS)",
+     "url": "https://www.mayocliniclabs.com/test-catalog/Overview/65593"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 18,
+   "domain": "Monitoring",
+   "digest": "Dried blood spot testing by mass spectrometry is acceptable for monitoring, provided sample quality and lab standards are kept up.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "85%",
+   "us_status": "partial",
+   "nc_note": "North Carolina families collect their own filter paper cards at home and mail them in.",
+   "sources": [
+    {
+     "title": "Quantitation of Phenylalanine in Dried Blood Spot Using LC-MS/MS for Monitoring PKU",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36127606/"
+    },
+    {
+     "title": "Mayo Clinic Laboratories: Phenylalanine and Tyrosine, Blood Spot (PKUBS)",
+     "url": "https://www.mayocliniclabs.com/test-catalog/Overview/65593"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 19,
+   "domain": "Monitoring",
+   "digest": "Do not use phenylalanine variability or the phenylalanine to tyrosine ratio as routine biomarkers.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "75%",
+   "us_status": "meets",
+   "nc_note": "North Carolina clinics report both phenylalanine and tyrosine but manage treatment on the phenylalanine value alone. The ratio appears in newborn screening interpretation, not in ongoing care, which matches the recommendation.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "GeneReviews: Phenylalanine Hydroxylase Deficiency",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 20,
+   "domain": "Monitoring",
+   "digest": "Results should reach the patient within two working days of the lab receiving the sample.",
+   "level": "expert opinion",
+   "strength": "strong",
+   "agree": "65%",
+   "us_status": "fails",
+   "nc_note": "No US guideline sets any turnaround standard, and the 2023 ACMG guideline lists faster point of care phenylalanine testing as an unmet research priority.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "Point-of-Care Testing in PKU: A New Era of Blood Phenylalanine Monitoring",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12693881/"
+    },
+    {
+     "title": "Mayo Clinic Laboratories: Phenylalanine and Tyrosine, Blood Spot (PKUBS)",
+     "url": "https://www.mayocliniclabs.com/test-catalog/Overview/65593"
+    }
+   ],
+   "gap": "No US standard"
+  },
+  {
+   "num": 21,
+   "domain": "Monitoring",
+   "digest": "Minimum testing: weekly in the first year, fortnightly to age twelve, monthly after that, weekly before conception and twice weekly in pregnancy.",
+   "level": "expert opinion",
+   "strength": "conditional",
+   "agree": "75%",
+   "us_status": "partial",
+   "nc_note": "In practice a national patient survey found under half of respondents inside the recommended range, and about 61 percent of adults above it.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency (Vockley et al.)",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "GMDI/SERN PKU Nutrition Management Guideline, monitoring tables",
+     "url": "https://managementguidelines.net/guidelines.php/90/tbls/0/0/PKU%20Nutrition%20Guidelines/Version%201.12/List%20of%20Tables"
+    },
+    {
+     "title": "Phenylketonuria (PKU): A problem solved? (NPKUA survey data)",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4789336/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 22,
+   "domain": "Monitoring",
+   "digest": "Minimum clinic visits: every two to three months in the first year, three times a year to age three, twice yearly to eighteen, then at least annually.",
+   "level": "expert opinion",
+   "strength": "conditional",
+   "agree": "75%",
+   "us_status": "partial",
+   "nc_note": "NC metabolic care sits at Duke, UNC, Wake Forest, Atrium and a few others, so families in the far west or far east of the state drive hours for each appointment.",
+   "sources": [
+    {
+     "title": "GeneReviews: Phenylalanine Hydroxylase Deficiency, surveillance schedule",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    },
+    {
+     "title": "Comparison of US and European PKU guidelines",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7519570/"
+    },
+    {
+     "title": "NC DHHS contact list of genetics providers for children and adults",
+     "url": "https://www.ncdhhs.gov/contact-list-genetics-providers-children-and-adults/open"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 23,
+   "domain": "Monitoring",
+   "digest": "Patients not on treatment with levels between 120 and 360 still need scheduled monitoring, monthly in year one and less often later.",
+   "level": "expert opinion",
+   "strength": "conditional",
+   "agree": "65%",
+   "us_status": "partial",
+   "nc_note": "ACMG tells NC clinics to follow mild hyperphenylalaninemia for at least the first two years and then check annually or every other year, which is looser than the European schedule.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency (Vockley et al.)",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "GeneReviews: Phenylalanine Hydroxylase Deficiency",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 24,
+   "domain": "Care Team & Follow-up",
+   "digest": "Every patient should have access to a metabolic physician, a dietitian, and a neuropsychologist.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "fails",
+   "nc_note": "Nationally there were roughly 297 metabolic dietitians in 2023 carrying a median of about 133 patients each, so dietitian time is rationed before psychology is even discussed.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency (team is physician and nutritionist only)",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "Compensation for metabolic dietitians in the US: 2023 GMDI professional status survey",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11470630/"
+    },
+    {
+     "title": "The 2023 medical genetics workforce in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40421625/"
+    },
+    {
+     "title": "Examining Roles, Challenges, and Opportunities Within the Metabolic Genetics Workforce",
+     "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63889"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 25,
+   "domain": "Care Team & Follow-up",
+   "digest": "Move young adults to a specialist adult metabolic team through a structured transition process, started well before the handover.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "fails",
+   "nc_note": "Nationally more than 70 percent of people with PKU aged 19 to 45 are not followed by any metabolic clinic.",
+   "sources": [
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "ACMG Practice Guideline: transition to adulthood, paucity of adult treatment centers",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "NC DHHS contact list of genetics providers for children and adults",
+     "url": "https://www.ncdhhs.gov/contact-list-genetics-providers-children-and-adults/open"
+    }
+   ],
+   "gap": "No access"
+  },
+  {
+   "num": 26,
+   "domain": "Care Team & Follow-up",
+   "digest": "Understand why patients drop out of clinic, and keep the door open so any adult can come back whenever they choose.",
+   "level": "low (D)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "fails",
+   "nc_note": "Nothing in NC systematically tracks adults who stop attending or invites them back, and a children's hospital clinic may not be permitted to see an adult who returns.",
+   "sources": [
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 28,
+   "domain": "Care Team & Follow-up",
+   "digest": "Discuss quality of life, psychosocial functioning, and wellbeing at least once a year, including anxiety about levels and guilt about adherence.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "fails",
+   "nc_note": "Registry figures cited in the 2023 ACMG guideline show 64 percent of patients reporting anxiety and 52 percent depression, with only about 38 percent of those receiving treatment.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (NPKUA registry mental health data)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "Comparison of US and European PKU guidelines",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7519570/"
+    }
+   ],
+   "gap": "No US standard"
+  },
+  {
+   "num": 29,
+   "domain": "Care Team & Follow-up",
+   "digest": "Raise mental health and behaviour at every single consultation, covering how the patient is functioning at home, in school, and at work.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "ACMG does set a real screening table, but it asks for executive function, behavioural and depression or anxiety screening roughly every two to three years, not at every visit as Europe asks.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline, Table 2: recommendations for psychological testing",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "Comparison of US and European PKU guidelines (US neurocognitive screening every two to three years)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7519570/"
+    },
+    {
+     "title": "Burton et al., routine screening yields high incidence of psychiatric distress in PKU clinics",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23266195/"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 30,
+   "domain": "Care Team & Follow-up",
+   "digest": "Do not scan brains routinely in early-treated patients who are doing well. Reserve imaging for unexpected clinical or neurological findings.",
+   "level": "low (C) / very low (D)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "meets",
+   "nc_note": "NC patients are not offered routine brain MRI and would not get one covered without a clinical indication, which happens to match the recommendation.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "GeneReviews: Phenylalanine Hydroxylase Deficiency, surveillance",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 31,
+   "domain": "Care Team & Follow-up",
+   "digest": "Routine surveillance of kidney, heart, and eye is not needed, though it can be done when something clinical prompts it.",
+   "level": "very low (D)",
+   "strength": "conditional",
+   "agree": "95%",
+   "us_status": "meets",
+   "nc_note": "NC clinics run no routine kidney, cardiac or eye surveillance for PKU, which matches the recommendation. US guidelines are simply silent on organ surveillance, so the agreement comes from omission rather than a stated position.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "GeneReviews: Phenylalanine Hydroxylase Deficiency, surveillance",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 32,
+   "domain": "Care Team & Follow-up",
+   "digest": "Gastrointestinal symptoms can matter, so routine screening for them in clinic may be worth considering.",
+   "level": "low (C)",
+   "strength": "conditional",
+   "agree": "70%",
+   "us_status": "unknown",
+   "nc_note": "No US guideline addresses gut symptoms or the microbiome in PKU, so whether an NC patient is asked depends entirely on the individual clinician.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "GeneReviews: Phenylalanine Hydroxylase Deficiency, surveillance",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+   ],
+   "gap": "Unverified"
+  },
+  {
+   "num": 33,
+   "domain": "Care Team & Follow-up",
+   "digest": "Protect bone density through adequate calcium and vitamin D, physical activity, and optimised natural protein intake.",
+   "level": "low (C) / very low (D)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "ACMG already flags that bone mineralization suffers because a protein restricted diet strips out dairy calcium.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: bone mineralization and low dairy calcium intake",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "GMDI/SERN PKU Nutrition Management Guideline",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    },
+    {
+     "title": "Compensation for metabolic dietitians in the US: 2023 GMDI professional status survey",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11470630/"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 34,
+   "domain": "Care Team & Follow-up",
+   "digest": "Measure bone density by DXA, first in early adolescence before peak bone mass, and repeat if the result is abnormal.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "65%",
+   "us_status": "fails",
+   "nc_note": "ACMG states that the utility of routine bone density scanning is not established, so an NC teenager is not offered a baseline DXA and there is no indication on file for insurance to cover one.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: utility of routine DEXA scans not established",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "Comparison of US and European PKU guidelines (US finds insufficient evidence for routine bone density scans)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7519570/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 35,
+   "domain": "Care Team & Follow-up",
+   "digest": "Assess nutritional status routinely using body measurements, physical examination, dietary assessment, and blood markers.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "Access is: with roughly 297 metabolic dietitians nationally, the assessment happens as often as a clinic can staff it.",
+   "sources": [
+    {
+     "title": "GMDI/SERN PKU Nutrition Management Guideline, monitoring tables",
+     "url": "https://managementguidelines.net/guidelines.php/90/tbls/0/0/PKU%20Nutrition%20Guidelines/Version%201.12/List%20of%20Tables"
+    },
+    {
+     "title": "The 2023 medical genetics workforce in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40421625/"
+    }
+   ],
+   "gap": "No access"
+  },
+  {
+   "num": 36,
+   "domain": "Care Team & Follow-up",
+   "digest": "Anyone on a restricted diet, or self-restricting protein, needs a full nutritional review every year.",
+   "level": "low (C)",
+   "strength": "conditional",
+   "agree": "70%",
+   "us_status": "partial",
+   "nc_note": "GMDI asks NC dietitians for plasma amino acids, ferritin, vitamin D and a blood count every six to twelve months, which meets or beats the European ask.",
+   "sources": [
+    {
+     "title": "GMDI/SERN PKU Nutrition Management Guideline, monitoring tables",
+     "url": "https://managementguidelines.net/guidelines.php/90/tbls/0/0/PKU%20Nutrition%20Guidelines/Version%201.12/List%20of%20Tables"
+    },
+    {
+     "title": "ACMG Practice Guideline: nutritional labs framed as conditional",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 37,
+   "domain": "Care Team & Follow-up",
+   "digest": "Do not monitor antioxidant status routinely. Keep phenylalanine in range and nutrition adequate instead.",
+   "level": "low (C) / very low (D)",
+   "strength": "strong",
+   "agree": "85%",
+   "us_status": "meets",
+   "nc_note": "No NC clinic orders antioxidant panels and no US guideline asks for them, so the first half matches cleanly.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "Phenylketonuria (PKU): A problem solved? (NPKUA survey data)",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4789336/"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 38,
+   "domain": "Care Team & Follow-up",
+   "digest": "If a child under twelve is out of range more than half the time over six months, step up monitoring, re-educate, and bring in psychology.",
+   "level": "expert opinion",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "fails",
+   "nc_note": "The middle rungs of this ladder, psychology and social work sitting inside the metabolic team, mostly do not exist in NC clinics, so escalation collapses into more phone calls from the dietitian.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    },
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity: North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "NORD State Report Card on rare disease care access",
+     "url": "https://rarediseases.org/driving-policy/nord-state-report-card/"
+    },
+    {
+     "title": "NPKUA insurance coverage resources",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 39,
+   "domain": "Diet & Nutrition",
+   "digest": "Titrate phenylalanine intake until blood levels sit reliably in range, and reassess actual intake every year for every patient.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "North Carolina metabolic clinics at UNC, Duke and Atrium do titrate intake, but the annual reassessment requires a covered dietitian visit, and metabolic dietitian time is scarce statewide.",
+   "sources": [
+    {
+     "title": "Nutrition Management Guideline for Phenylketonuria (PKU), GMDI",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    },
+    {
+     "title": "PKU Nutrition Guidelines Version 2.5, SERN",
+     "url": "https://managementguidelines.net/guidelines.php/136/PKU%20Nutrition%20Guidelines/Version%202.5"
+    },
+    {
+     "title": "The financial and time burden associated with phenylketonuria treatment in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"
+    }
+   ],
+   "gap": "No access"
+  },
+  {
+   "num": 40,
+   "domain": "Diet & Nutrition",
+   "digest": "Total protein intake should meet at least the internationally recognised safe level for the patient's age.",
+   "level": "low (C) / very low (D)",
+   "strength": "conditional",
+   "agree": "75%",
+   "us_status": "partial",
+   "nc_note": "The US guideline sets the same idea differently, at up to 1.5 to 2.0 times the DRI rather than a percentage add-on, so the clinical target is broadly comparable.",
+   "sources": [
+    {
+     "title": "Nutrition management of PKU: update of the web-based PKU nutrition management guideline recommendations",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10288765/"
+    },
+    {
+     "title": "Insurance Coverage, National PKU Alliance",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    },
+    {
+     "title": "North Carolina, Patients and Providers for Medical Nutrition Equity",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 41,
+   "domain": "Diet & Nutrition",
+   "digest": "Prescribe a phenylalanine-free protein substitute to anyone whose natural protein intake falls below safe levels. Countries should guarantee supply.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "85%",
+   "us_status": "partial",
+   "nc_note": "Product variety is not the US problem. Roughly two thirds of US families pay out of pocket, and formula alone averages about $4,400 a year.",
+   "sources": [
+    {
+     "title": "The financial and time burden associated with phenylketonuria treatment in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"
+    },
+    {
+     "title": "Newborn Screening Services, NC DHHS",
+     "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/newborn-screening-services"
+    },
+    {
+     "title": "Mandated Private Insurance Coverage and Coverage Limitations, NORD Medical Nutrition report",
+     "url": "https://nutritionequity.org/wp-content/uploads/sites/12/2025/09/NORD-Medical-Nutrition-10th-Edition-FINAL.pdf"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 42,
+   "domain": "Diet & Nutrition",
+   "digest": "Glycomacropeptide may be used as a protein substitute from age four, if its phenylalanine is counted and the amino acid profile fits.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "75%",
+   "us_status": "meets",
+   "nc_note": "This is one recommendation the US leads on. Glycomacropeptide was developed and trialed in the US and Cambrooke sells the Glytactin line nationwide, so a North Carolina patient can get it.",
+   "sources": [
+    {
+     "title": "Glycomacropeptide for nutritional management of phenylketonuria: a randomized, controlled, crossover trial",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4962165/"
+    },
+    {
+     "title": "Glytactin PKU Formulas, Ajinomoto Cambrooke",
+     "url": "https://www.cambrooke.com/products/glytactin/"
+    },
+    {
+     "title": "Insurance Coverage, National PKU Alliance",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 43,
+   "domain": "Diet & Nutrition",
+   "digest": "Do not add extra tyrosine. It is already included in the protein substitutes made for PKU.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "The GMDI guideline does call for tyrosine supplements when post-meal blood tyrosine repeatedly sits below 30 micromol per liter, so a North Carolina patient may be handed a supplement the European panel would not prescribe.",
+   "sources": [
+    {
+     "title": "Nutrition management of PKU: update of the web-based PKU nutrition management guideline recommendations",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10288765/"
+    },
+    {
+     "title": "Nutrition Management Guideline for Phenylketonuria (PKU), GMDI",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 44,
+   "domain": "Diet & Nutrition",
+   "digest": "Evidence does not support routine large neutral amino acids. Do not give them to children or in pregnancy.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "partial",
+   "nc_note": "LNAA tablets are sold in the US as medical foods, which need no premarket FDA approval and cannot legally be labeled prescription only, so a North Carolina family can buy them online without a metabolic clinic ever weighing in.",
+   "sources": [
+    {
+     "title": "NeoPhe LNAA Tablets, Solace Nutrition",
+     "url": "https://www.solacenutrition.com/product/neophe-lnaa-tablets/"
+    },
+    {
+     "title": "Frequently Asked Questions About Medical Foods, FDA",
+     "url": "https://www.fda.gov/media/97726/download"
+    },
+    {
+     "title": "Phenylalanine hydroxylase deficiency diagnosis and management: a 2023 ACMG evidence-based clinical guideline",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 45,
+   "domain": "Diet & Nutrition",
+   "digest": "Energy, macronutrient, and micronutrient intake should match what is recommended for the general population.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "The US guideline sets equivalent nutrient targets and asks for plasma amino acids, prealbumin, ferritin, vitamin D and a blood count every six to twelve months.",
+   "sources": [
+    {
+     "title": "Nutrition management of PKU: update of the web-based PKU nutrition management guideline recommendations",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10288765/"
+    },
+    {
+     "title": "Food insecurity in females with phenylketonuria",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203643/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 46,
+   "domain": "Diet & Nutrition",
+   "digest": "Fruits and vegetables at or under 75 mg phenylalanine per 100 g, potatoes excepted, can be eaten without weighing or counting.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "85%",
+   "us_status": "meets",
+   "nc_note": "US clinics adopted this as the Simplified Diet, and multi-clinic US data supports letting low-phenylalanine produce go uncounted.",
+   "sources": [
+    {
+     "title": "Preliminary data on free use of fruits and vegetables containing phenylalanine 76 to 100 mg/100 g in children with PKU",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10347155/"
+    },
+    {
+     "title": "Nutrition Management Guideline for Phenylketonuria (PKU), GMDI",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 47,
+   "domain": "Diet & Nutrition",
+   "digest": "Special low protein foods matter as an energy source, but their fat, sugar, and salt should stay within normal dietary limits.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "fails",
+   "nc_note": "Low protein modified foods are the least covered item in US PKU care and the single largest out-of-pocket category, averaging about $1,651 a year for a child and $967 for an adult.",
+   "sources": [
+    {
+     "title": "The financial and time burden associated with phenylketonuria treatment in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"
+    },
+    {
+     "title": "North Carolina, Patients and Providers for Medical Nutrition Equity",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "How coverage of medical foods for inborn errors of metabolism works, EveryLife Foundation",
+     "url": "https://everylifefoundation.org/wp-content/uploads/2022/02/iem-pku-factsheet-2021-updated-01-2022.pdf"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 48,
+   "domain": "Diet & Nutrition",
+   "digest": "Encourage breastfeeding for infants with PKU, combined with a phenylalanine-free infant amino acid formula.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "US metabolic clinics support combined breastfeeding and Phe-free formula, and North Carolina newborn screening routes families to a metabolic team fast.",
+   "sources": [
+    {
+     "title": "Positive impact of breastfeeding on nutritional status and metabolic control in infants with PKU",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12430175/"
+    },
+    {
+     "title": "Phenylalanine free infant formula in the dietary management of phenylketonuria",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9878783/"
+    },
+    {
+     "title": "Newborn Screening Services, NC DHHS",
+     "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/newborn-screening-services"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 49,
+   "domain": "Diet & Nutrition",
+   "digest": "Avoid aspartame on a restricted diet, especially in drinks and tabletop sweeteners, and make its presence easy to identify.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "The US does better than most on the warning itself. Federal rules force a phenylketonurics warning on any packaged food with aspartame, and drug labels must give milligrams per dose.",
+   "sources": [
+    {
+     "title": "21 CFR 172.804, Aspartame",
+     "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-172/subpart-I/section-172.804"
+    },
+    {
+     "title": "21 CFR 201.21, Declaration of phenylalanine in drugs containing aspartame",
+     "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-A/section-201.21"
+    },
+    {
+     "title": "Aspartame and Other Sweeteners in Food, FDA",
+     "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 50,
+   "domain": "Diet & Nutrition",
+   "digest": "Get children to a dentist early and put a thorough prevention programme in place.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "North Carolina Medicaid covers children's dental well but adult benefits stop short of crowns and routine work, fewer than half of state dentists take Medicaid, and no PKU-specific oral care product exists to give families.",
+   "sources": [
+    {
+     "title": "Oral health status of children and adolescents with phenylketonuria: a case-control study",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13092221/"
+    },
+    {
+     "title": "Dental care changes proposed nationally could reshape NC health insurance benefits, NC Health News",
+     "url": "https://www.northcarolinahealthnews.org/2024/01/22/oral-health-changes-proposed-nationally-reshape-nc-benefits/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 51,
+   "domain": "Diet & Nutrition",
+   "digest": "Refer early to an eating disorders team if there is any clinical sign of one.",
+   "level": "low (C)",
+   "strength": "conditional",
+   "agree": "80%",
+   "us_status": "partial",
+   "nc_note": "No validated screening tool for disordered eating in PKU exists, so US clinics are working without an instrument, and a lifelong weighing-and-measuring diet is itself a risk factor.",
+   "sources": [
+    {
+     "title": "A survey of eating attitudes and behaviors in adolescents and adults with phenylalanine hydroxylase deficiency",
+     "url": "https://wmjonline.org/119no1/luu/"
+    },
+    {
+     "title": "Food insecurity in females with phenylketonuria",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203643/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 52,
+   "domain": "Diet & Nutrition",
+   "digest": "Build in lifestyle measures to prevent overweight and the conditions that follow it.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "About a third of adults with PKU are overweight and roughly another quarter are obese, and the low protein diet skews high carbohydrate by design.",
+   "sources": [
+    {
+     "title": "Overweight and obesity in adult patients with phenylketonuria: a systematic review",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9945382/"
+    },
+    {
+     "title": "The financial and time burden associated with phenylketonuria treatment in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 53,
+   "domain": "Diet & Nutrition",
+   "digest": "Encourage sport and exercise, with enough energy and nutrients to perform well.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "The catch is the second half of the recommendation: matching energy and protein substitute to training load means more formula and more low protein food, which the state does not fund, so athletes ration the very thing that supports the activity.",
+   "sources": [
+    {
+     "title": "Nutrition Management Guideline for Phenylketonuria (PKU), GMDI",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    },
+    {
+     "title": "The financial and time burden associated with phenylketonuria treatment in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 54,
+   "domain": "Diet & Nutrition",
+   "digest": "Governments should fund or reimburse low protein foods and protein substitutes for every patient at every age.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "fails",
+   "nc_note": "Food-replacement formula is the only treatment for PKU. North Carolina insurers force PKU families to rely on taxpayer-funded stopgaps in the newborn screening and WIC programs, so North Carolinians do not get the same care and treatment options as the rest of the world.",
+   "sources": [
+    {
+     "title": "The financial and time burden associated with phenylketonuria treatment in the United States",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31660292/"
+    },
+    {
+     "title": "North Carolina, Patients and Providers for Medical Nutrition Equity",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "Medical Nutrition Equity Act, National PKU Alliance",
+     "url": "https://nutritionequity.org/national-pku-alliance-inc/"
+    },
+    {
+     "title": "Insurance Coverage, National PKU Alliance",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 55,
+   "domain": "Diet & Nutrition",
+   "digest": "Offer support from the metabolic team across the whole lifespan, tailored to each family, and build patient and parent confidence.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "US metabolic teams do this well inside the clinic walls, and patient portals give North Carolina families their own records.",
+   "sources": [
+    {
+     "title": "Insurance Coverage, National PKU Alliance",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    },
+    {
+     "title": "Food insecurity in females with phenylketonuria",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203643/"
+    },
+    {
+     "title": "North Carolina, Patients and Providers for Medical Nutrition Equity",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 56,
+   "domain": "Diet & Nutrition",
+   "digest": "Treat education as essential to lifelong self-care. Start nutrition teaching in early childhood.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "unknown",
+   "nc_note": "A GMDI and SERN web portal exists with a families section. Its depth against a recommendation for lifelong education starting in early childhood is unassessed. NEEDS REVIEW.",
+   "sources": [
+    {
+     "title": "Nutrition Management Guideline for Phenylketonuria (PKU), GMDI",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    },
+    {
+     "title": "PKU Nutrition Guidelines Version 2.5, GMDI/SERN portal",
+     "url": "https://managementguidelines.net/guidelines.php/136/PKU%20Nutrition%20Guidelines/Version%202.5"
+    },
+    {
+     "title": "SERN North Carolina state resources",
+     "url": "https://southeastgenetics.org/state-resources/north-carolina/"
+    }
+   ],
+   "gap": "Unverified"
+  },
+  {
+   "num": 57,
+   "domain": "Diet & Nutrition",
+   "digest": "During acute illness in children, push protein substitute and high carbohydrate intake to stop levels spiking.",
+   "level": "low (D)",
+   "strength": "conditional",
+   "agree": "70%",
+   "us_status": "partial",
+   "nc_note": "The US nutrition guideline has no sick day section, so illness protocols are written clinic by clinic rather than nationally.",
+   "sources": [
+    {
+     "title": "Nutrition management of PKU: update of the web-based PKU nutrition management guideline recommendations",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10288765/"
+    },
+    {
+     "title": "PKU treatment protocol, general guidelines for health care providers, University of Washington",
+     "url": "https://depts.washington.edu/pku/hcproviders/treatment/generalobjectives.html"
+    },
+    {
+     "title": "Phenylalanine hydroxylase deficiency diagnosis and management: a 2023 ACMG evidence-based clinical guideline",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/pdf"
+    }
+   ],
+   "gap": "No US standard"
+  },
+  {
+   "num": 58,
+   "domain": "Maternal PKU",
+   "digest": "Treat every pregnancy in PKU as high risk, with counselling and a multidisciplinary team.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "In North Carolina the team usually does not exist for the patient, because roughly 71 percent of US adults with PKU are not being treated by a metabolic clinic and the woman has to stitch together a metabolic center at UNC or Duke plus a local obstetrician herself.",
+   "sources": [
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU (Berry et al., Genet Med)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline, PAH deficiency (Genetics in Medicine)",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "UNC Genetics and Metabolism",
+     "url": "https://www.med.unc.edu/pediatrics/gene/"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 59,
+   "domain": "Maternal PKU",
+   "digest": "Do detailed ultrasound with organ screening at 18 to 22 weeks, and add growth scans if control is poor.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "The extra scans for poor control depend on having a maternal fetal medicine referral, and 20 of North Carolina's 100 counties are maternity care deserts with no obstetric hospital, birth center, or obstetric provider at all.",
+   "sources": [
+    {
+     "title": "March of Dimes, maternity care access in North Carolina",
+     "url": "https://www.marchofdimes.org/peristats/reports/north-carolina/maternity-care-deserts"
+    },
+    {
+     "title": "NC Health News, North Carolina gets D+ from March of Dimes",
+     "url": "https://www.northcarolinahealthnews.org/2025/11/21/maternal-and-infant-health-march-of-dimes-nc/"
+    },
+    {
+     "title": "Congenital heart disease in maternal PKU, Maternal PKU Collaborative Study",
+     "url": "https://www.nature.com/articles/pr2001100"
+    }
+   ],
+   "gap": "No access"
+  },
+  {
+   "num": 60,
+   "domain": "Maternal PKU",
+   "digest": "Check blood phenylalanine at least weekly before conception and at least twice weekly once pregnant.",
+   "level": "expert opinion",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "US metabolic centers and the ACMG evidence review use the same weekly to twice weekly pregnancy monitoring, so a North Carolina woman already enrolled at UNC or Duke can get filter paper cards and hit this.",
+   "sources": [
+    {
+     "title": "Recommendations for the nutrition management of PAH deficiency (Singh et al., GMDI)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918542/"
+    },
+    {
+     "title": "Adherence to clinic recommendations among patients with PKU in the United States",
+     "url": "https://www.sciencedirect.com/science/article/pii/S1096719217300057"
+    },
+    {
+     "title": "GMDI Nutrition Management Guideline for PKU",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 61,
+   "domain": "Maternal PKU",
+   "digest": "Consider fertility referral, with the partner, if conception has not happened after six months.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "fails",
+   "nc_note": "US practice does not trigger fertility referral at six months for a woman under 35, and no PKU-specific fast track exists.",
+   "sources": [
+    {
+     "title": "ASRM ReproductiveFacts, North Carolina infertility insurance",
+     "url": "https://www.reproductivefacts.org/patient-advocacy/state-and-territory-infertility-insurance-laws/north-carolina/"
+    },
+    {
+     "title": "ASRM state and territory infertility insurance laws",
+     "url": "https://www.reproductivefacts.org/patient-advocacy/state-and-territory-infertility-insurance-laws/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 62,
+   "domain": "Maternal PKU",
+   "digest": "Work hard to prevent unplanned pregnancy through timely education and effective contraception.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "100%",
+   "us_status": "partial",
+   "nc_note": "About half of US pregnancies are unplanned, and women often confirm pregnancy at 5 to 8 weeks, after the highest risk window for cardiac malformation has already opened.",
+   "sources": [
+    {
+     "title": "MotherToBaby, phenylketonuria and pregnancy",
+     "url": "https://mothertobaby.org/fact-sheets/maternal-pku-pregnancy/"
+    },
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "NPKUA, PKU and pregnancy",
+     "url": "https://www.npkua.org/wp-content/uploads/2024/07/PKU-Binder-2011-Ch9.pdf"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 63,
+   "domain": "Maternal PKU",
+   "digest": "After delivery, give standard obstetric care and support her to continue standard adult PKU treatment.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "North Carolina Medicaid now covers 12 months postpartum, which is a real improvement for the obstetric half of this.",
+   "sources": [
+    {
+     "title": "NC Medicaid, postpartum coverage for beneficiaries",
+     "url": "https://medicaid.ncdhhs.gov/providers/programs-and-services/postpartum-coverage-nc-medicaid-beneficiaries"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "NPKUA insurance coverage",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 64,
+   "domain": "Maternal PKU",
+   "digest": "Levels below 120 during pregnancy need care and attention, not just levels that are too high.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "US guidance is written around the ceiling of 360 micromol/L and says much less about the floor, so overshooting downward gets less clinical attention here.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline, PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "GMDI Nutrition Management Guideline for PKU",
+     "url": "https://www.gmdi.org/Resources/Nutrition-Guidelines/Phenylketonuria-PKU"
+    }
+   ],
+   "gap": "US standard differs"
+  },
+  {
+   "num": 65,
+   "domain": "Maternal PKU",
+   "digest": "Raise phenylalanine intake by 50 to 100 mg a day straight away if a pregnant patient drops below 120.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "partial",
+   "nc_note": "In North Carolina that loop exists only at the academic metabolic centers, and there is no reimbursement guarantee for the dietitian visits that make the titration possible.",
+   "sources": [
+    {
+     "title": "Recommendations for the nutrition management of PAH deficiency (GMDI)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918542/"
+    },
+    {
+     "title": "A practical guide to maternal PKU",
+     "url": "https://www.nestlemedicalhub.com/sites/site.prod.nestlemedicalhub.com/files/2020-09/Maternal%20PKU%20Guidelines.pdf"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 66,
+   "domain": "Maternal PKU",
+   "digest": "Avoid weight loss in pregnancy, especially the first trimester, while discouraging excess gain and keeping a healthy pre-pregnancy weight.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "US maternal PKU practice knows the catabolism problem, and the Maternal PKU Collaborative Study data on energy and weight gain is American work.",
+   "sources": [
+    {
+     "title": "Maternal PKU and hyperphenylalaninemia in pregnancy, complications and neonatal sequelae",
+     "url": "https://www.sciencedirect.com/science/article/pii/S0002916523026436"
+    },
+    {
+     "title": "March of Dimes, maternity care access in North Carolina",
+     "url": "https://www.marchofdimes.org/peristats/reports/north-carolina/maternity-care-deserts"
+    }
+   ],
+   "gap": "No access"
+  },
+  {
+   "num": 67,
+   "domain": "Maternal PKU",
+   "digest": "Pregnancy needs extra protein, deposited mostly in the later trimesters, so intake should rise accordingly.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "70%",
+   "us_status": "partial",
+   "nc_note": "The nutrition math is standard in US metabolic dietetics, but every increase here is more cans of formula, and North Carolina mandates no insurance coverage for medical foods or formula.",
+   "sources": [
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "Recommendations for the nutrition management of PAH deficiency (GMDI)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918542/"
+    },
+    {
+     "title": "NPKUA insurance coverage",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 68,
+   "domain": "Maternal PKU",
+   "digest": "Tyrosine intake should reach at least 6 g a day, usually from taking the full daily protein substitute spread across the day.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "75%",
+   "us_status": "partial",
+   "nc_note": "The dependency is total, though: hitting 6 g means consuming every serving of a product North Carolina does not require anyone to pay for, and cost driven rationing of formula shows up as low tyrosine.",
+   "sources": [
+    {
+     "title": "Recommendations for the nutrition management of PAH deficiency (GMDI)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918542/"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 69,
+   "domain": "Maternal PKU",
+   "digest": "Contact a woman with an unplanned pregnancy the day you learn of it and start dietary treatment within 24 hours.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "75%",
+   "us_status": "fails",
+   "nc_note": "In North Carolina a woman out of care must first find a clinic that takes adults, then get a prescription and prior authorization for formula, a process measured in days to weeks rather than the 24 hours the guideline demands.",
+   "sources": [
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "Maternal PKU: consequences of dietary non-adherence and gaps in preconception care",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11856750/"
+    },
+    {
+     "title": "NPKUA insurance coverage, prior authorization for medical foods",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 70,
+   "domain": "Maternal PKU",
+   "digest": "Treat nausea and vomiting quickly, because it cuts protein substitute and energy intake and wrecks control.",
+   "level": "low (C) / very low (D)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "Antiemetics are available and covered in US obstetric care, so the drug side is fine.",
+   "sources": [
+    {
+     "title": "NICHD, maternal PKU, restarting and monitoring diet before and during pregnancy",
+     "url": "https://www.nichd.nih.gov/publications/pubs/pku/sub23"
+    },
+    {
+     "title": "March of Dimes, maternity care access in North Carolina",
+     "url": "https://www.marchofdimes.org/peristats/reports/north-carolina/maternity-care-deserts"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 71,
+   "domain": "Maternal PKU",
+   "digest": "Give at least 400 micrograms of folic acid daily when planning pregnancy and through the first twelve weeks.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "meets",
+   "nc_note": "Folic acid before and in early pregnancy is standard US preventive care, and prescription prenatal folic acid is covered without cost sharing under ACA preventive rules.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline, PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "NICHD, maternal PKU diet before and during pregnancy",
+     "url": "https://www.nichd.nih.gov/publications/pubs/pku/sub23"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 72,
+   "domain": "Maternal PKU",
+   "digest": "Provide at least 200 mg a day of DHA before and during pregnancy.",
+   "level": "high (A)",
+   "strength": "strong",
+   "agree": "80%",
+   "us_status": "partial",
+   "nc_note": "There is no US requirement that prenatal vitamins contain DHA and no coverage guarantee for DHA supplements, so a North Carolina woman buys it herself.",
+   "sources": [
+    {
+     "title": "Recommendations for the nutrition management of PAH deficiency (GMDI)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918542/"
+    },
+    {
+     "title": "A practical guide to maternal PKU",
+     "url": "https://www.nestlemedicalhub.com/sites/site.prod.nestlemedicalhub.com/files/2020-09/Maternal%20PKU%20Guidelines.pdf"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 73,
+   "domain": "Maternal PKU",
+   "digest": "Measure folate, vitamin B12, MCV and ferritin, full blood count, and plasma amino acids before conception and in early pregnancy.",
+   "level": "low (C) / very low (D)",
+   "strength": "conditional",
+   "agree": "60%",
+   "us_status": "partial",
+   "nc_note": "US metabolic clinics order this panel and plasma amino acids at a specialty lab, so it happens for enrolled patients.",
+   "sources": [
+    {
+     "title": "Recommendations for the nutrition management of PAH deficiency (GMDI)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918542/"
+    },
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 74,
+   "domain": "Maternal PKU",
+   "digest": "Support breastfeeding after a PKU pregnancy, whether or not the baby has PKU.",
+   "level": "very low (D)",
+   "strength": "conditional",
+   "agree": "85%",
+   "us_status": "partial",
+   "nc_note": "US law requires most plans to cover lactation support and a pump, and North Carolina newborn screening catches an affected infant fast, so the clinical setup is decent.",
+   "sources": [
+    {
+     "title": "Discontinuation of pegvaliase therapy during maternal PKU pregnancy and postnatal breastfeeding",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957825/"
+    },
+    {
+     "title": "NCDHHS newborn screening services",
+     "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/newborn-screening-services"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 75,
+   "domain": "Maternal PKU",
+   "digest": "Keep up attentive postpartum care, with practical and nutritional support through lactation whichever treatment path she chooses.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "North Carolina Medicaid's 12 month postpartum extension keeps her insured, which is the strongest piece of the US answer here.",
+   "sources": [
+    {
+     "title": "NC Medicaid, postpartum coverage for beneficiaries",
+     "url": "https://medicaid.ncdhhs.gov/providers/programs-and-services/postpartum-coverage-nc-medicaid-beneficiaries"
+    },
+    {
+     "title": "The challenge of adults with PKU who have been lost to care",
+     "url": "https://www.sciencedirect.com/science/article/pii/S2214426924000521"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 76,
+   "domain": "Special Groups",
+   "digest": "Provide education and emotional support before and during pregnancy, and bring partners and family in so they can help.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "In the US this education is done by clinic dietitians and by patient organizations like NPKUA, not by any funded program, and it only reaches women already connected to one of them.",
+   "sources": [
+    {
+     "title": "NPKUA, PKU and pregnancy",
+     "url": "https://www.npkua.org/wp-content/uploads/2024/07/PKU-Binder-2011-Ch9.pdf"
+    },
+    {
+     "title": "The prevention of maternal PKU syndrome: development and evaluation of a specific training program",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11643882/"
+    },
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 77,
+   "domain": "Special Groups",
+   "digest": "Test for PKU in any unscreened child or adult with intellectual disability or neurological problems, with or without psychiatric symptoms.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "North Carolina has screened every newborn for PKU since 1966, so a US-born adult is rarely missed and this recommendation mostly bites for immigrants and refugees.",
+   "sources": [
+    {
+     "title": "NCDHHS newborn screening services",
+     "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/newborn-screening-services"
+    },
+    {
+     "title": "Phenylalanine hydroxylase deficiency, GeneReviews",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    },
+    {
+     "title": "Classical PKU presenting as maternal PKU syndrome in offspring of an intellectually normal woman",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10494492/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 78,
+   "domain": "Special Groups",
+   "digest": "Treatment can help untreated adults in several ways. Decide case by case and run a trial of at least six months.",
+   "level": "very low (D)",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "ACMG backs lifelong Phe control, so a US clinician has guideline support for offering the trial.",
+   "sources": [
+    {
+     "title": "ACMG 2023 evidence-based clinical guideline, PAH deficiency",
+     "url": "https://www.gimjournal.org/article/S1098-3600(24)00223-5/fulltext"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 79,
+   "domain": "Special Groups",
+   "digest": "Late diagnosed and untreated patients should be able to access every treatment option, weighed individually.",
+   "level": "expert opinion",
+   "strength": "conditional",
+   "agree": "80%",
+   "us_status": "fails",
+   "nc_note": "Roughly 71 percent of US adults with PKU are not in a metabolic clinic at all, which means most of them cannot reach any of these options.",
+   "sources": [
+    {
+     "title": "Newborn screening 50 years later: access issues faced by adults with PKU",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3938172/"
+    },
+    {
+     "title": "Palynziq (pegvaliase) label, DailyMed",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 80,
+   "domain": "Drug Therapy",
+   "digest": "Consider sapropterin responsiveness for every PAH-deficient patient except those with two known null variants.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "meets",
+   "nc_note": "North Carolina also has an option this guideline does not address, sepiapterin (Sephience), FDA approved July 28, 2025 for ages one month and up at a wholesale cost near $480,000 per year.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency diagnosis and management",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "Cigna coverage policy: Phenylketonuria, Kuvan (sapropterin dihydrochloride) prior authorization",
+     "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/cnf/cnf_601_coveragepositioncriteria_phenylketonuria_kuvan_pa.pdf"
+    },
+    {
+     "title": "PTC Therapeutics announces FDA approval of Sephience (sepiapterin) for PKU",
+     "url": "https://ir.ptcbio.com/news-releases/news-release-details/ptc-therapeutics-announces-fda-approval-sephiencetm-sepiapterin"
+    },
+    {
+     "title": "Sephience (sepiapterin), new orphan drug approval (Optum)",
+     "url": "https://business.optum.com/en/support/professionalrx-resources/drugapproval-sephience-073025.html"
+    }
+   ],
+   "gap": "Met"
+  },
+  {
+   "num": 81,
+   "domain": "Drug Therapy",
+   "digest": "Run a formal response test, measuring how blood phenylalanine changes after a sapropterin dose, to find who benefits.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "75%",
+   "us_status": "partial",
+   "nc_note": "US clinics follow the ACMG protocol, a 10 to 20 mg/kg daily trial running up to one month, not the European short loading test, so a North Carolina newborn may start diet before responsiveness is known.",
+   "sources": [
+    {
+     "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency diagnosis and management",
+     "url": "https://www.acmg.net/docs/Phenylalanine_Hydrosylase_Deficiency_Practice_Guideline_AOP_Jan_2013.pdf"
+    },
+    {
+     "title": "Cigna coverage policy: Phenylketonuria, Kuvan (sapropterin dihydrochloride) prior authorization",
+     "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/cnf/cnf_601_coveragepositioncriteria_phenylketonuria_kuvan_pa.pdf"
+    },
+    {
+     "title": "Kuvan / Javygtor (sapropterin) pharmacy policy, FEP Blue",
+     "url": "https://www.fepblue.org/-/media/PDFs/Medical-Policies/2025/March/Pharmacy-Policies/Remove-and-Replace/530014-Kuvan-Javygtor-sapropterin.pdf"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 82,
+   "domain": "Drug Therapy",
+   "digest": "Prove long-term response in a trial that adjusts dose, natural protein, and substitute. Benefit means natural protein tolerance at least doubles.",
+   "level": "expert opinion",
+   "strength": "conditional",
+   "agree": "70%",
+   "us_status": "partial",
+   "nc_note": "North Carolina plans renew sapropterin on a 30 percent blood Phe reduction from baseline, not on doubled natural protein tolerance, so the European benefit measure is not the one being scored.",
+   "sources": [
+    {
+     "title": "Cigna coverage policy: Phenylketonuria, Kuvan (sapropterin dihydrochloride) prior authorization",
+     "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/cnf/cnf_601_coveragepositioncriteria_phenylketonuria_kuvan_pa.pdf"
+    },
+    {
+     "title": "Kuvan / Javygtor (sapropterin) pharmacy policy, FEP Blue",
+     "url": "https://www.fepblue.org/-/media/PDFs/Medical-Policies/2025/March/Pharmacy-Policies/Remove-and-Replace/530014-Kuvan-Javygtor-sapropterin.pdf"
+    },
+    {
+     "title": "How to get Kuvan (sapropterin) covered by UnitedHealthcare in North Carolina",
+     "url": "https://www.counterforcehealth.org/post/how-to-get-kuvan-sapropterin-covered-by-unitedhealthcare-in-north-carolina-forms-appeals-resources/"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 83,
+   "domain": "Drug Therapy",
+   "digest": "Patients on sapropterin get the same clinical, biochemical, and nutritional follow-up as everyone else with PKU.",
+   "level": "expert opinion",
+   "strength": "strong",
+   "agree": "90%",
+   "us_status": "partial",
+   "nc_note": "Physician visits and lab draws bill to insurance in North Carolina, but metabolic dietitian time is poorly reimbursed and the state runs on a small number of metabolic centers, mainly UNC Chapel Hill and Duke.",
+   "sources": [
+    {
+     "title": "UNC Pediatrics, Division of Genetics and Metabolism",
+     "url": "https://www.med.unc.edu/pediatrics/gene/"
+    },
+    {
+     "title": "NCDHHS Newborn Screening Services",
+     "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/newborn-screening-services"
+    },
+    {
+     "title": "NPKUA insurance coverage resources",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 84,
+   "domain": "Drug Therapy",
+   "digest": "Review diet, micronutrients, and nutritional bloodwork annually, especially in anyone who has cut back or stopped protein substitute.",
+   "level": "moderate (B)",
+   "strength": "strong",
+   "agree": "75%",
+   "us_status": "partial",
+   "nc_note": "NC Medicaid covers metabolic formula at any age when the metabolic disorder was diagnosed before age 10, but North Carolina has no state medical food mandate for commercial plans, and self-funded employer plans are exempt from state mandates regardless.",
+   "sources": [
+    {
+     "title": "NC Medicaid Clinical Coverage Policy 5A-3, Nursing Equipment and Supplies (oral nutrition products and metabolic formulas)",
+     "url": "https://medicaid.ncdhhs.gov/documents/files/5a-3-4/open"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "NPKUA insurance coverage resources",
+     "url": "https://www.npkua.org/resources/insurance-coverage/"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 85,
+   "domain": "Drug Therapy",
+   "digest": "Sapropterin response testing may be considered before conception, particularly where diet alone has not reached target levels.",
+   "level": "very low (D)",
+   "strength": "conditional",
+   "agree": "70%",
+   "us_status": "partial",
+   "nc_note": "The US sapropterin label carries no pregnancy contraindication and the PKUDOS and KAMPER registries support continued use, so a North Carolina responder can usually stay on it through pregnancy.",
+   "sources": [
+    {
+     "title": "DailyMed label: KUVAN (sapropterin dihydrochloride)",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=af38711e-8873-4790-a92d-4d583e23fb89"
+    },
+    {
+     "title": "Feillet et al., Efficacy and safety of sapropterin before and during pregnancy: final KAMPER and PKUDOS PKU-MOMs analysis, JIMD 2024",
+     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jimd.12724"
+    },
+    {
+     "title": "Cigna coverage policy: Phenylketonuria, Kuvan (sapropterin dihydrochloride) prior authorization",
+     "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/cnf/cnf_601_coveragepositioncriteria_phenylketonuria_kuvan_pa.pdf"
+    }
+   ],
+   "gap": "Partially delivered"
+  },
+  {
+   "num": 86,
+   "domain": "Drug Therapy",
+   "digest": "Patients over sixteen who cannot reach control on sapropterin may be offered pegvaliase, with close follow-up given its safety profile.",
+   "level": "high (A)",
+   "strength": "strong",
+   "agree": "95%",
+   "us_status": "partial",
+   "nc_note": "The FDA label now reaches age 12, younger than the European floor of 16, but North Carolina payer criteria commonly still require age 18 and a blood Phe above 600 micromol/L on existing management, which locks out patients sitting between 360 and 600.",
+   "sources": [
+    {
+     "title": "FDA prescribing information: PALYNZIQ (pegvaliase-pqpz), 2025",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761079s034lbl.pdf"
+    },
+    {
+     "title": "BioMarin: FDA approves PALYNZIQ for adolescents 12 years and older",
+     "url": "https://www.biomarin.com/news/press-releases/u-s-food-and-drug-administration-approves-biomarins-palynziq-pegvaliase-pqpz-for-adolescents-12-years-of-age-and-older-with-phenylketonuria-pku/"
+    },
+    {
+     "title": "Carelon Rx Medical Drug Clinical Criteria CC-0077: Palynziq (pegvaliase-pqpz)",
+     "url": "https://www.carelonrx.com/ms/pharmacyinformation/Palynziq.pdf"
+    },
+    {
+     "title": "DailyMed label: PALYNZIQ (pegvaliase-pqpz) injection",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c"
+    }
+   ],
+   "gap": "Not funded"
+  },
+  {
+   "num": 87,
+   "domain": "Drug Therapy",
+   "digest": "The aim with pegvaliase is a safe protein intake of at least 0.8 g/kg/day without protein substitute, or lower blood phenylalanine.",
+   "level": "low (C)",
+   "strength": "strong",
+   "agree": "85%",
+   "us_status": "partial",
+   "nc_note": "A North Carolina patient can have a Palynziq prescription worth roughly $130,000 to $443,000 per year approved as a specialty drug while paying cash for the low protein bread and pasta that make an ordinary 0.8 g/kg protein intake livable.",
+   "sources": [
+    {
+     "title": "FDA prescribing information: PALYNZIQ (pegvaliase-pqpz), 2025",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761079s034lbl.pdf"
+    },
+    {
+     "title": "CADTH Pharmacoeconomic Review, pegvaliase (Palynziq), annual cost estimates",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK601759/"
+    },
+    {
+     "title": "Patients and Providers for Medical Nutrition Equity, North Carolina",
+     "url": "https://nutritionequity.org/category/states/north-carolina/"
+    },
+    {
+     "title": "NC Medicaid Clinical Coverage Policy 5A-3, Nursing Equipment and Supplies",
+     "url": "https://medicaid.ncdhhs.gov/documents/files/5a-3-4/open"
+    }
+   ],
+   "gap": "Not funded"
+  }
+ ]
+}
