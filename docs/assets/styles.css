@@ -64,6 +64,7 @@ h3 { font-size: 1.2rem; }
 
 /* ---- top nav ---- */
 /* Site-wide hackathon announcement banner */
+.atlas-banner,
 .hackathon-banner {
   display: block;
   background: var(--blue);
@@ -76,13 +77,20 @@ h3 { font-size: 1.2rem; }
   padding: 10px 18px;
   letter-spacing: .01em;
 }
+.atlas-banner:hover,
 .hackathon-banner:hover { background: var(--blue-dk); color: #fff; text-decoration: none; }
+.atlas-banner, .atlas-banner:link, .atlas-banner:visited,
 .hackathon-banner, .hackathon-banner:link, .hackathon-banner:visited { color: #fff; }
+.atlas-banner b, .atlas-banner span,
 .hackathon-banner b, .hackathon-banner span { color: #fff; }
 .hackathon-banner b { font-weight: 700; }
+.atlas-banner b { font-weight: 700; }
+.atlas-banner .hb-cta,
 .hackathon-banner .hb-cta { text-decoration: underline; text-underline-offset: 2px; white-space: nowrap; }
+.atlas-banner .hb-arrow,
 .hackathon-banner .hb-arrow { font-family: var(--font-mono); }
-@media (max-width: 560px){ .hackathon-banner { font-size: .85rem; padding: 9px 12px; } }
+@media (max-width: 560px){ .atlas-banner,
+.hackathon-banner { font-size: .85rem; padding: 9px 12px; } }
 
 .nav {
   position: sticky; top: 0; z-index: 10;
