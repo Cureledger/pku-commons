@@ -363,8 +363,8 @@
    "level": "moderate (B)",
    "strength": "strong",
    "agree": "100%",
-   "us_status": "meets",
-   "nc_note": "North Carolina patients monitor with mail-in dried blood spot cards run through the state newborn screening program or a reference lab such as Mayo.",
+   "us_status": "fails",
+   "nc_note": "North Carolina patients mail dried blood spot biohazard samples to a state mail sorting center and get a result 5 to 15 days later.",
    "sources": [
     {
      "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency (Vockley et al.)",
@@ -375,7 +375,7 @@
      "url": "https://www.mayocliniclabs.com/test-catalog/Overview/65593"
     }
    ],
-   "gap": "Met"
+   "gap": "No access"
   },
   {
    "num": 18,
@@ -427,7 +427,7 @@
    "strength": "strong",
    "agree": "65%",
    "us_status": "fails",
-   "nc_note": "No US guideline sets any turnaround standard, and the 2023 ACMG guideline lists faster point of care phenylalanine testing as an unmet research priority.",
+   "nc_note": "North Carolina results come back 5 to 15 days after mailing. No US guideline sets any turnaround standard, and the 2023 ACMG guideline lists faster point of care testing as an unmet research priority.",
    "sources": [
     {
      "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine)",
