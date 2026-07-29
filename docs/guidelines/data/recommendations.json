@@ -99,8 +99,8 @@
    "level": "low (C)",
    "strength": "strong",
    "agree": "85%",
-   "us_status": "meets",
-   "nc_note": "The 2024 ACMG guideline goes further than Europe and recommends PAH genetic testing at birth for every confirmed case.",
+   "us_status": "partial",
+   "nc_note": "The 2024 ACMG guideline recommends PAH genetic testing at birth for every confirmed case. North Carolina metabolic centers order it, but whether an insurer pays is decided case by case.",
    "sources": [
     {
      "title": "ACMG 2023 evidence-based clinical guideline for PAH deficiency (Genetics in Medicine, 2024)",
@@ -111,7 +111,7 @@
      "url": "https://www.eurekalert.org/news-releases/1066234"
     }
    ],
-   "gap": "Met"
+   "gap": "Partially delivered"
   },
   {
    "num": 6,
@@ -317,7 +317,7 @@
    "level": "moderate (B)",
    "strength": "strong",
    "agree": "100%",
-   "us_status": "meets",
+   "us_status": "fails",
    "nc_note": "Coverage is the North Carolina weak point, because medical foods for a pregnant adult depend on Medicaid eligibility or out of pocket purchase rather than any state insurance mandate.",
    "sources": [
     {
@@ -333,7 +333,7 @@
      "url": "https://nutritionequity.org/wp-content/uploads/sites/12/2025/09/NORD-Medical-Nutrition-10th-Edition-FINAL.pdf"
     }
    ],
-   "gap": "Met"
+   "gap": "Not funded"
   },
   {
    "num": 16,
@@ -927,8 +927,8 @@
    "level": "moderate (B)",
    "strength": "strong",
    "agree": "75%",
-   "us_status": "meets",
-   "nc_note": "This is one recommendation the US leads on. Glycomacropeptide was developed and trialed in the US and Cambrooke sells the Glytactin line nationwide, so a North Carolina patient can get it.",
+   "us_status": "fails",
+   "nc_note": "Glycomacropeptide was developed and trialed in the US and Cambrooke sells the Glytactin line nationally. North Carolina mandates no coverage for it, so obtaining it depends on ability to pay.",
    "sources": [
     {
      "title": "Glycomacropeptide for nutritional management of phenylketonuria: a randomized, controlled, crossover trial",
@@ -943,7 +943,7 @@
      "url": "https://www.npkua.org/resources/insurance-coverage/"
     }
    ],
-   "gap": "Met"
+   "gap": "Not funded"
   },
   {
    "num": 43,
@@ -1813,8 +1813,8 @@
    "level": "moderate (B)",
    "strength": "strong",
    "agree": "95%",
-   "us_status": "meets",
-   "nc_note": "North Carolina also has an option this guideline does not address, sepiapterin (Sephience), FDA approved July 28, 2025 for ages one month and up at a wholesale cost near $480,000 per year.",
+   "us_status": "partial",
+   "nc_note": "North Carolina also has an option this guideline does not address, sepiapterin (Sephience), FDA approved July 28, 2025, at a wholesale cost near $480,000 per year and subject to prior authorization.",
    "sources": [
     {
      "title": "ACMG Practice Guideline: Phenylalanine hydroxylase deficiency diagnosis and management",
@@ -1833,7 +1833,7 @@
      "url": "https://business.optum.com/en/support/professionalrx-resources/drugapproval-sephience-073025.html"
     }
    ],
-   "gap": "Met"
+   "gap": "Not funded"
   },
   {
    "num": 81,
