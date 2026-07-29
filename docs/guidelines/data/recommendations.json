@@ -1253,8 +1253,8 @@
    "level": "low (C)",
    "strength": "strong",
    "agree": "95%",
-   "us_status": "unknown",
-   "nc_note": "A GMDI and SERN web portal exists with a families section. Its depth against a recommendation for lifelong education starting in early childhood is unassessed. NEEDS REVIEW.",
+   "us_status": "fails",
+   "nc_note": "Resources are transient, and maintenance is a continuing issue. There are no patient-usable resources.",
    "sources": [
     {
      "title": "Nutrition Management Guideline for Phenylketonuria (PKU), GMDI",
@@ -1269,7 +1269,7 @@
      "url": "https://southeastgenetics.org/state-resources/north-carolina/"
     }
    ],
-   "gap": "Unverified"
+   "gap": "No US standard"
   },
   {
    "num": 57,
