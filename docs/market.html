@@ -132,6 +132,7 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 <a class="link" href="families.html">Families</a>
 <a class="link" href="hackathon.html">Hackathon</a>
 <a class="link" href="market.html" aria-current="page">Market Atlas</a>
+<a class="link" href="markets.html">Prediction Markets</a>
 <a class="link" href="guidelines.html">Guidelines</a>
 </div>
 </nav>
@@ -170,7 +171,7 @@ td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight
 <p>Every claim in this atlas eventually resolves true or false. These five open the book, each anchored
 to a row in the tables below and settled by a public record.</p>
 </div>
-<button class="btn btn-primary pm-cta" onclick="selectTab('markets')">See all markets</button>
+<a class="btn btn-primary pm-cta" href="markets.html">See all markets</a>
 </div>
 <div class="pm-cards" id="pmCards"></div>
 </div>
@@ -358,16 +359,6 @@ const DATASETS = [
       {h:'Detail', f:r=>r.detail||'—'},
       {h:'Market signal', f:r=>r.market_signal||'—'},
     ]},
-  { id:'markets', file:'market/data/markets.json', tab:'Prediction Markets', blurb:'Open questions in this atlas, written as tradeable markets. Each one is anchored to a data point in the tables and resolves on an objective public source: an FDA listing, ClinicalTrials.gov, Congress.gov, a state statute, or a court record.',
-    filterKey:'category', filterLabel:{'drug-pipeline':'Drugs & pipeline',devices:'Devices',policy:'Policy',litigation:'Litigation','market-structure':'Market structure',apps:'Apps'},
-    cols:[
-      {h:'Market', f:r=>cell(r.question, r.anchor_tab ? 'anchored to '+r.anchor_tab : ''), strong:true},
-      {h:'Category', f:r=>r.category||'—'},
-      {h:'Status', f:r=>badge(r.status)},
-      {h:'Closes', f:r=>r.close_date||'—'},
-      {h:'Resolves on', f:r=>r.resolves_on||'—'},
-      {h:'Why it is live', f:r=>r.anchor_fact||'—'},
-    ]},
 ];
 
 // ---- helpers ----
@@ -463,19 +454,20 @@ function selectTab(id){
 function num(n){ return n==null?'—':n.toLocaleString(); }
 // Featured markets under the hero. Picks four headline questions, falls back to the first four.
 const FEATURED=['at-home phenylalanine test','Medical Foods and Formulas Access Act','filed in North Carolina','repinatrabit (JNT-517)','glycomacropeptide (GMP)'];
-function renderFeaturedMarkets(){
+async function renderFeaturedMarkets(){
   const host=document.getElementById('pmCards'); const band=document.querySelector('.pmband');
   if(!host) return;
-  const recs=(store['markets']&&store['markets'].records)||[];
+  let recs=[];
+  try{ const r=await fetch('market/data/markets.json',{cache:'no-store'}); if(r.ok) recs=(await r.json()).records||[]; }catch(e){}
   if(!recs.length){ if(band) band.style.display='none'; return; }
   const picked=[];
   FEATURED.forEach(key=>{ const m=recs.find(r=>r.question.includes(key)&&!picked.includes(r)); if(m) picked.push(m); });
   recs.forEach(r=>{ if(picked.length<5&&!picked.includes(r)) picked.push(r); });
   host.innerHTML=picked.slice(0,5).map(r=>
-    '<button class="pm-card" onclick="selectTab(\'markets\')">'+
+    '<a class="pm-card" href="markets.html">'+
       '<span class="pm-q">'+esc(r.question)+'</span>'+
       '<span class="pm-meta"><span class="pm-cat">'+esc(r.category||'')+'</span>closes '+esc((r.close_date||'').slice(0,7))+'</span>'+
-    '</button>').join('');
+    '</a>').join('');
 }
 
 function computeStats(){
