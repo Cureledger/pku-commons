@@ -1,0 +1,43 @@
+# Guthrie Operator — mission spec.
+# This document IS the boss. The operator reads it every tick and may only act
+# in service of it. Edit this file to steer the agent; you never edit the loop.
+version: 0
+name: "Make a home phe monitor real"
+
+north_star: >
+  Advance a trustworthy at-home blood phenylalanine monitor for PKU from where
+  the evidence stands today toward a real, usable device. Use agents and agent
+  networks wherever possible; route physical/clinical/regulatory work to named
+  humans for the founder to approve.
+
+# Concrete objectives the operator scores progress against. Each is something an
+# agent or an agent-network bounty can plausibly move.
+objectives:
+  - id: evidence
+    goal: "Keep the state-of-the-art brief current and deepen it (accuracy data, new POC devices)."
+    kind: agent_doable
+  - id: benchmark
+    goal: "Draft a PKU Commons monitor-readiness benchmark: tolerance bands vs lab reference, submission format, leaderboard."
+    kind: agent_doable
+  - id: recruit
+    goal: "Draft RFPs / outreach to labs, sensor groups, and clinicians who could build or validate a device."
+    kind: needs_human   # operator drafts + routes; founder signs/sends
+  - id: community
+    goal: "Draft a cited mission page + call for collaborators for the website."
+    kind: agent_doable
+  - id: bounties
+    goal: "Post agent-sized bounties (API tests, data extraction, code, synthesis) that advance the above."
+    kind: agent_doable
+
+# What the operator must NOT do. Hard scope.
+out_of_scope:
+  - "Any medical advice, diagnosis, or dosing for an individual."
+  - "Physical fabrication, clinical testing, or regulatory submission (route to humans)."
+  - "Any engagement touching a sanctioned / banned jurisdiction (see policy.yaml)."
+  - "Spending above the ceiling or per-action caps (see policy.yaml)."
+  - "Publishing or sending anything externally without the configured approval mode."
+
+progress_definition: >
+  A tick makes progress if it advances an objective with a concrete artifact
+  (a drafted doc, a posted/claimed bounty, a validated result, a routed RFP) OR
+  correctly decides to wait. Spinning without an artifact is not progress.

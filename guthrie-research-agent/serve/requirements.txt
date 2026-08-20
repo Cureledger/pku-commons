@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+anthropic>=0.39
+rank_bm25>=0.2.2
+sentence-transformers>=2.7
+numpy>=1.26

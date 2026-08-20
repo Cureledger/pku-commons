@@ -1,0 +1,13 @@
+{
+  "version": "v0",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "n_chunks": 3800,
+  "by_source": {
+    "literature": 3700,
+    "guideline_fulltext": 26,
+    "commons": 74
+  },
+  "embedding_dim": 384,
+  "built_utc": "2026-08-07T13:10:59Z",
+  "build_seconds": 34.8
+}
