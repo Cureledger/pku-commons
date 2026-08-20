@@ -1,0 +1,18 @@
+# The repo-root .gitignore has a blanket `build/` (Python convention) that would
+# swallow THIS agent's build/ SCRIPTS (fetch_corpus.py, build_index.py, ...) that
+# the index Action and reproducibility depend on. Re-include the directory here
+# (deeper .gitignore wins), then re-ignore only the generated corpus below.
+!build/
+
+# large binaries — regenerable or artifact-backed, not for git
+*.tar.gz
+build/raw/
+pku_index/*.npy
+pku_index/*.pkl
+pku_index/*.sqlite
+__pycache__/
+*.pyc
+.venv/
+operator/output/
+operator/ledger.jsonl
+operator/HALT

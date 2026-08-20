@@ -1,0 +1,85 @@
+name: Build PKU index
+
+# Rebuilds the Guthrie research index from public sources (PubMed E-utilities —
+# NO API key required) and publishes it as the `index-latest` GitHub Release
+# asset. The agent's Docker image (guthrie-research-agent/serve/Dockerfile)
+# downloads that asset at build time, so the ~40MB binaries never live in git.
+#
+# Run this ONCE (Run workflow) before the first Railway deploy, then it refreshes
+# weekly and whenever the build scripts change.
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_records:
+        description: "Max PubMed records to fetch"
+        default: "4000"
+        required: false
+  schedule:
+    - cron: "17 6 * * 1" # Mondays 06:17 UTC
+  push:
+    branches: [main]
+    paths:
+      - "guthrie-research-agent/build/**"
+
+permissions:
+  contents: write # create/update the index-latest release
+
+concurrency:
+  group: build-pku-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: guthrie-research-agent
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install build deps
+        run: pip install --no-cache-dir numpy "sentence-transformers>=2.7" "rank_bm25>=0.2.2"
+
+      - name: Fetch corpus (PubMed, key-free)
+        env:
+          NCBI_CONTACT_EMAIL: ${{ vars.NCBI_CONTACT_EMAIL }}
+        run: python build/fetch_corpus.py --max "${{ github.event.inputs.max_records || '4000' }}"
+
+      - name: Fetch guideline full text (best-effort)
+        run: python build/fetch_guidelines_fulltext.py || echo "guidelines fetch skipped/failed; continuing with the literature corpus"
+
+      - name: Build commons layer (from this repo's markdown)
+        run: python build/build_market_layer.py
+
+      - name: Build index
+        run: python build/build_index.py
+
+      - name: Package
+        run: |
+          test -f pku_index/chunks.sqlite
+          tar czf pku_index.tar.gz pku_index
+          ls -la pku_index.tar.gz
+          echo "---- meta.json ----"
+          cat pku_index/meta.json
+
+      - name: Publish index-latest release
+        working-directory: ${{ github.workspace }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ASSET="guthrie-research-agent/pku_index.tar.gz"
+          NOTES="PKU retrieval index rebuilt $(date -u +%Y-%m-%dT%H:%M:%SZ) from PubMed + guidelines. Consumed at build time by guthrie-research-agent/serve/Dockerfile."
+          if gh release view index-latest >/dev/null 2>&1; then
+            gh release upload index-latest "$ASSET" --clobber
+            gh release edit index-latest --notes "$NOTES"
+          else
+            gh release create index-latest "$ASSET" \
+              --title "PKU index (latest)" \
+              --notes "$NOTES" \
+              --prerelease
+          fi
