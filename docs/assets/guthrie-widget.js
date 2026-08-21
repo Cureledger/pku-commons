@@ -21,7 +21,7 @@
   if (window.__guthrieWidgetLoaded) return;
   window.__guthrieWidgetLoaded = true;
 
-  var DEFAULT_API_BASE = ""; // e.g. "https://guthrie-research-agent-production.up.railway.app"
+  var DEFAULT_API_BASE = "https://pku-commons-production.up.railway.app"; // Railway service (public domain)
   var thisScript = document.currentScript;
   var API_BASE = (
     window.GUTHRIE_API_BASE ||
@@ -230,9 +230,23 @@
     renderText(b, text);
     row.appendChild(b);
 
-    var cited = Array.isArray(citations) ? citations : [];
+    // The API's `citations` are bracketed ("[PMID:123]") while hits are bare
+    // ("PMID:123"); also honor any PMID the answer cites inline (the citations
+    // field can miss some). Normalize: strip brackets/space, upper-case.
+    function normCite(s) {
+      return String(s == null ? "" : s).replace(/[[\]\s]/g, "").toUpperCase();
+    }
+    var refs = {};
+    (Array.isArray(citations) ? citations : []).forEach(function (c) {
+      var k = normCite(c);
+      if (k) refs[k] = 1;
+    });
+    String(text || "").replace(/PMID:\s*\d+/gi, function (m) {
+      refs[normCite(m)] = 1;
+      return m;
+    });
     var srcHits = (Array.isArray(hits) ? hits : []).filter(function (h) {
-      return h && h.url && (cited.length === 0 ? false : cited.indexOf(h.citation) !== -1);
+      return h && h.url && refs[normCite(h.citation)];
     });
     // de-dup by url
     var seen = {};
