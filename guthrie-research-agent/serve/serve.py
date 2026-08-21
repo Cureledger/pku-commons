@@ -100,7 +100,7 @@ class AskBody(BaseModel):
     question: str = Field(min_length=1, max_length=2000)
     k: int = Field(default=8, ge=1, le=20)
     mode: str = Field(default="brief", max_length=32)
-    min_relevance: float = Field(default=0.35, ge=0.0, le=1.0)
+    min_relevance: float = Field(default=kernel.DEFAULT_MIN_RELEVANCE, ge=0.0, le=1.0)
 
 
 class SearchBody(BaseModel):
