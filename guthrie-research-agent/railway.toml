@@ -17,8 +17,9 @@ builder = "dockerfile"
 dockerfilePath = "serve/Dockerfile"
 
 [deploy]
-# Railway assigns $PORT at runtime; bind uvicorn to it (overrides the image CMD).
-startCommand = "uvicorn serve:app --host 0.0.0.0 --port ${PORT:-8000}"
+# No startCommand: Railway runs it without a shell, so `${PORT:-8000}` would be
+# passed to uvicorn as a literal string. Instead the image CMD (shell form in
+# serve/Dockerfile) binds uvicorn to Railway's $PORT.
 healthcheckPath = "/health"
 healthcheckTimeout = 300
 restartPolicyType = "on_failure"

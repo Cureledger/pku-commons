@@ -31,6 +31,8 @@ RUN python -c "from sentence_transformers import SentenceTransformer; \
 
 EXPOSE 8000
 # ANTHROPIC_API_KEY is supplied at runtime (Railway secret), never baked in.
-# Railway sets $PORT and railway.toml's startCommand binds uvicorn to it; this
-# CMD is the local/default fallback for `docker run`.
-CMD ["uvicorn", "serve:app", "--host", "0.0.0.0", "--port", "8000"]
+# Shell form so $PORT expands: Railway assigns $PORT and runs this command
+# WITHOUT a shell, so `--port ${PORT:-8000}` must be evaluated by `sh -c`
+# (a bare exec array would pass the literal string to uvicorn). Falls back to
+# 8000 for local `docker run`.
+CMD ["sh", "-c", "uvicorn serve:app --host 0.0.0.0 --port ${PORT:-8000}"]
