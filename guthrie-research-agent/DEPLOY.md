@@ -45,7 +45,20 @@ refresh on a schedule (weekly + on-demand) with no maintainer.
 | `GUTHRIE_API_TOKEN` | unset (open) | If set, `/api/*` requires `Authorization: Bearer <token>`. Not usable from the public widget — reserve for server-to-server callers |
 | `GUTHRIE_RATE_LIMIT_PER_MIN` | `20` | Per-IP sliding-window cap (denial-of-wallet guard) |
 
-## Refreshing the corpus
+## Growing / refreshing the corpus
 
-Re-run *Build PKU index* (or wait for the weekly schedule), then redeploy on
+The corpus **accumulates** across runs — it does not re-snapshot the most-recent
+N. Each *Build PKU index* run:
+
+1. downloads the corpus grown so far (`literature.jsonl.gz` + `fetched_ids.txt`
+   from the `index-latest` release),
+2. fetches up to **`max_records`** *new* PubMed records not yet attempted
+   (deduped by PMID; `fetched_ids.txt` tracks every attempted id so abstract-less
+   records don't stall progress),
+3. rebuilds the index and republishes both the index and the grown corpus.
+
+So to **grow it in chunks**, just re-run the workflow — each run adds another
+`max_records` and prints `remaining` until the universe (~9.7k records) is
+covered. Set **`max_records = 0`** to fetch everything remaining in one run. The
+weekly schedule keeps adding/refreshing on its own. After any run, redeploy on
 Railway so the image pulls the new `index-latest` asset.

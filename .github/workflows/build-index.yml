@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       max_records:
-        description: "Max PubMed records to fetch"
+        description: "Records to ADD this run (grows the accumulated corpus; 0 = all remaining)"
         default: "4000"
         required: false
   schedule:
@@ -45,6 +45,19 @@ jobs:
       - name: Install build deps
         run: pip install --no-cache-dir numpy "sentence-transformers>=2.7" "rank_bm25>=0.2.2"
 
+      - name: Restore accumulated corpus (from index-latest release)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p build/raw
+          # Pull the corpus we've grown so far so this run ADDS to it. First run
+          # (no release / no asset yet) just starts fresh.
+          gh release download index-latest --dir build/raw \
+            --pattern 'literature.jsonl.gz' --pattern 'fetched_ids.txt' --clobber \
+            || echo "no prior corpus — starting fresh"
+          [ -f build/raw/literature.jsonl.gz ] && gunzip -f build/raw/literature.jsonl.gz || true
+          echo "restored $(wc -l < build/raw/literature.jsonl 2>/dev/null || echo 0) records, $(wc -l < build/raw/fetched_ids.txt 2>/dev/null || echo 0) attempted ids"
+
       - name: Fetch corpus (PubMed, key-free)
         env:
           NCBI_CONTACT_EMAIL: ${{ vars.NCBI_CONTACT_EMAIL }}
@@ -63,7 +76,9 @@ jobs:
         run: |
           test -f pku_index/chunks.sqlite
           tar czf pku_index.tar.gz pku_index
-          ls -la pku_index.tar.gz
+          # keep the grown corpus + attempted-id log so the next run resumes it
+          gzip -kf build/raw/literature.jsonl
+          ls -la pku_index.tar.gz build/raw/literature.jsonl.gz build/raw/fetched_ids.txt
           echo "---- meta.json ----"
           cat pku_index/meta.json
 
@@ -72,13 +87,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          ASSET="guthrie-research-agent/pku_index.tar.gz"
-          NOTES="PKU retrieval index rebuilt $(date -u +%Y-%m-%dT%H:%M:%SZ) from PubMed + guidelines. Consumed at build time by guthrie-research-agent/serve/Dockerfile."
+          IDX="guthrie-research-agent/pku_index.tar.gz"
+          CORPUS="guthrie-research-agent/build/raw/literature.jsonl.gz"
+          IDS="guthrie-research-agent/build/raw/fetched_ids.txt"
+          NOTES="PKU retrieval index + accumulated corpus, rebuilt $(date -u +%Y-%m-%dT%H:%M:%SZ) from PubMed + guidelines. Docker pulls pku_index.tar.gz; the Build-PKU-index Action reuses literature.jsonl.gz + fetched_ids.txt to grow the corpus each run."
           if gh release view index-latest >/dev/null 2>&1; then
-            gh release upload index-latest "$ASSET" --clobber
+            gh release upload index-latest "$IDX" "$CORPUS" "$IDS" --clobber
             gh release edit index-latest --notes "$NOTES"
           else
-            gh release create index-latest "$ASSET" \
+            gh release create index-latest "$IDX" "$CORPUS" "$IDS" \
               --title "PKU index (latest)" \
               --notes "$NOTES" \
               --prerelease
