@@ -77,6 +77,8 @@ def guideline_chunks(path):
             }
 
 def market_chunks(path):
+    if not os.path.exists(path):
+        return
     for line in open(path, encoding="utf-8"):
         r = json.loads(line)
         yield {
