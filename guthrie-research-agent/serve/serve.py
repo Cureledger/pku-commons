@@ -20,10 +20,13 @@ flag + clinician deferral, off-topic refusal. This is the same code path the
 eval scored, so the number on the website is the number in eval/report.md.
 """
 import hmac
+import json
 import os
 import re
 import sys
 import time
+import urllib.parse
+import urllib.request
 from collections import deque
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Request
@@ -63,6 +66,16 @@ API_TOKEN = os.environ.get("GUTHRIE_API_TOKEN", "").strip()
 RATE_LIMIT_MAX = int(os.environ.get("GUTHRIE_RATE_LIMIT_PER_MIN", "20"))
 RATE_LIMIT_WINDOW = 60.0
 
+#   3. Optional Cloudflare Turnstile — the browser-friendly guard a public widget
+#      CAN use (unlike a bearer token). When TURNSTILE_SECRET_KEY is set, /api/ask
+#      requires a Turnstile token (sent by the widget in the `cf-turnstile-response`
+#      header) and verifies it server-side. Unset = off, so this ships DORMANT and
+#      turns on the moment the secret is configured on Railway. Site key
+#      (public) lives in the widget; matches the other repos' TURNSTILE_SECRET_KEY
+#      / NEXT_PUBLIC_TURNSTILE_SITE_KEY pair.
+TURNSTILE_SECRET = os.environ.get("TURNSTILE_SECRET_KEY", "").strip()
+TURNSTILE_VERIFY_URL = "https://challenges.cloudflare.com/turnstile/v0/siteverify"
+
 app = FastAPI(title="Guthrie - PKU research agent", version="0")
 app.add_middleware(
     CORSMiddleware, allow_origins=ALLOWED_ORIGINS, allow_methods=["*"],
@@ -96,6 +109,35 @@ def require_token(authorization: str | None = Header(default=None)):
         raise HTTPException(status_code=401, detail="Unauthorized")
 
 
+def _verify_turnstile(token: str, remoteip: str | None) -> bool:
+    """Server-side siteverify. Fails closed (returns False) on any error."""
+    data = {"secret": TURNSTILE_SECRET, "response": token}
+    if remoteip:
+        data["remoteip"] = remoteip
+    try:
+        req = urllib.request.Request(
+            TURNSTILE_VERIFY_URL,
+            data=urllib.parse.urlencode(data).encode(),
+            headers={"Content-Type": "application/x-www-form-urlencoded"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            return bool(json.loads(resp.read()).get("success"))
+    except Exception:
+        return False
+
+
+def require_turnstile(request: Request):
+    if not TURNSTILE_SECRET:
+        return  # challenge disabled until TURNSTILE_SECRET_KEY is set
+    token = (request.headers.get("cf-turnstile-response") or "").strip()
+    ip = (
+        request.headers.get("x-forwarded-for", "").split(",")[0].strip()
+        or (request.client.host if request.client else None)
+    )
+    if not token or not _verify_turnstile(token, ip):
+        raise HTTPException(status_code=403, detail="Turnstile verification failed")
+
+
 class AskBody(BaseModel):
     question: str = Field(min_length=1, max_length=2000)
     k: int = Field(default=8, ge=1, le=20)
@@ -127,7 +169,7 @@ def health():
 
 
 @app.post("/api/ask")
-def ask(body: AskBody, _=Depends(require_token)):
+def ask(body: AskBody, _=Depends(require_token), __=Depends(require_turnstile)):
     # SAME code path as the skill + eval: kernel.pku_ask owns the refusal gate,
     # medical flag, and citation logic. We only inject the grounding LLM.
     r = kernel.pku_ask(body.question, k=body.k, mode=body.mode,

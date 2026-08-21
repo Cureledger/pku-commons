@@ -30,6 +30,89 @@
     ""
   ).replace(/\/+$/, "");
 
+  // ── Optional Cloudflare Turnstile (bot / abuse guard) ────────────────────
+  // Public SITE key. Set via window.GUTHRIE_TURNSTILE_SITEKEY, the script's
+  // data-turnstile-sitekey attr, or DEFAULT_TURNSTILE_SITEKEY. Blank = disabled
+  // (the server also stays dormant until TURNSTILE_SECRET_KEY is set). Use the
+  // same value as the other apps' NEXT_PUBLIC_TURNSTILE_SITE_KEY, configured as
+  // a Non-Interactive / Invisible widget so it needs no visible UI.
+  var DEFAULT_TURNSTILE_SITEKEY = "";
+  var TURNSTILE_SITEKEY =
+    window.GUTHRIE_TURNSTILE_SITEKEY ||
+    (thisScript && thisScript.dataset && thisScript.dataset.turnstileSitekey) ||
+    DEFAULT_TURNSTILE_SITEKEY ||
+    "";
+
+  var _tsId = null,
+    _tsToken = null,
+    _tsWaiters = [],
+    _tsLoading = false;
+  function _tsFill(token) {
+    _tsToken = token || null;
+    if (_tsWaiters.length && _tsToken) {
+      var t = _tsToken,
+        ws = _tsWaiters;
+      _tsToken = null;
+      _tsWaiters = [];
+      ws.forEach(function (w) { w(t); });
+      _tsRefresh(); // brew the next single-use token
+    }
+  }
+  function _tsRender() {
+    if (_tsId !== null || !window.turnstile) return;
+    var box = document.createElement("div");
+    box.style.display = "none";
+    document.body.appendChild(box);
+    _tsId = window.turnstile.render(box, {
+      sitekey: TURNSTILE_SITEKEY,
+      callback: _tsFill,
+      "error-callback": function () { _tsFill(""); },
+    });
+  }
+  function _tsLoad() {
+    if (_tsLoading || !TURNSTILE_SITEKEY) return;
+    _tsLoading = true;
+    var s = document.createElement("script");
+    s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
+    s.async = true;
+    s.defer = true;
+    s.onload = _tsRender;
+    document.head.appendChild(s);
+  }
+  function _tsRefresh() {
+    if (!TURNSTILE_SITEKEY) return;
+    if (!window.turnstile) { _tsLoad(); return; }
+    if (_tsId === null) { _tsRender(); return; }
+    try { window.turnstile.reset(_tsId); } catch (e) { /* callback will fire */ }
+  }
+  // Resolve to a fresh single-use Turnstile token, or "" if disabled/unavailable.
+  // Never hangs the chat: falls back to "" after a short wait.
+  function getTurnstileToken() {
+    return new Promise(function (resolve) {
+      if (!TURNSTILE_SITEKEY) { resolve(""); return; }
+      if (_tsToken) {
+        var t = _tsToken;
+        _tsToken = null;
+        resolve(t);
+        _tsRefresh();
+        return;
+      }
+      var settled = false;
+      var wrap = function (tok) {
+        if (settled) return;
+        settled = true;
+        clearTimeout(timer);
+        resolve(tok || "");
+      };
+      var timer = setTimeout(function () {
+        _tsWaiters = _tsWaiters.filter(function (w) { return w !== wrap; });
+        wrap("");
+      }, 8000);
+      _tsWaiters.push(wrap);
+      _tsRefresh();
+    });
+  }
+
   var GREETING =
     "Hi, I'm Guthrie. I answer questions about PKU from the published literature and clinical guidelines, and I cite my sources. I won't guess. What would you like to know?";
   var SUGGESTED = [
@@ -316,11 +399,16 @@
     busy = true;
     send.disabled = true;
     showTyping();
-    fetch(API_BASE + "/api/ask", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ question: text }),
-    })
+    getTurnstileToken()
+      .then(function (tsToken) {
+        var headers = { "Content-Type": "application/json" };
+        if (tsToken) headers["cf-turnstile-response"] = tsToken;
+        return fetch(API_BASE + "/api/ask", {
+          method: "POST",
+          headers: headers,
+          body: JSON.stringify({ question: text }),
+        });
+      })
       .then(function (res) {
         return res
           .json()
@@ -370,6 +458,7 @@
   function openPanel() {
     panel.classList.add("gth-open");
     launch.style.display = "none";
+    _tsLoad(); // warm up Turnstile on first open (no-op unless a site key is set)
     if (!greeted) {
       greeted = true;
       addBot(GREETING, [], []);
