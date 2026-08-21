@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
 """Guthrie corpus fetch — PKU literature from NCBI E-utilities.
 
-Reproducible, key-free pull of the PKU literature slice defined in
-guthrie/CORPUS.md. Writes JSONL to build/raw/. One command rebuilds; --since
-does an incremental refresh so the corpus stays live without a maintainer.
+Reproducible, key-free pull of the PKU literature universe defined in
+guthrie/CORPUS.md. Writes JSONL to build/raw/. The corpus ACCUMULATES: each run
+merges up to --max NEW records (deduped by PMID) into the existing
+literature.jsonl and logs every attempted id in fetched_ids.txt, so repeated
+runs grow it in chunks toward the whole universe instead of re-snapshotting the
+most-recent N.
 
-    python fetch_corpus.py                 # full pull (cap = --max, default 4000)
-    python fetch_corpus.py --since 2026/01/01   # only records added since a date
+    python fetch_corpus.py                 # add up to 4000 more (default chunk)
+    python fetch_corpus.py --max 0         # fetch ALL remaining in one run
     python fetch_corpus.py --max 500       # small pull for testing
+    python fetch_corpus.py --reset         # discard prior state, start fresh
 
 No API key required. A contact email is attached when the host provides one.
 """
@@ -113,30 +117,97 @@ def efetch_batch(pmids):
             out.append(rec)
     return out
 
+def _load_corpus(path):
+    """Existing records keyed by pmid, so a run MERGES instead of overwriting."""
+    have = {}
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    r = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                pmid = str(r.get("pmid") or "").strip()
+                if pmid:
+                    have[pmid] = r
+    return have
+
+def _load_ids(path):
+    ids = set()
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                t = line.strip()
+                if t:
+                    ids.add(t)
+    return ids
+
+def _sort_key(pmid):
+    # numeric PMIDs ascending; anything odd sorts last, deterministically
+    return (0, int(pmid)) if pmid.isdigit() else (1, 0)
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--max", type=int, default=4000, help="cap on records (recency-sorted)")
-    ap.add_argument("--since", default=None, help="entrez date YYYY/MM/DD for incremental refresh")
+    ap.add_argument("--max", type=int, default=4000,
+                    help="max NEW records to fetch THIS run (0 = all remaining). The "
+                         "corpus accumulates across runs, so this grows it in chunks.")
+    ap.add_argument("--since", default=None,
+                    help="entrez date YYYY/MM/DD to restrict the universe (optional; "
+                         "leave unset so growth walks the whole universe)")
     ap.add_argument("--batch", type=int, default=200)
     ap.add_argument("--out", default=os.path.join(RAW, "literature.jsonl"))
+    ap.add_argument("--reset", action="store_true",
+                    help="ignore the existing corpus + attempted-id log; start fresh")
     args = ap.parse_args()
-    os.makedirs(RAW, exist_ok=True)
+    out_dir = os.path.dirname(args.out) or "."
+    os.makedirs(out_dir, exist_ok=True)
+    ids_path = os.path.join(out_dir, "fetched_ids.txt")
 
-    ids, total = esearch(CORE_QUERY, since=args.since, retmax=max(args.max, 100000))
-    ids = ids[:args.max]
-    print(f"esearch: {total:,} match the universe; fetching {len(ids):,} (cap={args.max}, since={args.since})")
+    # Prior state (persisted between runs). `attempted` tracks every id we have
+    # efetch'd, INCLUDING abstract-less ones that never enter `have` — otherwise
+    # they'd be retried forever and block the chunk from advancing.
+    have = {} if args.reset else _load_corpus(args.out)
+    attempted = set() if args.reset else _load_ids(ids_path)
 
-    seen = 0
+    universe, total = esearch(CORE_QUERY, since=args.since, retmax=100000)
+    universe = [str(x) for x in universe]
+    todo = [i for i in universe if i not in attempted]
+    if args.max and args.max > 0:
+        todo = todo[:args.max]
+
+    print(f"universe: {total:,} match | have: {len(have):,} records | "
+          f"attempted: {len(attempted):,} | this run: {len(todo):,} "
+          f"(cap={args.max or 'ALL'}, since={args.since})", flush=True)
+
+    added = 0
+    for i in range(0, len(todo), args.batch):
+        chunk = todo[i:i + args.batch]
+        for r in efetch_batch(chunk):
+            pmid = str(r.get("pmid") or "").strip()
+            if pmid:
+                have[pmid] = r
+                added += 1
+        attempted.update(chunk)
+        print(f"  {min(i + args.batch, len(todo)):>6}/{len(todo)} ids -> "
+              f"+{added:,} new (corpus {len(have):,})", flush=True)
+        time.sleep(0.34)  # NCBI ~3 req/s without a key
+
     with open(args.out, "w") as f:
-        for i in range(0, len(ids), args.batch):
-            chunk = ids[i:i + args.batch]
-            recs = efetch_batch(chunk)
-            for r in recs:
-                f.write(json.dumps(r) + "\n")
-            seen += len(recs)
-            print(f"  {i+len(chunk):>5}/{len(ids)} ids -> {seen:,} records with abstracts", flush=True)
-            time.sleep(0.34)  # NCBI ~3 req/s without key
-    print(f"DONE: wrote {seen:,} records to {args.out}")
+        for pmid in sorted(have, key=_sort_key):
+            f.write(json.dumps(have[pmid]) + "\n")
+    with open(ids_path, "w") as f:
+        for pmid in sorted(attempted, key=_sort_key):
+            f.write(pmid + "\n")
+
+    remaining = sum(1 for i in universe if i not in attempted)
+    tail = (" Corpus is COMPLETE for this universe."
+            if remaining == 0 else
+            f" Re-run to fetch the next {min(args.max or remaining, remaining):,}.")
+    print(f"DONE: corpus {len(have):,} records (+{added:,} this run); "
+          f"universe {total:,}, attempted {len(attempted):,}, remaining {remaining:,}.{tail}")
 
 if __name__ == "__main__":
     main()
