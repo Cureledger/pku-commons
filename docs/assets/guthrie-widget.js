@@ -43,20 +43,17 @@
     DEFAULT_TURNSTILE_SITEKEY ||
     "";
 
+  // Cloudflare Turnstile token plumbing. Tokens are single-use and expire
+  // (~5 min), so we mint a FRESH one for every request (reset before each)
+  // instead of caching — a stale/expired cached token is the usual cause of an
+  // intermittent 403. Sends are serialized (the `busy` flag), so one pending
+  // resolver is enough. Transient challenge failures are retried.
   var _tsId = null,
-    _tsToken = null,
-    _tsWaiters = [],
-    _tsLoading = false;
-  function _tsFill(token) {
-    _tsToken = token || null;
-    if (_tsWaiters.length && _tsToken) {
-      var t = _tsToken,
-        ws = _tsWaiters;
-      _tsToken = null;
-      _tsWaiters = [];
-      ws.forEach(function (w) { w(t); });
-      _tsRefresh(); // brew the next single-use token
-    }
+    _tsLoading = false,
+    _tsPending = null; // (token) => void, set while a send awaits a token
+  function _tsDeliver(token) {
+    var cb = _tsPending;
+    if (cb) cb(token || "");
   }
   function _tsRender() {
     if (_tsId !== null || !window.turnstile) return;
@@ -65,8 +62,9 @@
     document.body.appendChild(box);
     _tsId = window.turnstile.render(box, {
       sitekey: TURNSTILE_SITEKEY,
-      callback: _tsFill,
-      "error-callback": function () { _tsFill(""); },
+      callback: function (t) { _tsDeliver(t); },
+      "error-callback": function () { _tsDeliver(""); },
+      "expired-callback": function () { _tsDeliver(""); },
     });
   }
   function _tsLoad() {
@@ -79,37 +77,36 @@
     s.onload = _tsRender;
     document.head.appendChild(s);
   }
-  function _tsRefresh() {
+  // Force a fresh challenge: load+render on first use, else reset the widget.
+  function _tsTrigger() {
     if (!TURNSTILE_SITEKEY) return;
     if (!window.turnstile) { _tsLoad(); return; }
     if (_tsId === null) { _tsRender(); return; }
-    try { window.turnstile.reset(_tsId); } catch (e) { /* callback will fire */ }
+    try { window.turnstile.reset(_tsId); } catch (e) { _tsDeliver(""); }
   }
-  // Resolve to a fresh single-use Turnstile token, or "" if disabled/unavailable.
-  // Never hangs the chat: falls back to "" after a short wait.
+  // Resolve to a FRESH single-use token, or "" if disabled/unavailable. Retries
+  // transient failures and never hangs the chat (falls back to "" by ~9s).
   function getTurnstileToken() {
     return new Promise(function (resolve) {
       if (!TURNSTILE_SITEKEY) { resolve(""); return; }
-      if (_tsToken) {
-        var t = _tsToken;
-        _tsToken = null;
-        resolve(t);
-        _tsRefresh();
-        return;
-      }
-      var settled = false;
-      var wrap = function (tok) {
-        if (settled) return;
-        settled = true;
+      var done = false,
+        tries = 0;
+      var timer = setTimeout(function () { finish(""); }, 9000);
+      function finish(tok) {
+        if (done) return;
+        done = true;
         clearTimeout(timer);
+        if (_tsPending === handle) _tsPending = null;
         resolve(tok || "");
-      };
-      var timer = setTimeout(function () {
-        _tsWaiters = _tsWaiters.filter(function (w) { return w !== wrap; });
-        wrap("");
-      }, 8000);
-      _tsWaiters.push(wrap);
-      _tsRefresh();
+      }
+      function handle(tok) {
+        if (done) return;
+        if (tok) { finish(tok); return; }
+        if (++tries < 4) setTimeout(_tsTrigger, 500); // retry a fresh challenge
+        else finish("");
+      }
+      _tsPending = handle;
+      _tsTrigger();
     });
   }
 
@@ -399,25 +396,34 @@
     busy = true;
     send.disabled = true;
     showTyping();
-    getTurnstileToken()
-      .then(function (tsToken) {
-        var headers = { "Content-Type": "application/json" };
-        if (tsToken) headers["cf-turnstile-response"] = tsToken;
-        return fetch(API_BASE + "/api/ask", {
-          method: "POST",
-          headers: headers,
-          body: JSON.stringify({ question: text }),
-        });
-      })
-      .then(function (res) {
-        return res
-          .json()
-          .catch(function () {
-            return {};
-          })
-          .then(function (data) {
-            return { ok: res.ok, status: res.status, data: data };
+    function doFetch() {
+      return getTurnstileToken()
+        .then(function (tsToken) {
+          var headers = { "Content-Type": "application/json" };
+          if (tsToken) headers["cf-turnstile-response"] = tsToken;
+          return fetch(API_BASE + "/api/ask", {
+            method: "POST",
+            headers: headers,
+            body: JSON.stringify({ question: text }),
           });
+        })
+        .then(function (res) {
+          return res
+            .json()
+            .catch(function () {
+              return {};
+            })
+            .then(function (data) {
+              return { ok: res.ok, status: res.status, data: data };
+            });
+        });
+    }
+
+    doFetch()
+      .then(function (r) {
+        // A 403 is almost always a stale/rejected Turnstile token — retry once
+        // with a freshly minted token before surfacing an error.
+        return r.status === 403 ? doFetch() : r;
       })
       .then(function (r) {
         hideTyping();
