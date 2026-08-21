@@ -53,6 +53,9 @@ jobs:
       - name: Fetch guideline full text (best-effort)
         run: python build/fetch_guidelines_fulltext.py || echo "guidelines fetch skipped/failed; continuing with the literature corpus"
 
+      - name: Build commons layer (from this repo's markdown)
+        run: python build/build_market_layer.py
+
       - name: Build index
         run: python build/build_index.py
 
