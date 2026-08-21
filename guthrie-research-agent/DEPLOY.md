@@ -44,6 +44,27 @@ refresh on a schedule (weekly + on-demand) with no maintainer.
 | `GUTHRIE_CORS_ORIGINS` | pku-commons.org + www + cureledger.com + localhost | Browser origins allowed to call `/api/*` |
 | `GUTHRIE_API_TOKEN` | unset (open) | If set, `/api/*` requires `Authorization: Bearer <token>`. Not usable from the public widget — reserve for server-to-server callers |
 | `GUTHRIE_RATE_LIMIT_PER_MIN` | `20` | Per-IP sliding-window cap (denial-of-wallet guard) |
+| `TURNSTILE_SECRET_KEY` | unset (off) | If set, `/api/ask` requires a valid Cloudflare Turnstile token and verifies it server-side. See below |
+
+## Bot protection (Cloudflare Turnstile)
+
+The browser-friendly abuse guard for the public widget (a bearer token can't be
+used from a public page). It ships **dormant** and turns on only when both keys
+are set — activate it alongside the other apps:
+
+1. In Cloudflare Turnstile, create a widget for `pku-commons.org` — use a
+   **Non-Interactive** or **Invisible** type so it needs no visible UI. You get a
+   **site key** (public) and a **secret key**.
+2. **Secret** → set `TURNSTILE_SECRET_KEY` in the Railway service Variables (same
+   value type as the other apps' `TURNSTILE_SECRET_KEY`).
+3. **Site key** (public) → give it to the widget via **one** of:
+   `window.GUTHRIE_TURNSTILE_SITEKEY`, a `data-turnstile-sitekey` attr on the
+   widget `<script>`, or `DEFAULT_TURNSTILE_SITEKEY` in `docs/assets/guthrie-widget.js`.
+   This is the same value as the other apps' `NEXT_PUBLIC_TURNSTILE_SITE_KEY`.
+
+With the secret set but no site key wired, `/api/ask` will 403 the widget (fail
+closed) — set both together, or neither. The widget sends the token in the
+`cf-turnstile-response` header; the server verifies it via Cloudflare siteverify.
 
 ## Growing / refreshing the corpus
 
