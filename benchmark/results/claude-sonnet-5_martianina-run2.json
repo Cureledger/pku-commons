@@ -1,0 +1,26 @@
+{
+  "test": "single-ingredient (classify -> coefficient -> multiply)",
+  "model": "claude-sonnet-5",
+  "runner": null,
+  "n_cases": 719,
+  "n_runs": 3,
+  "accuracy": {
+    "mae_mg": 11.47,
+    "within_band_pct": 68.4,
+    "bias_mg": 5.85,
+    "rmse_mg": 16.29,
+    "n_answered": 719,
+    "n_unanswered": 0,
+    "tolerance_band": {
+      "abs_tol_mg": 15.0,
+      "rel_tol": 0.15
+    }
+  },
+  "reproducibility": {
+    "identical_pct": 93.9,
+    "identical": 675,
+    "answered_all_runs": 719,
+    "mae_range": 0.11
+  },
+  "run_utc": "2026-07-13T15:00:12.426054Z"
+}
