@@ -36,7 +36,7 @@
   // (the server also stays dormant until TURNSTILE_SECRET_KEY is set). Use the
   // same value as the other apps' NEXT_PUBLIC_TURNSTILE_SITE_KEY, configured as
   // a Non-Interactive / Invisible widget so it needs no visible UI.
-  var DEFAULT_TURNSTILE_SITEKEY = "";
+  var DEFAULT_TURNSTILE_SITEKEY = "0x4AAAAAAEX1ioGNbz07cUPE"; // Cloudflare Turnstile site key (public) for pku-commons.org
   var TURNSTILE_SITEKEY =
     window.GUTHRIE_TURNSTILE_SITEKEY ||
     (thisScript && thisScript.dataset && thisScript.dataset.turnstileSitekey) ||
