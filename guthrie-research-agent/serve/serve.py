@@ -109,11 +109,13 @@ def require_token(authorization: str | None = Header(default=None)):
         raise HTTPException(status_code=401, detail="Unauthorized")
 
 
-def _verify_turnstile(token: str, remoteip: str | None) -> bool:
-    """Server-side siteverify. Fails closed (returns False) on any error."""
+def _verify_turnstile(token: str) -> bool:
+    """Server-side siteverify. Logs the failure reason; fails closed on error.
+
+    We intentionally do NOT send `remoteip`: behind Railway's proxy the client
+    IP in x-forwarded-for is unreliable, and a mismatched remoteip can make
+    siteverify reject an otherwise-valid token (an intermittent-403 source)."""
     data = {"secret": TURNSTILE_SECRET, "response": token}
-    if remoteip:
-        data["remoteip"] = remoteip
     try:
         req = urllib.request.Request(
             TURNSTILE_VERIFY_URL,
@@ -121,8 +123,13 @@ def _verify_turnstile(token: str, remoteip: str | None) -> bool:
             headers={"Content-Type": "application/x-www-form-urlencoded"},
         )
         with urllib.request.urlopen(req, timeout=10) as resp:
-            return bool(json.loads(resp.read()).get("success"))
-    except Exception:
+            res = json.loads(resp.read())
+        if not res.get("success"):
+            print(f"[turnstile] siteverify failed: errors={res.get('error-codes')} "
+                  f"hostname={res.get('hostname')}", flush=True)
+        return bool(res.get("success"))
+    except Exception as e:
+        print(f"[turnstile] siteverify error: {e}", flush=True)
         return False
 
 
@@ -130,11 +137,12 @@ def require_turnstile(request: Request):
     if not TURNSTILE_SECRET:
         return  # challenge disabled until TURNSTILE_SECRET_KEY is set
     token = (request.headers.get("cf-turnstile-response") or "").strip()
-    ip = (
-        request.headers.get("x-forwarded-for", "").split(",")[0].strip()
-        or (request.client.host if request.client else None)
-    )
-    if not token or not _verify_turnstile(token, ip):
+    if not token:
+        # The widget sent no token (e.g. Turnstile failed to issue one) — this is
+        # a CLIENT-side failure, distinct from a token that was sent and rejected.
+        print("[turnstile] /api/ask rejected: no cf-turnstile-response token", flush=True)
+        raise HTTPException(status_code=403, detail="Turnstile verification failed")
+    if not _verify_turnstile(token):
         raise HTTPException(status_code=403, detail="Turnstile verification failed")
 
 

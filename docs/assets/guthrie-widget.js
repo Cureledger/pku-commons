@@ -58,7 +58,12 @@
   function _tsRender() {
     if (_tsId !== null || !window.turnstile) return;
     var box = document.createElement("div");
-    box.style.display = "none";
+    // Off-screen but STILL RENDERED. Do NOT use display:none — Turnstile won't
+    // execute inside a display:none element in some browsers (notably Safari),
+    // so it issues no token and every request 403s. Keep it in the render tree,
+    // just visually gone and non-interactive.
+    box.style.cssText =
+      "position:fixed;left:0;bottom:0;width:0;height:0;overflow:hidden;opacity:0;pointer-events:none;";
     document.body.appendChild(box);
     _tsId = window.turnstile.render(box, {
       sitekey: TURNSTILE_SITEKEY,
