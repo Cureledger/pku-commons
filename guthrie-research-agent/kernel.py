@@ -24,7 +24,39 @@ import os
 import re
 
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-DEFAULT_MIN_RELEVANCE = 0.35
+# Softened from 0.35: the hard pre-LLM refusal on the top hit's raw dense cosine
+# was rejecting genuine in-corpus questions (esp. filler-wrapped ones). 0.30 lets
+# borderline queries reach the LLM, which still cite-or-refuses over the actual
+# passages, while clearly off-topic (< ~0.25) is still short-circuited cheaply.
+DEFAULT_MIN_RELEVANCE = 0.30
+# Leading conversational/meta phrases that carry no topical signal but dilute the
+# query embedding — "find a source about ...", "tell me about ...", "look ..." —
+# were pushing real questions under the relevance gate. normalize_query() peels
+# them, then additively expands common abbreviations so lexical + dense both
+# match the full terms.
+LEADING_FILLER = (
+    r"^\s*(?:"
+    r"please|can you|could you|would you|"
+    r"i(?:'d| would)? (?:like|want)(?: to)?(?: know)?|i need|help me|"
+    r"find(?: me)?|search(?: for)?|look(?: for| up)?|dig up|hunt for|"
+    r"tell me(?: about)?|talk to me about|teach me(?: about)?|"
+    r"explain|describe|summari[sz]e|do you know(?: about)?|"
+    r"show me|give me|list|"
+    r"what(?:'s| is| are| does| do)|"
+    r"a|any|some|the|"
+    r"sources?|papers?|studies?|articles?|references?|citations?|evidence|"
+    r"literature|research|info(?:rmation)?|"
+    r"about|on|for|regarding|into"
+    r")\b[\s,:\-]*"
+)
+ABBREV_EXPANSIONS = (
+    (r"\bphe\b", "phe phenylalanine"),
+    (r"\bpku\b", "pku phenylketonuria"),
+    (r"\bbh4\b", "bh4 tetrahydrobiopterin"),
+    (r"\bpah\b", "pah phenylalanine hydroxylase"),
+    (r"\blnaas?\b", "large neutral amino acids"),
+    (r"\bgmp\b", "glycomacropeptide"),
+)
 MEDICAL_PATTERN = (
     r"\b(should i|my (child|kid|son|daughter|baby)|my (phe|level)s?\b|"
     r"how much .*(should|can) (i|we|my)|is it safe for (me|my)|"
@@ -65,6 +97,29 @@ def index_dir():
 
 def tokenize(text):
     return re.findall(r"[a-z0-9]+", text.lower())
+
+
+def normalize_query(query):
+    """Peel leading conversational filler and expand common PKU abbreviations.
+
+    "find a source about at home phe monitor" -> "at home phe phenylalanine
+    monitor". Filler carries no topical signal but lowers the query embedding's
+    similarity to every passage, which false-refuses genuine questions. We strip
+    stacked leading filler, then additively expand abbreviations (kept alongside
+    the original token so both lexical and dense retrieval benefit). Returns the
+    original text if peeling would leave almost nothing (e.g. "look harder").
+    """
+    s = (query or "").strip()
+    for _ in range(8):  # peel stacked filler ("find" + "a" + "source" + "about")
+        n = re.sub(LEADING_FILLER, "", s, count=1, flags=re.I)
+        if n == s:
+            break
+        s = n.strip()
+    if len(s) < 3:
+        s = (query or "").strip()
+    for pat, rep in ABBREV_EXPANSIONS:
+        s = re.sub(pat, rep, s, flags=re.I)
+    return s
 
 
 def load_index():
@@ -119,6 +174,7 @@ def pku_search(query, k=8, source=None, alpha=0.5):
     import numpy as np
     st = load_index()
     rows, emb, bm25, model = st["rows"], st["emb"], st["bm25"], st["model"]
+    query = normalize_query(query)
     bm_scores = np.asarray(bm25.get_scores(tokenize(query)), dtype=np.float32)
     q_emb = model.encode([query], normalize_embeddings=True)[0].astype(np.float32)
     dense = emb @ q_emb  # cosine (rows are L2-normalized)
@@ -160,7 +216,7 @@ def get_host():
     return None
 
 
-def pku_ask(question, k=8, mode="brief", min_relevance=0.35, llm=None):
+def pku_ask(question, k=8, mode="brief", min_relevance=DEFAULT_MIN_RELEVANCE, llm=None):
     """Grounded, cited answer. mode: 'brief' | 'full'.
 
     Returns {answer, citations, hits, refused, medical_flag}. Refuses (no
