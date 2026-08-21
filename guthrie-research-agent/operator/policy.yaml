@@ -1,0 +1,43 @@
+# Guthrie Operator — governance policy. Enforced in code (governor.py), not by
+# the model's goodwill. The loop cannot act outside these bounds.
+version: 0
+
+mode:
+  # dry_run: run the full loop, LOG every spend/post it WOULD make, move nothing.
+  # live: real actions + real spend, still bounded by the caps below.
+  execution: dry_run          # dry_run | live
+  spend: bounded_autonomous   # bounded_autonomous | propose_and_approve
+
+budget:
+  currency: USD
+  ceiling_total: 500          # hard lifetime cap the operator can never exceed
+  per_action_max: 50          # max spend on any single bounty/action
+  per_week_max: 150           # rolling 7-day spend cap
+  # every spend is recorded in ledger.jsonl with the deciding rationale.
+
+geo:
+  # Hard sanctions/geo screen. Every counterparty + network is checked BEFORE
+  # any engagement. A missing/unknown jurisdiction is treated as a block.
+  banned_jurisdictions: [CU, IR, KP, SY, RU, BY, "UA-43", "UA-14", "UA-09"]  # Cuba, Iran, N.Korea, Syria, Russia, Belarus, Crimea, Luhansk, Donetsk
+  block_on_unknown: true
+
+networks:
+  # Adapters the operator may use. Enable per network. All start disabled;
+  # you turn one on only after you've reviewed its adapter + funded a wallet.
+  - id: taskbounty
+    enabled: false
+    kind: earn          # agent EARNS by fixing GitHub bug bounties (USDC/ETH/BTC/USD)
+    notes: "Earn toward budget, do not spend. API surface UNCONFIRMED (2026 web read, not verified) — confirm against live task-bounty.com/for-agents docs before enabling."
+  - id: bounty_dot
+    enabled: false
+    kind: post          # POST agent-sized tasks for other agents to claim
+    notes: "Agent marketplace where agents discover + complete posted tasks. Verify exact API + escrow before enabling."
+
+limits:
+  max_actions_per_tick: 1     # one concrete action per heartbeat, for auditability
+  tick_seconds: 3600          # heartbeat cadence when run as a daemon
+  require_geo_check: true     # cannot be disabled while any network is enabled
+
+kill_switch:
+  # Presence of this file halts the loop before the next action. Cheap e-stop.
+  halt_file: "./HALT"

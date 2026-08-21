@@ -1,0 +1,25 @@
+# Railway service config for the Guthrie PKU research agent (FastAPI).
+#
+# In Railway, set the service Root Directory to `guthrie-research-agent`. This
+# file, the Dockerfile path, and the Docker build context are all resolved
+# relative to that root.
+#
+# Required runtime variable (Railway service Variables):
+#   ANTHROPIC_API_KEY   — funded key on a workspace with model access
+# Optional:
+#   GUTHRIE_ANSWER_MODEL      (default claude-haiku-4-5-20251001)
+#   GUTHRIE_CORS_ORIGINS      (default already includes pku-commons.org)
+#   GUTHRIE_API_TOKEN         (set to require Bearer auth on /api/*)
+#   GUTHRIE_RATE_LIMIT_PER_MIN(default 20)
+
+[build]
+builder = "dockerfile"
+dockerfilePath = "serve/Dockerfile"
+
+[deploy]
+# Railway assigns $PORT at runtime; bind uvicorn to it (overrides the image CMD).
+startCommand = "uvicorn serve:app --host 0.0.0.0 --port ${PORT:-8000}"
+healthcheckPath = "/health"
+healthcheckTimeout = 300
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3

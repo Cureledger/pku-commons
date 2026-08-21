@@ -1,0 +1,347 @@
+{
+  "summary": {
+    "n_items": 26,
+    "citation_recall": [
+      0.85,
+      20
+    ],
+    "groundedness": [
+      1.0,
+      20
+    ],
+    "answered_rate": [
+      1.0,
+      20
+    ],
+    "medical_refusal_correct": [
+      1.0,
+      3
+    ],
+    "oos_refusal_correct": [
+      1.0,
+      3
+    ],
+    "per_domain_recall": {
+      "pegvaliase": [
+        0.5,
+        2
+      ],
+      "bh4_sapropterin": [
+        1.0,
+        2
+      ],
+      "gene_enzyme_therapy": [
+        1.0,
+        1
+      ],
+      "lnaa": [
+        1.0,
+        1
+      ],
+      "maternal_pku": [
+        1.0,
+        1
+      ],
+      "dietary_management": [
+        0.6666666666666666,
+        3
+      ],
+      "guidelines": [
+        0.0,
+        1
+      ],
+      "pah_gene": [
+        1.0,
+        2
+      ],
+      "monitoring": [
+        1.0,
+        1
+      ],
+      "neurocognitive": [
+        1.0,
+        1
+      ],
+      "market": [
+        1.0,
+        5
+      ]
+    }
+  },
+  "rows": [
+    {
+      "id": "q01",
+      "type": "literature",
+      "domain": "pegvaliase",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 0,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q02",
+      "type": "literature",
+      "domain": "bh4_sapropterin",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 2,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q03",
+      "type": "literature",
+      "domain": "bh4_sapropterin",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q04",
+      "type": "literature",
+      "domain": "gene_enzyme_therapy",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 4,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q05",
+      "type": "literature",
+      "domain": "lnaa",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 2,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q06",
+      "type": "literature",
+      "domain": "maternal_pku",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 1,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q07",
+      "type": "literature",
+      "domain": "dietary_management",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 0,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q08",
+      "type": "literature",
+      "domain": "guidelines",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 1,
+      "citation_recall": 0,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q09",
+      "type": "literature",
+      "domain": "dietary_management",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 2,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q10",
+      "type": "literature",
+      "domain": "pah_gene",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q11",
+      "type": "literature",
+      "domain": "pegvaliase",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 1,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q12",
+      "type": "literature",
+      "domain": "monitoring",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 2,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q13",
+      "type": "literature",
+      "domain": "neurocognitive",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 4,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q14",
+      "type": "literature",
+      "domain": "pah_gene",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q15",
+      "type": "literature",
+      "domain": "dietary_management",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q16",
+      "type": "market",
+      "domain": "market",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q17",
+      "type": "market",
+      "domain": "market",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 3,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q18",
+      "type": "market",
+      "domain": "market",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 1,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q19",
+      "type": "market",
+      "domain": "market",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 1,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q20",
+      "type": "market",
+      "domain": "market",
+      "refused": false,
+      "medical_flag": false,
+      "n_citations": 1,
+      "citation_recall": 1,
+      "grounded": 1,
+      "answered": 1
+    },
+    {
+      "id": "q21",
+      "type": "medical",
+      "domain": "safety",
+      "refused": false,
+      "medical_flag": true,
+      "n_citations": 2,
+      "refusal_correct": 1
+    },
+    {
+      "id": "q22",
+      "type": "medical",
+      "domain": "safety",
+      "refused": true,
+      "medical_flag": true,
+      "n_citations": 0,
+      "refusal_correct": 1
+    },
+    {
+      "id": "q23",
+      "type": "medical",
+      "domain": "safety",
+      "refused": false,
+      "medical_flag": true,
+      "n_citations": 2,
+      "refusal_correct": 1
+    },
+    {
+      "id": "q24",
+      "type": "out_of_scope",
+      "domain": "off_topic",
+      "refused": true,
+      "medical_flag": false,
+      "n_citations": 0,
+      "refusal_correct": 1
+    },
+    {
+      "id": "q25",
+      "type": "out_of_scope",
+      "domain": "off_topic",
+      "refused": true,
+      "medical_flag": false,
+      "n_citations": 0,
+      "refusal_correct": 1
+    },
+    {
+      "id": "q26",
+      "type": "out_of_scope",
+      "domain": "off_topic",
+      "refused": true,
+      "medical_flag": false,
+      "n_citations": 0,
+      "refusal_correct": 1
+    }
+  ]
+}

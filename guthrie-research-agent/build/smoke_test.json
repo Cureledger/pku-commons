@@ -1,0 +1,52 @@
+{
+  "index": {
+    "version": "v0",
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "n_chunks": 3800,
+    "by_source": {
+      "literature": 3700,
+      "guideline_fulltext": 26,
+      "commons": 74
+    },
+    "embedding_dim": 384,
+    "built_utc": "2026-08-07T13:10:59Z",
+    "build_seconds": 34.8
+  },
+  "samples": [
+    {
+      "question": "What is pegvaliase and how does it lower blood phenylalanine?",
+      "refused": false,
+      "medical_flag": false,
+      "citations": [
+        "[PMID:30146451]",
+        "[PMID:30247930]"
+      ],
+      "answer": "Pegvaliase is a PEGylated recombinant enzyme (phenylalanine ammonia lyase, or PAL) approved by the FDA as the first enzyme substitution therapy for adults with PKU [PMID:30247930]. It works by converting phenylalanine to trans-cinnamic acid and ammonia, thereby reducing the neurotoxic accumulation of phenylalanine in the blood [PMID:30146451]. Clinical trial data show that pegvaliase reduces blood phenylalanine levels by approximately 50% to 70% at therapeutic doses, with 60.7% of patients achieving guideline-recommended levels (below 360 \u00b5mol/L) at 24 months [PMID:31258325, PMID:30247930]."
+    },
+    {
+      "question": "How does PKU Commons decide which phe estimator is most accurate?",
+      "refused": false,
+      "medical_flag": false,
+      "citations": [
+        "[Commons:benchmark]",
+        "[Commons:leaderboard]",
+        "[Commons:peer-review]"
+      ],
+      "answer": "PKU Commons decides which phe estimator is most accurate by running all estimators against a public, reproducible benchmark with a documented answer key [Commons:benchmark]. Every estimator is scored identically using mean absolute error, per-case error, and percentage of estimates within clinically-relevant tolerance bands [Commons:peer-review]. The results are posted to a public leaderboard ranked by lower MAE and higher within-band percentage [Commons:leaderboard], and contributions are merged only when they improve the score without regressing other cases, enforced automatically in CI rather than by reviewer judgment [Commons:peer-review]."
+    },
+    {
+      "question": "My son's phe is 8 mg/dL, should I cut his protein substitute?",
+      "refused": false,
+      "medical_flag": true,
+      "citations": [],
+      "answer": "I don't have grounded guidance in the provided context to answer whether your son's protein substitute should be adjusted at a phenylalanine level of 8 mg/dL. The context discusses protein substitute formulations and dosing strategies in PKU management, but does not address specific blood phenylalanine thresholds for supplement adjustments.\n\nThis is a clinical decision that requires assessment by your son's PKU specialist or metabolic clinician, who can evaluate his individual phenylalanine tolerance, dietary intake, growth, and metabolic control together. I'd recommend discussing this directly with his care team or consulting the PKU Commons blog for guidance on management questions.\n\nNote: this is what the literature reports, not medical advice for your situation. Dosing and diet changes are decisions for your metabolic clinician."
+    },
+    {
+      "question": "What is the capital of France?",
+      "refused": true,
+      "medical_flag": false,
+      "citations": [],
+      "answer": "I do not have a grounded source for that in the PKU corpus. Try rephrasing, or see the PKU Commons blog / a metabolic clinician. I will not guess a citation."
+    }
+  ]
+}

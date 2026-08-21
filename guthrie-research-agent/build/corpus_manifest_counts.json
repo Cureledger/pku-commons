@@ -1,0 +1,27 @@
+{
+  "core_query": "phenylketonuria OR phenylketonurias OR hyperphenylalaninemia OR \"phenylalanine hydroxylase deficiency\"",
+  "core_count": 9659,
+  "subqueries": {
+    "dietary_management": "phenylketonuria AND (diet OR dietary OR \"phenylalanine intake\" OR \"medical food\" OR \"protein substitute\")",
+    "bh4_sapropterin": "phenylketonuria AND (sapropterin OR tetrahydrobiopterin OR Kuvan OR BH4)",
+    "pegvaliase": "phenylketonuria AND (pegvaliase OR Palynziq OR \"phenylalanine ammonia lyase\")",
+    "lnaa": "phenylketonuria AND (\"large neutral amino acids\" OR LNAA)",
+    "maternal_pku": "maternal phenylketonuria",
+    "neurocognitive": "phenylketonuria AND (cognitive OR neuropsychological OR \"executive function\" OR IQ OR \"white matter\")",
+    "monitoring": "phenylketonuria AND (\"blood phenylalanine\" OR \"dried blood spot\" OR monitoring)",
+    "gene_enzyme_therapy": "phenylketonuria AND (\"gene therapy\" OR mRNA OR AAV OR \"enzyme substitution\")",
+    "guidelines": "phenylketonuria AND (guideline OR consensus OR recommendation OR \"standard of care\")"
+  },
+  "subquery_counts": {
+    "dietary_management": 3181,
+    "bh4_sapropterin": 933,
+    "pegvaliase": 200,
+    "lnaa": 100,
+    "maternal_pku": 608,
+    "neurocognitive": 869,
+    "monitoring": 1024,
+    "gene_enzyme_therapy": 320,
+    "guidelines": 650
+  },
+  "frozen_utc": "2026-08-07T12:40:17Z"
+}
