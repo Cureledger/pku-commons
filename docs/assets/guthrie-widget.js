@@ -49,6 +49,7 @@
   // intermittent 403. Sends are serialized (the `busy` flag), so one pending
   // resolver is enough. Transient challenge failures are retried.
   var _tsId = null,
+    _tsHost = null, // visible in-panel container the challenge renders into
     _tsLoading = false,
     _tsPending = null; // (token) => void, set while a send awaits a token
   function _tsDeliver(token) {
@@ -57,15 +58,13 @@
   }
   function _tsRender() {
     if (_tsId !== null || !window.turnstile) return;
-    var box = document.createElement("div");
-    // Off-screen but STILL RENDERED. Do NOT use display:none — Turnstile won't
-    // execute inside a display:none element in some browsers (notably Safari),
-    // so it issues no token and every request 403s. Keep it in the render tree,
-    // just visually gone and non-interactive.
-    box.style.cssText =
-      "position:fixed;left:0;bottom:0;width:0;height:0;overflow:hidden;opacity:0;pointer-events:none;";
-    document.body.appendChild(box);
-    _tsId = window.turnstile.render(box, {
+    // Render into the VISIBLE in-panel host. Turnstile refuses to run in a
+    // hidden container — display:none AND effectively-hidden (0x0 / opacity:0)
+    // both stop it from issuing a token (especially in Safari), which 403s every
+    // request. A non-interactive / invisible site key shows nothing here; a
+    // managed one shows its small inline challenge.
+    var host = _tsHost || document.body;
+    _tsId = window.turnstile.render(host, {
       sitekey: TURNSTILE_SITEKEY,
       callback: function (t) { _tsDeliver(t); },
       "error-callback": function () { _tsDeliver(""); },
@@ -190,6 +189,8 @@
     "cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .12s ease;}" +
     ".gth-send:hover:not(:disabled){background:var(--gth-blue-dk);}" +
     ".gth-send:disabled{background:var(--gth-line);cursor:default;}.gth-send svg{width:17px;height:17px;}" +
+    ".gth-ts{display:flex;justify-content:center;background:var(--gth-paper);}" +
+    ".gth-ts:not(:empty){padding:6px 14px 0;}" +
     ".gth-foot{font-family:var(--gth-font);font-size:11px;line-height:1.4;color:var(--gth-soft);text-align:center;padding:8px 14px 11px;background:var(--gth-paper);}" +
     "@media (max-width:480px){.gth-panel{width:100vw;height:100vh;max-height:100vh;right:0;bottom:0;border-radius:0;border:none;}" +
     ".gth-launch{bottom:16px;right:16px;}}" +
@@ -290,11 +291,13 @@
   form.appendChild(send);
   var foot = el("div", "gth-foot");
   foot.textContent = DISCLAIMER;
+  _tsHost = el("div", "gth-ts"); // visible host for the Turnstile challenge
 
   panel.appendChild(head);
   panel.appendChild(log);
   panel.appendChild(suggest);
   panel.appendChild(form);
+  panel.appendChild(_tsHost);
   panel.appendChild(foot);
   root.appendChild(launch);
   root.appendChild(panel);
