@@ -3,15 +3,109 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>PKU Commons: open, reliable phenylalanine-estimation infrastructure</title>
-<meta content="An open commons for reliable phenylalanine-estimation tools: a peer-reviewed Claude Skill, a living low-protein food list, a scalable Bluetooth scale integration, and a public accuracy benchmark." name="description"/>
+<title>PKU Market Atlas: phenylketonuria as a market</title>
+<meta content="Everything about phenylketonuria (PKU) as a market: geography and coverage law, every medical food and formula, drugs and pipeline, manufacturers, clinics and dietitians, restaurants and schools, payers, advocacy and litigation. Built so investors and innovators can see the opportunities." name="description"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
 <link href="assets/styles.css" rel="stylesheet"/>
+<style>
+/* ---- Market Atlas page-specific styles (build on shared tokens) ---- */
+.mkt-hero { background: var(--ink); color: #fff; padding: 64px 0 52px; }
+.mkt-hero .kicker { color: #b9c4ff; }
+.mkt-hero h1 { color: #fff; font-size: clamp(2.4rem, 5.4vw, 3.6rem); }
+.mkt-hero .lede { color: #d7d7d2; max-width: 60ch; font-size: 1.14rem; }
+.mkt-hero .lede b { color: #fff; }
+.mkt-hero .hero-foot { color: #9a9a95; font-size: .86rem; margin-top: 22px; }
+.mkt-hero-logo { display: block; margin-bottom: 22px; }
+.lede-intro { margin-bottom: 14px; }
+.hero-bullets { list-style: none; padding: 0; margin: 0 0 22px; max-width: 66ch; }
+.hero-bullets li { position: relative; padding-left: 26px; margin-bottom: 12px; color: #d7d7d2; font-size: 1.05rem; line-height: 1.5; }
+.hero-bullets li::before { content: ""; position: absolute; left: 2px; top: .6em; width: 8px; height: 8px; border-radius: 2px; background: var(--blue-mid); }
+.hero-bullets li b { color: #fff; }
+.mkt-hero .lede-close { color: #d7d7d2; font-size: 1.08rem; max-width: 66ch; }
+
+/* TruPKU report banner */
+.report-banner { display: block; background: var(--blue); color: #fff; text-decoration: none; }
+.report-banner:hover { background: var(--blue-dk); text-decoration: none; }
+.report-banner .wrap { display: flex; align-items: center; gap: 14px; padding-top: 15px; padding-bottom: 15px; }
+.report-banner .rb-tag { font-family: var(--font-mono); font-size: .7rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; background: rgba(255,255,255,.16); padding: 4px 9px; border-radius: 5px; white-space: nowrap; }
+.report-banner .rb-text { font-size: .95rem; font-weight: 500; }
+.report-banner .rb-text b { font-weight: 700; }
+.report-banner .rb-cta { margin-left: auto; font-family: var(--font-disp); font-weight: 600; font-size: .92rem; white-space: nowrap; }
+.report-banner .rb-arrow { font-family: var(--font-mono); }
+@media (max-width: 640px){ .report-banner .wrap { flex-wrap: wrap; gap: 8px; } .report-banner .rb-cta { margin-left: 0; } }
+
+/* headline stat band */
+.statband { background: var(--wash); border-bottom: 1px solid var(--line); }
+.stat-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.stat-cell { background: var(--paper); padding: 20px 18px; }
+.stat-num { font-family: var(--font-disp); font-weight: 700; font-size: 1.7rem; color: var(--blue); letter-spacing: -.02em; line-height: 1.05; }
+.stat-lab { font-size: .8rem; color: var(--ink-soft); margin-top: 4px; line-height: 1.3; }
+@media (max-width: 900px){ .stat-grid { grid-template-columns: repeat(3,1fr);} }
+@media (max-width: 520px){ .stat-grid { grid-template-columns: repeat(2,1fr);} .stat-num{font-size:1.4rem;} }
+
+/* section tabs */
+.tabbar { position: sticky; top: 56px; z-index: 8; background: rgba(255,255,255,.94); backdrop-filter: saturate(1.4) blur(8px); border-bottom: 1px solid var(--line); }
+.tabbar .wrap { display: flex; flex-wrap: wrap; gap: 4px 6px; padding-top: 8px; padding-bottom: 8px; }
+.tab { flex: 0 0 auto; font-family: var(--font-disp); font-weight: 600; font-size: .9rem; color: var(--ink-soft); padding: 8px 14px; border-radius: 999px; cursor: pointer; border: 1px solid transparent; white-space: nowrap; background: none; }
+.tab:hover { color: var(--ink); background: var(--wash); }
+.tab.active { color: #fff; background: var(--blue); border-color: var(--blue); }
+
+.panel { display: none; padding: 40px 0 20px; }
+.panel.active { display: block; }
+.panel-head { margin-bottom: 20px; }
+.panel-head h2 { margin-bottom: 6px; }
+.panel-head p { color: var(--ink-soft); max-width: 72ch; margin: 0; }
+
+/* toolbar: filter + search + count */
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 18px 0 14px; }
+.toolbar input[type=search]{ font-family: var(--font); font-size: .92rem; padding: 8px 12px; border: 1px solid var(--line); border-radius: var(--radius-sm); min-width: 220px; flex: 1 1 220px; max-width: 360px; }
+.chip { font-family: var(--font-mono); font-size: .74rem; padding: 5px 10px; border: 1px solid var(--line); border-radius: 999px; cursor: pointer; color: var(--ink-soft); background: var(--paper); }
+.chip:hover { border-color: var(--blue-line); color: var(--ink); }
+.chip.active { background: var(--blue-wash); border-color: var(--blue-line); color: var(--blue-dk); }
+.count { margin-left: auto; font-family: var(--font-mono); font-size: .78rem; color: var(--ink-faint); }
+
+/* data table */
+.tbl-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
+table.data { width: 100%; border-collapse: collapse; font-size: .9rem; }
+table.data th { text-align: left; font-family: var(--font-disp); font-weight: 600; font-size: .76rem; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-faint); padding: 11px 14px; border-bottom: 1px solid var(--line); background: var(--wash); position: sticky; top: 0; white-space: nowrap; }
+table.data td { padding: 11px 14px; border-bottom: 1px solid var(--line-2); vertical-align: top; }
+table.data tr:last-child td { border-bottom: none; }
+table.data tr:hover td { background: var(--wash); }
+td.strong { font-weight: 600; color: var(--ink); min-width: 140px; }
+td .sub { display: block; font-size: .8rem; color: var(--ink-faint); font-weight: 400; }
+.src a { font-family: var(--font-mono); font-size: .72rem; }
+.src { white-space: nowrap; }
+
+/* badges */
+.badge { display: inline-block; font-family: var(--font-mono); font-size: .68rem; font-weight: 500; padding: 2px 7px; border-radius: 5px; white-space: nowrap; }
+.b-full,.b-universal,.b-approved,.b-yes,.b-live,.b-fdacleared,.b-commerciallyavailable,.b-available { background: #e4f6ea; color: #1a7a3c; }
+.b-partial,.b-limited,.b-pipeline,.b-beta,.b-wip,.b-researchprototype,.b-research,.b-concept,.b-pointofcareresearch { background: #fdf0dc; color: #a86a10; }
+.b-none,.b-trial,.b-unmaintained,.b-discontinued,.b-doesnotexistyet { background: #fde4e4; color: #b02a2a; }
+.b-posted { background: #e4f6ea; color: #1a7a3c; }
+.b-proposed { background: var(--blue-wash); color: var(--blue-dk); }
+.b-unknown { background: var(--wash-2); color: var(--ink-faint); }
+.b-sourced { background: var(--blue-wash); color: var(--blue-dk); }
+.b-estimate { background: #f3edfb; color: #6b3fb0; }
+.conf { font-family: var(--font-mono); font-size: .66rem; color: var(--ink-faint); }
+
+/* loading / empty */
+.loading, .empty { padding: 40px 16px; text-align: center; color: var(--ink-faint); font-family: var(--font-mono); font-size: .85rem; }
+.err { color: var(--blue-dk); }
+
+/* gap callouts */
+.gapgrid { display: grid; grid-template-columns: repeat(3,1fr); gap: 16px; margin: 8px 0 28px; }
+@media (max-width: 820px){ .gapgrid { grid-template-columns: 1fr; } }
+.gapcard { border: 1px solid var(--line); border-left: 3px solid var(--blue); border-radius: var(--radius-sm); padding: 16px 18px; background: var(--paper); }
+.gapcard h4 { font-family: var(--font-disp); margin: 0 0 6px; font-size: 1rem; }
+.gapcard p { margin: 0; font-size: .88rem; color: var(--ink-soft); }
+
+.disclaimer { border-top: 1px solid var(--line); padding: 26px 0 46px; color: var(--ink-faint); font-size: .82rem; }
+.disclaimer .wrap { max-width: 80ch; }
+</style>
 </head>
 <body>
-<a class="atlas-banner" href="market.html"><b>PKU Market Atlas</b> Everything PKU, at your fingertips. <span class="hb-cta">Open the atlas <span class="hb-arrow">&rsaquo;</span></span></a>
 <nav class="nav">
 <div class="wrap">
 <a class="brand" href="index.html"><img class="brand-logo" src="assets/pku-commons-logo.png" alt="PKU Commons logo" width="28" height="28"/>PKU <span>Commons</span></a>
@@ -20,357 +114,335 @@
 <a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
 <a class="link" href="families.html">Families</a>
 <a class="link" href="hackathon.html">Hackathon</a>
-<a class="link" href="market.html">Market Atlas</a>
+<a class="link" href="index.html" aria-current="page">Market Atlas</a>
 <a class="link" href="markets.html">Prediction Markets</a>
 <a class="link" href="guidelines.html">Guidelines</a>
-<a class="link" href="#benchmark">Benchmark</a>
-<a class="link" href="#peer-review">Peer Review</a>
 </div>
 </nav>
-<header class="hero">
+
+<header class="mkt-hero">
 <div class="wrap">
-<span class="kicker kicker-live"><span class="live-dot"></span>Claude Life Sciences Hackathon Report · July 2026</span>
-<h1>We ran a hackathon on PKU tools. Here is what we found.</h1>
-<p class="lede">PKU families count the amino acid phenylalanine to the milligram, for life, and AI apps are
-      starting to carry that work. This month, developers across the Claude hackathon are testing
-      those tools with us. The first finding is clear: the AI can do the math, and the nutrition
-      label is what holds accuracy back.</p>
-<div class="hero-status">
-<div class="hs-item hs-done">
-<div class="hs-tag">Found it</div>
-<h3>Sorting the food is the reliable step</h3>
-<p>Developers gave us strong formulas. The reliable move is to have the AI sort each food into
-             the right protein type first. Sort it right and the phenylalanine number follows by
-             arithmetic, so the same food returns the same answer every time.</p>
-</div>
-<div class="hs-item hs-open">
-<div class="hs-tag">Still open</div>
-<h3>Mixed foods are the hard part</h3>
-<p>Working out how much of each ingredient sits in a bowl, from a short ingredient list, has no
-             settled method. This is the problem we are handing to every developer in the hackathon
-             for the rest of the month.</p>
-</div>
-<div class="hs-item hs-ask">
-<div class="hs-tag">Asking for help</div>
-<h3>Turning kitchen logs into evidence</h3>
-<p>Families already bridge the gap between the label and the real phenylalanine by hand, with a
-             gram scale and mental math. We are building a way a computer can repeat, so those logs
-             count as clinical research evidence.</p>
-</div>
-</div>
-<div class="btn-row">
-<a class="btn btn-primary" href="hackathon.html">Test with us</a>
-<a class="btn btn-ghost" href="#benchmark">See how we score accuracy</a>
-</div>
-<p class="hero-foot">Open community testing runs all month, starting at the NPKUA meeting this week.</p>
+<img class="mkt-hero-logo" src="assets/pku-commons-logo.png" alt="PKU Commons" width="56" height="56"/>
+<span class="kicker">PKU COMMONS</span>
+<h1>Phenylketonuria, as a market.</h1>
+<p class="lede lede-intro">This is a <b>stunted market</b>, and patients carry what it leaves undone:</p>
+<ul class="hero-bullets">
+<li>A handful of suppliers. Formulas priced like drugs, and the low-protein food insurers treat as optional.</li>
+<li><b>Two-thirds of US families pay out of pocket</b>, roughly $6,400 to $9,000 a year.</li>
+<li>Tools built by one parent that vanish when they move on.</li>
+<li>Every gram of food weighed, counted, and logged by hand.</li>
+<li>Blood-phe results that come back 5 to 14 days later by mail.</li>
+<li>Nutrition labels never written for PKU, reverse-engineered one at a time.</li>
+</ul>
+<p class="lede lede-close">This atlas maps the market underneath that burden, so the people who could fix it can see where to start.</p>
 </div>
 </header>
-<!-- RUN A TEST CTA -->
-<section class="runtest">
+<a class="report-banner" href="https://www.npkua.org/wp-content/uploads/2025/12/TruePKU-VOP-Report-WEB-VERSION93.pdf" target="_blank" rel="noopener">
 <div class="wrap">
-<div class="rt-inner">
-<div class="rt-copy">
-<span class="rt-kicker">Decentralized tests</span>
-<h2>Help us make reliable real-world evidence for PKU.</h2>
-<p>Open the repo, tell your agent to run
-            <code>AGENTS.md</code>, and walk away. It sorts 719 foods into protein types three times,
-            scores itself against USDA truth, and opens a pull request with the numbers. That is one
-            more data point on which models estimate phenylalanine reliably.</p>
-<div class="rt-cmd">
-<span class="rt-prompt">&rsaquo;</span>
-<span class="rt-cmd-text">Clone github.com/Cureledger/pku-commons and run AGENTS.md</span>
+<span class="rb-tag">The evidence</span>
+<span class="rb-text">Every pain point above is documented in NPKUA's <b>TruPKU / Voice of the Patient report</b>.</span>
+<span class="rb-cta">Read the report <span class="rb-arrow">&rsaquo;</span></span>
 </div>
-</div>
-<div class="rt-actions">
-<a class="btn btn-run" href="https://github.com/Cureledger/pku-commons/blob/main/AGENTS.md" rel="noopener" target="_blank">Read AGENTS.md</a>
-<a class="rt-link" href="hackathon.html">What the hackathon is &rsaquo;</a>
-</div>
-</div>
-</div>
-</section>
-<!-- MARKET ATLAS FEATURE -->
-<section style="background:var(--ink);color:#fff;">
-<div class="wrap" style="padding:52px 24px;">
-<span class="kicker" style="color:#b9c4ff;">New · PKU Market Atlas</span>
-<h2 style="color:#fff;max-width:22ch;">Phenylketonuria, as a market.</h2>
-<p style="color:#d7d7d2;max-width:64ch;font-size:1.08rem;">The reliability work above is the science spine. This is the other half: PKU as a
-        <b style="color:#fff;">market</b>. Coverage law state by state, every medical food and formula and drug, the
-        companies, apps, medical devices, clinics, dietitians, dental, mental health, restaurants, schools, trials, advocacy,
-        and litigation. 433 cited records so investors and innovators can see where the opportunities are.</p>
-<div style="display:flex;flex-wrap:wrap;gap:10px;margin:20px 0 24px;font-family:var(--font-mono);font-size:.8rem;">
-<span style="background:rgba(255,255,255,.1);padding:6px 12px;border-radius:999px;">~16,500 US patients</span>
-<span style="background:rgba(255,255,255,.1);padding:6px 12px;border-radius:999px;">$1-2B market</span>
-<span style="background:rgba(255,255,255,.1);padding:6px 12px;border-radius:999px;">no home phe monitor</span>
-<span style="background:rgba(255,255,255,.1);padding:6px 12px;border-radius:999px;">15 datasets</span>
-</div>
-<a class="btn btn-primary" href="market.html">Open the Market Atlas</a>
-</div>
-</section>
-<!-- THE PROBLEM WITH FOOD LABELS -->
-<section class="alt" id="labels">
-<div class="wrap">
-<div class="section-head">
-<h2>The problem with USDA/FDA food data</h2>
-<p class="lead-blue">Most PKU apps read phenylalanine from the same place, and that place runs out of
-        answers exactly where families need them.</p>
-</div>
-<div class="grid2 labels-grid">
-<div>
-<p>PKU apps generally read phenylalanine from USDA FoodData Central. It has measured
-          phenylalanine for single ingredients like an egg or an apple. It has almost no
-          phenylalanine for packaged, composed foods like a candy bar or a frozen meal.</p>
-<p>For those foods, the record is just the Nutrition Facts label: protein rounded to the whole
-          gram, and no amino acids at all. So the app guesses, and different apps guess differently.
-          The result: families, clinicians and researchers do not know if they can rely on app data.</p>
-</div>
-<div>
-<p>USDA cannot fix this by measuring 350,000 packaged products. The change that scales is to
-          calculate phenylalanine from the recipe, using measured ingredient values, and to say so on
-          every number.</p>
-<div class="callout teal">
-<b>PKU Commons does that.</b> Every phenylalanine value carries how it was found, whether
-          measured, calculated, or estimated, and how far it might be off. Apps get scored on the
-          quality of their data first.
-        </div>
-</div>
-</div>
-</div>
-</section>
-<!-- ROUTER -->
-<section id="routes">
-<div class="wrap">
-<div class="section-head">
-<h2>Choose your path</h2>
-<p class="muted">The same infrastructure serves three communities. Pick the door that fits you.</p>
-</div>
-<div class="routes">
-<a class="route devs" href="devs.html">
-<div class="tag">Developers</div>
-<h3>Build &amp; harden the tools</h3>
-<p>Contribute to the Claude phe-estimator Skill, the food list, and the scale
-           integration. Get scored on the public benchmark. Ship apps that stay live.</p>
-<div class="go">Read the repos</div>
 </a>
-<a class="route clin" href="clinicians.html">
-<div class="tag">Clinicians &amp; Researchers</div>
-<h3>Judge the accuracy</h3>
-<p>See exactly how phe estimates are computed and validated, test Phebe on real
-           labels, and tell us what a clinically-useful tool must get right.</p>
-<div class="go">Review the method</div>
-</a>
-<a class="route fam" href="families.html">
-<div class="tag">Families &amp; Community</div>
-<h3>Make daily counting lighter</h3>
-<p>Understand what these tools do, how we check they're reliable, and how your
-           feedback shapes the diet-for-life tools your family relies on.</p>
-<div class="go">Start here</div>
-</a>
+
+
+<section class="statband">
+<div class="wrap" style="padding-top:28px;padding-bottom:28px;">
+<div class="stat-grid" id="statGrid">
+<div class="stat-cell"><div class="stat-num" id="s-pop">…</div><div class="stat-lab">Estimated US PKU patients</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-market">…</div><div class="stat-lab">Treatment market size est. (see Money)</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-products">…</div><div class="stat-lab">Foods &amp; formulas catalogued</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-companies">…</div><div class="stat-lab">Manufacturers &amp; companies</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-gapstates">…</div><div class="stat-lab">US states with a coverage gap</div></div>
+<div class="stat-cell"><div class="stat-num" id="s-pipeline">…</div><div class="stat-lab">Drugs &amp; pipeline programs</div></div>
 </div>
 </div>
 </section>
-<!-- WHAT / WHY -->
-<section class="alt">
+
+<section style="padding:44px 0 8px;">
 <div class="wrap">
-<div class="section-head">
-<h2>The problem we're solving</h2>
+<div class="section-head" style="margin-bottom:18px;">
+<h2>Where the opportunities are</h2>
+<p class="muted" style="max-width:74ch;">Nine gaps the data keeps pointing at. Each is a market that exists because the current one does not serve it. The tables below are the evidence.</p>
 </div>
-<div class="grid2">
-<div>
-<p>PKU (phenylketonuria) is an inborn error of metabolism: the body can't break down
-          <b>phenylalanine (phe)</b>, an amino acid in all protein. Left unmanaged, phe builds up
-          and is neurotoxic. The treatment is a <b>"diet for life,"</b> a very-low-protein diet that
-          demands daily, gram-level precision.</p>
-<p>Families can't use ordinary nutrition labels: protein grams are too coarse, and different
-          protein sources carry different amounts of phe. So parents run an intuitive algorithm,
-          deterministic math plus recipe-science judgment, to turn a label into a phe estimate,
-          then weigh and log every bite.</p>
-</div>
-<div>
-<p>A new wave of AI phe-estimator apps is taking the labor out of that grind. That's genuinely
-          good news. But there is <b>no standard</b> by which a family can tell if an app is accurate,
-          or by which a clinician can trust its output, and prototype results vary widely.</p>
-<p>PKU apps also tend to go unmaintained. When a solo developer stops, the app stalls and families
-          lose a tool their routine depended on.</p>
-<div class="callout teal">
-<b>PKU Commons is the shared spine:</b> open method, open data, and a public accuracy
-          benchmark. Quality lives in the <em>eval</em>, independent of any one author.
-        </div>
-</div>
+<div class="gapgrid">
+<div class="gapcard" style="border-left-color:#b02a2a;"><h4>No home phe monitor</h4><p>PKU has no glucometer. Patients still mail a dried blood spot to a lab and wait 5 to 14 days for a result, so diet and level are never linked in real time. Diabetes built a device industry on exactly this loop. It is the single biggest disruption opening in PKU. <b>See Medical Devices.</b></p></div>
+<div class="gapcard"><h4>The cash-pay food layer</h4><p>Payers fund PKU as a six-figure drug but treat the medical food every patient eats as optional. Roughly two-thirds of US patients pay out of pocket, about $6,400 to $9,000 a year. A lower-cost, better-tasting staples brand has room to run. <b>See Money, Medical Foods.</b></p></div>
+<div class="gapcard"><h4>Adult care has no home</h4><p>Care clusters at a handful of pediatric metabolic centers; dedicated adult PKU clinics are scarce and most US adults are lost to follow-up. Telehealth metabolic nutrition is the obvious lever and barely exists. <b>See Clinics &amp; Dietitians.</b></p></div>
+<div class="gapcard"><h4>The dietitian is the bottleneck</h4><p>The binding constraint on care is not doctors but metabolic dietitians, with caseloads past 130 patients each and a documented workforce shortage. Tools that multiply an RD's reach are underbuilt. <b>See Clinics &amp; Dietitians.</b></p></div>
+<div class="gapcard"><h4>Restaurants and schools: white space</h4><p>No chain caters to low-protein diets and no product helps families navigate school accommodation. Both markets are close to empty. The emptiness is the opening. <b>See Restaurants &amp; Schools.</b></p></div>
+<div class="gapcard"><h4>Coverage law is a patchwork</h4><p>Only about 35 states mandate medical-food coverage, none of it reaches self-funded ERISA plans, and the federal fix keeps dying in committee. Passage would convert a cash-pay category into a guaranteed benefit overnight. <b>See US Coverage, Money.</b></p></div>
+<div class="gapcard"><h4>The undiagnosed international tail</h4><p>China, India, and much of the developing world screen partially or not at all, leaving tens of thousands diagnosed late or never. Demand there is latent behind screening and ability to pay, not clinical need. <b>See Global.</b></p></div>
+<div class="gapcard"><h4>Mental health treated with the wrong tool</h4><p>High phe drives anxiety, depression, and attention problems that ease when phe drops, yet few clinics screen for it and general therapists have no PKU literacy. Off-diet patients get psychiatric medication instead of a route back to diet. A PKU-literate teletherapy and screening layer barely exists. <b>See Mental Health.</b></p></div>
+<div class="gapcard"><h4>The diet ravages teeth</h4><p>Low-protein staples run high in sugar and carbohydrate, and acidic formulas are sipped all day. Studies show more caries and far more enamel defects, yet no oral-care product is built for PKU and dentists rarely understand the diet. <b>See Dental.</b></p></div>
 </div>
 </div>
 </section>
-<!-- THREE FEATURES -->
-<section>
+
+<div class="tabbar">
+<div class="wrap" id="tabbar"></div>
+</div>
+
+<main class="wrap" id="panels"></main>
+
+<section class="disclaimer">
 <div class="wrap">
-<div class="section-head">
-<h2>Three open building blocks</h2>
-<p class="muted">Each is independently reviewable and independently reusable.</p>
-</div>
-<div class="grid3">
-<div class="card">
-<span class="pill">Claude Skill</span>
-<h3>Phe-estimator Skill</h3>
-<p class="muted">Encodes the "think like a PKU parent" method: is this food countable
-          (&lt;2 g protein/serving)? Which ingredients carry phe? What's the recipe factor?
-          Multiply by portion. Log it.</p>
-</div>
-<div class="card">
-<span class="pill">Knowledge</span>
-<h3>Living food list</h3>
-<p class="muted">A maintained low-protein foods reference, forked in part from Open Food
-          Facts, that acts as a knowledge graph to raise reliability in the very-low-protein staple range.</p>
-</div>
-<div class="card">
-<span class="pill">Hardware</span>
-<h3>Bluetooth scale integration</h3>
-<p class="muted">Reverse-engineered gram-scale support so weighing flows straight into logging.
-          Goal: connect the scale you already own instead of buying a new one.</p>
-</div>
-</div>
+This atlas is an open market map for research and opportunity-scouting. It is not investment,
+medical, or legal advice. Figures marked <span class="badge b-estimate">estimate</span> are reasoned
+from public inputs, not single-source facts; figures marked <span class="badge b-sourced">sourced</span>
+carry a citation. Found something wrong or missing? Every dataset lives in
+<a href="https://github.com/Cureledger/pku-commons/tree/main/docs/market/data" target="_blank" rel="noopener">docs/market/data</a>.
+Open a pull request.
 </div>
 </section>
-<!-- BENCHMARK TEASER -->
-<section class="alt" id="benchmark">
-<div class="wrap">
-<div class="grid2">
-<div>
-<h2>The accuracy standard</h2>
-<p>The heart of PKU Commons is a <b>public, reproducible benchmark</b>. Every test case pairs a
-          food label with a phe value computed from documented sources (USDA FoodData Central /
-          Open Food Facts). Anyone can re-derive the "true" answer.</p>
-<p>Any estimator, our Skill or any app implementing the interface, is scored the same way:
-          error per case, mean absolute error, and percentage of estimates within a clinically-relevant
-          tolerance band.</p>
-</div>
-<div>
-<div class="callout">
-<p style="margin-top:0"><b>One benchmark, three jobs:</b></p>
-<ul style="margin:0">
-<li><b>Families &amp; clinicians</b> get the standard for judging an app's accuracy.</li>
-<li><b>Contributions</b> are merged only when they improve the score without regressing.
-              Apps stay trustworthy even after a developer leaves.</li>
-<li><b>The community</b> gets a leaderboard of performance over time (KPI #1).</li>
-</ul>
-</div>
-<a class="btn btn-primary" href="devs.html#benchmark">How the benchmark works</a>
-</div>
-</div>
-</div>
-</section>
-<!-- PEER-REVIEW MODEL -->
-<section id="peer-review">
-<div class="wrap">
-<div class="section-head">
-<h2>How we keep it trustworthy: a two-layer review model</h2>
-<p class="muted">PKU Commons answers to two traditions at once. Clinicians and researchers ask
-        <em>"is this defensible?"</em>; engineers and families ask <em>"does it measurably work?"</em>
-        Those map onto two review methods. We use both, on different parts of the system.</p>
-</div>
-<div class="grid2">
-<div class="card">
-<span class="pill">Layer 1 · Method &amp; data</span>
-<h3>Legal-style review, citation to authority</h3>
-<p class="muted">Every estimation rule and every food-list row carries a <b>citation to authority</b>
-          (a USDA FoodData Central id, an Open Food Facts code, or a named clinician / dietitian sign-off),
-          a <b>version</b>, and a <b>reviewer of record</b>. Challenges are filed as issues; resolutions
-          become part of a permanent audit trail. The record shows <em>what</em> is in the
-          knowledge base, <em>why</em>, <em>on whose authority</em>, and <em>who can be asked</em>.</p>
-</div>
-<div class="card">
-<span class="pill">Layer 2 · Estimator outputs</span>
-<h3>Scientific-style review, settled by measurement</h3>
-<p class="muted">Accuracy claims are settled by <b>measurement against the public benchmark</b>, independent of argument. Ground truth is reproducible from documented sources. Every estimator is scored
-          the same way. Contributions merge only when they improve the score <b>without regressing</b>,
-          enforced in CI. The benchmark above is this layer in action.</p>
-</div>
-</div>
-<div class="callout teal" style="margin-top:22px">
-<b>Why this makes tools last:</b> quality is guaranteed by the <em>review model</em>, independent of any one
-      author. Knowledge stands on cited authority. Performance stands on a reproducible benchmark. A tool
-      can change hands, or lose its original developer entirely, and families still know it meets the bar.
-    </div>
-<p style="margin-top:18px">
-<a class="btn btn-ghost" href="https://github.com/Cureledger/pku-commons/blob/main/docs/PEER-REVIEW.md" rel="noopener" target="_blank">Read the full model on GitHub</a>
-</p>
-</div>
-</section>
-<!-- PAIN POINTS / SUGGESTED HACKS -->
-<section class="alt" id="hacks">
-<div class="wrap">
-<div class="section-head">
-<h2>Devs: we challenge you to solve these</h2>
-<p class="muted">
-        NPKUA's <a href="https://www.npkua.org/truepku/" rel="noopener" target="_blank">TruPKU / Voice of the Patient</a>
-        report catalogs the friction of living with PKU beyond the clinic and the lab. Each pain point below is
-        a <b>suggested hack</b> for the PKU Commons community, a concrete place to point AI and devops at
-        the real burden of living with PKU. <span class="note">Themes summarized from the public report; see
-        <a href="https://github.com/Cureledger/pku-commons/blob/main/docs/pain-points.md" rel="noopener" target="_blank">pain-points.md</a>for the source of record.</span>
-</p>
-</div>
-<div class="grid2">
-<div class="hack">
-<h4>1 · The daily counting grind</h4>
-<p class="pain">Every food is weighed, calculated, and logged by hand. It becomes a tedious, never-ending
-          accounting chore that families eventually abandon, and the clinic loses the data.</p>
-<p class="fix"><b>Hack:</b> Cut estimation-to-log to one tap: label parse, scale weight, and
-          auto-log, verified against the benchmark so families can trust it.</p>
-</div>
-<div class="hack">
-<h4>2 · Slow blood-phe feedback</h4>
-<p class="pain">Blood phe results come back 5 to 14 days later by mail. There is no timely link between
-          what someone ate, how they feel, and their measured level.</p>
-<p class="fix"><b>Hack:</b> Build the food, symptom, and level data link: structured logs ready
-          to correlate as soon as faster home testing arrives.</p>
-</div>
-<div class="hack">
-<h4>3 · Labels don't speak PKU</h4>
-<p class="pain">USDA protein grams are too coarse. Phe per gram varies by protein source. Families
-          reverse-engineer every label by hand.</p>
-<p class="fix"><b>Hack:</b> Improve the ingredient-to-phe classifier and grow the living food list so
-          the very-low-protein staples are covered and cited.</p>
-</div>
-<div class="hack">
-<h4>4 · Tools that fade away</h4>
-<p class="pain">Apps built by one parent or one small shop go unmaintained and disappear, leaving
-          the families who relied on them without a tool.</p>
-<p class="fix"><b>Hack:</b> Ship on shared, benchmark-gated infrastructure so an app keeps working
-          and stays trustworthy after its author steps away.</p>
-</div>
-<div class="hack">
-<h4>5 · Real-world conditions break tools</h4>
-<p class="pain">Estimation happens in a grocery aisle on weak store Wi-Fi, one-handed, under time
-          pressure, far from a lab.</p>
-<p class="fix"><b>Hack:</b> Design for the aisle: offline-tolerant, low-bandwidth, and deterministic
-          behavior, with graceful degradation when the network is poor.</p>
-</div>
-<div class="hack">
-<h4>6 · New drugs raise the stakes</h4>
-<p class="pain">Powerful new PKU therapies can over-correct into hypophenylalaninemia, which needs a
-          fast dietary response, but the dietary data loop is slow.</p>
-<p class="fix"><b>Hack:</b> Make dietary phe data fast and shareable enough to support quick,
-          safe adjustments alongside modern treatment.</p>
-</div>
-</div>
-<div class="callout" style="margin-top:26px">
-      Solved one of these, or found a seventh? <a href="devs.html">Open a PR</a> or
-      <a href="clinicians.html#feedback">tell us what you think</a>. Every accepted improvement is
-      measured on the benchmark and credited on the leaderboard.
-    </div>
-</div>
-</section>
-<footer>
-<div class="wrap">
-<div>
-<div class="brand" style="color:#fff">PKU <span style="color:#aeb9ff">Commons</span></div>
-<p class="muted" style="color:#9aa0bd; max-width:38ch">Open infrastructure for reliable phe estimation.
-        Built by and for the PKU community.</p>
-</div>
-<div>
-<p><a href="devs.html">Developers</a> · <a href="clinicians.html">Clinicians &amp; Researchers</a> · <a href="families.html">Families</a></p>
-<p><a href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">GitHub repo</a></p>
-</div>
-</div>
-</footer>
+
+<script>
+// ---- Dataset registry: file, label, and how to render each row ----
+const DATASETS = [
+  { id:'geo-us', file:'market/data/geo_us.json', tab:'US Coverage', blurb:'Every US state and DC. Does the law force insurers to cover PKU formula and medical foods, or do families pay out of pocket? The gaps are the market.',
+    filterKey:'coverage_mandate', filterLabel:{full:'Full mandate',partial:'Partial',none:'No mandate',unknown:'Unknown'},
+    cols:[
+      {h:'State', f:r=>cell(r.state,r.abbr), strong:true},
+      {h:'Coverage', f:r=>badge(r.coverage_mandate)},
+      {h:'What the law does', f:r=>r.coverage_summary||'—'},
+      {h:'Est. patients', f:r=>r.est_pku_population||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'geo-intl', file:'market/data/geo_intl.json', tab:'Global', blurb:'The top ~20 country markets. Newborn screening coverage and who pays for treatment vary enormously. Unscreened populations are undiagnosed demand.',
+    filterKey:'nbs_status', filterLabel:{universal:'Universal NBS',partial:'Partial',limited:'Limited',none:'No NBS',unknown:'Unknown'},
+    cols:[
+      {h:'Country', f:r=>cell(r.country,r.region), strong:true},
+      {h:'Newborn screening', f:r=>badge(r.nbs_status)},
+      {h:'Who pays', f:r=>r.who_pays||'—'},
+      {h:'Est. population', f:r=>r.est_population||'—'},
+      {h:'Drug access', f:r=>r.drug_access||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'medical-foods', file:'market/data/medical_foods.json', tab:'Medical Foods', blurb:'Low-protein staples and specialty foods: the breads, pastas, mixes and prepared meals families buy on top of formula.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Product line', f:r=>cell(r.product_line,r.brand), strong:true},
+      {h:'Category', f:r=>r.category||'—'},
+      {h:'Maker', f:r=>r.manufacturer||'—'},
+      {h:'Geo', f:r=>r.geography||'—'},
+      {h:'Distribution', f:r=>r.distribution||'—'},
+      {h:'Price', f:r=>r.price_note||'—'},
+      {h:'Notes', f:r=>r.notes||'—'},
+    ]},
+  { id:'formulas', file:'market/data/formulas.json', tab:'Formulas', blurb:'The recurring-revenue core: phe-free amino-acid formulas and GMP protein substitutes, across every life stage and format.',
+    filterKey:'type', filterLabel:{},
+    cols:[
+      {h:'Product', f:r=>cell(r.product,r.brand), strong:true},
+      {h:'Maker', f:r=>r.manufacturer||'—'},
+      {h:'Type', f:r=>r.type||'—'},
+      {h:'Format', f:r=>r.format||'—'},
+      {h:'Life stage', f:r=>r.life_stage||'—'},
+      {h:'Geo', f:r=>r.geography||'—'},
+      {h:'Reimbursement', f:r=>r.reimbursement||'—'},
+    ]},
+  { id:'drugs', file:'market/data/drugs.json', tab:'Drugs & Pipeline', blurb:'Approved therapies and the pipeline behind them: who owns the drug market today and what is coming.',
+    filterKey:'kind', filterLabel:{'approved-drug':'Approved',pipeline:'Pipeline',trial:'Trial'},
+    cols:[
+      {h:'Name', f:r=>cell(r.name,r.sponsor), strong:true},
+      {h:'Kind', f:r=>badge(r.kind)},
+      {h:'Modality', f:r=>r.modality||'—'},
+      {h:'Status', f:r=>r.status||'—'},
+      {h:'Indication', f:r=>r.indication||'—'},
+      {h:'Market note', f:r=>r.market_note||'—'},
+    ]},
+  { id:'apps', file:'market/data/apps.json', tab:'Apps', blurb:'The software patients use to count phe and manage the diet. Fragmented, often built by one parent, and prone to going dark when that person moves on. AI estimators are the new entrants.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'App', f:r=>cell(r.name, r.developer), strong:true},
+      {h:'Category', f:r=>r.category||'—'},
+      {h:'Platforms', f:r=>r.platforms||'—'},
+      {h:'Cost', f:r=>r.cost||'—'},
+      {h:'Backing', f:r=>r.backing||'—'},
+      {h:'Status', f:r=>badge(r.status)},
+      {h:'Market signal', f:r=>r.market_signal||r.notes||'—'},
+    ]},
+  { id:'devices', file:'market/data/devices.json', tab:'Medical Devices', blurb:'The hardware layer, and the biggest gap in PKU. There is no home phenylalanine monitor: results still come back 5 to 14 days later by mail. Diabetes has glucometers and CGMs; PKU has nothing. That absence is the disruption opportunity.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Device', f:r=>cell(r.name, r.maker), strong:true},
+      {h:'Category', f:r=>r.category||'—'},
+      {h:'Status', f:r=>badge(r.status)},
+      {h:'Availability', f:r=>r.availability||'—'},
+      {h:'What it is', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'manufacturers', file:'market/data/manufacturers.json', tab:'Companies', blurb:'Who the players are and who owns whom. Two food conglomerates dominate formula; one biotech dominates drugs.',
+    filterKey:'segment', filterLabel:{},
+    cols:[
+      {h:'Company', f:r=>cell(r.company, r.parent && r.parent!=='null' ? 'part of '+r.parent : ''), strong:true},
+      {h:'Segment', f:r=>r.segment||'—'},
+      {h:'HQ', f:r=>r.hq_country||'—'},
+      {h:'Ownership', f:r=>r.ownership||'—'},
+      {h:'Scale', f:r=>r.scale_note||'—'},
+      {h:'M&A / notes', f:r=>r.ma_note||r.notes||'—'},
+    ]},
+  { id:'clinics', file:'market/data/clinics.json', tab:'Clinics & Dietitians', blurb:'The care-delivery layer. PKU care sits at relatively few metabolic centers; adult care and metabolic dietitians are scarce, and the access gaps are opportunities.',
+    filterKey:'region', filterLabel:{},
+    cols:[
+      {h:'Name', f:r=>cell(r.name,r.location), strong:true},
+      {h:'Region', f:r=>r.region||'—'},
+      {h:'Adult care', f:r=>badge(r.adult_care)},
+      {h:'Telehealth', f:r=>badge(r.telehealth)},
+      {h:'Notes', f:r=>r.notes||'—'},
+    ]},
+  { id:'dental', file:'market/data/dental.json', tab:'Dental', blurb:'The diet is hard on teeth. Low-protein foods and acidic formulas are eaten all day long, and general dentists rarely understand PKU. There is almost no PKU-aware dental care or oral-care product built for it.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Topic', f:r=>cell(r.topic, r.category), strong:true},
+      {h:'Detail', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'mental-health', file:'market/data/mental_health.json', tab:'Mental Health', blurb:'High phe drives anxiety, depression, and attention problems, and those symptoms ease when phe drops. Most mental-health providers do not know this, so off-diet patients get psychiatric medication instead of a route back to dietary management and PKU-literate therapy. The education gap is the opening.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Topic', f:r=>cell(r.topic, r.category), strong:true},
+      {h:'Detail', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'restaurants-schools', file:'market/data/restaurants_schools.json', tab:'Restaurants & Schools', blurb:'The thinnest markets of all: dining, meal delivery, and school accommodation. The emptiness is the point: these are wide-open, unserved gaps.',
+    filterKey:'segment', filterLabel:{},
+    cols:[
+      {h:'Name', f:r=>cell(r.name, r.segment), strong:true},
+      {h:'What it is', f:r=>r.what_it_is||'—'},
+      {h:'Geo', f:r=>r.geography||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'payers', file:'market/data/payers.json', tab:'Money', blurb:'Market size, the coverage patchwork, and the legislation that could unlock it. This is the money side.',
+    filterKey:'category', filterLabel:{},
+    cols:[
+      {h:'Topic', f:r=>cell(r.topic, r.category), strong:true},
+      {h:'Headline', f:r=>r.figure && r.figure!=='null' ? '<b>'+esc(r.figure)+'</b>' : '—'},
+      {h:'Detail', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+  { id:'advocacy-legal', file:'market/data/advocacy_legal.json', tab:'Advocacy & Legal', blurb:'The organized community and the courtroom: patient orgs that aggregate demand and fund research, plus the coverage-denial and patent litigation shaping access.',
+    filterKey:'kind', filterLabel:{advocacy:'Advocacy',litigation:'Litigation'},
+    cols:[
+      {h:'Name', f:r=>cell(r.name, r.geography), strong:true},
+      {h:'Kind', f:r=>badge(r.kind)},
+      {h:'Detail', f:r=>r.detail||'—'},
+      {h:'Market signal', f:r=>r.market_signal||'—'},
+    ]},
+];
+
+// ---- helpers ----
+function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function cell(main, sub){ return '<span>'+esc(main)+'</span>'+(sub?'<span class="sub">'+esc(sub)+'</span>':''); }
+function badge(v){ if(v==null||v==='') return '<span class="badge b-unknown">unknown</span>';
+  const k=String(v).toLowerCase().replace(/[^a-z]/g,''); return '<span class="badge b-'+k+'">'+esc(v)+'</span>'; }
+function srcCell(r){
+  const s=r.sources||[]; const conf=r.confidence||'unknown';
+  let links=s.slice(0,3).map((x,i)=>x&&x.url?'<a href="'+esc(x.url)+'" target="_blank" rel="noopener" title="'+esc(x.title||'')+'">['+(i+1)+']</a>':'').filter(Boolean).join(' ');
+  return '<div class="src">'+(links||'<span class="conf">—</span>')+'</div><span class="badge b-'+esc(conf)+'" style="margin-top:4px">'+esc(conf)+'</span>';
+}
+
+const store = {}; // id -> {meta, records}
+
+async function loadAll(){
+  const tabbar=document.getElementById('tabbar');
+  const panels=document.getElementById('panels');
+  DATASETS.forEach((d,i)=>{
+    const t=document.createElement('button'); t.className='tab'+(i===0?' active':''); t.textContent=d.tab; t.dataset.id=d.id;
+    t.onclick=()=>selectTab(d.id); tabbar.appendChild(t);
+    const p=document.createElement('section'); p.className='panel'+(i===0?' active':''); p.id='panel-'+d.id;
+    p.innerHTML='<div class="panel-head"><h2>'+esc(d.tab)+'</h2><p>'+esc(d.blurb)+'</p></div>'+
+      '<div class="toolbar" id="tb-'+d.id+'"></div>'+
+      '<div class="tbl-wrap" id="body-'+d.id+'"><div class="loading">Loading '+esc(d.file)+' …</div></div>';
+    panels.appendChild(p);
+  });
+  await Promise.all(DATASETS.map(loadOne));
+  computeStats();
+}
+
+async function loadOne(d){
+  const body=document.getElementById('body-'+d.id);
+  try{
+    const res=await fetch(d.file, {cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const json=await res.json();
+    store[d.id]={meta:json, records:json.records||[]};
+    renderTable(d);
+  }catch(e){
+    body.innerHTML='<div class="loading err">Dataset pending: '+esc(d.file)+' not published yet ('+esc(e.message)+'). '+
+      'Research in progress; this table fills in once the data is published.</div>';
+  }
+}
+
+function activeFilters(d){ return (store[d.id]._filters)||new Set(); }
+
+function renderTable(d){
+  const rec=store[d.id].records;
+  const tb=document.getElementById('tb-'+d.id);
+  // build filter chips from distinct filterKey values
+  const vals=[...new Set(rec.map(r=>r[d.filterKey]).filter(v=>v!=null&&v!==''))];
+  store[d.id]._filters = store[d.id]._filters||new Set();
+  let html='<input type="search" placeholder="Search '+esc(d.tab)+'…" oninput="onSearch(\''+d.id+'\',this.value)"/>';
+  vals.forEach(v=>{ const lab=(d.filterLabel&&d.filterLabel[v])||v;
+    html+='<button class="chip" data-v="'+esc(v)+'" onclick="toggleFilter(\''+d.id+'\',\''+esc(v).replace(/'/g,"\\'")+'\',this)">'+esc(lab)+'</button>'; });
+  html+='<span class="count" id="count-'+d.id+'"></span>';
+  tb.innerHTML=html;
+  drawRows(d);
+}
+
+function drawRows(d){
+  const body=document.getElementById('body-'+d.id);
+  const q=(store[d.id]._q||'').toLowerCase();
+  const filt=store[d.id]._filters;
+  let rows=store[d.id].records.filter(r=>{
+    if(filt.size && !filt.has(String(r[d.filterKey]))) return false;
+    if(q){ return JSON.stringify(r).toLowerCase().includes(q); }
+    return true;
+  });
+  const cols=d.cols;
+  let h='<table class="data"><thead><tr>';
+  cols.forEach(c=>h+='<th>'+esc(c.h)+'</th>'); h+='<th>Source</th></tr></thead><tbody>';
+  if(!rows.length){ h+='<tr><td colspan="'+(cols.length+1)+'"><div class="empty">No rows match.</div></td></tr>'; }
+  rows.forEach(r=>{ h+='<tr>';
+    cols.forEach(c=>h+='<td'+(c.strong?' class="strong"':'')+'>'+(c.f(r)||'—')+'</td>');
+    h+='<td>'+srcCell(r)+'</td></tr>'; });
+  h+='</tbody></table>';
+  body.innerHTML=h;
+  const cnt=document.getElementById('count-'+d.id);
+  if(cnt) cnt.textContent=rows.length+' of '+store[d.id].records.length;
+}
+
+function onSearch(id,v){ store[id]._q=v; const d=DATASETS.find(x=>x.id===id); drawRows(d); }
+function toggleFilter(id,v,el){ const s=store[id]._filters; if(s.has(v)){s.delete(v);el.classList.remove('active');} else {s.add(v);el.classList.add('active');} drawRows(DATASETS.find(x=>x.id===id)); }
+function selectTab(id){
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.id===id));
+  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id==='panel-'+id));
+  window.scrollTo({top:document.querySelector('.tabbar').offsetTop-4,behavior:'smooth'});
+}
+
+function num(n){ return n==null?'—':n.toLocaleString(); }
+
+function computeStats(){
+  // products = foods + formulas
+  const foods=(store['medical-foods']&&store['medical-foods'].records.length)||0;
+  const formulas=(store['formulas']&&store['formulas'].records.length)||0;
+  const companies=(store['manufacturers']&&store['manufacturers'].records.length)||0;
+  const drugs=(store['drugs']&&store['drugs'].records.length)||0;
+  document.getElementById('s-products').textContent = (foods+formulas)? num(foods+formulas) : '—';
+  document.getElementById('s-companies').textContent = companies? num(companies) : '—';
+  document.getElementById('s-pipeline').textContent = drugs? num(drugs) : '—';
+  // gap states = US states with coverage_mandate partial/none
+  if(store['geo-us']){
+    const g=store['geo-us'].records.filter(r=>['partial','none'].includes(String(r.coverage_mandate))).length;
+    document.getElementById('s-gapstates').textContent = g? num(g) : '—';
+  }
+  // US population: sum of est if parseable, else headline estimate
+  document.getElementById('s-pop').textContent = '~16,500';
+  // market size: clean headline range; detail lives in the Money tab
+  document.getElementById('s-market').textContent = store['payers'] ? '$1-2B' : '…';
+}
+
+loadAll();
+</script>
 <script defer src="assets/guthrie-widget.js"></script>
 </body>
 </html>

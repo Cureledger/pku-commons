@@ -51,7 +51,6 @@
 </style>
 </head>
 <body>
-<a class="atlas-banner" href="market.html"><b>PKU Market Atlas</b> Everything PKU, at your fingertips. <span class="hb-cta">Open the atlas <span class="hb-arrow">&rsaquo;</span></span></a>
 <nav class="nav">
 <div class="wrap">
 <a class="brand" href="index.html"><img class="brand-logo" src="assets/pku-commons-logo.png" alt="PKU Commons logo" width="28" height="28"/>PKU <span>Commons</span></a>
@@ -60,7 +59,7 @@
 <a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
 <a class="link" href="families.html">Families</a>
 <a class="link" href="hackathon.html">Hackathon</a>
-<a class="link" href="market.html">Market Atlas</a>
+<a class="link" href="index.html">Market Atlas</a>
 <a class="link" href="markets.html" aria-current="page">Prediction Markets</a>
 <a class="link" href="guidelines.html">Guidelines</a>
 </div>
@@ -71,7 +70,7 @@
 <img class="pmk-hero-logo" src="assets/pku-commons-logo.png" alt="PKU Commons" width="52" height="52"/>
 <span class="kicker">Prediction markets</span>
 <h1>The open questions, priced.</h1>
-<p class="lede">Every claim in the <a href="market.html" style="color:#fff;text-decoration:underline;text-underline-offset:3px">Market Atlas</a>
+<p class="lede">Every claim in the <a href="index.html" style="color:#fff;text-decoration:underline;text-underline-offset:3px">Market Atlas</a>
 eventually resolves true or false. These are the ones worth betting on. Each one is anchored to a record in the
 atlas and settles on a public source: an FDA listing, ClinicalTrials.gov, Congress.gov, a state statute, or a
 court docket.</p>
@@ -133,7 +132,7 @@ function draw(){
       (r.anchor_fact?'<p class="mk-why">'+esc(r.anchor_fact)+'</p>':'')+
       '<div class="mk-meta">'+
         '<div><b>Resolves on</b><span>'+esc(r.resolves_on||'')+'</span></div>'+
-        (r.anchor_tab?'<div><b>Atlas</b><span><a href="market.html">'+esc(r.anchor_tab)+'</a></span></div>':'')+
+        (r.anchor_tab?'<div><b>Atlas</b><span><a href="index.html">'+esc(r.anchor_tab)+'</a></span></div>':'')+
         (r.kalshi_url?'<div><b>Trade</b><span><a href="'+esc(r.kalshi_url)+'" target="_blank" rel="noopener">'+esc(r.ticker||'open market')+'</a></span></div>':'')+
       '</div>'+
     '</article>').join('') : '<div class="loading">No markets match.</div>';

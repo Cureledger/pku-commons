@@ -18,7 +18,7 @@ phe-estimation tools reliable after any one developer leaves.
 |---|---|
 | [`docs/`](docs/) | GitHub Pages site: hub and 3 audience routes, [peer-review model](docs/PEER-REVIEW.md), [TruPKU pain-points](docs/pain-points.md) |
 | [`docs/RELIABILITY.md`](docs/RELIABILITY.md) | The reliability map. Phe-estimator reliability broken into four named, benchmark-measured gaps, each with a concrete task for the Claude Community to pick up. |
-| [`docs/market/`](docs/market/) | The [PKU Market Atlas](docs/market.html): PKU as a market, not a biology. 433 records across coverage law, medical foods, formulas, drugs, companies, apps, medical devices, clinics, dental, mental health, restaurants, schools, payers, advocacy, litigation, and prediction markets, rendered as an investor-facing dashboard. |
+| [`docs/market/`](docs/market/) | The [PKU Market Atlas](docs/index.html): PKU as a market, not a biology. 433 records across coverage law, medical foods, formulas, drugs, companies, apps, medical devices, clinics, dental, mental health, restaurants, schools, payers, advocacy, litigation, and prediction markets, rendered as an investor-facing dashboard. |
 | [`docs/guidelines/`](docs/guidelines/) | The [guideline comparison](docs/guidelines.html): all 86 recommendations from the 2025 European PKU guidelines, in plain language, each compared to the care North Carolinians receive and sorted by why it falls short. |
 | [`benchmark/`](benchmark/) | The accuracy standard: [BENCHMARK.md](benchmark/BENCHMARK.md), pluggable harness, seed test set with USDA-FDC ground truth, [leaderboard](benchmark/leaderboard.md) |
 | [`phe-estimator/`](phe-estimator/) | The Claude phe-estimator Skill. Uses a "think like a PKU parent" method, scored live against the benchmark |
@@ -55,5 +55,5 @@ Push this repo to GitHub, then go to **Settings, Pages, Source: deploy from bran
 
 NPKUA's [TruPKU / Voice of the Patient](https://www.npkua.org/truepku/) report catalogs the
 friction of living with PKU. If you build, several of those problems are yours to take. The
-suggested hacks are on the [landing page](docs/index.html) and in
+suggested hacks are on the [commons page](docs/commons.html) and in
 [`docs/pain-points.md`](docs/pain-points.md).
