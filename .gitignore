@@ -18,6 +18,17 @@ service-account*.json
 *_token
 *.token
 
+# ---- Personal / PHI ----
+# This repo is public. Insurance policies, benefit booklets, EOBs, lab results,
+# and anything patient-identifying stay local. Drop them in private/.
+private/
+Complaint*
+10012025_NCBAR_Plan-1.pdf
+*NCBAR*
+*benefit-booklet*
+*EOB*.pdf
+*explanation-of-benefits*
+
 # ---- Python ----
 __pycache__/
 *.py[cod]
@@ -77,3 +88,6 @@ tmp/
 temp/
 *.tmp
 
+
+# ---- Grant applications (private, do not publish) ----
+cureledger/grants/

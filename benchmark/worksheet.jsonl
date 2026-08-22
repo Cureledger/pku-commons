@@ -1,0 +1,719 @@
+{"id": "usda-169814", "name": "Agave, raw", "label": {"serving_size_g": 100, "ingredients": "agave", "protein_g_per_serving": 0.5}}
+{"id": "usda-168749", "name": "Alcoholic beverage, beer, light", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0.2}}
+{"id": "usda-168746", "name": "Alcoholic beverage, beer, regular, all", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0.5}}
+{"id": "usda-173168", "name": "Alcoholic beverage, creme de menthe, 72 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-173664", "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 100 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-174815", "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-171919", "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-171920", "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 90 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-173663", "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 94 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-174817", "name": "Alcoholic beverage, distilled, rum, 80 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-174818", "name": "Alcoholic beverage, distilled, vodka, 80 proof", "label": {"serving_size_g": 100, "ingredients": "alcoholic beverage", "protein_g_per_serving": 0}}
+{"id": "usda-169020", "name": "APPLEBEE'S, coleslaw", "label": {"serving_size_g": 100, "ingredients": "applebee's", "protein_g_per_serving": 0.8}}
+{"id": "usda-173930", "name": "Apples, canned, sweetened, sliced, drained, heated", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.2}}
+{"id": "usda-171690", "name": "Apples, dehydrated (low moisture), sulfured, stewed", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-173931", "name": "Apples, dehydrated (low moisture), sulfured, uncooked", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 1.3}}
+{"id": "usda-171693", "name": "Apples, dried, sulfured, stewed, with added sugar", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.2}}
+{"id": "usda-171692", "name": "Apples, dried, sulfured, stewed, without added sugar", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.2}}
+{"id": "usda-171691", "name": "Apples, dried, sulfured, uncooked", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.9}}
+{"id": "usda-173932", "name": "Apples, frozen, unsweetened, heated", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-171694", "name": "Apples, frozen, unsweetened, unheated", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-168202", "name": "Apples, raw, golden delicious, with skin", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-168201", "name": "Apples, raw, red delicious, with skin", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-171688", "name": "Apples, raw, with skin", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-171689", "name": "Apples, raw, without skin", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-173929", "name": "Apples, raw, without skin, cooked, microwave", "label": {"serving_size_g": 100, "ingredients": "apples", "protein_g_per_serving": 0.3}}
+{"id": "usda-167773", "name": "Applesauce, canned, sweetened, with salt", "label": {"serving_size_g": 100, "ingredients": "applesauce", "protein_g_per_serving": 0.2}}
+{"id": "usda-171696", "name": "Applesauce, canned, sweetened, without salt", "label": {"serving_size_g": 100, "ingredients": "applesauce", "protein_g_per_serving": 0.2}}
+{"id": "usda-167772", "name": "Applesauce, canned, unsweetened, with added ascorbic acid", "label": {"serving_size_g": 100, "ingredients": "applesauce", "protein_g_per_serving": 0.2}}
+{"id": "usda-171695", "name": "Applesauce, canned, unsweetened, without added ascorbic acid", "label": {"serving_size_g": 100, "ingredients": "applesauce", "protein_g_per_serving": 0.2}}
+{"id": "usda-171701", "name": "Apricots, canned, extra heavy syrup pack, without skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.6}}
+{"id": "usda-173938", "name": "Apricots, canned, extra light syrup pack, with skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.6}}
+{"id": "usda-171699", "name": "Apricots, canned, heavy syrup pack, with skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.5}}
+{"id": "usda-171700", "name": "Apricots, canned, heavy syrup pack, without skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.5}}
+{"id": "usda-173937", "name": "Apricots, canned, juice pack, with skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.6}}
+{"id": "usda-173939", "name": "Apricots, canned, light syrup pack, with skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.5}}
+{"id": "usda-171698", "name": "Apricots, canned, water pack, with skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.7}}
+{"id": "usda-173936", "name": "Apricots, canned, water pack, without skin, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.7}}
+{"id": "usda-173940", "name": "Apricots, dehydrated (low-moisture), sulfured, stewed", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 1.9}}
+{"id": "usda-173943", "name": "Apricots, dried, sulfured, stewed, with added sugar", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 1.2}}
+{"id": "usda-173942", "name": "Apricots, dried, sulfured, stewed, without added sugar", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 1.2}}
+{"id": "usda-171703", "name": "Apricots, frozen, sweetened", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 0.7}}
+{"id": "usda-171697", "name": "Apricots, raw", "label": {"serving_size_g": 100, "ingredients": "apricots", "protein_g_per_serving": 1.4}}
+{"id": "usda-170684", "name": "Arrowroot flour", "label": {"serving_size_g": 100, "ingredients": "arrowroot flour", "protein_g_per_serving": 0.3}}
+{"id": "usda-169314", "name": "Asparagus, canned, no salt added, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "asparagus", "protein_g_per_serving": 1.8}}
+{"id": "usda-169206", "name": "Asparagus, canned, regular pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "asparagus", "protein_g_per_serving": 1.8}}
+{"id": "usda-171705", "name": "Avocados, raw, all commercial varieties", "label": {"serving_size_g": 100, "ingredients": "avocados", "protein_g_per_serving": 2}}
+{"id": "usda-171706", "name": "Avocados, raw, California", "label": {"serving_size_g": 100, "ingredients": "avocados", "protein_g_per_serving": 2}}
+{"id": "usda-170999", "name": "Babyfood, banana with mixed berries, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1}}
+{"id": "usda-173519", "name": "Babyfood, beverage, GERBER, GRADUATES, FRUIT SPLASHERS", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0}}
+{"id": "usda-170967", "name": "Babyfood, cereal, mixed, with applesauce and bananas, junior, fortified", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.7}}
+{"id": "usda-170966", "name": "Babyfood, cereal, mixed, with applesauce and bananas, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.7}}
+{"id": "usda-171363", "name": "Babyfood, cereal, oatmeal, with applesauce and bananas, junior, fortified", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.9}}
+{"id": "usda-171362", "name": "Babyfood, cereal, oatmeal, with applesauce and bananas, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.9}}
+{"id": "usda-170970", "name": "Babyfood, cereal, rice, with applesauce and bananas, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.2}}
+{"id": "usda-171364", "name": "Babyfood, cereal, with egg yolks, junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.9}}
+{"id": "usda-170971", "name": "Babyfood, cereal, with egg yolks, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.9}}
+{"id": "usda-172317", "name": "Babyfood, corn and sweet potatoes, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.3}}
+{"id": "usda-171379", "name": "Babyfood, dessert, custard pudding, vanilla, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.6}}
+{"id": "usda-170977", "name": "Babyfood, dessert, dutch apple, junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.2}}
+{"id": "usda-171374", "name": "Babyfood, dessert, fruit pudding, orange, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.1}}
+{"id": "usda-170998", "name": "Babyfood, fruit, banana and strawberry, junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.7}}
+{"id": "usda-173487", "name": "Babyfood, GERBER, 2nd Foods, apple, carrot and squash, organic", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.1}}
+{"id": "usda-168144", "name": "Babyfood, grape juice, no sugar, canned", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0}}
+{"id": "usda-173478", "name": "Babyfood, juice treats, fruit medley, toddler", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0}}
+{"id": "usda-170989", "name": "Babyfood, mashed cheddar potatoes and broccoli, toddlers", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.1}}
+{"id": "usda-173485", "name": "Babyfood, snack, GERBER GRADUATE FRUIT STRIPS, Real Fruit Bars", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.8}}
+{"id": "usda-172255", "name": "Babyfood, tropical fruit medley", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.3}}
+{"id": "usda-173505", "name": "Babyfood, vegetables, beets, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.3}}
+{"id": "usda-173507", "name": "Babyfood, vegetables, carrots, junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.8}}
+{"id": "usda-173506", "name": "Babyfood, vegetables, carrots, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 0.8}}
+{"id": "usda-171334", "name": "Babyfood, vegetables, corn, creamed, junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.4}}
+{"id": "usda-172280", "name": "Babyfood, vegetables, corn, creamed, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.4}}
+{"id": "usda-172272", "name": "Babyfood, vegetables, green beans, junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.2}}
+{"id": "usda-172271", "name": "Babyfood, vegetables, green beans, strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.2}}
+{"id": "usda-172283", "name": "Babyfood, vegetables, mix vegetables junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.4}}
+{"id": "usda-173515", "name": "Babyfood, vegetables, mix vegetables strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1}}
+{"id": "usda-172276", "name": "Babyfood, vegetables, sweet potatoes strained", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.1}}
+{"id": "usda-172277", "name": "Babyfood, vegetables, sweet potatoes, junior", "label": {"serving_size_g": 100, "ingredients": "babyfood", "protein_g_per_serving": 1.1}}
+{"id": "usda-172664", "name": "Bagels, cinnamon-raisin", "label": {"serving_size_g": 100, "ingredients": "bagels", "protein_g_per_serving": 0.7}}
+{"id": "usda-169212", "name": "Bamboo shoots, canned, drained solids", "label": {"serving_size_g": 100, "ingredients": "bamboo shoots", "protein_g_per_serving": 1.7}}
+{"id": "usda-168497", "name": "Bamboo shoots, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "bamboo shoots", "protein_g_per_serving": 1.5}}
+{"id": "usda-169211", "name": "Bamboo shoots, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "bamboo shoots", "protein_g_per_serving": 1.5}}
+{"id": "usda-173944", "name": "Bananas, raw", "label": {"serving_size_g": 100, "ingredients": "bananas", "protein_g_per_serving": 1.1}}
+{"id": "usda-170079", "name": "Beans, mung, mature seeds, sprouted, canned, drained solids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.4}}
+{"id": "usda-169319", "name": "Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.9}}
+{"id": "usda-170087", "name": "Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.9}}
+{"id": "usda-169144", "name": "Beans, snap, canned, all styles, seasoned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 0.8}}
+{"id": "usda-168505", "name": "Beans, snap, green, canned, no salt added, drained solids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.1}}
+{"id": "usda-168502", "name": "Beans, snap, green, canned, no salt added, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 0.8}}
+{"id": "usda-169143", "name": "Beans, snap, green, canned, regular pack, drained solids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.1}}
+{"id": "usda-169142", "name": "Beans, snap, green, canned, regular pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 0.7}}
+{"id": "usda-169321", "name": "Beans, snap, green, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.9}}
+{"id": "usda-169141", "name": "Beans, snap, green, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.9}}
+{"id": "usda-169964", "name": "Beans, snap, green, frozen, all styles, microwaved", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 2}}
+{"id": "usda-169962", "name": "Beans, snap, green, frozen, all styles, unprepared", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.8}}
+{"id": "usda-169963", "name": "Beans, snap, green, frozen, cooked, boiled, drained without salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.5}}
+{"id": "usda-169325", "name": "Beans, snap, green, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.5}}
+{"id": "usda-169961", "name": "Beans, snap, green, raw", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.8}}
+{"id": "usda-169375", "name": "Beans, snap, yellow, canned, no salt added, drained solids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.2}}
+{"id": "usda-168504", "name": "Beans, snap, yellow, canned, no salt added, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 0.8}}
+{"id": "usda-169374", "name": "Beans, snap, yellow, canned, regular pack, drained solids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.2}}
+{"id": "usda-168503", "name": "Beans, snap, yellow, canned, regular pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 0.8}}
+{"id": "usda-169323", "name": "Beans, snap, yellow, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.9}}
+{"id": "usda-169322", "name": "Beans, snap, yellow, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.9}}
+{"id": "usda-169324", "name": "Beans, snap, yellow, frozen, all styles, unprepared", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.8}}
+{"id": "usda-169327", "name": "Beans, snap, yellow, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.5}}
+{"id": "usda-169326", "name": "Beans, snap, yellow, frozen, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.5}}
+{"id": "usda-169320", "name": "Beans, snap, yellow, raw", "label": {"serving_size_g": 100, "ingredients": "beans", "protein_g_per_serving": 1.8}}
+{"id": "usda-169966", "name": "Beets, canned, drained solids", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 0.9}}
+{"id": "usda-168507", "name": "Beets, canned, no salt added, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 0.8}}
+{"id": "usda-169147", "name": "Beets, canned, regular pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 0.7}}
+{"id": "usda-169146", "name": "Beets, cooked, boiled, drained", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 1.7}}
+{"id": "usda-168506", "name": "Beets, cooked, boiled. drained, with salt", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 1.7}}
+{"id": "usda-170479", "name": "Beets, harvard, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 0.8}}
+{"id": "usda-170480", "name": "Beets, pickled, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 0.8}}
+{"id": "usda-169145", "name": "Beets, raw", "label": {"serving_size_g": 100, "ingredients": "beets", "protein_g_per_serving": 1.6}}
+{"id": "usda-174820", "name": "Beverages, almond milk, chocolate, ready-to-drink", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0.6}}
+{"id": "usda-174842", "name": "Beverages, carbonated, club soda", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-173203", "name": "Beverages, carbonated, grape soda", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-174854", "name": "Beverages, carbonated, orange", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-173209", "name": "Beverages, carbonated, pepper-type, contains caffeine", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-171869", "name": "Beverages, carbonated, tonic water", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-171890", "name": "Beverages, coffee, brewed, prepared with tap water", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0.1}}
+{"id": "usda-171889", "name": "Beverages, coffee, brewed, prepared with tap water, decaffeinated", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0.1}}
+{"id": "usda-175100", "name": "Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0.4}}
+{"id": "usda-174155", "name": "Beverages, tea, black, brewed, prepared with distilled water", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-173227", "name": "Beverages, tea, black, brewed, prepared with tap water", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-174871", "name": "Beverages, tea, black, brewed, prepared with tap water, decaffeinated", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-171918", "name": "Beverages, tea, instant, lemon, with added ascorbic acid", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0.6}}
+{"id": "usda-173233", "name": "Beverages, water, bottled, PERRIER", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-173234", "name": "Beverages, water, bottled, POLAND SPRING", "label": {"serving_size_g": 100, "ingredients": "beverages", "protein_g_per_serving": 0}}
+{"id": "usda-173948", "name": "Blueberries, canned, heavy syrup, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "blueberries", "protein_g_per_serving": 0.7}}
+{"id": "usda-173951", "name": "Blueberries, frozen, sweetened", "label": {"serving_size_g": 100, "ingredients": "blueberries", "protein_g_per_serving": 0.4}}
+{"id": "usda-173950", "name": "Blueberries, frozen, unsweetened", "label": {"serving_size_g": 100, "ingredients": "blueberries", "protein_g_per_serving": 0.4}}
+{"id": "usda-171711", "name": "Blueberries, raw", "label": {"serving_size_g": 100, "ingredients": "blueberries", "protein_g_per_serving": 0.7}}
+{"id": "usda-171714", "name": "Breadfruit, raw", "label": {"serving_size_g": 100, "ingredients": "breadfruit", "protein_g_per_serving": 1.1}}
+{"id": "usda-169974", "name": "Burdock root, raw", "label": {"serving_size_g": 100, "ingredients": "burdock root", "protein_g_per_serving": 1.5}}
+{"id": "usda-173412", "name": "Butter oil, anhydrous", "label": {"serving_size_g": 100, "ingredients": "butter oil", "protein_g_per_serving": 0.3}}
+{"id": "usda-173410", "name": "Butter, salted", "label": {"serving_size_g": 100, "ingredients": "butter", "protein_g_per_serving": 0.9}}
+{"id": "usda-173411", "name": "Butter, whipped, with salt", "label": {"serving_size_g": 100, "ingredients": "butter", "protein_g_per_serving": 0.5}}
+{"id": "usda-173430", "name": "Butter, without salt", "label": {"serving_size_g": 100, "ingredients": "butter", "protein_g_per_serving": 0.9}}
+{"id": "usda-168517", "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.6}}
+{"id": "usda-170391", "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.6}}
+{"id": "usda-170390", "name": "Cabbage, chinese (pak-choi), raw", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.5}}
+{"id": "usda-169337", "name": "Cabbage, chinese (pe-tsai), cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.5}}
+{"id": "usda-169980", "name": "Cabbage, chinese (pe-tsai), cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.5}}
+{"id": "usda-169979", "name": "Cabbage, chinese (pe-tsai), raw", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.2}}
+{"id": "usda-169335", "name": "Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.2}}
+{"id": "usda-169336", "name": "Cabbage, common (danish, domestic, and pointed types), stored, raw", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.2}}
+{"id": "usda-168514", "name": "Cabbage, common, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.3}}
+{"id": "usda-169976", "name": "Cabbage, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.3}}
+{"id": "usda-169975", "name": "Cabbage, raw", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.3}}
+{"id": "usda-168515", "name": "Cabbage, red, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.5}}
+{"id": "usda-169978", "name": "Cabbage, red, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.5}}
+{"id": "usda-169977", "name": "Cabbage, red, raw", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.4}}
+{"id": "usda-168516", "name": "Cabbage, savoy, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.8}}
+{"id": "usda-170389", "name": "Cabbage, savoy, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 1.8}}
+{"id": "usda-170388", "name": "Cabbage, savoy, raw", "label": {"serving_size_g": 100, "ingredients": "cabbage", "protein_g_per_serving": 2}}
+{"id": "usda-172901", "name": "CAMPBELL'S, Cream of Mushroom Soup, condensed", "label": {"serving_size_g": 100, "ingredients": "campbell's", "protein_g_per_serving": 1.3}}
+{"id": "usda-167995", "name": "Candies, marshmallows", "label": {"serving_size_g": 100, "ingredients": "candies", "protein_g_per_serving": 1.8}}
+{"id": "usda-167971", "name": "Candies, TOOTSIE ROLL, chocolate-flavor roll", "label": {"serving_size_g": 100, "ingredients": "candies", "protein_g_per_serving": 1.6}}
+{"id": "usda-171715", "name": "Carambola, (starfruit), raw", "label": {"serving_size_g": 100, "ingredients": "carambola", "protein_g_per_serving": 1}}
+{"id": "usda-173199", "name": "Carbonated beverage, cream soda", "label": {"serving_size_g": 100, "ingredients": "carbonated beverage", "protein_g_per_serving": 0}}
+{"id": "usda-168568", "name": "Carrots, baby, raw", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.6}}
+{"id": "usda-168518", "name": "Carrots, canned, no salt added, drained solids", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.6}}
+{"id": "usda-169340", "name": "Carrots, canned, no salt added, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.6}}
+{"id": "usda-170396", "name": "Carrots, canned, regular pack, drained solids", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.6}}
+{"id": "usda-170395", "name": "Carrots, canned, regular pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.6}}
+{"id": "usda-169339", "name": "Carrots, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.8}}
+{"id": "usda-170394", "name": "Carrots, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.8}}
+{"id": "usda-168519", "name": "Carrots, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.6}}
+{"id": "usda-169984", "name": "Carrots, frozen, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.6}}
+{"id": "usda-169983", "name": "Carrots, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.8}}
+{"id": "usda-170393", "name": "Carrots, raw", "label": {"serving_size_g": 100, "ingredients": "carrots", "protein_g_per_serving": 0.9}}
+{"id": "usda-169985", "name": "Cassava, raw", "label": {"serving_size_g": 100, "ingredients": "cassava", "protein_g_per_serving": 1.4}}
+{"id": "usda-168556", "name": "Catsup", "label": {"serving_size_g": 100, "ingredients": "catsup", "protein_g_per_serving": 1}}
+{"id": "usda-169381", "name": "Catsup, low sodium", "label": {"serving_size_g": 100, "ingredients": "catsup", "protein_g_per_serving": 1}}
+{"id": "usda-168520", "name": "Cauliflower, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "cauliflower", "protein_g_per_serving": 1.8}}
+{"id": "usda-170397", "name": "Cauliflower, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "cauliflower", "protein_g_per_serving": 1.8}}
+{"id": "usda-168521", "name": "Cauliflower, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "cauliflower", "protein_g_per_serving": 1.6}}
+{"id": "usda-170399", "name": "Cauliflower, frozen, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "cauliflower", "protein_g_per_serving": 1.6}}
+{"id": "usda-170398", "name": "Cauliflower, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "cauliflower", "protein_g_per_serving": 2}}
+{"id": "usda-169986", "name": "Cauliflower, raw", "label": {"serving_size_g": 100, "ingredients": "cauliflower", "protein_g_per_serving": 1.9}}
+{"id": "usda-169342", "name": "Celery, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "celery", "protein_g_per_serving": 0.8}}
+{"id": "usda-169989", "name": "Celery, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "celery", "protein_g_per_serving": 0.8}}
+{"id": "usda-169988", "name": "Celery, raw", "label": {"serving_size_g": 100, "ingredients": "celery", "protein_g_per_serving": 0.7}}
+{"id": "usda-169990", "name": "Celtuce, raw", "label": {"serving_size_g": 100, "ingredients": "celtuce", "protein_g_per_serving": 0.9}}
+{"id": "usda-171671", "name": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.7}}
+{"id": "usda-171655", "name": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.7}}
+{"id": "usda-171672", "name": "Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.2}}
+{"id": "usda-171673", "name": "Cereals, corn grits, yellow, regular, quick, enriched, cooked with water, with salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.2}}
+{"id": "usda-173914", "name": "Cereals, CREAM OF RICE, cooked with water, with salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 0.9}}
+{"id": "usda-173012", "name": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, microwaved, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 2}}
+{"id": "usda-173011", "name": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, stove-top, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.7}}
+{"id": "usda-173009", "name": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, microwaved, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.9}}
+{"id": "usda-173008", "name": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, stove-top, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.4}}
+{"id": "usda-173902", "name": "Cereals, CREAM OF WHEAT, instant, prepared with water, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.8}}
+{"id": "usda-173915", "name": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, with salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.5}}
+{"id": "usda-171657", "name": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.4}}
+{"id": "usda-171659", "name": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.8}}
+{"id": "usda-173917", "name": "Cereals, farina, enriched, cooked with water, with salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.8}}
+{"id": "usda-173897", "name": "Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt", "label": {"serving_size_g": 100, "ingredients": "cereals", "protein_g_per_serving": 1.6}}
+{"id": "usda-169343", "name": "Chard, swiss, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "chard", "protein_g_per_serving": 1.9}}
+{"id": "usda-170401", "name": "Chard, swiss, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "chard", "protein_g_per_serving": 1.9}}
+{"id": "usda-169991", "name": "Chard, swiss, raw", "label": {"serving_size_g": 100, "ingredients": "chard", "protein_g_per_serving": 1.8}}
+{"id": "usda-169344", "name": "Chayote, fruit, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "chayote", "protein_g_per_serving": 0.6}}
+{"id": "usda-170403", "name": "Chayote, fruit, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "chayote", "protein_g_per_serving": 0.6}}
+{"id": "usda-170402", "name": "Chayote, fruit, raw", "label": {"serving_size_g": 100, "ingredients": "chayote", "protein_g_per_serving": 0.8}}
+{"id": "usda-173953", "name": "Cherimoya, raw", "label": {"serving_size_g": 100, "ingredients": "cherimoya", "protein_g_per_serving": 1.6}}
+{"id": "usda-171719", "name": "Cherries, sweet, raw", "label": {"serving_size_g": 100, "ingredients": "cherries", "protein_g_per_serving": 1.1}}
+{"id": "usda-169992", "name": "Chicory greens, raw", "label": {"serving_size_g": 100, "ingredients": "chicory greens", "protein_g_per_serving": 1.7}}
+{"id": "usda-170404", "name": "Chicory, witloof, raw", "label": {"serving_size_g": 100, "ingredients": "chicory", "protein_g_per_serving": 0.9}}
+{"id": "usda-169363", "name": "Corn, sweet, white, canned, cream style, no salt added", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 1.7}}
+{"id": "usda-169362", "name": "Corn, sweet, white, canned, cream style, regular pack", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 1.7}}
+{"id": "usda-169360", "name": "Corn, sweet, white, canned, whole kernel, no salt added, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 2}}
+{"id": "usda-168541", "name": "Corn, sweet, white, canned, whole kernel, regular pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 2}}
+{"id": "usda-170409", "name": "Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 2}}
+{"id": "usda-169346", "name": "Corn, sweet, yellow, canned, cream style, no salt added", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 1.7}}
+{"id": "usda-169215", "name": "Corn, sweet, yellow, canned, cream style, regular pack", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 1.7}}
+{"id": "usda-169345", "name": "Corn, sweet, yellow, canned, no salt added, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "corn", "protein_g_per_serving": 2}}
+{"id": "usda-169219", "name": "Cornsalad, raw", "label": {"serving_size_g": 100, "ingredients": "cornsalad", "protein_g_per_serving": 2}}
+{"id": "usda-169698", "name": "Cornstarch", "label": {"serving_size_g": 100, "ingredients": "cornstarch", "protein_g_per_serving": 0.3}}
+{"id": "usda-171721", "name": "Crabapples, raw", "label": {"serving_size_g": 100, "ingredients": "crabapples", "protein_g_per_serving": 0.4}}
+{"id": "usda-169843", "name": "CRACKER BARREL, coleslaw", "label": {"serving_size_g": 100, "ingredients": "cracker barrel", "protein_g_per_serving": 0.9}}
+{"id": "usda-171722", "name": "Cranberries, raw", "label": {"serving_size_g": 100, "ingredients": "cranberries", "protein_g_per_serving": 0.5}}
+{"id": "usda-171904", "name": "Cranberry juice cocktail, bottled, low calorie, with calcium, saccharin and corn sweetener", "label": {"serving_size_g": 100, "ingredients": "cranberry juice cocktail", "protein_g_per_serving": 0}}
+{"id": "usda-173453", "name": "Cream substitute, flavored, liquid", "label": {"serving_size_g": 100, "ingredients": "cream substitute", "protein_g_per_serving": 0.7}}
+{"id": "usda-172214", "name": "Cream substitute, flavored, powdered", "label": {"serving_size_g": 100, "ingredients": "cream substitute", "protein_g_per_serving": 0.7}}
+{"id": "usda-171261", "name": "Cream substitute, liquid, with hydrogenated vegetable oil and soy protein", "label": {"serving_size_g": 100, "ingredients": "cream substitute", "protein_g_per_serving": 1}}
+{"id": "usda-171262", "name": "Cream substitute, liquid, with lauric acid oil and sodium caseinate", "label": {"serving_size_g": 100, "ingredients": "cream substitute", "protein_g_per_serving": 1}}
+{"id": "usda-169225", "name": "Cucumber, peeled, raw", "label": {"serving_size_g": 100, "ingredients": "cucumber", "protein_g_per_serving": 0.6}}
+{"id": "usda-168409", "name": "Cucumber, with peel, raw", "label": {"serving_size_g": 100, "ingredients": "cucumber", "protein_g_per_serving": 0.7}}
+{"id": "usda-168191", "name": "Dates, medjool", "label": {"serving_size_g": 100, "ingredients": "dates", "protein_g_per_serving": 1.8}}
+{"id": "usda-169023", "name": "DENNY'S, coleslaw", "label": {"serving_size_g": 100, "ingredients": "denny's", "protein_g_per_serving": 1}}
+{"id": "usda-170867", "name": "Dessert topping, pressurized", "label": {"serving_size_g": 100, "ingredients": "dessert topping", "protein_g_per_serving": 1}}
+{"id": "usda-170868", "name": "Dessert topping, semi solid, frozen", "label": {"serving_size_g": 100, "ingredients": "dessert topping", "protein_g_per_serving": 1.3}}
+{"id": "usda-169371", "name": "Dock, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "dock", "protein_g_per_serving": 1.8}}
+{"id": "usda-170077", "name": "Dock, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "dock", "protein_g_per_serving": 1.8}}
+{"id": "usda-170076", "name": "Dock, raw", "label": {"serving_size_g": 100, "ingredients": "dock", "protein_g_per_serving": 2}}
+{"id": "usda-169352", "name": "Eggplant, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "eggplant", "protein_g_per_serving": 0.8}}
+{"id": "usda-169229", "name": "Eggplant, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "eggplant", "protein_g_per_serving": 0.8}}
+{"id": "usda-169228", "name": "Eggplant, raw", "label": {"serving_size_g": 100, "ingredients": "eggplant", "protein_g_per_serving": 1}}
+{"id": "usda-171727", "name": "Elderberries, raw", "label": {"serving_size_g": 100, "ingredients": "elderberries", "protein_g_per_serving": 0.7}}
+{"id": "usda-168412", "name": "Endive, raw", "label": {"serving_size_g": 100, "ingredients": "endive", "protein_g_per_serving": 1.3}}
+{"id": "usda-168413", "name": "Escarole, cooked, boiled, drained, no salt added", "label": {"serving_size_g": 100, "ingredients": "escarole", "protein_g_per_serving": 1.2}}
+{"id": "usda-171400", "name": "Fat, beef tallow", "label": {"serving_size_g": 100, "ingredients": "fat", "protein_g_per_serving": 0}}
+{"id": "usda-173564", "name": "Fat, chicken", "label": {"serving_size_g": 100, "ingredients": "fat", "protein_g_per_serving": 0}}
+{"id": "usda-173572", "name": "Fat, goose", "label": {"serving_size_g": 100, "ingredients": "fat", "protein_g_per_serving": 0}}
+{"id": "usda-173571", "name": "Fat, turkey", "label": {"serving_size_g": 100, "ingredients": "fat", "protein_g_per_serving": 0}}
+{"id": "usda-168176", "name": "Feijoa, raw", "label": {"serving_size_g": 100, "ingredients": "feijoa", "protein_g_per_serving": 0.7}}
+{"id": "usda-173025", "name": "Figs, canned, extra heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "figs", "protein_g_per_serving": 0.4}}
+{"id": "usda-173024", "name": "Figs, canned, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "figs", "protein_g_per_serving": 0.4}}
+{"id": "usda-173023", "name": "Figs, canned, light syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "figs", "protein_g_per_serving": 0.4}}
+{"id": "usda-173022", "name": "Figs, canned, water pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "figs", "protein_g_per_serving": 0.4}}
+{"id": "usda-174666", "name": "Figs, dried, stewed", "label": {"serving_size_g": 100, "ingredients": "figs", "protein_g_per_serving": 1.4}}
+{"id": "usda-173021", "name": "Figs, raw", "label": {"serving_size_g": 100, "ingredients": "figs", "protein_g_per_serving": 0.8}}
+{"id": "usda-169625", "name": "Frostings, chocolate, creamy, dry mix", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 1.3}}
+{"id": "usda-168800", "name": "Frostings, chocolate, creamy, dry mix, prepared with butter", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 1.1}}
+{"id": "usda-168845", "name": "Frostings, chocolate, creamy, dry mix, prepared with margarine", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 1.1}}
+{"id": "usda-168795", "name": "Frostings, chocolate, creamy, ready-to-eat", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 1.1}}
+{"id": "usda-169619", "name": "Frostings, cream cheese-flavor, ready-to-eat", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 0.1}}
+{"id": "usda-168802", "name": "Frostings, vanilla, creamy, dry mix", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 0.3}}
+{"id": "usda-168844", "name": "Frostings, vanilla, creamy, dry mix, prepared with margarine", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 0.3}}
+{"id": "usda-169626", "name": "Frostings, white, fluffy, dry mix, prepared with water", "label": {"serving_size_g": 100, "ingredients": "frostings", "protein_g_per_serving": 1.5}}
+{"id": "usda-167953", "name": "Fruit syrup", "label": {"serving_size_g": 100, "ingredients": "fruit syrup", "protein_g_per_serving": 0}}
+{"id": "usda-169596", "name": "Gelatin desserts, dry mix, prepared with water", "label": {"serving_size_g": 100, "ingredients": "gelatin desserts", "protein_g_per_serving": 1.2}}
+{"id": "usda-169231", "name": "Ginger root, raw", "label": {"serving_size_g": 100, "ingredients": "ginger root", "protein_g_per_serving": 1.8}}
+{"id": "usda-169353", "name": "Gourd, white-flowered (calabash), cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "gourd", "protein_g_per_serving": 0.6}}
+{"id": "usda-169233", "name": "Gourd, white-flowered (calabash), cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "gourd", "protein_g_per_serving": 0.6}}
+{"id": "usda-169232", "name": "Gourd, white-flowered (calabash), raw", "label": {"serving_size_g": 100, "ingredients": "gourd", "protein_g_per_serving": 0.6}}
+{"id": "usda-168207", "name": "Grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium", "label": {"serving_size_g": 100, "ingredients": "grape juice", "protein_g_per_serving": 0.4}}
+{"id": "usda-173042", "name": "Grape juice, canned or bottled, unsweetened, without added ascorbic acid", "label": {"serving_size_g": 100, "ingredients": "grape juice", "protein_g_per_serving": 0.4}}
+{"id": "usda-173033", "name": "Grapefruit, raw, pink and red and white, all areas", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.6}}
+{"id": "usda-174673", "name": "Grapefruit, raw, pink and red, all areas", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.8}}
+{"id": "usda-174674", "name": "Grapefruit, raw, pink and red, California and Arizona", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.5}}
+{"id": "usda-174675", "name": "Grapefruit, raw, pink and red, Florida", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.6}}
+{"id": "usda-174676", "name": "Grapefruit, raw, white, all areas", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.7}}
+{"id": "usda-174677", "name": "Grapefruit, raw, white, California", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.9}}
+{"id": "usda-173034", "name": "Grapefruit, raw, white, Florida", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.6}}
+{"id": "usda-173036", "name": "Grapefruit, sections, canned, juice pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.7}}
+{"id": "usda-173037", "name": "Grapefruit, sections, canned, light syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.6}}
+{"id": "usda-173035", "name": "Grapefruit, sections, canned, water pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "grapefruit", "protein_g_per_serving": 0.6}}
+{"id": "usda-174682", "name": "Grapes, american type (slip skin), raw", "label": {"serving_size_g": 100, "ingredients": "grapes", "protein_g_per_serving": 0.6}}
+{"id": "usda-174685", "name": "Grapes, canned, thompson seedless, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "grapes", "protein_g_per_serving": 0.5}}
+{"id": "usda-174684", "name": "Grapes, canned, thompson seedless, water pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "grapes", "protein_g_per_serving": 0.5}}
+{"id": "usda-174683", "name": "Grapes, red or green (European type, such as Thompson seedless), raw", "label": {"serving_size_g": 100, "ingredients": "grapes", "protein_g_per_serving": 0.7}}
+{"id": "usda-174686", "name": "Guava sauce, cooked", "label": {"serving_size_g": 100, "ingredients": "guava sauce", "protein_g_per_serving": 0.3}}
+{"id": "usda-173045", "name": "Guavas, strawberry, raw", "label": {"serving_size_g": 100, "ingredients": "guavas", "protein_g_per_serving": 0.6}}
+{"id": "usda-169701", "name": "Hominy, canned, white", "label": {"serving_size_g": 100, "ingredients": "hominy", "protein_g_per_serving": 1.5}}
+{"id": "usda-169752", "name": "Hominy, canned, yellow", "label": {"serving_size_g": 100, "ingredients": "hominy", "protein_g_per_serving": 1.5}}
+{"id": "usda-169640", "name": "Honey", "label": {"serving_size_g": 100, "ingredients": "honey", "protein_g_per_serving": 0.3}}
+{"id": "usda-174687", "name": "Jackfruit, raw", "label": {"serving_size_g": 100, "ingredients": "jackfruit", "protein_g_per_serving": 1.7}}
+{"id": "usda-169641", "name": "Jams and preserves", "label": {"serving_size_g": 100, "ingredients": "jams and preserves", "protein_g_per_serving": 0.4}}
+{"id": "usda-170340", "name": "KFC, Coleslaw", "label": {"serving_size_g": 100, "ingredients": "kfc", "protein_g_per_serving": 0.9}}
+{"id": "usda-168153", "name": "Kiwifruit, green, raw", "label": {"serving_size_g": 100, "ingredients": "kiwifruit", "protein_g_per_serving": 1.1}}
+{"id": "usda-169357", "name": "Kohlrabi, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "kohlrabi", "protein_g_per_serving": 1.8}}
+{"id": "usda-168425", "name": "Kohlrabi, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "kohlrabi", "protein_g_per_serving": 1.8}}
+{"id": "usda-168424", "name": "Kohlrabi, raw", "label": {"serving_size_g": 100, "ingredients": "kohlrabi", "protein_g_per_serving": 1.7}}
+{"id": "usda-171401", "name": "Lard", "label": {"serving_size_g": 100, "ingredients": "lard", "protein_g_per_serving": 0}}
+{"id": "usda-168535", "name": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "leeks", "protein_g_per_serving": 0.8}}
+{"id": "usda-168426", "name": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "leeks", "protein_g_per_serving": 0.8}}
+{"id": "usda-169246", "name": "Leeks, (bulb and lower leaf-portion), raw", "label": {"serving_size_g": 100, "ingredients": "leeks", "protein_g_per_serving": 1.5}}
+{"id": "usda-168429", "name": "Lettuce, butterhead (includes boston and bibb types), raw", "label": {"serving_size_g": 100, "ingredients": "lettuce", "protein_g_per_serving": 1.4}}
+{"id": "usda-169247", "name": "Lettuce, cos or romaine, raw", "label": {"serving_size_g": 100, "ingredients": "lettuce", "protein_g_per_serving": 1.2}}
+{"id": "usda-169249", "name": "Lettuce, green leaf, raw", "label": {"serving_size_g": 100, "ingredients": "lettuce", "protein_g_per_serving": 1.4}}
+{"id": "usda-169248", "name": "Lettuce, iceberg (includes crisphead types), raw", "label": {"serving_size_g": 100, "ingredients": "lettuce", "protein_g_per_serving": 0.9}}
+{"id": "usda-168431", "name": "Lettuce, red leaf, raw", "label": {"serving_size_g": 100, "ingredients": "lettuce", "protein_g_per_serving": 1.3}}
+{"id": "usda-168156", "name": "Lime juice, raw", "label": {"serving_size_g": 100, "ingredients": "lime juice", "protein_g_per_serving": 0.4}}
+{"id": "usda-169089", "name": "Longans, raw", "label": {"serving_size_g": 100, "ingredients": "longans", "protein_g_per_serving": 1.3}}
+{"id": "usda-169908", "name": "Loquats, raw", "label": {"serving_size_g": 100, "ingredients": "loquats", "protein_g_per_serving": 0.4}}
+{"id": "usda-168536", "name": "Lotus root, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "lotus root", "protein_g_per_serving": 1.6}}
+{"id": "usda-168430", "name": "Lotus root, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "lotus root", "protein_g_per_serving": 1.6}}
+{"id": "usda-169910", "name": "Mangos, raw", "label": {"serving_size_g": 100, "ingredients": "mangos", "protein_g_per_serving": 0.8}}
+{"id": "usda-171018", "name": "Margarine, regular, hard, soybean", "label": {"serving_size_g": 100, "ingredients": "margarine", "protein_g_per_serving": 0.9}}
+{"id": "usda-168819", "name": "Marmalade, orange", "label": {"serving_size_g": 100, "ingredients": "marmalade", "protein_g_per_serving": 0.3}}
+{"id": "usda-169092", "name": "Melons, cantaloupe, raw", "label": {"serving_size_g": 100, "ingredients": "melons", "protein_g_per_serving": 0.8}}
+{"id": "usda-169911", "name": "Melons, honeydew, raw", "label": {"serving_size_g": 100, "ingredients": "melons", "protein_g_per_serving": 0.5}}
+{"id": "usda-171264", "name": "Milk substitutes, fluid, with lauric acid oil", "label": {"serving_size_g": 100, "ingredients": "milk substitutes", "protein_g_per_serving": 1.8}}
+{"id": "usda-171279", "name": "Milk, human, mature, fluid", "label": {"serving_size_g": 100, "ingredients": "milk", "protein_g_per_serving": 1}}
+{"id": "usda-168552", "name": "Mountain yam, hawaii, cooked, steamed, with salt", "label": {"serving_size_g": 100, "ingredients": "mountain yam", "protein_g_per_serving": 1.7}}
+{"id": "usda-168433", "name": "Mountain yam, hawaii, cooked, steamed, without salt", "label": {"serving_size_g": 100, "ingredients": "mountain yam", "protein_g_per_serving": 1.7}}
+{"id": "usda-168432", "name": "Mountain yam, hawaii, raw", "label": {"serving_size_g": 100, "ingredients": "mountain yam", "protein_g_per_serving": 1.3}}
+{"id": "usda-168499", "name": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "mung beans", "protein_g_per_serving": 2}}
+{"id": "usda-169137", "name": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "mung beans", "protein_g_per_serving": 2}}
+{"id": "usda-169254", "name": "Mushrooms, canned, drained solids", "label": {"serving_size_g": 100, "ingredients": "mushrooms", "protein_g_per_serving": 1.9}}
+{"id": "usda-169403", "name": "Mushrooms, maitake, raw", "label": {"serving_size_g": 100, "ingredients": "mushrooms", "protein_g_per_serving": 1.9}}
+{"id": "usda-170097", "name": "Mushrooms, shiitake, cooked, with salt", "label": {"serving_size_g": 100, "ingredients": "mushrooms", "protein_g_per_serving": 1.6}}
+{"id": "usda-168437", "name": "Mushrooms, shiitake, cooked, without salt", "label": {"serving_size_g": 100, "ingredients": "mushrooms", "protein_g_per_serving": 1.6}}
+{"id": "usda-169914", "name": "Nectarines, raw", "label": {"serving_size_g": 100, "ingredients": "nectarines", "protein_g_per_serving": 1.1}}
+{"id": "usda-174258", "name": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated", "label": {"serving_size_g": 100, "ingredients": "noodles", "protein_g_per_serving": 0.2}}
+{"id": "usda-169388", "name": "Nopales, cooked, without salt", "label": {"serving_size_g": 100, "ingredients": "nopales", "protein_g_per_serving": 1.4}}
+{"id": "usda-168571", "name": "Nopales, raw", "label": {"serving_size_g": 100, "ingredients": "nopales", "protein_g_per_serving": 1.3}}
+{"id": "usda-170168", "name": "Nuts, chestnuts, european, boiled and steamed", "label": {"serving_size_g": 100, "ingredients": "nuts", "protein_g_per_serving": 2}}
+{"id": "usda-170575", "name": "Nuts, chestnuts, european, raw, peeled", "label": {"serving_size_g": 100, "ingredients": "nuts", "protein_g_per_serving": 1.6}}
+{"id": "usda-168589", "name": "Nuts, chestnuts, japanese, boiled and steamed", "label": {"serving_size_g": 100, "ingredients": "nuts", "protein_g_per_serving": 0.8}}
+{"id": "usda-170171", "name": "Nuts, coconut cream, canned, sweetened", "label": {"serving_size_g": 100, "ingredients": "nuts", "protein_g_per_serving": 1.2}}
+{"id": "usda-170173", "name": "Nuts, coconut milk, canned", "label": {"serving_size_g": 100, "ingredients": "nuts", "protein_g_per_serving": 2}}
+{"id": "usda-169409", "name": "Nuts, coconut milk, frozen", "label": {"serving_size_g": 100, "ingredients": "nuts", "protein_g_per_serving": 1.6}}
+{"id": "usda-170174", "name": "Nuts, coconut water", "label": {"serving_size_g": 100, "ingredients": "nuts", "protein_g_per_serving": 0.7}}
+{"id": "usda-171031", "name": "Oil, almond", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171032", "name": "Oil, apricot kernel", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171428", "name": "Oil, babassu", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171421", "name": "Oil, cocoa butter", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171412", "name": "Oil, coconut", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171029", "name": "Oil, corn, industrial and retail, all purpose salad or cooking", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171024", "name": "Oil, cottonseed, salad or cooking", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173563", "name": "Oil, cupu assu", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171028", "name": "Oil, grapeseed", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171427", "name": "Oil, hazelnut", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172367", "name": "Oil, industrial, coconut (hydrogenated), used for whipped toppings and coffee whiteners", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172365", "name": "Oil, industrial, coconut, confection fat, typical basis for ice cream coatings", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173595", "name": "Oil, industrial, coconut, principal uses candy coatings, oil sprays, roasting nuts", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172368", "name": "Oil, industrial, palm and palm kernel, filling fat", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172366", "name": "Oil, industrial, palm kernel (hydrogenated) , used for whipped toppings, non-dairy", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173602", "name": "Oil, industrial, palm kernel (hydrogenated), confection fat, intermediate grade product", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173601", "name": "Oil, industrial, palm kernel (hydrogenated), confection fat, uses similar to 95 degree hard butter", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173603", "name": "Oil, industrial, palm kernel (hydrogenated), filling fat", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173600", "name": "Oil, industrial, palm kernel, confection fat, uses similar to high quality cocoa butter", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172362", "name": "Oil, industrial, soy ( partially hydrogenated), all purpose", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172363", "name": "Oil, industrial, soy (partially hydrogenated ) and soy (winterized), pourable clear fry", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173604", "name": "Oil, industrial, soy (partially hydrogenated ), palm, principal uses icings and fillings", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172364", "name": "Oil, industrial, soy (partially hydrogenated) and cottonseed, principal use as a tortilla shortening", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172361", "name": "Oil, industrial, soy (partially hydrogenated), multiuse for non-dairy butter flavor", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173596", "name": "Oil, industrial, soy (partially hydrogenated), principal uses popcorn and flavoring vegetables", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173598", "name": "Oil, industrial, soy, refined, for woks and light frying", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172335", "name": "Oil, nutmeg butter", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171413", "name": "Oil, olive, salad or cooking", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171015", "name": "Oil, palm", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171410", "name": "Oil, peanut, salad or cooking", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171423", "name": "Oil, poppyseed", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171013", "name": "Oil, rice bran", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171027", "name": "Oil, safflower, salad or cooking, high oleic", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171026", "name": "Oil, safflower, salad or cooking, linoleic", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171016", "name": "Oil, sesame, salad or cooking", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171429", "name": "Oil, sheanut", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171012", "name": "Oil, soybean, salad or cooking", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171411", "name": "Oil, soybean, salad or cooking", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173565", "name": "Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171017", "name": "Oil, sunflower, linoleic", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171025", "name": "Oil, sunflower, linoleic", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172328", "name": "Oil, sunflower, linoleic", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171425", "name": "Oil, teaseed", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171424", "name": "Oil, tomatoseed", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-173570", "name": "Oil, ucuhuba butter", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-172370", "name": "Oil, vegetable, soybean, refined", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171030", "name": "Oil, walnut", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-171014", "name": "Oil, wheat germ", "label": {"serving_size_g": 100, "ingredients": "oil", "protein_g_per_serving": 0}}
+{"id": "usda-170098", "name": "Okra, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "okra", "protein_g_per_serving": 1.9}}
+{"id": "usda-169261", "name": "Okra, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "okra", "protein_g_per_serving": 1.9}}
+{"id": "usda-170099", "name": "Okra, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "okra", "protein_g_per_serving": 1.6}}
+{"id": "usda-169263", "name": "Okra, frozen, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "okra", "protein_g_per_serving": 1.6}}
+{"id": "usda-169262", "name": "Okra, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "okra", "protein_g_per_serving": 1.7}}
+{"id": "usda-169260", "name": "Okra, raw", "label": {"serving_size_g": 100, "ingredients": "okra", "protein_g_per_serving": 1.9}}
+{"id": "usda-169094", "name": "Olives, ripe, canned", "label": {"serving_size_g": 100, "ingredients": "olives", "protein_g_per_serving": 0.8}}
+{"id": "usda-169095", "name": "Olives, ripe, canned", "label": {"serving_size_g": 100, "ingredients": "olives", "protein_g_per_serving": 1}}
+{"id": "usda-170003", "name": "Onions, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.9}}
+{"id": "usda-170100", "name": "Onions, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 1.4}}
+{"id": "usda-170001", "name": "Onions, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 1.4}}
+{"id": "usda-170101", "name": "Onions, frozen, chopped, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.8}}
+{"id": "usda-170411", "name": "Onions, frozen, chopped, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.8}}
+{"id": "usda-170410", "name": "Onions, frozen, chopped, unprepared", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.8}}
+{"id": "usda-170507", "name": "Onions, frozen, whole, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.7}}
+{"id": "usda-170413", "name": "Onions, frozen, whole, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.7}}
+{"id": "usda-170412", "name": "Onions, frozen, whole, unprepared", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.9}}
+{"id": "usda-170000", "name": "Onions, raw", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 1.1}}
+{"id": "usda-170005", "name": "Onions, spring or scallions (includes tops and bulb), raw", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 1.8}}
+{"id": "usda-170008", "name": "Onions, sweet, raw", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 0.8}}
+{"id": "usda-170007", "name": "Onions, welsh, raw", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 1.9}}
+{"id": "usda-170004", "name": "Onions, yellow, sauteed", "label": {"serving_size_g": 100, "ingredients": "onions", "protein_g_per_serving": 1}}
+{"id": "usda-169099", "name": "Orange juice, canned, unsweetened", "label": {"serving_size_g": 100, "ingredients": "orange juice", "protein_g_per_serving": 0.7}}
+{"id": "usda-169100", "name": "Orange juice, chilled, includes from concentrate", "label": {"serving_size_g": 100, "ingredients": "orange juice", "protein_g_per_serving": 0.7}}
+{"id": "usda-169920", "name": "Orange juice, chilled, includes from concentrate, with added calcium", "label": {"serving_size_g": 100, "ingredients": "orange juice", "protein_g_per_serving": 0.7}}
+{"id": "usda-169101", "name": "Orange juice, chilled, includes from concentrate, with added calcium and vitamin D", "label": {"serving_size_g": 100, "ingredients": "orange juice", "protein_g_per_serving": 0.7}}
+{"id": "usda-167794", "name": "Orange juice, chilled, includes from concentrate, with added calcium and vitamins A, D, E", "label": {"serving_size_g": 100, "ingredients": "orange juice", "protein_g_per_serving": 0.7}}
+{"id": "usda-169098", "name": "Orange juice, raw", "label": {"serving_size_g": 100, "ingredients": "orange juice", "protein_g_per_serving": 0.7}}
+{"id": "usda-169097", "name": "Oranges, raw, all commercial varieties", "label": {"serving_size_g": 100, "ingredients": "oranges", "protein_g_per_serving": 0.9}}
+{"id": "usda-169916", "name": "Oranges, raw, California, valencias", "label": {"serving_size_g": 100, "ingredients": "oranges", "protein_g_per_serving": 1}}
+{"id": "usda-169918", "name": "Oranges, raw, Florida", "label": {"serving_size_g": 100, "ingredients": "oranges", "protein_g_per_serving": 0.7}}
+{"id": "usda-169917", "name": "Oranges, raw, navels", "label": {"serving_size_g": 100, "ingredients": "oranges", "protein_g_per_serving": 0.9}}
+{"id": "usda-169919", "name": "Oranges, raw, with peel", "label": {"serving_size_g": 100, "ingredients": "oranges", "protein_g_per_serving": 1.3}}
+{"id": "usda-169926", "name": "Papayas, raw", "label": {"serving_size_g": 100, "ingredients": "papayas", "protein_g_per_serving": 0.5}}
+{"id": "usda-169113", "name": "Peaches, canned, extra heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.5}}
+{"id": "usda-169931", "name": "Peaches, canned, extra light syrup, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.4}}
+{"id": "usda-169112", "name": "Peaches, canned, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.5}}
+{"id": "usda-168181", "name": "Peaches, canned, heavy syrup, drained", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.5}}
+{"id": "usda-169930", "name": "Peaches, canned, juice pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.6}}
+{"id": "usda-169111", "name": "Peaches, canned, light syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.5}}
+{"id": "usda-169929", "name": "Peaches, canned, water pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.4}}
+{"id": "usda-169933", "name": "Peaches, dehydrated (low-moisture), sulfured, stewed", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 2}}
+{"id": "usda-169115", "name": "Peaches, dried, sulfured, stewed, with added sugar", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 1.1}}
+{"id": "usda-169935", "name": "Peaches, dried, sulfured, stewed, without added sugar", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 1.2}}
+{"id": "usda-169116", "name": "Peaches, frozen, sliced, sweetened", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.6}}
+{"id": "usda-169114", "name": "Peaches, spiced, canned, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.4}}
+{"id": "usda-169928", "name": "Peaches, yellow, raw", "label": {"serving_size_g": 100, "ingredients": "peaches", "protein_g_per_serving": 0.9}}
+{"id": "usda-168177", "name": "Pears, asian, raw", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.5}}
+{"id": "usda-169120", "name": "Pears, canned, extra heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.2}}
+{"id": "usda-169937", "name": "Pears, canned, extra light syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.3}}
+{"id": "usda-169939", "name": "Pears, canned, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.2}}
+{"id": "usda-169936", "name": "Pears, canned, juice pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.3}}
+{"id": "usda-169938", "name": "Pears, canned, light syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.2}}
+{"id": "usda-169119", "name": "Pears, canned, water pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.2}}
+{"id": "usda-169123", "name": "Pears, dried, sulfured, stewed, with added sugar", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.9}}
+{"id": "usda-169122", "name": "Pears, dried, sulfured, stewed, without added sugar", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.9}}
+{"id": "usda-169121", "name": "Pears, dried, sulfured, uncooked", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 1.9}}
+{"id": "usda-169118", "name": "Pears, raw", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.4}}
+{"id": "usda-167776", "name": "Pears, raw, bartlett", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.4}}
+{"id": "usda-167778", "name": "Pears, raw, bosc", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.4}}
+{"id": "usda-167779", "name": "Pears, raw, green anjou", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.4}}
+{"id": "usda-167777", "name": "Pears, raw, red anjou", "label": {"serving_size_g": 100, "ingredients": "pears", "protein_g_per_serving": 0.3}}
+{"id": "usda-168577", "name": "Peppers, chili, green, canned", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.7}}
+{"id": "usda-170426", "name": "Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-170497", "name": "Peppers, hot chili, green, raw", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 2}}
+{"id": "usda-170107", "name": "Peppers, hot chili, red, canned, excluding seeds, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-170106", "name": "Peppers, hot chili, red, raw", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1.9}}
+{"id": "usda-168578", "name": "Peppers, hungarian, raw", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.8}}
+{"id": "usda-170080", "name": "Peppers, jalapeno, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-170429", "name": "Peppers, sweet, green, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.8}}
+{"id": "usda-170109", "name": "Peppers, sweet, green, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-170428", "name": "Peppers, sweet, green, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-170023", "name": "Peppers, sweet, green, frozen, chopped, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1}}
+{"id": "usda-170516", "name": "Peppers, sweet, green, frozen, chopped, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1}}
+{"id": "usda-170022", "name": "Peppers, sweet, green, frozen, chopped, unprepared", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1.1}}
+{"id": "usda-170427", "name": "Peppers, sweet, green, raw", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-170024", "name": "Peppers, sweet, green, sauteed", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.8}}
+{"id": "usda-168546", "name": "Peppers, sweet, red, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.8}}
+{"id": "usda-170515", "name": "Peppers, sweet, red, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-170110", "name": "Peppers, sweet, red, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 0.9}}
+{"id": "usda-168549", "name": "Peppers, sweet, red, frozen, chopped, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1}}
+{"id": "usda-168548", "name": "Peppers, sweet, red, frozen, chopped, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1}}
+{"id": "usda-168547", "name": "Peppers, sweet, red, frozen, chopped, unprepared", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1.1}}
+{"id": "usda-170108", "name": "Peppers, sweet, red, raw", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1}}
+{"id": "usda-168550", "name": "Peppers, sweet, red, sauteed", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1}}
+{"id": "usda-169383", "name": "Peppers, sweet, yellow, raw", "label": {"serving_size_g": 100, "ingredients": "peppers", "protein_g_per_serving": 1}}
+{"id": "usda-169942", "name": "Persimmons, japanese, dried", "label": {"serving_size_g": 100, "ingredients": "persimmons", "protein_g_per_serving": 1.4}}
+{"id": "usda-169941", "name": "Persimmons, japanese, raw", "label": {"serving_size_g": 100, "ingredients": "persimmons", "protein_g_per_serving": 0.6}}
+{"id": "usda-169943", "name": "Persimmons, native, raw", "label": {"serving_size_g": 100, "ingredients": "persimmons", "protein_g_per_serving": 0.8}}
+{"id": "usda-169386", "name": "Pickle relish, hamburger", "label": {"serving_size_g": 100, "ingredients": "pickle relish", "protein_g_per_serving": 0.6}}
+{"id": "usda-168560", "name": "Pickle relish, hot dog", "label": {"serving_size_g": 100, "ingredients": "pickle relish", "protein_g_per_serving": 1.5}}
+{"id": "usda-168561", "name": "Pickle relish, sweet", "label": {"serving_size_g": 100, "ingredients": "pickle relish", "protein_g_per_serving": 0.4}}
+{"id": "usda-168558", "name": "Pickles, cucumber, dill or kosher dill", "label": {"serving_size_g": 100, "ingredients": "pickles", "protein_g_per_serving": 0.5}}
+{"id": "usda-168563", "name": "Pickles, cucumber, dill, reduced sodium", "label": {"serving_size_g": 100, "ingredients": "pickles", "protein_g_per_serving": 0.5}}
+{"id": "usda-169379", "name": "Pickles, cucumber, sour", "label": {"serving_size_g": 100, "ingredients": "pickles", "protein_g_per_serving": 0.3}}
+{"id": "usda-168562", "name": "Pickles, cucumber, sour, low sodium", "label": {"serving_size_g": 100, "ingredients": "pickles", "protein_g_per_serving": 0.3}}
+{"id": "usda-169378", "name": "Pickles, cucumber, sweet", "label": {"serving_size_g": 100, "ingredients": "pickles", "protein_g_per_serving": 0.6}}
+{"id": "usda-169380", "name": "Pickles, cucumber, sweet, low sodium", "label": {"serving_size_g": 100, "ingredients": "pickles", "protein_g_per_serving": 0.4}}
+{"id": "usda-168824", "name": "Pie fillings, canned, cherry", "label": {"serving_size_g": 100, "ingredients": "pie fillings", "protein_g_per_serving": 0.4}}
+{"id": "usda-175011", "name": "Pie, apple, commercially prepared, enriched flour", "label": {"serving_size_g": 100, "ingredients": "pie", "protein_g_per_serving": 1.9}}
+{"id": "usda-173239", "name": "Pie, apple, commercially prepared, unenriched flour", "label": {"serving_size_g": 100, "ingredients": "pie", "protein_g_per_serving": 1.9}}
+{"id": "usda-172778", "name": "Pie, blueberry, commercially prepared", "label": {"serving_size_g": 100, "ingredients": "pie", "protein_g_per_serving": 1.8}}
+{"id": "usda-172780", "name": "Pie, cherry, commercially prepared", "label": {"serving_size_g": 100, "ingredients": "pie", "protein_g_per_serving": 2}}
+{"id": "usda-172785", "name": "Pie, lemon meringue, commercially prepared", "label": {"serving_size_g": 100, "ingredients": "pie", "protein_g_per_serving": 1.5}}
+{"id": "usda-175020", "name": "Pie, peach", "label": {"serving_size_g": 100, "ingredients": "pie", "protein_g_per_serving": 1.9}}
+{"id": "usda-168559", "name": "Pimento, canned", "label": {"serving_size_g": 100, "ingredients": "pimento", "protein_g_per_serving": 1.1}}
+{"id": "usda-169945", "name": "Pineapple, canned, extra heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pineapple", "protein_g_per_serving": 0.3}}
+{"id": "usda-169944", "name": "Pineapple, canned, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pineapple", "protein_g_per_serving": 0.4}}
+{"id": "usda-169126", "name": "Pineapple, canned, juice pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pineapple", "protein_g_per_serving": 0.4}}
+{"id": "usda-169127", "name": "Pineapple, canned, light syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pineapple", "protein_g_per_serving": 0.4}}
+{"id": "usda-169125", "name": "Pineapple, canned, water pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "pineapple", "protein_g_per_serving": 0.4}}
+{"id": "usda-169946", "name": "Pineapple, frozen, chunks, sweetened", "label": {"serving_size_g": 100, "ingredients": "pineapple", "protein_g_per_serving": 0.4}}
+{"id": "usda-169124", "name": "Pineapple, raw, all varieties", "label": {"serving_size_g": 100, "ingredients": "pineapple", "protein_g_per_serving": 0.5}}
+{"id": "usda-168216", "name": "Plantains, green, boiled", "label": {"serving_size_g": 100, "ingredients": "plantains", "protein_g_per_serving": 1.1}}
+{"id": "usda-169131", "name": "Plantains, yellow, baked", "label": {"serving_size_g": 100, "ingredients": "plantains", "protein_g_per_serving": 1.5}}
+{"id": "usda-169133", "name": "Plums, canned, purple, extra heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "plums", "protein_g_per_serving": 0.4}}
+{"id": "usda-169132", "name": "Plums, canned, purple, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "plums", "protein_g_per_serving": 0.4}}
+{"id": "usda-169951", "name": "Plums, canned, purple, juice pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "plums", "protein_g_per_serving": 0.5}}
+{"id": "usda-169952", "name": "Plums, canned, purple, light syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "plums", "protein_g_per_serving": 0.4}}
+{"id": "usda-169950", "name": "Plums, canned, purple, water pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "plums", "protein_g_per_serving": 0.4}}
+{"id": "usda-169949", "name": "Plums, raw", "label": {"serving_size_g": 100, "ingredients": "plums", "protein_g_per_serving": 0.7}}
+{"id": "usda-172087", "name": "POPEYES, Coleslaw", "label": {"serving_size_g": 100, "ingredients": "popeyes", "protein_g_per_serving": 1}}
+{"id": "usda-170047", "name": "Potato puffs, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "potato puffs", "protein_g_per_serving": 1.9}}
+{"id": "usda-170112", "name": "Potatoes, baked, flesh, with salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 2}}
+{"id": "usda-170033", "name": "Potatoes, baked, flesh, without salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 2}}
+{"id": "usda-170114", "name": "Potatoes, boiled, cooked in skin, flesh, with salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.9}}
+{"id": "usda-170438", "name": "Potatoes, boiled, cooked in skin, flesh, without salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.9}}
+{"id": "usda-170520", "name": "Potatoes, boiled, cooked without skin, flesh, with salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.7}}
+{"id": "usda-170440", "name": "Potatoes, boiled, cooked without skin, flesh, without salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.7}}
+{"id": "usda-170444", "name": "Potatoes, canned, drained solids", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.4}}
+{"id": "usda-170443", "name": "Potatoes, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.2}}
+{"id": "usda-170116", "name": "Potatoes, frozen, whole, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 2}}
+{"id": "usda-170049", "name": "Potatoes, frozen, whole, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 2}}
+{"id": "usda-170446", "name": "Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.8}}
+{"id": "usda-169372", "name": "Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and margarine added", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.9}}
+{"id": "usda-170493", "name": "Potatoes, mashed, home-prepared, whole milk added", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.9}}
+{"id": "usda-168555", "name": "Potatoes, mashed, home-prepared, whole milk and butter added", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.9}}
+{"id": "usda-170037", "name": "Potatoes, mashed, home-prepared, whole milk and margarine added", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 2}}
+{"id": "usda-169768", "name": "Potatoes, mashed, ready-to-eat", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 2}}
+{"id": "usda-170453", "name": "Potatoes, o'brien, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.8}}
+{"id": "usda-170029", "name": "Potatoes, red, flesh and skin, raw", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.9}}
+{"id": "usda-170028", "name": "Potatoes, white, flesh and skin, raw", "label": {"serving_size_g": 100, "ingredients": "potatoes", "protein_g_per_serving": 1.7}}
+{"id": "usda-169650", "name": "Puddings, banana, dry mix, regular", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0}}
+{"id": "usda-170241", "name": "Puddings, banana, dry mix, regular, with added oil", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0}}
+{"id": "usda-169654", "name": "Puddings, lemon, dry mix, instant", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0}}
+{"id": "usda-168831", "name": "Puddings, lemon, dry mix, regular", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0.1}}
+{"id": "usda-170242", "name": "Puddings, lemon, dry mix, regular, with added oil, potassium, sodium", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0.1}}
+{"id": "usda-169606", "name": "Puddings, tapioca, dry mix", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0.1}}
+{"id": "usda-170243", "name": "Puddings, tapioca, dry mix, with no added salt", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0.1}}
+{"id": "usda-169609", "name": "Puddings, vanilla, dry mix, regular", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0.3}}
+{"id": "usda-170644", "name": "Puddings, vanilla, dry mix, regular, with added oil", "label": {"serving_size_g": 100, "ingredients": "puddings", "protein_g_per_serving": 0.3}}
+{"id": "usda-169273", "name": "Pumpkin pie mix, canned", "label": {"serving_size_g": 100, "ingredients": "pumpkin pie mix", "protein_g_per_serving": 1.1}}
+{"id": "usda-170527", "name": "Pumpkin, canned, with salt", "label": {"serving_size_g": 100, "ingredients": "pumpkin", "protein_g_per_serving": 1.1}}
+{"id": "usda-168450", "name": "Pumpkin, canned, without salt", "label": {"serving_size_g": 100, "ingredients": "pumpkin", "protein_g_per_serving": 1.1}}
+{"id": "usda-170526", "name": "Pumpkin, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "pumpkin", "protein_g_per_serving": 0.7}}
+{"id": "usda-168449", "name": "Pumpkin, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "pumpkin", "protein_g_per_serving": 0.7}}
+{"id": "usda-168448", "name": "Pumpkin, raw", "label": {"serving_size_g": 100, "ingredients": "pumpkin", "protein_g_per_serving": 1}}
+{"id": "usda-170121", "name": "Purslane, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "purslane", "protein_g_per_serving": 1.5}}
+{"id": "usda-169275", "name": "Purslane, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "purslane", "protein_g_per_serving": 1.5}}
+{"id": "usda-168564", "name": "Radicchio, raw", "label": {"serving_size_g": 100, "ingredients": "radicchio", "protein_g_per_serving": 1.4}}
+{"id": "usda-170122", "name": "Radishes, oriental, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "radishes", "protein_g_per_serving": 0.7}}
+{"id": "usda-168452", "name": "Radishes, oriental, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "radishes", "protein_g_per_serving": 0.7}}
+{"id": "usda-168451", "name": "Radishes, oriental, raw", "label": {"serving_size_g": 100, "ingredients": "radishes", "protein_g_per_serving": 0.6}}
+{"id": "usda-169276", "name": "Radishes, raw", "label": {"serving_size_g": 100, "ingredients": "radishes", "protein_g_per_serving": 0.7}}
+{"id": "usda-170081", "name": "Radishes, white icicle, raw", "label": {"serving_size_g": 100, "ingredients": "radishes", "protein_g_per_serving": 1.1}}
+{"id": "usda-168914", "name": "Rice noodles, cooked", "label": {"serving_size_g": 100, "ingredients": "rice noodles", "protein_g_per_serving": 1.8}}
+{"id": "usda-169711", "name": "Rice, white, glutinous, unenriched, cooked", "label": {"serving_size_g": 100, "ingredients": "rice", "protein_g_per_serving": 2}}
+{"id": "usda-171404", "name": "Salad dressing, french dressing, reduced fat", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.6}}
+{"id": "usda-171416", "name": "Salad dressing, french, home recipe", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.1}}
+{"id": "usda-171417", "name": "Salad dressing, home recipe, vinegar and oil", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0}}
+{"id": "usda-171405", "name": "Salad dressing, italian dressing, commercial, reduced fat", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.4}}
+{"id": "usda-171019", "name": "Salad dressing, italian dressing, commercial, regular", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.4}}
+{"id": "usda-171403", "name": "Salad dressing, mayonnaise type, regular, with salt", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.7}}
+{"id": "usda-171406", "name": "Salad dressing, mayonnaise, imitation, soybean", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.3}}
+{"id": "usda-171408", "name": "Salad dressing, mayonnaise, imitation, soybean without cholesterol", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.1}}
+{"id": "usda-173594", "name": "Salad dressing, mayonnaise, light", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.4}}
+{"id": "usda-171009", "name": "Salad dressing, mayonnaise, regular", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 1}}
+{"id": "usda-171010", "name": "Salad dressing, mayonnaise, soybean and safflower oil, with salt", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 1.1}}
+{"id": "usda-171007", "name": "Salad dressing, russian dressing, low calorie", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.5}}
+{"id": "usda-171008", "name": "Salad dressing, thousand island dressing, reduced fat", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 0.8}}
+{"id": "usda-171402", "name": "Salad dressing, thousand island, commercial, regular", "label": {"serving_size_g": 100, "ingredients": "salad dressing", "protein_g_per_serving": 1.1}}
+{"id": "usda-173468", "name": "Salt, table", "label": {"serving_size_g": 100, "ingredients": "salt", "protein_g_per_serving": 0}}
+{"id": "usda-171409", "name": "Sandwich spread, with chopped pickle, regular, unspecified oils", "label": {"serving_size_g": 100, "ingredients": "sandwich spread", "protein_g_per_serving": 0.9}}
+{"id": "usda-167759", "name": "Sapodilla, raw", "label": {"serving_size_g": 100, "ingredients": "sapodilla", "protein_g_per_serving": 0.4}}
+{"id": "usda-167760", "name": "Sapote, mamey, raw", "label": {"serving_size_g": 100, "ingredients": "sapote", "protein_g_per_serving": 1.5}}
+{"id": "usda-174527", "name": "Sauce, ready-to-serve, pepper or hot", "label": {"serving_size_g": 100, "ingredients": "sauce", "protein_g_per_serving": 0.5}}
+{"id": "usda-174528", "name": "Sauce, ready-to-serve, pepper, TABASCO", "label": {"serving_size_g": 100, "ingredients": "sauce", "protein_g_per_serving": 1.3}}
+{"id": "usda-169279", "name": "Sauerkraut, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "sauerkraut", "protein_g_per_serving": 0.9}}
+{"id": "usda-167603", "name": "Seaweed, Canadian Cultivated EMI-TSUNOMATA, rehydrated", "label": {"serving_size_g": 100, "ingredients": "seaweed", "protein_g_per_serving": 1.9}}
+{"id": "usda-168457", "name": "Seaweed, kelp, raw", "label": {"serving_size_g": 100, "ingredients": "seaweed", "protein_g_per_serving": 1.7}}
+{"id": "usda-169368", "name": "Sesbania flower, cooked, steamed, with salt", "label": {"serving_size_g": 100, "ingredients": "sesbania flower", "protein_g_per_serving": 1.1}}
+{"id": "usda-169281", "name": "Sesbania flower, cooked, steamed, without salt", "label": {"serving_size_g": 100, "ingredients": "sesbania flower", "protein_g_per_serving": 1.1}}
+{"id": "usda-168459", "name": "Sesbania flower, raw", "label": {"serving_size_g": 100, "ingredients": "sesbania flower", "protein_g_per_serving": 1.3}}
+{"id": "usda-172329", "name": "Shortening bread, soybean (hydrogenated) and cottonseed", "label": {"serving_size_g": 100, "ingredients": "shortening bread", "protein_g_per_serving": 0}}
+{"id": "usda-172330", "name": "Shortening cake mix, soybean (hydrogenated) and cottonseed", "label": {"serving_size_g": 100, "ingredients": "shortening cake mix", "protein_g_per_serving": 0}}
+{"id": "usda-173568", "name": "Shortening confectionery, coconut (hydrogenated) and or palm kernel", "label": {"serving_size_g": 100, "ingredients": "shortening confectionery", "protein_g_per_serving": 0}}
+{"id": "usda-173567", "name": "Shortening frying (heavy duty), beef tallow and cottonseed", "label": {"serving_size_g": 100, "ingredients": "shortening frying (heavy duty)", "protein_g_per_serving": 0}}
+{"id": "usda-172331", "name": "Shortening frying (heavy duty), palm", "label": {"serving_size_g": 100, "ingredients": "shortening frying (heavy duty)", "protein_g_per_serving": 0}}
+{"id": "usda-172333", "name": "Shortening frying (heavy duty), soybean (hydrogenated), linoleic", "label": {"serving_size_g": 100, "ingredients": "shortening frying (heavy duty)", "protein_g_per_serving": 0}}
+{"id": "usda-172332", "name": "Shortening household soybean (hydrogenated) and palm", "label": {"serving_size_g": 100, "ingredients": "shortening household soybean (hydrogenated) and palm", "protein_g_per_serving": 0}}
+{"id": "usda-173566", "name": "Shortening industrial, lard and vegetable oil", "label": {"serving_size_g": 100, "ingredients": "shortening industrial", "protein_g_per_serving": 0}}
+{"id": "usda-173569", "name": "Shortening industrial, soybean (hydrogenated) and cottonseed", "label": {"serving_size_g": 100, "ingredients": "shortening industrial", "protein_g_per_serving": 0}}
+{"id": "usda-172334", "name": "Shortening, confectionery, fractionated palm", "label": {"serving_size_g": 100, "ingredients": "shortening", "protein_g_per_serving": 0}}
+{"id": "usda-172327", "name": "Shortening, household, lard and vegetable oil", "label": {"serving_size_g": 100, "ingredients": "shortening", "protein_g_per_serving": 0}}
+{"id": "usda-171011", "name": "Shortening, household, soybean (partially hydrogenated)-cottonseed", "label": {"serving_size_g": 100, "ingredients": "shortening", "protein_g_per_serving": 0}}
+{"id": "usda-173607", "name": "Shortening, industrial, soy (partially hydrogenated ) for baking and confections", "label": {"serving_size_g": 100, "ingredients": "shortening", "protein_g_per_serving": 0}}
+{"id": "usda-173597", "name": "Shortening, industrial, soy (partially hydrogenated), pourable liquid fry shortening", "label": {"serving_size_g": 100, "ingredients": "shortening", "protein_g_per_serving": 0}}
+{"id": "usda-171537", "name": "Soup, cream of asparagus, canned, condensed", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.8}}
+{"id": "usda-174549", "name": "Soup, cream of asparagus, canned, prepared with equal volume water", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 0.9}}
+{"id": "usda-171540", "name": "Soup, cream of celery, canned, condensed", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.3}}
+{"id": "usda-172907", "name": "Soup, cream of celery, canned, prepared with equal volume water", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 0.7}}
+{"id": "usda-171155", "name": "Soup, cream of mushroom, canned, condensed", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.4}}
+{"id": "usda-171158", "name": "Soup, cream of potato, canned, condensed", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.5}}
+{"id": "usda-172917", "name": "Soup, cream of potato, canned, prepared with equal volume water", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 0.7}}
+{"id": "usda-174807", "name": "Soup, egg drop, Chinese restaurant", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.2}}
+{"id": "usda-172913", "name": "Soup, minestrone, canned, prepared with equal volume water", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.8}}
+{"id": "usda-172881", "name": "Soup, tomato bisque, canned, condensed", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.8}}
+{"id": "usda-171574", "name": "Soup, tomato bisque, canned, prepared with equal volume water", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 0.9}}
+{"id": "usda-171161", "name": "Soup, vegetarian vegetable, canned, condensed", "label": {"serving_size_g": 100, "ingredients": "soup", "protein_g_per_serving": 1.7}}
+{"id": "usda-170125", "name": "Squash, summer, all varieties, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.9}}
+{"id": "usda-170488", "name": "Squash, summer, all varieties, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.9}}
+{"id": "usda-170487", "name": "Squash, summer, all varieties, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-168466", "name": "Squash, summer, crookneck and straightneck, canned, drained, solid, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.6}}
+{"id": "usda-170126", "name": "Squash, summer, crookneck and straightneck, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-168465", "name": "Squash, summer, crookneck and straightneck, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-170532", "name": "Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.3}}
+{"id": "usda-168468", "name": "Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.3}}
+{"id": "usda-168467", "name": "Squash, summer, crookneck and straightneck, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.8}}
+{"id": "usda-168464", "name": "Squash, summer, crookneck and straightneck, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-170533", "name": "Squash, summer, scallop, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-169290", "name": "Squash, summer, scallop, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-169289", "name": "Squash, summer, scallop, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-170534", "name": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.1}}
+{"id": "usda-169292", "name": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.1}}
+{"id": "usda-170535", "name": "Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-168470", "name": "Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-168469", "name": "Squash, summer, zucchini, includes skin, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-169291", "name": "Squash, summer, zucchini, includes skin, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-168471", "name": "Squash, summer, zucchini, italian style, canned", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-170128", "name": "Squash, winter, acorn, cooked, baked, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.1}}
+{"id": "usda-169293", "name": "Squash, winter, acorn, cooked, baked, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.1}}
+{"id": "usda-170129", "name": "Squash, winter, acorn, cooked, boiled, mashed, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.7}}
+{"id": "usda-169294", "name": "Squash, winter, acorn, cooked, boiled, mashed, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.7}}
+{"id": "usda-168472", "name": "Squash, winter, acorn, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.8}}
+{"id": "usda-170127", "name": "Squash, winter, all varieties, cooked, baked, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.9}}
+{"id": "usda-170490", "name": "Squash, winter, all varieties, cooked, baked, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.9}}
+{"id": "usda-170489", "name": "Squash, winter, all varieties, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-170130", "name": "Squash, winter, butternut, cooked, baked, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.9}}
+{"id": "usda-169296", "name": "Squash, winter, butternut, cooked, baked, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.9}}
+{"id": "usda-170536", "name": "Squash, winter, butternut, frozen, cooked, boiled, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-168474", "name": "Squash, winter, butternut, frozen, cooked, boiled, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.2}}
+{"id": "usda-168473", "name": "Squash, winter, butternut, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.8}}
+{"id": "usda-169295", "name": "Squash, winter, butternut, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1}}
+{"id": "usda-170538", "name": "Squash, winter, hubbard, cooked, boiled, mashed, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.5}}
+{"id": "usda-169297", "name": "Squash, winter, hubbard, cooked, boiled, mashed, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 1.5}}
+{"id": "usda-168475", "name": "Squash, winter, hubbard, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 2}}
+{"id": "usda-170539", "name": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, with salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.7}}
+{"id": "usda-169299", "name": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.7}}
+{"id": "usda-169298", "name": "Squash, winter, spaghetti, raw", "label": {"serving_size_g": 100, "ingredients": "squash", "protein_g_per_serving": 0.6}}
+{"id": "usda-168172", "name": "Strawberries, canned, heavy syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "strawberries", "protein_g_per_serving": 0.6}}
+{"id": "usda-168174", "name": "Strawberries, frozen, sweetened, sliced", "label": {"serving_size_g": 100, "ingredients": "strawberries", "protein_g_per_serving": 0.5}}
+{"id": "usda-168173", "name": "Strawberries, frozen, unsweetened", "label": {"serving_size_g": 100, "ingredients": "strawberries", "protein_g_per_serving": 0.4}}
+{"id": "usda-167762", "name": "Strawberries, raw", "label": {"serving_size_g": 100, "ingredients": "strawberries", "protein_g_per_serving": 0.7}}
+{"id": "usda-169305", "name": "Sweet potato, canned, mashed", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 2}}
+{"id": "usda-170084", "name": "Sweet potato, canned, syrup pack, drained solids", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.3}}
+{"id": "usda-170083", "name": "Sweet potato, canned, syrup pack, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1}}
+{"id": "usda-168485", "name": "Sweet potato, canned, vacuum pack", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.7}}
+{"id": "usda-170134", "name": "Sweet potato, cooked, baked in skin, flesh, with salt", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 2}}
+{"id": "usda-168483", "name": "Sweet potato, cooked, baked in skin, flesh, without salt", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 2}}
+{"id": "usda-168484", "name": "Sweet potato, cooked, boiled, without skin", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.4}}
+{"id": "usda-170541", "name": "Sweet potato, cooked, boiled, without skin, with salt", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.4}}
+{"id": "usda-170088", "name": "Sweet potato, cooked, candied, home-prepared", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 0.9}}
+{"id": "usda-170542", "name": "Sweet potato, frozen, cooked, baked, with salt", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.7}}
+{"id": "usda-169307", "name": "Sweet potato, frozen, cooked, baked, without salt", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.7}}
+{"id": "usda-169306", "name": "Sweet potato, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.7}}
+{"id": "usda-168482", "name": "Sweet potato, raw, unprepared", "label": {"serving_size_g": 100, "ingredients": "sweet potato", "protein_g_per_serving": 1.6}}
+{"id": "usda-170681", "name": "Syrup, NESTLE, chocolate", "label": {"serving_size_g": 100, "ingredients": "syrup", "protein_g_per_serving": 0}}
+{"id": "usda-169925", "name": "Tangerine juice, raw", "label": {"serving_size_g": 100, "ingredients": "tangerine juice", "protein_g_per_serving": 0.5}}
+{"id": "usda-169106", "name": "Tangerines, (mandarin oranges), canned, juice pack", "label": {"serving_size_g": 100, "ingredients": "tangerines", "protein_g_per_serving": 0.6}}
+{"id": "usda-169924", "name": "Tangerines, (mandarin oranges), canned, light syrup pack", "label": {"serving_size_g": 100, "ingredients": "tangerines", "protein_g_per_serving": 0.5}}
+{"id": "usda-169105", "name": "Tangerines, (mandarin oranges), raw", "label": {"serving_size_g": 100, "ingredients": "tangerines", "protein_g_per_serving": 0.8}}
+{"id": "usda-169717", "name": "Tapioca, pearl, dry", "label": {"serving_size_g": 100, "ingredients": "tapioca", "protein_g_per_serving": 0.2}}
+{"id": "usda-170543", "name": "Taro, cooked, with salt", "label": {"serving_size_g": 100, "ingredients": "taro", "protein_g_per_serving": 0.5}}
+{"id": "usda-168486", "name": "Taro, cooked, without salt", "label": {"serving_size_g": 100, "ingredients": "taro", "protein_g_per_serving": 0.5}}
+{"id": "usda-169308", "name": "Taro, raw", "label": {"serving_size_g": 100, "ingredients": "taro", "protein_g_per_serving": 1.5}}
+{"id": "usda-170545", "name": "Tomato juice, canned, without salt added", "label": {"serving_size_g": 100, "ingredients": "tomato juice", "protein_g_per_serving": 0.9}}
+{"id": "usda-170546", "name": "Tomato products, canned, puree, with salt added", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 1.7}}
+{"id": "usda-170460", "name": "Tomato products, canned, puree, without salt added", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 1.7}}
+{"id": "usda-170054", "name": "Tomato products, canned, sauce", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 1.2}}
+{"id": "usda-170085", "name": "Tomato products, canned, sauce, spanish style", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 1.4}}
+{"id": "usda-170055", "name": "Tomato products, canned, sauce, with mushrooms", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 1.5}}
+{"id": "usda-170056", "name": "Tomato products, canned, sauce, with onions", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 1.6}}
+{"id": "usda-170462", "name": "Tomato products, canned, sauce, with onions, green peppers, and celery", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 0.9}}
+{"id": "usda-170463", "name": "Tomato products, canned, sauce, with tomato tidbits", "label": {"serving_size_g": 100, "ingredients": "tomato products", "protein_g_per_serving": 1.3}}
+{"id": "usda-169074", "name": "Tomato sauce, canned, no salt added", "label": {"serving_size_g": 100, "ingredients": "tomato sauce", "protein_g_per_serving": 1.2}}
+{"id": "usda-170501", "name": "Tomatoes, crushed, canned", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 1.6}}
+{"id": "usda-170456", "name": "Tomatoes, green, raw", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 1.2}}
+{"id": "usda-170502", "name": "Tomatoes, orange, raw", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 1.2}}
+{"id": "usda-170051", "name": "Tomatoes, red, ripe, canned, packed in tomato juice", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 0.8}}
+{"id": "usda-170138", "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 0.8}}
+{"id": "usda-170052", "name": "Tomatoes, red, ripe, canned, stewed", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 0.9}}
+{"id": "usda-170050", "name": "Tomatoes, red, ripe, cooked", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 1}}
+{"id": "usda-170089", "name": "Tomatoes, red, ripe, cooked, stewed", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 2}}
+{"id": "usda-170137", "name": "Tomatoes, red, ripe, cooked, with salt", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 1}}
+{"id": "usda-170457", "name": "Tomatoes, red, ripe, raw, year round average", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 0.9}}
+{"id": "usda-170096", "name": "Tomatoes, yellow, raw", "label": {"serving_size_g": 100, "ingredients": "tomatoes", "protein_g_per_serving": 1}}
+{"id": "usda-168841", "name": "Toppings, butterscotch or caramel", "label": {"serving_size_g": 100, "ingredients": "toppings", "protein_g_per_serving": 1.2}}
+{"id": "usda-170467", "name": "Turnip greens, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "turnip greens", "protein_g_per_serving": 1.4}}
+{"id": "usda-170139", "name": "Turnip greens, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "turnip greens", "protein_g_per_serving": 1.1}}
+{"id": "usda-170466", "name": "Turnip greens, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "turnip greens", "protein_g_per_serving": 1.1}}
+{"id": "usda-170061", "name": "Turnip greens, raw", "label": {"serving_size_g": 100, "ingredients": "turnip greens", "protein_g_per_serving": 1.5}}
+{"id": "usda-170547", "name": "Turnips, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "turnips", "protein_g_per_serving": 0.7}}
+{"id": "usda-170058", "name": "Turnips, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "turnips", "protein_g_per_serving": 0.7}}
+{"id": "usda-170548", "name": "Turnips, frozen, cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "turnips", "protein_g_per_serving": 1.5}}
+{"id": "usda-170060", "name": "Turnips, frozen, cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "turnips", "protein_g_per_serving": 1.5}}
+{"id": "usda-170059", "name": "Turnips, frozen, unprepared", "label": {"serving_size_g": 100, "ingredients": "turnips", "protein_g_per_serving": 1}}
+{"id": "usda-170465", "name": "Turnips, raw", "label": {"serving_size_g": 100, "ingredients": "turnips", "protein_g_per_serving": 0.9}}
+{"id": "usda-170063", "name": "Vegetable juice cocktail, canned", "label": {"serving_size_g": 100, "ingredients": "vegetable juice cocktail", "protein_g_per_serving": 0.9}}
+{"id": "usda-170473", "name": "Vegetable juice cocktail, low sodium, canned", "label": {"serving_size_g": 100, "ingredients": "vegetable juice cocktail", "protein_g_per_serving": 0.9}}
+{"id": "usda-171422", "name": "Vegetable oil, palm kernel", "label": {"serving_size_g": 100, "ingredients": "vegetable oil", "protein_g_per_serving": 0}}
+{"id": "usda-170064", "name": "Vegetables, mixed, canned, solids and liquids", "label": {"serving_size_g": 100, "ingredients": "vegetables", "protein_g_per_serving": 1.4}}
+{"id": "usda-173469", "name": "Vinegar, cider", "label": {"serving_size_g": 100, "ingredients": "vinegar", "protein_g_per_serving": 0}}
+{"id": "usda-170474", "name": "Vinespinach, (basella), raw", "label": {"serving_size_g": 100, "ingredients": "vinespinach", "protein_g_per_serving": 1.8}}
+{"id": "usda-167765", "name": "Watermelon, raw", "label": {"serving_size_g": 100, "ingredients": "watermelon", "protein_g_per_serving": 0.6}}
+{"id": "usda-170885", "name": "Whey, acid, fluid", "label": {"serving_size_g": 100, "ingredients": "whey", "protein_g_per_serving": 0.8}}
+{"id": "usda-171282", "name": "Whey, sweet, fluid", "label": {"serving_size_g": 100, "ingredients": "whey", "protein_g_per_serving": 0.9}}
+{"id": "usda-170551", "name": "Yam, cooked, boiled, drained, or baked, with salt", "label": {"serving_size_g": 100, "ingredients": "yam", "protein_g_per_serving": 1.5}}
+{"id": "usda-170072", "name": "Yam, cooked, boiled, drained, or baked, without salt", "label": {"serving_size_g": 100, "ingredients": "yam", "protein_g_per_serving": 1.5}}
+{"id": "usda-170071", "name": "Yam, raw", "label": {"serving_size_g": 100, "ingredients": "yam", "protein_g_per_serving": 1.5}}
+{"id": "usda-169358", "name": "Yambean (jicama), cooked, boiled, drained, with salt", "label": {"serving_size_g": 100, "ingredients": "yambean (jicama)", "protein_g_per_serving": 0.7}}
+{"id": "usda-170074", "name": "Yambean (jicama), cooked, boiled, drained, without salt", "label": {"serving_size_g": 100, "ingredients": "yambean (jicama)", "protein_g_per_serving": 0.7}}
+{"id": "usda-170073", "name": "Yambean (jicama), raw", "label": {"serving_size_g": 100, "ingredients": "yambean (jicama)", "protein_g_per_serving": 0.7}}
