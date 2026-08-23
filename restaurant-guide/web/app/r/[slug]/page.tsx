@@ -1,9 +1,16 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FavoriteHeart } from "@/components/heart";
+import { ScoreDots } from "@/components/score-dots";
 import { ScoreLines } from "@/components/score-lines";
 import { AWARD_DISCLAIMER, loadRestaurants } from "@/lib/restaurants";
-import { courseLabel, groupPicks, loadPkuCard } from "@/lib/pku";
+import type { PkuPick } from "@/lib/types";
+import {
+  courseLabel,
+  groupPicks,
+  loadPkuCard,
+  splitHighlightedPicks,
+} from "@/lib/pku";
 
 export function generateStaticParams() {
   return loadRestaurants().map((r) => ({ slug: r.slug }));
@@ -19,7 +26,9 @@ export default async function RestaurantPage({
   if (!card) notFound();
 
   const { restaurant, entry, score } = card;
-  const groups = entry ? groupPicks(entry.picks) : [];
+  const { highlighted, updates } = splitHighlightedPicks(entry?.picks ?? []);
+  const groups = groupPicks(highlighted);
+  const updateGroups = groupPicks(updates);
 
   return (
     <main className="mx-auto max-w-3xl px-7 py-12">
@@ -36,9 +45,7 @@ export default async function RestaurantPage({
           </h1>
           <FavoriteHeart label={restaurant.name} size={22} />
         </div>
-        <p className="shrink-0 text-2xl font-extrabold text-purple">
-          {score.total}/{score.max}
-        </p>
+        <ScoreDots score={score} />
       </div>
       {restaurant.blurb ? (
         <p className="mt-3 text-lg text-ink-soft">{restaurant.blurb}</p>
@@ -64,43 +71,24 @@ export default async function RestaurantPage({
         </a>
       ) : null}
 
-      {groups.length ? (
+      {groups.length || updateGroups.length ? (
         <section className="mt-12 border-t border-line pt-10">
-          <h2 className="text-2xl font-extrabold text-purple">
-            Ask about these
-          </h2>
-          {groups.map((group) => (
-            <div key={group.course} className="mt-8">
-              <h3 className="text-xs font-bold uppercase tracking-[0.12em] text-green-deep">
-                {courseLabel(group.course)}
-              </h3>
-              <ul className="mt-4 grid gap-5">
-                {group.picks.map((d) => (
-                  <li key={`${group.course}-${d.name}`}>
-                    <div className="flex items-start justify-between gap-3">
-                      <p className="font-extrabold text-purple">{d.name}</p>
-                      <FavoriteHeart label={d.name} />
-                    </div>
-                    {d.description ? (
-                      <p className="mt-1 text-sm text-ink-soft">
-                        {d.description}
-                      </p>
-                    ) : null}
-                    {d.hold ? (
-                      <p className="mt-1 text-sm font-semibold text-purple">
-                        Hold the: {d.hold}
-                      </p>
-                    ) : null}
-                    {d.note ? (
-                      <p className="mt-1 text-sm italic text-ink">
-                        {d.note}
-                      </p>
-                    ) : null}
-                  </li>
-                ))}
-              </ul>
+          {groups.length ? (
+            <>
+              <h2 className="text-2xl font-extrabold text-purple">
+                Ask about these
+              </h2>
+              <PickGroups groups={groups} />
+            </>
+          ) : null}
+          {updateGroups.length ? (
+            <div className={groups.length ? "mt-12" : undefined}>
+              <h2 className="text-2xl font-extrabold text-purple">
+                Also on the menu
+              </h2>
+              <PickGroups groups={updateGroups} />
             </div>
-          ))}
+          ) : null}
         </section>
       ) : null}
 
@@ -130,6 +118,45 @@ export default async function RestaurantPage({
       </dl>
       <p className="mt-10 text-xs leading-relaxed text-ink/60">{AWARD_DISCLAIMER}</p>
     </main>
+  );
+}
+
+function PickGroups({
+  groups,
+}: {
+  groups: { course: PkuPick["course"]; picks: PkuPick[] }[];
+}) {
+  return (
+    <>
+      {groups.map((group) => (
+        <div key={group.course} className="mt-8">
+          <h3 className="text-xs font-bold uppercase tracking-[0.12em] text-green-deep">
+            {courseLabel(group.course)}
+          </h3>
+          <ul className="mt-4 grid gap-5">
+            {group.picks.map((d) => (
+              <li key={`${group.course}-${d.name}`}>
+                <div className="flex items-start justify-between gap-3">
+                  <p className="font-extrabold text-purple">{d.name}</p>
+                  <FavoriteHeart label={d.name} />
+                </div>
+                {d.description ? (
+                  <p className="mt-1 text-sm text-ink-soft">{d.description}</p>
+                ) : null}
+                {d.hold ? (
+                  <p className="mt-1 text-sm font-semibold text-purple">
+                    Hold the: {d.hold}
+                  </p>
+                ) : null}
+                {d.note ? (
+                  <p className="mt-1 text-sm italic text-ink">{d.note}</p>
+                ) : null}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </>
   );
 }
 

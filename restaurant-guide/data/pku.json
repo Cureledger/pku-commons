@@ -1,6 +1,6 @@
 {
   "version": "v0.1",
-  "note": "Picks are dishes from a recent posted menu that may work for a low-protein / low-phe plate. They are questions for the kitchen, not a safety claim. Accommodation and MNT Food Check are set only after contact.",
+  "note": "Picks are dishes from a posted menu that may work for a low-protein / low-phe plate. They are questions for the kitchen, not a safety claim. Every pick counts on mains or plates, including potato and salad. Accommodation, off-menu, and Phebe-verified are set only after contact or a visit.",
   "restaurants": [
     {
       "slug": "luminosa",
@@ -60,6 +60,48 @@
           "description": "summer onion, okra crisp, chanterelle salt",
           "course": "side",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "Tomato",
+          "description": "blackberry, grebenes, marigold",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "grebenes",
+          "note": "Grebenes is pork crackling."
+        },
+        {
+          "name": "Weeds salad",
+          "description": "pickled red onion, ricotta salata, sunflower seeds, peach vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "ricotta and sunflower"
+        },
+        {
+          "name": "Grilled little gem",
+          "description": "ramp green goddess, breadcrumb, scallion",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "green goddess",
+          "note": "Ask what is in the green goddess."
+        },
+        {
+          "name": "Figs",
+          "description": "sheeps milk yogurt, mint, habanada, sunflower seeds",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "yogurt and sunflower"
+        },
+        {
+          "name": "Panzanella",
+          "description": "peach, corn, mozzarella, sherry, herbs",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "mozzarella"
         }
       ]
     },
@@ -105,6 +147,55 @@
           "course": "side",
           "kind": "potato_or_salad",
           "hold": "butter and parmesan"
+        },
+        {
+          "name": "Heirloom Tomato Salad",
+          "description": "charred tofu, green chilies + shiso",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "tofu"
+        },
+        {
+          "name": "Avocado Salad",
+          "description": "house feta, baby herbs, crispy leeks +lemon ginger dressing",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "feta"
+        },
+        {
+          "name": "Vegetable Gyoza",
+          "description": "edamame + shitake, vegan herb ponzu",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "Crispy Mushroom Bao",
+          "description": "Black garlic aioli + yuzu pickle",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "aioli",
+          "note": "Ask what is in the aioli."
+        },
+        {
+          "name": "Grilled Maitake Mushrooms",
+          "description": "peas, mint, wasabi, brown butter + ponzu",
+          "course": "side",
+          "kind": "beyond",
+          "update": true,
+          "hold": "brown butter"
+        },
+        {
+          "name": "Tokyo Street Corn",
+          "description": "kewpie mayo, togarashi, itto nori, miso butter + bonito",
+          "course": "side",
+          "kind": "beyond",
+          "update": true,
+          "hold": "mayo, nori, and bonito",
+          "note": "Kewpie is egg. Bonito is fish."
         }
       ]
     },
@@ -162,6 +253,22 @@
           "kind": "potato_or_salad",
           "hold": "alioli",
           "note": "Alioli is egg."
+        },
+        {
+          "name": "ENSALADA",
+          "description": "lettuce blend, pistachio vinaigrette, citrus, olives, idiazabal cheese",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "pistachio and cheese"
+        },
+        {
+          "name": "Salteado 'A La Catalana'",
+          "description": "sautéed seasonal greens, pistachio, sweet onions, pickled blueberries",
+          "course": "side",
+          "kind": "beyond",
+          "update": true,
+          "hold": "pistachio"
         }
       ]
     },
@@ -200,6 +307,37 @@
           "course": "side",
           "kind": "beyond",
           "hold": "cashew"
+        },
+        {
+          "name": "Früts & Rüts",
+          "description": "feta, pistachio, papalo",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "feta and pistachio"
+        },
+        {
+          "name": "Lettuces & Vinaigrette",
+          "description": "hazelnuts & herbs",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "hazelnuts"
+        },
+        {
+          "name": "Sweet Peppers",
+          "description": "focaccia, walnuts, goat cheese",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "walnuts and goat cheese"
+        },
+        {
+          "name": "Rigatoni",
+          "description": "eggplant & mushroom ragout",
+          "course": "main",
+          "kind": "main",
+          "update": true
         }
       ]
     },
@@ -223,6 +361,13 @@
           "description": "Fresh beets and carrot cooked together with onion, garlic and ginger.",
           "course": "side",
           "kind": "beyond"
+        },
+        {
+          "name": "Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true
         }
       ]
     },
@@ -267,6 +412,15 @@
           "description": "",
           "course": "side",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "Classic Caesar Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "dressing and cheese",
+          "note": "Ask about the dressing. Caesar is usually egg and anchovy."
         }
       ]
     },
@@ -292,6 +446,15 @@
           "description": "Local Baby Lettuce Blend, White Balsamic Vinaigrette",
           "course": "side",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Baby Gem Lettuce, Pecorino Romano, Garlic Herb Croutons",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "Pecorino and croutons",
+          "note": "Ask about the dressing. Caesar is usually egg and anchovy."
         }
       ]
     },
@@ -330,6 +493,21 @@
           "description": "",
           "course": "side",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "French Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true
+        },
+        {
+          "name": "Montford",
+          "description": "Lettuces, avocado, gruyere, veggies with champagne vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "gruyere"
         }
       ]
     },
@@ -368,6 +546,31 @@
           "description": "",
           "course": "side",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "Sweet Potato Cabbage Pancake",
+          "description": "Roasted sweet potatoes, cap’n crik, honey hot sauce, pickled collard stems & furikate",
+          "course": "main",
+          "kind": "main",
+          "update": true,
+          "hold": "cap’n crik and furikake",
+          "note": "Ask what is in them. Furikake is often fish."
+        },
+        {
+          "name": "Ranchovy Iceburg",
+          "description": "Zesty ranch meets Caesar dressing over iceberg lettuce with pickled red onions, crispy shallots",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "ranch and Caesar",
+          "note": "Ranch and Caesar are usually egg. Caesar is often anchovy."
+        },
+        {
+          "name": "Hushpuppies",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "update": true
         }
       ]
     },
@@ -387,6 +590,24 @@
           "kind": "beyond",
           "hold": "romesco, almond, and parmesan",
           "note": "Romesco is nuts."
+        },
+        {
+          "name": "Caesar",
+          "description": "Local greens, urfa biber, boquerones, breadcrumb, benne seed",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "boquerones and benne",
+          "note": "Boquerones are anchovy. Benne is sesame."
+        },
+        {
+          "name": "Potato Salad",
+          "description": "Smoked trout gribiche, lovage, radish",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "trout gribiche",
+          "note": "Gribiche is usually egg. Trout is fish."
         }
       ]
     },
@@ -431,6 +652,15 @@
           "kind": "potato_or_salad",
           "hold": "cocorino and hazelnut",
           "note": "Cocorino is nut cheese."
+        },
+        {
+          "name": "Flatbread + Spread",
+          "description": "roasted red pepper dip, za’atar flatbread, date sausage, preserved lemon",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "date sausage",
+          "note": "Ask whether the sausage is plant."
         }
       ]
     },
@@ -489,6 +719,23 @@
           "course": "side",
           "kind": "potato_or_salad",
           "hold": "goat cheese and granola"
+        },
+        {
+          "name": "Beets and Berries",
+          "description": "Blackberries, Hazelnuts, Dill, Horseradish Creme Fraiche, Pickled Beets, Honey",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "hazelnuts and crème fraîche"
+        },
+        {
+          "name": "Tomato Caesar",
+          "description": "Romas, Basil Caesar, Tomato Leaf Oil, Croutons, Pickled Peppers",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "Caesar and croutons",
+          "note": "Ask about the dressing. Caesar is usually egg and anchovy."
         }
       ]
     },
@@ -530,6 +777,23 @@
           "kind": "potato_or_salad",
           "hold": "aioli and chorizo vinaigrette",
           "note": "Aioli is egg."
+        },
+        {
+          "name": "Local Greens",
+          "description": "grilled corn, parmigiano, Marcona almonds, cherry tomatoes, preserved lemon vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "parmigiano and almonds"
+        },
+        {
+          "name": "Heirloom Tomato Salad",
+          "description": "shishito peppers, cashew tzatziki, shawarma vinaigrette, crunchy alliums",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "cashew tzatziki",
+          "note": "Cashew is nuts."
         }
       ]
     },
@@ -582,6 +846,39 @@
           "kind": "potato_or_salad",
           "hold": "aioli and Parmesan",
           "note": "Aioli is egg."
+        },
+        {
+          "name": "Little Gem Caesar",
+          "description": "black garlic Caesar dressing, shaved Parmesan, heirloom cherry tomatoes, butter herb croutons",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "Parmesan and croutons",
+          "note": "Ask about the dressing. Caesar is usually egg and anchovy."
+        },
+        {
+          "name": "Kale Salad",
+          "description": "Three Graces Dairy Manchego-style cheese, pumpkin seeds, currants, lemon, olive oil",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "cheese and pumpkin seeds"
+        },
+        {
+          "name": "Broccolini",
+          "description": "saffron Béarnaise",
+          "course": "side",
+          "kind": "beyond",
+          "update": true,
+          "hold": "Béarnaise",
+          "note": "Béarnaise is usually egg and butter."
+        },
+        {
+          "name": "Haricot Verts",
+          "description": "fleur de sel, cracked pepper",
+          "course": "side",
+          "kind": "beyond",
+          "update": true
         }
       ]
     },
@@ -615,6 +912,15 @@
           "course": "side",
           "kind": "potato_or_salad",
           "hold": "feta"
+        },
+        {
+          "name": "Muhammara",
+          "description": "Roasted Red Pepper and Walnut Spread. Sumac, Pomegranate Molasses, Za'atar Garlic Pita.",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true,
+          "hold": "walnut",
+          "note": "Muhammara is nuts."
         }
       ]
     },
@@ -662,6 +968,22 @@
           "course": "side",
           "kind": "potato_or_salad",
           "hold": "feta and hazelnuts"
+        },
+        {
+          "name": "Grilled Frisée & Arugula",
+          "description": "smoked blue cheese dressing, fresh blackberries, squash noodles, pickled corn, fried crunchies",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "blue cheese"
+        },
+        {
+          "name": "Grilled Skillet Corn Brûlée",
+          "description": "mixed cheese crisps, bourbon bacon, sumac compressed shallots",
+          "course": "side",
+          "kind": "beyond",
+          "update": true,
+          "hold": "cheese and bacon"
         }
       ]
     },
@@ -706,17 +1028,6 @@
       ]
     },
     {
-      "slug": "sovereign-remedies",
-      "picks": [
-        {
-          "name": "Potato Chips",
-          "description": "",
-          "course": "side",
-          "kind": "potato_or_salad"
-        }
-      ]
-    },
-    {
       "slug": "red-ginger",
       "picks": [
         {
@@ -748,6 +1059,56 @@
           "description": "",
           "course": "side",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "Scallion Pan Cake",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "Mushroom Dumpling",
+          "description": "steamed with assorted mushrooms & veggies",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "Pan Fried Veggie Dumpling",
+          "description": "cabbage, celery, carrots and rice noodle with chef’s seasoning",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "Mango Lover Roll",
+          "description": "vegetarian sushi roll with fresh mango, avocado and cucumber in chef's citrus mango sauce",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "Vegetable Fired Rice or Lo mein",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "update": true
+        },
+        {
+          "name": "Vegetable Chow Fun",
+          "description": "Wok fried wide rice noodle with onion, scallion, bean sprout, egg, mushroom and Yau Choy",
+          "course": "main",
+          "kind": "main",
+          "update": true,
+          "hold": "egg"
+        },
+        {
+          "name": "Cool Breeze Noodles",
+          "description": "Chilled thin noodles tossed with scallion and crisp radish seed in a light sweet vinegar dressing",
+          "course": "side",
+          "kind": "beyond",
+          "update": true
         }
       ]
     },
@@ -795,6 +1156,37 @@
           "course": "side",
           "kind": "potato_or_salad",
           "hold": "feta"
+        },
+        {
+          "name": "Avocado Toast",
+          "description": "Two Slices of Homemade Rustic Toast, Whipped Avocado, Radish, Feta, Aleppo",
+          "course": "main",
+          "kind": "main",
+          "update": true,
+          "hold": "feta"
+        },
+        {
+          "name": "Fresh Fruit",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "Breakfast Potatoes",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Romaine, Aged Parmesan, Focaccia Croutons, Creamy Anchovy & Cacio Dressing",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "Parmesan and dressing",
+          "note": "Caesar is egg and anchovy."
         }
       ]
     },
@@ -838,6 +1230,36 @@
           "description": "Organic spring mix, bell peppers, and diced tomatoes",
           "course": "side",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "Ginger & Dill Coleslaw",
+          "description": "Creamy, crunchy scratch-made slaw with a hint of ginger.",
+          "course": "side",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "French Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true
+        },
+        {
+          "name": "Apple & Berry Salad",
+          "description": "Organic spring mix, seasonal apple and berries, spicy candied pecans, herbed goat cheese.",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "pecans and goat cheese"
+        },
+        {
+          "name": "Roasted Brussel Sprout Salad",
+          "description": "Roasted Brussel sprouts, organic spring mix, herbed goat cheese, roasted sweet potatoes, pepitas.",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "goat cheese and pepitas"
         }
       ]
     },
@@ -872,6 +1294,35 @@
           "course": "side",
           "kind": "potato_or_salad",
           "hold": "feta and pistachios"
+        },
+        {
+          "name": "Pesto Artichoke Tartine",
+          "description": "Grilled Artichokes, Fontina Cheese, Caper Tapenade, Roasted Red Peppers, Baby Arugula, Local Focaccia",
+          "course": "main",
+          "kind": "main",
+          "update": true,
+          "hold": "Fontina"
+        },
+        {
+          "name": "Seasoned Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true
+        },
+        {
+          "name": "Fruit Salad",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "update": true
+        },
+        {
+          "name": "Side Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true
         }
       ]
     },
@@ -924,6 +1375,15 @@
           "description": "Tomato mango chipotle salsa or spicy garden blend salsa with chips",
           "course": "starter",
           "kind": "potato_or_salad"
+        },
+        {
+          "name": "The Groundation",
+          "description": "Mixed greens, feta cheese, cherry tomatoes, carrots, kalamata olives & chickpeas. Served with sesame garlic tahini dressing.",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "update": true,
+          "hold": "feta, chickpeas, and tahini",
+          "note": "Tahini is sesame."
         }
       ]
     },
@@ -946,5 +1406,5 @@
     }
   ],
   "status": "FLAGGED - see web/SCORING-FLAG.md",
-  "flag": "This file feeds a 0-6 composite in web/lib/pku.ts that sorts the homepage. A composite ranking restaurants is the suitability scale Nina deferred on 2026-08-23 ('do not do that yet. we need the data. I will help you come up with a strategy for assessing suitability'). The picks themselves are useful -- they are questions for the kitchen. The composite and the sort are the problem. Also: substitutes and mnt_food_check are unset for all 15 restaurants, so the sort treats 'nobody has asked yet' as a zero, which is the specific error the accommodation axis exists to prevent. Awaiting Nina's decision; not deleted."
+  "flag": "Scale is seven independent dots named 2026-08-23: published menu, a main, plates beyond potato and salad, accommodation, cook off-menu, third-party award, Phebe-verified. See web/SCORING-FLAG.md."
 }

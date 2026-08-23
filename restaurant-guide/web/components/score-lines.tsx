@@ -16,8 +16,8 @@ export function ScoreLines({
         {score.mains === 1 ? "main" : "mains"}
       </li>
       <li>
-        <span className="font-extrabold text-purple">{score.beyond}</span>{" "}
-        {score.beyond === 1 ? "plate" : "plates"}
+        <span className="font-extrabold text-purple">{score.plates}</span>{" "}
+        {score.plates === 1 ? "plate" : "plates"}
       </li>
       <li>
         <span className="font-extrabold text-purple">

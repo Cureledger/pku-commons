@@ -695,40 +695,6 @@
    "blurb": "A short tapas menu after Filo Pastries closes for the day."
   },
   {
-   "restaurant_id": "asheville-nc-us/sovereign-remedies",
-   "city_id": "asheville-nc-us",
-   "slug": "sovereign-remedies",
-   "name": "Sovereign Remedies",
-   "website": "https://www.sovereignremedies.com",
-   "address": "Asheville NC",
-   "menu_urls": [
-    "https://www.sovereignremedies.com/our-menu"
-   ],
-   "reservation_platform": "",
-   "awards": [],
-   "provenance": {
-    "source": "local_list",
-    "added_by": "nina",
-    "added_utc": "2026-08-23T20:34:06+00:00",
-    "citations": [
-     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
-    ]
-   },
-   "census": {
-    "status": "no_menu_captured"
-   },
-   "accommodation": {
-    "status": "unverified",
-    "note": "'unverified' is not zero. Set only by direct contact."
-   },
-   "signals": {},
-   "harvest_categories": [
-    "Best Tapas / Small Plates"
-   ],
-   "notes": "Small plates plus brunch. Menu described as ever-changing, so short re-capture interval.",
-   "blurb": "A downtown bar with changing small plates."
-  },
-  {
    "restaurant_id": "asheville-nc-us/red-ginger",
    "city_id": "asheville-nc-us",
    "slug": "red-ginger",
@@ -972,7 +938,7 @@
   }
  ],
  "note": "Open registry. Membership requires only that someone added the record and recorded where it came from. Awards are optional metadata, never a gate. No suitability score lives here.",
- "restaurant_count": 26,
+ "restaurant_count": 25,
  "updated_utc": "2026-08-23T20:40:59+00:00",
  "changelog": [
   {

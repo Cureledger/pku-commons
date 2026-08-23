@@ -105,6 +105,8 @@ export interface PkuPick {
   kind: PkuKind;
   hold?: string;
   note?: string;
+  /** Appended after a rescan; shown below the first highlighted picks. */
+  update?: boolean;
 }
 
 export interface PkuRestaurant {
@@ -112,6 +114,7 @@ export interface PkuRestaurant {
   picks: PkuPick[];
   mnt_food_check?: boolean;
   substitutes?: boolean;
+  phebe_verified?: boolean;
 }
 
 export interface PkuFile {
@@ -119,12 +122,24 @@ export interface PkuFile {
   restaurants: PkuRestaurant[];
 }
 
+export type ScoreFactor =
+  | "publishedMenu"
+  | "main"
+  | "beyond"
+  | "accommodation"
+  | "offMenu"
+  | "award"
+  | "phebeVerified";
+
 export interface PkuScore {
   total: number;
   max: number;
   mains: number;
+  plates: number;
   beyond: number;
   substitutes: boolean;
   mntFoodCheck: boolean;
   publishedMenu: boolean;
+  hasAward: boolean;
+  phebeVerified: boolean;
 }

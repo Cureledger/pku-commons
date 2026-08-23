@@ -3,9 +3,10 @@ import { EyeglassesMark } from "@/components/eyeglasses-mark";
 import { FavoriteHeart } from "@/components/heart";
 import { HeartMark } from "@/components/heart-mark";
 import { PhebeMark } from "@/components/phebe-mark";
+import { ScoreDots } from "@/components/score-dots";
 import { ScoreLines } from "@/components/score-lines";
 import { AWARD_DISCLAIMER } from "@/lib/restaurants";
-import { loadPkuCards } from "@/lib/pku";
+import { SCORE_FACTORS, loadPkuCards } from "@/lib/pku";
 
 export default function HomePage() {
   const cards = loadPkuCards();
@@ -24,36 +25,77 @@ export default function HomePage() {
       </section>
 
       <section className="border-b border-line bg-green-pale">
-        <dl className="mx-auto grid max-w-[1120px] gap-5 px-7 py-6 text-sm text-ink sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6">
-          <div>
-            <dt className="font-extrabold text-purple">main</dt>
-            <dd className="mt-0.5">A real entree.</dd>
+        <div className="mx-auto max-w-[1120px] px-7 py-8">
+          <div className="mx-auto max-w-xl rounded-2xl border border-purple/30 bg-white px-7 py-6">
+            <div className="flex items-center justify-center gap-4">
+              <p className="text-xs font-bold uppercase tracking-[0.12em] text-purple">
+                Our scale
+              </p>
+              <ul
+                className="flex items-center gap-1"
+                aria-label="Seven dots, five filled"
+              >
+                {Array.from({ length: 7 }, (_, i) => (
+                  <li key={i}>
+                    <span
+                      className={`block h-2.5 w-2.5 rounded-full ${
+                        i < 5
+                          ? "bg-purple"
+                          : "border border-purple/35 bg-transparent"
+                      }`}
+                    />
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <ul className="mt-4 grid gap-1.5 text-sm text-ink">
+              {SCORE_FACTORS.map((factor) => (
+                <li key={factor.id} className="flex items-baseline gap-2">
+                  <span
+                    className="mt-1 inline-block h-2.5 w-2.5 shrink-0 rounded-full bg-purple"
+                    aria-hidden
+                  />
+                  {factor.line}
+                </li>
+              ))}
+            </ul>
           </div>
-          <div>
-            <dt className="font-extrabold text-purple">plates</dt>
-            <dd className="mt-0.5">Beyond potato and salad.</dd>
+        </div>
+      </section>
+
+      <section className="border-b border-line bg-green-pale">
+        <dl className="mx-auto flex max-w-[1120px] flex-col gap-1 px-7 py-4 text-sm text-ink">
+          <div className="flex items-baseline gap-x-2">
+            <dt className="shrink-0 font-extrabold text-purple">main</dt>
+            <dd>Entrees and main dishes.</dd>
           </div>
-          <div>
-            <dt className="font-extrabold text-purple">[] accommodation</dt>
-            <dd className="mt-0.5">They will substitute.</dd>
+          <div className="flex items-baseline gap-x-2">
+            <dt className="shrink-0 font-extrabold text-purple">plates</dt>
+            <dd>Sides, starters, desserts.</dd>
           </div>
-          <div>
-            <dt className="flex items-center gap-1.5 font-extrabold text-purple">
+          <div className="flex items-baseline gap-x-2">
+            <dt className="shrink-0 font-extrabold text-purple">
+              [] accommodation
+            </dt>
+            <dd>Restaurant will substitute.</dd>
+          </div>
+          <div className="flex items-center gap-x-2">
+            <dt className="flex shrink-0 items-center gap-1.5 font-extrabold text-purple">
               [] <PhebeMark size={16} alt="" />
             </dt>
-            <dd className="mt-0.5">They will cook off-menu.</dd>
+            <dd>Restaurant will cook off-menu.</dd>
           </div>
-          <div>
-            <dt className="flex items-center gap-1.5 font-extrabold text-purple">
+          <div className="flex items-center gap-x-2">
+            <dt className="flex shrink-0 items-center gap-1.5 font-extrabold text-purple">
               <EyeglassesMark size={16} />
             </dt>
-            <dd className="mt-0.5">View menu.</dd>
+            <dd>View menu.</dd>
           </div>
-          <div>
-            <dt className="flex items-center gap-1.5 font-extrabold text-purple">
+          <div className="flex items-center gap-x-2">
+            <dt className="flex shrink-0 items-center gap-1.5 font-extrabold text-purple">
               <HeartMark size={16} />
             </dt>
-            <dd className="mt-0.5">Add to Phebe favorites.</dd>
+            <dd>Add to Phebe favorites.</dd>
           </div>
         </dl>
       </section>
@@ -73,14 +115,12 @@ export default function HomePage() {
                     <h2 className="text-xl font-extrabold text-purple">
                       {r.name}
                     </h2>
-                    <div className="flex shrink-0 items-center gap-1">
-                      <p className="text-sm font-extrabold text-purple">
-                        {score.total}/{score.max}
-                      </p>
-                      <span className="pointer-events-auto">
-                        <FavoriteHeart label={r.name} />
-                      </span>
-                    </div>
+                    <span className="pointer-events-auto shrink-0">
+                      <FavoriteHeart label={r.name} />
+                    </span>
+                  </div>
+                  <div className="mt-2">
+                    <ScoreDots score={score} size="sm" />
                   </div>
                   {r.blurb ? (
                     <p className="mt-2 text-sm text-ink-soft">{r.blurb}</p>

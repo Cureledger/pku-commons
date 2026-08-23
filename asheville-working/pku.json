@@ -145,6 +145,17 @@
     {
       "slug": "andaaz",
       "picks": []
+    },
+    {
+      "slug": "sovereign-remedies",
+      "picks": [
+        {
+          "name": "Potato Chips",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
     }
   ]
 }
