@@ -1,9 +1,16 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Suspense } from "react";
 import { FavoriteHeart } from "@/components/heart";
-import { ScoreDots } from "@/components/score-dots";
+import {
+  LiveScoreDots,
+  PhotoProvider,
+  RestaurantPhotos,
+} from "@/components/restaurant-photos";
+import { RestaurantReviews } from "@/components/restaurant-reviews";
 import { ScoreLines } from "@/components/score-lines";
 import { AWARD_DISCLAIMER, loadRestaurants } from "@/lib/restaurants";
+import { loadReviews } from "@/lib/reviews";
 import type { PkuPick } from "@/lib/types";
 import {
   courseLabel,
@@ -26,12 +33,14 @@ export default async function RestaurantPage({
   if (!card) notFound();
 
   const { restaurant, entry, score } = card;
+  const reviews = loadReviews(restaurant.slug);
   const { highlighted, updates } = splitHighlightedPicks(entry?.picks ?? []);
   const groups = groupPicks(highlighted);
   const updateGroups = groupPicks(updates);
 
   return (
     <main className="mx-auto max-w-3xl px-7 py-12">
+      <PhotoProvider slug={restaurant.slug} seed={restaurant.photos ?? []}>
       <Link
         href="/"
         className="text-sm font-semibold text-purple no-underline hover:text-purple-deep"
@@ -45,7 +54,9 @@ export default async function RestaurantPage({
           </h1>
           <FavoriteHeart label={restaurant.name} size={22} />
         </div>
-        <ScoreDots score={score} />
+        <Suspense>
+          <LiveScoreDots score={score} />
+        </Suspense>
       </div>
       {restaurant.blurb ? (
         <p className="mt-3 text-lg text-ink-soft">{restaurant.blurb}</p>
@@ -55,6 +66,10 @@ export default async function RestaurantPage({
       {restaurant.address ? (
         <p className="mt-2 text-ink-soft">{restaurant.address}</p>
       ) : null}
+
+      <Suspense>
+        <RestaurantPhotos />
+      </Suspense>
 
       <div className="mt-8 text-base">
         <ScoreLines score={score} menuUrl={restaurant.menu_urls?.[0]} />
@@ -70,6 +85,10 @@ export default async function RestaurantPage({
           Reserve
         </a>
       ) : null}
+
+      <Suspense>
+        <RestaurantReviews slug={restaurant.slug} seed={reviews} />
+      </Suspense>
 
       {groups.length || updateGroups.length ? (
         <section className="mt-12 border-t border-line pt-10">
@@ -117,6 +136,7 @@ export default async function RestaurantPage({
         ) : null}
       </dl>
       <p className="mt-10 text-xs leading-relaxed text-ink/60">{AWARD_DISCLAIMER}</p>
+      </PhotoProvider>
     </main>
   );
 }

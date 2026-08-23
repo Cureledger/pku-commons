@@ -1403,6 +1403,40 @@
           "kind": "main"
         }
       ]
+    },
+    {
+      "slug": "bone-broth",
+      "picks": [
+        {
+          "name": "Crispy Fried Brussels Sprouts",
+          "description": "house spice rub, lemon aioli",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "lemon aioli"
+        },
+        {
+          "name": "Beet Salad",
+          "description": "pickled yellow beets, roasted red beets, chioggia beet chips, whipped housemade ricotta, kumquat, watercress, fall citrus vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "ricotta"
+        },
+        {
+          "name": "Little Gem Wedge Salad",
+          "description": "Little gem wedges, confit heirloom tomato, crispy lardons, blue cheese crumbles, house-made buttermilk ranch dressing",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "lardons and blue cheese"
+        },
+        {
+          "name": "Grilled Endive Caesar",
+          "description": "grilled endive wedge, fried capers, beer battered smelts, parmigiano reggiano, briciole",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "smelts and parmigiano",
+          "note": "Smelts are fish."
+        }
+      ]
     }
   ],
   "status": "FLAGGED - see web/SCORING-FLAG.md",

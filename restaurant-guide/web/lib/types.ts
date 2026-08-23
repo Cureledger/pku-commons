@@ -60,6 +60,8 @@ export interface Restaurant {
   cuisine?: string | null;
   /** One-line style line. Awards go here in prose, not as tags. */
   blurb?: string | null;
+  /** Public photo URLs, latest first. Filled from disk when present. */
+  photos?: string[];
   address: string | null;
   website: string | null;
   menu_urls?: string[];
@@ -130,6 +132,26 @@ export type ScoreFactor =
   | "offMenu"
   | "award"
   | "phebeVerified";
+
+export interface Review {
+  id: string;
+  slug: string;
+  stars: number;
+  body: string;
+  by?: string;
+  addedAt: number;
+}
+
+export interface ReviewFile {
+  version: string;
+  reviews: Review[];
+}
+
+export interface ReviewSummary {
+  slug: string;
+  average: number;
+  count: number;
+}
 
 export interface PkuScore {
   total: number;

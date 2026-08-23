@@ -1,5 +1,5 @@
 import type { PkuScore, ScoreFactor } from "@/lib/types";
-import { SCORE_FACTORS } from "@/lib/pku";
+import { SCORE_FACTORS } from "@/lib/score-factors";
 
 const FACTOR_ON: Record<ScoreFactor, (score: PkuScore) => boolean> = {
   publishedMenu: (s) => s.publishedMenu,

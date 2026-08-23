@@ -1,0 +1,173 @@
+{
+ "snapshot_id": "bone-broth:dinner:2026-08-23",
+ "restaurant_id": "asheville-nc-us/bone-broth",
+ "source_url": "https://boneandbrothasheville.com/menu/",
+ "fetched_utc": "2026-08-23T22:57:34+00:00",
+ "content_sha256": "08dfcad57a89a33dfcf137646a330b71f1f32d90b00f8b3c8f1073276f3c9e45",
+ "extraction_method": "human_transcription",
+ "menu_label": "dinner",
+ "capturer": "cursor-grok-4.6",
+ "dishes": [
+  {
+   "name": "Bone Broth",
+   "description": "Chef’s selection steeped for 48 hour",
+   "menu_section": "Small Plates",
+   "price_usd": 6
+  },
+  {
+   "name": "Bread Service",
+   "description": "crusty bread whipped smoked tallow and butter, beldi olive ‘salt’",
+   "menu_section": "Small Plates",
+   "price_usd": 7
+  },
+  {
+   "name": "Mac-n-Cheese",
+   "description": "pasta, 4 cheeses",
+   "menu_section": "Small Plates",
+   "price_usd": 8
+  },
+  {
+   "name": "Rotating Chef’s Board",
+   "description": "Lusty Monk Mustard, seasonal jam, house-made pickles, crostini",
+   "menu_section": "Small Plates",
+   "price_usd": 8
+  },
+  {
+   "name": "Crispy Fried Brussels Sprouts",
+   "description": "house spice rub, lemon aioli",
+   "menu_section": "Small Plates",
+   "price_usd": 7
+  },
+  {
+   "name": "Oysters Rockefeller",
+   "description": "Rock Hill oysters, Pernod, creamed spinach and wild nettles, parmigiana reggiano",
+   "menu_section": "Small Plates",
+   "price_usd": 12
+  },
+  {
+   "name": "Scallop",
+   "description": "vichyssoise, ham hock demi, dehydrated salmon roe, chives",
+   "menu_section": "Small Plates",
+   "price_usd": 6
+  },
+  {
+   "name": "Filet Tartar",
+   "description": "duck egg botarga, capers, bagna cauda aioli, Lusty Monk whole grain mustard, fresh baked bread",
+   "menu_section": "Small Plates",
+   "price_usd": 14
+  },
+  {
+   "name": "Grilled Octopus",
+   "description": "mirin braised and grilled with black garlic, Dukes goat yogurt, root vegetable salad, smoked paprika oil, puffed Israeli cous cous, Johnny jump-ups",
+   "menu_section": "Small Plates",
+   "price_usd": 13
+  },
+  {
+   "name": "B&B Burger",
+   "description": "6oz patty, american cheese, house dijonaise, house dill pickles, tomato, onion, butter lettuce, house frites",
+   "menu_section": "Entrées",
+   "price_usd": 15
+  },
+  {
+   "name": "NOLA BBQ Prawns & Grits",
+   "description": "white stone grits, Sauternes, house grown and smoked ancho pepper, worcestershire, fresh herb",
+   "menu_section": "Entrées"
+  },
+  {
+   "name": "Fried Chicken",
+   "description": "confit quarter chicken, peppercorn gravy, biscuit, house chow chow",
+   "menu_section": "Entrées",
+   "price_usd": 16
+  },
+  {
+   "name": "Wild Boar Gnocchi",
+   "description": "braised boar belly, house made ricotta gnocchi, wild foraged mushrooms, goat mascarpone, cognac, ham hock demi, dressed frisee, pecorino, crispy skins",
+   "menu_section": "Entrées",
+   "price_usd": 18
+  },
+  {
+   "name": "Bone-In Pork Chop",
+   "description": "hoppin’ john, Carolina gold rice, red pepper jam, peppered scallions",
+   "menu_section": "Entrées",
+   "price_usd": 22
+  },
+  {
+   "name": "Heritage Duck Breast",
+   "description": "sweet tea brined with Asian pears, pickled Moon Glow grapes, winter squash puree, chicken fired duck liver, fennel fronds, Cumberland sauce",
+   "menu_section": "Entrées",
+   "price_usd": 26
+  },
+  {
+   "name": "Grilled Quail",
+   "description": "chorizo and hazelnut stuffed, seasonal collard style braised greens, farro risotto, apple jack hot honey",
+   "menu_section": "Entrées",
+   "price_usd": 20
+  },
+  {
+   "name": "Salmon",
+   "description": "pomegranate molasses, roasted fall vegetables, celery root and local turmeric puree, black walnut dukkah, pomegranate seeds, local greens",
+   "menu_section": "Entrées",
+   "price_usd": 24
+  },
+  {
+   "name": "Grilled Endive Caesar",
+   "description": "grilled endive wedge, fried capers, beer battered smelts, parmigiano reggiano, briciole",
+   "menu_section": "Salads",
+   "price_usd": 10
+  },
+  {
+   "name": "Beet Salad",
+   "description": "pickled yellow beets, roasted red beets, chioggia beet chips, whipped housemade ricotta, kumquat, watercress, fall citrus vinaigrette",
+   "menu_section": "Salads",
+   "price_usd": 12
+  },
+  {
+   "name": "Little Gem Wedge Salad",
+   "description": "Little gem wedges, confit heirloom tomato, crispy lardons, blue cheese crumbles, house-made buttermilk ranch dressing",
+   "menu_section": "Salads",
+   "price_usd": 10
+  },
+  {
+   "name": "Bavette",
+   "description": "",
+   "menu_section": "Dry Aged Steaks",
+   "price_usd": 20
+  },
+  {
+   "name": "6 oz Filet Mignon",
+   "description": "",
+   "menu_section": "Dry Aged Steaks",
+   "price_usd": 40
+  },
+  {
+   "name": "12 oz New York Strip",
+   "description": "",
+   "menu_section": "Dry Aged Steaks",
+   "price_usd": 35
+  },
+  {
+   "name": "Grilled Cheese Sliders",
+   "description": "american cheese on Hawaiian Rolls",
+   "menu_section": "Kid’s Menu",
+   "price_usd": 7
+  },
+  {
+   "name": "Sliders",
+   "description": "american cheese, City Bakery slider buns",
+   "menu_section": "Kid’s Menu",
+   "price_usd": 7
+  },
+  {
+   "name": "Mac and Cheese",
+   "description": "pasta, 4-cheese sauce",
+   "menu_section": "Kid’s Menu",
+   "price_usd": 7
+  },
+  {
+   "name": "Fish Sticks",
+   "description": "house-made cod fish sticks",
+   "menu_section": "Kid’s Menu",
+   "price_usd": 7
+  }
+ ]
+}

@@ -4,12 +4,15 @@ import { FavoriteHeart } from "@/components/heart";
 import { HeartMark } from "@/components/heart-mark";
 import { PhebeMark } from "@/components/phebe-mark";
 import { ScoreDots } from "@/components/score-dots";
+import { ReviewStars } from "@/components/restaurant-reviews";
 import { ScoreLines } from "@/components/score-lines";
 import { AWARD_DISCLAIMER } from "@/lib/restaurants";
 import { SCORE_FACTORS, loadPkuCards } from "@/lib/pku";
+import { loadReviewSummaries } from "@/lib/reviews";
 
 export default function HomePage() {
   const cards = loadPkuCards();
+  const reviewSummaries = loadReviewSummaries();
 
   return (
     <main>
@@ -122,6 +125,14 @@ export default function HomePage() {
                   <div className="mt-2">
                     <ScoreDots score={score} size="sm" />
                   </div>
+                  {reviewSummaries.has(r.slug) ? (
+                    <div className="mt-2">
+                      <ReviewStars
+                        average={reviewSummaries.get(r.slug)!.average}
+                        count={reviewSummaries.get(r.slug)!.count}
+                      />
+                    </div>
+                  ) : null}
                   {r.blurb ? (
                     <p className="mt-2 text-sm text-ink-soft">{r.blurb}</p>
                   ) : null}

@@ -935,11 +935,50 @@
    ],
    "notes": "Caribbean, two locations. Press specifically notes whole grain and grain free options, which means the kitchen already tracks starch substitution.",
    "blurb": "Caribbean and vegetarian-friendly, three Asheville locations."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/bone-broth",
+   "city_id": "asheville-nc-us",
+   "slug": "bone-broth",
+   "name": "Bone & Broth",
+   "website": "https://boneandbrothasheville.com",
+   "address": "94 Charlotte St., Asheville, NC 28801",
+   "menu_urls": [
+    "https://boneandbrothasheville.com/menu/"
+   ],
+   "reservation_platform": "Resy",
+   "awards": [],
+   "provenance": {
+    "source": "community",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T22:57:16+00:00",
+    "citations": [
+     "https://boneandbrothasheville.com/menu/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "Tuesday–Sunday dinner. Posted menu is steaks and Southern plates; steak sides are listed with the steaks, not as a la carte.",
+   "reservation_url": "https://resy.com/cities/asheville-nc/venues/bone-and-broth",
+   "blurb": "Steakhouse and Southern bar and grill on Charlotte Street.",
+   "contact": {
+    "email": null,
+    "phone": "(828) 505-2849",
+    "chef": null
+   }
   }
  ],
  "note": "Open registry. Membership requires only that someone added the record and recorded where it came from. Awards are optional metadata, never a gate. No suitability score lives here.",
- "restaurant_count": 25,
- "updated_utc": "2026-08-23T20:40:59+00:00",
+ "restaurant_count": 26,
+ "updated_utc": "2026-08-23T22:57:16+00:00",
  "changelog": [
   {
    "version": "registry v1.1",

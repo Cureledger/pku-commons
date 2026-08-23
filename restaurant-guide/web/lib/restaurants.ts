@@ -11,6 +11,19 @@ import type {
 // only a source and a citation -- see ADDING.md.
 const REGISTRY_PATH = path.join(process.cwd(), "..", "data", "restaurants.json");
 const MENUS_DIR = path.join(process.cwd(), "..", "data", "menus");
+const PHOTO_DIR = path.join(process.cwd(), "public", "images", "restaurants");
+
+const PHOTO_EXT = /\.(png|jpe?g|webp|gif)$/i;
+
+export function loadRestaurantPhotos(slug: string): string[] {
+  const dir = path.join(PHOTO_DIR, slug);
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((name) => PHOTO_EXT.test(name))
+    .sort()
+    .reverse()
+    .map((name) => `/images/restaurants/${slug}/${encodeURIComponent(name)}`);
+}
 
 export function loadRegistry(): RestaurantRegistry {
   const raw = readFileSync(REGISTRY_PATH, "utf8");
@@ -18,7 +31,12 @@ export function loadRegistry(): RestaurantRegistry {
 }
 
 export function loadRestaurants(): Restaurant[] {
-  return loadRegistry().restaurants;
+  return loadRegistry().restaurants.map((restaurant) => ({
+    ...restaurant,
+    photos: restaurant.photos?.length
+      ? restaurant.photos
+      : loadRestaurantPhotos(restaurant.slug),
+  }));
 }
 
 /** Restaurants that have at least one captured menu snapshot on disk. */

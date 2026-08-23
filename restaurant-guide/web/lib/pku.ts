@@ -6,47 +6,10 @@ import type {
   PkuRestaurant,
   PkuScore,
   Restaurant,
-  ScoreFactor,
 } from "./types";
 import { loadRestaurant, loadRestaurants } from "./restaurants";
 
-export const SCORE_FACTORS: { id: ScoreFactor; label: string; line: string }[] = [
-  {
-    id: "publishedMenu",
-    label: "Published menu",
-    line: "Restaurant posts a current menu.",
-  },
-  {
-    id: "main",
-    label: "A main",
-    line: "Restaurant offers a low-protein main.",
-  },
-  {
-    id: "beyond",
-    label: "Plates beyond potato and salad",
-    line: "Restaurant offers low-protein plates beyond potato and salad.",
-  },
-  {
-    id: "accommodation",
-    label: "Accommodation",
-    line: "Restaurant will substitute on request.",
-  },
-  {
-    id: "offMenu",
-    label: "Off-menu",
-    line: "Restaurant will cook off menu with sufficient notice.",
-  },
-  {
-    id: "award",
-    label: "Award",
-    line: "Restaurant has received a third party award.",
-  },
-  {
-    id: "phebeVerified",
-    label: "Phebe-verified",
-    line: "Restaurant has been verified by the Phebe community.",
-  },
-];
+export { SCORE_FACTORS } from "./score-factors";
 
 const PKU_PATH = path.join(process.cwd(), "..", "data", "pku.json");
 
@@ -77,7 +40,9 @@ export function scorePku(
   const mntFoodCheck = Boolean(entry?.mnt_food_check);
   const publishedMenu = Boolean(restaurant?.menu_urls?.length);
   const hasAward = Boolean(restaurant?.awards?.length);
-  const phebeVerified = Boolean(entry?.phebe_verified);
+  const phebeVerified = Boolean(
+    entry?.phebe_verified || restaurant?.photos?.length,
+  );
 
   const flags = [
     publishedMenu,
