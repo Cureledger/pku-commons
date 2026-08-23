@@ -1,0 +1,1165 @@
+{
+ "schema_version": "asheville-working-v1",
+ "note": "Restaurants with no verified posted menu. Not shown in the app.",
+ "restaurant_count": 36,
+ "restaurants": [
+  {
+   "restaurant_id": "asheville-nc-us/little-chango",
+   "city_id": "asheville-nc-us",
+   "slug": "little-chango",
+   "name": "Little Chango",
+   "website": "https://www.littlechango.com",
+   "address": "134 Coxe Ave., Asheville, NC 28801",
+   "menu_urls": [],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "tier_source": "verbatim label as published by the MICHELIN Guide"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Chef Iris Rodriguez. South Slope."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/mother",
+   "city_id": "asheville-nc-us",
+   "slug": "mother",
+   "name": "Mother",
+   "website": "https://www.motheravl.com",
+   "address": "244 Short Coxe Ave., Asheville, NC 28801",
+   "menu_urls": [],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "tier_source": "verbatim label as published by the MICHELIN Guide"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Owner Heidi Bass. Bread-centred menu."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/golden-hour",
+   "city_id": "asheville-nc-us",
+   "slug": "golden-hour",
+   "name": "Golden Hour",
+   "website": "https://www.goldenhouravl.com",
+   "address": "95 Roberts Street, Asheville, NC 28801",
+   "menu_urls": [],
+   "reservation_platform": "resy",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.goldenhouravl.com/",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.goldenhouravl.com/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": null
+  },
+  {
+   "restaurant_id": "asheville-nc-us/sunny-point-cafe",
+   "city_id": "asheville-nc-us",
+   "slug": "sunny-point-cafe",
+   "name": "Sunny Point Café",
+   "website": "https://www.sunnypointcafe.com",
+   "address": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Owners April Moon Harper and Belinda Raab. Open since 2003."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/the-admiral",
+   "city_id": "asheville-nc-us",
+   "slug": "the-admiral",
+   "name": "The Admiral",
+   "website": "https://www.theadmiralasheville.com",
+   "address": "400 Haywood Rd., Asheville, NC 28806",
+   "menu_urls": [],
+   "reservation_platform": "resy",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "West Asheville. Owner Drew Wallace, Chef Austin Inselmann - the same team as Leo's House of Thirst, which is separately in the selection. Rotating menu; press names schnitzel, fish and chips, rack of lamb with lemony couscous, snap peas with yuzu vinaigrette."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/bull-beggar",
+   "city_id": "asheville-nc-us",
+   "slug": "bull-beggar",
+   "name": "Bull & Beggar",
+   "website": "https://thebullandbeggar.com",
+   "address": "37 Paynes Way, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:29:32+00:00",
+    "citations": [
+     "Best of WNC 2025 finalists (example)"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": ""
+  },
+  {
+   "restaurant_id": "asheville-nc-us/la-bodega-by-curate",
+   "city_id": "asheville-nc-us",
+   "slug": "la-bodega-by-curate",
+   "name": "La Bodega by Curate",
+   "website": "",
+   "address": "32 S Lexington Ave, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Seafood-focused pintxos bar, same ownership as Curate. Pintxos is the compose-your-own format. Separate venue from Curate, so a separate record. Regular dining ended February 2025. Event venue only. Cúrate remains open."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/haywood-common",
+   "city_id": "asheville-nc-us",
+   "slug": "haywood-common",
+   "name": "Haywood Common",
+   "website": "https://haywoodcommon.com",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Small plates."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/itto-ramen-bar-tapas",
+   "city_id": "asheville-nc-us",
+   "slug": "itto-ramen-bar-tapas",
+   "name": "Itto Ramen Bar & Tapas",
+   "website": "https://www.ittoramen.com",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Japanese tapas plus ramen."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/jerusalem-garden-cafe",
+   "city_id": "asheville-nc-us",
+   "slug": "jerusalem-garden-cafe",
+   "name": "Jerusalem Garden Cafe",
+   "website": "https://jerusalemgardencafe.com",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mediterranean and Middle Eastern lists: RomanticAsheville Mediterranean guide, Yelp Mediterranean category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mediterranean / Middle Eastern"
+   ],
+   "notes": "Middle Eastern / Mediterranean, categorised as Tapas-Small Plates, and also runs brunch. Three harvest categories at once."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/baba-nahm",
+   "city_id": "asheville-nc-us",
+   "slug": "baba-nahm",
+   "name": "Baba Nahm",
+   "website": "",
+   "address": "West Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mediterranean and Middle Eastern lists: RomanticAsheville Mediterranean guide, Yelp Mediterranean category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mediterranean / Middle Eastern"
+   ],
+   "notes": "Eastern Mediterranean. Bowls and plates come with multiple sides, which is the composable structure -- press quote notes the plates come with a lot of sides and different options."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/gypsy-queen-cuisine",
+   "city_id": "asheville-nc-us",
+   "slug": "gypsy-queen-cuisine",
+   "name": "Gypsy Queen Cuisine",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mediterranean and Middle Eastern lists: RomanticAsheville Mediterranean guide, Yelp Mediterranean category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mediterranean / Middle Eastern"
+   ],
+   "notes": "Lebanese. Started as a food truck."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/the-med",
+   "city_id": "asheville-nc-us",
+   "slug": "the-med",
+   "name": "The Med",
+   "website": "https://www.themedavl.com",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mediterranean and Middle Eastern lists: RomanticAsheville Mediterranean guide, Yelp Mediterranean category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mediterranean / Middle Eastern"
+   ],
+   "notes": "Mediterranean plus breakfast and brunch."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/biscuit-head",
+   "city_id": "asheville-nc-us",
+   "slug": "biscuit-head",
+   "name": "Biscuit Head",
+   "website": "https://biscuitheads.com",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Biscuits and a house gravy bar. Wheat-anchored, but the gravy bar is a per-component choice station."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/tupelo-honey-southern-kitchen-bar",
+   "city_id": "asheville-nc-us",
+   "slug": "tupelo-honey-southern-kitchen-bar",
+   "name": "Tupelo Honey Southern Kitchen & Bar",
+   "website": "https://tupelohoneycafe.com",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Sweet potato pancakes are the signature. NOT in the Michelin selection -- it is a negative control for that award claim only, and legitimately in this registry."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/green-sage-cafe",
+   "city_id": "asheville-nc-us",
+   "slug": "green-sage-cafe",
+   "name": "Green Sage Cafe",
+   "website": "https://www.greensagecafe.com",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Three locations. Menu described as nutrient-rich and largely organic."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/liberty-house-cafe",
+   "city_id": "asheville-nc-us",
+   "slug": "liberty-house-cafe",
+   "name": "Liberty House Cafe",
+   "website": "",
+   "address": "North Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Pancakes, skillets, overnight oats, avocado toast. Farm-to-table, family owned, in the Wellness District."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/moose-cafe",
+   "city_id": "asheville-nc-us",
+   "slug": "moose-cafe",
+   "name": "Moose Cafe",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Farmers-market adjacent breakfast."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/city-bakery",
+   "city_id": "asheville-nc-us",
+   "slug": "city-bakery",
+   "name": "City Bakery",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Bakery and breakfast."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/flour",
+   "city_id": "asheville-nc-us",
+   "slug": "flour",
+   "name": "Flour",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Breakfast and brunch."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/abejas-house-cafe",
+   "city_id": "asheville-nc-us",
+   "slug": "abejas-house-cafe",
+   "name": "Abeja's House Cafe",
+   "website": "",
+   "address": "1550 Hendersonville Rd, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Latin and American breakfast, South Asheville. No active website as of the source date -- a case where the registry holds a name and address and nothing else, which is still more than a family has now."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/the-blackbird",
+   "city_id": "asheville-nc-us",
+   "slug": "the-blackbird",
+   "name": "The Blackbird",
+   "website": "",
+   "address": "Biltmore Ave, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Chef-owned New American with Southern influence, seasonal menu."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/white-duck-taco-shop",
+   "city_id": "asheville-nc-us",
+   "slug": "white-duck-taco-shop",
+   "name": "White Duck Taco Shop",
+   "website": "https://whiteducktacoshop.com",
+   "address": "12 Biltmore Ave, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Press names a bean and sweet potato taco -- two distinct starch families and a legume, all named. River Arts location was under reconstruction in 2025."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/taco-billy",
+   "city_id": "asheville-nc-us",
+   "slug": "taco-billy",
+   "name": "Taco Billy",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Breakfast tacos."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/mamacitas-taco-temple",
+   "city_id": "asheville-nc-us",
+   "slug": "mamacitas-taco-temple",
+   "name": "Mamacita's Taco Temple",
+   "website": "",
+   "address": "132 Charlotte St, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Order at the window and they bring it out -- counter-service camouflage. Small kids menu, a salad option, and tater tots (potato anchor)."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/cantina-louie",
+   "city_id": "asheville-nc-us",
+   "slug": "cantina-louie",
+   "name": "Cantina Louie",
+   "website": "",
+   "address": "2 Gerber Rd Suite C101, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Kids menu and takeout. Notably orderable on GrubHub with add and remove toppings -- that is a published modifier group, which is machine-readable accommodation evidence."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/tamaleria-y-tortilleria-molina",
+   "city_id": "asheville-nc-us",
+   "slug": "tamaleria-y-tortilleria-molina",
+   "name": "Tamaleria y Tortilleria Molina",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Tortilleria -- makes its own masa. Corn starch family at the source."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/mountain-madre-mexican-kitchen-and-agave-bar",
+   "city_id": "asheville-nc-us",
+   "slug": "mountain-madre-mexican-kitchen-and-agave-bar",
+   "name": "Mountain Madre Mexican Kitchen and Agave Bar",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Mexican."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/salsas",
+   "city_id": "asheville-nc-us",
+   "slug": "salsas",
+   "name": "Salsas",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Mexican-Caribbean since 1994, with South American and Japanese influence. House-made beans and rice."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/peace-love-tacos",
+   "city_id": "asheville-nc-us",
+   "slug": "peace-love-tacos",
+   "name": "Peace Love Tacos",
+   "website": "",
+   "address": "S&W Building, Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Tacos in the S&W food hall -- food-hall counter service."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/andale-way-mexican-grill",
+   "city_id": "asheville-nc-us",
+   "slug": "andale-way-mexican-grill",
+   "name": "Andale Way Mexican Grill",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Mexican."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/la-rumba-restaurant-latino",
+   "city_id": "asheville-nc-us",
+   "slug": "la-rumba-restaurant-latino",
+   "name": "La Rumba Restaurant Latino",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Latin American."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/taqueria-munoz",
+   "city_id": "asheville-nc-us",
+   "slug": "taqueria-munoz",
+   "name": "Taqueria Munoz",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Taqueria."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/the-standard",
+   "city_id": "asheville-nc-us",
+   "slug": "the-standard",
+   "name": "The Standard",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Category lists for starch anchors and accommodation potential: Eating Asheville, Stu Helm Food Fan, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Sushi",
+    "Best Pizza"
+   ],
+   "notes": "Pizza, two locations. Dough plus a hot oven plus a topping station is the exact setup for cooking a guest-supplied low-protein crust."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/pie-zaa",
+   "city_id": "asheville-nc-us",
+   "slug": "pie-zaa",
+   "name": "Pie Zaa",
+   "website": "",
+   "address": "Downtown Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Category lists for starch anchors and accommodation potential: Eating Asheville, Stu Helm Food Fan, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Sushi",
+    "Best Pizza"
+   ],
+   "notes": "Pizza by the slice."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/andaaz",
+   "city_id": "asheville-nc-us",
+   "slug": "andaaz",
+   "name": "Andaaz",
+   "website": "",
+   "address": "Asheville NC",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Category lists for starch anchors and accommodation potential: Eating Asheville, Stu Helm Food Fan, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Sushi",
+    "Best Pizza"
+   ],
+   "notes": "Indian. Rice and naan anchors; press names Palak Paneer and Malai Kofta -- both dairy-and-legume heavy, so vegetarian here is not low protein."
+  }
+ ]
+}

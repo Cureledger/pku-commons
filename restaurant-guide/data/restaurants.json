@@ -1,0 +1,994 @@
+{
+ "schema_version": "registry-v1",
+ "restaurants": [
+  {
+   "restaurant_id": "asheville-nc-us/luminosa",
+   "city_id": "asheville-nc-us",
+   "slug": "luminosa",
+   "name": "Luminosa",
+   "website": "https://www.luminosaavl.com",
+   "address": "20 Battery Park Ave., Asheville, NC 28801",
+   "menu_urls": [
+    "https://www.luminosaavl.com/menus/"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "green_star+bib_gourmand"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "green_star+bib_gourmand"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Green Star + Bib Gourmand. Inside the Flat Iron Hotel. Exec Chef Graham House, CdC Sean McMullen. Whole-animal butchery and fermentation program.",
+   "blurb": "Wood-fired vegetables and fermentation in the Flat Iron Hotel, a Michelin Green Star and Bib Gourmand."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/addissae",
+   "city_id": "asheville-nc-us",
+   "slug": "addissae",
+   "name": "Addissae",
+   "website": "https://addissae.com",
+   "address": null,
+   "menu_urls": [
+    "https://addissae.com/menu"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Downtown Ethiopian. Recommended list.",
+   "blurb": "Downtown Ethiopian, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/all-day-darling",
+   "city_id": "asheville-nc-us",
+   "slug": "all-day-darling",
+   "name": "All Day Darling",
+   "website": "https://www.alldaydarlingavl.com",
+   "address": null,
+   "menu_urls": [
+    "https://www.alldaydarlingavl.com/"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": null,
+   "blurb": "A market-focused all-day cafe in Montford, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/curate-bar-de-tapas",
+   "city_id": "asheville-nc-us",
+   "slug": "curate-bar-de-tapas",
+   "name": "Cúrate Bar de Tapas",
+   "website": "https://www.curatetapasbar.com",
+   "address": null,
+   "menu_urls": [
+    "https://www.curatetapasbar.com/menus/"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Chef Katie Button.",
+   "aliases": [
+    "curate"
+   ],
+   "blurb": "Katie Button's Spanish tapas bar, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "city_id": "asheville-nc-us",
+   "slug": "good-hot-fish",
+   "name": "Good Hot Fish",
+   "website": "https://goodhotfish.com",
+   "address": "10 Buxton Ave., Asheville, NC 28801",
+   "menu_urls": [
+    "https://www.goodhotfish.com/menu/main/"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Chef Ashleigh Shanti. South Slope. Opened January 2024.",
+   "blurb": "Ashleigh Shanti's South Slope kitchen, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/leos-house-of-thirst",
+   "city_id": "asheville-nc-us",
+   "slug": "leos-house-of-thirst",
+   "name": "Leo's House of Thirst",
+   "website": "https://www.leosavl.com",
+   "address": null,
+   "menu_urls": [
+    "https://www.leosavl.com/s/Copy-of-Leos-DINNER-May-2026.pdf"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "West Asheville. Owner Drew Wallace, Chef Austin Inselmann. Same ownership group as The Admiral; a different restaurant, kitchen, menu, and address. Do not collapse the two.",
+   "blurb": "A West Asheville wine bar, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/soprana",
+   "city_id": "asheville-nc-us",
+   "slug": "soprana",
+   "name": "Soprana",
+   "website": "https://sopranarooftop.com",
+   "address": null,
+   "menu_urls": [
+    "https://sopranarooftop.com/wp-content/uploads/June-Food-Menu-Combined.pdf"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Atop the Embassy Suites, downtown. Chef Jon Jerman.",
+   "blurb": "Rooftop Italian above the Embassy Suites, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/table",
+   "city_id": "asheville-nc-us",
+   "slug": "table",
+   "name": "Table",
+   "website": "https://tableasheville.com",
+   "address": null,
+   "menu_urls": [
+    "https://tableasheville.com/asheville-downtown-table-asheville-dinner-menu"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Chef Jacob Sessoms. Downtown farm-to-table pioneer.",
+   "blurb": "Jacob Sessoms's downtown farm-to-table, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/tall-johns",
+   "city_id": "asheville-nc-us",
+   "slug": "tall-johns",
+   "name": "Tall John's",
+   "website": "https://www.talljohns.com",
+   "address": null,
+   "menu_urls": [
+    "https://www.talljohns.com/menu"
+   ],
+   "reservation_platform": null,
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Chef Trevor Payne. Montford.",
+   "blurb": "Trevor Payne's Montford restaurant, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/ukiah-japanese-smokehouse",
+   "city_id": "asheville-nc-us",
+   "slug": "ukiah-japanese-smokehouse",
+   "name": "Ukiah Japanese Smokehouse",
+   "website": "https://ukiahrestaurant.com",
+   "address": "121 Biltmore Ave., Asheville, NC 28801",
+   "menu_urls": [
+    "https://www.ukiahrestaurant.com/menu/dinner/"
+   ],
+   "reservation_platform": "opentable",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide American South, inaugural edition",
+     "year": "2025",
+     "citation": "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "tier_source": "verbatim label as published by the MICHELIN Guide",
+     "superseded_tier_slug": "recommended"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "seed-import",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Downtown. Co-founder and Exec Chef Michael Lewis. Japanese technique plus Southern smoke; sashimi and yakitori alongside smoked meats and dumplings. A tasting menu is offered, which constrains substitutions - relevant to menu-format tagging.",
+   "aliases": [
+    "ukiah"
+   ],
+   "blurb": "Japanese technique and Southern smoke, Michelin Selected."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/plant",
+   "city_id": "asheville-nc-us",
+   "slug": "plant",
+   "name": "Plant",
+   "website": "https://www.plantisfood.com",
+   "address": "165 Merrimon Ave., Asheville, NC 28801",
+   "menu_urls": [
+    "https://www.plantisfood.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "community",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:29:17+00:00",
+    "citations": [
+     "community nomination: vegan, but harvest as camouflage only"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "Vegan. Posted menu is a sample; the kitchen remakes it daily. 165 Merrimon Ave.",
+   "blurb": "Vegan dinner on Merrimon; the kitchen remakes the menu daily."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/chai-pani",
+   "city_id": "asheville-nc-us",
+   "slug": "chai-pani",
+   "name": "Chai Pani",
+   "website": "https://chaipani.com",
+   "address": "32 Banks Avenue, Asheville, NC 28801",
+   "menu_urls": [
+    "https://chaipani.com/asheville-menu"
+   ],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "James Beard Foundation",
+     "tier": "Outstanding Restaurant",
+     "year": "2022",
+     "citation": "JBF 2022 winner"
+    }
+   ],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:29:32+00:00",
+    "citations": [
+     "Best of WNC 2025 finalists (example)",
+     "JBF 2022 winner"
+    ],
+    "also_found_via": [
+     "award"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "",
+   "blurb": "Indian street food, a James Beard Outstanding Restaurant."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/rhubarb",
+   "city_id": "asheville-nc-us",
+   "slug": "rhubarb",
+   "name": "Rhubarb",
+   "website": "https://rhubarbasheville.com",
+   "address": "7 SW Pack Sq, Asheville NC",
+   "menu_urls": [
+    "https://rhubarbasheville.com/food-menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:29:32+00:00",
+    "citations": [
+     "Best of WNC 2025 finalists (example)"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "",
+   "blurb": "Appalachian cooking on Pack Square."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/jargon",
+   "city_id": "asheville-nc-us",
+   "slug": "jargon",
+   "name": "Jargon",
+   "website": "https://www.jargonrestaurant.com",
+   "address": "715 Haywood Rd, Asheville, NC 28806",
+   "menu_urls": [
+    "https://www.jargonrestaurant.com/dinner-and-desserts"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:29:32+00:00",
+    "citations": [
+     "Best of WNC 2025 finalists (example)"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "",
+   "blurb": "Seasonal modern American in West Asheville."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/posana",
+   "city_id": "asheville-nc-us",
+   "slug": "posana",
+   "name": "Posana",
+   "website": "https://posanarestaurant.com",
+   "address": "",
+   "menu_urls": [
+    "https://posanarestaurant.com/all-menus-downtown-asheville/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:29:32+00:00",
+    "citations": [
+     "Best of WNC 2025 finalists (example)"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "notes": "",
+   "blurb": "Seasonal American with a dedicated gluten-free kitchen."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/zambra-tapas-wine-bar",
+   "city_id": "asheville-nc-us",
+   "slug": "zambra-tapas-wine-bar",
+   "name": "Zambra Tapas & Wine Bar",
+   "website": "https://zambratapas.com",
+   "address": "85 W Walnut St, Asheville NC",
+   "menu_urls": [
+    "https://zambratapas.com/wp-content/uploads/2026/01/dinnermenu26.pdf"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Western Mediterranean tapas below sidewalk level on Walnut St. Plates start around $7 -- one of the most affordable in the city, which matters when you are ordering four vegetable dishes instead of one entree. Press names fried chickpeas (legume), pan roasted scallops, confit duck leg.",
+   "blurb": "Western Mediterranean tapas on Walnut Street."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/asheville-proper",
+   "city_id": "asheville-nc-us",
+   "slug": "asheville-proper",
+   "name": "Asheville Proper",
+   "website": "https://www.ashevilleproper.com",
+   "address": "Asheville NC",
+   "menu_urls": [
+    "https://www.ashevilleproper.com/menu/dinner-menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Live-fire steakhouse that also runs a small-plate vegetable section -- press names wood-fired beets and local mushroom ragout. The interesting case: steakhouse economics with small-plate structure.",
+   "blurb": "A live-fire steakhouse with a vegetable small-plate board."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/post-70-indulgence-bar",
+   "city_id": "asheville-nc-us",
+   "slug": "post-70-indulgence-bar",
+   "name": "Post 70 Indulgence Bar",
+   "website": "https://filopost70.com",
+   "address": "East Asheville NC",
+   "menu_urls": [
+    "https://filopost70.com/asheville-filo-pastries-and-post-70-indulgence-bar-food-menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Operates as Filo Pastries by day. Short tapas menu spanning WNC (Carolina BBQ wings, Sunburst trout) and Mediterranean (baba ghanoush, patatas bravas).",
+   "blurb": "A short tapas menu after Filo Pastries closes for the day."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/sovereign-remedies",
+   "city_id": "asheville-nc-us",
+   "slug": "sovereign-remedies",
+   "name": "Sovereign Remedies",
+   "website": "https://www.sovereignremedies.com",
+   "address": "Asheville NC",
+   "menu_urls": [
+    "https://www.sovereignremedies.com/our-menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Small plates plus brunch. Menu described as ever-changing, so short re-capture interval.",
+   "blurb": "A downtown bar with changing small plates."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/red-ginger",
+   "city_id": "asheville-nc-us",
+   "slug": "red-ginger",
+   "name": "Red Ginger",
+   "website": "http://www.redgingerasheville.com",
+   "address": "Asheville NC",
+   "menu_urls": [
+    "http://www.redgingerasheville.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Tapas/Small Plates lists: AVLtoday tapas roundup, Yelp Tapas-Small Plates category, Asheville Cottages local guide"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Tapas / Small Plates"
+   ],
+   "notes": "Chinese dim sum. Dim sum is structurally the same compose-your-own pattern as tapas.",
+   "blurb": "Chinese dim sum, built as compose-your-own plates."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/bargello",
+   "city_id": "asheville-nc-us",
+   "slug": "bargello",
+   "name": "Bargello",
+   "website": "https://bargelloavl.com",
+   "address": "Asheville NC",
+   "menu_urls": [
+    "https://bargelloavl.com/menus-breakfast-dinner/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mediterranean and Middle Eastern lists: RomanticAsheville Mediterranean guide, Yelp Mediterranean category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mediterranean / Middle Eastern"
+   ],
+   "notes": "Mediterranean.",
+   "blurb": "Mediterranean, breakfast through dinner."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/early-girl-eatery",
+   "city_id": "asheville-nc-us",
+   "slug": "early-girl-eatery",
+   "name": "Early Girl Eatery",
+   "website": "https://earlygirleatery.com",
+   "address": "8 Wall St, Asheville NC",
+   "menu_urls": [
+    "https://earlygirleatery.com/our-menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "All-day breakfast since 2001, scratch kitchen, three locations (downtown, West Asheville on Haywood, South Asheville on Hendersonville Rd). Press names sweet potato pancakes and breakfast bowls -- sweet potato is a distinct starch family from wheat.",
+   "blurb": "Scratch all-day breakfast, three Asheville locations."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/corner-kitchen",
+   "city_id": "asheville-nc-us",
+   "slug": "corner-kitchen",
+   "name": "Corner Kitchen",
+   "website": "https://thecornerkitchen.com",
+   "address": "Biltmore Village, Asheville NC",
+   "menu_urls": [
+    "https://thecornerkitchen.com/menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Brunch and breakfast lists: Explore Asheville brunch roundups, Yelp Breakfast-Brunch category, Grace & Lightness, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Brunch",
+    "Best Breakfast"
+   ],
+   "notes": "Brunch. Also a Michelin negative control.",
+   "blurb": "Brunch in Biltmore Village."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/limones",
+   "city_id": "asheville-nc-us",
+   "slug": "limones",
+   "name": "Limones",
+   "website": "https://www.limonesavl.com",
+   "address": "Asheville NC",
+   "menu_urls": [
+    "https://www.limonesavl.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Mexican and taco lists: RomanticAsheville tacos guide, Uncorked Asheville 12 Best Tacos, Wanderlog, Restaurantji, Yelp Mexican category"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Mexican / Best Tacos"
+   ],
+   "notes": "Mexican with California influence.",
+   "blurb": "Mexican with a California tilt."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/wasabi",
+   "city_id": "asheville-nc-us",
+   "slug": "wasabi",
+   "name": "Wasabi",
+   "website": "https://wasabiavl.com",
+   "address": "Asheville NC",
+   "menu_urls": [
+    "https://wasabiavl.com/wp-content/uploads/Wasabi-Menu-May2026-OCR.pdf"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Category lists for starch anchors and accommodation potential: Eating Asheville, Stu Helm Food Fan, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Sushi",
+    "Best Pizza"
+   ],
+   "notes": "Sushi. Rice is a reliable anchor and sushi is priced per item, so portion control is unusually good.",
+   "blurb": "Sushi, priced per piece."
+  },
+  {
+   "restaurant_id": "asheville-nc-us/nine-mile",
+   "city_id": "asheville-nc-us",
+   "slug": "nine-mile",
+   "name": "Nine Mile",
+   "website": "https://ninemileavl.com",
+   "address": "Asheville NC",
+   "menu_urls": [
+    "https://ninemileavl.com/our-menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "local_list",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T20:34:06+00:00",
+    "citations": [
+     "Category lists for starch anchors and accommodation potential: Eating Asheville, Stu Helm Food Fan, Uncorked Asheville"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "harvest_categories": [
+    "Best Sushi",
+    "Best Pizza"
+   ],
+   "notes": "Caribbean, two locations. Press specifically notes whole grain and grain free options, which means the kitchen already tracks starch substitution.",
+   "blurb": "Caribbean and vegetarian-friendly, three Asheville locations."
+  }
+ ],
+ "note": "Open registry. Membership requires only that someone added the record and recorded where it came from. Awards are optional metadata, never a gate. No suitability score lives here.",
+ "restaurant_count": 26,
+ "updated_utc": "2026-08-23T20:40:59+00:00",
+ "changelog": [
+  {
+   "version": "registry v1.1",
+   "utc": "2026-08-23",
+   "change": "Normalized MICHELIN tier labels to the program's own verbatim words. The seed migration had copied internal slugs ('recommended', 'bib_gourmand') into the tier field, which is specified to hold the label as published -- 'Selected', 'Bib Gourmand'. Luminosa's compound slug 'green_star+bib_gourmand' was split into TWO award entries, since awards is a list and flattening two recognitions into one label is exactly what the contributor guide forbids."
+  },
+  {
+   "version": "registry v1.2",
+   "utc": "2026-08-23",
+   "change": "Correction to the v1.1 session note. The 41-restaurant category harvest was described as needing 'no new code'. That was wrong: src/registry.py gained a harvest_categories parameter on make_record plus a merge branch so the field survives a second sighting. The accurate claim is that no new INGESTION code was needed -- add.py and the batch path were unchanged, and adding a city or a list still requires none. Recorded because an understated diff is how a schema change goes unreviewed."
+  },
+  {
+   "version": "registry v1.3",
+   "utc": "2026-08-23",
+   "change": "Added slug aliases after finding that the seed migration silently renamed two records -- 'curate' became 'curate-bar-de-tapas' and 'ukiah' became 'ukiah-japanese-smokehouse', because slugify() ran on the full restaurant name instead of preserving the id the captures were already filed under. Two captured menus (84 dishes) were orphaned and invisible to the app. find() now resolves aliases in both directions, and add_alias() refuses an alias that collides with a different restaurant's live slug."
+  }
+ ]
+}

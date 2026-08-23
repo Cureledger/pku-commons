@@ -1,0 +1,18 @@
+{
+ "schema_version": "cities-v1",
+ "note": "Cities are created implicitly by adding a restaurant -- there is no per-city setup. This file only holds optional extras: a display name, a timezone, and any local list sources worth harvesting.",
+ "cities": [
+  {
+   "city_id": "asheville-nc-us",
+   "display_name": "Asheville, North Carolina",
+   "country": "us",
+   "timezone": "America/New_York",
+   "seed_note": "Seeded from the 15 restaurants in the inaugural MICHELIN Guide American South (ceremony 2025-11-03) as a way to bound a starting list, then opened up. The award was the bootstrap, not the membership rule.",
+   "local_list_sources": "data/local_lists_asheville.json",
+   "target_event": {
+    "name": "Camp Phebe",
+    "when": "2027-07"
+   }
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "registry_version": "v0.1",
+ "generated_utc": "2026-08-23",
+ "city_id": "asheville-nc-us",
+ "product": "Phebe Gourmet",
+ "reviewer_of_record": "PLACEHOLDER - unassigned",
+ "purpose": "Local best-of lists for Asheville, with the properties that decide whether each is worth harvesting. The unit we harvest is a CATEGORY, not a winner. 'Best Restaurant' is useless to us; 'Best Tapas' and 'Best French Fries' are the whole point.",
+ "core_insight": "Reader-voted best-of programs run hundreds of categories. Roughly 15-18 of them map onto signals in the taxonomy; the rest are noise. Subscribe to categories, not to overall winners.",
+ "programs": [
+  {
+   "key": "mountain_xpress_best_of_wnc",
+   "name": "Best of WNC",
+   "operator": "Mountain Xpress",
+   "type": "reader_voted",
+   "cadence": "annual",
+   "url": "https://mountainx.com",
+   "scale": "about 600 categories on the ballot; the Eats and Drinks section is the most heavily voted and gets its own issue",
+   "granularity": "first, second and third place per category",
+   "geographic_scope": "Asheville proper, Buncombe County, and towns across multiple surrounding counties",
+   "why_it_matters": "The deepest category structure available anywhere in this city, and it is the single best source of horizontal coverage beyond the Michelin 15. Third-place finishers matter as much as winners for our purposes -- we want the set of competent kitchens in a category, not a ranking.",
+   "bias": "Reader-voted, so it measures popularity and mobilisation, not kitchen flexibility. Long incumbencies are visible in the data (one Italian restaurant has taken #1 for 14 consecutive years), and a Hall of Fame mechanism retires repeat winners, which shifts the visible winner set without any change on the ground.",
+   "machine_readable": false,
+   "access": "published issue plus a WNC Pocket Guide edition",
+   "value": "high"
+  },
+  {
+   "key": "best_of_asheville",
+   "name": "Best of Asheville",
+   "operator": "Asheville Media Group",
+   "type": "reader_voted",
+   "cadence": "annual",
+   "url": "https://bestofavl.com",
+   "scale": "247 categories, 1,380 nominations, 375 Gold and Silver winners, more than 200,000 verified votes in the 2025 edition",
+   "granularity": "Gold and Silver per category",
+   "geographic_scope": "Asheville and Western North Carolina",
+   "why_it_matters": "A second, independent reader-voted program. Where the two programs AGREE on a category, that is a much stronger signal than either alone -- and disagreement is informative too, since the voter pools differ.",
+   "bias": "Same reader-vote mobilisation bias. Distribution includes print copies at a regional grocery chain, so the voter pool skews local resident rather than visitor.",
+   "machine_readable": false,
+   "access": "bestofavl.com plus a printed edition",
+   "value": "high_as_corroboration"
+  },
+  {
+   "key": "stoobie_awards",
+   "name": "Stoobie Awards / Asheville Food Fan Awards",
+   "operator": "Stu Helm (independent food writer)",
+   "type": "single_critic",
+   "cadence": "annual",
+   "url": "https://stuhelmfoodfan.substack.com",
+   "scale": "about 25 categories, one winner each",
+   "granularity": "winner per category, plus nominees",
+   "why_it_matters": "A single named critic with a consistent palate and a newsletter. Far smaller than the reader-voted programs, but the categories are idiosyncratic and food-specific, and winners display window stickers, which means a diner can spot one from the street. Also: a named individual is someone you can actually talk to about PKU, which no reader poll is.",
+   "bias": "One person's taste. No pretence otherwise, which is arguably more honest than a poll.",
+   "machine_readable": false,
+   "access": "Substack newsletter -- subscribe from the menus@ inbox",
+   "value": "medium_high_relationship_value"
+  },
+  {
+   "key": "edible_asheville",
+   "name": "Edible Asheville",
+   "operator": "Edible Communities affiliate",
+   "type": "editorial",
+   "cadence": "rolling",
+   "url": "https://www.edibleasheville.com",
+   "why_it_matters": "Not an awards program -- a food magazine with dish-level editorial coverage. Value is as a DISH source: their ceremony coverage named specific plates, which is what the lexicon was validated against. Also runs a weekly newsletter May to October and a monthly year-round.",
+   "machine_readable": false,
+   "access": "two newsletters -- subscribe both from the menus@ inbox",
+   "value": "medium_dish_level_detail"
+  },
+  {
+   "key": "explore_asheville",
+   "name": "Explore Asheville",
+   "operator": "Buncombe County Tourism Development Authority",
+   "type": "destination_marketing",
+   "cadence": "rolling",
+   "url": "https://www.exploreasheville.com",
+   "why_it_matters": "The official DMO. Not a curatorial list, but it is the ORIGIN of the press release that most Michelin coverage reprints verbatim, and a DMO has an institutional interest in Asheville being known as an accessible food city. That makes it an outreach target, not just a source.",
+   "machine_readable": false,
+   "value": "medium_outreach_channel"
+  },
+  {
+   "key": "eating_asheville",
+   "name": "Eating Asheville",
+   "operator": "independent blog",
+   "type": "editorial",
+   "cadence": "rolling",
+   "url": "https://eatingasheville.com",
+   "why_it_matters": "Covers Best of WNC results with commentary, useful as a secondary index into the awards.",
+   "machine_readable": false,
+   "value": "low_secondary_index"
+  }
+ ],
+ "not_a_list_but_the_highest_value_target": {
+  "key": "air_asheville",
+  "name": "Asheville Independent Restaurant Association (AIR)",
+  "url": "https://airasheville.org",
+  "formed": "fall 2002, incorporated as a non-profit 2004-04-14",
+  "type": "membership_organization",
+  "members": "150+ locally owned independent restaurants, described as one of the largest organizations of its kind in the country",
+  "why_this_outranks_every_award_list": "An award list gives you names. AIR gives you ACCESS, and access is the thing the guide actually needs. Four properties no best-of list has: (1) a searchable member directory filterable by food type, neighborhood and amenities -- that is 150+ restaurants of horizontal coverage in one structured place, ten times the Michelin 15; (2) an executive director and a board, so ONE conversation can reach 150 kitchens instead of 150 conversations reaching 150 kitchens; (3) AIRmail, a weekly member newsletter -- the single best channel for putting a low-protein accommodation ask in front of every independent kitchen in the city at once; (4) Taste of Asheville, their signature event: roughly 30 restaurants and 700 attendees in one room on one night. For Camp Phebe outreach that is the highest-leverage evening on the calendar, and it is a tasting event, so chefs are already thinking about portioning single small plates.",
+  "also": "Runs a culinary scholarship foundation, so there is a pipeline of culinary students -- a plausible route to getting low-protein cooking into local training.",
+  "caveat": "Membership is self-selected and dues-based, so it is a directory of independents who choose to join, not a quality ranking and not a complete census of Asheville restaurants. Treat it as a coverage source and a channel, never as an award.",
+  "value": "highest",
+  "correction": "An earlier draft of this file said '60+', which understated it by more than half. RomanticAsheville's restaurant guide describes AIR as 150+ independents. At that size AIR is ten times the Michelin 15 and is unambiguously the largest single coverage source in the city."
+ },
+ "categories_worth_harvesting": [
+  {
+   "category": "Best Tapas / Small Plates",
+   "feeds_signals": [
+    "compose_your_own_format"
+   ],
+   "why": "Strongest camouflage signal there is. Everyone at the table orders five dishes, so five vegetable dishes is invisible. Directly names the format we most want to find.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Mediterranean / Middle Eastern",
+   "feeds_signals": [
+    "compose_your_own_format",
+    "names_potato_or_starch"
+   ],
+   "why": "Mezze is the same structural pattern as tapas, and rice/potato/bread anchors are usually all present.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Ethiopian",
+   "feeds_signals": [
+    "compose_your_own_format"
+   ],
+   "why": "A combination platter IS composing your own meal, and it is ordered that way by default. Addissae is already in the registry.",
+   "anti_inference_warning": "Injera is teff, and shiro/misir/kik are legume-based. High-phe by default despite reading as vegetable-forward."
+  },
+  {
+   "category": "Best Brunch",
+   "feeds_signals": [
+    "sides_section_size",
+    "names_potato_or_starch"
+   ],
+   "why": "Brunch menus carry more standalone potato and starch sides than any dinner menu, and portions are already flexible.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Breakfast",
+   "feeds_signals": [
+    "names_potato_or_starch"
+   ],
+   "why": "Home fries, grits, hash browns, toast. Several distinct starch anchors on one menu.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best French Fries",
+   "feeds_signals": [
+    "names_potato_or_starch"
+   ],
+   "why": "A dedicated potato-anchor category. Also the single most-asked question by a PKU family walking into a restaurant.",
+   "anti_inference_warning": "A fry-quality award says nothing about batter. Beer-battered, flour-dusted and breaded fries are common and are wheat, not potato."
+  },
+  {
+   "category": "Best Side Dish",
+   "feeds_signals": [
+    "sides_section_size"
+   ],
+   "why": "Sides are the composable unit. A city-level award for sides tells you which kitchens treat them as real dishes rather than afterthoughts.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Takeout",
+   "feeds_signals": [
+    "has_online_ordering",
+    "modifier_groups_present"
+   ],
+   "why": "Takeout winners almost always run a structured ordering platform, which is where machine-readable modifier groups live. This category is a proxy for extractable data.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Kid-Friendly / Best Family Restaurant",
+   "feeds_signals": [
+    "kids_menu_present",
+    "counter_or_kiosk_service"
+   ],
+   "why": "Institutionalised plain food, small portions already priced, and no attention drawn to ordering simply.",
+   "anti_inference_warning": "Kids menus are overwhelmingly breaded, fried and cheese-heavy. Weak signal, cheap to collect."
+  },
+  {
+   "category": "Best Vegetarian",
+   "feeds_signals": [
+    "vegetable_forward_menu"
+   ],
+   "why": "Names vegetable-centre-of-plate dishes, which lowers the social cost of ordering one as a main.",
+   "anti_inference_warning": "MANDATORY: vegetarian does not mean low protein. Legumes, tofu, seitan, cheese and nuts are among the highest-phe foods on any menu. Harvest as camouflage only, never as dietary fit."
+  },
+  {
+   "category": "Best Vegan",
+   "feeds_signals": [
+    "vegetable_forward_menu"
+   ],
+   "why": "Same camouflage value.",
+   "anti_inference_warning": "STRONGEST warning in the set. Vegan menus lean hardest on legume and nut protein. A vegan restaurant can be the worst option in a city. Asheville has a well-known vegan restaurant on national lists -- exactly the trap."
+  },
+  {
+   "category": "Best Salad",
+   "feeds_signals": [
+    "names_vegetable"
+   ],
+   "why": "Cheap to collect.",
+   "anti_inference_warning": "A salad is not calories and is never a meal anchor. Near-useless alone; only meaningful alongside a starch."
+  },
+  {
+   "category": "Best Sushi",
+   "feeds_signals": [
+    "names_potato_or_starch"
+   ],
+   "why": "Rice is a reliable anchor and sushi menus are per-item, so quantity control is unusually good.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Mexican / Best Tacos",
+   "feeds_signals": [
+    "names_potato_or_starch",
+    "build_your_own_item"
+   ],
+   "why": "Corn tortillas are a distinct starch family, and taco menus are build-your-own by construction.",
+   "anti_inference_warning": "'Tortilla' is ambiguous between corn, wheat and (in Spain) egg. Already flagged in the lexicon's ambiguous_terms."
+  },
+  {
+   "category": "Best Pizza",
+   "feeds_signals": [
+    "names_potato_or_starch"
+   ],
+   "why": "Worth harvesting for a different reason: a pizza kitchen has dough, a hot oven and a topping station, which is the exact setup for cooking a guest-supplied low-protein crust or pasta. High accommodation potential, low menu fit.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Farm-to-Table / Best Seasonal",
+   "feeds_signals": [
+    "menu_published"
+   ],
+   "why": "Flags menu CHURN, not fit. These kitchens change menus most often, so they need the shortest re-capture interval in the freshness pipeline.",
+   "anti_inference_warning": null
+  },
+  {
+   "category": "Best Barbecue",
+   "feeds_signals": [
+    "names_potato_or_starch"
+   ],
+   "why": "Harvest specifically to test the M-prior. Barbecue was pre-registered as the worst menu-fit archetype, and the sides board is the whole reason it might not be.",
+   "anti_inference_warning": "Do not skip categories because the prior says they will score badly. A prior that is never tested is an assumption."
+  },
+  {
+   "category": "Best New Restaurant",
+   "feeds_signals": [
+    "menu_published"
+   ],
+   "why": "Useful as a capture-queue signal only. New restaurants change menus constantly and often have no published menu at all.",
+   "anti_inference_warning": null
+  }
+ ],
+ "categories_to_ignore": [
+  {
+   "category": "Best Restaurant / Best Chef / Best Service / Best Ambiance",
+   "why": "Measures whether a restaurant is good. Already rejected as a signal family -- good is not the question."
+  },
+  {
+   "category": "Best Bar / Best Cocktail / Best Brewery / Best Wine List",
+   "why": "No menu-fit content. Asheville has an enormous number of these categories and they are pure noise for this purpose."
+  },
+  {
+   "category": "Best Burger / Best Wings / Best Steak / Best Seafood / Best Fried Chicken",
+   "why": "Protein-cut categories. Harvest only if you want to populate the negative side of the corpus deliberately; they will not produce a meal."
+  }
+ ],
+ "provenance_rule_learned_here": {
+  "problem": "A single Explore Asheville press release is reprinted verbatim across many domains -- a Jacksonville newspaper, a lodge blog, a local news aggregator all carry identical sentences. Citing three of those looks like three independent sources and is one.",
+  "rule": "Cite the ORIGIN, not the reprint. Where a citation is a syndicated copy, record it as syndicated_from and do not count it toward independent corroboration. Independence means different reporting, not a different URL.",
+  "applies_to": "data/restaurants.seed.json provenance blocks; at least one existing citation is a reprint and should be re-pointed."
+ },
+ "how_this_scales_to_other_cities": {
+  "pattern": "Every city has this same four-part structure, and the fork instructions are the same everywhere: (1) find the alt-weekly reader poll, which has the deepest category structure; (2) find the second, competing reader poll for corroboration; (3) find the named local food critic with a newsletter, who is a relationship rather than a dataset; (4) find the independent restaurant association, which is the access layer and outranks all three.",
+  "the_generalisable_asset": "The category->signal map. 'Best Tapas feeds compose_your_own_format' is true in Seville, Melbourne and Nashville. Translate the category name, keep the mapping."
+ }
+}

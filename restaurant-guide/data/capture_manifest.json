@@ -1,0 +1,184 @@
+{
+  "manifest_version": "v0.1",
+  "generated_utc": "2026-08-23",
+  "purpose": "Work order for menu capture. One row per restaurant. A capturer (human or agent) fills source_url, captures the menu to data/menus/<slug>/<iso-date>.<ext>, and appends a row to data/snapshots.jsonl. Restaurant websites are outside the sandbox network allowlist, so capture happens either by saving pages into this repo or by granting the domains.",
+  "required_per_snapshot": [
+    "restaurant_id",
+    "source_url",
+    "fetched_utc",
+    "content_sha256",
+    "extraction_method",
+    "menu_label",
+    "n_dishes_extracted",
+    "capturer",
+    "completeness"
+  ],
+  "extraction_methods": [
+    "structured_platform",
+    "pdf_text",
+    "vision_ocr",
+    "human_transcription",
+    "restaurant_submitted"
+  ],
+  "rules": [
+    "Record the source URL exactly, including the fragment if the menu is a tab.",
+    "One snapshot per menu per capture date. Dinner, brunch and bar menus are SEPARATE snapshots.",
+    "Never merge two menus into one snapshot; the counts become uninterpretable.",
+    "If a site posts a 'sample menu' with no date, record menu_label='sample_undated' -- it is a real and common case.",
+    "Transcribe verbatim. Do not normalize, translate, or tidy dish descriptions; the lexicon handles matching.",
+    "If a dish description is absent on the menu, leave it empty. Do not supply one from knowledge."
+  ],
+  "rows": [
+    {
+      "restaurant_id": "asheville-nc-us/luminosa",
+      "slug": "luminosa",
+      "name": "Luminosa",
+      "award": "green_star+bib_gourmand",
+      "website": "https://www.luminosaavl.com",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://www.luminosaavl.com/menus/"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/little-chango",
+      "slug": "little-chango",
+      "name": "Little Chango",
+      "award": "bib_gourmand",
+      "website": null,
+      "status": "needs_capture",
+      "blocking": null
+    },
+    {
+      "restaurant_id": "asheville-nc-us/mother",
+      "slug": "mother",
+      "name": "Mother",
+      "award": "bib_gourmand",
+      "website": null,
+      "status": "needs_capture",
+      "blocking": null
+    },
+    {
+      "restaurant_id": "asheville-nc-us/addissae",
+      "slug": "addissae",
+      "name": "Addissae",
+      "award": "recommended",
+      "website": "https://addissae.com",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://addissae.com/menu"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/all-day-darling",
+      "slug": "all-day-darling",
+      "name": "All Day Darling",
+      "award": "recommended",
+      "website": "https://www.alldaydarlingavl.com",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://www.alldaydarlingavl.com/"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/curate",
+      "slug": "curate",
+      "name": "Cúrate Bar de Tapas",
+      "award": "recommended",
+      "website": "https://www.curatetapasbar.com",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://www.curatetapasbar.com/menus/"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/golden-hour",
+      "slug": "golden-hour",
+      "name": "Golden Hour",
+      "award": "recommended",
+      "website": null,
+      "status": "needs_capture",
+      "blocking": [
+        "cuisine",
+        "address",
+        "website",
+        "menu_url",
+        "reservation_platform"
+      ]
+    },
+    {
+      "restaurant_id": "asheville-nc-us/good-hot-fish",
+      "slug": "good-hot-fish",
+      "name": "Good Hot Fish",
+      "award": "recommended",
+      "website": "https://goodhotfish.com",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://www.goodhotfish.com/menu/main/"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/leos-house-of-thirst",
+      "slug": "leos-house-of-thirst",
+      "name": "Leo's House of Thirst",
+      "award": "recommended",
+      "website": "https://www.leosavl.com/s/Copy-of-Leos-DINNER-May-2026.pdf",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://www.leosavl.com/s/Copy-of-Leos-DINNER-May-2026.pdf"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/soprana",
+      "slug": "soprana",
+      "name": "Soprana",
+      "award": "recommended",
+      "website": "https://sopranarooftop.com/wp-content/uploads/June-Food-Menu-Combined.pdf",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://sopranarooftop.com/wp-content/uploads/June-Food-Menu-Combined.pdf"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/sunny-point-cafe",
+      "slug": "sunny-point-cafe",
+      "name": "Sunny Point Café",
+      "award": "recommended",
+      "website": null,
+      "status": "needs_capture",
+      "blocking": null
+    },
+    {
+      "restaurant_id": "asheville-nc-us/table",
+      "slug": "table",
+      "name": "Table",
+      "award": "recommended",
+      "website": "https://tableasheville.com/asheville-downtown-table-asheville-dinner-menu",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://tableasheville.com/asheville-downtown-table-asheville-dinner-menu"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/tall-johns",
+      "slug": "tall-johns",
+      "name": "Tall John's",
+      "award": "recommended",
+      "website": "https://www.talljohns.com",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://www.talljohns.com/menu"
+    },
+    {
+      "restaurant_id": "asheville-nc-us/the-admiral",
+      "slug": "the-admiral",
+      "name": "The Admiral",
+      "award": "recommended",
+      "website": "https://www.theadmiralasheville.com",
+      "status": "needs_capture",
+      "blocking": null
+    },
+    {
+      "restaurant_id": "asheville-nc-us/ukiah",
+      "slug": "ukiah",
+      "name": "Ukiah Japanese Smokehouse",
+      "award": "recommended",
+      "website": "https://ukiahrestaurant.com",
+      "status": "captured",
+      "blocking": null,
+      "source_url": "https://www.ukiahrestaurant.com/menu/dinner/"
+    }
+  ]
+}

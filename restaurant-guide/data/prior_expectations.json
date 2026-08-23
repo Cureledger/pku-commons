@@ -1,0 +1,68 @@
+{
+  "purpose": "PRE-REGISTERED expectations about each restaurant's menu, written 2026-08-23 BEFORE any menu was captured. Not app data. Not displayed. Recorded separately so that when the real census lands it can be checked against what was expected -- a wrong prior is informative and must not be quietly edited afterward.",
+  "written_utc": "2026-08-23",
+  "written_before_menu_capture": true,
+  "not_for_display": true,
+  "entries": {
+    "luminosa": {
+      "expected_rank_1_to_4": 3,
+      "rationale": "Italian-American with a pasta program and a whole-vegetable ethos. Handmade pasta is high-phe as served, but a scratch pasta kitchen that already boils to order is the single best A4 candidate in the set: they own the equipment and the technique for low-pro pasta. Green Star sourcing implies a deep vegetable side vocabulary."
+    },
+    "little-chango": {
+      "expected_rank_1_to_4": 2,
+      "rationale": "Arepas are masa (corn) - a genuine low-phe anchor and the base of the whole menu. The toppings (ropa vieja, pernil) are the phe. An arepa ordered with vegetable toppings is a plausible meal, which is a much better structural position than it looks."
+    },
+    "mother": {
+      "expected_rank_1_to_4": 1,
+      "rationale": "Menu is built on the bread program. Wheat sourdough is the phe. A bakery-centred menu is structurally the hardest case in this set on the M axis - but a bakery is also the most interesting A4 target in the city, because a low-protein bread baked by Mother would be a landmark."
+    },
+    "addissae": {
+      "expected_rank_1_to_4": 3,
+      "rationale": "Injera is teff. Vegetable combination platters are ordered as a set of separately-cooked stews, so the diner composes portions dish by dish. Legume stews (misir, shiro) are high-phe; cabbage, carrot, potato, collard and beet dishes are not. Kitchens here routinely explain every dish because the fasting menu is already a dietary interface."
+    },
+    "all-day-darling": {
+      "expected_rank_1_to_4": 2,
+      "rationale": "Brunch format: potato and fruit sides are plentiful, egg and dairy are the phe load. Toast/pastry base is wheat. Good side vocabulary, weak entree options."
+    },
+    "curate": {
+      "expected_rank_1_to_4": 4,
+      "rationale": "Structurally the best case in the set. Tapas is a la carte by design: patatas, pimientos, escalivada, pan con tomate, espinacas. The diner composes portion by portion with no modification needed and no special request. Chef Katie Button. This is the reference M4 candidate."
+    },
+    "golden-hour": {
+      "expected_rank_1_to_4": null,
+      "rationale": "Not yet characterised - no menu or cuisine descriptor captured. Do not assign a prior until the menu is read."
+    },
+    "good-hot-fish": {
+      "expected_rank_1_to_4": 1,
+      "rationale": "Counter-service fry house. Fish dipped in Bloody Butcher and Cateto cornmeal - cornmeal is a lower-phe coating than wheat batter, which matters. Hush puppies are corn. Sea Island red peas are legume, high. The cabbage and sweet potato pancake is the standout low-phe candidate. Shared fryer is irrelevant for PKU (quantity, not trace), which is a real advantage over allergy guidance."
+    },
+    "leos-house-of-thirst": {
+      "expected_rank_1_to_4": 2,
+      "rationale": "Small-plates format is favourable (a la carte, composable) but the menu skews cheese, charcuterie and bread - the signature is a grilled cheese. Small plates with a weak starch anchor."
+    },
+    "soprana": {
+      "expected_rank_1_to_4": 1,
+      "rationale": "Pizza-forward. Wheat crust plus cheese is the worst combination in the set as served. A brick oven is an A-axis opportunity only if they will bake a guest-supplied low-pro crust, which is a real ask in a shared-oven pizza service."
+    },
+    "sunny-point-cafe": {
+      "expected_rank_1_to_4": 3,
+      "rationale": "Made-from-scratch garden-driven kitchen with an unusually deep starch and vegetable side list. All-day breakfast means potatoes and grits are always on. Scratch commitment is the strongest A-axis signal available from public text - but it is still a signal, not a verified A score."
+    },
+    "table": {
+      "expected_rank_1_to_4": 2,
+      "rationale": "Farm-to-table fine dining. Vegetable-literate kitchen, but protein-centred plate architecture means composing a meal likely requires off-menu plating - an A3 ask, not an M-axis win."
+    },
+    "tall-johns": {
+      "expected_rank_1_to_4": 2,
+      "rationale": "Elevated tavern. American-classics menus carry fries and potato sides reliably; the fries question (flour-dusted or not) decides whether the anchor is real. Montford location matters for camp logistics."
+    },
+    "the-admiral": {
+      "expected_rank_1_to_4": null,
+      "rationale": "Identity established 2026-08-23 (Michelin restaurant page). West Asheville regional American, rotating seasonal menu, different kitchen and address from Leo's House of Thirst. Do not copy Leo's prior. No rank assigned until a menu snapshot is read."
+    },
+    "ukiah": {
+      "expected_rank_1_to_4": null,
+      "rationale": "Identity established 2026-08-23 (Michelin restaurant page). Downtown Japanese smokehouse: small plates, skewers, sashimi, smoked meats, tasting menu. A different restaurant from Leo's and from The Admiral. No rank assigned until a menu snapshot is read."
+    }
+  }
+}

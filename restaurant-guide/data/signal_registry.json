@@ -1,0 +1,268 @@
+{
+ "registry_version": "v0.1",
+ "generated_utc": "2026-08-23",
+ "purpose": "Every candidate tag for screening restaurants, with its real properties. Four families. No composite score is computed from these -- they are tags, filterable individually. The suitability scale remains undefined by design.",
+ "reviewer_of_record": "PLACEHOLDER - unassigned",
+ "families": {
+  "curatorial": "Third-party recognition. Bootstraps a list, indicates competence, predicts nothing about accommodation.",
+  "structural": "Facts about how the menu and service are ORGANIZED. Machine-readable, globally uniform, free to store. The workhorse family.",
+  "camouflage": "Whether ordering the way you need to order looks like how everyone else orders. The 'no big deal' axis.",
+  "accommodation_evidence": "What the kitchen will actually do. Historically contact-only; two members of this family are machine-readable, which is the important finding."
+ },
+ "signals": [
+  {
+   "key": "award_tier",
+   "label": "Award tier (verbatim)",
+   "family": "curatorial",
+   "machine_readable": false,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "uneven",
+   "what_it_tells_you": "that a third party rated the kitchen highly",
+   "why_it_works": "bounded, citable, externally defined -- good for a seed list",
+   "caveat": "No relationship to accommodation willingness. Michelin skews to expensive protein-centred tasting menus, which are among the hardest cases.",
+   "source": "program page"
+  },
+  {
+   "key": "menu_published",
+   "label": "Menu published online at all",
+   "family": "structural",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "universal",
+   "what_it_tells_you": "whether you can plan before arriving",
+   "why_it_works": "the precondition for everything else; also the single most common failure",
+   "caveat": "A stale undated 'sample menu' PDF counts as published and is often wrong.",
+   "source": "restaurant site"
+  },
+  {
+   "key": "menu_has_descriptions",
+   "label": "Dishes have ingredient descriptions",
+   "family": "structural",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "universal",
+   "what_it_tells_you": "whether the census can extract anything",
+   "why_it_works": "name-only menus ('Market Fish 34') are unanalysable at any scale",
+   "caveat": null,
+   "source": "restaurant site"
+  },
+  {
+   "key": "format_a_la_carte",
+   "label": "A la carte (not tasting-only)",
+   "family": "structural",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "universal",
+   "what_it_tells_you": "whether you can choose what arrives",
+   "why_it_works": "a fixed progression removes the diner's only real lever",
+   "caveat": "Tasting-only is not fatal if the kitchen swaps courses -- but that is accommodation data, not structure.",
+   "source": "menu structure"
+  },
+  {
+   "key": "sides_section_size",
+   "label": "Number of standalone sides / vegetable plates",
+   "family": "structural",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "universal",
+   "what_it_tells_you": "how much of a meal you can build without asking for anything",
+   "why_it_works": "sides are the composable unit; a long sides list is a menu you can eat from silently",
+   "caveat": "Counts dishes, not portions. Four sides may still not be dinner.",
+   "source": "menu structure"
+  },
+  {
+   "key": "starch_family_count",
+   "label": "Distinct starch families named",
+   "family": "structural",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "universal",
+   "what_it_tells_you": "whether there is more than one calorie base, so one being off-menu is not fatal",
+   "why_it_works": "single-anchor menus are a single point of failure",
+   "caveat": "already computed by the census",
+   "source": "census"
+  },
+  {
+   "key": "allergen_matrix_published",
+   "label": "Allergen or dietary matrix published",
+   "family": "structural",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "strong in EU/UK, weak in US",
+   "what_it_tells_you": "that the kitchen tracks ingredients per dish as a routine",
+   "why_it_works": "EU allergen regulation forced this infrastructure into existence; where it exists the kitchen already has per-dish ingredient discipline",
+   "caveat": "Allergen data is about the 14 declarable allergens, NOT protein quantity. Useful as evidence of ingredient tracking, never as a phe source.",
+   "source": "restaurant site"
+  },
+  {
+   "key": "has_online_ordering",
+   "label": "Online ordering exists",
+   "family": "structural",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "broad",
+   "what_it_tells_you": "that a structured, machine-readable menu exists behind it",
+   "why_it_works": "ordering platforms expose menus as JSON -- far better than scraping a design-led site",
+   "caveat": null,
+   "source": "Toast/Square/ChowNow/etc"
+  },
+  {
+   "key": "modifier_groups_present",
+   "label": "Online-order modifier groups (remove cheese, sub side)",
+   "family": "accommodation_evidence",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "broad",
+   "what_it_tells_you": "that the kitchen ALREADY has a workflow for altering this dish -- and you can invoke it without speaking to anyone",
+   "why_it_works": "This is the finding worth acting on. Accommodation was assumed to be contact-only, but a modifier group is a kitchen capability the restaurant has published in machine-readable form. If Toast lets a stranger uncheck cheese at 11pm, the line cook has a process for a plate without cheese.",
+   "caveat": "Proves the modifier exists, not that staff apply it correctly, and covers only dishes sold online. It is evidence, not verification -- it can raise a restaurant to 'evidenced', never to 'verified'.",
+   "source": "ordering platform menu JSON"
+  },
+  {
+   "key": "special_request_field",
+   "label": "Reservation special-request free-text field",
+   "family": "accommodation_evidence",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "broad",
+   "what_it_tells_you": "that a written request reaches the kitchen before you arrive",
+   "why_it_works": "present on every major booking platform, needs no partnership or API key, and is the integration point that actually exists today",
+   "caveat": "Delivery to the kitchen is not guaranteed and nothing is confirmed back.",
+   "source": "booking platform"
+  },
+  {
+   "key": "dietary_page_exists",
+   "label": "Dedicated dietary-accommodation page or statement",
+   "family": "accommodation_evidence",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "broad",
+   "what_it_tells_you": "that the restaurant has thought about dietary requests before you called",
+   "why_it_works": "self-published and free to cite",
+   "caveat": "Marketing language, not a commitment.",
+   "source": "restaurant site"
+  },
+  {
+   "key": "visit_report",
+   "label": "Structured community visit report",
+   "family": "accommodation_evidence",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "unbounded",
+   "what_it_tells_you": "what the kitchen actually did, for a real diner, on a real night",
+   "why_it_works": "The scaling engine. This is the TripAdvisor analogue -- but the unit is a structured report, not a star rating. A star tells you nothing; 'asked for the polenta without cheese, they did it, gave me the gram weight' is reusable data. It is also the only way to populate the accommodation axis faster than the team can make phone calls.",
+   "caveat": "Self-selected sample, single-night observation, and staff turnover ages it. Expires like any verification.",
+   "source": "community"
+  },
+  {
+   "key": "accommodation_verified",
+   "label": "Direct verification by contact",
+   "family": "accommodation_evidence",
+   "machine_readable": false,
+   "freely_storable": true,
+   "requires_restaurant_contact": true,
+   "global_coverage": "unbounded",
+   "what_it_tells_you": "what the kitchen commits to, on the record",
+   "why_it_works": "the only tag that can carry a badge",
+   "caveat": "Expensive per restaurant. Expires after 180 days.",
+   "source": "phone/email/in-person"
+  },
+  {
+   "key": "compose_your_own_format",
+   "label": "Composing your own meal is the house format",
+   "family": "camouflage",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "universal",
+   "what_it_tells_you": "that ordering four vegetable plates is what the menu is FOR",
+   "why_it_works": "Tapas, mezze, dim sum, izakaya, meze, banchan, small-plates: everyone at the table orders this way, so a low-protein order is invisible. This is the single strongest camouflage signal and it is fully machine-readable from menu structure.",
+   "caveat": null,
+   "source": "menu structure"
+  },
+  {
+   "key": "counter_or_kiosk_service",
+   "label": "Counter, kiosk or app ordering",
+   "family": "camouflage",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "broad",
+   "what_it_tells_you": "that no server conversation is required at all",
+   "why_it_works": "the lowest-friction service model there is: you tap what you want and nobody asks why",
+   "caveat": "Counter service often means fewer modifications are possible, so camouflage and flexibility can trade off.",
+   "source": "restaurant site"
+  },
+  {
+   "key": "build_your_own_item",
+   "label": "Build-your-own item on the menu",
+   "family": "camouflage",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "broad",
+   "what_it_tells_you": "that per-component choice is a published, priced option",
+   "why_it_works": "customisation is the product, so specifying components is ordinary",
+   "caveat": null,
+   "source": "menu structure"
+  },
+  {
+   "key": "vegetable_forward_menu",
+   "label": "Vegetables appear as centre-of-plate dishes",
+   "family": "camouflage",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "universal",
+   "what_it_tells_you": "that ordering a vegetable dish as your main is unremarkable",
+   "why_it_works": "removes the 'is that all you're having?' moment, which is most of the social cost",
+   "caveat": "Vegetable-forward does NOT mean low protein. Legume, cheese and nut-heavy vegetarian dishes are frequently the highest-phe items on a menu.",
+   "source": "census"
+  },
+  {
+   "key": "kids_menu_present",
+   "label": "Kids menu present",
+   "family": "camouflage",
+   "machine_readable": true,
+   "freely_storable": true,
+   "requires_restaurant_contact": false,
+   "global_coverage": "broad",
+   "what_it_tells_you": "that plain preparations exist and small portions are already priced",
+   "why_it_works": "a kids menu is institutionalised plain food, and ordering from it draws no attention when a child is at the table",
+   "caveat": "Kids menus are usually breaded, fried and cheese-heavy. Weak signal, cheap to collect.",
+   "source": "menu structure"
+  }
+ ],
+ "explicitly_rejected": [
+  {
+   "signal": "Google / TripAdvisor / Yelp star rating",
+   "why": "Two independent reasons. Legally, Google's Places policies forbid pre-fetching, caching or storing Places content beyond narrow exceptions -- only place_id may be stored indefinitely and coordinates for up to 30 days -- so a stored rating is a terms violation and every render is a billable live call. Substantively, a crowd rating measures whether a restaurant is good, which is not the question. A 4.8-star steakhouse can be a 0 for us and a 3.9-star tapas bar can be a 4.",
+   "what_to_keep_instead": "place_id only, as a stable global join key. It is storable indefinitely, it is not editorial, and it makes every other data source line up across cities."
+  },
+  {
+   "signal": "'Gluten-free available' as a proxy for low protein",
+   "why": "Actively dangerous and the most common wrong inference in this whole domain. Gluten-free baking substitutes almond, chickpea and soy flour -- frequently HIGHER phe than wheat. Kept only as evidence of ingredient-tracking infrastructure, never as a dietary signal."
+  },
+  {
+   "signal": "'Vegan' or 'vegetarian' as a proxy for low protein",
+   "why": "Same error. Legumes, tofu, seitan, nuts and cheese are among the highest-phe foods on any menu. A vegan restaurant can be the worst option in a city."
+  },
+  {
+   "signal": "Price tier",
+   "why": "Expensive restaurants are protein-cut-focused; cheap ones are starch-heavy. If anything the correlation runs against intuition, and it is not strong enough in either direction to be worth a tag."
+  }
+ ],
+ "design_note": "No composite is computed. These are independent filters, each with its own provenance and its own failure mode. Collapsing them into one number would be the suitability scale, which is deferred."
+}

@@ -1,0 +1,939 @@
+{
+ "validation_set_version": "v0.1",
+ "generated_utc": "2026-08-23",
+ "IS_NOT_A_MENU_SNAPSHOT": true,
+ "purpose": "Validate the ingredient lexicon against real Asheville dish text before full menu capture. Dishes come from dated press coverage of the 2025-11-03 Michelin ceremony, not from restaurant menus.",
+ "why_no_counts": "A press article names a few signature dishes, not the menu. n_dishes here is the number of dishes the PRESS mentioned, which is not a denominator. Computing restaurant counts from this would be a category error.",
+ "sources": {
+  "EA": "exploreasheville.com press release / culinary-stars article",
+  "WNC": "wncbusiness.com 2025-11-04",
+  "IOM": "innonmontford.com",
+  "VNC": "visitnc.com michelin-guide-american-south-asheville",
+  "GHFW": "en.wikipedia.org/wiki/Good_Hot_Fish",
+  "NCT": "nctripping.com"
+ },
+ "dishes": [
+  {
+   "dish_id": "press:good-hot-fish:fried_fish_sandwich",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "fried fish sandwich",
+   "description": "on soft white bread",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "wheat_grain": [
+     "bread"
+    ],
+    "animal_muscle": [
+     "fish"
+    ]
+   },
+   "categories": [
+    "animal_muscle",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "EA",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:sweet_potato_cabbage_pancake",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "sweet potato cabbage pancake",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "other_starch": [
+     "sweet potato"
+    ],
+    "wheat_grain": [
+     "pancake"
+    ],
+    "vegetable": [
+     "cabbage"
+    ]
+   },
+   "categories": [
+    "other_starch",
+    "vegetable",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [
+    "pancake"
+   ],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "EA",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "wheat_grain",
+     "other_starch"
+    ],
+    "names_vegetable": true
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:ranchovy_salad",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "ranchovy salad",
+   "description": "zesty",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "animal_muscle": [
+     "ranchovy"
+    ],
+    "vegetable": [
+     "salad"
+    ]
+   },
+   "categories": [
+    "animal_muscle",
+    "vegetable"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "EA",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": true
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:shrimpburger",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "shrimpburger",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "animal_muscle": [
+     "shrimpburger"
+    ]
+   },
+   "categories": [
+    "animal_muscle"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "IOM",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:daily_fish_plate",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "daily fish plate",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "animal_muscle": [
+     "fish"
+    ]
+   },
+   "categories": [
+    "animal_muscle"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "IOM",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:crab_dip",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "crab dip",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "animal_muscle": [
+     "crab"
+    ]
+   },
+   "categories": [
+    "animal_muscle"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "GHFW",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:hush_puppies",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "hush puppies",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "corn": [
+     "hush puppies"
+    ]
+   },
+   "categories": [
+    "corn"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "GHFW",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "corn"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:Sea_Island_red_peas",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "Sea Island red peas",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "legume": [
+     "sea island red pea"
+    ]
+   },
+   "categories": [
+    "legume"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "GHFW",
+   "obs": {
+    "names_meat": false,
+    "names_legume": true,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:trout_bologna",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "trout bologna",
+   "description": "steelhead trout seared with a slice of melted Kraft cheese on a potato bun",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "cured_meat": [
+     "trout bologna"
+    ],
+    "animal_muscle": [
+     "steelhead",
+     "trout"
+    ],
+    "dairy": [
+     "cheese"
+    ],
+    "potato": [
+     "potato"
+    ],
+    "wheat_grain": [
+     "bun"
+    ]
+   },
+   "categories": [
+    "animal_muscle",
+    "cured_meat",
+    "dairy",
+    "potato",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "NCT",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": true,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [
+     "wheat_grain",
+     "potato"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:good-hot-fish:fried_catfish",
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "name": "fried catfish",
+   "description": "dipped in Bloody Butcher and Cateto cornmeal",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "corn": [
+     "bloody butcher",
+     "cornmeal",
+     "cateto"
+    ],
+    "animal_muscle": [
+     "catfish"
+    ]
+   },
+   "categories": [
+    "animal_muscle",
+    "corn"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "NCT",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [
+     "corn"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:little-chango:arepa_with_ropa_vieja",
+   "restaurant_id": "asheville-nc-us/little-chango",
+   "name": "arepa with ropa vieja",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "animal_muscle": [
+     "ropa vieja"
+    ],
+    "corn": [
+     "arepa"
+    ]
+   },
+   "categories": [
+    "animal_muscle",
+    "corn"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "WNC",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [
+     "corn"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:little-chango:arepa_with_pernil",
+   "restaurant_id": "asheville-nc-us/little-chango",
+   "name": "arepa with pernil",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "animal_muscle": [
+     "pernil"
+    ],
+    "corn": [
+     "arepa"
+    ]
+   },
+   "categories": [
+    "animal_muscle",
+    "corn"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "WNC",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [
+     "corn"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:mother:sourdough_breadcrumb_salad",
+   "restaurant_id": "asheville-nc-us/mother",
+   "name": "sourdough breadcrumb salad",
+   "description": "fresh salad with a crunchy dusting of sourdough breadcrumbs",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "wheat_grain": [
+     "sourdough breadcrumb"
+    ],
+    "vegetable": [
+     "salad"
+    ]
+   },
+   "categories": [
+    "vegetable",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "WNC",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": true
+   }
+  },
+  {
+   "dish_id": "press:mother:sourdough_sandwich",
+   "restaurant_id": "asheville-nc-us/mother",
+   "name": "sourdough sandwich",
+   "description": "decadent",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "wheat_grain": [
+     "sourdough"
+    ]
+   },
+   "categories": [
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "WNC",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:curate:pan_con_tomate",
+   "restaurant_id": "asheville-nc-us/curate",
+   "name": "pan con tomate",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "vegetable": [
+     "tomate"
+    ],
+    "wheat_grain": [
+     "pan"
+    ]
+   },
+   "categories": [
+    "vegetable",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "IOM",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": true
+   }
+  },
+  {
+   "dish_id": "press:curate:pimientos_de_piquillo_rellenos",
+   "restaurant_id": "asheville-nc-us/curate",
+   "name": "pimientos de piquillo rellenos",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "vegetable": [
+     "piquillo relleno",
+     "pimientos"
+    ]
+   },
+   "categories": [
+    "vegetable"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "IOM",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [],
+    "names_vegetable": true
+   }
+  },
+  {
+   "dish_id": "press:curate:cerdo_iberico",
+   "restaurant_id": "asheville-nc-us/curate",
+   "name": "cerdo iberico",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "animal_muscle": [
+     "iberico",
+     "cerdo"
+    ]
+   },
+   "categories": [
+    "animal_muscle"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "IOM",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:luminosa:handmade_pasta",
+   "restaurant_id": "asheville-nc-us/luminosa",
+   "name": "handmade pasta",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "wheat_grain": [
+     "pasta"
+    ]
+   },
+   "categories": [
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "EA",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:soprana:the_Asheville_pie",
+   "restaurant_id": "asheville-nc-us/soprana",
+   "name": "the Asheville pie",
+   "description": "crisped pepperoni with a spicy local honey drizzle",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "cured_meat": [
+     "pepperoni"
+    ],
+    "sugar_sweet": [
+     "honey"
+    ],
+    "wheat_grain": [
+     "pie"
+    ]
+   },
+   "categories": [
+    "cured_meat",
+    "sugar_sweet",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "VNC",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:sunny-point-cafe:biscuits_and_gravy",
+   "restaurant_id": "asheville-nc-us/sunny-point-cafe",
+   "name": "biscuits and gravy",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "wheat_grain": [
+     "biscuit"
+    ],
+    "herb_spice_acid": [
+     "gravy"
+    ]
+   },
+   "categories": [
+    "herb_spice_acid",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "VNC",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:sunny-point-cafe:roasted_tomato-cheddar_omelet",
+   "restaurant_id": "asheville-nc-us/sunny-point-cafe",
+   "name": "roasted tomato-cheddar omelet",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "egg": [
+     "omelet"
+    ]
+   },
+   "categories": [
+    "egg"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "VNC",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": true,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:sunny-point-cafe:chicken_and_waffles",
+   "restaurant_id": "asheville-nc-us/sunny-point-cafe",
+   "name": "chicken and waffles",
+   "description": "with pimento cheese and jalapeno jam",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "dairy": [
+     "pimento cheese"
+    ],
+    "vegetable": [
+     "jalapeno"
+    ],
+    "animal_muscle": [
+     "chicken"
+    ],
+    "wheat_grain": [
+     "waffle"
+    ],
+    "sugar_sweet": [
+     "jam"
+    ]
+   },
+   "categories": [
+    "animal_muscle",
+    "dairy",
+    "sugar_sweet",
+    "vegetable",
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "VNC",
+   "obs": {
+    "names_meat": true,
+    "names_legume": false,
+    "names_dairy": true,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": false,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": true
+   }
+  },
+  {
+   "dish_id": "press:sunny-point-cafe:huevos_rancheros",
+   "restaurant_id": "asheville-nc-us/sunny-point-cafe",
+   "name": "huevos rancheros",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "egg": [
+     "huevos"
+    ]
+   },
+   "categories": [
+    "egg"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "NCT",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": true,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:leos-house-of-thirst:grilled_cheese",
+   "restaurant_id": "asheville-nc-us/leos-house-of-thirst",
+   "name": "grilled cheese",
+   "description": "",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "dairy": [
+     "cheese"
+    ]
+   },
+   "categories": [
+    "dairy"
+   ],
+   "ambiguous_terms": [],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "IOM",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": true,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": false,
+    "starch_categories": [],
+    "names_vegetable": false
+   }
+  },
+  {
+   "dish_id": "press:addissae:vegetable_combination_platter",
+   "restaurant_id": "asheville-nc-us/addissae",
+   "name": "vegetable combination platter",
+   "description": "aromatic stews with injera",
+   "menu_section": null,
+   "price_usd": null,
+   "matched_terms": {
+    "wheat_grain": [
+     "injera"
+    ]
+   },
+   "categories": [
+    "wheat_grain"
+   ],
+   "ambiguous_terms": [
+    "injera"
+   ],
+   "free_from_markers": [],
+   "completeness": "press_mention_not_menu_snapshot",
+   "census_version": "menu-census-v0.1",
+   "source_key": "IOM",
+   "obs": {
+    "names_meat": false,
+    "names_legume": false,
+    "names_dairy": false,
+    "names_egg": false,
+    "names_nut_seed": false,
+    "no_meat_no_legume_named": true,
+    "names_no_protein_source_at_all": true,
+    "starch_categories": [
+     "wheat_grain"
+    ],
+    "names_vegetable": false
+   }
+  }
+ ],
+ "lexicon_version_used": "v0.2"
+}

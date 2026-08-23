@@ -1,0 +1,129 @@
+{
+ "registry_version": "v0.2",
+ "generated_utc": "2026-08-23",
+ "purpose": "Third-party recognition programs usable as inclusion criteria and as citable provenance tags. An award is a BOOTSTRAP signal: it bounds a starting list and indicates kitchen competence. It does NOT predict whether a kitchen will accommodate a low-protein diet, and the guide must never imply that it does.",
+ "reviewer_of_record": "PLACEHOLDER - unassigned",
+ "usage_rule": "Store and display: program name, tier label VERBATIM from the program, edition/year, and a source URL. Never store or display the program's descriptive prose about the restaurant -- that is their copyright. Facts plus a citation only.",
+ "programs": [
+  {
+   "key": "michelin",
+   "name": "MICHELIN Guide",
+   "operator": "Michelin",
+   "tiers": [
+    "Three Stars",
+    "Two Stars",
+    "One Star",
+    "Bib Gourmand",
+    "Selected",
+    "Green Star"
+   ],
+   "tier_note": "'Selected' is the current term for the non-starred, non-Bib tier. 'Recommended' appears in press and in some legislative citations but is legacy usage. Store the program's own current word.",
+   "geographic_coverage": "~40 destinations, heavily Europe/Japan/US-coastal weighted. Sparse in Africa, South Asia, Latin America, most of the US interior.",
+   "machine_readable": false,
+   "access_note": "guide.michelin.com returns 403 to non-browser clients. Their bot policy; capture in a browser.",
+   "ip_posture": "Famous mark, active enforcer. French operator, so EU database right (Directive 96/9/EC) plausibly attaches to systematic worldwide extraction of the selection. Word mark only, plain text, no Bibendum/roundel/star glyphs.",
+   "risk": "high",
+   "scale_value": "high_prestige_low_coverage"
+  },
+  {
+   "key": "james_beard",
+   "name": "James Beard Foundation Awards",
+   "operator": "James Beard Foundation",
+   "tiers": [
+    "Winner",
+    "Finalist",
+    "Semifinalist",
+    "Nominee"
+   ],
+   "tier_note": "Chef- and restaurant-level, by category and region. A semifinalist nod is a real signal and is far more common than a Michelin mention in the US interior.",
+   "geographic_coverage": "United States only.",
+   "machine_readable": false,
+   "ip_posture": "US non-profit. Word mark; same referential-use discipline.",
+   "risk": "medium",
+   "scale_value": "best_us_coverage_outside_michelin_cities"
+  },
+  {
+   "key": "worlds_50_best",
+   "name": "The World's 50 Best Restaurants",
+   "operator": "William Reed",
+   "tiers": [
+    "Top 50",
+    "51-100",
+    "Regional list"
+   ],
+   "geographic_coverage": "Global but extremely thin -- hundreds of restaurants worldwide.",
+   "machine_readable": false,
+   "ip_posture": "Commercial operator, licensing-minded.",
+   "risk": "medium",
+   "scale_value": "global_but_negligible_coverage"
+  },
+  {
+   "key": "gault_millau",
+   "name": "Gault&Millau",
+   "operator": "Gault&Millau",
+   "tiers": [
+    "Toques (1-5)",
+    "Score /20"
+   ],
+   "geographic_coverage": "Continental Europe, strong in France/Benelux/DACH. Useful where Michelin is thin.",
+   "machine_readable": false,
+   "ip_posture": "European operator; database right applies.",
+   "risk": "medium",
+   "scale_value": "good_europe_fill"
+  },
+  {
+   "key": "la_liste",
+   "name": "La Liste",
+   "operator": "La Liste",
+   "tiers": [
+    "Score /100"
+   ],
+   "geographic_coverage": "Global, ~1000+ per edition. Aggregates other guides, so coverage is broader than any single one.",
+   "machine_readable": false,
+   "ip_posture": "Aggregator, so its own rights claim is over the compilation.",
+   "risk": "medium",
+   "scale_value": "broadest_global_curatorial"
+  },
+  {
+   "key": "local_press",
+   "name": "Local press and city-magazine best-of lists",
+   "operator": "varies",
+   "tiers": [
+    "Best of <year>",
+    "Critics' pick",
+    "Top N"
+   ],
+   "geographic_coverage": "Universal -- every city has one. This is the real horizontal-coverage tag.",
+   "machine_readable": false,
+   "ip_posture": "Many small publishers. Individually low risk, collectively unmanageable for permissions. Cite and link; store no prose.",
+   "risk": "low",
+   "scale_value": "unlimited_coverage_variable_quality",
+   "asheville_instance": "data/local_lists_asheville.json",
+   "revised_note": "Upgraded from 'unlimited coverage, variable quality'. The variable-quality problem is solved by harvesting CATEGORIES rather than winners: 'Best Tapas' carries real structural information about a menu, 'Best Restaurant' carries none. Roughly 15-18 of the several hundred categories in a typical reader poll map onto signals."
+  },
+  {
+   "key": "community_nomination",
+   "name": "PKU Commons community nomination",
+   "operator": "PKU Commons",
+   "tiers": [
+    "Nominated",
+    "Visit-reported",
+    "Accommodation-verified"
+   ],
+   "geographic_coverage": "Wherever a contributor eats. Unbounded.",
+   "machine_readable": true,
+   "ip_posture": "Ours. No third-party rights, no attribution burden, no takedown exposure.",
+   "risk": "none",
+   "scale_value": "the_only_tag_that_scales_without_permission",
+   "note": "The strategically important row. Every other program is someone else's list that we cite; this one is ours, has no IP surface, and is the only tag whose coverage grows with the community rather than with a publisher's travel budget."
+  }
+ ],
+ "design_conclusion": "Awards are ONE inclusion criterion among several, stored as citable provenance. A guide organized around a single award program inherits that program's legal surface and its coverage gaps, and implies a predictive relationship the census data will contradict.",
+ "changelog": [
+  {
+   "version": "v0.2",
+   "utc": "2026-08-23",
+   "change": "Added the Asheville local-list instance and the category-harvesting method. Recorded that a membership organization (AIR) outranks every award list for this guide's purposes, because it supplies access rather than names."
+  }
+ ]
+}

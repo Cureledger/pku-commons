@@ -1,0 +1,177 @@
+{
+ "snapshot_id": "all-day-darling:lunch:2026-08-23",
+ "restaurant_id": "asheville-nc-us/all-day-darling",
+ "source_url": "https://www.alldaydarlingavl.com/",
+ "fetched_utc": "2026-08-23T20:01:22+00:00",
+ "content_sha256": "874dcff870faec9e10c5a9022d5574767574275318e455e8207d3e3450ce7221",
+ "extraction_method": "structured_platform",
+ "menu_label": "lunch",
+ "capturer": "cursor-grok-4.6",
+ "dishes": [
+  {
+   "name": "The Standard **",
+   "description": "Breakfast sandwich with fried egg, cheddar, herb mayo on a bagel, roll or biscuit with your choice of bacon, ham, sausage, or avocado",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "The All Day Breakfast **",
+   "description": "Two eggs, greens, toast with choice of bacon, ham, sausage, tempeh, or avocado and salad or roasted kale",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "Breakfast Bowl",
+   "description": "Two poached eggs, beans, kale, chimichurri, market veggies, and toasted seeds",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "Fried Chicken Biscuit **",
+   "description": "Harissa aioli, honey, pickle",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "Shakshuka **",
+   "description": "Two poached eggs, kale, feta, spicy tomato, flatbread",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "Lox Plate",
+   "description": "Choice of bagel or GF roll, assembled with cream cheese, lox, capers, and onions - served with a salad",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "House Granola",
+   "description": "Honey yogurt, seasonal fruit, almond butter",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "GF Darling Pancakes",
+   "description": "Served with seasonal compote, powdered sugar, and syrup",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "GF Darling Frittata",
+   "description": "Seasonal fillings, served with a salad. Cannot be dairy free.",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "Patatas Bravas",
+   "description": "Crispy potatoes with zesty aioli and green onion. Add two poached eggs +$3",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "Steak 'N Eggs *",
+   "description": "Two eggs, steak, chimichurri, toast, roasted kale, market vgeggies",
+   "menu_section": "Wake Up"
+  },
+  {
+   "name": "Thunderbird **",
+   "description": "Fried chicken, harissa aioli, fermented vegetables on Hawaiian roll with choice of side (tatertods, french fries, salad or kale)",
+   "menu_section": "Open + Close"
+  },
+  {
+   "name": "Darling Burger **",
+   "description": "Chop Shop beef cooked medium, caramelized onions, house aioli, cheddar, lettuce, pickle on a Hawaiian roll with choice of side (tatertods, french fries, salad or kale)",
+   "menu_section": "Open + Close"
+  },
+  {
+   "name": "Rubenesque",
+   "description": "Pastrami, swiss, house kraut, harussian dressing, house made sourdough, with choice of side (tatertods, french fries, salad or kale) Sub tempeh for veg",
+   "menu_section": "Open + Close"
+  },
+  {
+   "name": "Chicken Salad Sandwich",
+   "description": "Chicken salad, milk toast with choice of side (tatertods, french fries, salad or kale) + Make into a melt with gruyere cheese",
+   "menu_section": "Open + Close"
+  },
+  {
+   "name": "Smashed Avocado Toast",
+   "description": "Black pepper ricotta, dressed greens on whole grain sourdough",
+   "menu_section": "Open + Close"
+  },
+  {
+   "name": "The Buddha **",
+   "description": "Grilled avocado, poached eggs, fermented vegetables. All bowls are served with warm kale and bamboo rice.",
+   "menu_section": "Salads + Bowls"
+  },
+  {
+   "name": "Thunderbowl **",
+   "description": "GF fried chicken, harissa aioli, fermented vegetables. All bowls are served with warm kale and bamboo rice.",
+   "menu_section": "Salads + Bowls"
+  },
+  {
+   "name": "Steak Bowl *",
+   "description": "Steak, chimichurri, fried cheese and market veggies. All bowls are served with warm kale and bamboo rice.",
+   "menu_section": "Salads + Bowls"
+  },
+  {
+   "name": "Beans & Grains Bowl",
+   "description": "Toasted seeds, Vegan. All bowls are served with warm kale and bamboo rice.",
+   "menu_section": "Salads + Bowls"
+  },
+  {
+   "name": "Montford",
+   "description": "Lettuces, avocado, gruyere, veggies with champagne vinaigrette",
+   "menu_section": "Salads"
+  },
+  {
+   "name": "Hearty",
+   "description": "Kale, hearty lettuces, lentil fritters, seeds, fried halloumi, and honey tahini dressing",
+   "menu_section": "Salads"
+  },
+  {
+   "name": "Chicken Salad",
+   "description": "Lettuces, toasted seeds with champagne vinaigrette",
+   "menu_section": "Salads"
+  },
+  {
+   "name": "Lentil Fritters",
+   "description": "Honey tahini, pickled onion, feta",
+   "menu_section": "Snacks & Sides"
+  },
+  {
+   "name": "Fried Halloumi",
+   "description": "Fried sheep's cheese, with honey, fruit, and capers",
+   "menu_section": "Snacks & Sides"
+  },
+  {
+   "name": "Tatertods",
+   "description": "",
+   "menu_section": "A La Carte"
+  },
+  {
+   "name": "Dressed Salad",
+   "description": "",
+   "menu_section": "A La Carte"
+  },
+  {
+   "name": "French Fries",
+   "description": "",
+   "menu_section": "A La Carte"
+  },
+  {
+   "name": "Warm Kale",
+   "description": "",
+   "menu_section": "A La Carte"
+  },
+  {
+   "name": "Grilled Cheese & Side",
+   "description": "",
+   "menu_section": "Little Darlings - 12 & under"
+  },
+  {
+   "name": "Little Burger & Side",
+   "description": "",
+   "menu_section": "Little Darlings - 12 & under"
+  },
+  {
+   "name": "Little Chicken Sandwich & Side",
+   "description": "",
+   "menu_section": "Little Darlings - 12 & under"
+  },
+  {
+   "name": "Beans, Greens & Rice",
+   "description": "",
+   "menu_section": "Little Darlings - 12 & under"
+  }
+ ]
+}

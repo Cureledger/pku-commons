@@ -1,0 +1,21 @@
+{
+  "city_id": "asheville-nc-us",
+  "display_name": "Asheville, North Carolina, USA",
+  "country": "US",
+  "timezone": "America/New_York",
+  "seed_authority": {
+    "kind": "michelin_guide",
+    "edition": "MICHELIN Guide American South, inaugural edition",
+    "ceremony_date": "2025-11-03",
+    "canonical_url": "https://guide.michelin.com/us/en/north-carolina/asheville_2147494/restaurants",
+    "recognized_count": 15
+  },
+  "why_this_city": "Camp Phebe, Asheville, July 2027. Goal: by camp week, Asheville is the most legible city in the world for eating out on a low-protein diet.",
+  "target_event": {
+    "name": "Camp Phebe",
+    "month": "2027-07"
+  },
+  "version": "v0",
+  "reviewer_of_record": "PLACEHOLDER - unassigned",
+  "notes": "Seed set is the Michelin 15 because it is a closed, citable, externally-defined list. It is a starting frame, not a claim that Michelin recognition predicts PKU accommodation. Expansion beyond the 15 is expected. The Admiral and Ukiah Japanese Smokehouse are in the 15; Leo's House of Thirst is a third, separate restaurant."
+}

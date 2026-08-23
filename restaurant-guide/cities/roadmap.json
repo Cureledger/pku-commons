@@ -1,0 +1,130 @@
+{
+ "schema_version": "roadmap-v1",
+ "version": "v0.2",
+ "updated_utc": "2026-08-23",
+ "sequencing_principle": "Cities are chosen by Nina, in her order, driven by where PKU families actually travel -- conferences, camps, and family trips. Disclosure regime is a METHOD note that tells you which extractor to run once a city is chosen. It is not a sequencing input and must not reorder the list.",
+ "regimes": {
+  "A_us_independent": {
+   "mandated": "nothing",
+   "blank_cell_means": "nothing at all",
+   "cities": [
+    "asheville-nc-us",
+    "orlando-fl-us"
+   ]
+  },
+  "B_us_chain_20plus": {
+   "mandated": "written nutrition info including PROTEIN, on request (FDA 21 CFR 101.11)",
+   "blank_cell_means": "n/a - this regime yields NUMBERS, not counts",
+   "cities": [
+    "orlando-fl-us"
+   ]
+  },
+  "C_eu_allergen": {
+   "mandated": "14 major allergens declared for non-prepacked food (EU 1169/2011); 9 are phe-relevant",
+   "blank_cell_means": "WEAK evidence of absence for those 9 categories only; nothing about quantity",
+   "cities": [
+    "copenhagen-dk",
+    "dublin-ie",
+    "paris-fr"
+   ]
+  },
+  "C_variant_uk": {
+   "mandated": "UK diverged post-Brexit; Natasha's Law added for prepacked-for-direct-sale",
+   "blank_cell_means": "UNVERIFIED - confirm before assuming EU parity",
+   "cities": [
+    "london-gb"
+   ]
+  },
+  "D_australia_unmapped": {
+   "mandated": "UNMAPPED - Food Standards Code allergen declaration, not yet checked",
+   "blank_cell_means": "unknown",
+   "cities": [
+    "brisbane-au"
+   ]
+  }
+ },
+ "live": [
+  {
+   "city_id": "asheville-nc-us",
+   "status": "captured",
+   "dishes": 299,
+   "menus": 10,
+   "registry": 62
+  },
+  {
+   "city_id": "orlando-fl-us",
+   "status": "method_written"
+  },
+  {
+   "city_id": "copenhagen-dk",
+   "status": "method_written",
+   "blocked_on": "Danish lexicon category set"
+  }
+ ],
+ "roadmap": [
+  {
+   "city_id": "brisbane-au",
+   "order": 1,
+   "regime": "D_australia_unmapped",
+   "award_program": null,
+   "why": "On Nina's list. No award layer exists in Australia, so it starts from local lists and community directly.",
+   "blocking_gate": "map the Australian disclosure regime"
+  },
+  {
+   "city_id": "gold-coast-au",
+   "order": 1,
+   "regime": "D_australia_unmapped",
+   "award_program": null,
+   "why": "MDDA annual meeting venue. Separate city from Brisbane (~70 km south) with its own restaurants -- a Brisbane registry does not serve an MDDA delegate.",
+   "blocking_gate": "confirm MDDA meeting dates and venue location"
+  },
+  {
+   "city_id": "dublin-ie",
+   "order": 2,
+   "regime": "C_eu_allergen",
+   "award_program": "MICHELIN Ireland",
+   "why": "On Nina's list. Regime C and English-language, so no lexicon work needed.",
+   "blocking_gate": null
+  },
+  {
+   "city_id": "paris-fr",
+   "order": 3,
+   "regime": "C_eu_allergen",
+   "award_program": "MICHELIN France",
+   "why": "On Nina's list. Deepest award coverage anywhere.",
+   "blocking_gate": "French lexicon category set"
+  },
+  {
+   "city_id": "london-gb",
+   "order": 4,
+   "regime": "C_variant_uk",
+   "award_program": "MICHELIN Great Britain & Ireland",
+   "why": "On Nina's list. Largest English-language award set.",
+   "blocking_gate": "verify the post-Brexit UK allergen regime before assuming EU parity"
+  }
+ ],
+ "per_city_gate": [
+  "disclosure regime identified and recorded, not assumed from the country",
+  "lexicon covers the menu language, native-reader reviewed (HARD GATE)",
+  "priors written and dated BEFORE first capture",
+  "award counts as published: stars separate from restaurants, verbatim tiers, conflicts marked unresolved",
+  "operator entities identified where corporate dining programs exist"
+ ],
+ "known_bias": "Cities are chosen by where this community travels, which means the list tracks conference and camp locations in wealthy countries. The places where a low-protein diet is hardest to eat are not on it. That is a real limitation of coverage and not a reason to reorder the list -- a guide that serves the trips families actually take beats a globally balanced one nobody uses.",
+ "superseded": "v0.1 reordered these cities by disclosure regime and recommended running Brisbane early because it lacks an award program. That inverted the geography for the agent's methodological convenience. The city list reflects travel priorities; the method adapts to the city, not the reverse. Every city starts the same way Asheville did: award layer first if one exists, then local lists, then community.",
+ "event_anchors": [
+  {
+   "city_id": "copenhagen-dk",
+   "event": "ESPKU",
+   "when": "2026-10",
+   "lead_time": "~2 months from 2026-08",
+   "implication": "This is the nearest hard date in the project and it changes Copenhagen from a research city into a deadline. Two months is not enough to build a Danish lexicon, capture 21 restaurants, and verify accommodation. Scope to what a delegate can use in October: restaurants walkable from the venue and hotels, menus captured however possible including by hand, and the request card translated into Danish."
+  },
+  {
+   "city_id": "gold-coast-au",
+   "event": "MDDA annual meeting",
+   "when": "date not confirmed",
+   "implication": "Gold Coast is NOT Brisbane. It is a separate city roughly 70 km south, in Queensland, with its own restaurants. A Brisbane registry would not serve an MDDA delegate. Added as its own city_id; Brisbane stays on the list separately if Nina wants it."
+  }
+ ]
+}

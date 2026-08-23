@@ -1,0 +1,789 @@
+{
+ "schema": "schema/restaurant.schema.json",
+ "city_id": "asheville-nc-us",
+ "version": "v0.4",
+ "generated_utc": "2026-08-23",
+ "count": 15,
+ "confirmed_count": 15,
+ "integrity_note": "15 of 15 confirmed by name against dated coverage of the 2025-11-03 ceremony. The Admiral and Ukiah Japanese Smokehouse were re-verified in v0.4 against four independent sources after an audit flagged them, because The Admiral had been wrongly entered as a negative control in v0.1. The Admiral and Leo's House of Thirst share an ownership team and BOTH are in the selection.",
+ "restaurants": [
+  {
+   "restaurant_id": "asheville-nc-us/luminosa",
+   "city_id": "asheville-nc-us",
+   "slug": "luminosa",
+   "name": "Luminosa",
+   "award": "green_star+bib_gourmand",
+   "cuisine": "Italian-American, Appalachian ingredients",
+   "address": "20 Battery Park Ave., Asheville, NC 28801",
+   "geo": null,
+   "website": "https://www.luminosaavl.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "https://www.wncbusiness.com/2025/11/04/552920/fifteen-asheville-restaurants-recognized-by-michelin-guide",
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Green Star + Bib Gourmand. Inside the Flat Iron Hotel. Exec Chef Graham House, CdC Sean McMullen. Whole-animal butchery and fermentation program.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/little-chango",
+   "city_id": "asheville-nc-us",
+   "slug": "little-chango",
+   "name": "Little Chango",
+   "award": "bib_gourmand",
+   "cuisine": "Latin American, arepas",
+   "address": "134 Coxe Ave., Asheville, NC 28801",
+   "geo": null,
+   "website": "https://www.littlechango.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "https://www.wncbusiness.com/2025/11/04/552920/fifteen-asheville-restaurants-recognized-by-michelin-guide",
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Chef Iris Rodriguez. South Slope.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/mother",
+   "city_id": "asheville-nc-us",
+   "slug": "mother",
+   "name": "Mother",
+   "award": "bib_gourmand",
+   "cuisine": "Sourdough bakery, cafe and wine bar",
+   "address": "244 Short Coxe Ave., Asheville, NC 28801",
+   "geo": null,
+   "website": "https://www.motheravl.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "https://www.wncbusiness.com/2025/11/04/552920/fifteen-asheville-restaurants-recognized-by-michelin-guide",
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Owner Heidi Bass. Bread-centred menu.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/addissae",
+   "city_id": "asheville-nc-us",
+   "slug": "addissae",
+   "name": "Addissae",
+   "award": "recommended",
+   "cuisine": "Ethiopian",
+   "address": null,
+   "geo": null,
+   "website": "https://addissae.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "https://wlos.com/news/local/michelin-guide-american-south-asheville-luminosa-little-chango-sunny-poiny-cafe-addissae-good-hot-fish-table-tall-johns-curate-bar-de-tapas-soprano-selections-restaurant-emerils-north-carolina-south-carolina-georgia-tennesee-mississippi-alabama-louisiana"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Downtown Ethiopian. Recommended list.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/all-day-darling",
+   "city_id": "asheville-nc-us",
+   "slug": "all-day-darling",
+   "name": "All Day Darling",
+   "award": "recommended",
+   "cuisine": "Brunch, cafe",
+   "address": null,
+   "geo": null,
+   "website": "https://www.alldaydarlingavl.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": null,
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/curate",
+   "city_id": "asheville-nc-us",
+   "slug": "curate",
+   "name": "Cúrate Bar de Tapas",
+   "award": "recommended",
+   "cuisine": "Spanish tapas",
+   "address": null,
+   "geo": null,
+   "website": "https://www.curatetapasbar.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "https://wlos.com/news/local/michelin-guide-american-south-asheville-luminosa-little-chango-sunny-poiny-cafe-addissae-good-hot-fish-table-tall-johns-curate-bar-de-tapas-soprano-selections-restaurant-emerils-north-carolina-south-carolina-georgia-tennesee-mississippi-alabama-louisiana"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Chef Katie Button.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/golden-hour",
+   "city_id": "asheville-nc-us",
+   "slug": "golden-hour",
+   "name": "Golden Hour",
+   "award": "recommended",
+   "cuisine": "American, wood-fired",
+   "address": "95 Roberts Street, Asheville, NC 28801",
+   "geo": null,
+   "website": "https://www.goldenhouravl.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": "resy",
+   "reservation_url": "https://resy.com/cities/avl/golden-hour-nc",
+   "contact": {
+    "email": null,
+    "phone": "828.407.1800",
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.goldenhouravl.com/"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": [
+     "menu_url"
+    ]
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": null,
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/good-hot-fish",
+   "city_id": "asheville-nc-us",
+   "slug": "good-hot-fish",
+   "name": "Good Hot Fish",
+   "award": "recommended",
+   "cuisine": "Southern fish fry, seafood",
+   "address": "10 Buxton Ave., Asheville, NC 28801",
+   "geo": {
+    "lat": 35.5883,
+    "lon": -82.554
+   },
+   "website": "https://goodhotfish.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "https://en.wikipedia.org/wiki/Good_Hot_Fish"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": [],
+    "superseded_citation": "Dropped a guide.michelin.com/en/... URL missing the /us/ locale segment; unfetchable and not independently verifiable. Remaining citations are press sources."
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Chef Ashleigh Shanti. South Slope. Opened January 2024.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/leos-house-of-thirst",
+   "city_id": "asheville-nc-us",
+   "slug": "leos-house-of-thirst",
+   "name": "Leo's House of Thirst",
+   "award": "recommended",
+   "cuisine": "Bistro small plates, natural wine",
+   "address": null,
+   "geo": null,
+   "website": "https://www.leosavl.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "West Asheville. Owner Drew Wallace, Chef Austin Inselmann. Same ownership group as The Admiral; a different restaurant, kitchen, menu, and address. Do not collapse the two.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/soprana",
+   "city_id": "asheville-nc-us",
+   "slug": "soprana",
+   "name": "Soprana",
+   "award": "recommended",
+   "cuisine": "Italian, brick-oven pizza",
+   "address": null,
+   "geo": null,
+   "website": "https://sopranarooftop.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "https://www.wncbusiness.com/2025/11/04/552920/fifteen-asheville-restaurants-recognized-by-michelin-guide"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Atop the Embassy Suites, downtown. Chef Jon Jerman.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/sunny-point-cafe",
+   "city_id": "asheville-nc-us",
+   "slug": "sunny-point-cafe",
+   "name": "Sunny Point Café",
+   "award": "recommended",
+   "cuisine": "All-day breakfast, farm-to-table",
+   "address": null,
+   "geo": null,
+   "website": "https://www.sunnypointcafe.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "https://wlos.com/news/local/michelin-guide-american-south-asheville-luminosa-little-chango-sunny-poiny-cafe-addissae-good-hot-fish-table-tall-johns-curate-bar-de-tapas-soprano-selections-restaurant-emerils-north-carolina-south-carolina-georgia-tennesee-mississippi-alabama-louisiana"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Owners April Moon Harper and Belinda Raab. Open since 2003.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/table",
+   "city_id": "asheville-nc-us",
+   "slug": "table",
+   "name": "Table",
+   "award": "recommended",
+   "cuisine": "New American, farm-to-table",
+   "address": null,
+   "geo": null,
+   "website": "https://tableasheville.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/",
+     "https://wlos.com/news/local/michelin-guide-american-south-asheville-luminosa-little-chango-sunny-poiny-cafe-addissae-good-hot-fish-table-tall-johns-curate-bar-de-tapas-soprano-selections-restaurant-emerils-north-carolina-south-carolina-georgia-tennesee-mississippi-alabama-louisiana",
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Chef Jacob Sessoms. Downtown farm-to-table pioneer.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/tall-johns",
+   "city_id": "asheville-nc-us",
+   "slug": "tall-johns",
+   "name": "Tall John's",
+   "award": "recommended",
+   "cuisine": "American classics, Southern tavern",
+   "address": null,
+   "geo": null,
+   "website": "https://www.talljohns.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": null,
+   "reservation_url": null,
+   "contact": {
+    "email": null,
+    "phone": null,
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "web coverage of the Michelin American South ceremony, 2025-11-03/04",
+    "citations": [
+     "https://www.exploreasheville.com/article/ashevilles-culinary-stars-shine-michelin-guide-american-south",
+     "https://innonmontford.com/culinary-treasures-michelin-guide-recognizes-15-of-ashevilles-beloved-restaurants/"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": []
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Chef Trevor Payne. Montford.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/the-admiral",
+   "city_id": "asheville-nc-us",
+   "slug": "the-admiral",
+   "name": "The Admiral",
+   "award": "recommended",
+   "cuisine": "Regional American, seasonal",
+   "address": "400 Haywood Rd., Asheville, NC 28806",
+   "geo": null,
+   "website": "https://www.theadmiralasheville.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": "resy",
+   "reservation_url": "https://resy.com/cities/asheville-nc/venues/the-admiral",
+   "contact": {
+    "email": null,
+    "phone": "+1 828-252-2541",
+    "chef": null
+   },
+   "provenance": {
+    "seed_source": "Four independent dated sources naming this restaurant on the 12-restaurant Recommended list from the 2025-11-03 ceremony: the Explore Asheville press release, WLOS's enumerated list, WNC Business, and Visit North Carolina.",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "https://wlos.com/news/local/michelin-guide-american-south-asheville-luminosa-little-chango-sunny-poiny-cafe-addissae-good-hot-fish-table-tall-johns-curate-bar-de-tapas-soprano-selections-restaurant-emerils-north-carolina-south-carolina-georgia-tennesee-mississippi-alabama-louisiana",
+     "https://www.wncbusiness.com/2025/11/04/552920/fifteen-asheville-restaurants-recognized-by-michelin-guide",
+     "https://www.visitnc.com/list/michelin-guide-american-south-asheville"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": [
+     "menu_url"
+    ],
+    "superseded_citation": "A prior v0.3 citation pointed at guide.michelin.com/en/... , which is missing the /us/ locale segment the canonical URL pattern uses and could not be fetched (403 to non-browser clients). Replaced with press sources that are independently verifiable."
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "West Asheville. Owner Drew Wallace, Chef Austin Inselmann - the same team as Leo's House of Thirst, which is separately in the selection. Rotating menu; press names schnitzel, fish and chips, rack of lamb with lemony couscous, snap peas with yuzu vinaigrette.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  },
+  {
+   "restaurant_id": "asheville-nc-us/ukiah",
+   "city_id": "asheville-nc-us",
+   "slug": "ukiah",
+   "name": "Ukiah Japanese Smokehouse",
+   "award": "recommended",
+   "cuisine": "Japanese, barbecue",
+   "address": "121 Biltmore Ave., Asheville, NC 28801",
+   "geo": null,
+   "website": "https://ukiahrestaurant.com",
+   "menu_platform": null,
+   "menu_urls": [],
+   "reservation_platform": "opentable",
+   "reservation_url": "https://www.opentable.com/r/buya-asheville-name-tbd-asheville",
+   "contact": {
+    "email": "hello@ukiahrestaurant.com",
+    "phone": "+1 828-470-7480",
+    "chef": "Michael Lewis"
+   },
+   "provenance": {
+    "seed_source": "Four independent dated sources naming this restaurant on the 12-restaurant Recommended list from the 2025-11-03 ceremony: the Explore Asheville press release, WLOS's enumerated list, WNC Business, and Visit North Carolina.",
+    "citations": [
+     "https://www.exploreasheville.com/article/press-release-15-asheville-restaurants-recognized-michelin-guide-first-ever-selection",
+     "https://wlos.com/news/local/michelin-guide-american-south-asheville-luminosa-little-chango-sunny-poiny-cafe-addissae-good-hot-fish-table-tall-johns-curate-bar-de-tapas-soprano-selections-restaurant-emerils-north-carolina-south-carolina-georgia-tennesee-mississippi-alabama-louisiana",
+     "https://www.wncbusiness.com/2025/11/04/552920/fifteen-asheville-restaurants-recognized-by-michelin-guide",
+     "https://www.visitnc.com/list/michelin-guide-american-south-asheville"
+    ],
+    "confirmed_utc": "2026-08-23",
+    "needs": [
+     "menu_url"
+    ],
+    "superseded_citation": "A prior v0.3 citation pointed at guide.michelin.com/en/... , which is missing the /us/ locale segment the canonical URL pattern uses and could not be fetched (403 to non-browser clients). Replaced with press sources that are independently verifiable."
+   },
+   "version": "v0",
+   "reviewer_of_record": "PLACEHOLDER - unassigned",
+   "notes": "Downtown. Co-founder and Exec Chef Michael Lewis. Japanese technique plus Southern smoke; sashimi and yakitori alongside smoked meats and dumplings. A tasting menu is offered, which constrains substitutions - relevant to menu-format tagging.",
+   "census": {
+    "status": "no_menu_captured",
+    "snapshot_id": null,
+    "counts": null,
+    "census_version": null,
+    "note": "Raw ingredient-presence counts only. Populated by src/census.py once a menu snapshot exists. No score, no rating, no threshold."
+   },
+   "accommodation": {
+    "status": "unverified",
+    "value": null,
+    "verified_by": null,
+    "verified_utc": null,
+    "method": null,
+    "evidence": null,
+    "expires_utc": null,
+    "note": "What the kitchen will actually do. Recorded ONLY from direct contact with the restaurant -- never inferred from menu text, cuisine, or reviews. 'unverified' is not zero. Expires 180 days after verification."
+   }
+  }
+ ],
+ "changelog": [
+  {
+   "version": "v0.1",
+   "utc": "2026-08-23",
+   "change": "initial seed, 13 of 15 confirmed by name"
+  },
+  {
+   "version": "v0.2",
+   "utc": "2026-08-23",
+   "change": "removed the scoring/judgment layer. Menu-fit priors moved to data/prior_expectations.json (not app data). Records now carry raw census counts and an accommodation field verifiable only by restaurant contact."
+  },
+  {
+   "version": "v0.3",
+   "utc": "2026-08-23",
+   "change": "Resolved PLACEHOLDER-14 and PLACEHOLDER-15 as The Admiral (400 Haywood Rd.) and Ukiah Japanese Smokehouse (121 Biltmore Ave.). Both cited to Michelin restaurant pages. The Admiral is not Leo's House of Thirst."
+  },
+  {
+   "version": "v0.4",
+   "utc": "2026-08-23",
+   "change": "Re-verified The Admiral and Ukiah Japanese Smokehouse against four independent dated press sources after an audit challenged them as false positives. Both CONFIRMED on the Recommended list. Replaced the v0.3 guide.michelin.com citations, which were malformed (missing the /us/ locale segment) and unfetchable, with verifiable press URLs. The Admiral shares ownership with Leo's House of Thirst and both are in the selection."
+  }
+ ],
+ "contains_no_suitability_judgment": true
+}

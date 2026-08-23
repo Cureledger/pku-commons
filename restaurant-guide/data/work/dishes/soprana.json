@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Chopped Kale Salad",
+    "description": "Local Tuscan Kale, Sopressa Veneta Salami, Preserved Lemon, Calabrian Chili, Castelvatrana Olives, Roasted Garlic Vinaigrette, Pangrattato",
+    "menu_section": "Leaves",
+    "price_usd": 15
+  },
+  {
+    "name": "Wedge",
+    "description": "Baby Iceberg, Crispy Goodnight Brothers American Prosciutto, Confit Tomatoes, Pickled Shallots, Moody Blue Cheese Dressing",
+    "menu_section": "Leaves",
+    "price_usd": 14
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Baby Gem Lettuce, Pecorino Romano, Garlic Herb Croutons",
+    "menu_section": "Leaves",
+    "price_usd": 13
+  },
+  {
+    "name": "Simple Green Salad",
+    "description": "Local Baby Lettuce Blend, White Balsamic Vinaigrette",
+    "menu_section": "Leaves",
+    "price_usd": 9
+  },
+  {
+    "name": "Burrata Cheese",
+    "description": "Tomato, Pesto, White Balsamic Gastrique",
+    "menu_section": "",
+    "price_usd": 18
+  },
+  {
+    "name": "Whipped Ricotta",
+    "description": "Homemade Buttermilk Ricotta, Truffle Honey, Aleppo Chili Flake, House Foccacia",
+    "menu_section": "",
+    "price_usd": 12
+  },
+  {
+    "name": "White Bean Dip",
+    "description": "Olive Oil, Crispy Kale, Garlic Herb Flat Bread",
+    "menu_section": "",
+    "price_usd": 10
+  },
+  {
+    "name": "Sunburst Farm Smoked Trout Dip",
+    "description": "Fried Capers, Pickled Shallot, Trout Skin Cracklings, Roots & Branches Flatbread Crackers",
+    "menu_section": "",
+    "price_usd": 15
+  },
+  {
+    "name": "Meatballs**",
+    "description": "Local Pasture Raised Beef & Pork Spicy Meatballs, Crushed Tomato, Herbs, Parmesan, House Foccacia",
+    "menu_section": "",
+    "price_usd": 14
+  },
+  {
+    "name": "Marinated Olives",
+    "description": "Citrus, Herbs, Aleppo, Calabrian Chili",
+    "menu_section": "",
+    "price_usd": 9
+  },
+  {
+    "name": "Roasted Cauliflower",
+    "description": "Italian Salsa Verde, Verjus Golden Raisins, Remoulade, Calabrian Chili Oil, Herbs",
+    "menu_section": "",
+    "price_usd": 14
+  },
+  {
+    "name": "Oven Roasted Chicken Wings",
+    "description": "Spicewalla Amore Italian Dry Rub, Garlic Butter, Charred Lemon",
+    "menu_section": "",
+    "price_usd": 16
+  },
+  {
+    "name": "Garlic Cheese Bread**",
+    "description": "Mozzarella, Fontina, Roasted Garlic, Castelvetrano Olives, Calabrian Chili, Basil Oil",
+    "menu_section": "",
+    "price_usd": 15
+  },
+  {
+    "name": "Margherita",
+    "description": "Fresh Mozzarella, Tomato Sauce, Basil, Olive Oil",
+    "menu_section": "Pizza",
+    "price_usd": 17
+  },
+  {
+    "name": "Garden Variety",
+    "description": "Black Trumpet Farm’s Mushrooms, Three Graces Garlic Herb Chevre, Fresh Mozzarella, Castelvetrano Olives, Artichoke, Roasted Tomato, Onion, Basil",
+    "menu_section": "Pizza",
+    "price_usd": 21
+  },
+  {
+    "name": "The Asheville",
+    "description": "Pepperoni, Fresh Mozzarella, Asheville Bee Charmer Smokin’ Hot Honey, Tomato Sauce",
+    "menu_section": "Pizza",
+    "price_usd": 20
+  },
+  {
+    "name": "Sausage & Gorgonzola",
+    "description": "Homemade Pasture Raised Italian Sausage, Black Trumpet Farm Mushrooms, Gorgonzola, Fresh Mozzarella, Tomato Sauce, Basil, Olive Oil",
+    "menu_section": "Pizza",
+    "price_usd": 21
+  },
+  {
+    "name": "Meatball & Ricotta",
+    "description": "Local Pasture Raised Beef & Pork Meatballs, Ricotta, Fresh Mozzarella, Pecorino, Tomato Sauce, Herbs",
+    "menu_section": "Pizza",
+    "price_usd": 22
+  },
+  {
+    "name": "Spicy Italian",
+    "description": "Homemade Pasture Raised Italian Sausage, Spicy Capicola, Fresh Mozzarella, Castelvetrano Olives, Pickled Fresno Chilies, Red Onion, Tomato Sauce, Herbs",
+    "menu_section": "Pizza",
+    "price_usd": 24
+  },
+  {
+    "name": "Artichoke",
+    "description": "Basil Pesto, Artichokes, Fresh Mozzarella, Three Graces Feta, Herb Roasted Tomatoes, Arugula",
+    "menu_section": "Pizza",
+    "price_usd": 20
+  },
+  {
+    "name": "Tartufo",
+    "description": "Black Trumpet Farm Mushrooms, Fresh Mozzarella, Fontina, Herbs, Garlic Herb Cream, Truffle Oil",
+    "menu_section": "Pizza",
+    "price_usd": 22
+  },
+  {
+    "name": "Quattro Formaggi",
+    "description": "Ricotta, Fresh Mozzarella, Fontina, Pecorino Romano, Garlic Confit, Garlic Herb Cream, Herbs, Basil Oil",
+    "menu_section": "Pizza",
+    "price_usd": 18
+  },
+  {
+    "name": "Fig & Prosciutto",
+    "description": "Goodnight Brothers “Prosciutto”, Homemade Local Muscadine Reduction, Red Onions, Three Graces Garlic Herb Chevre, Mozzarella, Arugula, Olive Oil",
+    "menu_section": "Pizza",
+    "price_usd": 22
+  },
+  {
+    "name": "Pesto Chicken",
+    "description": "Grilled Chicken, Crispy Goodnight Brothers American “Prosciutto”, Fresh Mozzarella, Pesto Cream, Red Onions, Arugula",
+    "menu_section": "Pizza",
+    "price_usd": 21
+  },
+  {
+    "name": "Ricotta Cheesecake",
+    "description": "Lemon Curd, Thyme Macerated Blueberries",
+    "menu_section": "After Pizza",
+    "price_usd": 11
+  },
+  {
+    "name": "Flourless Chocolate Torte",
+    "description": "Aleppo Nutella, Candied Hazelnuts, Hazelnut Crumb",
+    "menu_section": "After Pizza",
+    "price_usd": 13
+  },
+  {
+    "name": "Affogato",
+    "description": "Espresso, Vanilla Gelato, Salted Caramel, Amaretti Cookies",
+    "menu_section": "After Pizza",
+    "price_usd": 10
+  },
+  {
+    "name": "Cannolis",
+    "description": "Homemade Ricotta Filling, Chocolate Chips, Amaro Salted Caramel",
+    "menu_section": "After Pizza",
+    "price_usd": 11
+  },
+  {
+    "name": "Daily Gelato Selection",
+    "description": "Ask Your Server for Today’s Flavors",
+    "menu_section": "After Pizza",
+    "price_usd": 8
+  }
+]

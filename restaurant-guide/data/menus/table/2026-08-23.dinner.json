@@ -1,0 +1,179 @@
+{
+ "snapshot_id": "table:dinner:2026-08-23",
+ "restaurant_id": "asheville-nc-us/table",
+ "source_url": "https://tableasheville.com/asheville-downtown-table-asheville-dinner-menu",
+ "fetched_utc": "2026-08-23T20:01:21+00:00",
+ "content_sha256": "aaf831ae434ef50ef4b8cdb37f63d7c0c728063c8d10fd3799604cf00278762c",
+ "extraction_method": "structured_platform",
+ "menu_label": "dinner",
+ "capturer": "cursor-grok-4.6",
+ "dishes": [
+  {
+   "name": "Darling Bread & Butter",
+   "description": "",
+   "menu_section": "Lil Snacks",
+   "price_usd": 9
+  },
+  {
+   "name": "Sausage Stuffed Olives",
+   "description": "",
+   "menu_section": "Lil Snacks",
+   "price_usd": 6
+  },
+  {
+   "name": "Devils on Horseback",
+   "description": "",
+   "menu_section": "Lil Snacks",
+   "price_usd": 6
+  },
+  {
+   "name": "Shrimp & Ritz",
+   "description": "",
+   "menu_section": "Lil Snacks",
+   "price_usd": 6
+  },
+  {
+   "name": "Shishitos",
+   "description": "",
+   "menu_section": "Lil Snacks"
+  },
+  {
+   "name": "Oysters",
+   "description": "mignonette",
+   "menu_section": "Raw Bar",
+   "price_usd": 4
+  },
+  {
+   "name": "NC Scallop Crudo",
+   "description": "",
+   "menu_section": "Raw Bar",
+   "price_usd": 20
+  },
+  {
+   "name": "Beef Tartare",
+   "description": "",
+   "menu_section": "Raw Bar",
+   "price_usd": 15
+  },
+  {
+   "name": "Cucumbers & Melons",
+   "description": "chili crisp & basil",
+   "menu_section": "From our Farmers",
+   "price_usd": 13
+  },
+  {
+   "name": "Früts & Rüts",
+   "description": "feta, pistachio, papalo",
+   "menu_section": "From our Farmers",
+   "price_usd": 17
+  },
+  {
+   "name": "Tomatoes",
+   "description": "freekah, alliums, purslane",
+   "menu_section": "From our Farmers",
+   "price_usd": 16
+  },
+  {
+   "name": "Lettuces & Vinaigrette",
+   "description": "hazelnuts & herbs",
+   "menu_section": "From our Farmers",
+   "price_usd": 15
+  },
+  {
+   "name": "Jay's Mushrooms",
+   "description": "foie gras, sherry, yolk",
+   "menu_section": "From our Farmers",
+   "price_usd": 27
+  },
+  {
+   "name": "Sweet Peppers",
+   "description": "focaccia, walnuts, goat cheese",
+   "menu_section": "From our Farmers",
+   "price_usd": 17
+  },
+  {
+   "name": "Daniel's Eggplant",
+   "description": "cashew, sultanas, curry",
+   "menu_section": "From our Farmers",
+   "price_usd": 16
+  },
+  {
+   "name": "Lee's Green Rice",
+   "description": "and their greens",
+   "menu_section": "From our Farmers",
+   "price_usd": 21
+  },
+  {
+   "name": "Rabbit Cavatelli",
+   "description": "olive, allium, chili",
+   "menu_section": "Pastas",
+   "price_usd": 19
+  },
+  {
+   "name": "Rigatoni",
+   "description": "eggplant & mushroom ragout",
+   "menu_section": "Pastas",
+   "price_usd": 25
+  },
+  {
+   "name": "Spaghetti al Tonno",
+   "description": "tomato, bean, pangrattato",
+   "menu_section": "Pastas",
+   "price_usd": 25
+  },
+  {
+   "name": "Chopped Chicken",
+   "description": "chow chow veggies & schmaltz",
+   "menu_section": "From the Grill",
+   "price_usd": 15
+  },
+  {
+   "name": "NC Shrimp",
+   "description": "red gritz, okra, BBQ spice",
+   "menu_section": "From the Grill",
+   "price_usd": 16
+  },
+  {
+   "name": "Lamb & Beef Kefte",
+   "description": "stuffed squash, yoghurt & almond",
+   "menu_section": "From the Grill",
+   "price_usd": 18
+  },
+  {
+   "name": "Roasted Chicken",
+   "description": "greasy beans, corn, tomato",
+   "menu_section": "From the Grill",
+   "price_usd": 35
+  },
+  {
+   "name": "Hanger Steak",
+   "description": "fingerlings, fry peppers, thai basil",
+   "menu_section": "From the Grill",
+   "price_usd": 42
+  },
+  {
+   "name": "Pork Schnitzel",
+   "description": "summer bean salad, bacon, aioli",
+   "menu_section": "From the Grill",
+   "price_usd": 34
+  },
+  {
+   "name": "The Burger",
+   "description": "cheesy, messy, oniony. w/fries",
+   "menu_section": "From the Grill",
+   "price_usd": 24
+  },
+  {
+   "name": "Grilled Whole Rainbow Trout",
+   "description": "market vegetables (Limited Availability)",
+   "menu_section": "Big Things to Share",
+   "price_usd": 75
+  },
+  {
+   "name": "40 oz. Dry Aged Bone-in Ribeye",
+   "description": "potatoes & greens",
+   "menu_section": "Big Things to Share",
+   "price_usd": 150
+  }
+ ]
+}

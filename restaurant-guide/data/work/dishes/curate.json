@@ -1,0 +1,228 @@
+[
+  {
+    "name": "Gilda",
+    "description": "anchovy, olive, pickled piparra",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Pan Con Tomate",
+    "description": "toasted bread, fresh tomato, garlic, olivar cúrate olive oil",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Manchego Cheese",
+    "description": "manchego cheese, olive oil",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Anchoas Con Salsa Aperitivo",
+    "description": "salt-cured anchovies, salsa aperitivo",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Boquerones Con Ajo Y Perejil",
+    "description": "vinegar-cured anchovies, garlic, salsa verde, olives",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Matrimonio De Conservas",
+    "description": "anchovies, boquerones, olives, garlic salsa verde",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Barretja",
+    "description": "pickled mussels, local potato chips, olives",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Aceitunas Cúrate",
+    "description": "marinated olive blend, olive oil potato chips",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Almendras Fritas",
+    "description": "fried marcona almonds, sea salt",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Croquetas de Temporada",
+    "description": "creamy spanish fritters",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Chistorra & Chips José's Way",
+    "description": "cúrate chorizo, fried potato chips",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Berenjenas Con Miel",
+    "description": "fried eggplant, local honey, rosemary",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Table De Quesos",
+    "description": "selection of spanish cheeses, accompaniments",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Baguette",
+    "description": "served with olivar cúrate olive oil",
+    "menu_section": "La Vermutería"
+  },
+  {
+    "name": "Cinco Jotas Jamón Ibérico",
+    "description": "world-famous cured pork from 100% pure acorn-fattened and free range Iberian pigs. jamón de bellota–back leg cut. paleta de bellota–shoulder cut. lomo de bellota–loin cut",
+    "menu_section": "La Jamonería"
+  },
+  {
+    "name": "cúrate salchichón",
+    "description": "mild sausage",
+    "menu_section": "La Charcutería"
+  },
+  {
+    "name": "cúrate chorizo",
+    "description": "pimentón de la vera, garlic",
+    "menu_section": "La Charcutería"
+  },
+  {
+    "name": "cúrate sobrasada",
+    "description": "spiced spreadable sausage, goat cheese, honey, crostini",
+    "menu_section": "La Charcutería"
+  },
+  {
+    "name": "tabla de cúrate",
+    "description": "charcuterie trio",
+    "menu_section": "La Charcutería"
+  },
+  {
+    "name": "GAZPACHO",
+    "description": "chilled tomato soup, cucumber, fried bread crumbs",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "ENSALADA",
+    "description": "lettuce blend, pistachio vinaigrette, citrus, olives, idiazabal cheese",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Escalivada",
+    "description": "chilled roasted red bell pepper, onion, eggplant (no bread upon request)",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "ENSALADA DE TOMATE Y ATUN",
+    "description": "heirloom tomatoes, confit tuna, pickled green peppers, onion, cured black olive",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Patatas Bravas",
+    "description": "crispy fried potatoes, alioli, spicy tomato and pepper sauce",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Pimientos De Piquillo Rellenos",
+    "description": "piquillo peppers, round mountain creamery goat cheese, parsley salsa verde",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Tortilla Española",
+    "description": "spanish omelette, piquillo peppers, alioli",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Gambas Al Ajillo",
+    "description": "sautéed shrimp, sherry broth, garlic, árbol chili",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Setas Al Jerez",
+    "description": "selection of sautéed mushrooms, splash of sherry",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Salteado 'A La Catalana’",
+    "description": "sautéed seasonal greens, pistachio, sweet onions, pickled blueberries (no sherry upon request)",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "Pulpo a La Gallega",
+    "description": "warm Galician-style octopus, pimentón, yukon gold purée (no purée upon request)",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "butifarra con mongetes",
+    "description": "catalan pork sausage, rancho gordo white bean salad, confit tomato, alioli, fennel",
+    "menu_section": "Tapas"
+  },
+  {
+    "name": "macarrones del cardenal",
+    "description": "spanish mac and cheese, chorizo sofrito, ibérico pork, breadcrumbs",
+    "menu_section": "Al Horno"
+  },
+  {
+    "name": "Pincho Moruno*",
+    "description": "lamb skewers, spicewalla moorish spices, pickled cucumber and onion",
+    "menu_section": "Al Horno"
+  },
+  {
+    "name": "Verduras Con Romesco",
+    "description": "seasonal vegetables, romesco",
+    "menu_section": "Al Horno"
+  },
+  {
+    "name": "Cerdo Ibérico*",
+    "description": "ibérico pork, seasonal vegetables, thyme, rosemary",
+    "menu_section": "Al Horno"
+  },
+  {
+    "name": "Pescado Al Horno",
+    "description": "whole market fish, hazelnut picada (TNF - sub salsa verde)",
+    "menu_section": "Al Horno"
+  },
+  {
+    "name": "Chuletón De Vaca",
+    "description": "dry aged galician bone in ribeye, peppers, fried potatoes",
+    "menu_section": "Al Horno"
+  },
+  {
+    "name": "Rossejat*",
+    "description": "thin noodles prepared paella-style, squid in its ink, shellfish stock, alioli",
+    "menu_section": "En Paella"
+  },
+  {
+    "name": "Arroz Del Día",
+    "description": "seasonal rotating rice in paella, not always traditional",
+    "menu_section": "En Paella"
+  },
+  {
+    "name": "Cúrate Experience",
+    "description": "A seasonal prix fixe menu of traditional spanish dishes. Hand-selected Cúrate highlights from co-founders chef Katie Button and Félix Meana. Full table participation required.",
+    "menu_section": "Cúrate Experience",
+    "price_usd": 80
+  },
+  {
+    "name": "Tarta Sara",
+    "description": "almond cake, amaretto peaches, lavender cream, butter cream, peach sorbet",
+    "menu_section": "Postres"
+  },
+  {
+    "name": "Tarta De Queso",
+    "description": "burnt basque cheesecake, local goat cheese, macerated peaches, oat crumble",
+    "menu_section": "Postres"
+  },
+  {
+    "name": "Flan",
+    "description": "egg custard, chantilly cream",
+    "menu_section": "Postres"
+  },
+  {
+    "name": "pan con chocolate",
+    "description": "brioche, ganache, yuzu custard, evoo sorbet, white chocolate",
+    "menu_section": "Postres"
+  },
+  {
+    "name": "Copa De Helado",
+    "description": "Selection of house-made ice creams and sorbets",
+    "menu_section": "Postres"
+  }
+]

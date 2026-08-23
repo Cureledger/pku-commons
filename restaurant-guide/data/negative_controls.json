@@ -1,0 +1,39 @@
+{
+ "purpose": "Names that appear in search results for 'Michelin restaurants Asheville' but are NOT in the Michelin selection. Any pipeline run that emits one of these into the registry has a sourcing bug. Treat as a regression test.",
+ "trap_source": "Yelp serves a page titled 'Best Michelin Restaurants in Asheville' that is an SEO listing, not the Michelin selection.",
+ "not_in_selection": [
+  {
+   "name": "Chestnut"
+  },
+  {
+   "name": "Jargon"
+  },
+  {
+   "name": "Posana"
+  },
+  {
+   "name": "Fig"
+  },
+  {
+   "name": "Tupelo Honey Southern Kitchen & Bar"
+  },
+  {
+   "name": "Corner Kitchen"
+  },
+  {
+   "name": "Chai Pani",
+   "note": "widely covered Asheville restaurant, not in the Michelin 15"
+  }
+ ],
+ "rule": "An AWARD claim requires a citation to the award program or dated ceremony coverage. Aggregator and SEO pages are never sufficient in EITHER direction -- they cannot establish an award and they cannot establish its absence. REGISTRY membership is a separate and much lower bar: someone added the record and said where it came from.",
+ "corrected_entries": [
+  {
+   "name": "The Admiral",
+   "wrongly_listed_in": "v0.1",
+   "corrected_in": "restaurants.seed.json v0.3, re-verified v0.4",
+   "why_it_was_wrong": "Listed as not-in-selection because it appeared on a Yelp SEO page titled 'Best Michelin Restaurants in Asheville' alongside genuine non-members. The inference was that everything on an SEO page is a false positive. The Admiral is in fact on the Recommended list, confirmed by the Explore Asheville press release, WLOS, WNC Business and Visit North Carolina.",
+   "lesson": "An aggregator page can contain TRUE entries mixed with false ones. Appearing on a bad page is not evidence of non-membership, exactly as a non-match in the lexicon is not evidence of absence. Membership is decided by citation to the award source or dated ceremony coverage, per restaurant, in both directions."
+  }
+ ],
+ "scope": "These names are NOT in the Michelin selection. That is a statement about one AWARD CLAIM, not about registry membership. Any of them may be in the guide -- several already are. This file exists to stop a false Michelin badge, nothing more."
+}

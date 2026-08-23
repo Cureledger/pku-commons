@@ -1,0 +1,128 @@
+{
+ "schema_version": "cities-v1",
+ "city_id": "copenhagen-dk",
+ "display_name": "Copenhagen, Denmark",
+ "country": "dk",
+ "region": "",
+ "timezone": "Europe/Copenhagen",
+ "docs": {
+  "method": "cities/copenhagen-dk/METHODOLOGY.md",
+  "priors": "cities/copenhagen-dk/PRIORS.md"
+ },
+ "award_layer": {
+  "program": "MICHELIN Guide",
+  "edition": "MICHELIN Guide Nordic Countries",
+  "stars_reported_2026": "UNRESOLVED - see conflicts",
+  "starred_restaurants_reported_2026": "UNRESOLVED - 15 to 21 depending on source",
+  "source": "Copenhagen tourism sources, 2026 list; described as the most starred city in the Nordics",
+  "unresolved": [
+   "A 15-vs-21 gap for 2026 is not rounding. Likely a scope difference (city limits vs greater Copenhagen, or a curated subset vs the full starred list). NOT RESOLVED - do not publish a count.",
+   "STARS ARE NOT RESTAURANTS. Never derive a restaurant count from a star count.",
+   "Noma has announced a transition away from ordinary restaurant service; its status will change during this project's lifetime. This is why every award entry carries an edition and a date.",
+   "For ESPKU the count is irrelevant. What matters is which restaurants are near the venue."
+  ],
+  "source_conflicts": [
+   {
+    "source": "Copenhagen tourism list",
+    "year": 2026,
+    "stars": 31,
+    "restaurants": 21
+   },
+   {
+    "source": "travel guide published April 2026",
+    "year": 2026,
+    "stars": null,
+    "restaurants": 15
+   },
+   {
+    "source": "Wonderful Copenhagen",
+    "year": 2025,
+    "stars": 30,
+    "restaurants": 18
+   },
+   {
+    "source": "other Nordic coverage",
+    "year": 2025,
+    "stars": 30,
+    "restaurants": 19
+   }
+  ],
+  "ordering_for_october": "by distance from the ESPKU venue, not by star count"
+ },
+ "disclosure_regimes_present": [
+  "eu_allergen"
+ ],
+ "regime_note": "EU Regulation 1169/2011 requires the 14 major allergens to be declared for non-prepacked food including restaurant meals. NINE of the fourteen are phe-relevant protein sources, so for those nine a blank is weak evidence of absence rather than no evidence -- the opposite of the Regime A rule used in Asheville. It says nothing about QUANTITY, so it does not touch the magnitude question.",
+ "allergens_phe_relevant": [
+  "cereals containing gluten",
+  "milk",
+  "eggs",
+  "soybeans",
+  "nuts",
+  "peanuts",
+  "fish",
+  "crustaceans",
+  "molluscs"
+ ],
+ "allergens_not_phe_relevant": [
+  "sesame",
+  "celery",
+  "mustard",
+  "lupin",
+  "sulphites"
+ ],
+ "regime_c_misuse_warnings": [
+  "Never read an allergen declaration as a quantity. It says whether, never how much.",
+  "Never read allergen compliance as accommodation. Declaring milk is a legal duty; cooking without it is a choice.",
+  "Legal obligation is not compliance. Treating Regime C silence as STRONG evidence is the same overreach as treating Regime A silence as evidence, in the opposite direction.",
+  "Confidence still decays with snapshot age. Regime C does not exempt a menu from recency rules."
+ ],
+ "blocking_gate": {
+  "blocked_until": "the lexicon has a Danish category set",
+  "why": "The lexicon is English-first. A Danish menu run through it today would match ~nothing and the census would record 'no protein sources named', which is the worst possible failure of the one inference rule -- a tooling gap presented as a finding about food.",
+  "danish_seed_terms": [
+   "torsk",
+   "svinekød",
+   "oksekød",
+   "kylling",
+   "æg",
+   "mælk",
+   "ost",
+   "smør",
+   "rugbrød",
+   "kartofler",
+   "ærter",
+   "bønner",
+   "laks",
+   "sild",
+   "rejer",
+   "hvede",
+   "fløde",
+   "flæsk",
+   "frikadelle",
+   "smørrebrød"
+  ],
+  "known_hard_problems": [
+   "Danish compounds aggressively: 'svinekødsfrikadeller' is one word containing pork AND meatball. The compound_substring_terms pass was built for 'shrimpburger' and needs real work.",
+   "Non-ASCII: ae/oe/aa characters will break naive matching. slugify() folds them; the lexicon matcher does not. This is a bug waiting to happen.",
+   "The seed term list above is the agent's, not a native speaker's. It will contain errors and will miss the compounds that matter most."
+  ]
+ },
+ "green_star_note": "Copenhagen is dense with Green Stars (Geranium, Noma). A Green Star is awarded for sustainability. Vegetable-forward correlates with it, which is a CAMOUFLAGE signal, never a dietary-fit signal. Sustainable cooking often displaces meat with legumes, which are among the highest-phe foods. See PRIORS.md prior 5.",
+ "status": "no_menu_captured",
+ "contains_no_suitability_judgment": true,
+ "event_anchor": {
+  "event": "ESPKU",
+  "when": "2026-10",
+  "lead_time_from": "2026-08",
+  "scope_note": "cities/copenhagen-dk/ESPKU-OCTOBER.md",
+  "october_scope": [
+   "order the Michelin list BY DISTANCE from the venue and delegate hotels, then work down",
+   "capture menus by any means including hand transcription",
+   "the request card in Danish, translated by a person, not a machine",
+   "nothing else - no scoring, no lexicon rollout, no verification campaign"
+  ],
+  "why_bib_over_stars": "A Bib Gourmand is Michelin's good-value tier, which correlates with a la carte service and a printed menu. Both are better for a delegate than a prepaid tasting menu. The starred set is the more prestigious list and the less useful one for this trip.",
+  "opportunity": "A few hundred PKU families eating in one city in one week. A structured visit report form would be the largest accommodation dataset this project has ever had, and it also tests the tasting-menu prediction in PRIORS.md with a sample no amount of scraping produces. Worth designing the form before October even if nothing else ships."
+ }
+}

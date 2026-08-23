@@ -1,0 +1,64 @@
+{
+ "schema_version": "cities-v1",
+ "city_id": "orlando-fl-us",
+ "display_name": "Orlando, Florida",
+ "country": "us",
+ "region": "FL",
+ "timezone": "America/New_York",
+ "docs": {
+  "method": "cities/orlando-fl-us/METHODOLOGY.md",
+  "priors": "cities/orlando-fl-us/PRIORS.md"
+ },
+ "award_layer": {
+  "program": "MICHELIN Guide",
+  "edition": "MICHELIN Guide Florida, 2026",
+  "venues_reported": "62 per one source - NOT independently verified",
+  "stars_reported": 7,
+  "bib_gourmand_reported": 14,
+  "selected_reported": 41,
+  "prior_edition_venues": 59,
+  "source": "Visit Orlando, updated 2026-08-17; corroborated by 2025 ceremony coverage",
+  "unresolved": [
+   "The 7/14/41=62 breakdown is one source's tally (destination marketing organization + press). Internally consistent and directionally corroborated by the 59-in-2025 figure, but not a verified count. Reconcile against guide.michelin.com with a browser.",
+   "'7 Stars' is a star count, not a restaurant count -- Sorekara holds two, so the starred RESTAURANT count is lower and must be resolved per record",
+   "the 62 tally is from the destination marketing organization, not guide.michelin.com, which 403s non-browser clients",
+   "Florida press writes 'Recommended'; Michelin's current label for that tier is 'Selected'. Store verbatim per record, do not normalize press usage"
+  ]
+ },
+ "disclosure_regimes_present": [
+  "us_independent",
+  "us_chain_20plus"
+ ],
+ "regime_note": "The us_chain_20plus regime is why this city ranks first for capture. FDA 21 CFR 101.11 requires chains of 20+ locations to provide written nutrition information including PROTEIN on request. That is a number the phe estimator can use directly, and it does not exist in Asheville.",
+ "operators_to_capture": [
+  {
+   "key": "walt_disney_world",
+   "name": "Walt Disney World Resort",
+   "tier": "operator",
+   "accommodation_evidence": "Published Special Dietary Requests page directs guests on a 'medically-restrictive diet (such as very low protein)' to email the Special Diets team for a Special Diets Request Form, no sooner than 14 days before arrival; the team then assists with dining and may give restaurants advance notice. Third-party coverage of the program lists PKU by name among requests requiring advance contact. Victoria & Albert's is handled by a separate dedicated line.",
+   "citations": [
+    "https://disneyworld.disney.go.com/guest-services/special-dietary-requests/"
+   ],
+   "why_it_matters": "A published, citable, operator-level policy naming our exact condition, covering dozens of restaurants, verifiable by READING rather than asking. Nothing in Asheville can be established this way.",
+   "caveat": "Disney's own page states restaurants take reasonable efforts and cannot guarantee all requests can be met. Evidence about process, not about a plate.",
+   "ttl_days": 365,
+   "ttl_rationale": "A corporate policy does not turn over when a line cook quits. Annual re-check, not the 180 days used for chef-tier verification."
+  },
+  {
+   "key": "universal_orlando",
+   "name": "Universal Orlando Resort",
+   "tier": "operator",
+   "accommodation_evidence": "NOT YET CAPTURED - do not assume parity with Disney",
+   "citations": []
+  }
+ ],
+ "capture_order": [
+  "chain nutrition sheets (numbers, no relationship needed)",
+  "operator accommodation policies (one capture inherits to many venues)",
+  "the Michelin 62 (census on prose, Regime A rules)",
+  "local lists via the category-harvest map"
+ ],
+ "capture_order_note": "Deliberately the inverse of Asheville's. Here the award list is the LEAST informative of the four sources.",
+ "status": "no_menu_captured",
+ "contains_no_suitability_judgment": true
+}

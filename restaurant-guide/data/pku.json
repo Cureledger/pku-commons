@@ -1,0 +1,950 @@
+{
+  "version": "v0.1",
+  "note": "Picks are dishes from a recent posted menu that may work for a low-protein / low-phe plate. They are questions for the kitchen, not a safety claim. Accommodation and MNT Food Check are set only after contact.",
+  "restaurants": [
+    {
+      "slug": "luminosa",
+      "picks": [
+        {
+          "name": "Marinated olives",
+          "description": "citrus, herbs",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Evan's cucumbers",
+          "description": "Hakurei turnip, ramp salt, lovage",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Lee's melon",
+          "description": "charred corn, basil, salt",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Wood fired lion's mane",
+          "description": "brown butter, lemon, spearmint",
+          "course": "main",
+          "kind": "main",
+          "hold": "brown butter"
+        },
+        {
+          "name": "Evan's charred zucchini",
+          "description": "angelica, fennel, thai basil",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Frying peppers",
+          "description": "cherry pepper & sorghum agrodolce, summer onion",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Grilled okra",
+          "description": "tomato jam, Jimmy Nardello",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Charred bok choy",
+          "description": "WNC green chili crunch, sesame",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "sesame"
+        },
+        {
+          "name": "New potato",
+          "description": "summer onion, okra crisp, chanterelle salt",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "ukiah",
+      "picks": [
+        {
+          "name": "Grilled Shishito Peppers",
+          "description": "Carrot ginger ponzu",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Beech Mushroom Tempura",
+          "description": "tokyo ranch + onion ash",
+          "course": "starter",
+          "kind": "beyond",
+          "note": "Ask what is in the ranch."
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "description": "Shishito vinaigrette, buttermilk goat cheese, shiso + myoga",
+          "course": "main",
+          "kind": "main",
+          "hold": "goat cheese"
+        },
+        {
+          "name": "Baby Bok Choy",
+          "description": "Sesame ginger dressing + charred lemon",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "sesame"
+        },
+        {
+          "name": "Smoked Baby Zucchini",
+          "description": "Japanese mustard vinaigrette",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Japanese Sweet Potato",
+          "description": "Miso butter, brown sugar, parmesan + umami salt",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "butter and parmesan"
+        }
+      ]
+    },
+    {
+      "slug": "curate",
+      "picks": [
+        {
+          "name": "Pan Con Tomate",
+          "description": "toasted bread, fresh tomato, garlic, olive oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Aceitunas Cúrate",
+          "description": "marinated olive blend, olive oil potato chips",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Berenjenas Con Miel",
+          "description": "fried eggplant, local honey, rosemary",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "GAZPACHO",
+          "description": "chilled tomato soup, cucumber, fried bread crumbs",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Escalivada",
+          "description": "chilled roasted red bell pepper, onion, eggplant",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Setas Al Jerez",
+          "description": "sautéed mushrooms, splash of sherry",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Verduras Con Romesco",
+          "description": "seasonal vegetables, romesco",
+          "course": "main",
+          "kind": "main",
+          "hold": "romesco",
+          "note": "Romesco is nuts."
+        },
+        {
+          "name": "Patatas Bravas",
+          "description": "crispy fried potatoes, alioli, spicy tomato and pepper sauce",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "alioli",
+          "note": "Alioli is egg."
+        }
+      ]
+    },
+    {
+      "slug": "table",
+      "picks": [
+        {
+          "name": "Shishitos",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Cucumbers & Melons",
+          "description": "chili crisp & basil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tomatoes",
+          "description": "freekah, alliums, purslane",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "freekah",
+          "note": "Freekah is wheat."
+        },
+        {
+          "name": "Lee's Green Rice",
+          "description": "and their greens",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Daniel's Eggplant",
+          "description": "cashew, sultanas, curry",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "cashew"
+        }
+      ]
+    },
+    {
+      "slug": "addissae",
+      "picks": [
+        {
+          "name": "GOMEN (Collard Green)",
+          "description": "Fresh chopped collard green cooked in onions, garlic, and ginger.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "TIKEL GOMEN (Cabbage)",
+          "description": "Fresh cabbage, carrots and potato cooked together with onion, turmeric, ginger, and garlic.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "KEY SIR (Beets)",
+          "description": "Fresh beets and carrot cooked together with onion, garlic and ginger.",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "tall-johns",
+      "picks": [
+        {
+          "name": "Marinated Olives",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Honey Roasted Eggplant",
+          "description": "Tahini-Yogurt, Pistachio Relish",
+          "course": "main",
+          "kind": "main",
+          "hold": "yogurt and pistachio"
+        },
+        {
+          "name": "Summer Vegetables, Soft Egg*",
+          "description": "SC Peaches, Green Goddess",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "egg",
+          "note": "Ask what is in the green goddess."
+        },
+        {
+          "name": "Sautéed Greens, Alliums",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "French Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "A Very Nice Green Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "soprana",
+      "picks": [
+        {
+          "name": "Marinated Olives",
+          "description": "Citrus, Herbs, Aleppo, Calabrian Chili",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "description": "Italian Salsa Verde, Verjus Golden Raisins, Remoulade, Calabrian Chili Oil, Herbs",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "remoulade",
+          "note": "Remoulade is usually egg."
+        },
+        {
+          "name": "Simple Green Salad",
+          "description": "Local Baby Lettuce Blend, White Balsamic Vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "all-day-darling",
+      "picks": [
+        {
+          "name": "Smashed Avocado Toast",
+          "description": "Black pepper ricotta, dressed greens on whole grain sourdough",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta"
+        },
+        {
+          "name": "Warm Kale",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Patatas Bravas",
+          "description": "Crispy potatoes with zesty aioli and green onion",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "aioli",
+          "note": "Aioli is egg."
+        },
+        {
+          "name": "Tatertods",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Dressed Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "good-hot-fish",
+      "picks": [
+        {
+          "name": "Bloomin onion",
+          "description": "Classic fried onion served with our house sauces",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "sauces",
+          "note": "Ask what is in them."
+        },
+        {
+          "name": "Hot Slaw",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Grits",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "butter and cheese"
+        },
+        {
+          "name": "Seasoned Twister Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Potato Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "leos-house-of-thirst",
+      "picks": [
+        {
+          "name": "Olives",
+          "description": "Citrus, thyme, fennel pollen",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Charred Rapini",
+          "description": "Romesco, ramps, pesto vinaigrette, almond crumb, parmesan",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "romesco, almond, and parmesan",
+          "note": "Romesco is nuts."
+        }
+      ]
+    },
+    {
+      "slug": "plant",
+      "picks": [
+        {
+          "name": "Lion Steak Tostadas",
+          "description": "chimichurri, queso fresco, sour cream, jalapeno-onion relish",
+          "course": "main",
+          "kind": "main",
+          "hold": "queso fresco and sour cream",
+          "note": "Plant cheese is usually nuts."
+        },
+        {
+          "name": "Cauliflower",
+          "description": "tahini, chili cra’q, grilled lemon, salt & pepper breadcrumbs, parsley",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "tahini",
+          "note": "Tahini is sesame."
+        },
+        {
+          "name": "Grilled Beets",
+          "description": "balsamic & herbs, horseradish mayo, onion tumbleweed",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "horseradish mayo",
+          "note": "Mayo is egg."
+        },
+        {
+          "name": "Actually Crispy Potatoes",
+          "description": "italian salsa verde, shallot butter",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "shallot butter"
+        },
+        {
+          "name": "Gem & Carrot Salad",
+          "description": "baby gem lettuce, roasted carrot, cocorino cheese, creamy lemon dressing, hazelnut",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "cocorino and hazelnut",
+          "note": "Cocorino is nut cheese."
+        }
+      ]
+    },
+    {
+      "slug": "chai-pani",
+      "picks": [
+        {
+          "name": "Matchstick Okra Fries",
+          "description": "Julienned “okra fries” tossed with salt & seasoning, served with a lime wedge.",
+          "course": "starter",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "rhubarb",
+      "picks": [
+        {
+          "name": "Grilled Jimmy Nardello Peppers",
+          "description": "Ricotta, BBQ Rub, Grilled Focaccia, Marcona Almonds",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "ricotta and almonds"
+        },
+        {
+          "name": "Corn & Shishito Gazpacho",
+          "description": "Peppers, Corn, Sumac Tajin",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fried Eggplant",
+          "description": "Rosemary honey, Pickled Peppers, Crushed Red Pepper",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Blistered Shishito Peppers",
+          "description": "Cantaloupe, XO Sauce, Shiso, Peanuts",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "XO sauce and peanuts",
+          "note": "XO is usually seafood."
+        },
+        {
+          "name": "Butter Braised Cabbage",
+          "description": "Miso-Beurre Blanc, Pickled Walnuts, Crispy Cabbage, Furikake, Bonito Flake",
+          "course": "main",
+          "kind": "main",
+          "hold": "walnuts and bonito",
+          "note": "Bonito is fish."
+        },
+        {
+          "name": "Summer Salad of Local Lettuces",
+          "description": "Wild East Radishes, Herbs, Pickled Turnips, Poppy Seed Granola, Dill Goat Cheese, NC Peaches, Cucumbers Buttermilk Dressing",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "goat cheese and granola"
+        }
+      ]
+    },
+    {
+      "slug": "jargon",
+      "picks": [
+        {
+          "name": "Glazed Lion's Mane",
+          "description": "grilled Japanese eggplant, coconut rice noodles, do chua, basil, Aleppo oil",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Grilled Local Peppers",
+          "description": "tamarind glaze, burnt sorghum, cilantro, sesame seeds",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "sesame"
+        },
+        {
+          "name": "Grilled Carrots",
+          "description": "whipped labneh, ras el hanout, pistachio dukkah",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "labneh and pistachio"
+        },
+        {
+          "name": "Charred Pole Beans",
+          "description": "black garlic bagna cauda, whipped feta, peppadew relish, lemon",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "feta",
+          "note": "Bagna cauda is usually anchovy."
+        },
+        {
+          "name": "Smashed Fingerlings",
+          "description": "aioli, Spanish chorizo vinaigrette, cilantro",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "aioli and chorizo vinaigrette",
+          "note": "Aioli is egg."
+        }
+      ]
+    },
+    {
+      "slug": "posana",
+      "picks": [
+        {
+          "name": "Forest-Cultivated Mushrooms",
+          "description": "oyster, shiitake, beech, miso emulsion, greens, crispy chickpeas",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "crispy chickpeas"
+        },
+        {
+          "name": "Roasted Beets",
+          "description": "brown butter labneh, pistachio vinaigrette, mint, smoked salt",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "labneh and pistachio"
+        },
+        {
+          "name": "Fried Green Tomatoes",
+          "description": "cornmeal crust, herbed yogurt, green tomato relish",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "herbed yogurt"
+        },
+        {
+          "name": "Honey-Roasted Carrots",
+          "description": "local baby carrots, coconut carrot top basil pesto",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Grilled Zucchini",
+          "description": "lemon, flake salt",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Grilled Asparagus",
+          "description": "lemon, sea salt, extra virgin olive oil",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fingerling Pomme Frites",
+          "description": "truffle aioli, Parmesan",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "aioli and Parmesan",
+          "note": "Aioli is egg."
+        }
+      ]
+    },
+    {
+      "slug": "zambra-tapas-wine-bar",
+      "picks": [
+        {
+          "name": "Harissa Marinated Olives",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Harissa Roasted Baby Carrots",
+          "description": "Whipped Goat Cheese, Roasted Pistachio, Spiced Honey",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "goat cheese and pistachio"
+        },
+        {
+          "name": "Patatas Bravas",
+          "description": "Roasted Garlic Aioli, Salsa Brava, Chive",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "aioli",
+          "note": "Aioli is egg."
+        },
+        {
+          "name": "Fattoush",
+          "description": "Local Leaf Lettuce, Cucumber, Radish, Mint, Cherry Tomato, Avocado, Feta, Pita Crouton, Black Cardamom Vinaigrette, Sumac",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "feta"
+        }
+      ]
+    },
+    {
+      "slug": "asheville-proper",
+      "picks": [
+        {
+          "name": "Local Heirloom Tomatoes",
+          "description": "grilled cherry tomatoes, tomato jam, tomato crumble",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Charred Local Red Beets",
+          "description": "pickled blackberries, smoked goat cheese, malted mint vinaigrette",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "goat cheese"
+        },
+        {
+          "name": "Char-Grilled Local Zucchini",
+          "description": "yellow squash filling, croissant rouille, fried garlic bits",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "croissant rouille",
+          "note": "Rouille is usually egg."
+        },
+        {
+          "name": "Sautéed Local Mushroom",
+          "description": "peach BBQ, smoked cheeses, fried shallots",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "smoked cheeses"
+        },
+        {
+          "name": "Tallow Confit Potato Medley",
+          "description": "mimosa vinaigrette, scallion cheese, grilled maple almonds",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "cheese and almonds"
+        },
+        {
+          "name": "Mixed Leafy Greens",
+          "description": "olive caper dressing, heirloom tomato chips, smoked feta, pickled red onions, herb hazelnuts",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "feta and hazelnuts"
+        }
+      ]
+    },
+    {
+      "slug": "post-70-indulgence-bar",
+      "picks": [
+        {
+          "name": "Warm Olives and Almonds",
+          "description": "Spanish and Kalamata, Garlic, Onion, Lemon, Honey, Oregano, Baguette",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "almonds"
+        },
+        {
+          "name": "Roasted Broccoli",
+          "description": "Mornay Sauce",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "Mornay",
+          "note": "Mornay is cheese."
+        },
+        {
+          "name": "Pomme Frites",
+          "description": "Duck Fat, Thyme",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Smashed Fingerlings",
+          "description": "Truffle Oil, Parmesan",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "Parmesan"
+        },
+        {
+          "name": "Spinach Salad",
+          "description": "Apple, Red Onion, Parmesan, Lemon, EVOO, Balsamic",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "Parmesan"
+        }
+      ]
+    },
+    {
+      "slug": "sovereign-remedies",
+      "picks": [
+        {
+          "name": "Potato Chips",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "red-ginger",
+      "picks": [
+        {
+          "name": "Yau Choy",
+          "description": "Season Chinese green vegetable stir fried with garlic and ginger",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Stir Fried String Bean",
+          "description": "dry sautéed string bean with minced pickle in garlic soy sauce",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Crispy Eggplant HK Style",
+          "description": "Tempura fried eggplant with mild spicy seasoning",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "House Veggie Spring Rolls",
+          "description": "shredded cabbage, bok choy, carrots with chef’s seasoning",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Seaweed Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "bargello",
+      "picks": [
+        {
+          "name": "Garden Fritters",
+          "description": "Crispy Zucchini & Potato Cakes, Pickled Vegetables, Feta, Arugula, Spicy Yogurt, Herbs",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "feta and yogurt"
+        },
+        {
+          "name": "Orecchiette",
+          "description": "Made Simple with Shaved Romano & Fresh Basil. Your choice of pesto, Parmesan cream, marinara, vodka sauce, olive oil or butter",
+          "course": "main",
+          "kind": "main",
+          "hold": "Romano",
+          "note": "Ask for olive oil or marinara."
+        },
+        {
+          "name": "Grilled Broccolini",
+          "description": "Preserved Lemon Vinaigrette",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Summer Squash",
+          "description": "Sauteed with White Wine & Butter",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "butter"
+        },
+        {
+          "name": "Cacio Truffle Fries",
+          "description": "Parmesan & Romano, Truffle Oil, Rosemary, Aleppo",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "Parmesan and Romano"
+        },
+        {
+          "name": "Athena’s Salad",
+          "description": "Spinach, Tomato, Citrus Olives, Cucumber, Red Onion, Feta, Greek Dressing",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "feta"
+        }
+      ]
+    },
+    {
+      "slug": "early-girl-eatery",
+      "picks": [
+        {
+          "name": "Balsamic Roasted Vegetables",
+          "description": "Roasted Brussels sprouts and glazed sweet potatoes tossed in tangy balsamic vinaigrette. Topped with toasted pepitas.",
+          "course": "main",
+          "kind": "main",
+          "hold": "pepitas"
+        },
+        {
+          "name": "Spicy Sesame Brussels",
+          "description": "Pan-Seared Brussels sprouts tossed in savory sesame sauce, finished with a Korean BBQ drizzle, toasted sesame seeds, and green onions.",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "sesame"
+        },
+        {
+          "name": "Cinnamon Apples",
+          "description": "Warm, tender apples simmered with sweet cinnamon spice.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "description": "A refreshing mix of seasonal melon, berries, and bananas.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Seasoned Home Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Small Salad",
+          "description": "Organic spring mix, bell peppers, and diced tomatoes",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "corner-kitchen",
+      "picks": [
+        {
+          "name": "Kung Pao Cauliflower",
+          "description": "Bell Peppers, Onions, Tamari Ginger Glaze, Ramp Dusted Peanuts, Scallions, Sesame Seeds",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "peanuts and sesame"
+        },
+        {
+          "name": "Tomato Gazpacho",
+          "description": "Cilantro Crème",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cilantro crème"
+        },
+        {
+          "name": "Heirloom Panzanella",
+          "description": "Baguette, Tomatoes, Grilled Peaches, Dare Vegan Cashew Cheese, Basil, Lemon, EVOO",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "cashew cheese",
+          "note": "Cashew cheese is nuts."
+        },
+        {
+          "name": "S.C. Strawberry & Feta Salad",
+          "description": "Fancy Greens, Bulgarian Feta, Hot Honey Pistachios, Pickled Red Onion, Balsamic Reduction, Lavender Honey Vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "feta and pistachios"
+        }
+      ]
+    },
+    {
+      "slug": "limones",
+      "picks": [
+        {
+          "name": "Roasted Beets",
+          "description": "butternut squash-miso mash, pepita muhammara, braised savoy cabbage, corn relish, cashew-cilantro crema",
+          "course": "main",
+          "kind": "main",
+          "hold": "pepita muhammara and cashew crema",
+          "note": "Muhammara is usually nuts."
+        },
+        {
+          "name": "SC Peaches",
+          "description": "hot honey, pistachio crumble, whipped requeson",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "pistachio and requeson",
+          "note": "Requeson is cheese."
+        },
+        {
+          "name": "Market Salad",
+          "description": "watermelon, feta cheese, lemon-basil dressing, marcona almonds",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "feta and almonds"
+        }
+      ]
+    },
+    {
+      "slug": "nine-mile",
+      "picks": [
+        {
+          "name": "Natural Mystic",
+          "description": "Linguine topped with house marinara sauce. (add vegetables)",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "More Fyah!",
+          "description": "Grilled jerk chicken or jerk tofu with bell peppers, fire roasted tomatoes, squash, & zucchini. Sautéed with white wine & butter. Tossed with linguine.",
+          "course": "main",
+          "kind": "main",
+          "hold": "chicken or tofu and butter"
+        },
+        {
+          "name": "Lion A Roar",
+          "description": "Tomato mango chipotle salsa or spicy garden blend salsa with chips",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "wasabi",
+      "picks": [
+        {
+          "name": "Vegetable Tempura",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Asian Curry, Vegetable",
+          "description": "coconut milk based curry served with snow peas, sweet potatoes, onions, and shitake mushrooms",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    }
+  ],
+  "status": "FLAGGED - see web/SCORING-FLAG.md",
+  "flag": "This file feeds a 0-6 composite in web/lib/pku.ts that sorts the homepage. A composite ranking restaurants is the suitability scale Nina deferred on 2026-08-23 ('do not do that yet. we need the data. I will help you come up with a strategy for assessing suitability'). The picks themselves are useful -- they are questions for the kitchen. The composite and the sort are the problem. Also: substitutes and mnt_food_check are unset for all 15 restaurants, so the sort treats 'nobody has asked yet' as a zero, which is the specific error the accommodation axis exists to prevent. Awaiting Nina's decision; not deleted."
+}

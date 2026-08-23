@@ -1,0 +1,104 @@
+[
+  {
+    "name": "TEMPEH TIBS",
+    "description": "Smiling hora tempeh marinated in Addissae special sauce, then sauteed with onion, garlic, ginger, and green pepper. Choose your side (misir, shiro, ater-kik, gomen, tikel-gomen, defin-misir or salad)",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 16.5
+  },
+  {
+    "name": "MISIR WA’T (Red Lentils)",
+    "description": "Red lentils simmered in onion, garlic, ginger and rich berbere sauce.",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 12.99
+  },
+  {
+    "name": "ATER KIK W’AT (Yellow Split Pea Stew)",
+    "description": "Yellow split peas simmered in a mild sauce of onions, garlic, ginger, and turmeric.",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 12.99
+  },
+  {
+    "name": "SHIRO W’AT (Chickpea Stew)",
+    "description": "Imported Chickpea flour simmered in our unique, mildly seasoned berbere sauce. Served with injera",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 13.99
+  },
+  {
+    "name": "DIFIN MISIR (Brown Lentils Stew)",
+    "description": "Brown lentils mildly simmered in onion, garlic, ginger, and turmeric.",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 12.99
+  },
+  {
+    "name": "GOMEN (Collard Green)",
+    "description": "Fresh chopped collard green cooked in onions, garlic, and ginger.",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 12.99
+  },
+  {
+    "name": "TIKEL GOMEN (Cabbage)",
+    "description": "Fresh cabbage, carrots and potato cooked together with onion, turmeric, ginger, and garlic.",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 12.99
+  },
+  {
+    "name": "KEY SIR (Beets)",
+    "description": "Fresh beets and carrot cooked together with onion, garlic and ginger.",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 12.99
+  },
+  {
+    "name": "ADDISSAE VEGITERIAN PLATTER",
+    "description": "Combination of 7 vegan dishes (Misir, Ater-Kik, Shiro, Difin-Misir, Gomen, Tikel-Gomen and Salad)",
+    "menu_section": "Vegan Entrees",
+    "price_usd": 17.99
+  },
+  {
+    "name": "BEEF TIBS",
+    "description": "Cubes of lean meat sautéed with blended spices, onion, garlic, ginger and green pepper. Cooked to order. Served with injera (3 rolls)",
+    "menu_section": "Meat Entrees",
+    "price_usd": 19.99
+  },
+  {
+    "name": "LAMB TIBS",
+    "description": "Cubes of lean meat sautéed with blended spices, onion, garlic, ginger and green pepper. Cooked to order. Served with injera (3 rolls)",
+    "menu_section": "Meat Entrees",
+    "price_usd": 24.5
+  },
+  {
+    "name": "BEEF KEY W’AT (Spicy Beef Stew)",
+    "description": "Lean cubed beef simmered in onion, garlic, ginger and spicy berbere sauce.",
+    "menu_section": "Meat Entrees",
+    "price_usd": 16.99
+  },
+  {
+    "name": "BEEF ALTCHA W’AT (non-spicy beef stew)",
+    "description": "Lean cubed beef simmered in onion, garlic, ginger and turmeric.",
+    "menu_section": "Meat Entrees",
+    "price_usd": 15.99
+  },
+  {
+    "name": "KITFO",
+    "description": "Freshly minced extra lean beef seasoned with Ethiopian spiced butter, Cardamom and Mitmita (red chili powder). Cooked to order. Served with Gomen, Ayib (homemade cottage cheese). (Please check the availability) (Mild, Medium or Spicy)",
+    "menu_section": "Meat Entrees",
+    "price_usd": 17.5
+  },
+  {
+    "name": "DORO KEY W’AT (CHICKEN)",
+    "description": "Succulent chicken drumsticks cooked with onion, garlic, ginger and spicy berbere sauce. Served with hard-boiled egg and Ethiopian cottage cheese.",
+    "menu_section": "Meat Entrees",
+    "price_usd": 16.5
+  },
+  {
+    "name": "GOMEN BESEGA (Collared green with beef)",
+    "description": "Chopped Collard greens sautéed with lean cubed beef, onions, garlic and ginger.",
+    "menu_section": "Meat Entrees",
+    "price_usd": 15.99
+  },
+  {
+    "name": "ADDISSAE MEAT PLATTER",
+    "description": "Combination of Beef kay w’at , Beef Altcha w’at (non-spicy) and Doro kay w’at (chicken). Served with salad.",
+    "menu_section": "Meat Entrees",
+    "price_usd": 18.99
+  }
+]

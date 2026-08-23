@@ -1,0 +1,246 @@
+{
+ "snapshot_id": "ukiah:dinner:2026-08-23",
+ "restaurant_id": "asheville-nc-us/ukiah",
+ "source_url": "https://www.ukiahrestaurant.com/menu/dinner/",
+ "fetched_utc": "2026-08-23T20:01:16+00:00",
+ "content_sha256": "471261015485834ef2531d39398330a6325ae636a8916ce11f78feac23c03ac1",
+ "extraction_method": "structured_platform",
+ "menu_label": "dinner",
+ "capturer": "cursor-grok-4.6",
+ "dishes": [
+  {
+   "name": "Tasting Menu- $85PP",
+   "description": "Take the stress out of ordering- our Chef's have put together a menu between 8-10 Ukiah dishes. Perfectly portioned for your table to enjoy. Please note the full table must participate; the price is per person.",
+   "menu_section": "Tasting Menu",
+   "price_usd": 85
+  },
+  {
+   "name": "Miso Soup",
+   "description": "",
+   "menu_section": "Snacks",
+   "price_usd": 6
+  },
+  {
+   "name": "Edamame",
+   "description": "Sea salt",
+   "menu_section": "Snacks",
+   "price_usd": 7
+  },
+  {
+   "name": "Grilled Shishito Peppers",
+   "description": "Carrot ginger ponzu",
+   "menu_section": "Snacks",
+   "price_usd": 10
+  },
+  {
+   "name": "Beech Mushroom Tempura",
+   "description": "tokyo ranch + onion ash",
+   "menu_section": "Crunchy + Munchy",
+   "price_usd": 18
+  },
+  {
+   "name": "Crispy Shrimp",
+   "description": "Chili butter + gorgonzola",
+   "menu_section": "Crunchy + Munchy",
+   "price_usd": 17
+  },
+  {
+   "name": "Karaage Chicken",
+   "description": "Kewpie mayo + Kyoto-Carolina BBQ",
+   "menu_section": "Crunchy + Munchy",
+   "price_usd": 18
+  },
+  {
+   "name": "Crispy Rice, Salmon*",
+   "description": "+ Citrus",
+   "menu_section": "Crunchy + Munchy",
+   "price_usd": 14
+  },
+  {
+   "name": "Crispy Rice, Spicy Tuna*",
+   "description": "",
+   "menu_section": "Crunchy + Munchy",
+   "price_usd": 14
+  },
+  {
+   "name": "Crispy Rice, Hamachi*",
+   "description": "wasabi",
+   "menu_section": "Crunchy + Munchy",
+   "price_usd": 14
+  },
+  {
+   "name": "Local Burrata",
+   "description": "Yuzu honey marmalade + grilled toast",
+   "menu_section": "Fresh + Light",
+   "price_usd": 14
+  },
+  {
+   "name": "Heirloom Tomato Salad",
+   "description": "charred tofu, green chilies + shiso",
+   "menu_section": "Fresh + Light",
+   "price_usd": 14
+  },
+  {
+   "name": "Avocado Salad",
+   "description": "house feta, baby herbs, crispy leeks +lemon ginger dressing",
+   "menu_section": "Fresh + Light",
+   "price_usd": 18
+  },
+  {
+   "name": "Tuna Tataki*",
+   "description": "Fire-roasted peppers + ponzu",
+   "menu_section": "Raw",
+   "price_usd": 20
+  },
+  {
+   "name": "Salmon Sashimi*",
+   "description": "Wasabi soy broth + scallions",
+   "menu_section": "Raw",
+   "price_usd": 18
+  },
+  {
+   "name": "Sliced Hamachi",
+   "description": "white ponzu, serrano peppers+ herbs",
+   "menu_section": "Raw",
+   "price_usd": 18
+  },
+  {
+   "name": "Oysters (6)",
+   "description": "sparkling shallot-caper vinaigrette",
+   "menu_section": "Raw",
+   "price_usd": 24
+  },
+  {
+   "name": "Pork + Shiitake Mushroom Gyoza",
+   "description": "black pepper ponzu",
+   "menu_section": "Dumplings + Buns",
+   "price_usd": 13
+  },
+  {
+   "name": "Vegetable Gyoza",
+   "description": "edamame + shitake, vegan herb ponzu",
+   "menu_section": "Dumplings + Buns",
+   "price_usd": 12
+  },
+  {
+   "name": "Crispy Pork Bao",
+   "description": "Smoked chipotle aioli*",
+   "menu_section": "Dumplings + Buns",
+   "price_usd": 15
+  },
+  {
+   "name": "Crispy Mushroom Bao",
+   "description": "Black garlic aioli + yuzu pickle",
+   "menu_section": "Dumplings + Buns",
+   "price_usd": 14
+  },
+  {
+   "name": "Smoked Half Chicken*",
+   "description": "Your choice of protein served with toasted rye, fire roasted kimchi + yuzu pickles",
+   "menu_section": "From The Smoker",
+   "price_usd": 30
+  },
+  {
+   "name": "Smoked Carolina Pork Shoulder",
+   "description": "Your choice of protein served with toasted rye, fire roasted kimchi + yuzu pickles",
+   "menu_section": "From The Smoker",
+   "price_usd": 38
+  },
+  {
+   "name": "Smoked Pastrami-Brined Brisket",
+   "description": "Your choice of protein served with toasted rye, fire roasted kimchi + yuzu pickles",
+   "menu_section": "From The Smoker",
+   "price_usd": 55
+  },
+  {
+   "name": "Smoked Bone-In Short Rib",
+   "description": "Your choice of protein served with toasted rye, fire roasted kimchi + yuzu pickles",
+   "menu_section": "From The Smoker",
+   "price_usd": 65
+  },
+  {
+   "name": "Spicy Veggie Ramen",
+   "description": "Tan Tan broth, bok choy, shiitake mushroom + soft boiled egg*",
+   "menu_section": "Big + Bowlsy",
+   "price_usd": 18
+  },
+  {
+   "name": "Pork Belly Tonkotsu",
+   "description": "black garlic oil, shitake mushroom + soft boiled egg*",
+   "menu_section": "Big + Bowlsy",
+   "price_usd": 21
+  },
+  {
+   "name": "Wagyu*",
+   "description": "Shiso chimichurri, yuzu kosho, wasabi + sea salt",
+   "menu_section": "Sticks + Stuff",
+   "price_usd": 24
+  },
+  {
+   "name": "Pork Belly",
+   "description": "Fuji apple glaze, apple chow-chow + scallions",
+   "menu_section": "Sticks + Stuff",
+   "price_usd": 16
+  },
+  {
+   "name": "Unagi",
+   "description": "Smoked tare, wakame + toasted sesame seeds",
+   "menu_section": "Sticks + Stuff",
+   "price_usd": 16
+  },
+  {
+   "name": "Crispy Baby Back Ribs",
+   "description": "Yakiniku",
+   "menu_section": "Sticks + Stuff",
+   "price_usd": 28
+  },
+  {
+   "name": "Grilled Sea Bass",
+   "description": "brown butter ponzu, grilled lemon + sea salt",
+   "menu_section": "Sticks + Stuff",
+   "price_usd": 24
+  },
+  {
+   "name": "Hokkaido Scallops*",
+   "description": "ube plum vinegar + chili",
+   "menu_section": "Sticks + Stuff",
+   "price_usd": 23
+  },
+  {
+   "name": "Roasted Cauliflower",
+   "description": "Shishito vinaigrette, buttermilk goat cheese, shiso + myoga",
+   "menu_section": "Sticks + Stuff",
+   "price_usd": 18
+  },
+  {
+   "name": "Japanese Sweet Potato",
+   "description": "Miso butter, brown sugar, parmesan + umami salt",
+   "menu_section": "Veggies",
+   "price_usd": 12
+  },
+  {
+   "name": "Baby Bok Choy",
+   "description": "Sesame ginger dressing + charred lemon",
+   "menu_section": "Veggies",
+   "price_usd": 10
+  },
+  {
+   "name": "Grilled Maitake Mushrooms",
+   "description": "peas, mint, wasabi, brown butter + ponzu",
+   "menu_section": "Veggies",
+   "price_usd": 16
+  },
+  {
+   "name": "Tokyo Street Corn",
+   "description": "kewpie mayo, togarashi, itto nori, miso butter + bonito",
+   "menu_section": "Veggies",
+   "price_usd": 12
+  },
+  {
+   "name": "Smoked Baby Zucchini",
+   "description": "Japanese mustard vinaigrette",
+   "menu_section": "Veggies",
+   "price_usd": 12
+  }
+ ]
+}

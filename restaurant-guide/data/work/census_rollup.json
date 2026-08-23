@@ -1,0 +1,378 @@
+{
+ "census_version": "menu-census-v0.1",
+ "lexicon_version": "v0.3",
+ "lexicon_terms": 963,
+ "generated_utc": "2026-08-23",
+ "dishes": 299,
+ "restaurants": 10,
+ "starch_families": {
+  "wheat_grain": 69,
+  "potato": 31,
+  "corn": 14,
+  "rice": 12,
+  "other_starch": 2,
+  "pseudo_grain": 1
+ },
+ "totals": {
+  "n_dishes": 299,
+  "n_no_meat_named": 164,
+  "n_no_meat_no_legume_named": 141,
+  "n_names_potato_or_starch": 111,
+  "n_names_vegetable": 186,
+  "n_names_no_protein_source_at_all": 62
+ },
+ "restaurants_detail": [
+  {
+   "slug": "addissae",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 17,
+    "n_no_meat_named": 8,
+    "n_no_meat_no_legume_named": 3,
+    "n_names_potato_or_starch": 4,
+    "n_names_vegetable": 16,
+    "n_names_no_protein_source_at_all": 3,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 3,
+    "starch_dish_counts": {
+     "wheat_grain": 3,
+     "pseudo_grain": 0,
+     "potato": 1,
+     "rice": 0,
+     "corn": 0,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 9,
+     "cured_meat": 0,
+     "dairy": 2,
+     "egg": 1,
+     "legume": 6,
+     "nut_seed": 0
+    },
+    "n_dishes_with_ambiguous_terms": 3,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "all-day-darling",
+   "menu_label": "lunch",
+   "counts": {
+    "n_dishes": 33,
+    "n_no_meat_named": 21,
+    "n_no_meat_no_legume_named": 15,
+    "n_names_potato_or_starch": 19,
+    "n_names_vegetable": 26,
+    "n_names_no_protein_source_at_all": 5,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 5,
+    "starch_dish_counts": {
+     "wheat_grain": 11,
+     "pseudo_grain": 0,
+     "potato": 7,
+     "rice": 5,
+     "corn": 0,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 12,
+     "cured_meat": 0,
+     "dairy": 13,
+     "egg": 14,
+     "legume": 7,
+     "nut_seed": 3
+    },
+    "n_dishes_with_ambiguous_terms": 1,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "curate",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 45,
+    "n_no_meat_named": 24,
+    "n_no_meat_no_legume_named": 24,
+    "n_names_potato_or_starch": 18,
+    "n_names_vegetable": 21,
+    "n_names_no_protein_source_at_all": 11,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 11,
+    "starch_dish_counts": {
+     "wheat_grain": 13,
+     "pseudo_grain": 0,
+     "potato": 6,
+     "rice": 1,
+     "corn": 1,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 20,
+     "cured_meat": 3,
+     "dairy": 12,
+     "egg": 2,
+     "legume": 1,
+     "nut_seed": 5
+    },
+    "n_dishes_with_ambiguous_terms": 3,
+    "n_dishes_no_terms_matched": 1,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 1
+  },
+  {
+   "slug": "good-hot-fish",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 19,
+    "n_no_meat_named": 10,
+    "n_no_meat_no_legume_named": 9,
+    "n_names_potato_or_starch": 8,
+    "n_names_vegetable": 9,
+    "n_names_no_protein_source_at_all": 8,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 8,
+    "starch_dish_counts": {
+     "wheat_grain": 4,
+     "pseudo_grain": 0,
+     "potato": 2,
+     "rice": 0,
+     "corn": 3,
+     "other_starch": 1
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 8,
+     "cured_meat": 1,
+     "dairy": 4,
+     "egg": 0,
+     "legume": 2,
+     "nut_seed": 0
+    },
+    "n_dishes_with_ambiguous_terms": 1,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "leos-house-of-thirst",
+   "menu_label": "sample_undated",
+   "counts": {
+    "n_dishes": 22,
+    "n_no_meat_named": 6,
+    "n_no_meat_no_legume_named": 5,
+    "n_names_potato_or_starch": 12,
+    "n_names_vegetable": 17,
+    "n_names_no_protein_source_at_all": 1,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 1,
+    "starch_dish_counts": {
+     "wheat_grain": 9,
+     "pseudo_grain": 0,
+     "potato": 2,
+     "rice": 2,
+     "corn": 0,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 14,
+     "cured_meat": 2,
+     "dairy": 9,
+     "egg": 3,
+     "legume": 2,
+     "nut_seed": 2
+    },
+    "n_dishes_with_ambiguous_terms": 2,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "luminosa",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 46,
+    "n_no_meat_named": 35,
+    "n_no_meat_no_legume_named": 34,
+    "n_names_potato_or_starch": 18,
+    "n_names_vegetable": 23,
+    "n_names_no_protein_source_at_all": 15,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 15,
+    "starch_dish_counts": {
+     "wheat_grain": 10,
+     "pseudo_grain": 1,
+     "potato": 7,
+     "rice": 0,
+     "corn": 7,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 11,
+     "cured_meat": 1,
+     "dairy": 21,
+     "egg": 1,
+     "legume": 1,
+     "nut_seed": 5
+    },
+    "n_dishes_with_ambiguous_terms": 3,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "soprana",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 29,
+    "n_no_meat_named": 18,
+    "n_no_meat_no_legume_named": 17,
+    "n_names_potato_or_starch": 6,
+    "n_names_vegetable": 24,
+    "n_names_no_protein_source_at_all": 3,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 3,
+    "starch_dish_counts": {
+     "wheat_grain": 6,
+     "pseudo_grain": 0,
+     "potato": 1,
+     "rice": 0,
+     "corn": 0,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 7,
+     "cured_meat": 6,
+     "dairy": 22,
+     "egg": 0,
+     "legume": 1,
+     "nut_seed": 1
+    },
+    "n_dishes_with_ambiguous_terms": 1,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "table",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 28,
+    "n_no_meat_named": 11,
+    "n_no_meat_no_legume_named": 10,
+    "n_names_potato_or_starch": 10,
+    "n_names_vegetable": 18,
+    "n_names_no_protein_source_at_all": 5,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 5,
+    "starch_dish_counts": {
+     "wheat_grain": 5,
+     "pseudo_grain": 0,
+     "potato": 3,
+     "rice": 1,
+     "corn": 1,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 16,
+     "cured_meat": 1,
+     "dairy": 4,
+     "egg": 2,
+     "legume": 3,
+     "nut_seed": 5
+    },
+    "n_dishes_with_ambiguous_terms": 0,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "tall-johns",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 21,
+    "n_no_meat_named": 10,
+    "n_no_meat_no_legume_named": 10,
+    "n_names_potato_or_starch": 6,
+    "n_names_vegetable": 12,
+    "n_names_no_protein_source_at_all": 5,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 5,
+    "starch_dish_counts": {
+     "wheat_grain": 3,
+     "pseudo_grain": 0,
+     "potato": 2,
+     "rice": 0,
+     "corn": 1,
+     "other_starch": 0
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 11,
+     "cured_meat": 0,
+     "dairy": 3,
+     "egg": 1,
+     "legume": 1,
+     "nut_seed": 4
+    },
+    "n_dishes_with_ambiguous_terms": 1,
+    "n_dishes_no_terms_matched": 0,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 0
+  },
+  {
+   "slug": "ukiah",
+   "menu_label": "dinner",
+   "counts": {
+    "n_dishes": 39,
+    "n_no_meat_named": 21,
+    "n_no_meat_no_legume_named": 14,
+    "n_names_potato_or_starch": 10,
+    "n_names_vegetable": 20,
+    "n_names_no_protein_source_at_all": 6,
+    "n_no_meat_no_legume_no_dairy_no_egg_no_nut": 6,
+    "starch_dish_counts": {
+     "wheat_grain": 5,
+     "pseudo_grain": 0,
+     "potato": 0,
+     "rice": 3,
+     "corn": 1,
+     "other_starch": 1
+    },
+    "protein_source_dish_counts": {
+     "animal_muscle": 17,
+     "cured_meat": 1,
+     "dairy": 8,
+     "egg": 4,
+     "legume": 8,
+     "nut_seed": 2
+    },
+    "n_dishes_with_ambiguous_terms": 0,
+    "n_dishes_no_terms_matched": 1,
+    "completeness": "text_only_unknown",
+    "absence_is_not_evidence": true,
+    "census_version": "menu-census-v0.1"
+   },
+   "unmatched": 1
+  }
+ ],
+ "supersedes": "An earlier rollup was computed under lexicon v0.2 and published in a figure captioned v0.3. The v0.3 patch added tater tot, hushpuppy and devils-on-horseback terms, which reclassified three dishes. Corrected totals above. The direction of every finding is unchanged; the numbers were wrong by 1-2%.",
+ "inference_rule": "A term match means the ingredient is NAMED. A non-match means NOTHING."
+}

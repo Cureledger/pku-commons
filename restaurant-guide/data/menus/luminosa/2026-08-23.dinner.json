@@ -1,0 +1,288 @@
+{
+ "snapshot_id": "luminosa:dinner:2026-08-23",
+ "restaurant_id": "asheville-nc-us/luminosa",
+ "source_url": "https://www.luminosaavl.com/menus/",
+ "fetched_utc": "2026-08-23T20:01:19+00:00",
+ "content_sha256": "3d6cbcd3904a6c263e167d0b70a3554f73a536e9a837386e09453115466f22f7",
+ "extraction_method": "structured_platform",
+ "menu_label": "dinner",
+ "capturer": "cursor-grok-4.6",
+ "dishes": [
+  {
+   "name": "Bread service",
+   "description": "marigold butter",
+   "menu_section": "Antipasti",
+   "price_usd": 16
+  },
+  {
+   "name": "Marinated olives",
+   "description": "citrus, herbs",
+   "menu_section": "Antipasti",
+   "price_usd": 13
+  },
+  {
+   "name": "Tomato",
+   "description": "blackberry, grebenes, marigold",
+   "menu_section": "Antipasti",
+   "price_usd": 20
+  },
+  {
+   "name": "Weeds salad",
+   "description": "pickled red onion, ricotta salata, sunflower seeds, peach vinaigrette",
+   "menu_section": "Antipasti",
+   "price_usd": 19
+  },
+  {
+   "name": "Grilled little gem",
+   "description": "ramp green goddess, breadcrumb, scallion",
+   "menu_section": "Antipasti",
+   "price_usd": 19
+  },
+  {
+   "name": "Evan's cucumbers",
+   "description": "Hakurei turnip, ramp salt, lovage",
+   "menu_section": "Antipasti",
+   "price_usd": 18
+  },
+  {
+   "name": "Apple Brandy beef carpaccio",
+   "description": "smoked trout tonnato, tetragonia, okra*",
+   "menu_section": "Antipasti",
+   "price_usd": 22
+  },
+  {
+   "name": "Bone marrow tater tots",
+   "description": "horseradish aioli, celery, pickled red onion*",
+   "menu_section": "Antipasti",
+   "price_usd": 23
+  },
+  {
+   "name": "Panzanella",
+   "description": "peach, corn, mozzarella, sherry, herbs",
+   "menu_section": "Antipasti",
+   "price_usd": 22
+  },
+  {
+   "name": "Figs",
+   "description": "sheeps milk yogurt, mint, habanada, sunflower seeds",
+   "menu_section": "Antipasti",
+   "price_usd": 20
+  },
+  {
+   "name": "Lee's melon",
+   "description": "charred corn, basil, salt",
+   "menu_section": "Antipasti",
+   "price_usd": 20
+  },
+  {
+   "name": "Lemon",
+   "description": "smoked mozzarella, ricotta, fennel, purple basil",
+   "menu_section": "Pizza",
+   "price_usd": 20
+  },
+  {
+   "name": "Margherita",
+   "description": "San Marzano DOP tomato, mozzarella, basil, olive oil",
+   "menu_section": "Pizza",
+   "price_usd": 18
+  },
+  {
+   "name": "Peach",
+   "description": "calabrian sausage, ricotta, smoked beets, herbs",
+   "menu_section": "Pizza",
+   "price_usd": 26
+  },
+  {
+   "name": "Evan's tomatoes",
+   "description": "smoked mozzarella, basil",
+   "menu_section": "Pizza",
+   "price_usd": 25
+  },
+  {
+   "name": "Cordyceps",
+   "description": "corn, Boxcar robiola, cherry bomb",
+   "menu_section": "Pizza",
+   "price_usd": 28
+  },
+  {
+   "name": "Rigatoni",
+   "description": "Italian sausage, San Marzano DOP tomato, calabrian chili, basil",
+   "menu_section": "Primi",
+   "price_usd": 30
+  },
+  {
+   "name": "Anolini",
+   "description": "short rib, birds beak, manchego, chive",
+   "menu_section": "Primi",
+   "price_usd": 31
+  },
+  {
+   "name": "Gnocchi",
+   "description": "haricot vert, gorgonzola fonduta, shiso",
+   "menu_section": "Primi",
+   "price_usd": 26
+  },
+  {
+   "name": "Cannelloni",
+   "description": "smoked corn, potato, blackberry, Jimmy Nardello",
+   "menu_section": "Primi",
+   "price_usd": 32
+  },
+  {
+   "name": "Campanelle",
+   "description": "black trumpet, goldbar squash, brown butter, brebis",
+   "menu_section": "Primi",
+   "price_usd": 33
+  },
+  {
+   "name": "Mafaldine",
+   "description": "datterini tomato, ricotta salata, breadcrumb, black garlic",
+   "menu_section": "Primi",
+   "price_usd": 26
+  },
+  {
+   "name": "32 oz Bone-in Ribeye",
+   "description": "whipped herbed tallow*",
+   "menu_section": "Secondi",
+   "price_usd": 150
+  },
+  {
+   "name": "24 oz KC Strip",
+   "description": "bone marrow bordelaise",
+   "menu_section": "Secondi",
+   "price_usd": 115
+  },
+  {
+   "name": "8 oz Chef's Cut",
+   "description": "salsa verde*",
+   "menu_section": "Secondi",
+   "price_usd": 48
+  },
+  {
+   "name": "Sunburst trout",
+   "description": "dill, new potato, roe*",
+   "menu_section": "Secondi",
+   "price_usd": 49
+  },
+  {
+   "name": "Bone-in pork chop",
+   "description": "ramp jam, puffed pig skin*",
+   "menu_section": "Secondi",
+   "price_usd": 55
+  },
+  {
+   "name": "Coppa steak",
+   "description": "ramp jam, puffed pig skin*",
+   "menu_section": "Secondi",
+   "price_usd": 34
+  },
+  {
+   "name": "Roasted half chicken",
+   "description": "caramelized chicken skin jus, muscadine, tarragon",
+   "menu_section": "Secondi",
+   "price_usd": 42
+  },
+  {
+   "name": "Wood fired lion's mane",
+   "description": "brown butter, lemon, spearmint",
+   "menu_section": "Secondi",
+   "price_usd": 32
+  },
+  {
+   "name": "Flanken rib",
+   "description": "blueberry, rosemary",
+   "menu_section": "Secondi",
+   "price_usd": 36
+  },
+  {
+   "name": "New potato",
+   "description": "summer onion, okra crisp, chanterelle salt",
+   "menu_section": "Contorni",
+   "price_usd": 18
+  },
+  {
+   "name": "Romano beans",
+   "description": "smoked oxhart, haricot vert, parmesan",
+   "menu_section": "Contorni",
+   "price_usd": 17
+  },
+  {
+   "name": "Farm & Sparrow polenta",
+   "description": "taleggio, crispy garlic chips, herbs",
+   "menu_section": "Contorni",
+   "price_usd": 16
+  },
+  {
+   "name": "Evan's charred zucchini",
+   "description": "angelica, fennel, thai basil*",
+   "menu_section": "Contorni",
+   "price_usd": 18
+  },
+  {
+   "name": "Frying peppers",
+   "description": "cherry pepper & sorghum agrodolce, summer onion",
+   "menu_section": "Contorni",
+   "price_usd": 18
+  },
+  {
+   "name": "Grilled okra",
+   "description": "tomato jam, Jimmy Nardello",
+   "menu_section": "Contorni",
+   "price_usd": 17
+  },
+  {
+   "name": "Charred bok choy",
+   "description": "WNC green chili crunch, sesame",
+   "menu_section": "Contorni",
+   "price_usd": 17
+  },
+  {
+   "name": "Tiramisu",
+   "description": "lady fingers, espresso, mascarpone mousse, salted chocolate crumb, chocolate sauce",
+   "menu_section": "Desserts",
+   "price_usd": 15
+  },
+  {
+   "name": "Muscadine cornmeal upside-down cake",
+   "description": "buttermilk gelato, salted brown butter cookie crumble",
+   "menu_section": "Desserts",
+   "price_usd": 15
+  },
+  {
+   "name": "Chocolate fig cake",
+   "description": "smoked cream, toasted pistachio",
+   "menu_section": "Desserts",
+   "price_usd": 15
+  },
+  {
+   "name": "Budino",
+   "description": "salted caramel, blueberry, corn",
+   "menu_section": "Desserts",
+   "price_usd": 13
+  },
+  {
+   "name": "Grilled peach semifreddo",
+   "description": "caramel, rosemary, amaretti",
+   "menu_section": "Desserts",
+   "price_usd": 15
+  },
+  {
+   "name": "Seasonal Soft Serve",
+   "description": "chocolate with sunchoke chips, quince flower & honey",
+   "menu_section": "Congelato",
+   "price_usd": 9
+  },
+  {
+   "name": "Affogato",
+   "description": "vanilla or pistachio gelato, Pecan Jonny",
+   "menu_section": "Congelato",
+   "price_usd": 10
+  },
+  {
+   "name": "Gelato",
+   "description": "",
+   "menu_section": "Congelato",
+   "price_usd": 5
+  }
+ ]
+}
