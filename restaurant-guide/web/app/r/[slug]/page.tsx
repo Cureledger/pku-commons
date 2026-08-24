@@ -9,7 +9,8 @@ import {
 } from "@/components/restaurant-photos";
 import { RestaurantReviews } from "@/components/restaurant-reviews";
 import { ScoreLines } from "@/components/score-lines";
-import { AWARD_DISCLAIMER, loadRestaurants } from "@/lib/restaurants";
+import { cityById } from "@/lib/cities";
+import { AWARD_DISCLAIMER, loadRestaurants, restaurantMeta } from "@/lib/restaurants";
 import { loadReviews } from "@/lib/reviews";
 import type { PkuPick } from "@/lib/types";
 import {
@@ -33,6 +34,7 @@ export default async function RestaurantPage({
   if (!card) notFound();
 
   const { restaurant, entry, score } = card;
+  const city = cityById(restaurant.city_id);
   const reviews = loadReviews(restaurant.slug);
   const { highlighted, updates } = splitHighlightedPicks(entry?.picks ?? []);
   const groups = groupPicks(highlighted);
@@ -42,7 +44,7 @@ export default async function RestaurantPage({
     <main className="mx-auto max-w-3xl px-7 py-12">
       <PhotoProvider slug={restaurant.slug} seed={restaurant.photos ?? []}>
       <Link
-        href="/"
+        href={city.path}
         className="text-sm font-semibold text-purple no-underline hover:text-purple-deep"
       >
         All restaurants
@@ -58,10 +60,13 @@ export default async function RestaurantPage({
           <LiveScoreDots score={score} />
         </Suspense>
       </div>
+      {restaurantMeta(restaurant) ? (
+        <p className="mt-3 text-lg text-ink-soft">
+          {restaurantMeta(restaurant)}
+        </p>
+      ) : null}
       {restaurant.blurb ? (
         <p className="mt-3 text-lg text-ink-soft">{restaurant.blurb}</p>
-      ) : restaurant.cuisine ? (
-        <p className="mt-3 text-lg text-ink-soft">{restaurant.cuisine}</p>
       ) : null}
       {restaurant.address ? (
         <p className="mt-2 text-ink-soft">{restaurant.address}</p>

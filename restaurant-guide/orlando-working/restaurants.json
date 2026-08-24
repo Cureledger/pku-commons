@@ -1,0 +1,1807 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "orlando-fl-us",
+ "restaurant_count": 46,
+ "restaurants": [
+  {
+   "restaurant_id": "orlando-fl-us/sorekara",
+   "city_id": "orlando-fl-us",
+   "slug": "sorekara",
+   "name": "Sorekara",
+   "website": "https://sorekarafl.com",
+   "address": "4979 New Broad St., Orlando, FL, 32814, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/sorekara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/sorekara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/camille",
+   "city_id": "orlando-fl-us",
+   "slug": "camille",
+   "name": "Camille",
+   "website": "https://camilleorlando.com/",
+   "address": "4962 New Broad St., Orlando, FL, 32814, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/camille"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/camille",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/kadence",
+   "city_id": "orlando-fl-us",
+   "slug": "kadence",
+   "name": "Kadence",
+   "website": "https://kadenceorlando.com/",
+   "address": "1809 Winter Park Rd., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/kadence"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/kadence",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/soseki",
+   "city_id": "orlando-fl-us",
+   "slug": "soseki",
+   "name": "Soseki",
+   "website": "https://www.sosekifl.com/",
+   "address": "955 W. Fairbanks Ave., Winter Park, FL, 32789, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/florida/winter-park/restaurant/soseki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/winter-park/restaurant/soseki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/victoria-alberts",
+   "city_id": "orlando-fl-us",
+   "slug": "victoria-alberts",
+   "name": "Victoria & Albert's",
+   "website": "https://disneyworld.disney.go.com/dining/victoria-and-alberts-overview/",
+   "address": "Disney's Grand Floridian Resort & Spa, 4401 Floridian Way, Orlando, FL, 32830, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/victoria-albert-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/victoria-albert-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/omo-by-jont",
+   "city_id": "orlando-fl-us",
+   "slug": "omo-by-jont",
+   "name": "Ômo by Jônt",
+   "website": "https://www.omobyjont.com/",
+   "address": "115 E. Lyman Ave., Winter Park, FL, 32789, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/florida/winter-park/restaurant/omo-by-jont"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/winter-park/restaurant/omo-by-jont",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/coro",
+   "city_id": "orlando-fl-us",
+   "slug": "coro",
+   "name": "Coro",
+   "website": "https://www.cororestaurant.com/",
+   "address": "3022 Corrine Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/coro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/coro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/domu",
+   "city_id": "orlando-fl-us",
+   "slug": "domu",
+   "name": "Domu",
+   "website": "https://domufl.com/",
+   "address": "3201 Corrine Dr., #100, Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/domu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/domu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/isan-zaap",
+   "city_id": "orlando-fl-us",
+   "slug": "isan-zaap",
+   "name": "Isan Zaap",
+   "website": "https://isanzaaporlando.com/",
+   "address": "4693 Gardens Park Blvd., Ste 119, Orlando, FL, 32839, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/isan-zaap"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/isan-zaap",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/ottos-high-dive",
+   "city_id": "orlando-fl-us",
+   "slug": "ottos-high-dive",
+   "name": "Otto's High Dive",
+   "website": "https://www.ottoshd.com/",
+   "address": "2304 E. Robinson St., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/otto-s-high-dive"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/otto-s-high-dive",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cuban",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/smokemade-meats-eats",
+   "city_id": "orlando-fl-us",
+   "slug": "smokemade-meats-eats",
+   "name": "Smokemade Meats + Eats",
+   "website": "https://www.smokemade.com/",
+   "address": "1400 S. Crystal Lake Dr., Orlando, FL, 32806, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/smokemade-meats-eats"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/smokemade-meats-eats",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/strand",
+   "city_id": "orlando-fl-us",
+   "slug": "strand",
+   "name": "Strand",
+   "website": "https://www.strandorlando.com/",
+   "address": "807 N. Mills Ave., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/strand"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/strand",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/sushi-saint",
+   "city_id": "orlando-fl-us",
+   "slug": "sushi-saint",
+   "name": "Sushi Saint",
+   "website": "https://www.sushisaint.com/",
+   "address": "400 Pittman St., Ste. A, Orlando, FL, 32801, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/sushi-saint"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/sushi-saint",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/taste-of-chengdu",
+   "city_id": "orlando-fl-us",
+   "slug": "taste-of-chengdu",
+   "name": "Taste of Chengdu",
+   "website": "https://www.tasteofchengdu.com",
+   "address": "4856 New Broad St., Orlando, FL, 32814, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/taste-of-chengdu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/taste-of-chengdu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/the-ravenous-pig",
+   "city_id": "orlando-fl-us",
+   "slug": "the-ravenous-pig",
+   "name": "The Ravenous Pig",
+   "website": "https://www.theravenouspig.com/",
+   "address": "565 W. Fairbanks Ave., Winter Park, FL, 32789, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/winter-park/restaurant/the-ravenous-pig"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/winter-park/restaurant/the-ravenous-pig",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gastropub",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/unigirl",
+   "city_id": "orlando-fl-us",
+   "slug": "unigirl",
+   "name": "UniGirl",
+   "website": "https://www.unigirlfl.com/",
+   "address": "1110 E. Colonial Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/unigirl"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/unigirl",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/zaru",
+   "city_id": "orlando-fl-us",
+   "slug": "zaru",
+   "name": "Zaru",
+   "website": "https://www.zarufl.com",
+   "address": "1110 E. Colonial Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/zaru"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/zaru",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/bacan",
+   "city_id": "orlando-fl-us",
+   "slug": "bacan",
+   "name": "Bacán",
+   "website": "https://www.bacanlakenona.com/",
+   "address": "Lake Nona Wave Hotel, 6100 Wave Hotel Dr., Orlando, FL, 32827, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/bacan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/bacan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Latin American",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/chuan-fu",
+   "city_id": "orlando-fl-us",
+   "slug": "chuan-fu",
+   "name": "Chuan Fu",
+   "website": "https://www.chuanfuorlando.com/",
+   "address": "1035 N. Orlando Ave., Ste. 105, Winter Park, FL, 32789, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/winter-park/restaurant/chuan-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/winter-park/restaurant/chuan-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/citricos",
+   "city_id": "orlando-fl-us",
+   "slug": "citricos",
+   "name": "Cítricos",
+   "website": "https://disneyworld.disney.go.com/dining/grand-floridian-resort-and-spa/citricos/",
+   "address": "Disney's Grand Floridian Resort & Spa, 4401 Floridian Way, Orlando, FL, 32830, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/citricos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/citricos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/edoboy",
+   "city_id": "orlando-fl-us",
+   "slug": "edoboy",
+   "name": "Edoboy",
+   "website": "https://www.edoboysushi.com/",
+   "address": "728 N. Thornton Ave., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/edoboy"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/edoboy",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/gyukatsu-rose",
+   "city_id": "orlando-fl-us",
+   "slug": "gyukatsu-rose",
+   "name": "Gyukatsu Rose",
+   "website": "https://www.gyukatsurose.com/",
+   "address": "3201 Corrine Dr., Fl. 1, Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/gyukatsu-rose"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/gyukatsu-rose",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/juju",
+   "city_id": "orlando-fl-us",
+   "slug": "juju",
+   "name": "Juju",
+   "website": "https://susuruorl.com/juju-restaurant",
+   "address": "700 Maguire Blvd., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/juju"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/juju",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/june",
+   "city_id": "orlando-fl-us",
+   "slug": "june",
+   "name": "June",
+   "website": "https://www.juneorlando.com",
+   "address": "700 E. Washington St., Orlando, FL, 32801, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/june-1216341"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/june-1216341",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/kabooki-sushi",
+   "city_id": "orlando-fl-us",
+   "slug": "kabooki-sushi",
+   "name": "Kabooki Sushi",
+   "website": "https://www.kabookisushi.com",
+   "address": "3122 E. Colonial Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/kabooki-sushi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/kabooki-sushi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/kai-asian-street-fare",
+   "city_id": "orlando-fl-us",
+   "slug": "kai-asian-street-fare",
+   "name": "Kai Asian Street Fare",
+   "website": "https://www.kaistreetfare.com/",
+   "address": "1555 State Rd. 436, Ste. 1171, Orlando, FL, 32792, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/kai-asian-street-fare"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/kai-asian-street-fare",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/kai-kai-bbq-dumplings",
+   "city_id": "orlando-fl-us",
+   "slug": "kai-kai-bbq-dumplings",
+   "name": "Kai Kai BBQ & Dumplings",
+   "website": "https://www.kaikai-bbq.com",
+   "address": "1110 E. Colonial Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/kai-kai-1216339"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/kai-kai-1216339",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/kappo-tsan",
+   "city_id": "orlando-fl-us",
+   "slug": "kappo-tsan",
+   "name": "Kappo Tsan",
+   "website": "https://kappotsan.com/",
+   "address": "11815 Glass House Ln., Ste. 110, Orlando, FL, 32836, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/kappo-tsan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/kappo-tsan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/kaya",
+   "city_id": "orlando-fl-us",
+   "slug": "kaya",
+   "name": "Kaya",
+   "website": "https://www.kayaorlando.com/",
+   "address": "618 N. Thornton Ave., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/kaya"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/kaya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/kaya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/nami",
+   "city_id": "orlando-fl-us",
+   "slug": "nami",
+   "name": "Nami",
+   "website": "https://www.namilakenona.com/",
+   "address": "Lake Nona Wave Hotel, 6004 Artist Ave., Orlando, FL, 32827, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/nami"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/nami",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/pizza-bruno",
+   "city_id": "orlando-fl-us",
+   "slug": "pizza-bruno",
+   "name": "Pizza Bruno",
+   "website": "https://www.pizzabrunofl.com/",
+   "address": "3990 Curry Ford Rd., Orlando, FL, 32806, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/pizza-bruno"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/pizza-bruno",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Pizza",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/prato",
+   "city_id": "orlando-fl-us",
+   "slug": "prato",
+   "name": "Prato",
+   "website": "https://www.prato-wp.com",
+   "address": "124 N. Park Ave., Winter Park, FL, 32789, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/winter-park/restaurant/prato"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/winter-park/restaurant/prato",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/primo",
+   "city_id": "orlando-fl-us",
+   "slug": "primo",
+   "name": "Primo",
+   "website": "https://www.primojw.com/",
+   "address": "JW Marriott Orlando, Grande Lakes, 4040 Central Florida Pkwy., Orlando, FL, 32837, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/primo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/primo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/ravello",
+   "city_id": "orlando-fl-us",
+   "slug": "ravello",
+   "name": "Ravello",
+   "website": "https://www.fourseasons.com/orlando/dining/restaurants/ravello/",
+   "address": "Four Seasons Resort Orlando at Walt Disney World® Resort, 10100 Dream Tree Blvd., Orlando, FL, 32836, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/ravello"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/ravello",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/se7en-bites",
+   "city_id": "orlando-fl-us",
+   "slug": "se7en-bites",
+   "name": "Se7en Bites",
+   "website": "https://www.se7enbites.com/",
+   "address": "617 N. Primrose Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/se7en-bites"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/se7en-bites",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/shin-jung",
+   "city_id": "orlando-fl-us",
+   "slug": "shin-jung",
+   "name": "Shin Jung",
+   "website": "https://www.shinjungkoreanbbq.com/",
+   "address": "1638 E. Colonial Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/shin-jung"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/shin-jung",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/smoke-donuts-bbq",
+   "city_id": "orlando-fl-us",
+   "slug": "smoke-donuts-bbq",
+   "name": "Smoke & Donuts BBQ",
+   "website": "https://smokeanddonuts.com/",
+   "address": "601 N. Primrose Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/smoke-donuts-bbq"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/smoke-donuts-bbq",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/sparrow",
+   "city_id": "orlando-fl-us",
+   "slug": "sparrow",
+   "name": "Sparrow",
+   "website": "https://www.sparroworlando.com/",
+   "address": "807 N. Orange Ave., Orlando, FL, 32801, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/sparrow-1217842"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/sparrow-1217842",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/sticky-rice",
+   "city_id": "orlando-fl-us",
+   "slug": "sticky-rice",
+   "name": "Sticky Rice",
+   "website": "https://www.stickywithit.com/",
+   "address": "1915 E. Colonial Dr., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/sticky-rice-1194451"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/sticky-rice-1194451",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lao",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/swine-sons",
+   "city_id": "orlando-fl-us",
+   "slug": "swine-sons",
+   "name": "Swine & Sons",
+   "website": "https://swineandsons.com/",
+   "address": "201 N. Bumby Ave., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/swine-sons"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/swine-sons",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/the-pinery",
+   "city_id": "orlando-fl-us",
+   "slug": "the-pinery",
+   "name": "The Pinery",
+   "website": "https://thepineryorlando.com/",
+   "address": "295 N.E. Ivanhoe Blvd., Orlando, FL, 32804, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/the-pinery"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/the-pinery",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/the-polite-pig",
+   "city_id": "orlando-fl-us",
+   "slug": "the-polite-pig",
+   "name": "The Polite Pig",
+   "website": "https://www.politepig.com/",
+   "address": "1536 Buena Vista Dr., Orlando, FL, 32830, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/the-polite-pig"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/the-polite-pig",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/toledo",
+   "city_id": "orlando-fl-us",
+   "slug": "toledo",
+   "name": "Toledo",
+   "website": "https://disneyworld.disney.go.com/dining/coronado-springs-resort/toledo/",
+   "address": "Disney's Coronado Springs Resort, 1001 W. Buena Vista Dr., Orlando, FL, 32830, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/toledo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/toledo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/tori-tori",
+   "city_id": "orlando-fl-us",
+   "slug": "tori-tori",
+   "name": "Tori Tori",
+   "website": "https://www.toritoripub.com/",
+   "address": "720 N. Mills Ave., Orlando, FL, 32803, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/tori-tori"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/tori-tori",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/twenty-pho-hour",
+   "city_id": "orlando-fl-us",
+   "slug": "twenty-pho-hour",
+   "name": "Twenty Pho Hour",
+   "website": "https://twenty-pho-hour.com/orlando/",
+   "address": "11951 International Dr., Unit B2, Orlando, FL, 32821, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/twenty-pho-hour"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/twenty-pho-hour",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "orlando-fl-us/yh-seafood-clubhouse",
+   "city_id": "orlando-fl-us",
+   "slug": "yh-seafood-clubhouse",
+   "name": "YH Seafood Clubhouse",
+   "website": "https://yhseafoodclubhouse.com/",
+   "address": "8081 Turkey Lake Rd., Ste. 700, Orlando, FL, 32819, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/orlando/restaurant/yh-seafood-clubhouse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/orlando/restaurant/yh-seafood-clubhouse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  }
+ ]
+}

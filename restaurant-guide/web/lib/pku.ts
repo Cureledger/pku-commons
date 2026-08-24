@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import { readFileSync, statSync } from "fs";
 import path from "path";
 import type {
   PkuFile,
@@ -13,8 +13,16 @@ export { SCORE_FACTORS } from "./score-factors";
 
 const PKU_PATH = path.join(process.cwd(), "..", "data", "pku.json");
 
+let pkuCache: PkuFile | null = null;
+let pkuMtime = 0;
+
 export function loadPkuFile(): PkuFile {
-  return JSON.parse(readFileSync(PKU_PATH, "utf8")) as PkuFile;
+  const mtime = statSync(PKU_PATH).mtimeMs;
+  if (!pkuCache || mtime !== pkuMtime) {
+    pkuCache = JSON.parse(readFileSync(PKU_PATH, "utf8")) as PkuFile;
+    pkuMtime = mtime;
+  }
+  return pkuCache;
 }
 
 export function loadPkuRestaurant(slug: string): PkuRestaurant | undefined {
@@ -75,17 +83,37 @@ export interface PkuCard {
   score: PkuScore;
 }
 
-export function loadPkuCards(): PkuCard[] {
+function awardRank(restaurant: Restaurant): number {
+  const tiers = (restaurant.awards ?? []).map((award) => award.tier);
+  if (tiers.includes("Three Stars")) return 3;
+  if (tiers.includes("Two Stars")) return 2;
+  if (tiers.includes("One Star")) return 1;
+  if (tiers.includes("Bib Gourmand")) return 0;
+  return -1;
+}
+
+export function loadPkuCards(
+  cityId?: string,
+  requirePicks = true,
+): PkuCard[] {
+  const pkuBySlug = new Map(
+    loadPkuFile().restaurants.map((entry) => [entry.slug, entry]),
+  );
   return loadRestaurants()
+    .filter((restaurant) => !cityId || restaurant.city_id === cityId)
     .map((restaurant) => {
-      const entry = loadPkuRestaurant(restaurant.slug);
+      const entry =
+        pkuBySlug.get(restaurant.slug) ??
+        restaurant.aliases?.map((alias) => pkuBySlug.get(alias)).find(Boolean);
       return { restaurant, entry, score: scorePku(entry, restaurant) };
     })
-    .filter((card) => (card.entry?.picks.length ?? 0) > 0)
+    .filter((card) => !requirePicks || (card.entry?.picks.length ?? 0) > 0)
     .sort((a, b) => {
       if (b.score.total !== a.score.total) return b.score.total - a.score.total;
       if (b.score.mains !== a.score.mains) return b.score.mains - a.score.mains;
       if (b.score.plates !== a.score.plates) return b.score.plates - a.score.plates;
+      const awardDelta = awardRank(b.restaurant) - awardRank(a.restaurant);
+      if (awardDelta) return awardDelta;
       return a.restaurant.name.localeCompare(b.restaurant.name);
     });
 }

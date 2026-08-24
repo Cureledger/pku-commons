@@ -1,4 +1,4 @@
-import { existsSync, readdirSync, readFileSync } from "fs";
+import { existsSync, readdirSync, readFileSync, statSync } from "fs";
 import path from "path";
 import type {
   MenuSnapshot,
@@ -25,18 +25,31 @@ export function loadRestaurantPhotos(slug: string): string[] {
     .map((name) => `/images/restaurants/${slug}/${encodeURIComponent(name)}`);
 }
 
+let registryCache: RestaurantRegistry | null = null;
+let restaurantCache: Restaurant[] | null = null;
+let registryMtime = 0;
+
 export function loadRegistry(): RestaurantRegistry {
-  const raw = readFileSync(REGISTRY_PATH, "utf8");
-  return JSON.parse(raw) as RestaurantRegistry;
+  const mtime = statSync(REGISTRY_PATH).mtimeMs;
+  if (!registryCache || mtime !== registryMtime) {
+    registryCache = JSON.parse(readFileSync(REGISTRY_PATH, "utf8")) as RestaurantRegistry;
+    restaurantCache = null;
+    registryMtime = mtime;
+  }
+  return registryCache;
 }
 
 export function loadRestaurants(): Restaurant[] {
-  return loadRegistry().restaurants.map((restaurant) => ({
-    ...restaurant,
-    photos: restaurant.photos?.length
-      ? restaurant.photos
-      : loadRestaurantPhotos(restaurant.slug),
-  }));
+  loadRegistry();
+  if (!restaurantCache) {
+    restaurantCache = loadRegistry().restaurants.map((restaurant) => ({
+      ...restaurant,
+      photos: restaurant.photos?.length
+        ? restaurant.photos
+        : loadRestaurantPhotos(restaurant.slug),
+    }));
+  }
+  return restaurantCache;
 }
 
 /** Restaurants that have at least one captured menu snapshot on disk. */
@@ -106,4 +119,20 @@ export function menuLabel(label: string): string {
 export function formatPrice(price: number | undefined): string | null {
   if (price == null) return null;
   return Number.isInteger(price) ? `$${price}` : `$${price.toFixed(2)}`;
+}
+
+/** Michelin price indication, shown verbatim. */
+export function priceTier(restaurant: { price_tier?: string | null }): string | null {
+  const tier = restaurant.price_tier?.trim();
+  return tier || null;
+}
+
+export function restaurantMeta(restaurant: {
+  price_tier?: string | null;
+  cuisine?: string | null;
+}): string | null {
+  const parts = [priceTier(restaurant), restaurant.cuisine?.trim()].filter(
+    (part): part is string => Boolean(part),
+  );
+  return parts.length ? parts.join(" · ") : null;
 }

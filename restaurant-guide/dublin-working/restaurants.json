@@ -1,0 +1,788 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "dublin-ie",
+ "restaurant_count": 20,
+ "restaurants": [
+  {
+   "restaurant_id": "dublin-ie/chapter-one-by-mickael-viljanen",
+   "city_id": "dublin-ie",
+   "slug": "chapter-one-by-mickael-viljanen",
+   "name": "Chapter One by Mickael Viljanen",
+   "website": "https://chapteronerestaurant.com/",
+   "address": "18-19 Parnell Square North, Rotunda, Dublin City, D01 T3V8, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/chapter-one-by-mickael-viljanen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/chapter-one-by-mickael-viljanen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/patrick-guilbaud",
+   "city_id": "dublin-ie",
+   "slug": "patrick-guilbaud",
+   "name": "Patrick Guilbaud",
+   "website": "https://www.restaurantpatrickguilbaud.ie/",
+   "address": "The Merrion Hotel, 21 Upper Merrion Street, Dublin City, D02 KF79, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/patrick-guilbaud"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/patrick-guilbaud",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/bastible",
+   "city_id": "dublin-ie",
+   "slug": "bastible",
+   "name": "Bastible",
+   "website": "https://www.bastible.com/",
+   "address": "111 South Circular Road, Dublin City, D08 RW2K, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/bastible"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/bastible",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/dolier-street",
+   "city_id": "dublin-ie",
+   "slug": "dolier-street",
+   "name": "D'Olier Street",
+   "website": "https://www.dolierstreetrestaurant.com",
+   "address": "D'Olier Chambers, D'Olier Street, Dublin City, D02 H589, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/d-olier-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/d-olier-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/forest-avenue",
+   "city_id": "dublin-ie",
+   "slug": "forest-avenue",
+   "name": "Forest Avenue",
+   "website": "https://www.forestavenuerestaurant.ie",
+   "address": "8 Sussex Terrace, Dublin City, D04 C7F4, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/forest-avenue-1198717"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/forest-avenue-1198717",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/glovers-alley",
+   "city_id": "dublin-ie",
+   "slug": "glovers-alley",
+   "name": "Glovers Alley",
+   "website": "https://gloversalley.com/",
+   "address": "The Fitzwilliam Hotel, 127-128 St. Stephen’s Green, Dublin City, D02 HE18, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/glovers-alley"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/glovers-alley",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/variety-jones",
+   "city_id": "dublin-ie",
+   "slug": "variety-jones",
+   "name": "Variety Jones",
+   "website": "https://www.varietyjones.ie/",
+   "address": "79 Thomas Street, Dublin City, D08 F2RN, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/variety-jones"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/variety-jones",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/amai-by-viktor",
+   "city_id": "dublin-ie",
+   "slug": "amai-by-viktor",
+   "name": "Amai by Viktor",
+   "website": "https://www.amaibyviktor.ie",
+   "address": "4 Harry Street, Dublin City, D02 CX24, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/amai-by-viktor"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/amai-by-viktor",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Brazilian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/comet",
+   "city_id": "dublin-ie",
+   "slug": "comet",
+   "name": "Comet",
+   "website": "https://www.cometrestaurant.com/",
+   "address": "3 Joshua Lane, Dublin City, D02 C856, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/comet"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/comet",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/dax",
+   "city_id": "dublin-ie",
+   "slug": "dax",
+   "name": "Dax",
+   "website": "https://www.dax.ie/restaurant/",
+   "address": "23 Upper Pembroke Street, Dublin City, D02 AK20, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/dax"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/dax",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/delahunt",
+   "city_id": "dublin-ie",
+   "slug": "delahunt",
+   "name": "Delahunt",
+   "website": "https://delahunt.ie",
+   "address": "39 Camden Street Lower, Dublin City, D02 K277, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/delahunt"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/delahunt",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/jean-georges-at-the-leinster",
+   "city_id": "dublin-ie",
+   "slug": "jean-georges-at-the-leinster",
+   "name": "Jean-Georges at The Leinster",
+   "website": "https://theleinster.ie/eat-drink/jean-georges-the-leinster/",
+   "address": "7 Mount Street Lower, Dublin City, D02 WK33, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/jean-georges-at-the-leinster"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/jean-georges-at-the-leinster",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/kaldero",
+   "city_id": "dublin-ie",
+   "slug": "kaldero",
+   "name": "Kaldero",
+   "website": "https://kaldero.ie/",
+   "address": "Unit 4B, Stephen’s Green Shopping Centre, King Street South, Dublin 2, Dublin City, D02 HD30, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/kaldero"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/kaldero",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/matsukawa",
+   "city_id": "dublin-ie",
+   "slug": "matsukawa",
+   "name": "Matsukawa",
+   "website": "https://www.matsukawa-ie.com/reservation-policies",
+   "address": "8 Queen Street, Smithfield, Dublin City, DO7 Y683, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/matsukawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/matsukawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/mr-fox",
+   "city_id": "dublin-ie",
+   "slug": "mr-fox",
+   "name": "Mr Fox",
+   "website": "https://www.mrfox.ie",
+   "address": "38 Parnell Square West, Dublin City, DO1 X9TO, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/mr-fox"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/mr-fox",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/note",
+   "city_id": "dublin-ie",
+   "slug": "note",
+   "name": "Note",
+   "website": "https://notedublin.com",
+   "address": "26 Fenian Street, Dublin City, D02 FX09, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/note"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/note",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/one-pico",
+   "city_id": "dublin-ie",
+   "slug": "one-pico",
+   "name": "One Pico",
+   "website": "https://www.onepico.com",
+   "address": "5-6 Molesworth Place, Dublin City, D02 YA32, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/one-pico"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/one-pico",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/the-old-spot",
+   "city_id": "dublin-ie",
+   "slug": "the-old-spot",
+   "name": "The Old Spot",
+   "website": "https://www.theoldspot.ie",
+   "address": "14 Bath Avenue, Sandymount, Dublin City, D04 Y726, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/the-old-spot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/the-old-spot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/allta",
+   "city_id": "dublin-ie",
+   "slug": "allta",
+   "name": "allta",
+   "website": "https://www.allta.ie/",
+   "address": "1 Three Locks Square, Grand Canal Dock, Dublin City, DO2 A5W7, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/allta-1212785"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/allta-1212785",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dublin-ie/mae",
+   "city_id": "dublin-ie",
+   "slug": "mae",
+   "name": "mae",
+   "website": "https://www.maerestaurant.ie",
+   "address": "53 Shelbourne Road, Ballsbridge, Dublin City, D04 XC66, Ireland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dublin/dublin/restaurant/mae"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dublin/dublin/restaurant/mae",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  }
+ ]
+}

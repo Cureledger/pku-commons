@@ -1,0 +1,2426 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "copenhagen-dk",
+ "restaurant_count": 54,
+ "restaurants": [
+  {
+   "restaurant_id": "copenhagen-dk/geranium",
+   "city_id": "copenhagen-dk",
+   "slug": "geranium",
+   "name": "Geranium",
+   "website": "https://www.geranium.dk",
+   "address": "Per Henrik Lings Allé 4, 2100 København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/geranium"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/geranium",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "Three Stars. Vegetable and seafood tasting menu above Parken.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/kadeau-copenhagen",
+   "city_id": "copenhagen-dk",
+   "slug": "kadeau-copenhagen",
+   "name": "Kadeau Copenhagen",
+   "website": "https://kadeau.dk",
+   "address": "Wildersgade 10B, 1408 København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kadeau-copenhagen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kadeau-copenhagen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "Three Stars. Bornholm ingredients in Christianshavn.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/jordnaer",
+   "city_id": "copenhagen-dk",
+   "slug": "jordnaer",
+   "name": "Jordnær",
+   "website": "https://restaurantjordnaer.dk",
+   "address": "Gentoftegade 29, 2820 Gentofte",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/capital-region/gentofte_1373269/restaurant/jordnaer"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/gentofte_1373269/restaurant/jordnaer",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [
+    "jordnr"
+   ],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "Three Stars. Seafood and vegetables in Gentofte.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/alchemist",
+   "city_id": "copenhagen-dk",
+   "slug": "alchemist",
+   "name": "Alchemist",
+   "website": "https://alchemist.dk",
+   "address": "Refshalevej 173C, 1432 København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/alchemist"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/alchemist",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "Two Stars. Long tasting menu on Refshaleøen.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/a-o-c",
+   "city_id": "copenhagen-dk",
+   "slug": "a-o-c",
+   "name": "a|o|c",
+   "website": "https://restaurant-aoc.dk",
+   "address": "Dronningens Tværgade 2, 1302 København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/a%E2%80%9Ao%E2%80%9Ac"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/a%E2%80%9Ao%E2%80%9Ac",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "Two Stars. Nordic tasting menu in a cellar in Indre By.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/kong-hans-kaelder",
+   "city_id": "copenhagen-dk",
+   "slug": "kong-hans-kaelder",
+   "name": "Kong Hans Kælder",
+   "website": "https://konghans.dk",
+   "address": "Vingårdstræde 6, 1070 København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kong-hans-kaelder"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kong-hans-kaelder",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [
+    "kong-hans-klder"
+   ],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "Two Stars. Classic dining in a medieval cellar.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/koan",
+   "city_id": "copenhagen-dk",
+   "slug": "koan",
+   "name": "Koan",
+   "website": "https://koan.dk",
+   "address": "Langeliniekaj 5, 2100 København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/koan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/koan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "Two Stars. Korean-Nordic tasting menu on the waterfront.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/alouette",
+   "city_id": "copenhagen-dk",
+   "slug": "alouette",
+   "name": "Alouette",
+   "website": "https://restaurant-alouette.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/alouette"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/alouette",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Fire cooking near Kongens Have.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/the-samuel",
+   "city_id": "copenhagen-dk",
+   "slug": "the-samuel",
+   "name": "The Samuel",
+   "website": "https://www.thesamuel.dk",
+   "address": "Vesterbrogade 182-184, 1800 Frederiksberg",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/hellerup_7770408/restaurant/the-samuel"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/hellerup_7770408/restaurant/the-samuel",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Frederiksberg.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/sushi-anaba",
+   "city_id": "copenhagen-dk",
+   "slug": "sushi-anaba",
+   "name": "Sushi Anaba",
+   "website": "https://www.sushianaba.com",
+   "address": "Nordhavn, København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/sushi-anaba"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/sushi-anaba",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Edomae nigiri in Nordhavn.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/sollerod-kro",
+   "city_id": "copenhagen-dk",
+   "slug": "sollerod-kro",
+   "name": "Søllerød Kro",
+   "website": "",
+   "address": "Søllerødvej 35, 2840 Holte",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [
+    "sllerd-kro"
+   ],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. North of the city in Holte.",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/parsley-salon",
+   "city_id": "copenhagen-dk",
+   "slug": "parsley-salon",
+   "name": "Parsley Salon",
+   "website": "https://www.parsleysalon.dk",
+   "address": "Hellerupvej 40, 2900 Hellerup",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/hellerup_7770408/restaurant/parsley-salon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/hellerup_7770408/restaurant/parsley-salon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Hellerup.",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/jatak",
+   "city_id": "copenhagen-dk",
+   "slug": "jatak",
+   "name": "Jatak",
+   "website": "https://www.jatakcph.com",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/jatak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/jatak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star.",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/udtryk",
+   "city_id": "copenhagen-dk",
+   "slug": "udtryk",
+   "name": "Udtryk",
+   "website": "https://norrlyst.dk/udtryk/",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/udtryk"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/udtryk",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/aure",
+   "city_id": "copenhagen-dk",
+   "slug": "aure",
+   "name": "Aure",
+   "website": "https://www.restaurantaure.dk",
+   "address": "Refshaleøen, København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/restaurant-aure"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/restaurant-aure",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Refshaleøen.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/texture",
+   "city_id": "copenhagen-dk",
+   "slug": "texture",
+   "name": "Texture",
+   "website": "https://www.texturerestaurant.com",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/texture-1215658"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/texture-1215658",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/akme",
+   "city_id": "copenhagen-dk",
+   "slug": "akme",
+   "name": "akmē",
+   "website": "https://www.akme.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/akme"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/akme",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Awarded 2026.",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/esse",
+   "city_id": "copenhagen-dk",
+   "slug": "esse",
+   "name": "ESSE",
+   "website": "https://esserestaurant.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/esse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/esse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Awarded 2026.",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/lille-molle",
+   "city_id": "copenhagen-dk",
+   "slug": "lille-molle",
+   "name": "Lille Mølle",
+   "website": "",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [
+    "lille-mlle"
+   ],
+   "harvest_categories": [],
+   "notes": "",
+   "blurb": "One Star. Awarded 2026.",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/botschaft",
+   "city_id": "copenhagen-dk",
+   "slug": "botschaft",
+   "name": "Botschaft",
+   "website": "https://www.botschaft.dk/",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/botschaft"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/botschaft",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/calma",
+   "city_id": "copenhagen-dk",
+   "slug": "calma",
+   "name": "Calma",
+   "website": "https://www.calmacph.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/calma"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/calma",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/enomania",
+   "city_id": "copenhagen-dk",
+   "slug": "enomania",
+   "name": "Enomania",
+   "website": "https://www.enomania.dk/",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/enomania"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/enomania",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/gabrielle",
+   "city_id": "copenhagen-dk",
+   "slug": "gabrielle",
+   "name": "Gabrielle",
+   "website": "https://norrlyst.dk/restaurantgabrielle/",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/gabrielle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/gabrielle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/graziano",
+   "city_id": "copenhagen-dk",
+   "slug": "graziano",
+   "name": "Graziano",
+   "website": "https://graziano.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/graziano"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/graziano",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/koefoed",
+   "city_id": "copenhagen-dk",
+   "slug": "koefoed",
+   "name": "Koefoed",
+   "website": "https://www.restaurant-koefoed.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/koefoed"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/koefoed",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/levi",
+   "city_id": "copenhagen-dk",
+   "slug": "levi",
+   "name": "Levi",
+   "website": "https://www.restaurantlevi.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/levi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/levi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/no-2",
+   "city_id": "copenhagen-dk",
+   "slug": "no-2",
+   "name": "no.2",
+   "website": "https://www.nummer2.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/no-2"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/no-2",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/norrlyst",
+   "city_id": "copenhagen-dk",
+   "slug": "norrlyst",
+   "name": "Norrlyst",
+   "website": "https://www.norrlyst.dk/restaurantnorrlyst",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/norrlyst"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/norrlyst",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/petra-bar-restaurant",
+   "city_id": "copenhagen-dk",
+   "slug": "petra-bar-restaurant",
+   "name": "Petra Bar & Restaurant",
+   "website": "https://www.restaurant-petra.com",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/petra-bar-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/petra-bar-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/radio",
+   "city_id": "copenhagen-dk",
+   "slug": "radio",
+   "name": "Radio",
+   "website": "https://www.restaurantradio.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/radio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/radio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/restaurant-vie",
+   "city_id": "copenhagen-dk",
+   "slug": "restaurant-vie",
+   "name": "Restaurant VIE",
+   "website": "",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/sanchez",
+   "city_id": "copenhagen-dk",
+   "slug": "sanchez",
+   "name": "Sanchez",
+   "website": "https://lovesanchez.com",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/sanchez"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/sanchez",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/silberbauers-bistro",
+   "city_id": "copenhagen-dk",
+   "slug": "silberbauers-bistro",
+   "name": "Silberbauers Bistro",
+   "website": "https://www.silberbauers.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/silberbauers-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/silberbauers-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/aotori",
+   "city_id": "copenhagen-dk",
+   "slug": "aotori",
+   "name": "Aotori",
+   "website": "",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kappo-ando"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kappo-ando",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/krogs-fiskerestaurant",
+   "city_id": "copenhagen-dk",
+   "slug": "krogs-fiskerestaurant",
+   "name": "Krogs Fiskerestaurant",
+   "website": "https://www.krogs.dk",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/krogs-fiskerestaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/krogs-fiskerestaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/magny",
+   "city_id": "copenhagen-dk",
+   "slug": "magny",
+   "name": "Magny",
+   "website": "",
+   "address": "København",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "edition": "MICHELIN Guide Nordic Countries",
+     "year": "2026",
+     "citation": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/magny"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-23T23:36:58+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-nordic-denmark-finland-iceland-norway-sweden-2026-new-stars-bib-gourmands-special-awards",
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/magny",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ],
+    "also_found_via": []
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/lille-moelle",
+   "city_id": "copenhagen-dk",
+   "slug": "lille-moelle",
+   "name": "Lille Mølle",
+   "website": "https://restaurantlillemoelle.dk",
+   "address": "Christianshavns Voldgade 52, Copenhagen, 1424, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/lille-molle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/lille-molle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/soelleroed-kro",
+   "city_id": "copenhagen-dk",
+   "slug": "soelleroed-kro",
+   "name": "Søllerød Kro",
+   "website": "https://www.soelleroed-kro.dk",
+   "address": "Søllerødvej 35, Holte, 2840, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/capital-region/holte_1374367/restaurant/sollerod-kro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/holte_1374367/restaurant/sollerod-kro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/abigail-co",
+   "city_id": "copenhagen-dk",
+   "slug": "abigail-co",
+   "name": "Abigail & Co",
+   "website": "https://norrlyst.dk/abigail/",
+   "address": "Nørregade 45, Copenhagen, 1165, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/abigail-co"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/abigail-co",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/admiralgade-26",
+   "city_id": "copenhagen-dk",
+   "slug": "admiralgade-26",
+   "name": "Admiralgade 26",
+   "website": "https://www.admiralgade26.com",
+   "address": "Admiralgade 26, Copenhagen, 1066 K, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/admiralgade-26"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/admiralgade-26",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/ark",
+   "city_id": "copenhagen-dk",
+   "slug": "ark",
+   "name": "Ark",
+   "website": "https://www.restaurantark.dk",
+   "address": "Nørre Farimagsgade 63, Copenhagen, 1364, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/ark"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/ark",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/fasangaarden",
+   "city_id": "copenhagen-dk",
+   "slug": "fasangaarden",
+   "name": "Fasangården",
+   "website": "https://meyers.dk/restauranter/fasangaarden",
+   "address": "Søndre Fasanvej 73, Copenhagen, 2000, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/fasangarden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/fasangarden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Danish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/hoest",
+   "city_id": "copenhagen-dk",
+   "slug": "hoest",
+   "name": "Høst",
+   "website": "https://cofoco.dk/en/hoest/",
+   "address": "Nørre Farimagsgade 41, Copenhagen, 1364 K, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/host"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/host",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/kiin-kiin",
+   "city_id": "copenhagen-dk",
+   "slug": "kiin-kiin",
+   "name": "Kiin Kiin",
+   "website": "https://www.kiin.dk",
+   "address": "Guldbergsgade 21, Copenhagen, 2200 N, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kiin-kiin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kiin-kiin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/kiin-kiin-veve",
+   "city_id": "copenhagen-dk",
+   "slug": "kiin-kiin-veve",
+   "name": "Kiin Kiin VeVe",
+   "website": "https://www.veve.dk",
+   "address": "Dampfærgevej 7-9, Copenhagen, 2100 Ø, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kiin-kiin-veve"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kiin-kiin-veve",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/koedbyens-fiskebar",
+   "city_id": "copenhagen-dk",
+   "slug": "koedbyens-fiskebar",
+   "name": "Kødbyens Fiskebar",
+   "website": "https://www.fiskebaren.dk",
+   "address": "Flæsketorvet 100, Copenhagen, 1711 V, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kodbyens-fiskebar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/kodbyens-fiskebar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/mielcke-hurtigkarl",
+   "city_id": "copenhagen-dk",
+   "slug": "mielcke-hurtigkarl",
+   "name": "Mielcke & Hurtigkarl",
+   "website": "https://www.mhcph.com",
+   "address": "Runddel 1, Frederiksberg, Copenhagen, 2000, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/mielcke-hurtigkarl"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/mielcke-hurtigkarl",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/restaurant-anton",
+   "city_id": "copenhagen-dk",
+   "slug": "restaurant-anton",
+   "name": "Restaurant Anton",
+   "website": "https://www.restaurant-anton.dk",
+   "address": "Store Strandstræde 3, Copenhagen, 1255, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/restaurant-anton"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/restaurant-anton",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/restaurant-palaegade",
+   "city_id": "copenhagen-dk",
+   "slug": "restaurant-palaegade",
+   "name": "Restaurant Palægade",
+   "website": "https://formelfamily.dk/palaegade",
+   "address": "Palægade 8, Copenhagen, 1261 K, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/palaegade"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/palaegade",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Smørrebrød",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/sankt-annae",
+   "city_id": "copenhagen-dk",
+   "slug": "sankt-annae",
+   "name": "Sankt Annæ",
+   "website": "https://restaurantsanktannae.dk",
+   "address": "Sankt Annæ Plads 12, Copenhagen, 1250 K, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/sankt-annae"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/sankt-annae",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Smørrebrød",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/the-pescatarian",
+   "city_id": "copenhagen-dk",
+   "slug": "the-pescatarian",
+   "name": "The Pescatarian",
+   "website": "https://thepescatarian.dk",
+   "address": "Amaliegade 49, Copenhagen, 1256 K, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/the-pescatarian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/the-pescatarian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/theo",
+   "city_id": "copenhagen-dk",
+   "slug": "theo",
+   "name": "Theo",
+   "website": "https://norrlyst.dk/theo/",
+   "address": "Skindergade 29, Copenhagen, 1050, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/theo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/theo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/vaekst",
+   "city_id": "copenhagen-dk",
+   "slug": "vaekst",
+   "name": "Vækst",
+   "website": "https://cofoco.dk/en/vaekst/",
+   "address": "Sankt Peders Stræde 34, Copenhagen, 1453 K, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/vaekst"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/vaekst",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "copenhagen-dk/a-terre",
+   "city_id": "copenhagen-dk",
+   "slug": "a-terre",
+   "name": "à terre",
+   "website": "https://www.aterre.dk",
+   "address": "Tordenskjoldsgade 11, Copenhagen, 1055 K, Denmark",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/a-terre"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/capital-region/copenhagen/restaurant/a-terre",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  }
+ ]
+}

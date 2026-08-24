@@ -19,8 +19,14 @@ SOURCES = ("award", "local_list", "community", "self_submitted",
            "association", "operator_import", "visit")
 
 
+_ASCII_FOLD = str.maketrans({
+    "æ": "ae", "ø": "oe", "å": "aa",
+    "Æ": "ae", "Ø": "oe", "Å": "aa",
+})
+
 def slugify(name: str) -> str:
-    s = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    s = name.translate(_ASCII_FOLD)
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     s = re.sub(r"[''`]", "", s.lower())
     s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
     return re.sub(r"-+", "-", s)
@@ -163,4 +169,6 @@ def add(reg: Dict, rec: Dict, merge: bool = True) -> str:
     for c in rec.get("harvest_categories", []):
         if c not in existing["harvest_categories"]:
             existing["harvest_categories"].append(c)
+    if rec.get("price_tier") and not existing.get("price_tier"):
+        existing["price_tier"] = rec["price_tier"]
     return "merged"

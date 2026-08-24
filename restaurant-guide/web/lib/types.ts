@@ -58,6 +58,8 @@ export interface Restaurant {
   /** Prior slugs. Captured menus may be filed under one of these. */
   aliases?: string[];
   cuisine?: string | null;
+  /** Michelin price indication, stored verbatim: $, $$, $$$, $$$$. */
+  price_tier?: string | null;
   /** One-line style line. Awards go here in prose, not as tags. */
   blurb?: string | null;
   /** Public photo URLs, latest first. Filled from disk when present. */

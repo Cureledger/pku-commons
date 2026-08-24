@@ -1,0 +1,1014 @@
+[
+  {
+    "slug": "amy-austin",
+    "menu_url": "https://amyaustin.ie",
+    "picks": [
+      {
+        "name": "JAMAICAN SWEET POTATO",
+        "description": "Cashew Nuts, Almond Cream, Coriander Oil",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "cashew and almond"
+      },
+      {
+        "name": "BUTTERNUT SQUASH",
+        "description": "Flat Parsley Pesto, Pumpkin Seeds, Parmesan",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pumpkin seeds and Parmesan"
+      }
+    ]
+  },
+  {
+    "slug": "ananda",
+    "menu_url": "https://www.anandarestaurant.ie/a-la-carte-menu",
+    "picks": [
+      {
+        "name": "Sanjay’s Salad",
+        "description": "Compressed pear, blue cheese, walnuts, grilled artichoke heart, golden beetroot, greens, homemade dressing",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "blue cheese and walnuts"
+      },
+      {
+        "name": "Dilli 6 Aloo Tikki",
+        "description": "Pan seared potato cakes, masala chickpeas, date & coriander chutney, yoghurt foam",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "chickpeas and yoghurt"
+      },
+      {
+        "name": "Rupa's Vegetarian Plate",
+        "description": "Roasted cauliflower, Tinkerbell pepper stuffed with cumin paneer, seasonal vegetable dumpling, smooth pumpkin masala",
+        "course": "main",
+        "kind": "main",
+        "hold": "paneer"
+      },
+      {
+        "name": "Chukandar Kofta Khaas",
+        "description": "Beetroot kofta, caramelized onion & cashew nut velouté",
+        "course": "main",
+        "kind": "main",
+        "hold": "cashew nut velouté"
+      },
+      {
+        "name": "Aloo Gobi",
+        "description": "Potato & cauliflower masala",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Bhindi Masala",
+        "description": "Stir fried okra, dried mango powder",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Tadka Broccoli",
+        "description": "Fresh broccoli & greens sauted with garlic",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Urlai Roast Potatoes",
+        "description": "Spiced curry leaf potatoes",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Rice",
+        "description": "Aged Basmati Pulao / Steamed Basmati Rice",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "bigfan",
+    "menu_url": "https://www.bigfan.ie/menu",
+    "picks": [
+      {
+        "name": "Enoki Fan (v)",
+        "description": "Steamed Enoki Mushrooms, Garlic Chilli Mushroom Sauce.",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Steamed Greens (v)",
+        "description": "Tenderstem Broccoli, Baby Bok Choy, Kai Lan, Garlic Soy Dressing.",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Corn Ribs (v)",
+        "description": "w/ BIGFAN Seasoning",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "House Rice (V)",
+        "description": "Steamed Black/White Rice",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Kimchi",
+        "description": "Salted & Fermented Nappa Cabbage, Shredded Carrot.",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "borgo",
+    "menu_url": "https://www.borgodublin.ie/s/Borgo-Menu-ALC.pdf",
+    "picks": [
+      {
+        "name": "Marinated Cerignola Olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Padron Peppers",
+        "description": "Whipped Hot Honey Ricotta",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ricotta"
+      },
+      {
+        "name": "Cloonbook Ballymakenny Potatoes",
+        "description": "Herb Cream",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "herb cream"
+      },
+      {
+        "name": "Broccoli",
+        "description": "Goats Béchamel, Roast Garlic Crumb",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "goats béchamel"
+      },
+      {
+        "name": "Abercorn Leaf Salad",
+        "description": "Saffron Dressing, Ricotta Salata",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "ricotta salata"
+      }
+    ]
+  },
+  {
+    "slug": "foret",
+    "menu_url": "https://www.foret.ie/menu",
+    "picks": [
+      {
+        "name": "Leek vinaigrette",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mushroom parfait (ard mhacha mushrooms)",
+        "description": "walnut aigre-doux",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "walnut"
+      }
+    ]
+  },
+  {
+    "slug": "grano",
+    "menu_url": "https://www.grano.ie/a-la-carte",
+    "picks": [
+      {
+        "name": "Spicy Calabrain black olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Napoletan grilled friggitielli peppers",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Calabrian dips",
+        "description": "Spicy bomba Calabrese and aubergine paté served with toasted bread",
+        "course": "starter",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "etto",
+    "menu_url": "https://www.etto.ie/menu",
+    "picks": [
+      {
+        "name": "Olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Padron pepper and romesco sauce",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "romesco",
+        "note": "Romesco is usually nuts."
+      },
+      {
+        "name": "Lyonnaise potato",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Abercorn farm salad and vinaigrette",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Confit aubergine sauce vierge",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "host",
+    "menu_url": "https://hostrestaurant.ie/menus/",
+    "picks": [
+      {
+        "name": "Cerignola Olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Abercorn Leaves, Chicory, Caesar & Parmesan",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "Caesar and Parmesan",
+        "note": "Ask about the dressing. Caesar is usually egg and anchovy."
+      },
+      {
+        "name": "Fried Potatoes & Aioli",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      }
+    ]
+  },
+  {
+    "slug": "hera",
+    "menu_url": "https://heradublin.ie/sunday-dinner",
+    "picks": [
+      {
+        "name": "Warm manzanilla olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Padron peppers",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Grilled peach and burrata salad w/ hazelnuts and bitter leaf salad",
+        "description": "",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "burrata and hazelnuts"
+      }
+    ]
+  },
+  {
+    "slug": "kickys",
+    "menu_url": "https://kickys.ie/menus/a-la-carte/",
+    "picks": [
+      {
+        "name": "Nocellara olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Kicky’s salad",
+        "description": "Mrs. H dressing",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Golden Wonder Ballymakenny potatoes",
+        "description": "Confit Garlic, Pecorino, Rosemary",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pecorino"
+      }
+    ]
+  },
+  {
+    "slug": "la-gordita",
+    "menu_url": "https://lagordita.ie/menu",
+    "picks": [
+      {
+        "name": "Olivas",
+        "description": "Olives (Antequera, Málaga)",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Berenjenas fritas con miel de caña",
+        "description": "Fried aubergine with sugar cane honey",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pisto manchego con huevo de codorniz",
+        "description": "Traditional hearty Mediterranean veggies with fried quail eggs",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "quail eggs"
+      },
+      {
+        "name": "Crestas de cebolla tierna",
+        "description": "Tempura fried spring onion with romesco sauce",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "romesco",
+        "note": "Romesco is usually nuts."
+      },
+      {
+        "name": "Tartar de tomate de temporada",
+        "description": "Tartar of tomatoes (Murcia) & tostas",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Ensalada de pimientos asados",
+        "description": "Salad of roasted red peppers, anchoas de Santoña, manchego cheese, black olives",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "anchoas and manchego",
+        "note": "Anchoas are anchovy."
+      },
+      {
+        "name": "Arroz de la huerta",
+        "description": "Seasonal vegetable rice, ask us for allergens as change with season (allow 25 mins)",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Patatas bravísimas",
+        "description": "Spuds with our house allioli & spicy paprika oil",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "allioli",
+        "note": "Allioli is egg."
+      }
+    ]
+  },
+  {
+    "slug": "lena",
+    "menu_url": "https://www.lena.ie/s/Lena_sample_menu-htdj.pdf",
+    "picks": [
+      {
+        "name": "House olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Giardiniera",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Bagna cauda, fennel, radicchio tardivo and potato",
+        "description": "",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "bagna cauda",
+        "note": "Bagna cauda is usually anchovy and garlic."
+      },
+      {
+        "name": "Crispy garlic potatoes",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "McNally mixed leaves, peach, fennel and mint",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Green beans, caesar dressing and pork pangrattato",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "caesar and pork pangrattato",
+        "note": "Ask about the dressing. Caesar is usually egg and anchovy."
+      }
+    ]
+  },
+  {
+    "slug": "library-street",
+    "menu_url": "https://www.librarystreet.ie/menus",
+    "picks": [
+      {
+        "name": "Pickled baby violet artichokes + manchego",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "manchego"
+      },
+      {
+        "name": "McNally's leaves, pear, walnut, mount leinster + sheep's yoghurt",
+        "description": "",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "walnut, Mount Leinster and yoghurt",
+        "note": "Mount Leinster is cheese."
+      },
+      {
+        "name": "Delica pumpkin risotto",
+        "description": "",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Fondant potatoes",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Chargrilled January King cabbage, kimchi + dukkah",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "dukkah",
+        "note": "Dukkah is usually nuts and seeds."
+      }
+    ]
+  },
+  {
+    "slug": "mister-s",
+    "menu_url": "https://www.misters.ie/menu",
+    "picks": [
+      {
+        "name": "Peaches, Burrata, Hazelnuts",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata and hazelnuts"
+      },
+      {
+        "name": "Charred Cauliflower, Harissa Vinaigrette & Dukkah",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "dukkah",
+        "note": "Dukkah is usually nuts and seeds."
+      },
+      {
+        "name": "Fried Potatoes, Onion Salt, Aioli",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Hispi Cabbage, Tahini, Furikake",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "tahini and furikake",
+        "note": "Tahini is sesame. Furikake often has fish and sesame."
+      },
+      {
+        "name": "Leaves, Herbs, Chardonnay Vinaigrette",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "orwell-road",
+    "menu_url": "https://orwellroad.com",
+    "picks": [
+      {
+        "name": "Nocellara olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mooncoin beetroot, St Tola, blackberry hoisin",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "St Tola",
+        "note": "St Tola is goat cheese."
+      },
+      {
+        "name": "Ballymakenny spuds, dijonnaise",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "dijonnaise"
+      },
+      {
+        "name": "Abercorn bitter leaf salad, honey & lemon dressing",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Hispi cabbage, pickled walnut, crispy onions",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pickled walnut"
+      }
+    ]
+  },
+  {
+    "slug": "osteria-lucio",
+    "menu_url": "https://osterialucio.com/menu/dinner-menu/",
+    "picks": [
+      {
+        "name": "Marinated mixed olives “al forno”",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Insalata di Zucchini",
+        "description": "Salad of courgette with buffalo feta cheese, tomato, mint and pistachio",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "feta and pistachio"
+      }
+    ]
+  },
+  {
+    "slug": "parrilla",
+    "menu_url": "https://parrillaranelagh.com/menu/",
+    "picks": [
+      {
+        "name": "Chips and Guac",
+        "description": "Purple and yellow corn chips, green and red salsa",
+        "course": "starter",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Pina Caramelizada",
+        "description": "Caramelised pineapple cubes, pickled onion, tajin, valentina, mint",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Padron Peppers",
+        "description": "Charred peppers, chilli salt, roasted pepper salsa",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Corn Ribs",
+        "description": "House Seasoned, Lime Chipotle Mayo",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "mayo"
+      },
+      {
+        "name": "Parrilla potatoes",
+        "description": "Crispy potatoes, garlic aoili, chipotle salsa",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Red Rice",
+        "description": "Spicy red rice, peas and corn",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Broccolini",
+        "description": "Grilled broccoli, chilli garlic crunch, feta",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "feta"
+      }
+    ]
+  },
+  {
+    "slug": "peploes",
+    "menu_url": "https://peploes.com/menu/dinner-menu/",
+    "picks": [
+      {
+        "name": "Marinated Olives from Puglia",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Smoked Aubergine (V)",
+        "description": "Pomegranate, Tahini, Sumac, Yogurt & Fried Lentils",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tahini, yogurt and lentils",
+        "note": "Tahini is sesame."
+      },
+      {
+        "name": "Stracciatella from Puglia",
+        "description": "Heritage Tomatoes, Ginger, Orange and Sorrel",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "stracciatella"
+      },
+      {
+        "name": "Miso Glazed Cauliflower",
+        "description": "Thai Coconut Sauce, Cavalo Nero, Salted Peanut (V)",
+        "course": "main",
+        "kind": "main",
+        "hold": "peanut"
+      },
+      {
+        "name": "Pomme Frites",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Fried Panko Courgettes",
+        "description": "Garlic Aioli",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Haricot Vert",
+        "description": "Garlic Olive Oil",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Duck Fat Roasted Potatoes",
+        "description": "Thyme, Garlic, Maldon Salt",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Rocket Salad",
+        "description": "Sun Dried Tomatoes, Black Olives & Shaved Parmesan",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "Parmesan"
+      },
+      {
+        "name": "Irish Butterhead Lettuce Salad",
+        "description": "French Style Vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Baby Caesar Salad",
+        "description": "Aged Parmesan, Egg, Sourdough",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "Parmesan and dressing",
+        "note": "Ask about the dressing. Caesar is usually egg and anchovy."
+      }
+    ]
+  },
+  {
+    "slug": "pichet",
+    "menu_url": "https://pichet.ie/wp-content/uploads/2025/02/Pichet-A-La-Carte-Menu-.pdf",
+    "picks": [
+      {
+        "name": "Gordal Olives Marinated in Orange, Rosemary, and Chilli",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Salad of Salt Baked Celeriac, Bluebell Falls Goat Cheese, Prune, White Chicory, Walnut Dressing",
+        "description": "",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "goat cheese and walnut"
+      },
+      {
+        "name": "Jerusalem Artichoke Risotto, Chanterelles, Shiitake Mushroom, Lovage & Hazelnut Pesto",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "hazelnut pesto"
+      },
+      {
+        "name": "Roasted Cauliflower, Miso Butter, Hazelnut",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "hazelnut and miso butter"
+      },
+      {
+        "name": "Roasted Delica Squash, Pumpkin Hummus, Red Chicory, Harissa, Pumpkin Seed Crumb",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "hummus and pumpkin seed"
+      },
+      {
+        "name": "Chips",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "pickle",
+    "menu_url": "https://picklerestaurant.com/wp-content/uploads/Pickle_JanuaryMainMenu_2xA4_Dec25.pdf",
+    "picks": [
+      {
+        "name": "Chowk Ki Aloo Tikki",
+        "description": "Potato cake, green peas, tamarind, mint, yoghurt",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "yoghurt"
+      },
+      {
+        "name": "Bangali Babu’s Aloo Baingan",
+        "description": "Baby aubergine, potatoes. nigella seeds, tomato, turmeric",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Bhindi Masala",
+        "description": "Okra, cumin, onion, mango & ginger",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Jeera Aloo",
+        "description": "Diced potatoes, cumin, turmeric, chilli",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Gobhi Matar Masala",
+        "description": "Cauliflower florets, green peas, cumin, ginger & turmeric",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Indian Green Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Basmati Rice",
+        "description": "Best quality aged",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "richmond",
+    "menu_url": "https://richmondrestaurant.ie/dinner",
+    "picks": [
+      {
+        "name": "Goats’ cheese stuffed courgette flower, tomato, hazelnut, candied lemon",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "goats’ cheese and hazelnut"
+      },
+      {
+        "name": "Heirloom tomato salad, salsa verde",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Chips",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Summer greens, leek vinaigrette",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "spitalfields",
+    "menu_url": "https://spitalfields.ie/menu",
+    "picks": [
+      {
+        "name": "Nocellara Olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Shitake Mushroom Parfait, Port Jelly, Focaccia",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Smoked New Potatoes",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Grilled Baby Gem, Parmesan & Dukkah",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "Parmesan and dukkah",
+        "note": "Dukkah is usually nuts and seeds."
+      },
+      {
+        "name": "Triple Cooked Hand Cut Chips",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Roast Carrots, Pesto, Almond & Cumin",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pesto and almond"
+      }
+    ]
+  },
+  {
+    "slug": "the-pigs-ear",
+    "menu_url": "https://www.thepigsear.ie/our-food-wine/",
+    "picks": [
+      {
+        "name": "Plate of Peas & Vinegar",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "The Earth Garlic, Crisp Onions & Mushroom truffles",
+        "description": "",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Champ",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Butter Lettuce",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Smoked Potatoes",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Greens",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "uno-mas",
+    "menu_url": "https://unomas.ie/menu",
+    "picks": [
+      {
+        "name": "Perello manzanilla picanté olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Padrón peppers",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Potato and onion tortilla",
+        "description": "",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "note": "Tortilla is egg."
+      },
+      {
+        "name": "Dublin Hills goats cheese, green beans, tomato and pine nut",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "goats cheese and pine nut"
+      },
+      {
+        "name": "Charred cabbage, migas and mustard dressing",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "migas",
+        "note": "Migas is fried bread."
+      },
+      {
+        "name": "Fried maris piper potatoes, rosemary and garlic butter",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "garlic butter"
+      },
+      {
+        "name": "Kohlrabi, cucumber, fennel and yoghurt",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "yoghurt"
+      }
+    ]
+  },
+  {
+    "slug": "vada",
+    "menu_url": "https://www.hellovada.com/menu",
+    "picks": [
+      {
+        "name": "Marinated olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Heirloom tomato tartare, tahini, blanco nino",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tahini",
+        "note": "Tahini is sesame. Blanco Niño is corn chips."
+      },
+      {
+        "name": "Oyster mushroom, walnut tamale, yogurt, salsa",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "walnut and yogurt"
+      },
+      {
+        "name": "Crispy spuds, burnt garlic aioli",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Abercorn Caesar salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "Caesar",
+        "note": "Ask about the dressing. Caesar is usually egg and anchovy."
+      }
+    ]
+  }
+]

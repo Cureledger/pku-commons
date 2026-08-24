@@ -1,149 +1,63 @@
 import Link from "next/link";
-import { EyeglassesMark } from "@/components/eyeglasses-mark";
-import { FavoriteHeart } from "@/components/heart";
-import { HeartMark } from "@/components/heart-mark";
-import { PhebeMark } from "@/components/phebe-mark";
-import { ScoreDots } from "@/components/score-dots";
-import { ReviewStars } from "@/components/restaurant-reviews";
-import { ScoreLines } from "@/components/score-lines";
-import { AWARD_DISCLAIMER } from "@/lib/restaurants";
-import { SCORE_FACTORS, loadPkuCards } from "@/lib/pku";
-import { loadReviewSummaries } from "@/lib/reviews";
+import { WorldMap } from "@/components/world-map";
+import { CITIES, FEATURED_CITIES } from "@/lib/cities";
+import { loadPkuCards } from "@/lib/pku";
+
+const HERO_POINTS = [
+  "Restaurant meals are a rare treat for PKUers on diet, made even harder by not knowing where to go.",
+  "Not all restaurants publish their menus, which makes it even harder for PKU families to plan a special outing.",
+  "Phebe Eats integrates with the Phebe App so you can log your restaurant meals and favorites.",
+  "Phebe Eats makes it easy to stay on track, even when you're on the go.",
+];
 
 export default function HomePage() {
-  const cards = loadPkuCards();
-  const reviewSummaries = loadReviewSummaries();
+  const cities = CITIES.map((city) => ({
+    slug: city.slug,
+    name: city.name,
+    path: city.path,
+    count: loadPkuCards(city.id, city.requirePicks).length,
+    featured: Boolean(city.feature),
+  }));
 
   return (
     <main>
       <section className="bg-green">
-        <div className="mx-auto max-w-[1120px] px-7 py-16 md:py-20">
-          <p className="text-xs font-bold uppercase tracking-[0.12em] text-purple">
-            Phebe Eats
-          </p>
-          <h1 className="mt-3 text-4xl font-extrabold text-purple sm:text-5xl">
-            Eating low-pro in Asheville
+        <div className="mx-auto max-w-[1120px] px-7 py-8 md:py-12">
+          <h1 className="text-4xl font-extrabold text-purple sm:text-5xl">
+            Eating out around the world with PKU
           </h1>
+          <ul className="mt-6 max-w-3xl list-disc space-y-2 pl-5 text-base text-purple sm:text-lg">
+            {HERO_POINTS.map((point) => (
+              <li key={point}>{point}</li>
+            ))}
+          </ul>
         </div>
       </section>
 
-      <section className="border-b border-line bg-green-pale">
-        <div className="mx-auto max-w-[1120px] px-7 py-8">
-          <div className="mx-auto max-w-xl rounded-2xl border border-purple/30 bg-white px-7 py-6">
-            <div className="flex items-center justify-center gap-4">
-              <p className="text-xs font-bold uppercase tracking-[0.12em] text-purple">
-                Our scale
-              </p>
-              <ul
-                className="flex items-center gap-1"
-                aria-label="Seven dots, five filled"
+      <section className="mx-auto max-w-[1120px] px-7 py-6 md:py-8">
+        <WorldMap cities={cities} />
+      </section>
+
+      <section className="mx-auto max-w-[1120px] px-7 pb-14">
+        <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-purple">
+          Featured Cities
+        </h2>
+        <ul className="mt-4 grid gap-4 sm:grid-cols-2">
+          {FEATURED_CITIES.map((city) => (
+            <li key={city.id}>
+              <Link
+                href={city.path}
+                className="block h-full rounded-2xl border border-line bg-white p-5 no-underline transition-colors hover:border-green-deep/40 hover:bg-green-pale"
               >
-                {Array.from({ length: 7 }, (_, i) => (
-                  <li key={i}>
-                    <span
-                      className={`block h-2.5 w-2.5 rounded-full ${
-                        i < 5
-                          ? "bg-purple"
-                          : "border border-purple/35 bg-transparent"
-                      }`}
-                    />
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <ul className="mt-4 grid gap-1.5 text-sm text-ink">
-              {SCORE_FACTORS.map((factor) => (
-                <li key={factor.id} className="flex items-baseline gap-2">
-                  <span
-                    className="mt-1 inline-block h-2.5 w-2.5 shrink-0 rounded-full bg-purple"
-                    aria-hidden
-                  />
-                  {factor.line}
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      <section className="border-b border-line bg-green-pale">
-        <dl className="mx-auto flex max-w-[1120px] flex-col gap-1 px-7 py-4 text-sm text-ink">
-          <div className="flex items-baseline gap-x-2">
-            <dt className="shrink-0 font-extrabold text-purple">main</dt>
-            <dd>Entrees and main dishes.</dd>
-          </div>
-          <div className="flex items-baseline gap-x-2">
-            <dt className="shrink-0 font-extrabold text-purple">plates</dt>
-            <dd>Sides, starters, desserts.</dd>
-          </div>
-          <div className="flex items-baseline gap-x-2">
-            <dt className="shrink-0 font-extrabold text-purple">
-              [] accommodation
-            </dt>
-            <dd>Restaurant will substitute.</dd>
-          </div>
-          <div className="flex items-center gap-x-2">
-            <dt className="flex shrink-0 items-center gap-1.5 font-extrabold text-purple">
-              [] <PhebeMark size={16} alt="" />
-            </dt>
-            <dd>Restaurant will cook off-menu.</dd>
-          </div>
-          <div className="flex items-center gap-x-2">
-            <dt className="flex shrink-0 items-center gap-1.5 font-extrabold text-purple">
-              <EyeglassesMark size={16} />
-            </dt>
-            <dd>View menu.</dd>
-          </div>
-          <div className="flex items-center gap-x-2">
-            <dt className="flex shrink-0 items-center gap-1.5 font-extrabold text-purple">
-              <HeartMark size={16} />
-            </dt>
-            <dd>Add to Phebe favorites.</dd>
-          </div>
-        </dl>
-      </section>
-
-      <section className="mx-auto max-w-[1120px] px-7 py-10">
-        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {cards.map(({ restaurant: r, score }) => (
-            <li key={r.slug}>
-              <article className="relative h-full rounded-2xl border border-line bg-white p-5 transition-colors hover:border-green-deep/40 hover:bg-green-pale">
-                <Link
-                  href={`/r/${r.slug}`}
-                  className="absolute inset-0 z-0 rounded-2xl"
-                  aria-label={r.name}
-                />
-                <div className="pointer-events-none relative z-10">
-                  <div className="flex items-start justify-between gap-3">
-                    <h2 className="text-xl font-extrabold text-purple">
-                      {r.name}
-                    </h2>
-                    <span className="pointer-events-auto shrink-0">
-                      <FavoriteHeart label={r.name} />
-                    </span>
-                  </div>
-                  <div className="mt-2">
-                    <ScoreDots score={score} size="sm" />
-                  </div>
-                  {reviewSummaries.has(r.slug) ? (
-                    <div className="mt-2">
-                      <ReviewStars
-                        average={reviewSummaries.get(r.slug)!.average}
-                        count={reviewSummaries.get(r.slug)!.count}
-                      />
-                    </div>
-                  ) : null}
-                  {r.blurb ? (
-                    <p className="mt-2 text-sm text-ink-soft">{r.blurb}</p>
-                  ) : null}
-                  <ScoreLines score={score} menuUrl={r.menu_urls?.[0]} />
-                </div>
-              </article>
+                <h3 className="text-2xl font-extrabold text-purple">
+                  {city.name}
+                </h3>
+                <p className="mt-2 text-sm text-ink-soft">{city.feature}</p>
+              </Link>
             </li>
           ))}
         </ul>
       </section>
-      <p className="mt-10 text-xs leading-relaxed text-ink/60">{AWARD_DISCLAIMER}</p>
     </main>
   );
 }

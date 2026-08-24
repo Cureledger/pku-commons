@@ -12,7 +12,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Phebe Eats",
-  description: "Eating low-pro in Asheville.",
+  description: "Eating out around the world with PKU.",
   icons: {
     icon: "/images/favicon.svg",
   },
@@ -27,7 +27,7 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <body className={inter.className}>
         <header className="sticky top-0 z-40 border-b border-green-deep/20 bg-green-pale">
-          <div className="mx-auto flex max-w-[1120px] items-center justify-between px-7 py-4">
+          <div className="mx-auto flex max-w-[1120px] items-center px-7 py-4">
             <Link href="/" className="flex items-center gap-2.5 no-underline">
               <Image
                 src="/images/phebe-logo-transparent.png"
