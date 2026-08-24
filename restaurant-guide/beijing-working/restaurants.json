@@ -1,0 +1,3245 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "beijing-cn",
+ "restaurant_count": 83,
+ "restaurants": [
+  {
+   "restaurant_id": "beijing-cn/chao-shang-chao-chaoyang",
+   "city_id": "beijing-cn",
+   "slug": "chao-shang-chao-chaoyang",
+   "name": "Chao Shang Chao (Chaoyang)",
+   "website": "",
+   "address": "L406B, 4F, CP Center, 20 Jinhe East Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chao-shang-chao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chao-shang-chao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/xin-rong-ji-xinyuan-south-road",
+   "city_id": "beijing-cn",
+   "slug": "xin-rong-ji-xinyuan-south-road",
+   "name": "Xin Rong Ji (Xinyuan South Road)",
+   "website": "",
+   "address": "1F, East Tower, Genesis Beijing, 8 Xinyuan South Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-xinyuan-south-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-xinyuan-south-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/jingji",
+   "city_id": "beijing-cn",
+   "slug": "jingji",
+   "name": "Jingji",
+   "website": "",
+   "address": "2F, The Ritz-Carlton Hotel, 83A Jianguo Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jingji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jingji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/lamdre",
+   "city_id": "beijing-cn",
+   "slug": "lamdre",
+   "name": "Lamdre",
+   "website": "",
+   "address": "Room 04, 1F, Block 14, Courtyard 4, Gongti North Road, Chaoyang, Beijing, 100000, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lamdre"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lamdre",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/lu-shang-lu",
+   "city_id": "beijing-cn",
+   "slug": "lu-shang-lu",
+   "name": "Lu Shang Lu",
+   "website": "",
+   "address": "2A01-2A03 / 2A05-2A13, 2F, Sunshine Financial Center, No.1 Tower, 33 Jinghui Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lu-shang-lu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lu-shang-lu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shandong",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/shanghai-cuisine",
+   "city_id": "beijing-cn",
+   "slug": "shanghai-cuisine",
+   "name": "Shanghai Cuisine",
+   "website": "",
+   "address": "South side of Pacific Century Place, 2A Gongrentiyuchang North Road, Chaoyang, Beijing, 100027, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/shanghai-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/shanghai-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/chao-shang-chao-xicheng",
+   "city_id": "beijing-cn",
+   "slug": "chao-shang-chao-xicheng",
+   "name": "Chao Shang Chao (Xicheng)",
+   "website": "",
+   "address": "Basement Level, Winland IFC, 7 Jinrong Street, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chao-shang-chao-xicheng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chao-shang-chao-xicheng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/huaiyang-fu-dongcheng",
+   "city_id": "beijing-cn",
+   "slug": "huaiyang-fu-dongcheng",
+   "name": "Huaiyang Fu (Dongcheng)",
+   "website": "",
+   "address": "198 Andingmenwai Street, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/huaiyang-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/huaiyang-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Huaiyang",
+   "price_tier": "¥¥"
+  },
+  {
+   "restaurant_id": "beijing-cn/lu-style-anding-road",
+   "city_id": "beijing-cn",
+   "slug": "lu-style-anding-road",
+   "name": "Lu Style (Anding Road)",
+   "website": "",
+   "address": "5F, Uni Elite, Building 6, Courtyard 5, Anding Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lu-style"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lu-style",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shandong",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/mo-jasmine",
+   "city_id": "beijing-cn",
+   "slug": "mo-jasmine",
+   "name": "MO Jasmine",
+   "website": "",
+   "address": "L307, 3F, CP Center, 20 Jinhe East Road, Chaoyang, Beijing, 100020, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mo-jasmine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mo-jasmine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/mansion-cuisine-by-jingyan",
+   "city_id": "beijing-cn",
+   "slug": "mansion-cuisine-by-jingyan",
+   "name": "Mansion Cuisine by Jingyan",
+   "website": "",
+   "address": "22 Jianchang Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mansion-cuisine-by-jingyan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mansion-cuisine-by-jingyan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/poetrywine-dongsanhuan-middle-road",
+   "city_id": "beijing-cn",
+   "slug": "poetrywine-dongsanhuan-middle-road",
+   "name": "Poetry‧Wine (Dongsanhuan Middle Road)",
+   "website": "",
+   "address": "61 Dongsanhuan Middle Road, Chaoyang, Beijing, 10020, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/poetry%E2%80%A7wine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/poetry%E2%80%A7wine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/rong-pao",
+   "city_id": "beijing-cn",
+   "slug": "rong-pao",
+   "name": "Rong Pao",
+   "website": "",
+   "address": "2F, The Ritz-Carlton Hotel, 83A Jianguo Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/rong-pao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/rong-pao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/sheng-yong-xing-chaoyang",
+   "city_id": "beijing-cn",
+   "slug": "sheng-yong-xing-chaoyang",
+   "name": "Sheng Yong Xing (Chaoyang)",
+   "website": "",
+   "address": "5 Xindong Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/sheng-yong-xing-chaoyang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/sheng-yong-xing-chaoyang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/the-beijing-kitchen-jianguo-road",
+   "city_id": "beijing-cn",
+   "slug": "the-beijing-kitchen-jianguo-road",
+   "name": "The Beijing Kitchen (Jianguo Road)",
+   "website": "",
+   "address": "D6007, 6F, SKP Beijing, 87 Jianguo Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/the-beijing-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/the-beijing-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/the-georg",
+   "city_id": "beijing-cn",
+   "slug": "the-georg",
+   "name": "The Georg",
+   "website": "",
+   "address": "95 Donghuamen Street, Dongcheng, Beijing, 100006, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/the-georg"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/the-georg",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/xin-rong-ji-jianguomenwai-street",
+   "city_id": "beijing-cn",
+   "slug": "xin-rong-ji-jianguomenwai-street",
+   "name": "Xin Rong Ji (Jianguomenwai Street)",
+   "website": "",
+   "address": "5F, Tower A, Yintai Centre, 2 Jianguomenwai Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-jianguomenwai-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-jianguomenwai-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/xin-rong-ji-jinrong-street",
+   "city_id": "beijing-cn",
+   "slug": "xin-rong-ji-jinrong-street",
+   "name": "Xin Rong Ji (Jinrong Street)",
+   "website": "",
+   "address": "B1 Level, International Finance Centre, 11 Jinrong Street, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-jinrong-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-jinrong-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/zhiguan-courtyard",
+   "city_id": "beijing-cn",
+   "slug": "zhiguan-courtyard",
+   "name": "Zhiguan Courtyard",
+   "website": "",
+   "address": "12 Jinyu Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zhiguan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zhiguan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dongbei",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/bao-bao-hao",
+   "city_id": "beijing-cn",
+   "slug": "bao-bao-hao",
+   "name": "Bao Bao Hao",
+   "website": "",
+   "address": "Building 12A, Chaoyangmen North Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-bao-hao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-bao-hao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/bao-du-jin-sheng-long-dongcheng",
+   "city_id": "beijing-cn",
+   "slug": "bao-du-jin-sheng-long-dongcheng",
+   "name": "Bao Du Jin Sheng Long (Dongcheng)",
+   "website": "",
+   "address": "13 Hepingli East Street, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-du-jin-sheng-long"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-du-jin-sheng-long",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hotpot",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/bao-yuan",
+   "city_id": "beijing-cn",
+   "slug": "bao-yuan",
+   "name": "Bao Yuan",
+   "website": "",
+   "address": "North side of Building 6, Maizidian Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dumplings",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/fujian-cuisine-dongsanhuan-north-road",
+   "city_id": "beijing-cn",
+   "slug": "fujian-cuisine-dongsanhuan-north-road",
+   "name": "Fujian Cuisine (Dongsanhuan North Road)",
+   "website": "",
+   "address": "110-111, Kaidexingmao, 26A Dongsanhuan North Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fujian-cuisine-dongsanhuan-north-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fujian-cuisine-dongsanhuan-north-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fujian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/hong-fan-qie-yuyuantan-south-road",
+   "city_id": "beijing-cn",
+   "slug": "hong-fan-qie-yuyuantan-south-road",
+   "name": "Hong Fan Qie (Yuyuantan South Road)",
+   "website": "",
+   "address": "36 Cui Wei South Lane, Yuyuantan South Road, Haidian, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hong-fan-qie-yuyuantan-south-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hong-fan-qie-yuyuantan-south-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hubei",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/hua-sheng-feng-dongsanhuan-south-road",
+   "city_id": "beijing-cn",
+   "slug": "hua-sheng-feng-dongsanhuan-south-road",
+   "name": "Hua Sheng Feng (Dongsanhuan South Road)",
+   "website": "",
+   "address": "13-3 Dongsanhuan South Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hua-sheng-feng-dongsanhuan-south-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hua-sheng-feng-dongsanhuan-south-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Zhejiang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/jing-hua-lou",
+   "city_id": "beijing-cn",
+   "slug": "jing-hua-lou",
+   "name": "Jing Hua Lou",
+   "website": "",
+   "address": "No. 202, 2F, Building 111, Huizhong North Lane, Datun North Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jing-hua-lou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jing-hua-lou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/jingyi-liulichang-east-street",
+   "city_id": "beijing-cn",
+   "slug": "jingyi-liulichang-east-street",
+   "name": "Jingyi (Liulichang East Street)",
+   "website": "",
+   "address": "2 Liulichang East Street, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jingyi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jingyi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hubei",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/ladychai",
+   "city_id": "beijing-cn",
+   "slug": "ladychai",
+   "name": "Ladychai",
+   "website": "",
+   "address": "1F, Building 21, Ganjiakou Residence, Ganjiakou North Street, Haidian, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/ladychal-haidian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/ladychal-haidian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/lao-chuan-ban",
+   "city_id": "beijing-cn",
+   "slug": "lao-chuan-ban",
+   "name": "Lao Chuan Ban",
+   "website": "",
+   "address": "5 Gongyuan 1st Alley, Dongzongbu Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lao-chuan-ban"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lao-chuan-ban",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/liu-ma-ma-dumplings-chaoyang",
+   "city_id": "beijing-cn",
+   "slug": "liu-ma-ma-dumplings-chaoyang",
+   "name": "Liu Ma Ma Dumplings (Chaoyang)",
+   "website": "",
+   "address": "Buidling 3818, 798 Art District, 2 Jiuxianqiao Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/liu-ma-ma-dumplings-chaoyang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/liu-ma-ma-dumplings-chaoyang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dumplings",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/mingyuan-restaurant",
+   "city_id": "beijing-cn",
+   "slug": "mingyuan-restaurant",
+   "name": "Mingyuan Restaurant",
+   "website": "",
+   "address": "21 Beizongbu Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mingyuan-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mingyuan-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/my-soup",
+   "city_id": "beijing-cn",
+   "slug": "my-soup",
+   "name": "My Soup",
+   "website": "",
+   "address": "Unit W104, 1F, West Tower, World Financial Centre, 1 Dongsanhuan Middle Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/my-soup"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/my-soup",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/niujie-halal-man-heng-ji",
+   "city_id": "beijing-cn",
+   "slug": "niujie-halal-man-heng-ji",
+   "name": "Niujie Halal Man Heng Ji",
+   "website": "",
+   "address": "14 Ping'anli West Street, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/niujie-halal-man-heng-ji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/niujie-halal-man-heng-ji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hotpot",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/no-69-fangzhuanchang-zhajiangmian-fangzhuanchang-hutong",
+   "city_id": "beijing-cn",
+   "slug": "no-69-fangzhuanchang-zhajiangmian-fangzhuanchang-hutong",
+   "name": "No. 69 Fangzhuanchang Zhajiangmian (Fangzhuanchang Hutong)",
+   "website": "",
+   "address": "1 Fangzhuanchang Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/no-69-fangzhuanchang-zhajiangmian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/no-69-fangzhuanchang-zhajiangmian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/pang-mei-noodles-xianger-hutong",
+   "city_id": "beijing-cn",
+   "slug": "pang-mei-noodles-xianger-hutong",
+   "name": "Pang Mei Noodles (Xiang'er Hutong)",
+   "website": "",
+   "address": "Xiang'er Hutong, 69 Dongsi North Street, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/pang-mei-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/pang-mei-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/qiantang-garden-shuangyushu-north-road",
+   "city_id": "beijing-cn",
+   "slug": "qiantang-garden-shuangyushu-north-road",
+   "name": "Qiantang Garden (Shuangyushu North Road)",
+   "website": "",
+   "address": "59 Shuangyushu North Road, Haidian, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qiantang-garden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qiantang-garden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ningbo",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/rong-cuisine-baiziwan-south-er-road",
+   "city_id": "beijing-cn",
+   "slug": "rong-cuisine-baiziwan-south-er-road",
+   "name": "Rong Cuisine (Baiziwan South Er Road)",
+   "website": "",
+   "address": "77 Baiziwan South Er Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/rong-cuisine-baiziwan-south-er-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/rong-cuisine-baiziwan-south-er-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/tan",
+   "city_id": "beijing-cn",
+   "slug": "tan",
+   "name": "Tan",
+   "website": "",
+   "address": "Building E1, Langyuan Station, 53 Banjieta Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tan-1218718"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tan-1218718",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/tong-he-ju-yuetan-south-street",
+   "city_id": "beijing-cn",
+   "slug": "tong-he-ju-yuetan-south-street",
+   "name": "Tong He Ju (Yuetan South Street)",
+   "website": "",
+   "address": "71A Yuetan South Street, Sanlihe, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tong-he-ju-yuetan-south-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tong-he-ju-yuetan-south-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shandong",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/xiang-bin-xuan-huayuan-road",
+   "city_id": "beijing-cn",
+   "slug": "xiang-bin-xuan-huayuan-road",
+   "name": "Xiang Bin Xuan (Huayuan Road)",
+   "website": "",
+   "address": "2 Huayuan Road, Haidian, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-bin-xuan-huayuan-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-bin-xuan-huayuan-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/xiang-lin-tian-xia",
+   "city_id": "beijing-cn",
+   "slug": "xiang-lin-tian-xia",
+   "name": "Xiang Lin Tian Xia",
+   "website": "",
+   "address": "2F, Podium, AVIC Building, 128 Jianguo Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-lin-tian-xia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-lin-tian-xia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/yibin",
+   "city_id": "beijing-cn",
+   "slug": "yibin",
+   "name": "Yibin",
+   "website": "",
+   "address": "28 Xizhong Hutong, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yibin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yibin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/yu-hua-tai-xicheng",
+   "city_id": "beijing-cn",
+   "slug": "yu-hua-tai-xicheng",
+   "name": "Yu Hua Tai (Xicheng)",
+   "website": "",
+   "address": "Building 23, Yuzhongxili Residence, Yumin Road, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yu-hua-tai-xicheng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yu-hua-tai-xicheng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Huaiyang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/zhong",
+   "city_id": "beijing-cn",
+   "slug": "zhong",
+   "name": "Zhong",
+   "website": "",
+   "address": "37 Gulou West Street, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zhong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zhong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Huaiyang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/bad-ass-lamb-hot-pot-maizidian-west-street",
+   "city_id": "beijing-cn",
+   "slug": "bad-ass-lamb-hot-pot-maizidian-west-street",
+   "name": "Bad Ass Lamb Hot Pot (Maizidian West Street)",
+   "website": "",
+   "address": "39 Maizidian West Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bad-ass-lamb-hot-pot-maizidian-west-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bad-ass-lamb-hot-pot-maizidian-west-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hotpot",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/baiweiyuan-dumpling-tuanjiehu-road",
+   "city_id": "beijing-cn",
+   "slug": "baiweiyuan-dumpling-tuanjiehu-road",
+   "name": "Baiweiyuan Dumpling (Tuanjiehu Road)",
+   "website": "",
+   "address": "52 Tuanjiehu Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/baiweiyuan-dumpling"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/baiweiyuan-dumpling",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dumplings",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/beef-dumplings-chaoyang",
+   "city_id": "beijing-cn",
+   "slug": "beef-dumplings-chaoyang",
+   "name": "Beef & Dumplings (Chaoyang)",
+   "website": "",
+   "address": "5 Shunyuan Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/beef-dumplings"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/beef-dumplings",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dumplings",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/bistro-strong-chaoyanggongyuan-road",
+   "city_id": "beijing-cn",
+   "slug": "bistro-strong-chaoyanggongyuan-road",
+   "name": "Bistro Strong (Chaoyanggongyuan Road)",
+   "website": "",
+   "address": "M175, SOLANA, 6 Chaoyanggongyuan Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bistro-strong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bistro-strong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/everlasting-happiness",
+   "city_id": "beijing-cn",
+   "slug": "everlasting-happiness",
+   "name": "Everlasting Happiness",
+   "website": "",
+   "address": "F101-111, No.39 Capital Xindadu, 21 Chegongzhuang Street, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/everlasting-happiness"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/everlasting-happiness",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/fortune-long-beijing-bean-sauce-noodles-east-xinglong-street",
+   "city_id": "beijing-cn",
+   "slug": "fortune-long-beijing-bean-sauce-noodles-east-xinglong-street",
+   "name": "Fortune Long Beijing Bean Sauce Noodles (East Xinglong Street)",
+   "website": "",
+   "address": "56 East Xinglong Street, Dongcheng, Beijing, 100062, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fortune-long-beijing-bean-sauce-noodles-east-xinglong-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fortune-long-beijing-bean-sauce-noodles-east-xinglong-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/fu-man-yuan-xinyuanli",
+   "city_id": "beijing-cn",
+   "slug": "fu-man-yuan-xinyuanli",
+   "name": "Fu Man Yuan (Xinyuanli)",
+   "website": "",
+   "address": "No. 102, 1F, Block 2, Kunsha Center, 16 Xinyuanli, Xindong Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fu-man-yuan-xinyuanli"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fu-man-yuan-xinyuanli",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/fujian-restaurant",
+   "city_id": "beijing-cn",
+   "slug": "fujian-restaurant",
+   "name": "Fujian Restaurant",
+   "website": "",
+   "address": "6F, Xiamenair Jianianhua Hotel, 16 Lize Road, Fengtai, Beijing, 100073, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fujian-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fujian-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fujian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/hong-0871",
+   "city_id": "beijing-cn",
+   "slug": "hong-0871",
+   "name": "Hong 0871",
+   "website": "",
+   "address": "Building 6, E9 Zone Innovation Works, Shuangshu North Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hong-0871-1203720"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hong-0871-1203720",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yunnanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/huai-xiang-guo-se",
+   "city_id": "beijing-cn",
+   "slug": "huai-xiang-guo-se",
+   "name": "Huai Xiang Guo Se",
+   "website": "",
+   "address": "L311-L312, 3F, CP Center, 20 Jinhe East Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/huai-xiang-guo-se"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/huai-xiang-guo-se",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Huaiyang",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/heritage-east",
+   "city_id": "beijing-cn",
+   "slug": "heritage-east",
+   "name": "Héritage East",
+   "website": "",
+   "address": "1F, Block 66, 1 Zhongguancun South Street, Haidian, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/heritage-east"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/heritage-east",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/in-love-gongti-east-road",
+   "city_id": "beijing-cn",
+   "slug": "in-love-gongti-east-road",
+   "name": "In Love (Gongti East Road)",
+   "website": "",
+   "address": "Next to East 2 Gate, Workers' Sports Complex, Gongrentiyuchang East Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/in-love-gongti-east-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/in-love-gongti-east-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/ji-chuan",
+   "city_id": "beijing-cn",
+   "slug": "ji-chuan",
+   "name": "Ji Chuan",
+   "website": "",
+   "address": "1F, Atour Hotel, 2A West Dawang Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/ji-chuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/ji-chuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/jin-cai-xuan",
+   "city_id": "beijing-cn",
+   "slug": "jin-cai-xuan",
+   "name": "Jin Cai Xuan",
+   "website": "",
+   "address": "4F, Sanxing Tower, 31 Jinghui Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/exquisite-bocuse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/exquisite-bocuse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/l-bodhi-guanghua-road",
+   "city_id": "beijing-cn",
+   "slug": "l-bodhi-guanghua-road",
+   "name": "L. Bodhi (Guanghua Road)",
+   "website": "",
+   "address": "No. 202, Building F, Sunshine 100 International Department, 2 Guanghua Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/l-bodhi-guanghua-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/l-bodhi-guanghua-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/la-roba",
+   "city_id": "beijing-cn",
+   "slug": "la-roba",
+   "name": "La Roba",
+   "website": "",
+   "address": "Building 7, Zaojun West Lane, Zaojunmiao Road, Haidian, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/la-roba"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/la-roba",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yunnanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/les-morilles",
+   "city_id": "beijing-cn",
+   "slug": "les-morilles",
+   "name": "Les Morilles",
+   "website": "",
+   "address": "1F, Sunflower Tower, 37 Maizidian Street, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/les-morilles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/les-morilles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/qian-li",
+   "city_id": "beijing-cn",
+   "slug": "qian-li",
+   "name": "Qian Li",
+   "website": "",
+   "address": "D5202, 5F, SKP Beijing, 87 Jianguo Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qian-li"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qian-li",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/qiao-dong-bei-dongcheng",
+   "city_id": "beijing-cn",
+   "slug": "qiao-dong-bei-dongcheng",
+   "name": "Qiao Dong Bei (Dongcheng)",
+   "website": "",
+   "address": "No. 01-03, Office Tower C2, Podium, The Malls At Oriental Plaza, 1 East Chang'an Avenue, Dongcheng, Beijing, 100738, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qiao-dong-bei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qiao-dong-bei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dongbei",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/tong-chun-yuan",
+   "city_id": "beijing-cn",
+   "slug": "tong-chun-yuan",
+   "name": "Tong Chun Yuan",
+   "website": "",
+   "address": "Shiyue Building, 14A Xinjiekouwai Street, Xicheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tong-chun-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tong-chun-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/wolfgangs-steakhouse-gongrentiyuchang-north-road",
+   "city_id": "beijing-cn",
+   "slug": "wolfgangs-steakhouse-gongrentiyuchang-north-road",
+   "name": "Wolfgang's Steakhouse (Gongrentiyuchang North Road)",
+   "website": "",
+   "address": "1F, Space 8, Pacific Century Place, 2A Gongrentiyuchang North Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/wolfgang-s-steakhouse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/wolfgang-s-steakhouse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/xiang-shang-xiang-jinhe-east-road",
+   "city_id": "beijing-cn",
+   "slug": "xiang-shang-xiang-jinhe-east-road",
+   "name": "Xiang Shang Xiang (Jinhe East Road)",
+   "website": "",
+   "address": "L301A-L302A, 3F, CP Center, 20 Jinhe East Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-shang-xiang-jinhe-east-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-shang-xiang-jinhe-east-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/xin-ming-yuen",
+   "city_id": "beijing-cn",
+   "slug": "xin-ming-yuen",
+   "name": "Xin Ming Yuen",
+   "website": "",
+   "address": "Unit L1-12, 1F, Tower C, Parkview Green Fangcaodi, 9 Dongdaqiao Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-ming-yuen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-ming-yuen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/yu-de-fu-dongzhimennei-street",
+   "city_id": "beijing-cn",
+   "slug": "yu-de-fu-dongzhimennei-street",
+   "name": "Yu De Fu (Dongzhimennei Street)",
+   "website": "",
+   "address": "264 Dongzhimennei Street, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yu-de-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yu-de-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hotpot",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/yue-jie-qi-yang-road",
+   "city_id": "beijing-cn",
+   "slug": "yue-jie-qi-yang-road",
+   "name": "Yue Jie (Qi Yang Road)",
+   "website": "",
+   "address": "Shop 204, 2F, Radiance Edifice, 2 Qiyang Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yue-jie-qi-yang-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yue-jie-qi-yang-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/blackswan",
+   "city_id": "beijing-cn",
+   "slug": "blackswan",
+   "name": "Blackswan",
+   "website": "https://www.restaurantblackswan.com",
+   "address": "1F, Luohong Art Museum, 89 Capital Airport Road, Shunyi, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/blackswan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/blackswan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/gastro-esthetics-dadong",
+   "city_id": "beijing-cn",
+   "slug": "gastro-esthetics-dadong",
+   "name": "Gastro Esthetics DaDong",
+   "website": "https://www.dadongdadong.com",
+   "address": "1-2F, Nanxincang Business Tower, 22A Dongsi 10th Alley, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/gastro-esthetics-dadong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/gastro-esthetics-dadong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/jing",
+   "city_id": "beijing-cn",
+   "slug": "jing",
+   "name": "Jing",
+   "website": "https://www.peninsula.com/en/beijing/hotel-fine-dining/jing-western-restaurant",
+   "address": "B1 Level, The Peninsula Hotel, 8 Jinyu Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jing"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jing",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/zijin-mansion",
+   "city_id": "beijing-cn",
+   "slug": "zijin-mansion",
+   "name": "Zijin Mansion",
+   "website": "https://www.hilton.com/en/hotels/bjswawa-waldorf-astoria-beijing/dining/zijin-mansion/",
+   "address": "3F, Waldorf Astoria Hotel, 5-15 Jinyu Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zijin-mansion"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zijin-mansion",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/tianchumiaoxiang-vegetarian-chaoyang",
+   "city_id": "beijing-cn",
+   "slug": "tianchumiaoxiang-vegetarian-chaoyang",
+   "name": "Tianchumiaoxiang Vegetarian (Chaoyang)",
+   "website": "https://liaofan.com",
+   "address": "0260, 2F, Building D, CHAOWAI SOHO, 6 Chaowai Street, Chaoyang, Beijing, 100020, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tianchumiaoxiang-vegetarian-chaoyang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tianchumiaoxiang-vegetarian-chaoyang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "beijing-cn/amico-bj",
+   "city_id": "beijing-cn",
+   "slug": "amico-bj",
+   "name": "Amico BJ",
+   "website": "https://amicobj-restaurant.com",
+   "address": "Shop 109, 1F, Pacific Century Place, 2A Gongrentiyuchang North Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/amico-bj"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/amico-bj",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/brasserie-1893",
+   "city_id": "beijing-cn",
+   "slug": "brasserie-1893",
+   "name": "Brasserie 1893",
+   "website": "https://www.hilton.com/en/hotels/bjswawa-waldorf-astoria-beijing/dining/brasserie-1893/",
+   "address": "1F, Waldorf Astoria Hotel, 5-15 Jinyu Hutong, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/brasserie-1893"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/brasserie-1893",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/char-south-sanlitun-road",
+   "city_id": "beijing-cn",
+   "slug": "char-south-sanlitun-road",
+   "name": "Char (South Sanlitun Road)",
+   "website": "https://www.ihg.com/intercontinental/hotels/gb/en/beijing/peghe/hoteldetail/dining",
+   "address": "3F, InterContinental Sanlitun Hotel, Topwin Mall, 1 South Sanlitun Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/char-south-sanlitun-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/char-south-sanlitun-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/chef-1996",
+   "city_id": "beijing-cn",
+   "slug": "chef-1996",
+   "name": "Chef 1996",
+   "website": "https://www.chef1996.com",
+   "address": "4A Jiangtaiwa, Xinghuo East Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chef-1996"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chef-1996",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/la-chansonniere",
+   "city_id": "beijing-cn",
+   "slug": "la-chansonniere",
+   "name": "La Chansonnière",
+   "website": "https://lachansonniere.com",
+   "address": "Room B-103, 1F, Iiig Work, Courtyard 2, Jiangtai West Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/la-chansonniere"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/la-chansonniere",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/maison-flo",
+   "city_id": "beijing-cn",
+   "slug": "maison-flo",
+   "name": "Maison Flo",
+   "website": "https://www.flo.cn/en",
+   "address": "18 Xiaoyun Road, Chaoyang, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/maison-flo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/maison-flo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/meng-du-hui",
+   "city_id": "beijing-cn",
+   "slug": "meng-du-hui",
+   "name": "Meng Du Hui",
+   "website": "https://www.mengdugroup.com",
+   "address": "Block B, Wan Shou Hotel, 12A Wanshou Road, Haidian, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/meng-du-hui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/meng-du-hui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hui Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/qu-lang-yuan",
+   "city_id": "beijing-cn",
+   "slug": "qu-lang-yuan",
+   "name": "Qu Lang Yuan",
+   "website": "https://www.qulangyuan.cn",
+   "address": "25 Dongsi 11th Alley, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/curvy-corridor-courtyard"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/curvy-corridor-courtyard",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "beijing-cn/yan-garden-by-chef-fei",
+   "city_id": "beijing-cn",
+   "slug": "yan-garden-by-chef-fei",
+   "name": "Yan Garden by Chef Fei",
+   "website": "https://www.mandarinoriental.com/en/beijing/qianmen/dine/yan-garden-by-chef-fei",
+   "address": "No. 12, Caochang 9th Alley, Dongcheng, Beijing, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yan-garden-by-chef-fei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yan-garden-by-chef-fei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$$"
+  }
+ ]
+}

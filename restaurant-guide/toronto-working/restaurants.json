@@ -1,0 +1,754 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "toronto-ca",
+ "restaurant_count": 19,
+ "restaurants": [
+  {
+   "restaurant_id": "toronto-ca/mhel",
+   "city_id": "toronto-ca",
+   "slug": "mhel",
+   "name": "Mhel",
+   "website": "",
+   "address": "276 Havelock St., Toronto, M6H 3B9, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/mhel"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/mhel",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/the-wood-owl",
+   "city_id": "toronto-ca",
+   "slug": "the-wood-owl",
+   "name": "The Wood Owl",
+   "website": "",
+   "address": "1380 Danforth Ave., Toronto, M4J 1M9, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/the-wood-owl"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/the-wood-owl",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/kaiseki-yu-zen-hashimoto",
+   "city_id": "toronto-ca",
+   "slug": "kaiseki-yu-zen-hashimoto",
+   "name": "Kaiseki Yu-zen Hashimoto",
+   "website": "https://www.kaiseki.ca/",
+   "address": "6 Sakura Way, Toronto, M3C 1Z5, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/kaiseki-yu-zen-hashimoto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/kaiseki-yu-zen-hashimoto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/osteria-giulia",
+   "city_id": "toronto-ca",
+   "slug": "osteria-giulia",
+   "name": "Osteria Giulia",
+   "website": "https://osteriagiulia.ca/",
+   "address": "134 Avenue Rd., Toronto, M5R 2H6, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/osteria-giulia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/osteria-giulia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/restaurant-20-victoria",
+   "city_id": "toronto-ca",
+   "slug": "restaurant-20-victoria",
+   "name": "Restaurant 20 Victoria",
+   "website": "https://www.exploretock.com/restaurant20victoria",
+   "address": "20 Victoria St., Unit 100, Toronto, M5C 2N8, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/restaurant-20-victoria"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/restaurant-20-victoria",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/campechano",
+   "city_id": "toronto-ca",
+   "slug": "campechano",
+   "name": "Campechano",
+   "website": "https://www.campechano.ca/",
+   "address": "504 Adelaide St., Toronto, M5V 1T5, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/campechano"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/campechano",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/grey-gardens",
+   "city_id": "toronto-ca",
+   "slug": "grey-gardens",
+   "name": "Grey Gardens",
+   "website": "https://www.greygardens.ca/",
+   "address": "199 Augusta Ave., Toronto, M5T 2L4, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/grey-gardens"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/grey-gardens",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/puerto-bravo",
+   "city_id": "toronto-ca",
+   "slug": "puerto-bravo",
+   "name": "Puerto Bravo",
+   "website": "https://puertobravo.to",
+   "address": "1425 Gerrard St. E., Toronto, M4L 1Z7, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/puerto-bravo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/puerto-bravo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/sumilicious-smoked-meat-deli",
+   "city_id": "toronto-ca",
+   "slug": "sumilicious-smoked-meat-deli",
+   "name": "SumiLicious Smoked Meat & Deli",
+   "website": "https://sumilicious.ca/",
+   "address": "5631 Steeles Ave., #5, Toronto, M1V 5P6, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/sumilicious-smoked-meat-deli"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/sumilicious-smoked-meat-deli",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Deli",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "toronto-ca/white-lily-diner",
+   "city_id": "toronto-ca",
+   "slug": "white-lily-diner",
+   "name": "White Lily Diner",
+   "website": "https://whitelilydiner.ca/",
+   "address": "678 Queen St. E., Toronto, M4M 1G8, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/white-lily-diner"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/white-lily-diner"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/white-lily-diner",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "toronto-ca/actinolite",
+   "city_id": "toronto-ca",
+   "slug": "actinolite",
+   "name": "Actinolite",
+   "website": "https://www.actinoliterestaurant.com/",
+   "address": "971 Ossington Ave., Toronto, M6G 3V5, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/actinolite"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/actinolite",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/aloette",
+   "city_id": "toronto-ca",
+   "slug": "aloette",
+   "name": "Aloette",
+   "website": "https://aloetterestaurant.com/",
+   "address": "163 Spadina Ave., Toronto, M5V 2A5, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/aloette"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/aloette",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/antler",
+   "city_id": "toronto-ca",
+   "slug": "antler",
+   "name": "Antler",
+   "website": "https://www.antlerkitchenbar.com/",
+   "address": "1454 Dundas St. W., Toronto, M6J 1Y6, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/antler"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/antler",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/bar-vendetta",
+   "city_id": "toronto-ca",
+   "slug": "bar-vendetta",
+   "name": "Bar Vendetta",
+   "website": "https://www.barvendetta.com/",
+   "address": "928 Dundas St. W., Toronto, M6J 1W3, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/bar-vendetta"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/bar-vendetta",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/dreyfus",
+   "city_id": "toronto-ca",
+   "slug": "dreyfus",
+   "name": "Dreyfus",
+   "website": "https://www.dreyfustoronto.com/",
+   "address": "96 Harbord St., Toronto, M5S 1G6, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/dreyfus"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/dreyfus",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/famiglia-baldassarre",
+   "city_id": "toronto-ca",
+   "slug": "famiglia-baldassarre",
+   "name": "Famiglia Baldassarre",
+   "website": "https://famigliabaldassarre.com/",
+   "address": "122 Geary Ave., Toronto, M6H 4H1, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/famiglia-baldassarre"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/famiglia-baldassarre",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/musoshin-ramen",
+   "city_id": "toronto-ca",
+   "slug": "musoshin-ramen",
+   "name": "Musoshin Ramen",
+   "website": "https://www.musoshin.com/",
+   "address": "9 Boustead Ave., Toronto, M6R 1Y7, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/musoshin-ramen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/musoshin-ramen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "toronto-ca/okeya-kyujiro-toronto",
+   "city_id": "toronto-ca",
+   "slug": "okeya-kyujiro-toronto",
+   "name": "Okeya Kyujiro Toronto",
+   "website": "https://okeya.ca/home/",
+   "address": "26 Bellair St. #2F, Toronto, M5R 2C7, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/okeya-kyujiro-toronto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/okeya-kyujiro-toronto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "toronto-ca/viaggio",
+   "city_id": "toronto-ca",
+   "slug": "viaggio",
+   "name": "Viaggio",
+   "website": "https://viaggiorestaurant.ca/",
+   "address": "1727 Dundas St. W., Toronto, M6K 1V4, Canada",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ontario/toronto/restaurant/viaggio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ontario/toronto/restaurant/viaggio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  }
+ ]
+}

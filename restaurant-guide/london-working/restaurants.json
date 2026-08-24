@@ -1,0 +1,2192 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "london-gb",
+ "restaurant_count": 56,
+ "restaurants": [
+  {
+   "restaurant_id": "london-gb/madhus-southall",
+   "city_id": "london-gb",
+   "slug": "madhus-southall",
+   "name": "Madhu's Southall",
+   "website": "",
+   "address": "39 South Road, Ealing, London, UB1 1SW, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/madhu-s-southall"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/madhu-s-southall",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-ledbury",
+   "city_id": "london-gb",
+   "slug": "the-ledbury",
+   "name": "The Ledbury",
+   "website": "https://www.theledbury.com/",
+   "address": "127 Ledbury Road, Notting Hill, London, W11 2AQ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-ledbury"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-ledbury",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/brooklands-by-claude-bosi",
+   "city_id": "london-gb",
+   "slug": "brooklands-by-claude-bosi",
+   "name": "Brooklands by Claude Bosi",
+   "website": "https://www.peninsula.com/en/london/hotel-fine-dining/brooklands",
+   "address": "The Peninsula Hotel, 1 Grosvenor Place, Belgravia, London, SW1X 7HJ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/brooklands"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/brooklands",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/gymkhana",
+   "city_id": "london-gb",
+   "slug": "gymkhana",
+   "name": "Gymkhana",
+   "website": "https://gymkhanalondon.com",
+   "address": "42 Albemarle Street, Mayfair, London, W1S 4JH, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/gymkhana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/gymkhana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/humble-chicken",
+   "city_id": "london-gb",
+   "slug": "humble-chicken",
+   "name": "Humble Chicken",
+   "website": "https://www.humblechickenuk.com",
+   "address": "54 Frith Street, Soho, London, W1D 4SL, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/humble-chicken"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/humble-chicken",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/trivet",
+   "city_id": "london-gb",
+   "slug": "trivet",
+   "name": "Trivet",
+   "website": "https://trivetrestaurant.co.uk",
+   "address": "36 Snowsfields, Southwark, London, SE1 3SU, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/trivet"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/trivet",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/brat",
+   "city_id": "london-gb",
+   "slug": "brat",
+   "name": "Brat",
+   "website": "https://bratrestaurant.co.uk",
+   "address": "4 Redchurch Street, Shoreditch, London, E1 6JL, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/brat"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/brat",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional British",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/casa-fofo",
+   "city_id": "london-gb",
+   "slug": "casa-fofo",
+   "name": "Casa Fofō",
+   "website": "https://www.casafofolondon.co.uk",
+   "address": "158 Sandringham Road, Dalston, London, E8 2HS, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/casa-fofo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/casa-fofo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/chishuru",
+   "city_id": "london-gb",
+   "slug": "chishuru",
+   "name": "Chishuru",
+   "website": "https://www.chishuru.com",
+   "address": "3 Great Titchfield Street, Fitzrovia, London, W1W 8AX, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/chishuru"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/chishuru",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "African",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/corenucopia-by-clare-smyth",
+   "city_id": "london-gb",
+   "slug": "corenucopia-by-clare-smyth",
+   "name": "Corenucopia by Clare Smyth",
+   "website": "https://www.corenucopia.com/",
+   "address": "18-22 Holbein Place, Belgravia, London, SW1W 8NL, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/corenucopia-by-clare-smyth"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/corenucopia-by-clare-smyth",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional British",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/dining-room-at-the-goring",
+   "city_id": "london-gb",
+   "slug": "dining-room-at-the-goring",
+   "name": "Dining Room at The Goring",
+   "website": "https://www.thegoring.com",
+   "address": "15 Beeston Place, Belgravia, London, SW1W 0JW, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/dining-room-at-the-goring"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/dining-room-at-the-goring",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional British",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/dorian",
+   "city_id": "london-gb",
+   "slug": "dorian",
+   "name": "Dorian",
+   "website": "https://www.dorianrestaurant.com",
+   "address": "105 Talbot Road, Notting Hill, London, W11 2AT, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/dorian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/dorian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern British",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/evelyns-table",
+   "city_id": "london-gb",
+   "slug": "evelyns-table",
+   "name": "Evelyn's Table",
+   "website": "https://www.theblueposts.co.uk/evelyns-table/",
+   "address": "The Blue Posts, 28 Rupert Street, Soho, London, W1D 6DJ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/evelyn-s-table"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/evelyn-s-table",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/mauro-colagreco-at-raffles-london-at-the-owo",
+   "city_id": "london-gb",
+   "slug": "mauro-colagreco-at-raffles-london-at-the-owo",
+   "name": "Mauro Colagreco at Raffles London at The OWO",
+   "website": "https://www.raffles.com/london/dining/mauro-colagreco/",
+   "address": "Whitehall, London, SW1A 2BX, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/mauro-colagreco-at-raffles-london-at-the-owo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/mauro-colagreco-at-raffles-london-at-the-owo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/ormer-mayfair",
+   "city_id": "london-gb",
+   "slug": "ormer-mayfair",
+   "name": "Ormer Mayfair",
+   "website": "https://www.flemings-mayfair.co.uk/fine-dining-london/ormer-mayfair-restaurant",
+   "address": "Flemings Hotel, 7-12 Half Moon Street, Mayfair, London, W1J 7BH, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/ormer-mayfair"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/ormer-mayfair",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern British",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/quilon",
+   "city_id": "london-gb",
+   "slug": "quilon",
+   "name": "Quilon",
+   "website": "https://www.quilon.co.uk/",
+   "address": "Taj 51 Hotel, 41 Buckingham Gate, Westminster, London, SW1E 6AF, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/quilon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/quilon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/river-cafe",
+   "city_id": "london-gb",
+   "slug": "river-cafe",
+   "name": "River Café",
+   "website": "https://www.rivercafe.co.uk/",
+   "address": "Thames Wharf, Rainville Road, Hammersmith, London, W6 9HA, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/river-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/river-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-ninth",
+   "city_id": "london-gb",
+   "slug": "the-ninth",
+   "name": "The Ninth",
+   "website": "https://www.theninthlondon.com/",
+   "address": "22 Charlotte Street, Fitzrovia, London, W1T 2NB, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-ninth"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-ninth",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/tom-brown-at-the-capital",
+   "city_id": "london-gb",
+   "slug": "tom-brown-at-the-capital",
+   "name": "Tom Brown at The Capital",
+   "website": "https://www.tombrownatthecapital.com/",
+   "address": "22-24 Basil Street, Knightsbridge, London, SW3 1AT, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/tom-brown-at-the-capital"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/tom-brown-at-the-capital",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/bancone",
+   "city_id": "london-gb",
+   "slug": "bancone",
+   "name": "Bancone",
+   "website": "https://www.bancone.co.uk/",
+   "address": "39 William IV Street, Covent Garden, London, WC2N 4DD, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/bancone"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/bancone",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/berenjak",
+   "city_id": "london-gb",
+   "slug": "berenjak",
+   "name": "Berenjak",
+   "website": "https://berenjak.com",
+   "address": "27 Romilly Street, Soho, London, W1D 5AL, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/berenjak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/berenjak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Persian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/canteen",
+   "city_id": "london-gb",
+   "slug": "canteen",
+   "name": "Canteen",
+   "website": "https://www.canteen310.com",
+   "address": "310 Portobello Road, Notting Hill, London, W10 5TA, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/canteen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/canteen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/goodbye-horses",
+   "city_id": "london-gb",
+   "slug": "goodbye-horses",
+   "name": "Goodbye Horses",
+   "website": "https://www.goodbyehorses.london/",
+   "address": "21 Halliford Street, Islington, London, N1 3HB, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/goodbye-horses"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/goodbye-horses",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional British",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/lai-rai",
+   "city_id": "london-gb",
+   "slug": "lai-rai",
+   "name": "Lai Rai",
+   "website": "https://www.lairai.london/",
+   "address": "181 Rye Lane, Peckham, London, SE15 4TP, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/lai-rai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/lai-rai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/miga",
+   "city_id": "london-gb",
+   "slug": "miga",
+   "name": "Miga",
+   "website": "https://www.instagram.com/miga.restaurant/",
+   "address": "1 Mare Street, Hackney, London, E8 4RP, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/miga-1215552"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/miga-1215552",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/singburi",
+   "city_id": "london-gb",
+   "slug": "singburi",
+   "name": "Singburi",
+   "website": "https://singburi.london/",
+   "address": "Unit 7, Montacute Yards, 185‑186 Shoreditch High Street, London, E1 6HU, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/singburi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/singburi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-hero",
+   "city_id": "london-gb",
+   "slug": "the-hero",
+   "name": "The Hero",
+   "website": "https://theherow9.com/",
+   "address": "55 Shirland Road, Maida Vale, London, W9 2JD, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-hero"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-hero",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-pelican",
+   "city_id": "london-gb",
+   "slug": "the-pelican",
+   "name": "The Pelican",
+   "website": "https://thepelicanw11.com/",
+   "address": "45 All Saints Road, Notting Hill, London, W11 1HE, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-pelican"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-pelican",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/anchor-hope",
+   "city_id": "london-gb",
+   "slug": "anchor-hope",
+   "name": "Anchor & Hope",
+   "website": "https://www.anchorandhopepub.co.uk",
+   "address": "36 The Cut, Southwark, London, SE1 8LP, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/anchor-hope"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/anchor-hope",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "British Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/aragawa",
+   "city_id": "london-gb",
+   "slug": "aragawa",
+   "name": "Aragawa",
+   "website": "https://aragawa-uk.com/",
+   "address": "38 Clarges Street, Mayfair, London, W1J 7EN, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/aragawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/aragawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Steakhouse",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/bob-bob-ricard-city",
+   "city_id": "london-gb",
+   "slug": "bob-bob-ricard-city",
+   "name": "Bob Bob Ricard City",
+   "website": "https://bobbobricard.com/",
+   "address": "Level 3, 122 Leadenhall Street, City of London, London, EC3V 4AB, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/bob-bob-cite"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/bob-bob-cite",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/bob-bob-ricard-soho",
+   "city_id": "london-gb",
+   "slug": "bob-bob-ricard-soho",
+   "name": "Bob Bob Ricard Soho",
+   "website": "https://www.bobbobricard.com",
+   "address": "1-3 Upper James Street, Soho, London, W1F 9DF, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/bob-bob-ricard"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/bob-bob-ricard",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional British",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/cantinetta-antinori",
+   "city_id": "london-gb",
+   "slug": "cantinetta-antinori",
+   "name": "Cantinetta Antinori",
+   "website": "https://cantinetta-antinori.uk",
+   "address": "4 Harriet Street, Belgravia, London, SW1X 9JR, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/cantinetta-antinori-1209471"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/cantinetta-antinori-1209471",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/canton-blue",
+   "city_id": "london-gb",
+   "slug": "canton-blue",
+   "name": "Canton Blue",
+   "website": "https://www.peninsula.com/en/london/hotel-fine-dining/canton-blue",
+   "address": "The Peninsula, 1 Grosvenor Place, Belgravia, London, SW1X 7HJ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/canton-blue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/canton-blue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/cicoria",
+   "city_id": "london-gb",
+   "slug": "cicoria",
+   "name": "Cicoria",
+   "website": "https://www.rbo.org.uk/visit/eat-and-drink/cicoria#cicoria",
+   "address": "5th Floor, Royal Opera House, Bow Street, Covent Garden, London, WC2E 9DD, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/cicoria"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/cicoria",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/cometa",
+   "city_id": "london-gb",
+   "slug": "cometa",
+   "name": "Cometa",
+   "website": "https://cometa.restaurant",
+   "address": "21 Charlotte Street, Fitzrovia, London, W1T 1RW, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/cometa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/cometa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/himi",
+   "city_id": "london-gb",
+   "slug": "himi",
+   "name": "HIMI",
+   "website": "https://himi.uk/",
+   "address": "4 Newburgh Street, Soho, London, W1F 7RF, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/himi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/himi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/hakkasan-mayfair",
+   "city_id": "london-gb",
+   "slug": "hakkasan-mayfair",
+   "name": "Hakkasan Mayfair",
+   "website": "https://hakkasan.com",
+   "address": "17 Bruton Street, Mayfair, London, W1J 6QB, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/hakkasan-mayfair"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/hakkasan-mayfair",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/il-gattopardo",
+   "city_id": "london-gb",
+   "slug": "il-gattopardo",
+   "name": "Il Gattopardo",
+   "website": "https://gattopardo.restaurant/",
+   "address": "27 Albemarle Street, Mayfair, London, W1S 4HZ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/il-gatto-pardo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/il-gatto-pardo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/mayha",
+   "city_id": "london-gb",
+   "slug": "mayha",
+   "name": "Mayha",
+   "website": "https://mayhalondon.com",
+   "address": "43 Chiltern Street, Marylebone, London, W1U 6LS, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/mayha"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/mayha",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/naifs",
+   "city_id": "london-gb",
+   "slug": "naifs",
+   "name": "Naïfs",
+   "website": "https://www.naifs.co.uk",
+   "address": "56 Goldsmith Road, Peckham, London, SE15 5TN, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/naifs"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/naifs",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/paulette",
+   "city_id": "london-gb",
+   "slug": "paulette",
+   "name": "Paulette",
+   "website": "https://www.paulettelondon.com/",
+   "address": "18 Formosa Street, Little Venice, London, W9 1EE, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/paulette-1214770"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/paulette-1214770",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/planque",
+   "city_id": "london-gb",
+   "slug": "planque",
+   "name": "Planque",
+   "website": "https://planque.co.uk",
+   "address": "322-324 Acton Mews, Dalston, London, E8 4EA, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/planque"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/planque",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern British",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/rake-the-compton-arms",
+   "city_id": "london-gb",
+   "slug": "rake-the-compton-arms",
+   "name": "Rake @ the Compton Arms",
+   "website": "https://www.rakelondon.com/",
+   "address": "4 Compton Avenue, Islington, London, N1 2XD, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/rake-the-compton-arms"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/rake-the-compton-arms",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional British",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-cocochine",
+   "city_id": "london-gb",
+   "slug": "the-cocochine",
+   "name": "The Cocochine",
+   "website": "https://www.thecocochine.com/",
+   "address": "27 Bruton Place, Mayfair, London, W1J 6NQ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-cocochine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-cocochine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-french-house",
+   "city_id": "london-gb",
+   "slug": "the-french-house",
+   "name": "The French House",
+   "website": "https://www.frenchhousesoho.com",
+   "address": "49 Dean Street, Soho, London, W1D 5BG, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/french-house"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/french-house",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-grill-at-the-dorchester",
+   "city_id": "london-gb",
+   "slug": "the-grill-at-the-dorchester",
+   "name": "The Grill at The Dorchester",
+   "website": "https://www.dorchestercollection.com/london/the-dorchester/dining/the-grill-at-the-dorchester",
+   "address": "The Dorchester Hotel, 53 Park Lane, Mayfair, London, W1K 1QA, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-grill-193361"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-grill-193361",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "British Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-hart",
+   "city_id": "london-gb",
+   "slug": "the-hart",
+   "name": "The Hart",
+   "website": "https://www.thehartw1.com/",
+   "address": "56 Blandford Street, London, W1U 7JA, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-hart"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-hart",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern British",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-lanesborough-grill",
+   "city_id": "london-gb",
+   "slug": "the-lanesborough-grill",
+   "name": "The Lanesborough Grill",
+   "website": "https://www.oetkerhotels.com/hotels/the-lanesborough/restaurants-bars/the-lanesborough-grill/",
+   "address": "The Lanesborough Hotel, Hyde Park Corner, London, SW1X 7TA, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-lanesborough-grill"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-lanesborough-grill",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern British",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-sea-the-sea",
+   "city_id": "london-gb",
+   "slug": "the-sea-the-sea",
+   "name": "The Sea, The Sea",
+   "website": "https://www.theseathesea.net/",
+   "address": "243 Pavilion Road, Chelsea, London, SW1X 0PB, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/the-sea-the-sea"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/the-sea-the-sea",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/the-tamil-prince",
+   "city_id": "london-gb",
+   "slug": "the-tamil-prince",
+   "name": "The Tamil Prince",
+   "website": "https://www.thetamilprince.com",
+   "address": "115 Hemingford Road, Barnsbury, London, N1 1BZ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/tamil-prince"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/tamil-prince",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/through-the-woods",
+   "city_id": "london-gb",
+   "slug": "through-the-woods",
+   "name": "Through the Woods",
+   "website": "https://www.throughthewoods.london/",
+   "address": "212 Middle Lane, Crouch End, London, N8 7LA, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/through-the-woods"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/through-the-woods",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern British",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/toklas",
+   "city_id": "london-gb",
+   "slug": "toklas",
+   "name": "Toklas",
+   "website": "https://www.toklaslondon.com/",
+   "address": "1 Surrey Street, Strand, London, WC2R 2ND, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/toklas"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/toklas",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/wildflowers",
+   "city_id": "london-gb",
+   "slug": "wildflowers",
+   "name": "Wildflowers",
+   "website": "https://www.wildflowersrestaurant.co.uk",
+   "address": "57 Pimlico Road, Pimlico, London, SW1W 8NE, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/wildflowers"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/wildflowers",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "london-gb/yiqi",
+   "city_id": "london-gb",
+   "slug": "yiqi",
+   "name": "YiQi",
+   "website": "https://www.yiqipanasia.co.uk/",
+   "address": "14 Lisle Street, Chinatown, London, WC2H 7BE, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/yiqi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/yiqi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "london-gb/pahli-hill",
+   "city_id": "london-gb",
+   "slug": "pahli-hill",
+   "name": "pahli hill",
+   "website": "https://www.pahlihillbandrabhai.com",
+   "address": "70-81 Mortimer Street, Fitzrovia, London, W1W 7SJ, United Kingdom",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/greater-london/london/restaurant/pahli-hill"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/greater-london/london/restaurant/pahli-hill",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  }
+ ]
+}

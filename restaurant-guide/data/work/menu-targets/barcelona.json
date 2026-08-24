@@ -1,0 +1,1119 @@
+[
+  {
+    "name": "ABaC",
+    "slug": "abac",
+    "city_id": "barcelona-es",
+    "website": "https://abacrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Avenida del Tibidabo 1, Barcelona, 08022, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cocina Hermanos Torres",
+    "slug": "cocina-hermanos-torres",
+    "city_id": "barcelona-es",
+    "website": "https://www.cocinahermanostorres.com",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars",
+      "Green Star"
+    ],
+    "address": "Taquígraf Serra 20, Barcelona, 08029, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Disfrutar",
+    "slug": "disfrutar",
+    "city_id": "barcelona-es",
+    "website": "https://www.disfrutarbarcelona.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Villarroel 163, Barcelona, 08036, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lasarte",
+    "slug": "lasarte",
+    "city_id": "barcelona-es",
+    "website": "https://www.restaurantlasarte.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Mallorca 259, Barcelona, 08008, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Aleia",
+    "slug": "aleia",
+    "city_id": "barcelona-es",
+    "website": "https://www.aleiarestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Paseo de Gràcia 132, Barcelona, 08008, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cinc Sentits",
+    "slug": "cinc-sentits",
+    "city_id": "barcelona-es",
+    "website": "https://www.cincsentits.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Entença 60, Barcelona, 08015, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Enigma",
+    "slug": "enigma",
+    "city_id": "barcelona-es",
+    "website": "https://www.enigmaconcept.es/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Sepúlveda 38, Barcelona, 08015, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Enoteca Paco Pérez",
+    "slug": "enoteca-paco-perez",
+    "city_id": "barcelona-es",
+    "website": "https://enotecapacoperez.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Marina 19, Barcelona, 08005, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mont Bar",
+    "slug": "mont-bar",
+    "city_id": "barcelona-es",
+    "website": "https://www.montbar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Diputació 220, Barcelona, 08001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Alkimia",
+    "slug": "alkimia",
+    "city_id": "barcelona-es",
+    "website": "https://alkimia.cat/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ronda San Antoni 41 - Principal, Barcelona, 08011, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Angle",
+    "slug": "angle",
+    "city_id": "barcelona-es",
+    "website": "https://anglebarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Aragó 214, Barcelona, 08011, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Atempo",
+    "slug": "atempo",
+    "city_id": "barcelona-es",
+    "website": "https://atemporestaurant.com/es/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Còrsega 200, Barcelona, 08036, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "COME by Paco Méndez",
+    "slug": "come-by-paco-mendez",
+    "city_id": "barcelona-es",
+    "website": "https://come.com.es/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Avenida del Mistral 54, Barcelona, 08015, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Caelis",
+    "slug": "caelis",
+    "city_id": "barcelona-es",
+    "website": "https://www.caelis.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Via Laietana 49, Barcelona, 08003, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Dos Palillos",
+    "slug": "dos-palillos",
+    "city_id": "barcelona-es",
+    "website": "https://www.dospalillos.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Elisabets 9, Barcelona, 08001, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fishølogy",
+    "slug": "fishoelogy",
+    "city_id": "barcelona-es",
+    "website": "https://www.fishology.es",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Diputació 73, Barcelona, 08015, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hisop",
+    "slug": "hisop",
+    "city_id": "barcelona-es",
+    "website": "https://www.hisop.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Passatge de Marimon 9, Barcelona, 08021, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hofmann",
+    "slug": "hofmann",
+    "city_id": "barcelona-es",
+    "website": "https://www.hofmannrestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "La Granada del Penedès 14-16, Barcelona, 08006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kamikaze",
+    "slug": "kamikaze",
+    "city_id": "barcelona-es",
+    "website": "https://www.kamikazebarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Roselló 197, Barcelona, 08036, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Koy Shunka",
+    "slug": "koy-shunka",
+    "city_id": "barcelona-es",
+    "website": "https://www.koyshunka.com/KoyShunka/esp_home.html",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "De Copons 7, Barcelona, 08002, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "MAE Barcelona",
+    "slug": "mae-barcelona",
+    "city_id": "barcelona-es",
+    "website": "https://maebcn.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Sant Elíes 22, Barcelona, 08006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Moments",
+    "slug": "moments",
+    "city_id": "barcelona-es",
+    "website": "https://www.mandarinoriental.com/es-es/barcelona/passeig-de-gracia/dine/moments",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Passeig de Gràcia 38-40, Barcelona, 08007, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Prodigi",
+    "slug": "prodigi",
+    "city_id": "barcelona-es",
+    "website": "https://www.prodigi.cat",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Girona 145, Barcelona, 08037, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Quirat",
+    "slug": "quirat",
+    "city_id": "barcelona-es",
+    "website": "https://quiratrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Avenida de Rius I Taulet 1, Barcelona, 08004, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Slow & Low",
+    "slug": "slow-low",
+    "city_id": "barcelona-es",
+    "website": "https://www.slowandlowbcn.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Comte Borrell 119, Barcelona, 08015, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Via Veneto",
+    "slug": "via-veneto",
+    "city_id": "barcelona-es",
+    "website": "https://www.viavenetobarcelona.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ganduxer 10, Barcelona, 08021, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Avenir",
+    "slug": "avenir",
+    "city_id": "barcelona-es",
+    "website": "https://avenir.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Carrer de l'Avenir 72, Barcelona, 08021, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bacaro",
+    "slug": "bacaro",
+    "city_id": "barcelona-es",
+    "website": "https://www.bacarobarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Jerusalem 6, Barcelona, 08001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bardeni-Caldeni",
+    "slug": "bardeni-caldeni",
+    "city_id": "barcelona-es",
+    "website": "https://www.bardeni.es/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Valencia 454, Barcelona, 08013, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Berbena",
+    "slug": "berbena",
+    "city_id": "barcelona-es",
+    "website": "https://berbenabcn.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Minerva 6, Barcelona, 08006, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cruix",
+    "slug": "cruix",
+    "city_id": "barcelona-es",
+    "website": "https://www.cruixrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Entença 57, Barcelona, 08015, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Glug",
+    "slug": "glug",
+    "city_id": "barcelona-es",
+    "website": "https://www.glugbarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Viladomat 289, Barcelona, 08029, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Oníric",
+    "slug": "oniric",
+    "city_id": "barcelona-es",
+    "website": "https://oniricrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rabassa 37, Barcelona, 08024, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Saó",
+    "slug": "sao",
+    "city_id": "barcelona-es",
+    "website": "https://saobcn.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Cesare Cantù 2, Barcelona, 08023, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ají",
+    "slug": "aji",
+    "city_id": "barcelona-es",
+    "website": "https://www.restaurantaji.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marina 19-21, Barcelona, 08005, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Alapar",
+    "slug": "alapar",
+    "city_id": "barcelona-es",
+    "website": "https://www.alaparbcn.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Carrer de Lleida 5, Barcelona, 08004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Albé",
+    "slug": "albe",
+    "city_id": "barcelona-es",
+    "website": "https://www.albebarcelona.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mallorca 196, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Amar Barcelona",
+    "slug": "amar-barcelona",
+    "city_id": "barcelona-es",
+    "website": "https://www.hotelpalacebarcelona.com/es/amar-barcelona-rafa-zafra",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gran Via de les Corts Catalanes 668, Barcelona, 08010, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "AÜC",
+    "slug": "auc",
+    "city_id": "barcelona-es",
+    "website": "https://www.aucbar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaça del Camp 7, Barcelona, 08022, Spain",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bar Cañete",
+    "slug": "bar-canete",
+    "city_id": "barcelona-es",
+    "website": "https://www.barcanete.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Unió 17, Barcelona, 08001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Batea",
+    "slug": "batea",
+    "city_id": "barcelona-es",
+    "website": "https://www.bateabarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gran Via de Les Corts Catalanes 605, Barcelona, 08007, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Besta",
+    "slug": "besta",
+    "city_id": "barcelona-es",
+    "website": "https://www.bestabarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Aribau 106, Barcelona, 08036, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brabo",
+    "slug": "brabo",
+    "city_id": "barcelona-es",
+    "website": "https://braborestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Séneca 28, Barcelona, 08006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brugarol Barcelona",
+    "slug": "brugarol-barcelona",
+    "city_id": "barcelona-es",
+    "website": "https://www.brugarolbarcelona.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Salomó ben Adret 10, Barcelona, 08002, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Can Bo",
+    "slug": "can-bo",
+    "city_id": "barcelona-es",
+    "website": "https://www.grandhotelcentral.com/es/restaurante-can-bo",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Laietana 30, Barcelona, 08003, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Capet",
+    "slug": "capet",
+    "city_id": "barcelona-es",
+    "website": "https://capetrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Cometa 5, Barcelona, 08002, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Casa Fiero",
+    "slug": "casa-fiero",
+    "city_id": "barcelona-es",
+    "website": "https://www.casafiero.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Londres 89, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Compartir Barcelona",
+    "slug": "compartir-barcelona",
+    "city_id": "barcelona-es",
+    "website": "https://www.compartirbarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Valencia 225, Barcelona, 08007, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Contraban",
+    "slug": "contraban",
+    "city_id": "barcelona-es",
+    "website": "https://www.wittmorehotel.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Riudarenes 7, Barcelona, 08002, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "DIREKTE",
+    "slug": "direkte",
+    "city_id": "barcelona-es",
+    "website": "https://www.direkte.cat/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "París 200, Barcelona, 08008, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Deliri",
+    "slug": "deliri",
+    "city_id": "barcelona-es",
+    "website": "https://www.deliribcn.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Còrsega 242, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dos Pebrots",
+    "slug": "dos-pebrots",
+    "city_id": "barcelona-es",
+    "website": "https://www.dospebrots.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Doctor Dou 19, Barcelona, 08001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Eldelmar - Hermanos Torres",
+    "slug": "eldelmar-hermanos-torres",
+    "city_id": "barcelona-es",
+    "website": "https://www.eldelmarhermanostorres.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Moll del Gregal 3, Barcelona, 08005, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Estimar",
+    "slug": "estimar",
+    "city_id": "barcelona-es",
+    "website": "https://www.restaurante-estimar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sant Antoni dels Sombrerers 3, Barcelona, 08003, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fronda Pasaje",
+    "slug": "fronda-pasaje",
+    "city_id": "barcelona-es",
+    "website": "https://frondapasaje.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Banys Vells 20, Barcelona, 08003, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gresca",
+    "slug": "gresca",
+    "city_id": "barcelona-es",
+    "website": "https://www.gresca.rest/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Provença 230, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Imprevisto",
+    "slug": "imprevisto",
+    "city_id": "barcelona-es",
+    "website": "https://www.imprevistorestaurante.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mallorca 308, Barcelona, 08037, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Incorrecte",
+    "slug": "incorrecte",
+    "city_id": "barcelona-es",
+    "website": "https://incorrecte.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Cerignola 11, Barcelona, 08022, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jiribilla",
+    "slug": "jiribilla",
+    "city_id": "barcelona-es",
+    "website": "https://www.jiribillabcn.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Comte Borrell, 85, Barcelona, 08015, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Antiquari Gastronòmic",
+    "slug": "lantiquari-gastronomic",
+    "city_id": "barcelona-es",
+    "website": "https://antiquarigastronomic.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Carrer de Neptú 4, Barcelona, 08006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Forquilla",
+    "slug": "la-forquilla",
+    "city_id": "barcelona-es",
+    "website": "https://www.laforquilla.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Aragó 152, Barcelona, 08011, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Taverna del Clínic",
+    "slug": "la-taverna-del-clinic",
+    "city_id": "barcelona-es",
+    "website": "https://www.latavernadelclinic.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rosselló 155, Barcelona, 08036, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Leña Barcelona",
+    "slug": "lena-barcelona",
+    "city_id": "barcelona-es",
+    "website": "https://lenarestaurants.com/es/barcelona/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaça de Pius XII 4, Barcelona, 08028, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Maleducat",
+    "slug": "maleducat",
+    "city_id": "barcelona-es",
+    "website": "https://maleducat.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Manso 54, Barcelona, 08015, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mantis",
+    "slug": "mantis",
+    "city_id": "barcelona-es",
+    "website": "https://www.restaurantemantis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "París 145, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Maymanta",
+    "slug": "maymanta",
+    "city_id": "barcelona-es",
+    "website": "https://www.maymanta.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza de Pius XII 4, Barcelona, 08028, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nairod",
+    "slug": "nairod",
+    "city_id": "barcelona-es",
+    "website": "https://www.restaurantenairod.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Aribau 141, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nectari",
+    "slug": "nectari",
+    "city_id": "barcelona-es",
+    "website": "https://nectari.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "València 28, Barcelona, 08015, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Olivos Comida y Vinos",
+    "slug": "olivos-comida-y-vinos",
+    "city_id": "barcelona-es",
+    "website": "https://www.olivoscomidayvinos.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Galileu 159, Barcelona, 08028, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Osmosis",
+    "slug": "osmosis",
+    "city_id": "barcelona-es",
+    "website": "https://www.restauranteosmosis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Aribau 100, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Paco Meralgo",
+    "slug": "paco-meralgo",
+    "city_id": "barcelona-es",
+    "website": "https://www.restaurantpacomeralgo.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Muntaner 171, Barcelona, 08036, Spain",
+    "price_tier": "$"
+  },
+  {
+    "name": "Petit Comitè Gaig",
+    "slug": "petit-comite-gaig",
+    "city_id": "barcelona-es",
+    "website": "https://www.petitcomite.cat",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Passatge de la Concepció 13, Barcelona, 08008, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pur",
+    "slug": "pur",
+    "city_id": "barcelona-es",
+    "website": "https://purbarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Passatge de la Concepció 11, Barcelona, 08008, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "RíasKru",
+    "slug": "riaskru",
+    "city_id": "barcelona-es",
+    "website": "https://riaskru.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lleida 7, Barcelona, 08004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sensato",
+    "slug": "sensato",
+    "city_id": "barcelona-es",
+    "website": "https://www.sensatobarcelona.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Septimania 36, Barcelona, 08006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Solc",
+    "slug": "solc",
+    "city_id": "barcelona-es",
+    "website": "https://www.hotelmajestic.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de Gràcia 68, Barcelona, 08007, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Soluna",
+    "slug": "soluna",
+    "city_id": "barcelona-es",
+    "website": "https://solunabcn.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Casanova 157, Barcelona, 08036, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Somodó Bá",
+    "slug": "somodo-ba",
+    "city_id": "barcelona-es",
+    "website": "https://www.somodo.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Passatge de Batlló 4, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Suculent",
+    "slug": "suculent",
+    "city_id": "barcelona-es",
+    "website": "https://www.suculent.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rambla del Raval 45, Barcelona, 08001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taberna Noroeste",
+    "slug": "taberna-noroeste",
+    "city_id": "barcelona-es",
+    "website": "https://www.tabernanoroeste.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Radas 67, Barcelona, 08004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ten's",
+    "slug": "tens",
+    "city_id": "barcelona-es",
+    "website": "https://tensbarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenida Marqués de l'Argentera 11, Barcelona, 08003, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tram-Tram",
+    "slug": "tram-tram",
+    "city_id": "barcelona-es",
+    "website": "https://tram-tram.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Major de Sarrià 121, Barcelona, 08017, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Trü",
+    "slug": "tru",
+    "city_id": "barcelona-es",
+    "website": "https://trubarcelona.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Còrsega 232, Barcelona, 08036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tunateca Balfegó",
+    "slug": "tunateca-balfego",
+    "city_id": "barcelona-es",
+    "website": "https://www.tunatecabalfego.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenida Diagonal 439, Barcelona, 08036, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ultramarinos Marín",
+    "slug": "ultramarinos-marin",
+    "city_id": "barcelona-es",
+    "website": "https://ultramarinosmarin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Balmes 187, Barcelona, 08006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Uma",
+    "slug": "uma",
+    "city_id": "barcelona-es",
+    "website": "https://www.espaciouma.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mallorca 275, Barcelona, 08008, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Virens",
+    "slug": "virens",
+    "city_id": "barcelona-es",
+    "website": "https://www.virensbarcelona.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gran Via de Les Corts Catalanes 619, Barcelona, 08007, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Vivanda",
+    "slug": "vivanda",
+    "city_id": "barcelona-es",
+    "website": "https://www.vivanda.cat/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Major de Sarrià 134, Barcelona, 08017, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Windsor",
+    "slug": "windsor",
+    "city_id": "barcelona-es",
+    "website": "https://restaurantwindsor.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Còrsega 286, Barcelona, 08008, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Xavier Pellicer",
+    "slug": "xavier-pellicer",
+    "city_id": "barcelona-es",
+    "website": "https://www.xavierpellicer.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Provença 310, Barcelona, 08037, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Xerta",
+    "slug": "xerta",
+    "city_id": "barcelona-es",
+    "website": "https://www.xertarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Còrsega 289, Barcelona, 08008, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "al kostat",
+    "slug": "al-kostat",
+    "city_id": "barcelona-es",
+    "website": "https://www.alkostat.cat/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ronda San Antoni 41 - 1º, Barcelona, 08011, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "âme",
+    "slug": "ame",
+    "city_id": "barcelona-es",
+    "website": "https://www.amebarcelona.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Londres 91, Barcelona, 08036, Spain",
+    "price_tier": "$$$"
+  }
+]

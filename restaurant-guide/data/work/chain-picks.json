@@ -1,0 +1,671 @@
+{
+  "note": "One national pick list per sit-down US chain. City locations inherit via restaurant.chain. Dishes are from the operator's posted menu. Accommodation is not set. verdict blocked means the dish list would not load.",
+  "chains": [
+    {
+      "id": "olive-garden",
+      "name": "Olive Garden",
+      "menu_url": "https://www.olivegarden.com/menu/classic-entrees",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Spaghetti with Marinara (V)",
+          "description": "Classic Entrées",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Eggplant Parmigiana (V)",
+          "description": "Classic Entrées",
+          "course": "main",
+          "kind": "main",
+          "hold": "parmesan"
+        },
+        {
+          "name": "Cheese Ravioli",
+          "description": "Classic Entrées",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "Fettuccine Alfredo (V)",
+          "description": "Classic Entrées",
+          "course": "main",
+          "kind": "main",
+          "hold": "cream and cheese"
+        },
+        {
+          "name": "Create Your Own Pasta",
+          "description": "Classic Entrées. Ask for marinara.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Creamy Mushroom Ravioli (V)",
+          "description": "Limited Time",
+          "course": "main",
+          "kind": "main",
+          "hold": "cream"
+        },
+        {
+          "name": "Jumbo House Salad",
+          "description": "Our Famous Jumbo House Salad includes 12 Breadsticks",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "id": "pf-changs",
+      "name": "P.F. Chang's",
+      "menu_url": "https://www.pfchangs.com/menu",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Buddha's Feast | Stir-Fried",
+          "description": "vegetable stir-fry",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Spicy Eggplant",
+          "description": "Main Entrees",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Mongolian Tofu",
+          "description": "Main Entrees",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Edamame",
+          "description": "Appetizers",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Veggie Spring Rolls",
+          "description": "Appetizers",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Crispy Green Beans",
+          "description": "Appetizers",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Chili-Garlic Green Beans",
+          "description": "Shareable Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Kung Pao Brussels Sprouts",
+          "description": "Shareable Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Cold Cucumber Salad",
+          "description": "Shareable Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "House Salad",
+          "description": "Soups & Salads",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "id": "first-watch",
+      "name": "First Watch",
+      "menu_url": "https://www.firstwatch.com/menu/",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Avocado Toast",
+          "description": "The Healthier Side",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Market Veggie",
+          "description": "sandwich, served with greens or soup",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Steel-Cut Oatmeal",
+          "description": "The Healthier Side",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Kale & Berry Salad",
+          "description": "served with artisan ciabatta toast",
+          "course": "main",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Cup of Fresh, Seasonal Fruit",
+          "description": "Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Lemon-Dressed Organic Mixed Greens",
+          "description": "Sides",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Fresh, Seasoned Potatoes",
+          "description": "Sides",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Tomato Basil Soup",
+          "description": "cup or bowl",
+          "course": "starter",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "id": "texas-roadhouse",
+      "name": "Texas Roadhouse",
+      "menu_url": "https://www.texasroadhouse.com/global-menu",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Country Vegetable Plate",
+          "description": "Choose 4 side items (one salad only, please).",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Green Beans",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Steamed Vegetables",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Seasoned Corn",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sauteed Mushrooms",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sauteed Onions",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Applesauce",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "House Salad",
+          "description": "fresh greens, cheddar cheese, tomato, eggs and croutons",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "cheddar, egg, croutons"
+        },
+        {
+          "name": "Baked Potato",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Sweet Potato",
+          "description": "Sides & Extras",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "id": "chilis",
+      "name": "Chili's",
+      "menu_url": "https://www.chilis.com/menu",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "House-made Guacamole",
+          "description": "Appetizers",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Chips & Salsa",
+          "description": "Appetizers",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Side House Salad",
+          "description": "Salads & Soups",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "id": "cheesecake-factory",
+      "name": "The Cheesecake Factory",
+      "menu_url": "https://www.thecheesecakefactory.com/location/minnetonka-mn/menu/small-plates-snacks-appetizers",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Veggie Burger",
+          "description": "Housemade veggie burger with brown rice, farro, mushrooms, black beans, avocado, lettuce, tomato, onion, pickles and cheese",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "SkinnyLicious® Veggie Burger",
+          "description": "Housemade veggie burger with avocado, lettuce, tomato, pickles and onions. Served with a green salad",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Evelyn's Favorite Pasta",
+          "description": "Broccoli, zucchini, asparagus, peppers, tomato, onion, garlic and fresh herbs. Tossed with Parmesan",
+          "course": "main",
+          "kind": "main",
+          "hold": "Parmesan"
+        },
+        {
+          "name": "Four Cheese Pasta",
+          "description": "Penne, mozzarella, ricotta, Romano and Parmesan, marinara and fresh basil",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "Fresh Basil, Tomato and Cheese Flatbread Pizza",
+          "description": "Fresh mozzarella, basil and tomato sauce",
+          "course": "main",
+          "kind": "main",
+          "hold": "mozzarella"
+        },
+        {
+          "name": "Korean Fried Cauliflower",
+          "description": "Crispy cauliflower tossed with sweet and spicy sauce, toasted sesame seeds and green onion",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "sesame"
+        },
+        {
+          "name": "Fried Zucchini",
+          "description": "Lightly breaded and topped with Parmesan. Served with ranch",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "Parmesan and ranch"
+        },
+        {
+          "name": "Avocado Eggrolls",
+          "description": "Avocado, sun-dried tomato, red onion and cilantro. Tamarind-cashew dipping sauce",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cashew sauce"
+        },
+        {
+          "name": "Street Corn",
+          "description": "Fire roasted corn ribs with cotija, chile-lime mayonnaise and cilantro",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cotija and mayonnaise"
+        },
+        {
+          "name": "Stuffed Mushrooms",
+          "description": "Fontina and Parmesan, garlic and herbs in a wine sauce",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "Green Beans",
+          "description": "Side Dishes",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fresh Corn",
+          "description": "Side Dishes",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sauteed Spinach",
+          "description": "Side Dishes",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Broccoli",
+          "description": "Side Dishes",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Grilled Asparagus",
+          "description": "Side Dishes",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Vegan Cobb Salad",
+          "description": "Lettuce, grilled asparagus, avocado, roasted beets, green beans, tomato, cucumber, carrot, white beans, quinoa, farro, almonds and pepitas",
+          "course": "main",
+          "kind": "potato_or_salad",
+          "hold": "almonds and pepitas"
+        },
+        {
+          "name": "Beet and Avocado Salad",
+          "description": "Glazed beets, quinoa, avocado, fresh orange, arugula and honey-yogurt sauce",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "honey-yogurt"
+        },
+        {
+          "name": "Tossed Green Salad",
+          "description": "Mixed greens, assorted vegetables, tomato and croutons",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Little House Salad",
+          "description": "Tossed in vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Mashed Potatoes",
+          "description": "Side Dishes",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "id": "red-lobster",
+      "name": "Red Lobster",
+      "menu_url": "https://www.redlobster.com/menu/soups-sides",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Roasted Asparagus",
+          "description": "Soups & Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Seasoned Broccoli",
+          "description": "Soups & Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Crispy Brussels Sprouts",
+          "description": "Drizzled with soy-ginger sauce and topped with crispy onions",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Orzo Rice",
+          "description": "Soups & Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Hush Puppies",
+          "description": "Soups & Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "House Side Salad",
+          "description": "Mixed greens with tomatoes, cheeses, red onion, croutons",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "cheese and croutons"
+        },
+        {
+          "name": "Caesar Side Salad",
+          "description": "Romaine, Parmesan, Caesar dressing, brioche croutons",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "Parmesan"
+        },
+        {
+          "name": "Coleslaw",
+          "description": "Soups & Sides",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Baked Potato",
+          "description": "Soups & Sides",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Mashed Potatoes",
+          "description": "Soups & Sides",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "id": "legal-sea-foods",
+      "name": "Legal Sea Foods",
+      "menu_url": "https://www.legalseafoods.com/wp-content/uploads/2026/03/All-Day-Mass-March26.pdf",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Bang Bang Cauliflower",
+          "description": "tempura fried, kung pao sauce (contains peanut oil)",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "peanut oil"
+        },
+        {
+          "name": "Greek Salad",
+          "description": "romaine, tomato, cucumber, feta, chickpeas, Kalamata olives, lemon-oregano vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "feta"
+        },
+        {
+          "name": "Thai Peanut Salad",
+          "description": "napa cabbage, carrots, scallion, red peppers, peanut dressing, crispy rice noodles",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "peanut"
+        },
+        {
+          "name": "Classic Caesar Salad",
+          "description": "romaine hearts, garlic croutons, shaved romano, creamy dressing",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "romano"
+        },
+        {
+          "name": "Snap Peas with Ginger & Mint",
+          "description": "Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Steamed Broccoli",
+          "description": "Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Street Corn Off the Cob",
+          "description": "Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Jasmine Rice",
+          "description": "Sides",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Whipped Potatoes",
+          "description": "Sides",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Coleslaw",
+          "description": "Sides",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "id": "ruths-chris",
+      "name": "Ruth's Chris Steak House",
+      "menu_url": "https://www.ruthschris.com/menu",
+      "verdict": "picks",
+      "picks": [
+        {
+          "name": "Goat Cheese & Artichoke Dip",
+          "description": "Appetizers",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "goat cheese"
+        },
+        {
+          "name": "House Salad",
+          "description": "iceberg, baby arugula, baby lettuces, grape tomatoes, garlic croutons, red onions",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "romaine, Romano, creamy Caesar, shaved Parmesan",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "Romano and Parmesan"
+        },
+        {
+          "name": "Lettuce Wedge",
+          "description": "iceberg, field greens, bacon, blue cheese, choice of dressing",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "bacon and blue cheese"
+        },
+        {
+          "name": "Harvest Salad",
+          "description": "mixed greens, roasted corn, dried cherries, bacon, tomatoes, white balsamic vinaigrette, goat cheese, Cajun pecans, crispy onions",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "bacon, goat cheese, pecans"
+        }
+      ]
+    },
+    {
+      "id": "applebees",
+      "name": "Applebee's",
+      "menu_url": "https://www.applebees.com/en/menu",
+      "verdict": "blocked",
+      "reason": "Cloudflare blocks the dish list. Location picker only."
+    },
+    {
+      "id": "outback",
+      "name": "Outback Steakhouse",
+      "menu_url": "https://www.outback.com/menu",
+      "verdict": "blocked",
+      "reason": "Menu page is a location picker. No dish names load without choosing a restaurant."
+    },
+    {
+      "id": "cracker-barrel",
+      "name": "Cracker Barrel",
+      "menu_url": "https://www.crackerbarrel.com/menu",
+      "verdict": "blocked",
+      "reason": "Menu page loads the chrome only. Dish list does not appear."
+    },
+    {
+      "id": "maggianos",
+      "name": "Maggiano's Little Italy",
+      "menu_url": "https://locations.maggianos.com/menus/",
+      "verdict": "blocked",
+      "reason": "Select a Location to View the Menu. Categories only, no dishes."
+    },
+    {
+      "id": "yard-house",
+      "name": "Yard House",
+      "menu_url": "https://www.yardhouse.com/menu",
+      "verdict": "blocked",
+      "reason": "Menu page is an empty location shell."
+    },
+    {
+      "id": "seasons-52",
+      "name": "Seasons 52",
+      "menu_url": "https://www.seasons52.com/menu",
+      "verdict": "blocked",
+      "reason": "Menu page is an empty location shell."
+    },
+    {
+      "id": "capital-grille",
+      "name": "The Capital Grille",
+      "menu_url": "https://www.thecapitalgrille.com/menu/dinner",
+      "verdict": "blocked",
+      "reason": "Dinner URL opens a reservation widget. Appetizer list loaded; sides and vegetable plates did not."
+    },
+    {
+      "id": "true-food-kitchen",
+      "name": "True Food Kitchen",
+      "menu_url": "https://www.truefoodkitchen.com/menu/",
+      "verdict": "blocked",
+      "reason": "National and Chicago pages only show categories. Dishes appear after a location is selected in their widget."
+    },
+    {
+      "id": "north-italia",
+      "name": "North Italia",
+      "menu_url": "https://www.northitalia.com/locations/",
+      "verdict": "blocked",
+      "reason": "Locations page loaded. Per-location menu pages timed out."
+    },
+    {
+      "id": "coopers-hawk",
+      "name": "Cooper's Hawk",
+      "menu_url": "https://chwinery.com/menu",
+      "verdict": "blocked",
+      "reason": "chwinery.com/menu returns 404. Locator is at chwinery.com/locations."
+    }
+  ]
+}

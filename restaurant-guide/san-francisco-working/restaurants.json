@@ -1,0 +1,1123 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Posted menu blocked or would not load. Not shown until the dish list is in hand.",
+ "city_id": "san-francisco-ca-us",
+ "restaurant_count": 29,
+ "restaurants": [
+  {
+   "restaurant_id": "san-francisco-ca-us/friends-only",
+   "city_id": "san-francisco-ca-us",
+   "slug": "friends-only",
+   "name": "Friends Only",
+   "website": "",
+   "address": "1501 California St., San Francisco, CA, 94109, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/friends-only"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/friends-only",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/californios",
+   "city_id": "san-francisco-ca-us",
+   "slug": "californios",
+   "name": "Californios",
+   "website": "https://www.californiossf.com",
+   "address": "355 11th St., San Francisco, CA, 94103, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/californios"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/californios",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/birdsong",
+   "city_id": "san-francisco-ca-us",
+   "slug": "birdsong",
+   "name": "Birdsong",
+   "website": "https://www.birdsongsf.com/",
+   "address": "1085 Mission St., San Francisco, CA, 94103, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/birdsong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/birdsong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/saison",
+   "city_id": "san-francisco-ca-us",
+   "slug": "saison",
+   "name": "Saison",
+   "website": "https://www.saisonsf.com/",
+   "address": "178 Townsend St., San Francisco, CA, 94107, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/saison"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/saison",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Californian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/kin-khao",
+   "city_id": "san-francisco-ca-us",
+   "slug": "kin-khao",
+   "name": "Kin Khao",
+   "website": "https://www.kinkhao.com/",
+   "address": "Parc 55 San Francisco - a Hilton Hotel, 55 Cyril Magnin St., San Francisco, CA, 94102, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/kin-khao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/kin-khao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/restaurant-naides",
+   "city_id": "san-francisco-ca-us",
+   "slug": "restaurant-naides",
+   "name": "Restaurant Naides",
+   "website": "https://www.restaurantnaides.com/",
+   "address": "708 Bush St., San Francisco, CA, 94108, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/naides"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/naides",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/ssal",
+   "city_id": "san-francisco-ca-us",
+   "slug": "ssal",
+   "name": "Ssal",
+   "website": "https://ssalsf.com/",
+   "address": "2226 Polk St., San Francisco, CA, 94109, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/ssal"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/ssal",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/anchor-oyster-bar",
+   "city_id": "san-francisco-ca-us",
+   "slug": "anchor-oyster-bar",
+   "name": "Anchor Oyster Bar",
+   "website": "https://www.anchoroysterbar.com/",
+   "address": "579 Castro St., San Francisco, CA, 94114, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/anchor-oyster-bar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/anchor-oyster-bar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/bansang",
+   "city_id": "san-francisco-ca-us",
+   "slug": "bansang",
+   "name": "Bansang",
+   "website": "https://bansangsf.com/",
+   "address": "1560 Fillmore St., San Francisco, CA, 94115, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/bansang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/bansang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/dumpling-home",
+   "city_id": "san-francisco-ca-us",
+   "slug": "dumpling-home",
+   "name": "Dumpling Home",
+   "website": "https://www.dumplinghome.com/",
+   "address": "298 Gough St., San Francisco, CA, 94102, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/dumpling-home"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/dumpling-home",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/copra",
+   "city_id": "san-francisco-ca-us",
+   "slug": "copra",
+   "name": "Copra",
+   "website": "https://www.coprarestaurant.com/",
+   "address": "1700 Fillmore St., San Francisco, CA, 94115, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/copra"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/copra",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/cotogna",
+   "city_id": "san-francisco-ca-us",
+   "slug": "cotogna",
+   "name": "Cotogna",
+   "website": "https://www.cotognasf.com/",
+   "address": "490 Pacific Ave., San Francisco, CA, 94133, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/cotogna"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/cotogna",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/donaji",
+   "city_id": "san-francisco-ca-us",
+   "slug": "donaji",
+   "name": "Donaji",
+   "website": "https://www.donajisf.com/",
+   "address": "3161 24th St., San Francisco, CA, 94110, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/donaji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/donaji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/el-buen-comer",
+   "city_id": "san-francisco-ca-us",
+   "slug": "el-buen-comer",
+   "name": "El Buen Comer",
+   "website": "https://www.elbuencomersf.com/",
+   "address": "3435 Mission St., San Francisco, CA, 94110, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/el-buen-comer"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/el-buen-comer",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/kokkari-estiatorio",
+   "city_id": "san-francisco-ca-us",
+   "slug": "kokkari-estiatorio",
+   "name": "Kokkari Estiatorio",
+   "website": "https://kokkari.com/",
+   "address": "200 Jackson St., San Francisco, CA, 94111, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/kokkari-estiatorio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/kokkari-estiatorio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Greek",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/la-taqueria",
+   "city_id": "san-francisco-ca-us",
+   "slug": "la-taqueria",
+   "name": "La Taqueria",
+   "website": "https://lataqueriasf.com/",
+   "address": "2889 Mission St., San Francisco, CA, 94110, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/la-taqueria"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/la-taqueria",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/mensho",
+   "city_id": "san-francisco-ca-us",
+   "slug": "mensho",
+   "name": "Mensho",
+   "website": "https://mensho.com/",
+   "address": "672 Geary St., San Francisco, CA, 94102, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/mensho"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/mensho",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/merchant-roots",
+   "city_id": "san-francisco-ca-us",
+   "slug": "merchant-roots",
+   "name": "Merchant Roots",
+   "website": "https://www.merchantroots.com/",
+   "address": "1148 Mission St., San Francisco, CA, 94103, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/merchant-roots"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/merchant-roots",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/minnie-bells-soul-movement",
+   "city_id": "san-francisco-ca-us",
+   "slug": "minnie-bells-soul-movement",
+   "name": "Minnie Bell's Soul Movement",
+   "website": "https://www.minniebellssoul.com/",
+   "address": "1375 Fillmore St., San Francisco, CA, 94115, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/minnie-bell-s-soul-movement"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/minnie-bell-s-soul-movement",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/oma-san-francisco-station",
+   "city_id": "san-francisco-ca-us",
+   "slug": "oma-san-francisco-station",
+   "name": "Oma San Francisco Station",
+   "website": "https://www.omasfstation.com",
+   "address": "1737 Post St., #337, San Francisco, CA, 94115, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/oma-san-francisco-station"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/oma-san-francisco-station",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/rooh",
+   "city_id": "san-francisco-ca-us",
+   "slug": "rooh",
+   "name": "Rooh",
+   "website": "https://www.roohrestaurants.com/",
+   "address": "333 Brannan St., San Francisco, CA, 94107, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/rooh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/rooh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/routier",
+   "city_id": "san-francisco-ca-us",
+   "slug": "routier",
+   "name": "Routier",
+   "website": "https://routiersf.com/",
+   "address": "2801 California St., San Francisco, CA, 94115, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/routier"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/routier",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/saru-sushi-bar",
+   "city_id": "san-francisco-ca-us",
+   "slug": "saru-sushi-bar",
+   "name": "Saru Sushi Bar",
+   "website": "https://akaisarusf.com/",
+   "address": "3856 24th St., San Francisco, CA, 94114, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/saru"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/saru",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/verjus",
+   "city_id": "san-francisco-ca-us",
+   "slug": "verjus",
+   "name": "Verjus",
+   "website": "https://www.verjuscave.com/",
+   "address": "550 Washington St., San Francisco, CA, 94111, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/verjus"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/verjus",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/yuji",
+   "city_id": "san-francisco-ca-us",
+   "slug": "yuji",
+   "name": "Yuji",
+   "website": "https://www.kappoyuji.com/",
+   "address": "1700 Post St., Unit K, San Francisco, CA, 94115, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/san-francisco/restaurant/yuji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/san-francisco/restaurant/yuji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/applebees-san-francisco",
+   "city_id": "san-francisco-ca-us",
+   "slug": "applebees-san-francisco",
+   "name": "Applebee's",
+   "website": "https://www.applebees.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.applebees.com/en/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.applebees.com/en/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "applebees"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/outback-san-francisco",
+   "city_id": "san-francisco-ca-us",
+   "slug": "outback-san-francisco",
+   "name": "Outback Steakhouse",
+   "website": "https://www.outback.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.outback.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.outback.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$",
+   "chain": "outback"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/true-food-kitchen-san-francisco",
+   "city_id": "san-francisco-ca-us",
+   "slug": "true-food-kitchen-san-francisco",
+   "name": "True Food Kitchen",
+   "website": "https://www.truefoodkitchen.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.truefoodkitchen.com/menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.truefoodkitchen.com/menu/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "true-food-kitchen"
+  },
+  {
+   "restaurant_id": "san-francisco-ca-us/north-italia-san-francisco",
+   "city_id": "san-francisco-ca-us",
+   "slug": "north-italia-san-francisco",
+   "name": "North Italia",
+   "website": "https://www.northitalia.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.northitalia.com/locations/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.northitalia.com/locations/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "north-italia"
+  }
+ ]
+}

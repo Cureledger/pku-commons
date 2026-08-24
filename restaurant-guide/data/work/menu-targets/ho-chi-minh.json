@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Akuna",
+    "slug": "akuna",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://akunarestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "9F, Le Méridien Hotel, 3C Ton Duc Thang Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "CieL",
+    "slug": "ciel",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://cieldining.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "50 6/3 Street, An Khanh Ward, Ho Chi Minh City, 713000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Coco Dining",
+    "slug": "coco-dining",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://cocosgn.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "143 Nam Ky Khoi Nghia Street, Xuan Hoa Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Long Trieu",
+    "slug": "long-trieu",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.thereveriesaigon.com/restaurants-bars/long-trieu",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4F, The Reverie Saigon, Times Square Building, 22-36 Nguyen Hue Boulevard, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Upstairs",
+    "slug": "upstairs",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://upstairssgn.com/home/en",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "36 Nguyen Ba Huan Street, An Khanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ănăn Saigon",
+    "slug": "anan-saigon",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://anansaigon.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "89 Ton That Dam Street, Saigon Ward, Ho Chi Minh City, 710000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bò Kho Gánh",
+    "slug": "bo-kho-ganh",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.bokhoganh.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "029 Lot H, Ngo Gia Tu Apartment, Su Van Hanh Street, Vuon Lai Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bếp Mẹ ỉn (Le Thanh Ton Street)",
+    "slug": "bep-me-in-le-thanh-ton-street",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://bep.mein.vn",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "136 Le Thanh Ton Street, Ben Thanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Chay Garden (Xuan Hoa)",
+    "slug": "chay-garden-xuan-hoa",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://chaygarden.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "52 Vo Van Tan Street, Xuan Hoa Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Cục Gạch Quán",
+    "slug": "cuc-gach-quan",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://cucgachquan.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "10 Dang Tat Street, Tan Dinh Ward, Ho Chi Minh City, 71008, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hum Garden",
+    "slug": "hum-garden",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://hum-dining.vn",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "32 D10 Street, An Khanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hồng Phát (Bàn Cờ)",
+    "slug": "hong-phat-ban-co",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://hutieuhongphat.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "389-391 Vo Van Tan Street, Ban Co Ward, Ho Chi Minh City, 70000, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Mặn Mòi (An Khánh)",
+    "slug": "man-moi-an-khanh",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://manmoi.vn",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "32 D11 Street, An Khanh Ward, Ho Chi Minh City, 721400, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Phở Lệ (An Đông)",
+    "slug": "pho-le-an-ong",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.phole.vn",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "413-415 Nguyen Trai Street, An Dong Ward, Ho Chi Minh City, 749741, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Sol Kitchen & Bar (Ben Thanh)",
+    "slug": "sol-kitchen-bar-ben-thanh",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://solkitchenbar.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "112 Ly Tu Trong Street, Ben Thanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "An's Saigon",
+    "slug": "ans-saigon",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.anssaigon.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5A Tong Huu Dinh Street, An Khanh Ward, Ho Chi Minh City, 713000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Béo Ơi",
+    "slug": "beo-oi",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.facebook.com/share/1Ah1HVwHth/?mibextid=wwXIfr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "15/20 Nguyen Thi Minh Khai Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bờm",
+    "slug": "bom",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://bomkitchen.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 Nguyen Thi Nghia Street, Ben Thanh Ward, Ho Chi Minh City, 71009, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Elgin",
+    "slug": "elgin",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://elginsgn.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 Mac Dinh Chi Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Esta",
+    "slug": "esta",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.estasaigon.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 Tran Quy Khoach Street, Tan Dinh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fashionista Café",
+    "slug": "fashionista-cafe",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://fashionistacafe.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22B Phung Khac Khoan Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hoa Túc (Sài Gòn)",
+    "slug": "hoa-tuc-sai-gon",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://hoatuc.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "74/7 Hai Ba Trung Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hoi An Sense",
+    "slug": "hoi-an-sense",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://hoiansense.com.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6F, 12 Phan Ke Binh, Tan Dinh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Fontaine",
+    "slug": "la-fontaine",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://lafontaine-restaurant.com.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Trade Center, River Garden, 170 Nguyen Van Huong Street, An Khanh Ward, Ho Chi Minh City, 70000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Villa",
+    "slug": "la-villa",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://lavilla-restaurant.com.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 Ngo Quang Huy Street, An Khanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Little Bear",
+    "slug": "little-bear",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://littlebearsgn.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "36 Nguyen Ba Huan Street, An Khanh Ward, Ho Chi Minh City, 70000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lüne",
+    "slug": "lune",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.adrienguenzi.com/en/lune",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "17/14 Le Thanh Ton Street, Saigon Ward, Ho Chi Minh City, 71006, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lửa",
+    "slug": "lua",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://luawinebarvn.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 Street No. 11, An Khanh Ward, Ho Chi Minh City, 7000000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Madame Lam",
+    "slug": "madame-lam",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://madamelam.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 Tran Ngoc Dien Street, An Khanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Miên Saigon",
+    "slug": "mien-saigon",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.miensaigon.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "50A Dang Dung Street, Tan Dinh Ward, Ho Chi Minh City, 710880, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nephele",
+    "slug": "nephele",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://nephele-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "125/12 Nguyen Cuu Van Street, Gia Dinh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "NÔM",
+    "slug": "nom",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.nomdining.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "53 Tran Nhat Duat Street, Tan Dinh Ward, Ho Chi Minh City, 71008, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nén Light",
+    "slug": "nen-light",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://restaurantnen.com/nenlight-saigon",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "122/2 Tran Dinh Xu Street, Cau Ong Lanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Okra FoodBar",
+    "slug": "okra-foodbar",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.okra.asia",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 Le Van Mien Street, An Khanh Ward, Ho Chi Minh City, 71300, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Phở Hùng (Cầu Ông Lãnh)",
+    "slug": "pho-hung-cau-ong-lanh",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.phohung.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "241-243 Nguyen Trai Street, Cau Ong Lanh Ward, Ho Chi Minh City, 71014, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Phở Việt Nam (Bến Thành)",
+    "slug": "pho-viet-nam-ben-thanh",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://phovietnam.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 Pham Hong Thai Street, Ben Thanh Ward, Ho Chi Minh City, 71009, Vietnam",
+    "price_tier": "$"
+  },
+  {
+    "name": "Quince Eatery",
+    "slug": "quince-eatery",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.quincesaigon.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "37 Bis Ky Con Street, Ben Thanh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rice Field",
+    "slug": "rice-field",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.ricefield.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, 75-77 Ho Tung Mau Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "ST25 by KOTO",
+    "slug": "st25-by-koto",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://sofitel-saigon-plaza.com/restaurants-bars/st25-by-koto",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Sofitel Saigon Plaza, 17 Le Duan Boulevard, Saigon Ward, Ho Chi Minh City, 70000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Square One",
+    "slug": "square-one",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.parkhyattsaigonrestaurants.com/square-one",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 Lam Son Square, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sóno",
+    "slug": "sono",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://sonosaigon.com/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "215B37 Nguyen Van Huong Street, An Khanh Ward, Ho Chi Minh City, 71107, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tales by Chapter",
+    "slug": "tales-by-chapter",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://talessgn.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "10 Nguyen Thanh Y Street, Tan Dinh Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Albion by Kirk Westaway",
+    "slug": "the-albion-by-kirk-westaway",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.hoteldesartssaigon.com/restaurants-bars/the-albion-restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "23F, Hôtel des Arts Saigon, 76-78 Nguyen Thi Minh Khai Street, Xuan Hoa Ward, Ho Chi Minh City, 070000, Vietnam",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Monkey Gallery Dining",
+    "slug": "the-monkey-gallery-dining",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://monkeygallery.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, 91 Mac Thi Buoi Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Truffle",
+    "slug": "truffle",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.the-truffle.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "73F, Landmark 81, Nguyen Huu Canh Street, Thanh My Tay Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Vietnam House",
+    "slug": "vietnam-house",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://vietnamhousesaigon.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "93-97 Dong Khoi Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Đông Phố",
+    "slug": "ong-pho",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://www.dongphorest.vn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "57 Ho Xuan Huong Street, Xuan Hoa Ward, Ho Chi Minh City, 72407, Vietnam",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ốc Đào (Cầu Ông Lãnh)",
+    "slug": "oc-ao-cau-ong-lanh",
+    "city_id": "ho-chi-minh-vn",
+    "website": "https://ocdaonguyentrai.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "212B/D48 Nguyen Trai Street, Cau Ong Lanh Ward, Ho Chi Minh City, 71014, Vietnam",
+    "price_tier": "$"
+  }
+]

@@ -1,0 +1,710 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "munich-de",
+ "restaurant_count": 18,
+ "restaurants": [
+  {
+   "restaurant_id": "munich-de/landersdorfer-innerhofer",
+   "city_id": "munich-de",
+   "slug": "landersdorfer-innerhofer",
+   "name": "Landersdorfer & Innerhofer",
+   "website": "",
+   "address": "Hackenstr. 6, Munich, 80331, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/landersdorfer-innerhofer"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/landersdorfer-innerhofer",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Classic Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "munich-de/randale",
+   "city_id": "munich-de",
+   "slug": "randale",
+   "name": "Randale",
+   "website": "",
+   "address": "Sternstraße 16, Munich, 80538, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/randale"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/randale",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "munich-de/tohru-in-der-schreiberei",
+   "city_id": "munich-de",
+   "slug": "tohru-in-der-schreiberei",
+   "name": "Tohru in der Schreiberei",
+   "website": "https://schreiberei-muc.de/",
+   "address": "Burgstraße 5, Munich, 80331, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/tohru-in-der-schreiberei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/tohru-in-der-schreiberei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "munich-de/gabelspiel",
+   "city_id": "munich-de",
+   "slug": "gabelspiel",
+   "name": "Gabelspiel",
+   "website": "https://www.restaurant-gabelspiel.de/",
+   "address": "Zehentbauernstraße 20, Munich, 81539, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/gabelspiel"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/gabelspiel",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "munich-de/sparkling-bistro",
+   "city_id": "munich-de",
+   "slug": "sparkling-bistro",
+   "name": "Sparkling Bistro",
+   "website": "https://www.restaurantsparklingbistro.com/",
+   "address": "Amalienstraße 89/ Türkenstraße 86, Munich, 80799, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/sparkling-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/sparkling-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "munich-de/bar-tatar-in-der-schreiberei",
+   "city_id": "munich-de",
+   "slug": "bar-tatar-in-der-schreiberei",
+   "name": "BAR TATAR in der Schreiberei",
+   "website": "https://schreiberei-muc.de",
+   "address": "Dienerstraße 20, Munich, 80331, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/schreiberei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/schreiberei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "munich-de/bavarie",
+   "city_id": "munich-de",
+   "slug": "bavarie",
+   "name": "Bavarie",
+   "website": "https://www.feinkost-kaefer.de/bavarie",
+   "address": "Am Olympiapark 1, Munich, 80331, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/bavarie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/bavarie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "munich-de/beetle",
+   "city_id": "munich-de",
+   "slug": "beetle",
+   "name": "Beetle",
+   "website": "https://www.feinkost-kaefer.de/greenbeetle",
+   "address": "Schumannstraße 9, Munich, 80538, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/beetle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/beetle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seasonal Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "munich-de/brasserie-cuvillies",
+   "city_id": "munich-de",
+   "slug": "brasserie-cuvillies",
+   "name": "Brasserie Cuvilliés",
+   "website": "https://www.rosewoodhotels.com/de/munich/dining/brasserie-cuvillies",
+   "address": "Kardinal-Faulhaber-Straße 1, Munich, 80333, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/brasserie-cuvillies"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/brasserie-cuvillies",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Alpine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "munich-de/chang-bistro",
+   "city_id": "munich-de",
+   "slug": "chang-bistro",
+   "name": "Chang Bistro",
+   "website": "https://chang-restaurant.de/bistro/",
+   "address": "Wolfratshauser Straße 268, Munich, 81479, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/chang-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/chang-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "munich-de/das-tschecherl",
+   "city_id": "munich-de",
+   "slug": "das-tschecherl",
+   "name": "Das Tschecherl",
+   "website": "https://www.dastschecherl.com/",
+   "address": "Amalienstraße 89, Munich, 80799, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/das-tschecherl"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/das-tschecherl",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Austrian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "munich-de/garden-restaurant",
+   "city_id": "munich-de",
+   "slug": "garden-restaurant",
+   "name": "Garden-Restaurant",
+   "website": "https://www.bayerischerhof.de/de/erleben-geniessen/restaurants-bars/restaurants/garden.html",
+   "address": "Promenadeplatz 2, Munich, 80333, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/garden-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/garden-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "munich-de/koi",
+   "city_id": "munich-de",
+   "slug": "koi",
+   "name": "KOI",
+   "website": "https://www.koi-restaurant.de/",
+   "address": "Wittelsbacherplatz 1, Munich, 80333, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/koi-423179"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/koi-423179",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "munich-de/kafer-schanke",
+   "city_id": "munich-de",
+   "slug": "kafer-schanke",
+   "name": "Käfer-Schänke",
+   "website": "https://www.feinkost-kaefer.de/schaenke",
+   "address": "Prinzregentenstraße 73, Munich, 81675, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/kafer-schanke"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/kafer-schanke",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seasonal Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "munich-de/matsuhisa-munich",
+   "city_id": "munich-de",
+   "slug": "matsuhisa-munich",
+   "name": "Matsuhisa Munich",
+   "website": "https://www.mandarinoriental.com/de/munich/altstadt/dine/matsuhisa-munich",
+   "address": "Neuturmstraße 1, Munich, 80331, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/matsuhisa-munich"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/matsuhisa-munich",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "munich-de/nice",
+   "city_id": "munich-de",
+   "slug": "nice",
+   "name": "NICE",
+   "website": "https://nicedining.de/restaurant/",
+   "address": "August-Everding-Straße 24, Munich, 81671, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/nice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/nice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "munich-de/schwarzreiter-restaurant",
+   "city_id": "munich-de",
+   "slug": "schwarzreiter-restaurant",
+   "name": "Schwarzreiter Restaurant",
+   "website": "https://www.schwarzreiter-muenchen.de/",
+   "address": "Maximilianstraße 17, Munich, 80539, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/schwarzreiter"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/schwarzreiter",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "munich-de/zauberberg",
+   "city_id": "munich-de",
+   "slug": "zauberberg",
+   "name": "Zauberberg",
+   "website": "https://www.restaurant-zauberberg.de",
+   "address": "Hedwigstraße 14, Munich, 80636, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bayern/mnchen/restaurant/zauberberg"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bayern/mnchen/restaurant/zauberberg",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$"
+  }
+ ]
+}

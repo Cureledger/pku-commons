@@ -1,0 +1,320 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Not appropriate for now: posted menu has no PKU-friendly main or plate, or the dish list would not load.",
+ "city_id": "riga-lv",
+ "restaurant_count": 8,
+ "restaurants": [
+  {
+   "restaurant_id": "riga-lv/b7",
+   "city_id": "riga-lv",
+   "slug": "b7",
+   "name": "B7",
+   "website": "",
+   "address": "Ausekla iela 7, Riga, 1010, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/b7"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/b7",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riga-lv/john-chefs-hall",
+   "city_id": "riga-lv",
+   "slug": "john-chefs-hall",
+   "name": "JOHN Chef's Hall",
+   "website": "https://jch.johnrestaurant.com/eng",
+   "address": "A22 Hotel, Ausekļa iela 22, Riga, 1010, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/john-chef-s-hall"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/john-chef-s-hall",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "riga-lv/smoer-bistro",
+   "city_id": "riga-lv",
+   "slug": "smoer-bistro",
+   "name": "SMØR Bistro",
+   "website": "https://smorbistro.com/",
+   "address": "Krišjāņa Valdemāra iela 27-29, Riga, 1010, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/smor-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/smor-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riga-lv/shoyu",
+   "city_id": "riga-lv",
+   "slug": "shoyu",
+   "name": "Shōyu",
+   "website": "https://www.shoyu.lv",
+   "address": "Ausekļa iela 20, Riga, 1010, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/shoyu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/shoyu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riga-lv/snatch",
+   "city_id": "riga-lv",
+   "slug": "snatch",
+   "name": "Snatch",
+   "website": "https://snatch.lv/",
+   "address": "Elizabetes iela 39, Riga, 1010, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/snatch"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/snatch",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riga-lv/lowine",
+   "city_id": "riga-lv",
+   "slug": "lowine",
+   "name": "LOWINE",
+   "website": "https://www.lowinebar.lv",
+   "address": "Dzirnavu iela 43, Riga, 1010, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/lowine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/lowine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riga-lv/the-catch",
+   "city_id": "riga-lv",
+   "slug": "the-catch",
+   "name": "The Catch",
+   "website": "https://thecatch.lv/",
+   "address": "Dzirnavu iela 34, Riga, 1010, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/the-catch"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/the-catch",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riga-lv/whitehouse",
+   "city_id": "riga-lv",
+   "slug": "whitehouse",
+   "name": "Whitehouse",
+   "website": "https://whitehouserestorans.lv",
+   "address": "Vermane Park, Terbatas iela 2, Riga, 1050, Latvia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/whitehouse-1204945"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riga-region/riga_1991577/restaurant/whitehouse-1204945",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  }
+ ]
+}

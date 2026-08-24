@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Mingles",
+    "slug": "mingles",
+    "city_id": "seoul-kr",
+    "website": "https://www.restaurant-mingles.com",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "2F, 19 Dosan-daero 67-gil, Gangnam-gu, Seoul, 06016, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Evett",
+    "slug": "evett",
+    "city_id": "seoul-kr",
+    "website": "https://www.restaurantevett.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "10-5 Dosan-daero 45-gil, Gangnam-gu, Seoul, 06021, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jungsik",
+    "slug": "jungsik",
+    "city_id": "seoul-kr",
+    "website": "https://www.jungsik.kr",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "11 Seolleung-ro 158-gil, Gangnam-gu, Seoul, 06014, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kwonsooksoo",
+    "slug": "kwonsooksoo",
+    "city_id": "seoul-kr",
+    "website": "https://www.kwonsooksoo.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "4F, 37 Apgujeong-ro 80-gil, Gangnam-gu, Seoul, 06016, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Yeon",
+    "slug": "la-yeon",
+    "city_id": "seoul-kr",
+    "website": "https://www.shilla.net/seoul/index.do",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "23F, Shilla Hotel, 249 Dongho-ro, Jung-gu, Seoul, 04605, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mosu",
+    "slug": "mosu",
+    "city_id": "seoul-kr",
+    "website": "https://mosuseoul.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "4 Hoenamu-ro 41-gil, Yongsan-gu, Seoul, 04344, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Restaurant Allen",
+    "slug": "restaurant-allen",
+    "city_id": "seoul-kr",
+    "website": "https://www.restaurantallen.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "E205, 2F, Center field EAST, 231 Teheran-ro, Gangnam-gu, Seoul, 06142, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Soigné",
+    "slug": "soigne",
+    "city_id": "seoul-kr",
+    "website": "https://soigneseoul.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "#201, 2F, Sinsa square, 652 Gangnam-daero, Gangnam-gu, Seoul, 06027, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "alla prima",
+    "slug": "alla-prima",
+    "city_id": "seoul-kr",
+    "website": "https://www.allaprima.co.kr",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "13 Hakdong-ro 17-gil, Gangnam-gu, Seoul, 06045, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "7th Door",
+    "slug": "7th-door",
+    "city_id": "seoul-kr",
+    "website": "https://www.7thdoor.kr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4F, 41 Hakdong-ro 97-gil, Gangnam-gu, Seoul, 06072, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bicena",
+    "slug": "bicena",
+    "city_id": "seoul-kr",
+    "website": "https://www.bicena.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "81F, Lotte World Tower, 300 Olympic-ro, Songpa-gu, Seoul, 05551, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Collage",
+    "slug": "collage",
+    "city_id": "seoul-kr",
+    "website": "https://ananti.kr/ko/ganm/GN0703",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, Ananti at Gangnam, 11 Nonhyeon-ro 136-gil, Gangnam-gu, Seoul, 06051, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Eatanic Garden",
+    "slug": "eatanic-garden",
+    "city_id": "seoul-kr",
+    "website": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "36F, Josun Palace Hotel, 231 Teheran-ro, Gangnam-gu, Seoul, 06142, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "GiwaKang",
+    "slug": "giwakang",
+    "city_id": "seoul-kr",
+    "website": "https://www.giwakang.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4F, 9 Nonhyeon-ro 152-gil, Gangnam-gu, Seoul, 06025, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "JUEUN",
+    "slug": "jueun",
+    "city_id": "seoul-kr",
+    "website": "https://www.restaurantjueun.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "8F Gyeonghuidang, 36 Gyeonghuigung-gil, Jongno-gu, Seoul, 03175, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "KANG MINCHUL Restaurant",
+    "slug": "kang-minchul-restaurant",
+    "city_id": "seoul-kr",
+    "website": "https://www.kangminchul.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5F, 18 Dosan-daero 63-gil, Gangnam-gu, Seoul, 06064, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Amant Secret",
+    "slug": "lamant-secret",
+    "city_id": "seoul-kr",
+    "website": "https://lescapehotel.com/dining/lamantsecret",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "26F L'Escape Hotel, 67 Toegye-ro, Jung-gu, Seoul, 04529, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Légume",
+    "slug": "legume",
+    "city_id": "seoul-kr",
+    "website": "https://www.legume.kr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, Sinsa Square, 652 Gangnam-daero, Gangnam-gu, Seoul, 06027, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Muoki",
+    "slug": "muoki",
+    "city_id": "seoul-kr",
+    "website": "https://www.muoki.kr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, 12-12 Hakdong-ro 55-gil, Gangnam-gu, Seoul, 06065, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "SAN",
+    "slug": "san",
+    "city_id": "seoul-kr",
+    "website": "https://restaurantsan.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "B1, 6 Eonju-ro 168-gil, Gangnam-gu, Seoul, 06020, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Solbam",
+    "slug": "solbam",
+    "city_id": "seoul-kr",
+    "website": "https://restaurantsolbam.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, 231 Hakdong-ro, Gangnam-gu, Seoul, 06053, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Kanesaka",
+    "slug": "sushi-kanesaka",
+    "city_id": "seoul-kr",
+    "website": "https://seoul.intercontinental.com/grandicparnas",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1F, Grand InterContinental Seoul Parnas, 521 Teheran-ro, Gangnam-gu, Seoul, 06164, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "VINHO",
+    "slug": "vinho",
+    "city_id": "seoul-kr",
+    "website": "https://www.restaurantvinho.kr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "#162 Wellstone Bldg, 38 Hakdong-ro 43-gil, Gangnam-gu, Seoul, 06059, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yu Yuan",
+    "slug": "yu-yuan",
+    "city_id": "seoul-kr",
+    "website": "https://www.fourseasons.com/seoul/dining/restaurants/yu_yuan",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "11F Four Seasons Hotel, 97 Saemunan-ro, Jongno-gu, Seoul, 03183, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "y'east",
+    "slug": "yeast",
+    "city_id": "seoul-kr",
+    "website": "https://www.yeastseoul.co.kr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, 26-6 Eonju-ro 170-gil, Gangnam-gu, Seoul, 06017, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "ANAM",
+    "slug": "anam",
+    "city_id": "seoul-kr",
+    "website": "https://www.anaminanguk.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "10 Bukchon-ro 5-gil, Jongno-gu, Seoul, 03055, South Korea",
+    "price_tier": "$"
+  },
+  {
+    "name": "Gaeseong Mandu Koong",
+    "slug": "gaeseong-mandu-koong",
+    "city_id": "seoul-kr",
+    "website": "https://www.koong.co.kr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "11-3 Insadong 10-gil, Jongno-gu, Seoul, 03146, South Korea",
+    "price_tier": "$"
+  },
+  {
+    "name": "Gebangsikdang",
+    "slug": "gebangsikdang",
+    "city_id": "seoul-kr",
+    "website": "https://www.gebangsikdang.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "17 Seolleung-ro 131-gil, Gangnam-gu, Seoul, 06060, South Korea",
+    "price_tier": "$"
+  },
+  {
+    "name": "Jaha Son Mandu",
+    "slug": "jaha-son-mandu",
+    "city_id": "seoul-kr",
+    "website": "https://www.jahasonmandoo.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "12 Baekseokdong-gil, Jongno-gu, Seoul, 03020, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Okdongsik",
+    "slug": "okdongsik",
+    "city_id": "seoul-kr",
+    "website": "https://www.okdongsik.net",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "44-10 Yanghwa-ro 7-gil, Mapo-gu, Seoul, 04035, South Korea",
+    "price_tier": "$"
+  },
+  {
+    "name": "Oreno Ramen",
+    "slug": "oreno-ramen",
+    "city_id": "seoul-kr",
+    "website": "https://www.orenoramen.co.kr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "16 Dongmak-ro 8-gil, Mapo-gu, Seoul, 04072, South Korea",
+    "price_tier": "$"
+  },
+  {
+    "name": "Yukjeon Hoekwan",
+    "slug": "yukjeon-hoekwan",
+    "city_id": "seoul-kr",
+    "website": "https://www.yukjeon.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "47 Tojeong-ro 37-gil, Mapo-gu, Seoul, 04155, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bium",
+    "slug": "bium",
+    "city_id": "seoul-kr",
+    "website": "https://biumseoul.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "41 Hakdong-ro 97-gil, Gangnam-gu, Seoul, 06072, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bongmilga",
+    "slug": "bongmilga",
+    "city_id": "seoul-kr",
+    "website": "https://mbongmilga80ngq.zaemit.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "664 Seolleung-ro, Gangnam-gu, Seoul, 06088, South Korea",
+    "price_tier": "$"
+  },
+  {
+    "name": "Born and Bred",
+    "slug": "born-and-bred",
+    "city_id": "seoul-kr",
+    "website": "https://www.bandb.co.kr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, 1 Majang-ro 42-gil, Seongdong-gu, Seoul, 04757, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Budnamujip",
+    "slug": "budnamujip",
+    "city_id": "seoul-kr",
+    "website": "https://www.budnamujip.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "434 Hyoryeong-ro, Seocho-gu, Seoul, 06729, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Continental",
+    "slug": "continental",
+    "city_id": "seoul-kr",
+    "website": "https://www.shilla.net/seoul/index.do",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "23F, The Shilla Hotel, 249 Dongho-ro, Jung-gu, Seoul, 04605, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Doughroom",
+    "slug": "doughroom",
+    "city_id": "seoul-kr",
+    "website": "https://www.soignerestaurantgroup.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, 99 Donggwang-ro, Seocho-gu, Seoul, 06584, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gom Ba Wie",
+    "slug": "gom-ba-wie",
+    "city_id": "seoul-kr",
+    "website": "https://www.gbw.co.kr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 Yeongdong-daero 115-gil, Gangnam-gu, Seoul, 06087, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gucci Osteria da Massimo Bottura",
+    "slug": "gucci-osteria-da-massimo-bottura",
+    "city_id": "seoul-kr",
+    "website": "https://www.gucciosteria.com/ko/seoul",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, 462 Apgujeong-ro, Gangnam-gu, Seoul, 06015, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Haenam Cheonilgwan",
+    "slug": "haenam-cheonilgwan",
+    "city_id": "seoul-kr",
+    "website": "https://haenamcheonilgwan.kr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "36-1 Banpo-daero 39-gil, Seocho-gu, Seoul, 06578, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Haobin",
+    "slug": "haobin",
+    "city_id": "seoul-kr",
+    "website": "https://www.ambatel.com/theambassador/seoul/en/diningView.do?dining_contents_seq=158",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Ambassador-Pullman Hotel, 287 Dongho-ro, Jung-gu, Seoul, 04618, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Joo052",
+    "slug": "joo052",
+    "city_id": "seoul-kr",
+    "website": "https://www.joo052.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26 Gosanja-ro 14-gil, Seongdong-gu, Seoul, 04750, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mugunghwa",
+    "slug": "mugunghwa",
+    "city_id": "seoul-kr",
+    "website": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-mugunghwa.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "38F, Lotte Hotel, 30 Eulji-ro, Jung-gu, Seoul, 04533, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Myeongdong Kyoja",
+    "slug": "myeongdong-kyoja",
+    "city_id": "seoul-kr",
+    "website": "https://www.mdkj.co.kr/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "29 Myeongdong 10-gil, Jung-gu, Seoul, 04537, South Korea",
+    "price_tier": "$"
+  },
+  {
+    "name": "OPNNG",
+    "slug": "opnng",
+    "city_id": "seoul-kr",
+    "website": "https://www.baropnng.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "B1, 22 Dosan-daero 34-gil, Gangnam-gu, Seoul, 06049, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Onyva",
+    "slug": "onyva",
+    "city_id": "seoul-kr",
+    "website": "https://www.onyva.kr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "B1, 15 Dosan-daero 75-gil, Gangnam-gu, Seoul, 06015, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pierre Gagnaire",
+    "slug": "pierre-gagnaire",
+    "city_id": "seoul-kr",
+    "website": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-pierre-gagnaire-a-seoul.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "35F, Lotte Hotel, 30 Eulji-ro, Jung-gu, Seoul, 04533, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Restaurant OY",
+    "slug": "restaurant-oy",
+    "city_id": "seoul-kr",
+    "website": "https://restaurantoy.co.kr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "B1F, 48-12 Seolleung-ro 148-gil, Gangnam-gu, Seoul, 06064, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ryunique",
+    "slug": "ryunique",
+    "city_id": "seoul-kr",
+    "website": "https://www.ryunique.co.kr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8-1 Dosan-daero 45-gil, Gangnam-gu, Seoul, 06021, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "STAY",
+    "slug": "stay",
+    "city_id": "seoul-kr",
+    "website": "https://www.lottehotel.com/seoul-signiel/ko/dining/restaurant-stay-modern.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "81F, Lotteworld Tower, 300 Olympic-ro, Songpa-gu, Seoul, 05551, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Samwon Garden",
+    "slug": "samwon-garden",
+    "city_id": "seoul-kr",
+    "website": "https://dinehill.co.kr/global/samwon-garden",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "835 Eonju-ro, Gangnam-gu, Seoul, 06023, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Seoul Dining",
+    "slug": "seoul-dining",
+    "city_id": "seoul-kr",
+    "website": "https://www.seoul-dining.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Designhouse, 272 Dongho-ro, Jung-gu, Seoul, 04617, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sonnet",
+    "slug": "sonnet",
+    "city_id": "seoul-kr",
+    "website": "https://www.sonnetseoul.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Seolleung-ro 157-gil, Gangnam-gu, Seoul, 06018, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Ninth Gate",
+    "slug": "the-ninth-gate",
+    "city_id": "seoul-kr",
+    "website": "https://www.josunhotel.com/intro.do",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F The Westin Chosun Hotel, 106 Sogong-ro, Jung-gu, Seoul, 04533, South Korea",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Toc Toc",
+    "slug": "toc-toc",
+    "city_id": "seoul-kr",
+    "website": "https://www.restauranttoctoc.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, 41 Hakdong-ro 97-gil, Gangnam-gu, Seoul, 06072, South Korea",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Toh Lim",
+    "slug": "toh-lim",
+    "city_id": "seoul-kr",
+    "website": "https://www.lottehotel.com/global/ko",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "37F, Lotte Hotel, 30 Eulji-ro, Jung-gu, Seoul, 04533, South Korea",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "trid",
+    "slug": "trid",
+    "city_id": "seoul-kr",
+    "website": "https://tridseoul.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, 16 Seolleung-ro 162-gil, Gangnam-gu, Seoul, 06014, South Korea",
+    "price_tier": "$$$"
+  }
+]

@@ -1,0 +1,1495 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "kuala-lumpur-my",
+ "restaurant_count": 38,
+ "restaurants": [
+  {
+   "restaurant_id": "kuala-lumpur-my/ah-hei-bak-kut-teh",
+   "city_id": "kuala-lumpur-my",
+   "slug": "ah-hei-bak-kut-teh",
+   "name": "Ah Hei Bak Kut Teh",
+   "website": "",
+   "address": "33A Medan Imbi, Pudu, Kuala Lumpur, 55100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/ah-hei-bak-kut-teh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/ah-hei-bak-kut-teh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/anak-baba-brickfields",
+   "city_id": "kuala-lumpur-my",
+   "slug": "anak-baba-brickfields",
+   "name": "Anak Baba (Brickfields)",
+   "website": "",
+   "address": "159 Jalan Sultan Abdul Samad, Brickfields, Kuala Lumpur, 50470, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/congkak-bukit-bintang",
+   "city_id": "kuala-lumpur-my",
+   "slug": "congkak-bukit-bintang",
+   "name": "Congkak (Bukit Bintang)",
+   "website": "",
+   "address": "24 Jalan Beremi, Bukit Bintang, Kuala Lumpur, 50200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/gulainya",
+   "city_id": "kuala-lumpur-my",
+   "slug": "gulainya",
+   "name": "Gulainya",
+   "website": "",
+   "address": "44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/gulainya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/gulainya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/hing-kee-bakuteh-121-jalan-kepong",
+   "city_id": "kuala-lumpur-my",
+   "slug": "hing-kee-bakuteh-121-jalan-kepong",
+   "name": "Hing Kee Bakuteh (121 Jalan Kepong)",
+   "website": "",
+   "address": "121 Jalan Kepong, Taman Usahawan, Kuala Lumpur, 52100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/hor-poh-cuisine",
+   "city_id": "kuala-lumpur-my",
+   "slug": "hor-poh-cuisine",
+   "name": "Hor Poh Cuisine",
+   "website": "",
+   "address": "36 Jalan 6/38D, Taman Sri Sinar, Segambut, Kuala Lumpur, 52100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hakkanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/jalan-ipoh-claypot-chicken-rice",
+   "city_id": "kuala-lumpur-my",
+   "slug": "jalan-ipoh-claypot-chicken-rice",
+   "name": "Jalan Ipoh Claypot Chicken Rice",
+   "website": "",
+   "address": "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur, 51200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/lai-foong-lala-noodles",
+   "city_id": "kuala-lumpur-my",
+   "slug": "lai-foong-lala-noodles",
+   "name": "Lai Foong Lala Noodles",
+   "website": "",
+   "address": "99 Jalan Sultan, Kuala Lumpur City Centre, Kuala Lumpur, 50000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/lama",
+   "city_id": "kuala-lumpur-my",
+   "slug": "lama",
+   "name": "Lama",
+   "website": "",
+   "address": "Lot 12, 257 Jalan Ayer Jerneh, Taman Ayer Panas, Kuala Lumpur, 53200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/leens",
+   "city_id": "kuala-lumpur-my",
+   "slug": "leens",
+   "name": "Leen's",
+   "website": "",
+   "address": "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, Kuala Lumpur, 60000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/leen-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/leen-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/nam-heong-chicken-rice-city-centre",
+   "city_id": "kuala-lumpur-my",
+   "slug": "nam-heong-chicken-rice-city-centre",
+   "name": "Nam Heong Chicken Rice (City Centre)",
+   "website": "",
+   "address": "56 Jalan Sultan, Kuala Lumpur City Centre, Kuala Lumpur, 50000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/nam-heong-chicken-rice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/nam-heong-chicken-rice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/sek-yuen",
+   "city_id": "kuala-lumpur-my",
+   "slug": "sek-yuen",
+   "name": "Sek Yuen",
+   "website": "",
+   "address": "313 Jalan Pudu, Pudu, Kuala Lumpur, 55100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/sek-yuen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/sek-yuen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/sin-kiew-yee-shin-kee-beef-noodles",
+   "city_id": "kuala-lumpur-my",
+   "slug": "sin-kiew-yee-shin-kee-beef-noodles",
+   "name": "Sin Kiew Yee Shin Kee Beef Noodles",
+   "website": "",
+   "address": "7a, Jalan Tun Tan Cheng Lock, Kuala Lumpur City Centre, Kuala Lumpur, 50000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/wong-mei-kee",
+   "city_id": "kuala-lumpur-my",
+   "slug": "wong-mei-kee",
+   "name": "Wong Mei Kee",
+   "website": "",
+   "address": "30 Jalan Nyonya, off Jalan Pudu, Pudu, Kuala Lumpur, 55100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/wong-mei-kee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/wong-mei-kee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/bol",
+   "city_id": "kuala-lumpur-my",
+   "slug": "bol",
+   "name": "Bōl",
+   "website": "",
+   "address": "15 Jalan Sin Chew Kee, Bukit Bintang, Kuala Lumpur, 50150, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/bol"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/bol",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/dominic",
+   "city_id": "kuala-lumpur-my",
+   "slug": "dominic",
+   "name": "Dominic",
+   "website": "",
+   "address": "54G, The Row, Jalan Doraisamy, Chow Kit, Kuala Lumpur, 50300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/dominic"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/dominic",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/elegant-inn",
+   "city_id": "kuala-lumpur-my",
+   "slug": "elegant-inn",
+   "name": "Elegant Inn",
+   "website": "",
+   "address": "02-01, 2F, Podium Block, Menara Hap Seng, Jalan P. Ramlee, Kuala Lumpur, 50250, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/elegant-inn"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/elegant-inn",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/entier",
+   "city_id": "kuala-lumpur-my",
+   "slug": "entier",
+   "name": "Entier",
+   "website": "",
+   "address": "Level 41, Alila Bangsar, 58 Jalan Ang Seng, Brickfields, Kuala Lumpur, 50470, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/entier"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/entier",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/jie",
+   "city_id": "kuala-lumpur-my",
+   "slug": "jie",
+   "name": "Jie",
+   "website": "",
+   "address": "73-M, Jalan Setiabakti, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/jie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/jie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/kuki",
+   "city_id": "kuala-lumpur-my",
+   "slug": "kuki",
+   "name": "Kuki",
+   "website": "",
+   "address": "Unit 1-8, Menara KEN TTDI, 37 Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, Kuala Lumpur, 60000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/kuki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/kuki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/la-suisse",
+   "city_id": "kuala-lumpur-my",
+   "slug": "la-suisse",
+   "name": "La Suisse",
+   "website": "",
+   "address": "17, Lorong Rahim Kajai 13, Taman Tun Dr Ismail, Kuala Lumpur, 60000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/la-suisse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/la-suisse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/limapulo",
+   "city_id": "kuala-lumpur-my",
+   "slug": "limapulo",
+   "name": "Limapulo",
+   "website": "",
+   "address": "50 Jalan Doraisamy, Chow Kit, Kuala Lumpur, 50300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/limapulo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/limapulo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/tanglin-bukit-damansara",
+   "city_id": "kuala-lumpur-my",
+   "slug": "tanglin-bukit-damansara",
+   "name": "Tanglin (Bukit Damansara)",
+   "website": "",
+   "address": "57G, Jalan Medan Setia 1, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/tanglin-bukit-damansara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/tanglin-bukit-damansara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/teochew-lao-er",
+   "city_id": "kuala-lumpur-my",
+   "slug": "teochew-lao-er",
+   "name": "Teochew Lao Er",
+   "website": "",
+   "address": "6 Jalan Brunei, Pudu, Kuala Lumpur, 55100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/teochew-lao-er"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/teochew-lao-er",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Teochew",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/the-brasserie",
+   "city_id": "kuala-lumpur-my",
+   "slug": "the-brasserie",
+   "name": "The Brasserie",
+   "website": "",
+   "address": "2F, The St. Regis, 6 Jalan Stesen Sentral 2, Kuala Lumpur Sentral, Kuala Lumpur, 50470, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/the-brasserie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/the-brasserie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/dewakan",
+   "city_id": "kuala-lumpur-my",
+   "slug": "dewakan",
+   "name": "Dewakan",
+   "website": "https://www.dewakan.my",
+   "address": "48F, Skyviews, Naza Tower, Platinum Park, 10 Persiaran KLCC, Kuala Lumpur, 50088, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/dewakan"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/dewakan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/dewakan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/foong-lian",
+   "city_id": "kuala-lumpur-my",
+   "slug": "foong-lian",
+   "name": "Foong Lian",
+   "website": "https://www.foonglian.com",
+   "address": "55 Jalan Yew, Pudu, Kuala Lumpur, 55100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/foong-lian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/foong-lian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/nirwana",
+   "city_id": "kuala-lumpur-my",
+   "slug": "nirwana",
+   "name": "Nirwana",
+   "website": "https://srinirwanamaju.com",
+   "address": "43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur, 59100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/nirwana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/nirwana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/roti-by-dtandoor",
+   "city_id": "kuala-lumpur-my",
+   "slug": "roti-by-dtandoor",
+   "name": "Roti by d'Tandoor",
+   "website": "https://dtandoor.com",
+   "address": "82 Jalan Damai, off Jalan Ampang, Kampung Datuk Keramat, Kuala Lumpur, 55000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/sao-nam",
+   "city_id": "kuala-lumpur-my",
+   "slug": "sao-nam",
+   "name": "Sao Nam",
+   "website": "https://www.saonam.com.my/",
+   "address": "25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur, 50200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/atelier-binchotan",
+   "city_id": "kuala-lumpur-my",
+   "slug": "atelier-binchotan",
+   "name": "Atelier Binchotan",
+   "website": "https://www.atelierbinchotan.com",
+   "address": "5 Jalan 1/109e, Taman Desa Business Park, Kuala Lumpur, 58100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/atelier-binchotan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/atelier-binchotan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/bidou",
+   "city_id": "kuala-lumpur-my",
+   "slug": "bidou",
+   "name": "Bidou",
+   "website": "https://www.bidou.my",
+   "address": "9 Jalan Setiakasih 5, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/bidou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/bidou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/cafe-cafe",
+   "city_id": "kuala-lumpur-my",
+   "slug": "cafe-cafe",
+   "name": "Café Café",
+   "website": "https://cafecafe.com.my",
+   "address": "175 Jalan Maharajalela, Kampung Attap, Kuala Lumpur, 50150, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/cafe-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/cafe-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/frangipaani",
+   "city_id": "kuala-lumpur-my",
+   "slug": "frangipaani",
+   "name": "Frangipaani",
+   "website": "https://www.theolivetreegroup.com/frangipaani-bukit-damansara/",
+   "address": "The Republik, Lot No.M.03, Mezzanine Floor, Jalan Medan Setia 1, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/frangipaani"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/frangipaani",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/li-yen",
+   "city_id": "kuala-lumpur-my",
+   "slug": "li-yen",
+   "name": "Li Yen",
+   "website": "https://www.marriott.com/en-us/dining/restaurant-bar/kulrz-the-ritz-carlton-kuala-lumpur/86180-li-yen.mi",
+   "address": "2F, The Ritz-Carlton, 168 Jalan Imbi, Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/li-yen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/li-yen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/passage-thru-india",
+   "city_id": "kuala-lumpur-my",
+   "slug": "passage-thru-india",
+   "name": "Passage Thru India",
+   "website": "https://passagethruindia.vulcantechies.com",
+   "address": "4 Jalan Delima, off Jalan Bukit Bintang, Imbi, Kuala Lumpur, 50400, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/passage-thru-india"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/passage-thru-india",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/shanghai-restaurant",
+   "city_id": "kuala-lumpur-my",
+   "slug": "shanghai-restaurant",
+   "name": "Shanghai Restaurant",
+   "website": "https://www.marriott.com/en-us/dining/restaurant-bar/kuldt-jw-marriott-hotel-kuala-lumpur/87669-shanghai.mi",
+   "address": "1F, JW Marriott, 183 Jalan Bukit Bintang, Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/shanghai-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/shanghai-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "kuala-lumpur-my/wagyu-kappo-yoshida",
+   "city_id": "kuala-lumpur-my",
+   "slug": "wagyu-kappo-yoshida",
+   "name": "Wagyu Kappo Yoshida",
+   "website": "https://wagyu-kappoyoshida.com",
+   "address": "Unit 3-48, 48F, Naza Tower, Platinum Park, 10 Persiaran KLCC, Kuala Lumpur, 50088, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/wagyu-kappo-yoshida"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/wagyu-kappo-yoshida",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  }
+ ]
+}

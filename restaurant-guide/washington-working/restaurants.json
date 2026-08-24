@@ -1,0 +1,1104 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Posted menu blocked or would not load. Not shown until the dish list is in hand.",
+ "city_id": "washington-dc-us",
+ "restaurant_count": 29,
+ "restaurants": [
+  {
+   "restaurant_id": "washington-dc-us/shoto",
+   "city_id": "washington-dc-us",
+   "slug": "shoto",
+   "name": "Shōtō",
+   "website": "",
+   "address": "1100 15th St. NW, Washington, DC, 20005, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/shoto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/shoto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/the-inn-at-little-washington",
+   "city_id": "washington-dc-us",
+   "slug": "the-inn-at-little-washington",
+   "name": "The Inn at Little Washington",
+   "website": "https://www.theinnatlittlewashington.com/",
+   "address": "309 Middle St., Washington, DC, 22747, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/the-inn-at-little-washington"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/the-inn-at-little-washington"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/the-inn-at-little-washington",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/minibar-by-jose-andres",
+   "city_id": "washington-dc-us",
+   "slug": "minibar-by-jose-andres",
+   "name": "minibar by José Andrés",
+   "website": "https://www.minibarbyjoseandres.com/",
+   "address": "855 E St. NW, Washington, DC, 20004, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/minibar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/minibar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/gravitas",
+   "city_id": "washington-dc-us",
+   "slug": "gravitas",
+   "name": "Gravitas",
+   "website": "https://www.gravitasdc.com/",
+   "address": "1401 Okie St. NE, Washington, DC, 20002, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/gravitas"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/gravitas",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/omakase-at-barracks-row",
+   "city_id": "washington-dc-us",
+   "slug": "omakase-at-barracks-row",
+   "name": "Omakase at Barracks Row",
+   "website": "https://www.omakasedc.com/",
+   "address": "522 8th St. SE, Washington, DC, 20003, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/omakase-at-barracks-row"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/omakase-at-barracks-row",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/pineapple-and-pearls",
+   "city_id": "washington-dc-us",
+   "slug": "pineapple-and-pearls",
+   "name": "Pineapple and Pearls",
+   "website": "https://www.pineappleandpearls.com/",
+   "address": "715 8th St. SE, Washington, DC, 20003, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/pineapple-and-pearls"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/pineapple-and-pearls",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/astoria-dc",
+   "city_id": "washington-dc-us",
+   "slug": "astoria-dc",
+   "name": "Astoria DC",
+   "website": "https://astoriadc.com/",
+   "address": "1521 17th St. NW, Washington, DC, 20036, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/astoria-dc"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/astoria-dc",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/ivy-city-smokehouse",
+   "city_id": "washington-dc-us",
+   "slug": "ivy-city-smokehouse",
+   "name": "Ivy City Smokehouse",
+   "website": "https://ivycitysmokehouse.com/",
+   "address": "1356 Okie St. NE, Washington, DC, 20002, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/ivy-city-smokehouse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/ivy-city-smokehouse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/lardente",
+   "city_id": "washington-dc-us",
+   "slug": "lardente",
+   "name": "L’Ardente",
+   "website": "https://www.lardente.com/",
+   "address": "200 Massachusetts Ave. NW, Ste. 100, Washington, DC, 20001, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/l%E2%80%99ardente"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/l%E2%80%99ardente",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/phoxotic",
+   "city_id": "washington-dc-us",
+   "slug": "phoxotic",
+   "name": "PhoXotic",
+   "website": "https://www.phoxotic.com/",
+   "address": "103 Rhode Island Ave. NW, Washington, DC, 20001, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/phoxotic"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/phoxotic",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/unconventional-diner",
+   "city_id": "washington-dc-us",
+   "slug": "unconventional-diner",
+   "name": "Unconventional Diner",
+   "website": "https://www.unconventionaldiner.com/",
+   "address": "1207 9th St. NW, Washington, DC, 20001, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/unconventional-diner"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/unconventional-diner",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/yellow",
+   "city_id": "washington-dc-us",
+   "slug": "yellow",
+   "name": "Yellow",
+   "website": "https://www.yellowthecafe.com/",
+   "address": "1524 Wisconsin Ave. NW, Washington, DC, 20007, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/yellow"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/yellow",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/kappo",
+   "city_id": "washington-dc-us",
+   "slug": "kappo",
+   "name": "Kappo",
+   "website": "https://kappodc.com/",
+   "address": "4822 MacArthur Blvd. NW, Washington, DC, 20007, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/kappo-1208766"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/kappo-1208766",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/karravaan",
+   "city_id": "washington-dc-us",
+   "slug": "karravaan",
+   "name": "Karravaan",
+   "website": "https://www.karravaan.com/",
+   "address": "325 Morse St. NE, Washington, DC, 20002, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/karravaan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/karravaan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/micheles",
+   "city_id": "washington-dc-us",
+   "slug": "micheles",
+   "name": "Michele's",
+   "website": "https://www.michelesdc.com/",
+   "address": "Eaton Hotel, 1201 K St. NW, Washington, DC, 20005, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/michele-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/michele-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/patty-os-cafe-bakery",
+   "city_id": "washington-dc-us",
+   "slug": "patty-os-cafe-bakery",
+   "name": "Patty O's Cafe & Bakery",
+   "website": "https://www.pattyoscafe.com/",
+   "address": "389 Main St., Washington, DC, 22747, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/patty-o-s-cafe-bakery"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/patty-o-s-cafe-bakery",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/raw-omakase",
+   "city_id": "washington-dc-us",
+   "slug": "raw-omakase",
+   "name": "Raw Omakase",
+   "website": "https://rawomakasedc.com/",
+   "address": "1326 14th St. NW, Washington, DC, 20005, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/raw-omakase"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/raw-omakase",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/rumis-kitchen",
+   "city_id": "washington-dc-us",
+   "slug": "rumis-kitchen",
+   "name": "Rumi's Kitchen",
+   "website": "https://www.rumiskitchen.com",
+   "address": "640 L St. NW, Washington, DC, 20001, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/rumi-s-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/rumi-s-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Persian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/thip-khao",
+   "city_id": "washington-dc-us",
+   "slug": "thip-khao",
+   "name": "Thip Khao",
+   "website": "https://www.thipkhao.com/",
+   "address": "3462 14th St. NW, Washington, DC, 20010, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/thip-khao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/district-of-columbia/washington-dc/restaurant/thip-khao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lao",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "washington-dc-us/applebees-washington",
+   "city_id": "washington-dc-us",
+   "slug": "applebees-washington",
+   "name": "Applebee's",
+   "website": "https://www.applebees.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.applebees.com/en/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.applebees.com/en/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "applebees"
+  },
+  {
+   "restaurant_id": "washington-dc-us/outback-washington",
+   "city_id": "washington-dc-us",
+   "slug": "outback-washington",
+   "name": "Outback Steakhouse",
+   "website": "https://www.outback.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.outback.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.outback.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$",
+   "chain": "outback"
+  },
+  {
+   "restaurant_id": "washington-dc-us/true-food-kitchen-washington",
+   "city_id": "washington-dc-us",
+   "slug": "true-food-kitchen-washington",
+   "name": "True Food Kitchen",
+   "website": "https://www.truefoodkitchen.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.truefoodkitchen.com/menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.truefoodkitchen.com/menu/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "true-food-kitchen"
+  },
+  {
+   "restaurant_id": "washington-dc-us/north-italia-washington",
+   "city_id": "washington-dc-us",
+   "slug": "north-italia-washington",
+   "name": "North Italia",
+   "website": "https://www.northitalia.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.northitalia.com/locations/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.northitalia.com/locations/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "north-italia"
+  },
+  {
+   "restaurant_id": "washington-dc-us/maggianos-washington",
+   "city_id": "washington-dc-us",
+   "slug": "maggianos-washington",
+   "name": "Maggiano's Little Italy",
+   "website": "https://www.maggianos.com/",
+   "address": "",
+   "menu_urls": [
+    "https://locations.maggianos.com/menus/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://locations.maggianos.com/menus/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "maggianos"
+  },
+  {
+   "restaurant_id": "washington-dc-us/yard-house-washington",
+   "city_id": "washington-dc-us",
+   "slug": "yard-house-washington",
+   "name": "Yard House",
+   "website": "https://www.yardhouse.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.yardhouse.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.yardhouse.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "yard-house"
+  },
+  {
+   "restaurant_id": "washington-dc-us/capital-grille-washington",
+   "city_id": "washington-dc-us",
+   "slug": "capital-grille-washington",
+   "name": "The Capital Grille",
+   "website": "https://www.thecapitalgrille.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.thecapitalgrille.com/menu/dinner"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.thecapitalgrille.com/menu/dinner"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$",
+   "chain": "capital-grille"
+  },
+  {
+   "restaurant_id": "washington-dc-us/cracker-barrel-washington",
+   "city_id": "washington-dc-us",
+   "slug": "cracker-barrel-washington",
+   "name": "Cracker Barrel",
+   "website": "https://www.crackerbarrel.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.crackerbarrel.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.crackerbarrel.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "cracker-barrel"
+  },
+  {
+   "restaurant_id": "washington-dc-us/seasons-52-washington",
+   "city_id": "washington-dc-us",
+   "slug": "seasons-52-washington",
+   "name": "Seasons 52",
+   "website": "https://www.seasons52.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.seasons52.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.seasons52.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$$",
+   "chain": "seasons-52"
+  },
+  {
+   "restaurant_id": "washington-dc-us/coopers-hawk-washington",
+   "city_id": "washington-dc-us",
+   "slug": "coopers-hawk-washington",
+   "name": "Cooper's Hawk",
+   "website": "https://chwinery.com/",
+   "address": "",
+   "menu_urls": [
+    "https://chwinery.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://chwinery.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$$",
+   "chain": "coopers-hawk"
+  }
+ ]
+}

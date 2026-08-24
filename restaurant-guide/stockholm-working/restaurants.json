@@ -1,0 +1,710 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "stockholm-se",
+ "restaurant_count": 18,
+ "restaurants": [
+  {
+   "restaurant_id": "stockholm-se/matbaren",
+   "city_id": "stockholm-se",
+   "slug": "matbaren",
+   "name": "Matbaren",
+   "website": "",
+   "address": "Södra Blasieholmshamnen 6, Stockholm, 103 27, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/matbaren"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/matbaren",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/aira",
+   "city_id": "stockholm-se",
+   "slug": "aira",
+   "name": "AIRA",
+   "website": "https://www.aira.se",
+   "address": "Biskopsvägen 9, Stockholm, 115 21, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/aira"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/aira",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/seafood-gastro",
+   "city_id": "stockholm-se",
+   "slug": "seafood-gastro",
+   "name": "Seafood Gastro",
+   "website": "https://mdghs.se/en/seafood-gastro/",
+   "address": "Södra Blasieholmshamnen 8, Stockholm, 11148, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/seafood-gastro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/seafood-gastro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/babette",
+   "city_id": "stockholm-se",
+   "slug": "babette",
+   "name": "Babette",
+   "website": "https://www.babette.se",
+   "address": "Roslagsgatan 6, Stockholm, 113 55, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/babette"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/babette",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "stockholm-se/bar-agrikultur",
+   "city_id": "stockholm-se",
+   "slug": "bar-agrikultur",
+   "name": "Bar Agrikultur",
+   "website": "https://baragrikultur.com",
+   "address": "Skånegatan 79, Stockholm, 116 35, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/bar-agrikultur"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/bar-agrikultur",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Swedish",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "stockholm-se/lilla-ego",
+   "city_id": "stockholm-se",
+   "slug": "lilla-ego",
+   "name": "Lilla Ego",
+   "website": "https://www.lillaego.com/",
+   "address": "Västmannagatan 69, Stockholm, 113 26, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/lilla-ego"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/lilla-ego",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/rolfs-kok",
+   "city_id": "stockholm-se",
+   "slug": "rolfs-kok",
+   "name": "Rolfs Kök",
+   "website": "https://www.rolfskok.se",
+   "address": "Tegnérgatan 41, Stockholm, 111 61, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/rolfs-kok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/rolfs-kok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/triton",
+   "city_id": "stockholm-se",
+   "slug": "triton",
+   "name": "Triton",
+   "website": "https://www.triton.restaurant/",
+   "address": "Ringvägen 87, Stockholm, 118 61, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/triton"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/triton",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/arla",
+   "city_id": "stockholm-se",
+   "slug": "arla",
+   "name": "ÄRLA",
+   "website": "https://www.restaurangaerla.se",
+   "address": "Danderydsgatan 25, Stockholm, 114 26, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/arla"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/arla",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/bord",
+   "city_id": "stockholm-se",
+   "slug": "bord",
+   "name": "BORD",
+   "website": "https://www.bord.restaurant",
+   "address": "Roslagsgatan 43, Stockholm, 113 54, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/bord"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/bord",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/essence",
+   "city_id": "stockholm-se",
+   "slug": "essence",
+   "name": "Essence",
+   "website": "https://www.restaurantessence.com/",
+   "address": "Hjalmar Södersbergs Väg 10, Stockholm, 112 14, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/essence-1203656"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/essence-1203656",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/ett-hem",
+   "city_id": "stockholm-se",
+   "slug": "ett-hem",
+   "name": "Ett Hem",
+   "website": "https://www.etthem.se",
+   "address": "Sköldungagatan 4, Stockholm, 114 27, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/ett-hem"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/ett-hem",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/hillenberg",
+   "city_id": "stockholm-se",
+   "slug": "hillenberg",
+   "name": "Hillenberg",
+   "website": "https://hillenberg.se",
+   "address": "Humlegårdsgatan 14, Stockholm, 114 46, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/hillenberg"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/hillenberg",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/petri",
+   "city_id": "stockholm-se",
+   "slug": "petri",
+   "name": "Petri",
+   "website": "https://www.petrirestaurant.com",
+   "address": "Kommendörsgatan 16, Stockholm, 11448, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/petri"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/petri",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/solen",
+   "city_id": "stockholm-se",
+   "slug": "solen",
+   "name": "SOLEN",
+   "website": "https://www.solen.se",
+   "address": "Hallgränd 45, Johanneshov, Stockholm, 121 62, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/solen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/solen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "stockholm-se/voisine",
+   "city_id": "stockholm-se",
+   "slug": "voisine",
+   "name": "Voisine",
+   "website": "https://voisine.se",
+   "address": "Erstagatan 21, Stockholm, 116 36, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/voisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/voisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "stockholm-se/washoku-tomo",
+   "city_id": "stockholm-se",
+   "slug": "washoku-tomo",
+   "name": "Washoku TOMO",
+   "website": "https://www.washokutomo.se",
+   "address": "Timmermansgatan 15, Stockholm, 118 25, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/washoku-tomo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/washoku-tomo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "stockholm-se/woodstockholm",
+   "city_id": "stockholm-se",
+   "slug": "woodstockholm",
+   "name": "Woodstockholm",
+   "website": "https://woodstockholm.com",
+   "address": "Mosebacke Torg 9, Stockholm, 116 46, Sweden",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/woodstockholm"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/woodstockholm",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  }
+ ]
+}

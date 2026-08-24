@@ -1,0 +1,710 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "berlin-de",
+ "restaurant_count": 18,
+ "restaurants": [
+  {
+   "restaurant_id": "berlin-de/otsuka",
+   "city_id": "berlin-de",
+   "slug": "otsuka",
+   "name": "OTSUKA",
+   "website": "",
+   "address": "Gartenstr. 86, Berlin, 10115, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/otsuka"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/otsuka",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/bandol-sur-mer",
+   "city_id": "berlin-de",
+   "slug": "bandol-sur-mer",
+   "name": "Bandol sur mer",
+   "website": "https://www.bandolsurmer.de/",
+   "address": "Torstraße 167, Berlin, 10115, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/bandol-sur-mer"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/bandol-sur-mer",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/matthias",
+   "city_id": "berlin-de",
+   "slug": "matthias",
+   "name": "Matthias",
+   "website": "https://www.matthiasrestaurant.com/",
+   "address": "Kollwitzstraße 87, Berlin, 10435, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/matthias"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/matthias",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/pars-restaurant",
+   "city_id": "berlin-de",
+   "slug": "pars-restaurant",
+   "name": "pars Restaurant",
+   "website": "https://parspralinen.com/pages/das-restaurant",
+   "address": "Grolmanstraße 53, Berlin, 10623, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/pars-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/pars-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/tulus-lotrek",
+   "city_id": "berlin-de",
+   "slug": "tulus-lotrek",
+   "name": "tulus lotrek",
+   "website": "https://www.tuluslotrek.de/",
+   "address": "Fichtestraße 24, Berlin, 10967, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/tulus-lotrek"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/tulus-lotrek",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/mastan",
+   "city_id": "berlin-de",
+   "slug": "mastan",
+   "name": "MASTAN",
+   "website": "https://restaurantmastan.com",
+   "address": "Gneisenaustraße 67, Berlin, 10961, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/mastan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/mastan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Classic French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "berlin-de/nubaumerin",
+   "city_id": "berlin-de",
+   "slug": "nubaumerin",
+   "name": "Nußbaumerin",
+   "website": "https://www.nussbaumerin.de/",
+   "address": "Leibnizstraße 55, Berlin, 10629, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/nussbaumerin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/nussbaumerin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Austrian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "berlin-de/remi",
+   "city_id": "berlin-de",
+   "slug": "remi",
+   "name": "Remi",
+   "website": "https://remi-berlin.de/",
+   "address": "Torstraße 48, Berlin, 10119, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/remi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/remi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "berlin-de/brikz",
+   "city_id": "berlin-de",
+   "slug": "brikz",
+   "name": "BRIKZ",
+   "website": "https://restaurantbrikz.com/",
+   "address": "Grolmanstraße 53, Berlin, 10623, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/brikz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/brikz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/bocca-di-bacco",
+   "city_id": "berlin-de",
+   "slug": "bocca-di-bacco",
+   "name": "Bocca di Bacco",
+   "website": "https://www.boccadibacco.de/",
+   "address": "Friedrichstraße 167, Berlin, 10117, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/bocca-di-bacco"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/bocca-di-bacco",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "berlin-de/brasserie-lamazere",
+   "city_id": "berlin-de",
+   "slug": "brasserie-lamazere",
+   "name": "Brasserie Lamazère",
+   "website": "https://lamazere.de/",
+   "address": "Stuttgarter Platz 18, Berlin, 10627, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/brasserie-lamazere"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/brasserie-lamazere",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "berlin-de/fa-me",
+   "city_id": "berlin-de",
+   "slug": "fa-me",
+   "name": "Fa:me",
+   "website": "https://famegastrobar.com/",
+   "address": "Lenaustraße 21, Berlin, 12047, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/fa-me"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/fa-me",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/jaja",
+   "city_id": "berlin-de",
+   "slug": "jaja",
+   "name": "JAJA",
+   "website": "https://jajawein.de/",
+   "address": "Weichselstraße 7, Berlin, 12043, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/jaja"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/jaja",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "berlin-de/kitten-deli",
+   "city_id": "berlin-de",
+   "slug": "kitten-deli",
+   "name": "Kitten Deli",
+   "website": "https://kittendeli.de/reservations",
+   "address": "Friedelstraße 30, Berlin, 12047, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/kitten-deli"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/kitten-deli",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "North African",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "berlin-de/norms",
+   "city_id": "berlin-de",
+   "slug": "norms",
+   "name": "Norms",
+   "website": "https://norms-food.de/",
+   "address": "Elisabethkirchstraße 2, Berlin, 10115, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/norms"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/norms",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Regional Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/orania-berlin",
+   "city_id": "berlin-de",
+   "slug": "orania-berlin",
+   "name": "Orania.Berlin",
+   "website": "https://orania.berlin",
+   "address": "Oranienplatz 17, Berlin, 10999, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/orania-berlin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/orania-berlin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/aerde",
+   "city_id": "berlin-de",
+   "slug": "aerde",
+   "name": "aerde",
+   "website": "https://www.aerde.de/",
+   "address": "Am Lokdepot 6, Berlin, 10965, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/aerde"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/aerde",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "berlin-de/eins44",
+   "city_id": "berlin-de",
+   "slug": "eins44",
+   "name": "eins44",
+   "website": "https://www.eins44.com",
+   "address": "Elbestraße 28, Berlin, 12045, Germany",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/eins44"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/berlin-region/berlin/restaurant/eins44",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seasonal Cuisine",
+   "price_tier": "$$$"
+  }
+ ]
+}

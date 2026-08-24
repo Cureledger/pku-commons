@@ -1,0 +1,484 @@
+[
+  {
+    "name": "Casa De Carli",
+    "slug": "casa-de-carli",
+    "city_id": "prague-cz",
+    "website": "https://www.casadecarli.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Vězeňská 5, Prague, 11 000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Field",
+    "slug": "field",
+    "city_id": "prague-cz",
+    "website": "https://www.fieldrestaurant.cz/en/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "U Milosrdných 12, Prague, 110 00, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "LEVITATE",
+    "slug": "levitate",
+    "city_id": "prague-cz",
+    "website": "https://www.levitate.cz",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Vinohradská 1228/47, Prague, 12000, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Degustation Bohême Bourgeoise",
+    "slug": "la-degustation-boheme-bourgeoise",
+    "city_id": "prague-cz",
+    "website": "https://www.ladegustation.cz/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Haštalská 18, Prague, 110 00, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Štangl",
+    "slug": "stangl",
+    "city_id": "prague-cz",
+    "website": "https://stangl.ambi.cz/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Pernerova 49, Prague, 18600, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alma",
+    "slug": "alma",
+    "city_id": "prague-cz",
+    "website": "https://www.almaprague.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "V Jirchářích 8, Prague, 11000, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dejvická 34 by Tomáš Černý",
+    "slug": "dejvicka-34-by-tomas-cerny",
+    "city_id": "prague-cz",
+    "website": "https://www.dejvicka34.cz/cz/restaurace",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Dejvická 34, Prague, 16000, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Na Kopci",
+    "slug": "na-kopci",
+    "city_id": "prague-cz",
+    "website": "https://www.nakopci.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "K Závěrce 2774/20, Prague, 150 00, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Eatery",
+    "slug": "the-eatery",
+    "city_id": "prague-cz",
+    "website": "https://www.theeatery.cz/cz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "U Uranie 954/18, Prague, 170 00, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "U Kalendů",
+    "slug": "u-kalendu",
+    "city_id": "prague-cz",
+    "website": "https://www.ukalendu.ambi.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rašínovo Nábřeží 383/58, Prague, 12800, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "U Matěje",
+    "slug": "u-mateje",
+    "city_id": "prague-cz",
+    "website": "https://www.umateje1.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "U Matěje 152/1, Prague, 16000, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Výčep",
+    "slug": "vycep",
+    "city_id": "prague-cz",
+    "website": "https://vycepkorunni.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Korunní 1304/92, Prague, 101 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "420 Restaurant",
+    "slug": "420-restaurant",
+    "city_id": "prague-cz",
+    "website": "https://www.420restaurant.cz",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Staroměstské Náměstí 480/24, Prague, 11000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Amano",
+    "slug": "amano",
+    "city_id": "prague-cz",
+    "website": "https://amano.lacollezione.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Na Poříčí 48, Prague, 11000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Antricote Steakhouse",
+    "slug": "antricote-steakhouse",
+    "city_id": "prague-cz",
+    "website": "https://antricote.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Břehová 274/5, Prague, 11000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Apelace21",
+    "slug": "apelace21",
+    "city_id": "prague-cz",
+    "website": "https://www.apelace21.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Záhřebská 21, Prague, 12000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Aromi",
+    "slug": "aromi",
+    "city_id": "prague-cz",
+    "website": "https://aromi.lacollezione.cz/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Námĕstí Míru 6, Prague, 120 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Benjamin",
+    "slug": "benjamin",
+    "city_id": "prague-cz",
+    "website": "https://www.benjamin14.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Norská 14, Prague, 101 00, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bockem",
+    "slug": "bockem",
+    "city_id": "prague-cz",
+    "website": "https://bockem.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Elišky Peškové 1095/5, Prague, 150 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Coda",
+    "slug": "coda",
+    "city_id": "prague-cz",
+    "website": "https://www.codarestaurant.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tržiště 9, Prague, 11000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "CottoCrudo",
+    "slug": "cottocrudo",
+    "city_id": "prague-cz",
+    "website": "https://www.fourseasons.com/prague/dining/restaurants/cottocrudo/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Veleslavínova 1098/2A, Prague, 110 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dergi Praha",
+    "slug": "dergi-praha",
+    "city_id": "prague-cz",
+    "website": "https://www.dergipraha.cz",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Revoluční 25, Prague, 11000, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Grand Cru",
+    "slug": "grand-cru",
+    "city_id": "prague-cz",
+    "website": "https://grand-cru.cz",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lodecká 4, Prague, 110 00, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "LEAF",
+    "slug": "leaf",
+    "city_id": "prague-cz",
+    "website": "https://www.r-leaf.cz",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Dubečská 8, Strašnice, Prague, 10000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Finestra in Cucina",
+    "slug": "la-finestra-in-cucina",
+    "city_id": "prague-cz",
+    "website": "https://lafinestra.lacollezione.cz/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Platnéřská 13, Prague, 110 00, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Veranda",
+    "slug": "la-veranda",
+    "city_id": "prague-cz",
+    "website": "https://www.laveranda.cz",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Elišky Krásnohorské 2/10, Prague, 110 00, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Marie B",
+    "slug": "marie-b",
+    "city_id": "prague-cz",
+    "website": "https://www.marieb.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dlouhá 37, Prague, 11000, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mlýnec",
+    "slug": "mlynec",
+    "city_id": "prague-cz",
+    "website": "https://www.mlynec.cz/en/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Novotného Lávka 9, Prague, 110 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Monarch",
+    "slug": "monarch",
+    "city_id": "prague-cz",
+    "website": "https://www.monarch.cz",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Na Perštýně 15, Prague, 110 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Parzival",
+    "slug": "parzival",
+    "city_id": "prague-cz",
+    "website": "https://www.parzivalrestaurant.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Karoliny Světlé 323/27, Prague, 11000, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Portfolio",
+    "slug": "portfolio",
+    "city_id": "prague-cz",
+    "website": "https://www.portfolio-restaurant.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lannův Palác, Havlíčkova 1030/1, Prague, 110 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pot au Feu",
+    "slug": "pot-au-feu",
+    "city_id": "prague-cz",
+    "website": "https://potaufeu.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rybná 13, Prague, 110 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "QQ Asian Kitchen",
+    "slug": "qq-asian-kitchen",
+    "city_id": "prague-cz",
+    "website": "https://www.qqasiankitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Odborů 278/4, Prague, 12000, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "STŮL",
+    "slug": "stul",
+    "city_id": "prague-cz",
+    "website": "https://www.stuljp.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "U Matěje 152/1, Prague, 6 160 00, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Salabka",
+    "slug": "salabka",
+    "city_id": "prague-cz",
+    "website": "https://www.salabka.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "K Bohnicím 849/2a, Prague, 171 00, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sansho",
+    "slug": "sansho",
+    "city_id": "prague-cz",
+    "website": "https://www.sansho.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Petrská 25, Prague, 110 00, Czechia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taro",
+    "slug": "taro",
+    "city_id": "prague-cz",
+    "website": "https://www.taro.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Národní 10, Prague, 11000, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "V Zátiši",
+    "slug": "v-zatisi",
+    "city_id": "prague-cz",
+    "website": "https://www.vzatisi.cz/en/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Liliová 1, Betlémské Nám., Prague, 110 00, Czechia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vallmo",
+    "slug": "vallmo",
+    "city_id": "prague-cz",
+    "website": "https://www.vallmo.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plavecká 404/4, Prague, 12800, Czechia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Yamato",
+    "slug": "yamato",
+    "city_id": "prague-cz",
+    "website": "https://yamato.cz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "U Kanálky 14, Prague, 120 00, Czechia",
+    "price_tier": "$$$"
+  }
+]

@@ -1,0 +1,963 @@
+[
+  {
+    "name": "Le Neuvième Art",
+    "slug": "le-neuvieme-art",
+    "city_id": "lyon-fr",
+    "website": "https://leneuviemeart.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "173 rue Cuvier, Lyon, 69006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mère Brazier",
+    "slug": "mere-brazier",
+    "city_id": "lyon-fr",
+    "website": "https://lamerebrazier.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "12 rue Royale, Lyon, 69001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Takao Takano",
+    "slug": "takao-takano",
+    "city_id": "lyon-fr",
+    "website": "https://www.takaotakano.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "33 rue Malesherbes, Lyon, 69006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Au 14 Février",
+    "slug": "au-14-fevrier",
+    "city_id": "lyon-fr",
+    "website": "https://www.ly-au14fevrier.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "36 rue du Bœuf, Lyon, 69005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Burgundy by Matthieu",
+    "slug": "burgundy-by-matthieu",
+    "city_id": "lyon-fr",
+    "website": "https://burgundybym.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "24 quai Saint-Antoine, Lyon, 69002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Circle",
+    "slug": "circle",
+    "city_id": "lyon-fr",
+    "website": "https://circlelyon.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "11 rue Chavanne, Lyon, 69001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Atelier des Augustins",
+    "slug": "latelier-des-augustins",
+    "city_id": "lyon-fr",
+    "website": "https://latelierdesaugustins.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "17 rue Hippolyte-Flandrin, Lyon, 69001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Les Loges",
+    "slug": "les-loges",
+    "city_id": "lyon-fr",
+    "website": "https://courdesloges.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Cour des Loges, 6 rue du Bœuf, Lyon, 69005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Miraflores",
+    "slug": "miraflores",
+    "city_id": "lyon-fr",
+    "website": "https://www.restaurant-miraflores.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "112 boulevard des Belges, Lyon, 69006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ombellule",
+    "slug": "ombellule",
+    "city_id": "lyon-fr",
+    "website": "https://www.ombellule.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "36 cours Franklin-Roosevelt, Lyon, 69006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Prairial",
+    "slug": "prairial",
+    "city_id": "lyon-fr",
+    "website": "https://www.prairial-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "1 place Hubert-Mounier, Lyon, 69002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Rustique",
+    "slug": "rustique",
+    "city_id": "lyon-fr",
+    "website": "https://www.rustiquelyon.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "14 rue d'Enghien, Lyon, 69002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Têtedoie",
+    "slug": "tetedoie",
+    "city_id": "lyon-fr",
+    "website": "https://tetedoie.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4 rue Professeur-Pierre-Marion, Lyon, 69005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Accentué",
+    "slug": "accentue",
+    "city_id": "lyon-fr",
+    "website": "https://www.accentue-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "97 rue de Gerland, Lyon, 69007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Agastache",
+    "slug": "agastache",
+    "city_id": "lyon-fr",
+    "website": "https://agastache-restaurant-lyon.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "134 rue Duguesclin, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bergamote",
+    "slug": "bergamote",
+    "city_id": "lyon-fr",
+    "website": "https://restaurant-bergamote.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "123 rue de Gerland, Lyon, 69007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cinq Mains",
+    "slug": "cinq-mains",
+    "city_id": "lyon-fr",
+    "website": "https://www.cinqmains.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "12 rue Monseigneur-Lavarenne, Lyon, 69005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Danton",
+    "slug": "danton",
+    "city_id": "lyon-fr",
+    "website": "https://danton-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "8 rue Danton, Lyon, 69003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Meunière",
+    "slug": "la-meuniere",
+    "city_id": "lyon-fr",
+    "website": "https://www.lameuniere.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "11 rue Neuve, Lyon, 69001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Cochon qui Boit",
+    "slug": "le-cochon-qui-boit",
+    "city_id": "lyon-fr",
+    "website": "https://www.lecochonquiboit.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "23 rue Royale, Lyon, 69001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Jean Moulin",
+    "slug": "le-jean-moulin",
+    "city_id": "lyon-fr",
+    "website": "https://lejeanmoulin-lyon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "45 rue de Sèze, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Kitchen",
+    "slug": "le-kitchen",
+    "city_id": "lyon-fr",
+    "website": "https://www.lekitchenlyon.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "34 rue Chevreul, Lyon, 69007, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "Le Tiroir",
+    "slug": "le-tiroir",
+    "city_id": "lyon-fr",
+    "website": "https://restaurant-letiroir.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "20 grande rue de Vaise, Lyon, 69009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Zeste Gourmand",
+    "slug": "le-zeste-gourmand",
+    "city_id": "lyon-fr",
+    "website": "https://lezestegourmand.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "93 rue Bossuet, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "M Restaurant",
+    "slug": "m-restaurant",
+    "city_id": "lyon-fr",
+    "website": "https://www.mrestaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "47 avenue Maréchal-Foch, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Racine",
+    "slug": "racine",
+    "city_id": "lyon-fr",
+    "website": "https://www.racinerestaurant-lyon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1 rue du Chapeau-Rouge, Lyon, 69009, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "Siprès",
+    "slug": "sipres",
+    "city_id": "lyon-fr",
+    "website": "https://www.sipresrestaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2 place du Prado, Lyon, 69007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Veronatuti",
+    "slug": "veronatuti",
+    "city_id": "lyon-fr",
+    "website": "https://veronatuti.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "122 rue Montesquieu, Lyon, 69007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Alebrije",
+    "slug": "alebrije",
+    "city_id": "lyon-fr",
+    "website": "https://restaurant-alebrije.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 rue Justin-Godart, Lyon, 69004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Armada",
+    "slug": "armada",
+    "city_id": "lyon-fr",
+    "website": "https://armada-lyon.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue du Bœuf, Lyon, 69005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aromatic",
+    "slug": "aromatic",
+    "city_id": "lyon-fr",
+    "website": "https://aromaticrestaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "15 rue du Chariot-d'Or, Lyon, 69004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistro B",
+    "slug": "bistro-b",
+    "city_id": "lyon-fr",
+    "website": "https://bistro-b.eatbu.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "90 rue Duguesclin, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie Roseaux",
+    "slug": "brasserie-roseaux",
+    "city_id": "lyon-fr",
+    "website": "https://www.brasserieroseaux.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "34 cours Franklin-Roosevelt, Lyon, 69006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brutal",
+    "slug": "brutal",
+    "city_id": "lyon-fr",
+    "website": "https://www.brutal.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 rue des Remparts-d'Ainay, Lyon, 69002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bulle",
+    "slug": "bulle",
+    "city_id": "lyon-fr",
+    "website": "https://www.bullerestaurantfourviere.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 place de Fourvière, Lyon, 69005, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Café Terroir",
+    "slug": "cafe-terroir",
+    "city_id": "lyon-fr",
+    "website": "https://www.cafeterroir.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 rue d'Amboise, Lyon, 69002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Canaima",
+    "slug": "canaima",
+    "city_id": "lyon-fr",
+    "website": "https://www.restaurantcanaima.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 rue René-Leynaud, Lyon, 69001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Carpe Diem",
+    "slug": "carpe-diem",
+    "city_id": "lyon-fr",
+    "website": "https://carpediem.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "56 rue Molière, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Celest",
+    "slug": "celest",
+    "city_id": "lyon-fr",
+    "website": "https://celest-bar-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Radisson Blu Lyon, 129 rue Servient, Lyon, 69003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chez Pimousse",
+    "slug": "chez-pimousse",
+    "city_id": "lyon-fr",
+    "website": "https://www.chezpimousse.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 quai Saint-Vincent, Lyon, 69001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Culina Hortus",
+    "slug": "culina-hortus",
+    "city_id": "lyon-fr",
+    "website": "https://www.culinahortus.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "38 rue de l'Arbre-Sec, Lyon, 69001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Curnonsky",
+    "slug": "curnonsky",
+    "city_id": "lyon-fr",
+    "website": "https://www.curnonskylyon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue Hippolyte-Flandrin, Lyon, 69001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Daniel et Denise Croix-Rousse",
+    "slug": "daniel-et-denise-croix-rousse",
+    "city_id": "lyon-fr",
+    "website": "https://danieletdenise.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 rue de Cuire, Lyon, 69004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Daniel et Denise Créqui",
+    "slug": "daniel-et-denise-crequi",
+    "city_id": "lyon-fr",
+    "website": "https://danieletdenise.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "156 rue de Créqui, Lyon, 69003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Daniel et Denise Saint-Jean",
+    "slug": "daniel-et-denise-saint-jean",
+    "city_id": "lyon-fr",
+    "website": "https://danieletdenise.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "36 rue Tramassac, Lyon, 69005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Epona",
+    "slug": "epona",
+    "city_id": "lyon-fr",
+    "website": "https://restaurant-epona-lyon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "InterContinental Lyon - Hotel Dieu, 20 quai Jules-Courmont, Lyon, 69002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fujiyama 55",
+    "slug": "fujiyama-55",
+    "city_id": "lyon-fr",
+    "website": "https://www.fujiyama55-ramen.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 avenue Jean-Jaurès, Lyon, 69007, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "L'Alexandrin",
+    "slug": "lalexandrin",
+    "city_id": "lyon-fr",
+    "website": "https://www.lalexandrin.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "83 rue Moncey, Lyon, 69003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Artichaut",
+    "slug": "lartichaut",
+    "city_id": "lyon-fr",
+    "website": "https://hotelabbayelyon.com/restaurant-artichaut/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hôtel de l'Abbaye, 20 rue de l'Abbaye-d'Ainay, Lyon, 69002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Établi",
+    "slug": "letabli",
+    "city_id": "lyon-fr",
+    "website": "https://www.letabli-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 rue des Remparts-d'Ainay, Lyon, 69002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Quintessence",
+    "slug": "la-quintessence",
+    "city_id": "lyon-fr",
+    "website": "https://restaurant-laquintessence.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "31 rue du Bât-d'Argent, Lyon, 69001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Table 101",
+    "slug": "la-table-101",
+    "city_id": "lyon-fr",
+    "website": "https://www.latable101.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "101 rue Moncey, Lyon, 69003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Table de la Villa Florentine",
+    "slug": "la-table-de-la-villa-florentine",
+    "city_id": "lyon-fr",
+    "website": "https://www.beauvallon.com/villa-florentine-lyon/restaurants-bar",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 montée Saint-Barthélémy, Lyon, 69005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Bistrot des Voraces",
+    "slug": "le-bistrot-des-voraces",
+    "city_id": "lyon-fr",
+    "website": "https://www.bistrotdesvoraces.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "13 rue d'Austerlitz, Lyon, 69004, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "Le Canut et les Gones",
+    "slug": "le-canut-et-les-gones",
+    "city_id": "lyon-fr",
+    "website": "https://lecanutetlesgones.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "29 rue Belfort, Lyon, 69004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Grand Réfectoire",
+    "slug": "le-grand-refectoire",
+    "city_id": "lyon-fr",
+    "website": "https://legrandrefectoire.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 cour Saint-Henri, Grand Hôtel-Dieu, Lyon, 69002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Limonadier",
+    "slug": "le-limonadier",
+    "city_id": "lyon-fr",
+    "website": "https://lelimonadierlyon.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Justin-Godart, Lyon, 69004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Musée",
+    "slug": "le-musee",
+    "city_id": "lyon-fr",
+    "website": "https://www.bouchonlemusee.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 rue des Forces, Lyon, 69002, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "Le Président",
+    "slug": "le-president",
+    "city_id": "lyon-fr",
+    "website": "https://restaurantlepresident.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 avenue de Grande-Bretagne, Lyon, 69006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Sully",
+    "slug": "le-sully",
+    "city_id": "lyon-fr",
+    "website": "https://www.lesullylyon.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "20 rue Sully, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Suprême",
+    "slug": "le-supreme",
+    "city_id": "lyon-fr",
+    "website": "https://lesupremelyon.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "106 cours Gambetta, Lyon, 69007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Leptine",
+    "slug": "leptine",
+    "city_id": "lyon-fr",
+    "website": "https://www.leptine.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue Hippolyte-Flandrin, Lyon, 69001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Boulistes",
+    "slug": "les-boulistes",
+    "city_id": "lyon-fr",
+    "website": "https://www.lesboulistes.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 place Tabareau, Lyon, 69004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Trois Dômes",
+    "slug": "les-trois-domes",
+    "city_id": "lyon-fr",
+    "website": "https://www.les-3-domes.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sofitel Lyon Bellecour, 20 quai du Docteur-Gailleton, Lyon, 69002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Maison Léa",
+    "slug": "maison-lea",
+    "city_id": "lyon-fr",
+    "website": "https://lamerelea.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 quai des Célestins, Lyon, 69002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mertensia",
+    "slug": "mertensia",
+    "city_id": "lyon-fr",
+    "website": "https://mertensia-lyon.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "52 rue Tronchet, Lyon, 69006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Milprée",
+    "slug": "milpree",
+    "city_id": "lyon-fr",
+    "website": "https://www.milpree.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 rue de Sèze, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Monsieur P",
+    "slug": "monsieur-p",
+    "city_id": "lyon-fr",
+    "website": "https://www.monsieurp.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 place des Célestins, Lyon, 69002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Murmures",
+    "slug": "murmures",
+    "city_id": "lyon-fr",
+    "website": "https://www.murmuresrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 rue Giuseppe-Verdi, Lyon, 69001, France",
+    "price_tier": "€€"
+  },
+  {
+    "name": "Osteria Matto",
+    "slug": "osteria-matto",
+    "city_id": "lyon-fr",
+    "website": "https://osteria-matto-lyon.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "23 rue de Sèze, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "PY Restaurant",
+    "slug": "py-restaurant",
+    "city_id": "lyon-fr",
+    "website": "https://pyrestaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 cours Vitton, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Regain",
+    "slug": "regain",
+    "city_id": "lyon-fr",
+    "website": "https://www.regainrestaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 rue d'Algérie, Lyon, 69001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rousille",
+    "slug": "rousille",
+    "city_id": "lyon-fr",
+    "website": "https://rousille.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "95 rue Bossuet, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sauf Imprévu",
+    "slug": "sauf-imprevu",
+    "city_id": "lyon-fr",
+    "website": "https://www.sauf-imprevu.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 rue Pierre-Corneille, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sinabro",
+    "slug": "sinabro",
+    "city_id": "lyon-fr",
+    "website": "https://www.sinabro.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "126 rue de Sèze, Lyon, 69006, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "Söma",
+    "slug": "soma",
+    "city_id": "lyon-fr",
+    "website": "https://bistrotsoma.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 place Saint-Paul, Lyon, 69005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taggat",
+    "slug": "taggat",
+    "city_id": "lyon-fr",
+    "website": "https://www.taggat.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "110 rue Vendôme, Lyon, 69006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Thomas",
+    "slug": "thomas",
+    "city_id": "lyon-fr",
+    "website": "https://www.restaurant-thomas.com/restaurant-thomas/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue Laurencin, Lyon, 69002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Trèfle",
+    "slug": "trefle",
+    "city_id": "lyon-fr",
+    "website": "https://trefle-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 rue Franklin, Lyon, 69002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yka bar & ceviche",
+    "slug": "yka-bar-ceviche",
+    "city_id": "lyon-fr",
+    "website": "https://www.restaurant-miraflores.com/yka/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "112 boulevard des Belges, Lyon, 69006, France",
+    "price_tier": "$$"
+  }
+]

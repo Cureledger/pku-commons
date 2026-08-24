@@ -1,0 +1,1434 @@
+[
+  {
+    "name": "Providence",
+    "slug": "providence",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://providencela.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars",
+      "Green Star"
+    ],
+    "address": "5955 Melrose Ave., Los Angeles, CA, 90038, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Somni",
+    "slug": "somni",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.somnirestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "9045 Nemo St., West Hollywood, CA, 90069, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hayato",
+    "slug": "hayato",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://hayatorestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "1320 E. 7th St., Ste. 126, Los Angeles, CA, 90021, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kato",
+    "slug": "kato",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.katorestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "777 Alameda St., #114, Los Angeles, CA, 90021, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mélisse",
+    "slug": "melisse",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.citrinandmelisse.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "1104 Wilshire Blvd., Santa Monica, CA, 90401, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Vespertine",
+    "slug": "vespertine",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://vespertine.la/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "3599 Hayden Ave., Culver City, CA, 90232, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Citrin",
+    "slug": "citrin",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.citrinandmelisse.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1104 Wilshire Blvd., Santa Monica, CA, 90401, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Corridor 109",
+    "slug": "corridor-109",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.corridor109.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "641 North Western Ave., Ste. A, Los Angeles, CA, 90004, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Holbox",
+    "slug": "holbox",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.holboxla.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3655 S. Grand Ave., Los Angeles, CA, 90007, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "KOJIMA",
+    "slug": "kojima",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://kojima-2130.square.site/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2130 Sawtelle Blvd., Ste. 211, Los Angeles, CA, 90025, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kali",
+    "slug": "kali",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.kalirestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5722 Melrose Ave., Los Angeles, CA, 90038, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lielle",
+    "slug": "lielle",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.lielle.la/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "9575 W. Pico Blvd., Los Angeles, CA, 90035, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Meteora",
+    "slug": "meteora",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://meteora.la",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "6703 Melrose Ave., Los Angeles, CA, 90038, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Miura",
+    "slug": "miura",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://miura-beverlyhills.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "218 N. Rodeo Dr., Beverly Hills, CA, 90210, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mori Nozomi",
+    "slug": "mori-nozomi",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.morinozomi.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "11500 W. Pico Blvd., Los Angeles, CA, 90064, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nozawa Bar",
+    "slug": "nozawa-bar",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.nozawabar.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "212 N. Cañon Dr., Beverly Hills, CA, 90210, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Orsa & Winston",
+    "slug": "orsa-winston",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.orsaandwinston.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "122 W. 4th St., Los Angeles, CA, 90013, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Osteria Mozza",
+    "slug": "osteria-mozza",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.osteriamozza.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "6602 Melrose Ave., Los Angeles, CA, 90038, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Restaurant Ki",
+    "slug": "restaurant-ki",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://restaurantki.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "111 San Pedro St., Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Seline",
+    "slug": "seline",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.selinerestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3110 Main St., Ste. 132, Santa Monica, CA, 90405, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Kaneyoshi",
+    "slug": "sushi-kaneyoshi",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.kaneyoshi.us/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "250 E. 1st St., B1, Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "n/naka",
+    "slug": "n-naka",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://n-naka.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3455 Overland Ave., Los Angeles, CA, 90034, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Carnes Asadas Pancho Lopez",
+    "slug": "carnes-asadas-pancho-lopez",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://mypanchito.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3328 Pasadena Ave., Los Angeles, CA, 90031, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Chifa",
+    "slug": "chifa",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.chifa-la.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4374 Eagle Rock Blvd., Los Angeles, CA, 90041, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cobi's",
+    "slug": "cobis",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.cobis.la/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2104 Main St., Santa Monica, CA, 90405, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Colapasta",
+    "slug": "colapasta",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.colapasta.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1241 5th St., Santa Monica, CA, 90401, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Grá",
+    "slug": "gra",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://xn--gr-nia.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1524 Pizarro St., Los Angeles, CA, 90026, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jon & Vinny’s",
+    "slug": "jon-vinnys",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.jonandvinnys.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "412 N. Fairfax Ave., Los Angeles, CA, 90036, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kismet",
+    "slug": "kismet",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://kismetla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4648 Hollywood Blvd., Los Angeles, CA, 90027, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Komal",
+    "slug": "komal",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://komal.toast.site/order/komal-3655-south-grand-avenue",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3655 S. Grand Ave., Los Angeles, CA, 90007, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Langer's",
+    "slug": "langers",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.langersdeli.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "704 S. Alvarado St., Los Angeles, CA, 90057, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lapaba",
+    "slug": "lapaba",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://lapaba.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "558 S. Western Ave., Los Angeles, CA, 90020, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Little Fish Melrose Hill",
+    "slug": "little-fish-melrose-hill",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://littlefishla.com/melrose-hill",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5035 Melrose Ave., Los Angeles, CA, 90038, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Liu's Cafe",
+    "slug": "lius-cafe",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.liuscafe.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3915 1/2 W. 6th St., Los Angeles, CA, 90020, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Lugya'h",
+    "slug": "lugyah",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://ponchostlayudas.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4301 W. Jefferson Blvd., Los Angeles, CA, 90016, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Lynx",
+    "slug": "lynx",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.thelynxla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "427 S. Hewitt St., Los Angeles, CA, 90013, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Maccheroni Republic",
+    "slug": "maccheroni-republic",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://maccheronirepublic.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "332 S. Broadway, Los Angeles, CA, 90013, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Moo's Craft Barbecue",
+    "slug": "moos-craft-barbecue",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.mooscraftbarbecue.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2118 N. Broadway, Los Angeles, CA, 90031, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pine & Crane",
+    "slug": "pine-crane",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.pineandcrane.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1521 Griffith Park Blvd., Los Angeles, CA, 90026, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Pizzana",
+    "slug": "pizzana",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://pizzana.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "11712 San Vicente Blvd., Los Angeles, CA, 90049, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pizzeria Bianco Los Angeles",
+    "slug": "pizzeria-bianco-los-angeles",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.pizzeriabianco.com/los-angeles",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1320 E. 7th St., Los Angeles, CA, 90021, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pizzeria Mozza",
+    "slug": "pizzeria-mozza",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://pizzeriamozza.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "641 N. Highland Ave., Los Angeles, CA, 90036, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Quarter Sheets",
+    "slug": "quarter-sheets",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.quartersheetspizza.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1305 Portia St., Los Angeles, CA, 90026, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rasarumah",
+    "slug": "rasarumah",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://rasarumah.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3107 Beverly Blvd., Los Angeles, CA, 90026, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Factory Kitchen",
+    "slug": "the-factory-kitchen",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://thefactorykitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1300 Factory Pl., Ste. 101, Los Angeles, CA, 90013, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tsubaki",
+    "slug": "tsubaki",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://tsubakila.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1356 Allison Ave., Los Angeles, CA, 90026, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Union",
+    "slug": "union",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.unionpasadena.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "37 Union St., Pasadena, CA, 91103, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Villa's Tacos",
+    "slug": "villas-tacos",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://villastacos.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5455 N. Figueroa St., Ste. 123, Los Angeles, CA, 90042, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "715",
+    "slug": "715",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.715sushi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "738 E. 3rd St., Los Angeles, CA, 90013, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Agnes",
+    "slug": "agnes",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.agnesla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 W. Green St., Pasadena, CA, 91105, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Alta Adams",
+    "slug": "alta-adams",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://altaadams.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5359 W. Adams Blvd., Los Angeles, CA, 90016, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Angelini Osteria",
+    "slug": "angelini-osteria",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.angelinibeverly.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7313 Beverly Blvd., Los Angeles, CA, 90036, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Antico Nuovo",
+    "slug": "antico-nuovo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.anticonuovo-la.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4653 Beverly Blvd., Los Angeles, CA, 90004, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ardor",
+    "slug": "ardor",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.ardorweho.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The West Hollywood EDITION, 9040 W. Sunset Blvd., West Hollywood, CA, 90069, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ayara Thai",
+    "slug": "ayara-thai",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://ayarathai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6245 W. 87th St., Los Angeles, CA, 90045, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bar Etoile",
+    "slug": "bar-etoile",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://baretoile.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "632 N. Western Ave., Los Angeles, CA, 90004, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bar Sawa",
+    "slug": "bar-sawa",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://barsawa.us/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "111 S. San Pedro St., Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Baroo",
+    "slug": "baroo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.baroolosangeles.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "905 E. 2nd St., #109, Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Barra Santos",
+    "slug": "barra-santos",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.barrasantosla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1215 Cypress Ave., Los Angeles, CA, 90065, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bestia",
+    "slug": "bestia",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://bestiala.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2121 E. 7th Pl., Los Angeles, CA, 90021, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Broken Spanish Comedor",
+    "slug": "broken-spanish-comedor",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://brokenspanishcomedor.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12565 Washington Blvd., Los Angeles, CA, 90066, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "CAMPHOR",
+    "slug": "camphor",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.camphor.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "923 E. 3rd St., Ste. 109, Los Angeles, CA, 90013, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "CASA LEO",
+    "slug": "casa-leo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.casaleola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4500 Los Feliz Blvd., Ste. C, Los Angeles, CA, 90027, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "CUT",
+    "slug": "cut",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://wolfgangpuck.com/restaurants/cut-beverly-hills/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Beverly Wilshire, A Four Seasons Hotel, 9500 Wilshire Blvd., Beverly Hills, CA, 90212, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cento Pasta Bar",
+    "slug": "cento-pasta-bar",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.cento.group/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4921 W. Adams Blvd., Los Angeles, CA, 90016, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chi Spacca",
+    "slug": "chi-spacca",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://chispacca.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "6610 Melrose Ave., Los Angeles, CA, 90038, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Chosun Galbee",
+    "slug": "chosun-galbee",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://chosungalbee.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3330 W. Olympic Blvd., Los Angeles, CA, 90019, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dama",
+    "slug": "dama",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://damafashiondistrict.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "612 E. 11th St., Los Angeles, CA, 90015, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Damian",
+    "slug": "damian",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.damianrestaurants.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2132 E. 7th Pl., Los Angeles, CA, 90021, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Danbi",
+    "slug": "danbi",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://danbi-la.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3465 W. 6th St., Ste. 90-100, Los Angeles, CA, 90020, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Destroyer",
+    "slug": "destroyer",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.destroyer.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3578 Hayden Ave., Culver City, CA, 90232, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dunsmoor",
+    "slug": "dunsmoor",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.dunsmoor.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3501 Eagle Rock Blvd., Los Angeles, CA, 90065, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Electric Bleu",
+    "slug": "electric-bleu",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://electricbleu.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3523 S. Centinela Ave., Los Angeles, CA, 90066, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fia",
+    "slug": "fia",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.fiarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2454 Wilshire Blvd., Santa Monica, CA, 90403, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fia Steak",
+    "slug": "fia-steak",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://fiasteak.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2458 Wilshire Blvd., Santa Monica, CA, 90403, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Firstborn",
+    "slug": "firstborn",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://firstborn.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "978 N. Broadway, Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Found Oyster",
+    "slug": "found-oyster",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.foundoyster.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4880 Fountain Ave., Los Angeles, CA, 90029, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Funke",
+    "slug": "funke",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.funkela.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9388 S. Santa Monica Blvd., Beverly Hills, CA, 90210, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Girl & the Goat Los Angeles",
+    "slug": "girl-the-goat-los-angeles",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://girlandthegoat.com/los-angeles/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "555-3 Mateo St., Los Angeles, CA, 90013, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Guelaguetza",
+    "slug": "guelaguetza",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.ilovemole.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3014 W. Olympic Blvd., Los Angeles, CA, 90006, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Guisados",
+    "slug": "guisados",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.guisados.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2100 E. Cesar E. Chavez Ave., Los Angeles, CA, 90033, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Gwen",
+    "slug": "gwen",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.gwenla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6600 Sunset Blvd., Los Angeles, CA, 90028, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hatchet Hall",
+    "slug": "hatchet-hall",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.hatchethallla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12517 Washington Blvd., Los Angeles, CA, 90066, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hippo",
+    "slug": "hippo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.hipporestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5916 1/2 Figueroa St., Los Angeles, CA, 90042, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "IMA",
+    "slug": "ima",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.imabh.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9669 S. Santa Monica Blvd., Los Angeles, CA, 90210, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jeong Yuk Jeom",
+    "slug": "jeong-yuk-jeom",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.jeongyukjeomnyc.com/home",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "621 S. Western Ave., Ste. 100, Los Angeles, CA, 90005, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Juliet",
+    "slug": "juliet",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.juliet.la/home",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8888 Washington Blvd., Culver City, CA, 90232, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Killer Noodle",
+    "slug": "killer-noodle",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.killernoodle.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2030 Sawtelle Blvd., Los Angeles, CA, 90025, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Lulu",
+    "slug": "lulu",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.lulu.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10899 Wilshire Blvd., Los Angeles, CA, 90024, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lumière",
+    "slug": "lumiere",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.lumierebrasserie.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fairmont Century Plaza Los Angeles at Beverly Hills, 2025 Avenue Of The Stars, Los Angeles, CA, 90067, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Manuela",
+    "slug": "manuela",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.manuela-la.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "907 E. 3rd St., Los Angeles, CA, 90013, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marugame Monzo",
+    "slug": "marugame-monzo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://marugamemonzola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "329 E. 1st St., Los Angeles, CA, 90012, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Milo + Olive",
+    "slug": "milo-olive",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.miloandolive.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2723 Wilshire Blvd., Santa Monica, CA, 90403, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Parks BBQ",
+    "slug": "parks-bbq",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://parksbbq.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "955 S. Vermont Ave., Ste.G, Los Angeles, CA, 90006, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pasjoli",
+    "slug": "pasjoli",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.pasjoli.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2732 Main St., Santa Monica, CA, 90405, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Perle",
+    "slug": "perle",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.perlerestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "43 E. Union St., Pasadena, CA, 91103, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Petit Trois",
+    "slug": "petit-trois",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://petittrois.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "718 N. Highland Ave., Los Angeles, CA, 90038, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pizzeria Sei",
+    "slug": "pizzeria-sei",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.pizzeriasei.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8781 W. Pico Blvd., Los Angeles, CA, 90035, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Q Sushi",
+    "slug": "q-sushi",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.qsushila.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "521 W. 7th St., Los Angeles, CA, 90014, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Quarters BBQ",
+    "slug": "quarters-bbq",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.quarterskbbq.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3465 W. 6th St., Los Angeles, CA, 90020, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Redbird",
+    "slug": "redbird",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://redbird.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "114 E. 2nd St., Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ronan",
+    "slug": "ronan",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.ronanla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7315 Melrose Ave., Los Angeles, CA, 90046, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rossoblu",
+    "slug": "rossoblu",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.rossoblula.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1124 San Julian St., Los Angeles, CA, 90015, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rustic Canyon",
+    "slug": "rustic-canyon",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://rusticcanyonrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1119 Wilshire Blvd., Santa Monica, CA, 90401, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "SORA Craft Kitchen",
+    "slug": "sora-craft-kitchen",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://soracraftkitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1109 E. 12th St., Los Angeles, CA, 90021, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Saffy's",
+    "slug": "saffys",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.saffysla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4845 Fountain Ave., Los Angeles, CA, 90029, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "San Laurel",
+    "slug": "san-laurel",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.sanlaurel.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Conrad Los Angeles, 100 S. Grand Ave., Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shunji.",
+    "slug": "shunji",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.instagram.com/shunjijapanesecuisine/?hl=en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3003 Ocean Park Blvd., Santa Monica, CA, 90405, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tempura Endo",
+    "slug": "tempura-endo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.beverlyhills-endo.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9777 S. Santa Monica Blvd., Beverly Hills, CA, 90210, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Lobster",
+    "slug": "the-lobster",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.thelobster.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1602 Ocean Ave., Santa Monica, CA, 90401, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Mulberry",
+    "slug": "the-mulberry",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.themulberrylosangeles.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1800 Sawtelle Blvd., Los Angeles, CA, 90025, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tomat",
+    "slug": "tomat",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.tomat.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6261 W. 87th St., Los Angeles, CA, 90045, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yong Su San",
+    "slug": "yong-su-san",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.yongsusanla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "950 S. Vermont Ave., Los Angeles, CA, 90006, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yunomi Handroll",
+    "slug": "yunomi-handroll",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.yunomihandroll.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "806 E. 3rd St., Ste. 100, Los Angeles, CA, 90013, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zira Uzbek Kitchen",
+    "slug": "zira-uzbek-kitchen",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://zirauzbekkitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7422 Melrose Ave., Los Angeles, CA, 90046, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "kodō",
+    "slug": "kodo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.kodo.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "710 S. Santa Fe Ave., Los Angeles, CA, 90021, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "majordōmo",
+    "slug": "majordomo",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.majordomo.la/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1725 Naud St., Los Angeles, CA, 90012, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "matū",
+    "slug": "matu",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.matusteak.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "239 S. Beverly Dr., Ste. 100, Beverly Hills, CA, 90212, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Élephante",
+    "slug": "elephante",
+    "city_id": "los-angeles-ca-us",
+    "website": "https://www.elephanterestaurants.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1332 2nd St., Santa Monica, CA, 90401, USA",
+    "price_tier": "$$$"
+  }
+]

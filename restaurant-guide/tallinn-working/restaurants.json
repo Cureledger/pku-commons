@@ -1,0 +1,398 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "tallinn-ee",
+ "restaurant_count": 10,
+ "restaurants": [
+  {
+   "restaurant_id": "tallinn-ee/morel-bistroo",
+   "city_id": "tallinn-ee",
+   "slug": "morel-bistroo",
+   "name": "Morel Bistroo",
+   "website": "",
+   "address": "Toom-Kuninga 21, Tallinn, 10122, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/morel-bistroo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/morel-bistroo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/noa-chefs-hall",
+   "city_id": "tallinn-ee",
+   "slug": "noa-chefs-hall",
+   "name": "NOA Chef’s Hall",
+   "website": "https://nch.ee",
+   "address": "Ranna tee 3, Tallinn, 12112, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/noa-chef%E2%80%99s-hall"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/noa-chef%E2%80%99s-hall",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/noa",
+   "city_id": "tallinn-ee",
+   "slug": "noa",
+   "name": "NOA",
+   "website": "https://www.noaresto.ee",
+   "address": "Ranna tee 3, Tallinn, 12112, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/noa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/noa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/vesta",
+   "city_id": "tallinn-ee",
+   "slug": "vesta",
+   "name": "Vesta",
+   "website": "https://vestavesta.ee/et",
+   "address": "Tööstuse 88, Tallinn, 10416, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/vesta-1246700"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/vesta-1246700",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/art-priori",
+   "city_id": "tallinn-ee",
+   "slug": "art-priori",
+   "name": "Art Priori",
+   "website": "https://www.artpriori.ee",
+   "address": "Olevimägi 7, Tallinn, 10123, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/art-priori"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/art-priori",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/gianni",
+   "city_id": "tallinn-ee",
+   "slug": "gianni",
+   "name": "Gianni",
+   "website": "https://www.gianni.ee",
+   "address": "Jõe 4a, Tallinn, 10151, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/gianni-562651"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/gianni-562651",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/mon-repos",
+   "city_id": "tallinn-ee",
+   "slug": "mon-repos",
+   "name": "Mon Repos",
+   "website": "https://monrepos.ee",
+   "address": "Narva mnt. 92, Tallinn, 10127, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/mon-repos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/mon-repos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/rado",
+   "city_id": "tallinn-ee",
+   "slug": "rado",
+   "name": "Rado",
+   "website": "https://www.radorestoran.ee",
+   "address": "Vene 7, Tallinn, 10123, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/rado"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/rado",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/sadu",
+   "city_id": "tallinn-ee",
+   "slug": "sadu",
+   "name": "Sadu",
+   "website": "https://www.saduresto.ee/",
+   "address": "Kopli 68a, Tallinn, 10412, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/sadu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/sadu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "tallinn-ee/shang-shi",
+   "city_id": "tallinn-ee",
+   "slug": "shang-shi",
+   "name": "Shang Shi",
+   "website": "https://shangshi.bombayclub.com/",
+   "address": "The Burman Hotel, Rataskaevu 5, Tallinn, 10123, Estonia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/harju/tallinn/restaurant/shang-shi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/harju/tallinn/restaurant/shang-shi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  }
+ ]
+}

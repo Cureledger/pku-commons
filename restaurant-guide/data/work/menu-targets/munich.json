@@ -1,0 +1,782 @@
+[
+  {
+    "name": "JAN",
+    "slug": "jan",
+    "city_id": "munich-de",
+    "website": "https://jan-hartwig.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Luisenstraße 27, Munich, 80333, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tohru in der Schreiberei",
+    "slug": "tohru-in-der-schreiberei",
+    "city_id": "munich-de",
+    "website": "https://schreiberei-muc.de/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Burgstraße 5, Munich, 80331, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alois - Dallmayr Fine Dining",
+    "slug": "alois-dallmayr-fine-dining",
+    "city_id": "munich-de",
+    "website": "https://www.dallmayr.com/de/delikatessenhaus/restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Dienerstraße 14, Munich, 80331, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Atelier",
+    "slug": "atelier",
+    "city_id": "munich-de",
+    "website": "https://www.bayerischerhof.de/de/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Promenadeplatz 2, Munich, 80331, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "KOMU",
+    "slug": "komu",
+    "city_id": "munich-de",
+    "website": "https://komu-restaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Hackenstraße 4, Munich, 80331, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "THE CLOUD by Käfer",
+    "slug": "the-cloud-by-kafer",
+    "city_id": "munich-de",
+    "website": "https://thecloud.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Am Olympiapark 1, Munich, 80809, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tantris",
+    "slug": "tantris",
+    "city_id": "munich-de",
+    "website": "https://tantris.de/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Johann-Fichte-Straße 7, Munich, 80805, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "1804 Hirschau",
+    "slug": "1804-hirschau",
+    "city_id": "munich-de",
+    "website": "https://www.1804muc.de",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Gyßlingstraße 15, Munich, 80805, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Brothers",
+    "slug": "brothers",
+    "city_id": "munich-de",
+    "website": "https://www.brothers-munich.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Kurfürstenstraße 31, Munich, 80801, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Gabelspiel",
+    "slug": "gabelspiel",
+    "city_id": "munich-de",
+    "website": "https://www.restaurant-gabelspiel.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Zehentbauernstraße 20, Munich, 81539, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Les Deux",
+    "slug": "les-deux",
+    "city_id": "munich-de",
+    "website": "https://lesdeux-muc.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Maffeistraße 3a, Munich, 80333, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mountain Hub Gourmet",
+    "slug": "mountain-hub-gourmet",
+    "city_id": "munich-de",
+    "website": "https://mountainhub.de/gourmet-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Terminalstraße Mitte 20, Munich, 85356, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sparkling Bistro",
+    "slug": "sparkling-bistro",
+    "city_id": "munich-de",
+    "website": "https://www.restaurantsparklingbistro.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Amalienstraße 89/ Türkenstraße 86, Munich, 80799, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tantris DNA",
+    "slug": "tantris-dna",
+    "city_id": "munich-de",
+    "website": "https://tantris.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Johann-Fichte-Straße 7, Munich, 80805, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Werneckhof Sigi Schelling",
+    "slug": "werneckhof-sigi-schelling",
+    "city_id": "munich-de",
+    "website": "https://werneckhof-schelling.de",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Werneckstraße 11, Munich, 80802, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Gasthaus Waltz",
+    "slug": "gasthaus-waltz",
+    "city_id": "munich-de",
+    "website": "https://www.waltz-gasthaus.de",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Ickstattstr. 13, Munich, 80469, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "mokum",
+    "slug": "mokum",
+    "city_id": "munich-de",
+    "website": "https://www.mokum-munich.de/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Alter Messeplatz 6, Munich, 80339, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "AIMY",
+    "slug": "aimy",
+    "city_id": "munich-de",
+    "website": "https://aimy-restaurant.de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Brienner Straße 10, Munich, 80333, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Acetaia",
+    "slug": "acetaia",
+    "city_id": "munich-de",
+    "website": "https://www.restaurant-acetaia.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Nymphenburger Straße 215, Munich, 80639, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Asam Schlössl",
+    "slug": "asam-schlossl",
+    "city_id": "munich-de",
+    "website": "https://www.asamschloessl.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Maria-Einsiedel-Straße 45, Munich, 81379, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Atelier Gourmet",
+    "slug": "atelier-gourmet",
+    "city_id": "munich-de",
+    "website": "https://ateliergourmet.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rablstraße 37, Munich, 81667, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Atlantik",
+    "slug": "atlantik",
+    "city_id": "munich-de",
+    "website": "https://www.atlantik-muenchen.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Zenettistraße 12, Munich, 80337, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "BAR TATAR in der Schreiberei",
+    "slug": "bar-tatar-in-der-schreiberei",
+    "city_id": "munich-de",
+    "website": "https://schreiberei-muc.de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dienerstraße 20, Munich, 80331, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bavarie",
+    "slug": "bavarie",
+    "city_id": "munich-de",
+    "website": "https://www.feinkost-kaefer.de/bavarie",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Am Olympiapark 1, Munich, 80331, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Beetle",
+    "slug": "beetle",
+    "city_id": "munich-de",
+    "website": "https://www.feinkost-kaefer.de/greenbeetle",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schumannstraße 9, Munich, 80538, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Blauer Bock",
+    "slug": "blauer-bock",
+    "city_id": "munich-de",
+    "website": "https://www.restaurant-blauerbock.de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sebastiansplatz 9, Munich, 80331, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie Colette Tim Raue",
+    "slug": "brasserie-colette-tim-raue",
+    "city_id": "munich-de",
+    "website": "https://www.brasseriecolette.de/muenchen",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Klenzestraße 72, Munich, 80469, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie Cuvilliés",
+    "slug": "brasserie-cuvillies",
+    "city_id": "munich-de",
+    "website": "https://www.rosewoodhotels.com/de/munich/dining/brasserie-cuvillies",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kardinal-Faulhaber-Straße 1, Munich, 80333, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie Les Deux",
+    "slug": "brasserie-les-deux",
+    "city_id": "munich-de",
+    "website": "https://lesdeux-muc.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Maffeistraße 3a, Munich, 80333, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Broeding",
+    "slug": "broeding",
+    "city_id": "munich-de",
+    "website": "https://www.broeding.de/restaurant.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schulstraße 9, Munich, 80636, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chang Bistro",
+    "slug": "chang-bistro",
+    "city_id": "munich-de",
+    "website": "https://chang-restaurant.de/bistro/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Wolfratshauser Straße 268, Munich, 81479, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dallmayr Bar & Grill",
+    "slug": "dallmayr-bar-grill",
+    "city_id": "munich-de",
+    "website": "https://www.dallmayr.com/de/delikatessenhaus/bar-grill/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dienerstraße 14, Munich, 80331, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Das Obers",
+    "slug": "das-obers",
+    "city_id": "munich-de",
+    "website": "https://www.dasobers.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gerner Straße 48, Munich, 80638, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Das Tschecherl",
+    "slug": "das-tschecherl",
+    "city_id": "munich-de",
+    "website": "https://www.dastschecherl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Amalienstraße 89, Munich, 80799, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Der Dantler",
+    "slug": "der-dantler",
+    "city_id": "munich-de",
+    "website": "https://derdantler.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Werinherstraße 15, Munich, 81541, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Freisinger Hof",
+    "slug": "freisinger-hof",
+    "city_id": "munich-de",
+    "website": "https://www.freisinger-hof.de/de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Oberföhringer Straße 189, Munich, 81925, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "GRETA OTO Munich",
+    "slug": "greta-oto-munich",
+    "city_id": "munich-de",
+    "website": "https://gretaoto-restaurants.com/munich/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Karlsplatz 25, Munich, 80335, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Galleria",
+    "slug": "galleria",
+    "city_id": "munich-de",
+    "website": "https://www.ristorante-galleria.de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sparkassenstraße 11, Munich, 80331, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Garden-Restaurant",
+    "slug": "garden-restaurant",
+    "city_id": "munich-de",
+    "website": "https://www.bayerischerhof.de/de/erleben-geniessen/restaurants-bars/restaurants/garden.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Promenadeplatz 2, Munich, 80333, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hippocampus",
+    "slug": "hippocampus",
+    "city_id": "munich-de",
+    "website": "https://www.hippocampus-restaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mühlbaurstraße 5, Munich, 81677, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Huber",
+    "slug": "huber",
+    "city_id": "munich-de",
+    "website": "https://www.huber-restaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Newtonstraße 13, Munich, 81679, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "IL Sommelier",
+    "slug": "il-sommelier",
+    "city_id": "munich-de",
+    "website": "https://www.ilsommelier.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kreillerstraße 194, Munich, 81825, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Il Borgo",
+    "slug": "il-borgo",
+    "city_id": "munich-de",
+    "website": "https://il-borgo.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Georgenstraße 144, Munich, 80797, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "JAPATAPA TOSHIBAR",
+    "slug": "japatapa-toshibar",
+    "city_id": "munich-de",
+    "website": "https://www.toshi-muenchen.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marschallstraße 2, Munich, 80802, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jin",
+    "slug": "jin",
+    "city_id": "munich-de",
+    "website": "https://www.restaurant-jin.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kanalstraße 14, Munich, 80538, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "KOI",
+    "slug": "koi",
+    "city_id": "munich-de",
+    "website": "https://www.koi-restaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Wittelsbacherplatz 1, Munich, 80333, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Käfer-Schänke",
+    "slug": "kafer-schanke",
+    "city_id": "munich-de",
+    "website": "https://www.feinkost-kaefer.de/schaenke",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prinzregentenstraße 73, Munich, 81675, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Bohème",
+    "slug": "la-boheme",
+    "city_id": "munich-de",
+    "website": "https://boheme-schwabing.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Leopoldstraße 180, Munich, 80804, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Stollberg",
+    "slug": "le-stollberg",
+    "city_id": "munich-de",
+    "website": "https://lestollberg.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Stollbergstraße 2, Munich, 80539, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Little London",
+    "slug": "little-london",
+    "city_id": "munich-de",
+    "website": "https://little-london.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tal 31, Munich, 80331, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Martinelli",
+    "slug": "martinelli",
+    "city_id": "munich-de",
+    "website": "https://www.ristorantemartinelli.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Wilhelm-Dieß-Weg 2, Munich, 81927, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Matsuhisa Munich",
+    "slug": "matsuhisa-munich",
+    "city_id": "munich-de",
+    "website": "https://www.mandarinoriental.com/de/munich/altstadt/dine/matsuhisa-munich",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Neuturmstraße 1, Munich, 80331, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "NICE",
+    "slug": "nice",
+    "city_id": "munich-de",
+    "website": "https://nicedining.de/restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "August-Everding-Straße 24, Munich, 81671, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nymphenburger Hof",
+    "slug": "nymphenburger-hof",
+    "city_id": "munich-de",
+    "website": "https://www.nymphenburgerhof.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Nymphenburger Straße 24, Munich, 80335, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pageou",
+    "slug": "pageou",
+    "city_id": "munich-de",
+    "website": "https://www.pageou.de/de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kardinal-Faulhaber-Straße 10, Munich, 80333, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pure Wine & Food",
+    "slug": "pure-wine-food",
+    "city_id": "munich-de",
+    "website": "https://pure-wine-food.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Neureutherstraße 15, Munich, 80799, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Schwarzreiter Restaurant",
+    "slug": "schwarzreiter-restaurant",
+    "city_id": "munich-de",
+    "website": "https://www.schwarzreiter-muenchen.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Maximilianstraße 17, Munich, 80539, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Showroom",
+    "slug": "showroom",
+    "city_id": "munich-de",
+    "website": "https://www.showroom-restaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lilienstraße 6, Munich, 81169, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Trichards",
+    "slug": "trichards",
+    "city_id": "munich-de",
+    "website": "https://www.trichards.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Reitmorstraße 21, Munich, 80538, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "VINOTHEK by Geisel",
+    "slug": "vinothek-by-geisel",
+    "city_id": "munich-de",
+    "website": "https://www.geisel-privathotels.de/vinothek",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schützenstraße 11, Munich, 80335, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vinaiolo",
+    "slug": "vinaiolo",
+    "city_id": "munich-de",
+    "website": "https://www.vinaiolo.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Steinstraße 42, Munich, 81667, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Weinhaus Neuner",
+    "slug": "weinhaus-neuner",
+    "city_id": "munich-de",
+    "website": "https://weinhaus-neuner.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Herzogspitalstraße 8, Munich, 80331, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zauberberg",
+    "slug": "zauberberg",
+    "city_id": "munich-de",
+    "website": "https://www.restaurant-zauberberg.de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hedwigstraße 14, Munich, 80636, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "buffet Kull bar",
+    "slug": "buffet-kull-bar",
+    "city_id": "munich-de",
+    "website": "https://www.buffet-kull.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marienstraße 4, Munich, 80331, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "sansaro",
+    "slug": "sansaro",
+    "city_id": "munich-de",
+    "website": "https://www.sushiya.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Amalienpassage 89, Munich, 80799, Germany",
+    "price_tier": "$$"
+  }
+]

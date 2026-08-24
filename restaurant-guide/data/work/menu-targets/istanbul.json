@@ -1,0 +1,895 @@
+[
+  {
+    "name": "TURK FATİH TUTAK",
+    "slug": "turk-fatih-tutak",
+    "city_id": "istanbul-tr",
+    "website": "https://www.turkft.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "Bomonti, Cumhuriyet Hacıahmet Silahşör Caddesi, Yeniyol Sokak No:2, Şişli, Istanbul, 34440, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Araf İstanbul",
+    "slug": "araf-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.arafistanbul.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "AG/E İç Kapı, 19 Mayıs Mahallesi Sümer Sokak Sümko N Blok No:1, No:2, Kadıköy, Istanbul, 34742, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Araka",
+    "slug": "araka",
+    "city_id": "istanbul-tr",
+    "website": "https://araka.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Kapalı Bakkal Sokak No:8, Yeniköy/Sarıyer, Istanbul, 34464, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Arkestra",
+    "slug": "arkestra",
+    "city_id": "istanbul-tr",
+    "website": "https://arkestra.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Etiler, Dilhayat Sokak No:28, Beşiktaş, Istanbul, 34337, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Casa Lavanda",
+    "slug": "casa-lavanda",
+    "city_id": "istanbul-tr",
+    "website": "https://www.casalavanda.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Ulupelit Köyü, Seçilmiş Sokak No:2, Şile, Istanbul, 34980, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mikla",
+    "slug": "mikla",
+    "city_id": "istanbul-tr",
+    "website": "https://www.miklarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Meşrutiyet Caddesi No:15, 18th floor (18. kat), Tepebaşı/Beyoğlu, Istanbul, 34430, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Neolokal",
+    "slug": "neolokal",
+    "city_id": "istanbul-tr",
+    "website": "https://www.neolokal.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Arap Camii Mahallesi, Bankalar Caddesi No:11/1, Beyoğlu, Istanbul, 34420, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nicole",
+    "slug": "nicole",
+    "city_id": "istanbul-tr",
+    "website": "https://nicole.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Tomtom Kaptan Sokak No:18, Beyoğlu, Istanbul, 34433, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sankai by Nagaya",
+    "slug": "sankai-by-nagaya",
+    "city_id": "istanbul-tr",
+    "website": "https://sankai.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Bebek, Cevdet Paşa Caddesi No:34, Beşiktaş, Istanbul, 34342, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ali Ocakbaşı Karaköy",
+    "slug": "ali-ocakbas-karakoy",
+    "city_id": "istanbul-tr",
+    "website": "https://www.aliocakbasi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Arap Camii Mahallesi, Tersane Caddesi, Kardeşim Sokak No:45 Kat 4, Beyoğlu, Istanbul, 34421, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Casius Antioch Kitchen",
+    "slug": "casius-antioch-kitchen",
+    "city_id": "istanbul-tr",
+    "website": "https://www.casiusrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kılıçalipaşa Mahallesi, Akarsu Yokuşu Caddesi No:36A, Cihangir Beyoğlu, Istanbul, 34433, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cuma",
+    "slug": "cuma",
+    "city_id": "istanbul-tr",
+    "website": "https://cuma.cc",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Firuzağa Mahallesi, Çukur Cuma Caddesi No:53/A, Beyoğlu, Istanbul, 34425, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "EFENDY",
+    "slug": "efendy",
+    "city_id": "istanbul-tr",
+    "website": "https://www.efendyistanbul.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Nisbetiye Caddesi No:13, Levent/Beşiktaş, Istanbul, 34330, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Foxy Nişantaşı",
+    "slug": "foxy-nisantas",
+    "city_id": "istanbul-tr",
+    "website": "https://www.followthefoxy.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Harbiye, Mim Kemal Öke Caddesi No:1/D, Şişli, Istanbul, 34365, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Karaköy Lokantası",
+    "slug": "karakoy-lokantas",
+    "city_id": "istanbul-tr",
+    "website": "https://www.karakoylokantasi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kemankeş Mahallesi, Kemankeş Caddesi No:57, Karaköy/Beyoğlu, Istanbul, 34425, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pandeli",
+    "slug": "pandeli",
+    "city_id": "istanbul-tr",
+    "website": "https://www.pandeli.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rüstempaşa Mahallesi, Balık Pazarı Kapısı Sokağı No:1/2, Mısır Çarşısı İçi 1 D:2, Eminönü/Fatih, Istanbul, 34116, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Parvus Kalamış",
+    "slug": "parvus-kalams",
+    "city_id": "istanbul-tr",
+    "website": "https://parvus.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Zühtüpaşa Mahallesi, Rüştiye Sokak No:4/A, Kadıköy, Istanbul, 34724, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "SADE \"Beş Denizler Mutfağı\"",
+    "slug": "sade-bes-denizler-mutfag",
+    "city_id": "istanbul-tr",
+    "website": "https://sadebesdenizler.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Teşvikiye Mahallesi, Akkavak Sokak No:36, Şişli, Istanbul, 34365, Türkiye",
+    "price_tier": "$"
+  },
+  {
+    "name": "Tatbak",
+    "slug": "tatbak",
+    "city_id": "istanbul-tr",
+    "website": "https://www.tatbak.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Valikonağı Caddesi, Akkavak Sokak No:38/B, Nişantaşı/Şişli, Istanbul, 34365, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tavacı Recep Usta Bostancı",
+    "slug": "tavac-recep-usta-bostanc",
+    "city_id": "istanbul-tr",
+    "website": "https://tavacirecepusta.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Altintepe, Bağdat Caddesi, No:6, Maltepe, Istanbul, 34840, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tershane",
+    "slug": "tershane",
+    "city_id": "istanbul-tr",
+    "website": "https://www.tershanerestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Arap Cami Mahallesi, Tersane Caddesi No:24, Karaköy/Beyoğlu, Hotel Momento 8th Floor (8. kat), Istanbul, 34420, Türkiye",
+    "price_tier": "$"
+  },
+  {
+    "name": "Yanyalı Fehmi Lokantası",
+    "slug": "yanyal-fehmi-lokantas",
+    "city_id": "istanbul-tr",
+    "website": "https://www.fehmilokantasi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Osmanağa Mahallesi, Yağlıkçı İsmail Sokak No:1, Kadıköy, Istanbul, 34714, Türkiye",
+    "price_tier": "$"
+  },
+  {
+    "name": "mutfakkoz",
+    "slug": "mutfakkoz",
+    "city_id": "istanbul-tr",
+    "website": "https://mutfakkoz.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kozyatağı Mah. Kaya Sultan Sok. No:27B, Kadıköy, Istanbul, 34742, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "1924 İstanbul",
+    "slug": "1924-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.1924istanbul.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Istiklal Caddesi, Olivya Geçidi No:7, Beyoğlu, Istanbul, 34435, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "29",
+    "slug": "29",
+    "city_id": "istanbul-tr",
+    "website": "https://www.29.com.tr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ulus Mahallesi, Ahmet Adnan Saygun Caddesi, Ulus Parkı İçi No:71/1, Beşiktaş, Istanbul, 34340, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "AQUA",
+    "slug": "aqua",
+    "city_id": "istanbul-tr",
+    "website": "https://www.fourseasons.com/bosphorus/dining/restaurants/aqua/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yıldız, Çırağan Caddesi No:28, Beşiktaş, Istanbul, 34349, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Aheste",
+    "slug": "aheste",
+    "city_id": "istanbul-tr",
+    "website": "https://ahesterestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Asmalı Mescit Mahallesi, Meşrutiyet Caddesi No:107/F, Beyoğlu, Istanbul, 34430, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Aida - vino e cucina",
+    "slug": "aida-vino-e-cucina",
+    "city_id": "istanbul-tr",
+    "website": "https://aidavinoecucina.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Caferağa Mahallesi, Ressam Şeref Akdik Sokak No:10, Kadıköy, Istanbul, 34710, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aila",
+    "slug": "aila",
+    "city_id": "istanbul-tr",
+    "website": "https://fairmontquasaristanbul.com/restaurant/aila/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Büyükdere Caddesi No:76/B, Mecidiyeköy/Şişli, Istanbul, 34394, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Akira Back İstanbul",
+    "slug": "akira-back-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.istanbulakiraback.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ataköy 2-5-6. Kısım Mahallesi, Rauf Orbay Caddesi No:2/1 LB, Bakırköy, Istanbul, 34158, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alaf",
+    "slug": "alaf",
+    "city_id": "istanbul-tr",
+    "website": "https://www.alafkurucesme.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Arnavutköy, Kuruçeşme Caddesi No:19, Beşiktaş, Istanbul, 34345, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Avlu Restaurant",
+    "slug": "avlu-restaurant",
+    "city_id": "istanbul-tr",
+    "website": "https://www.fourseasons.com/istanbul/dining/restaurants/avlu-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Cankurtaran, Tevkifhane Sokak No:1, Fatih, Istanbul, 34122, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "AŞEKA",
+    "slug": "aseka",
+    "city_id": "istanbul-tr",
+    "website": "https://www.aseka.co",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Müeyyedzade Mahallesi, Arap Oğlan Sokak No:6, Beyoğlu, Istanbul, 34425, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Balıkçı Kahraman",
+    "slug": "balkc-kahraman",
+    "city_id": "istanbul-tr",
+    "website": "https://www.balikcikahraman.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rumeli Kavağı Mahallesi, İskele Caddesi No:15/1, Sarıyer, Istanbul, 34450, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Beyti",
+    "slug": "beyti",
+    "city_id": "istanbul-tr",
+    "website": "https://www.beyti.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Şenlikköy Mahallesi, Orman Sokak No:6, Florya/Bakırköy, Istanbul, 34153, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Borsa Restaurant",
+    "slug": "borsa-restaurant",
+    "city_id": "istanbul-tr",
+    "website": "https://www.borsarestaurants.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Vaniköy Caddesi No:12, Adile Sultan Sarayı, Üsküdar, Istanbul, 34684, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "BİZ İstanbul",
+    "slug": "biz-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.bizistanbul.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atatürk Kültür Merkezi, Gümüşsuyu Mahallesi, Mete Caddesi No:2, Beyoğlu, Istanbul, 34337, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Calipso Fish",
+    "slug": "calipso-fish",
+    "city_id": "istanbul-tr",
+    "website": "https://www.calipsorestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Küçükyalı Sahil, Cumhuriyet Caddesi No:2, Küçükyalı/Maltepe, Istanbul, 34840, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Deraliye",
+    "slug": "deraliye",
+    "city_id": "istanbul-tr",
+    "website": "https://deraliyerestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Divanyolu Caddesi, Alemdar Mahallesi, Ticarethane Sokak No:10, Sultan Ahmet, Fatih, Istanbul, 34110, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Eleos Yeşilköy",
+    "slug": "eleos-yesilkoy",
+    "city_id": "istanbul-tr",
+    "website": "https://www.eleosrestaurant.com/yesilkoy",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yeşilköy mahallesi, Yeşilbahçe Sokak No:9, Bakırköy, Istanbul, 34149, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fauna",
+    "slug": "fauna",
+    "city_id": "istanbul-tr",
+    "website": "https://www.fauna.com.tr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Küçükbakkalköy Mahallesi, Işıklar Caddesi, Ahmet Muhip Dranas Sokak No:9/A, Ataşehir, Istanbul, 34750, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "GALLADA",
+    "slug": "gallada",
+    "city_id": "istanbul-tr",
+    "website": "https://www.galladaistanbul.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kemankeş Karamustafa Paşa, Kemankeş Caddesi No:34, Beyoğlu, Istanbul, 34425, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Giritli",
+    "slug": "giritli",
+    "city_id": "istanbul-tr",
+    "website": "https://www.giritlirestoran.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yenigüvey Sokak No:9, Cankurtaran/Fatih, Istanbul, 34122, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gün Lokantası",
+    "slug": "gun-lokantas",
+    "city_id": "istanbul-tr",
+    "website": "https://www.gunlokantasi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Asmalı Mescit, Gönül Sokak No: 8/A İç Kapı:1, Beyoğlu, Istanbul, 34430, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Herise İstanbul",
+    "slug": "herise-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.heriseistanbul.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Reşitpaşa Mahallesi, Kongre Caddesi No:15/A, Sarıyer, Istanbul, 34467, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Itsumi",
+    "slug": "itsumi",
+    "city_id": "istanbul-tr",
+    "website": "https://www.itsumijp.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "KULE - İşkuleleri Kule 2 Entrance floor No:43, 4.Levent/Beşiktaş, Istanbul, 34330, Türkiye",
+    "price_tier": "$"
+  },
+  {
+    "name": "Khorasani",
+    "slug": "khorasani",
+    "city_id": "istanbul-tr",
+    "website": "https://www.khorasanikebab.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Alemdar Mahallesi, Ticarethane Sokak No:9/B, Fatih, Istanbul, 34110, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kıyı Restaurant",
+    "slug": "ky-restaurant",
+    "city_id": "istanbul-tr",
+    "website": "https://www.kiyi.com.tr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Haydar Aliyev Caddesi No:186/A, Tarabya/Sarıyer, Istanbul, 34457, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lokanta 1741",
+    "slug": "lokanta-1741",
+    "city_id": "istanbul-tr",
+    "website": "https://lokanta1741.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Alemdar Mahallesi, Profesör Kazım İsmail Gürkan Caddesi No:34, Cağaloğlu Hamamı, Fatih, Istanbul, 34110, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lokanta Feriye",
+    "slug": "lokanta-feriye",
+    "city_id": "istanbul-tr",
+    "website": "https://feriye.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yıldız Mahallesi Çırağan Caddesi No:44, Beşiktaş, Istanbul, 34347, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lokanta Limu",
+    "slug": "lokanta-limu",
+    "city_id": "istanbul-tr",
+    "website": "https://www.lokantalimu.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yeniköy, Köybaşı Caddesi No:158 D:B, Sarıyer, Istanbul, 34464, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lokanta by Divan",
+    "slug": "lokanta-by-divan",
+    "city_id": "istanbul-tr",
+    "website": "https://www.divan.com.tr/restoran/lokanta-by-divan-istanbul",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Asker Ocağı Caddesi No:1, Şişli, Istanbul, 34367, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Maromi İstanbul",
+    "slug": "maromi-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.divan.com.tr/restoran/maromi-istanbul",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Asker Ocağı Caddesi No:1, Beyoğlu, Istanbul, 34367, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mürver",
+    "slug": "murver",
+    "city_id": "istanbul-tr",
+    "website": "https://www.murverrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Novotel İstanbul Bosphorus, Kemankeş Caddesi No:57-59, Karaköy/Beyoğlu, Istanbul, 34425, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nobu İstanbul",
+    "slug": "nobu-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.noburestaurants.com/istanbul/nobu-istanbul-japanese-restaurant-bar-and-lounge/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Süzer Plaza, Askerocağı Caddesi No:6, Elmadağ/Şişli, Istanbul, 34367, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Okra İstanbul",
+    "slug": "okra-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://www.okraistanbul.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Osmanlı Sokak No:1/B, Taksim, Beyoğlu, Istanbul, 34433, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Park Fora Balık ve Deniz Ürünleri Restoranı",
+    "slug": "park-fora-balk-ve-deniz-urunleri-restoran",
+    "city_id": "istanbul-tr",
+    "website": "https://www.parkfora.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Muallim Naci Caddesi No:54/A, Cemil Topuzlu Parkı İçi, Kuruçeşme/Beşiktaş, Istanbul, 34347, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "ROKA",
+    "slug": "roka",
+    "city_id": "istanbul-tr",
+    "website": "https://www.rokarestaurant.com/restaurant/roka-istanbul/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kılıçalipaşa Mahallesi, Meclis-i Mebusan Sokak No:14/2E, Beyoğlu, Istanbul, 34433, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby",
+    "city_id": "istanbul-tr",
+    "website": "https://www.rubyistanbul.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yıldız Mahallesi, Ortaköy Salhanesi Sokak No:5, Beşiktaş, Istanbul, 34349, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rumelihisarı İskele",
+    "slug": "rumelihisar-iskele",
+    "city_id": "istanbul-tr",
+    "website": "https://www.rumelihisariiskele.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yahya Kemal Caddesi No:1, Rumeli Hisarı/Sarıyer, Istanbul, 34470, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Seraf Mahmutbey",
+    "slug": "seraf-mahmutbey",
+    "city_id": "istanbul-tr",
+    "website": "https://www.seraf.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mahmutbey Mahallesi, Peyami Safa Caddesi No:38/D, Bağcılar, Istanbul, 34200, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Seraf Vadi",
+    "slug": "seraf-vadi",
+    "city_id": "istanbul-tr",
+    "website": "https://www.seraf.com.tr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ayazağa, Kemerburgaz Caddesi No:7G, İç Kapı No:7, Sarıyer, Istanbul, 34396, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Spago Istanbul by Wolfgang Puck",
+    "slug": "spago-istanbul-by-wolfgang-puck",
+    "city_id": "istanbul-tr",
+    "website": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/dining/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mim Kemal Öke Caddesi No:35, Nişantaşı/Şişli, Istanbul, 34367, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "St. Regis Brasserie",
+    "slug": "st-regis-brasserie",
+    "city_id": "istanbul-tr",
+    "website": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/dining/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mim Kemal Öke Caddesi No:35, Nişantaşı/Şişli, Istanbul, 34367, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sunset Grill & Bar",
+    "slug": "sunset-grill-bar",
+    "city_id": "istanbul-tr",
+    "website": "https://www.sunsetgrillbar.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kuruçeşme Mahallesi, Yol Sokak No:2, Ulus/Beşiktaş, Istanbul, 34345, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Terrazza Italia",
+    "slug": "terrazza-italia",
+    "city_id": "istanbul-tr",
+    "website": "https://www.eataly.com.tr/tr/terrazza-italia",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Levazım, Zorlu Center, Koru Sokak No:2, Beşiktaş, Istanbul, 34340, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The BARN",
+    "slug": "the-barn",
+    "city_id": "istanbul-tr",
+    "website": "https://www.grandmaswonderland.com/en/the-barn/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Gazitepe Mahallesi, Akören Cadddesi, Ören Çiftliği, No:114, Silivri, Istanbul, 34570, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Red Balloon",
+    "slug": "the-red-balloon",
+    "city_id": "istanbul-tr",
+    "website": "https://theredballoon.com.tr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "İstiklal Cd. No:153/4, Kuloğlu, Beyoğlu, Istanbul, 34433, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Topaz",
+    "slug": "topaz",
+    "city_id": "istanbul-tr",
+    "website": "https://www.topazistanbul.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ömer Avni Mahallesi, İnönü Caddesi, No:42, Beyoğlu, Istanbul, 34427, Türkiye",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tuğra Restaurant",
+    "slug": "tugra-restaurant",
+    "city_id": "istanbul-tr",
+    "website": "https://tugrarestaurant.com.tr/en/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Çırağan Caddesi No:32, Beşiktaş, Istanbul, 34349, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yeni Lokanta",
+    "slug": "yeni-lokanta",
+    "city_id": "istanbul-tr",
+    "website": "https://www.yenilokanta.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kumbaracı Yokuşu No:66, Beyoğlu, Istanbul, 34433, Türkiye",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zuma İstanbul",
+    "slug": "zuma-istanbul",
+    "city_id": "istanbul-tr",
+    "website": "https://zumarestaurant.com/locations/istanbul/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "İstinye Park No:461, Sarıyer, Istanbul, 34460, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "telezzüz",
+    "slug": "telezzuz",
+    "city_id": "istanbul-tr",
+    "website": "https://www.telezzuz.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Kuzguncuk, Koç Topluluğu Spor Kulübü, Kuşbakışı Caddesi No:16, Üsküdar, Istanbul, 34674, Türkiye",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Şans Restaurant",
+    "slug": "sans-restaurant",
+    "city_id": "istanbul-tr",
+    "website": "https://www.sansrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hacı Adil Caddesi, Palmiye Sokak No:1, Levent/Beşiktaş, Istanbul, 34330, Türkiye",
+    "price_tier": "$$$"
+  }
+]

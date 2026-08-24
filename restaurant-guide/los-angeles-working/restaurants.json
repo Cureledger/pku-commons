@@ -1,0 +1,1818 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Posted menu blocked or would not load. Not shown until the dish list is in hand.",
+ "city_id": "los-angeles-ca-us",
+ "restaurant_count": 47,
+ "restaurants": [
+  {
+   "restaurant_id": "los-angeles-ca-us/dha-rae-oak",
+   "city_id": "los-angeles-ca-us",
+   "slug": "dha-rae-oak",
+   "name": "Dha Rae Oak",
+   "website": "",
+   "address": "1106 S. Western Ave., Los Angeles, CA, 90006, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/dha-rae-oak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/dha-rae-oak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/lalibela",
+   "city_id": "los-angeles-ca-us",
+   "slug": "lalibela",
+   "name": "Lalibela",
+   "website": "",
+   "address": "1025 S. Fairfax Ave., Los Angeles, CA, 90019, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/lalibela"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/lalibela",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ethiopian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/little-fish",
+   "city_id": "los-angeles-ca-us",
+   "slug": "little-fish",
+   "name": "Little Fish",
+   "website": "",
+   "address": "1606 W. Sunset Blvd., Los Angeles, CA, 90026, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/little-fish"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/little-fish",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/mae-malai-thai-house-of-noodles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "mae-malai-thai-house-of-noodles",
+   "name": "Mae Malai Thai House of Noodles",
+   "website": "",
+   "address": "5445 Hollywood Blvd., Unit A and B, Los Angeles, CA, 90027, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/mae-malai-thai-house-of-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/mae-malai-thai-house-of-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/pollo-a-la-brasa",
+   "city_id": "los-angeles-ca-us",
+   "slug": "pollo-a-la-brasa",
+   "name": "Pollo a la Brasa",
+   "website": "",
+   "address": "764 S. Western Ave., Los Angeles, CA, 90005, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pollo-a-la-brasa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pollo-a-la-brasa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peruvian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/sonoratown",
+   "city_id": "los-angeles-ca-us",
+   "slug": "sonoratown",
+   "name": "Sonoratown",
+   "website": "",
+   "address": "208 E. 8th St., Los Angeles, CA, 90014, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/sonoratown"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/sonoratown",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/kusano",
+   "city_id": "los-angeles-ca-us",
+   "slug": "kusano",
+   "name": "Kusano",
+   "website": "",
+   "address": "10726 Jefferson Blvd., Culver City, CA, 90230, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/culver-city/restaurant/kusano"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/culver-city/restaurant/kusano",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/sushi-takeda",
+   "city_id": "los-angeles-ca-us",
+   "slug": "sushi-takeda",
+   "name": "Sushi Takeda",
+   "website": "",
+   "address": "123 Astronaut Ellison S. Onizuka St., Ste. 307, Los Angeles, CA, 90012, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/sushi-takeda"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/sushi-takeda",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/hayato",
+   "city_id": "los-angeles-ca-us",
+   "slug": "hayato",
+   "name": "Hayato",
+   "website": "https://hayatorestaurant.com/",
+   "address": "1320 E. 7th St., Ste. 126, Los Angeles, CA, 90021, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/hayato"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/hayato",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/vespertine",
+   "city_id": "los-angeles-ca-us",
+   "slug": "vespertine",
+   "name": "Vespertine",
+   "website": "https://vespertine.la/",
+   "address": "3599 Hayden Ave., Culver City, CA, 90232, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/california/culver-city/restaurant/vespertine"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/california/culver-city/restaurant/vespertine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/culver-city/restaurant/vespertine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/corridor-109",
+   "city_id": "los-angeles-ca-us",
+   "slug": "corridor-109",
+   "name": "Corridor 109",
+   "website": "https://www.corridor109.com/",
+   "address": "641 North Western Ave., Ste. A, Los Angeles, CA, 90004, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/corridor-109"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/corridor-109",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/kojima",
+   "city_id": "los-angeles-ca-us",
+   "slug": "kojima",
+   "name": "KOJIMA",
+   "website": "https://kojima-2130.square.site/",
+   "address": "2130 Sawtelle Blvd., Ste. 211, Los Angeles, CA, 90025, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/kojima-1248017"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/kojima-1248017",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/lielle",
+   "city_id": "los-angeles-ca-us",
+   "slug": "lielle",
+   "name": "Lielle",
+   "website": "https://www.lielle.la/",
+   "address": "9575 W. Pico Blvd., Los Angeles, CA, 90035, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/lielle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/lielle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Californian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/miura",
+   "city_id": "los-angeles-ca-us",
+   "slug": "miura",
+   "name": "Miura",
+   "website": "https://miura-beverlyhills.com/",
+   "address": "218 N. Rodeo Dr., Beverly Hills, CA, 90210, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/beverly-hills/restaurant/miura-1246958"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/beverly-hills/restaurant/miura-1246958",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/mori-nozomi",
+   "city_id": "los-angeles-ca-us",
+   "slug": "mori-nozomi",
+   "name": "Mori Nozomi",
+   "website": "https://www.morinozomi.com/",
+   "address": "11500 W. Pico Blvd., Los Angeles, CA, 90064, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/mori-nozomi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/mori-nozomi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/n-naka",
+   "city_id": "los-angeles-ca-us",
+   "slug": "n-naka",
+   "name": "n/naka",
+   "website": "https://n-naka.com/",
+   "address": "3455 Overland Ave., Los Angeles, CA, 90034, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/n-naka"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/n-naka",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/gra",
+   "city_id": "los-angeles-ca-us",
+   "slug": "gra",
+   "name": "Grá",
+   "website": "https://xn--gr-nia.com/",
+   "address": "1524 Pizarro St., Los Angeles, CA, 90026, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/gra"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/gra",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Pizza",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/komal",
+   "city_id": "los-angeles-ca-us",
+   "slug": "komal",
+   "name": "Komal",
+   "website": "https://komal.toast.site/order/komal-3655-south-grand-avenue",
+   "address": "3655 S. Grand Ave., Los Angeles, CA, 90007, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/komal"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/komal",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/langers",
+   "city_id": "los-angeles-ca-us",
+   "slug": "langers",
+   "name": "Langer's",
+   "website": "https://www.langersdeli.com/",
+   "address": "704 S. Alvarado St., Los Angeles, CA, 90057, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/langer-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/langer-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Deli",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/lius-cafe",
+   "city_id": "los-angeles-ca-us",
+   "slug": "lius-cafe",
+   "name": "Liu's Cafe",
+   "website": "https://www.liuscafe.com/",
+   "address": "3915 1/2 W. 6th St., Los Angeles, CA, 90020, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/liu-s-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/liu-s-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/lynx",
+   "city_id": "los-angeles-ca-us",
+   "slug": "lynx",
+   "name": "Lynx",
+   "website": "https://www.thelynxla.com/",
+   "address": "427 S. Hewitt St., Los Angeles, CA, 90013, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/lynx"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/lynx",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Pizza",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/moos-craft-barbecue",
+   "city_id": "los-angeles-ca-us",
+   "slug": "moos-craft-barbecue",
+   "name": "Moo's Craft Barbecue",
+   "website": "https://www.mooscraftbarbecue.com/",
+   "address": "2118 N. Broadway, Los Angeles, CA, 90031, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/moo-s-craft-barbecue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/moo-s-craft-barbecue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/pine-crane",
+   "city_id": "los-angeles-ca-us",
+   "slug": "pine-crane",
+   "name": "Pine & Crane",
+   "website": "https://www.pineandcrane.com/",
+   "address": "1521 Griffith Park Blvd., Los Angeles, CA, 90026, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pine-crane"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pine-crane",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/pizzeria-bianco-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "pizzeria-bianco-los-angeles",
+   "name": "Pizzeria Bianco Los Angeles",
+   "website": "https://www.pizzeriabianco.com/los-angeles",
+   "address": "1320 E. 7th St., Los Angeles, CA, 90021, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pizzeria-bianco"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pizzeria-bianco",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Pizza",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/quarter-sheets",
+   "city_id": "los-angeles-ca-us",
+   "slug": "quarter-sheets",
+   "name": "Quarter Sheets",
+   "website": "https://www.quartersheetspizza.com",
+   "address": "1305 Portia St., Los Angeles, CA, 90026, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/quarter-sheets-pizza"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/quarter-sheets-pizza",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Pizza",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/villas-tacos",
+   "city_id": "los-angeles-ca-us",
+   "slug": "villas-tacos",
+   "name": "Villa's Tacos",
+   "website": "https://villastacos.com/",
+   "address": "5455 N. Figueroa St., Ste. 123, Los Angeles, CA, 90042, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/villa-s-tacos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/villa-s-tacos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/715",
+   "city_id": "los-angeles-ca-us",
+   "slug": "715",
+   "name": "715",
+   "website": "https://www.715sushi.com/",
+   "address": "738 E. 3rd St., Los Angeles, CA, 90013, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/715"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/715",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/camphor",
+   "city_id": "los-angeles-ca-us",
+   "slug": "camphor",
+   "name": "CAMPHOR",
+   "website": "https://www.camphor.la/",
+   "address": "923 E. 3rd St., Ste. 109, Los Angeles, CA, 90013, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/camphor"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/camphor",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/cento-pasta-bar",
+   "city_id": "los-angeles-ca-us",
+   "slug": "cento-pasta-bar",
+   "name": "Cento Pasta Bar",
+   "website": "https://www.cento.group/",
+   "address": "4921 W. Adams Blvd., Los Angeles, CA, 90016, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/cento-pasta-bar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/cento-pasta-bar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/destroyer",
+   "city_id": "los-angeles-ca-us",
+   "slug": "destroyer",
+   "name": "Destroyer",
+   "website": "https://www.destroyer.la/",
+   "address": "3578 Hayden Ave., Culver City, CA, 90232, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/culver-city/restaurant/destroyer"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/culver-city/restaurant/destroyer",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/funke",
+   "city_id": "los-angeles-ca-us",
+   "slug": "funke",
+   "name": "Funke",
+   "website": "https://www.funkela.com/",
+   "address": "9388 S. Santa Monica Blvd., Beverly Hills, CA, 90210, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/beverly-hills/restaurant/funke"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/beverly-hills/restaurant/funke",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/killer-noodle",
+   "city_id": "los-angeles-ca-us",
+   "slug": "killer-noodle",
+   "name": "Killer Noodle",
+   "website": "https://www.killernoodle.com/",
+   "address": "2030 Sawtelle Blvd., Los Angeles, CA, 90025, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/killer-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/killer-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/petit-trois",
+   "city_id": "los-angeles-ca-us",
+   "slug": "petit-trois",
+   "name": "Petit Trois",
+   "website": "https://petittrois.com/",
+   "address": "718 N. Highland Ave., Los Angeles, CA, 90038, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/petit-trois"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/petit-trois",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/pizzeria-sei",
+   "city_id": "los-angeles-ca-us",
+   "slug": "pizzeria-sei",
+   "name": "Pizzeria Sei",
+   "website": "https://www.pizzeriasei.com/",
+   "address": "8781 W. Pico Blvd., Los Angeles, CA, 90035, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pizzeria-sei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/pizzeria-sei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Pizza",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/quarters-bbq",
+   "city_id": "los-angeles-ca-us",
+   "slug": "quarters-bbq",
+   "name": "Quarters BBQ",
+   "website": "https://www.quarterskbbq.com/",
+   "address": "3465 W. 6th St., Los Angeles, CA, 90020, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/quarters-bbq"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/quarters-bbq",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/sora-craft-kitchen",
+   "city_id": "los-angeles-ca-us",
+   "slug": "sora-craft-kitchen",
+   "name": "SORA Craft Kitchen",
+   "website": "https://soracraftkitchen.com/",
+   "address": "1109 E. 12th St., Los Angeles, CA, 90021, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/sora-craft-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/sora-craft-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/shunji",
+   "city_id": "los-angeles-ca-us",
+   "slug": "shunji",
+   "name": "Shunji.",
+   "website": "https://www.instagram.com/shunjijapanesecuisine/?hl=en",
+   "address": "3003 Ocean Park Blvd., Santa Monica, CA, 90405, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/santa-monica/restaurant/shunji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/santa-monica/restaurant/shunji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/tempura-endo",
+   "city_id": "los-angeles-ca-us",
+   "slug": "tempura-endo",
+   "name": "Tempura Endo",
+   "website": "https://www.beverlyhills-endo.com/",
+   "address": "9777 S. Santa Monica Blvd., Beverly Hills, CA, 90210, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/beverly-hills/restaurant/tempura-endo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/beverly-hills/restaurant/tempura-endo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/tomat",
+   "city_id": "los-angeles-ca-us",
+   "slug": "tomat",
+   "name": "Tomat",
+   "website": "https://www.tomat.la/",
+   "address": "6261 W. 87th St., Los Angeles, CA, 90045, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/tomat"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/tomat",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Californian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/yong-su-san",
+   "city_id": "los-angeles-ca-us",
+   "slug": "yong-su-san",
+   "name": "Yong Su San",
+   "website": "https://www.yongsusanla.com/",
+   "address": "950 S. Vermont Ave., Los Angeles, CA, 90006, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/california/us-los-angeles/restaurant/yong-su-san"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/california/us-los-angeles/restaurant/yong-su-san",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/applebees-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "applebees-los-angeles",
+   "name": "Applebee's",
+   "website": "https://www.applebees.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.applebees.com/en/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.applebees.com/en/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "applebees"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/outback-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "outback-los-angeles",
+   "name": "Outback Steakhouse",
+   "website": "https://www.outback.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.outback.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.outback.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$",
+   "chain": "outback"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/true-food-kitchen-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "true-food-kitchen-los-angeles",
+   "name": "True Food Kitchen",
+   "website": "https://www.truefoodkitchen.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.truefoodkitchen.com/menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.truefoodkitchen.com/menu/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "true-food-kitchen"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/north-italia-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "north-italia-los-angeles",
+   "name": "North Italia",
+   "website": "https://www.northitalia.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.northitalia.com/locations/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.northitalia.com/locations/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "north-italia"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/maggianos-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "maggianos-los-angeles",
+   "name": "Maggiano's Little Italy",
+   "website": "https://www.maggianos.com/",
+   "address": "",
+   "menu_urls": [
+    "https://locations.maggianos.com/menus/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://locations.maggianos.com/menus/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "maggianos"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/yard-house-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "yard-house-los-angeles",
+   "name": "Yard House",
+   "website": "https://www.yardhouse.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.yardhouse.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.yardhouse.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "yard-house"
+  },
+  {
+   "restaurant_id": "los-angeles-ca-us/capital-grille-los-angeles",
+   "city_id": "los-angeles-ca-us",
+   "slug": "capital-grille-los-angeles",
+   "name": "The Capital Grille",
+   "website": "https://www.thecapitalgrille.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.thecapitalgrille.com/menu/dinner"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.thecapitalgrille.com/menu/dinner"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$",
+   "chain": "capital-grille"
+  }
+ ]
+}

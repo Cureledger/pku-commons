@@ -1,0 +1,183 @@
+{
+ "schema_version": "working-v1",
+ "note": "Posted menu blocked or would not load. Not shown until the dish list is in hand.",
+ "city_id": "louisville-ky-us",
+ "restaurant_count": 5,
+ "restaurants": [
+  {
+   "restaurant_id": "louisville-ky-us/applebees-louisville",
+   "city_id": "louisville-ky-us",
+   "slug": "applebees-louisville",
+   "name": "Applebee's",
+   "website": "https://www.applebees.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.applebees.com/en/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.applebees.com/en/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "applebees"
+  },
+  {
+   "restaurant_id": "louisville-ky-us/outback-louisville",
+   "city_id": "louisville-ky-us",
+   "slug": "outback-louisville",
+   "name": "Outback Steakhouse",
+   "website": "https://www.outback.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.outback.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.outback.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$",
+   "chain": "outback"
+  },
+  {
+   "restaurant_id": "louisville-ky-us/capital-grille-louisville",
+   "city_id": "louisville-ky-us",
+   "slug": "capital-grille-louisville",
+   "name": "The Capital Grille",
+   "website": "https://www.thecapitalgrille.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.thecapitalgrille.com/menu/dinner"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.thecapitalgrille.com/menu/dinner"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$",
+   "chain": "capital-grille"
+  },
+  {
+   "restaurant_id": "louisville-ky-us/cracker-barrel-louisville",
+   "city_id": "louisville-ky-us",
+   "slug": "cracker-barrel-louisville",
+   "name": "Cracker Barrel",
+   "website": "https://www.crackerbarrel.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.crackerbarrel.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.crackerbarrel.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "cracker-barrel"
+  },
+  {
+   "restaurant_id": "louisville-ky-us/coopers-hawk-louisville",
+   "city_id": "louisville-ky-us",
+   "slug": "coopers-hawk-louisville",
+   "name": "Cooper's Hawk",
+   "website": "https://chwinery.com/",
+   "address": "",
+   "menu_urls": [
+    "https://chwinery.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://chwinery.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$$",
+   "chain": "coopers-hawk"
+  }
+ ]
+}

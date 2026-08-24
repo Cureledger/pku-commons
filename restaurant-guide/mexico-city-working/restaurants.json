@@ -1,0 +1,1568 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "mexico-city-mx",
+ "restaurant_count": 40,
+ "restaurants": [
+  {
+   "restaurant_id": "mexico-city-mx/comal-oculto",
+   "city_id": "mexico-city-mx",
+   "slug": "comal-oculto",
+   "name": "Comal Oculto",
+   "website": "",
+   "address": "C. Gob. Protasio Tagle 66A, Miguel Hildalgo, 11850, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/comal-oculto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/comal-oculto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/fugaz",
+   "city_id": "mexico-city-mx",
+   "slug": "fugaz",
+   "name": "Fugaz",
+   "website": "",
+   "address": "Orizaba 3B, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/fugaz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/fugaz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/la-89",
+   "city_id": "mexico-city-mx",
+   "slug": "la-89",
+   "name": "La 89",
+   "website": "",
+   "address": "Colima 134, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/la-89"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/la-89",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/los-consentidos-del-barrio",
+   "city_id": "mexico-city-mx",
+   "slug": "los-consentidos-del-barrio",
+   "name": "Los Consentidos del Barrio",
+   "website": "",
+   "address": "Manzanas 27-B, Tlacoquemecatl del Valle, Benito Juárez, 03200, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/benito-juarez_1994163/restaurant/los-consentidos-del-barrio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/benito-juarez_1994163/restaurant/los-consentidos-del-barrio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/molino-el-pujol",
+   "city_id": "mexico-city-mx",
+   "slug": "molino-el-pujol",
+   "name": "Molino El Pujol",
+   "website": "",
+   "address": "Benjamín Hill, 146, Hipódromo Condesa, Cuauhtémoc, 06100, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/molino-el-pujol"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/molino-el-pujol",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/pargot",
+   "city_id": "mexico-city-mx",
+   "slug": "pargot",
+   "name": "Pargot",
+   "website": "",
+   "address": "Córdoba 212, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/pargot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/pargot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/pink-rambo",
+   "city_id": "mexico-city-mx",
+   "slug": "pink-rambo",
+   "name": "Pink Rambo",
+   "website": "",
+   "address": "C. Cedro 66, Sta. María la Ribera, Cuauhtémoc, 06400, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/pink-rambo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/pink-rambo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/tacos-charly",
+   "city_id": "mexico-city-mx",
+   "slug": "tacos-charly",
+   "name": "Tacos Charly",
+   "website": "",
+   "address": "Av. San Fernando 201, Toriello Guerra, Tlalpan, 14050, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/tlalpan_2003036/restaurant/tacos-charly"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/tlalpan_2003036/restaurant/tacos-charly",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/tacos-los-alexis",
+   "city_id": "mexico-city-mx",
+   "slug": "tacos-los-alexis",
+   "name": "Tacos Los Alexis",
+   "website": "",
+   "address": "Chiapas 46, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-los-alexis"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-los-alexis",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/taqueria-los-cocuyos",
+   "city_id": "mexico-city-mx",
+   "slug": "taqueria-los-cocuyos",
+   "name": "Taqueria Los Cocuyos",
+   "website": "",
+   "address": "Simón Bolívar 67, Centro, Cuauhtémoc, 06000, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/taqueria-los-cocuyos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/taqueria-los-cocuyos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/vigneron",
+   "city_id": "mexico-city-mx",
+   "slug": "vigneron",
+   "name": "Vigneron",
+   "website": "",
+   "address": "Jalapa 181, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/vigneron"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/vigneron",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/barbacoa-gonzalitos",
+   "city_id": "mexico-city-mx",
+   "slug": "barbacoa-gonzalitos",
+   "name": "Barbacoa Gonzalitos",
+   "website": "",
+   "address": "C. Colima 76, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/barbacoa-gonzalitos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/barbacoa-gonzalitos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/carinito-tacos",
+   "city_id": "mexico-city-mx",
+   "slug": "carinito-tacos",
+   "name": "Cariñito Tacos",
+   "website": "",
+   "address": "Guanajuato 53, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/carinito-tacos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/carinito-tacos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/castacan",
+   "city_id": "mexico-city-mx",
+   "slug": "castacan",
+   "name": "Castacán",
+   "website": "",
+   "address": "C. Puebla 387, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/castacan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/castacan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/tacos-hola-el-guero",
+   "city_id": "mexico-city-mx",
+   "slug": "tacos-hola-el-guero",
+   "name": "Tacos Hola El Güero",
+   "website": "",
+   "address": "Ámsterdam 135, Hipódromo, Cuauhtémoc, 06100, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-hola-el-guero"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-hola-el-guero",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/tacos-de-canasta-los-especiales",
+   "city_id": "mexico-city-mx",
+   "slug": "tacos-de-canasta-los-especiales",
+   "name": "Tacos de Canasta Los Especiales",
+   "website": "",
+   "address": "Av. Francisco I. Madero 71, Centro, Cuauhtémoc, 06000, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-de-canasta-los-especiales"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-de-canasta-los-especiales",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/taqueria-el-gran-abanico",
+   "city_id": "mexico-city-mx",
+   "slug": "taqueria-el-gran-abanico",
+   "name": "Taqueria El Gran Abanico",
+   "website": "",
+   "address": "Gutiérrez Nájera S/N, Tránsito, Cuauhtémoc, 06820, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/taqueria-el-gran-abanico"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/taqueria-el-gran-abanico",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/taqueria-el-paisa",
+   "city_id": "mexico-city-mx",
+   "slug": "taqueria-el-paisa",
+   "name": "Taqueria El Paisa",
+   "website": "",
+   "address": "Joaquin Garcia Icazbalceta 36, San Rafael, Cuauhtémoc, 06470, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/taqueria-el-paisa-1212979"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/taqueria-el-paisa-1212979",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/pujol",
+   "city_id": "mexico-city-mx",
+   "slug": "pujol",
+   "name": "Pujol",
+   "website": "https://pujol.com.mx/",
+   "address": "Tennyson 133, Polanco, Miguel Hildalgo, 11550, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/pujol"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/pujol",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/esquina-comun",
+   "city_id": "mexico-city-mx",
+   "slug": "esquina-comun",
+   "name": "Esquina Común",
+   "website": "https://www.instagram.com/esquinacomun?igsh=YzVjaTkzOGZzbjB5",
+   "address": "Fernando Montes De Oca, 86, Condesa, Cuauhtémoc, 06140, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/esquina-comun"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/esquina-comun",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/expendio-de-maiz",
+   "city_id": "mexico-city-mx",
+   "slug": "expendio-de-maiz",
+   "name": "Expendio de Maíz",
+   "website": "https://www.instagram.com/exp_maiz",
+   "address": "Av. Yucatán 84, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/expendio-de-maiz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/expendio-de-maiz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/masala-y-maiz",
+   "city_id": "mexico-city-mx",
+   "slug": "masala-y-maiz",
+   "name": "Masala y Maíz",
+   "website": "https://www.masalaymaiz.com/",
+   "address": "C. Artículo 123 116, Colonia Centro, Cuauhtémoc, 06040, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/masala-y-maiz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/masala-y-maiz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/sud-777",
+   "city_id": "mexico-city-mx",
+   "slug": "sud-777",
+   "name": "Sud 777",
+   "website": "https://www.sud777.com.mx/",
+   "address": "Blvd. De La Luz 777, Jardines del Pedregal , Álvaro Obregón, 01900, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/alvaro-obregon_2003790/restaurant/sud-777"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/alvaro-obregon_2003790/restaurant/sud-777",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/aleli-rooftop",
+   "city_id": "mexico-city-mx",
+   "slug": "aleli-rooftop",
+   "name": "Aleli Rooftop",
+   "website": "https://www.alelirooftop.com",
+   "address": "Sinaloa 141, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/aleli-rooftop"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/aleli-rooftop",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/comedor-jacinta",
+   "city_id": "mexico-city-mx",
+   "slug": "comedor-jacinta",
+   "name": "Comedor Jacinta",
+   "website": "https://comedorjacinta.com/en/",
+   "address": "Virgilio 40, Polanco, Miguel Hildalgo, 11550, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/comedor-jacinta"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/comedor-jacinta",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/contramar",
+   "city_id": "mexico-city-mx",
+   "slug": "contramar",
+   "name": "Contramar",
+   "website": "https://www.contramar.com.mx/",
+   "address": "Durango 200, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/contramar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/contramar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/el-vilsito",
+   "city_id": "mexico-city-mx",
+   "slug": "el-vilsito",
+   "name": "El Vilsito",
+   "website": "https://elvilsito.com/",
+   "address": "Av. Universidad 248, Narvarte, Benito Juárez, 03020, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/benito-juarez_1994163/restaurant/el-vilsito"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/benito-juarez_1994163/restaurant/el-vilsito",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/filigrana",
+   "city_id": "mexico-city-mx",
+   "slug": "filigrana",
+   "name": "Filigrana",
+   "website": "https://www.filigrana.com.mx/",
+   "address": "Av. Veracruz 62, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/filigrana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/filigrana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/plonk",
+   "city_id": "mexico-city-mx",
+   "slug": "plonk",
+   "name": "Plonk",
+   "website": "https://www.plonk.mx/",
+   "address": "Iztaccihuatl 52, Hipódromo, Cuauhtémoc, 06100, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/plonk"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/plonk",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/tacos-del-valle",
+   "city_id": "mexico-city-mx",
+   "slug": "tacos-del-valle",
+   "name": "Tacos del Valle",
+   "website": "https://tacosdelvalle.com/",
+   "address": "Av. Álvaro Obregón 130, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-del-valle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/tacos-del-valle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/bajel",
+   "city_id": "mexico-city-mx",
+   "slug": "bajel",
+   "name": "Bajel",
+   "website": "https://sofitel.accor.com/en/hotels/9615/R004.restaurant.html",
+   "address": "Sofitel Mexico City Reforma, Av. Paseo De La Reforma, 297, Cuauhtémoc, 06500, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/bajel"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/bajel",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/campobaja",
+   "city_id": "mexico-city-mx",
+   "slug": "campobaja",
+   "name": "Campobaja",
+   "website": "https://campobaja.mx",
+   "address": "Colima 124, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/campobaja"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/campobaja",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/entremar",
+   "city_id": "mexico-city-mx",
+   "slug": "entremar",
+   "name": "Entremar",
+   "website": "https://www.entremar.com",
+   "address": "Hegel 307, Polanco, Miguel Hildalgo, 11560, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/entremar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/entremar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/er-rre-un-bistro",
+   "city_id": "mexico-city-mx",
+   "slug": "er-rre-un-bistro",
+   "name": "Er Rre un Bistró",
+   "website": "https://www.errreunbistro.com/",
+   "address": "Polanco 8, Polanco, Miguel Hildalgo, 11560, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/er-rre-un-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/miguel-hidalgo_1999281/restaurant/er-rre-un-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/hugo",
+   "city_id": "mexico-city-mx",
+   "slug": "hugo",
+   "name": "Hugo",
+   "website": "https://hugoelwinebar.com/",
+   "address": "Av. Veracruz 38, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/hugo-1210967"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/hugo-1210967",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/lotti",
+   "city_id": "mexico-city-mx",
+   "slug": "lotti",
+   "name": "Lotti",
+   "website": "https://lotti.mx/",
+   "address": "Colima 235, Roma Nte., Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/lotti"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/lotti",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/martinez",
+   "city_id": "mexico-city-mx",
+   "slug": "martinez",
+   "name": "Martínez",
+   "website": "https://www.martinez.rest",
+   "address": "Puebla 90, Roma Norte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/martinez"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/martinez",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/merotoro",
+   "city_id": "mexico-city-mx",
+   "slug": "merotoro",
+   "name": "MeroToro",
+   "website": "https://www.merotoro.mx/",
+   "address": "Av. Ámsterdam 204, Hipódromo, Cuauhtémoc, 06100, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/merotoro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/merotoro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/ricos-tacos-toluca",
+   "city_id": "mexico-city-mx",
+   "slug": "ricos-tacos-toluca",
+   "name": "Ricos Tacos Toluca",
+   "website": "https://www.instagram.com/ricostacostoluca_?igsh=MjN5Zm56OXh2ODdm",
+   "address": "López 103, Centro, Cuauhtémoc, 06000, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/ricos-tacos-toluca"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/ricos-tacos-toluca",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "mexico-city-mx/xuna",
+   "city_id": "mexico-city-mx",
+   "slug": "xuna",
+   "name": "Xuna",
+   "website": "https://xunarestaurante.com.mx/",
+   "address": "Valladolid 96, Roma Nte, Cuauhtémoc, 06700, Mexico",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/xuna"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-de-mexico/cuauhtemoc_1995126/restaurant/xuna",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$$"
+  }
+ ]
+}

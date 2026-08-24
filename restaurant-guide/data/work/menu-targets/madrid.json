@@ -1,0 +1,1842 @@
+[
+  {
+    "name": "DiverXO",
+    "slug": "diverxo",
+    "city_id": "madrid-es",
+    "website": "https://diverxo.com",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Padre Damián 23, Madrid, 28036, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Coque",
+    "slug": "coque",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantecoque.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "Marqués de Riscal 11, Madrid, 28010, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "DSTAgE",
+    "slug": "dstage",
+    "city_id": "madrid-es",
+    "website": "https://dstageconcept.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "Regueros 8, Madrid, 28004, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Deessa",
+    "slug": "deessa",
+    "city_id": "madrid-es",
+    "website": "https://www.mandarinoriental.com/es-es/madrid/hotel-ritz/dine/deessa",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Plaza de la Lealtad 5, Madrid, 28014, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Paco Roncero",
+    "slug": "paco-roncero",
+    "city_id": "madrid-es",
+    "website": "https://www.pacoroncerorestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Alcalá 15, Madrid, 28014, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ramón Freixa Atelier",
+    "slug": "ramon-freixa-atelier",
+    "city_id": "madrid-es",
+    "website": "https://ramonfreixaatelier.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Velázquez 24, Madrid, 28001, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Smoked Room",
+    "slug": "smoked-room",
+    "city_id": "madrid-es",
+    "website": "https://grupodanigarcia.com/es/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Paseo de la Castellana 57, Madrid, 28046, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "A'Barra",
+    "slug": "abarra",
+    "city_id": "madrid-es",
+    "website": "https://www.restauranteabarra.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Del Pinar 15, Madrid, 28006, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "CEBO",
+    "slug": "cebo",
+    "city_id": "madrid-es",
+    "website": "https://www.cebomadrid.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "San Jerónimo 34, Madrid, 28014, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Chispa Bistró",
+    "slug": "chispa-bistro",
+    "city_id": "madrid-es",
+    "website": "https://Chispabistro.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Barquillo 8, Madrid, 28004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Clos Madrid",
+    "slug": "clos-madrid",
+    "city_id": "madrid-es",
+    "website": "https://www.restauranteclosmadrid.es/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Raimundo Fernández Villaverde 28, Madrid, 28003, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Corral de la Morería Gastronómico",
+    "slug": "corral-de-la-moreria-gastronomico",
+    "city_id": "madrid-es",
+    "website": "https://www.moreriagastro.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Morería 17, Madrid, 28005, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Desde 1911",
+    "slug": "desde-1911",
+    "city_id": "madrid-es",
+    "website": "https://www.desde1911.es",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Vivero 3, Madrid, 28040, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "EMi",
+    "slug": "emi",
+    "city_id": "madrid-es",
+    "website": "https://emimadrid.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Gaztambide 64, Madrid, 28015, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "El Invernadero",
+    "slug": "el-invernadero",
+    "city_id": "madrid-es",
+    "website": "https://elinvernaderorestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Ponzano 85, Madrid, 28003, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Gaytán",
+    "slug": "gaytan",
+    "city_id": "madrid-es",
+    "website": "https://chefjavieraranda.com/en/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Príncipe de Vergara 205, Madrid, 28002, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Gofio",
+    "slug": "gofio",
+    "city_id": "madrid-es",
+    "website": "https://gofiorestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Caballero de Gracia 20, Madrid, 28013, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Tasquería",
+    "slug": "la-tasqueria",
+    "city_id": "madrid-es",
+    "website": "https://latasqueria.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Modesto Lafuente 82, Madrid, 28003, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "OSA",
+    "slug": "osa",
+    "city_id": "madrid-es",
+    "website": "https://www.osarestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ribera del Manzanares 123, Madrid, 28008, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pabú",
+    "slug": "pabu",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantepabu.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Panamá 4, Madrid, 28036, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Quimbaya",
+    "slug": "quimbaya",
+    "city_id": "madrid-es",
+    "website": "https://quimbayarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Zurbano 63, Madrid, 28010, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "RavioXO",
+    "slug": "ravioxo",
+    "city_id": "madrid-es",
+    "website": "https://www.ravioxo.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Plaza de Manuel Gómez Moreno 5, Madrid, 28020, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ricardo Sanz Wellington",
+    "slug": "ricardo-sanz-wellington",
+    "city_id": "madrid-es",
+    "website": "https://www.gruporicardosanz.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Velázquez 6, Madrid, 28001, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Saddle",
+    "slug": "saddle",
+    "city_id": "madrid-es",
+    "website": "https://www.saddle-madrid.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Amador de los Ríos 6, Madrid, 28010, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sen Omakase",
+    "slug": "sen-omakase",
+    "city_id": "madrid-es",
+    "website": "https://senomakase.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Santa María Magdalena 14, Madrid, 28016, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Toki",
+    "slug": "toki",
+    "city_id": "madrid-es",
+    "website": "https://restaurantetoki.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Sagasta 28, Madrid, 28004, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ugo Chan",
+    "slug": "ugo-chan",
+    "city_id": "madrid-es",
+    "website": "https://www.ugochan.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Félix Boix 6, Madrid, 28036, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "VelascoAbellà",
+    "slug": "velascoabella",
+    "city_id": "madrid-es",
+    "website": "https://www.velascoabella.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Víctor Andrés Belaúnde 25, Madrid, 28016, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Yugo The Bunker",
+    "slug": "yugo-the-bunker",
+    "city_id": "madrid-es",
+    "website": "https://yugothebunker.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "San Blas 4, Madrid, 28014, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Èter",
+    "slug": "eter",
+    "city_id": "madrid-es",
+    "website": "https://eterrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Granito 20, Madrid, 28045, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bacira",
+    "slug": "bacira",
+    "city_id": "madrid-es",
+    "website": "https://bacira.es/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Castillo 16, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gala",
+    "slug": "gala",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantegala.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Espronceda 14, Madrid, 28003, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "In-Pulso",
+    "slug": "in-pulso",
+    "city_id": "madrid-es",
+    "website": "https://www.inpulsorestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Ariel 15, Madrid, 28045, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Barra de la Tasquería",
+    "slug": "la-barra-de-la-tasqueria",
+    "city_id": "madrid-es",
+    "website": "https://tasqueriabarra.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Duque de Sesto 48, Madrid, 28009, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La MaMá",
+    "slug": "la-mama",
+    "city_id": "madrid-es",
+    "website": "https://lamamarestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Avenida del Brasil 6, Madrid, 28020, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Montería",
+    "slug": "la-monteria",
+    "city_id": "madrid-es",
+    "website": "https://lamonteria.es/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Lope de Rueda 35, Madrid, 28009, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Las Tortillas de Gabino",
+    "slug": "las-tortillas-de-gabino",
+    "city_id": "madrid-es",
+    "website": "https://www.lastortillasdegabino.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rafael Calvo 20, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Manifesto 13",
+    "slug": "manifesto-13",
+    "city_id": "madrid-es",
+    "website": "https://manifesto13.es/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Hartzenbusch 12, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Quinqué",
+    "slug": "quinque",
+    "city_id": "madrid-es",
+    "website": "https://restaurantequinque.es/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Apolonio Morales 3, Madrid, 28036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sisapo",
+    "slug": "sisapo",
+    "city_id": "madrid-es",
+    "website": "https://www.sisapo.es",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Trafalgar 14, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tres por Cuatro",
+    "slug": "tres-por-cuatro",
+    "city_id": "madrid-es",
+    "website": "https://www.tresporcuatromadrid.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Montesa 9, Madrid, 28006, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Treze",
+    "slug": "treze",
+    "city_id": "madrid-es",
+    "website": "https://trezerestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "General Pardiñas 34, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Trèsde",
+    "slug": "tresde",
+    "city_id": "madrid-es",
+    "website": "https://www.tresderestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Cava Alta 17, Madrid, 28005, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Varra",
+    "slug": "varra",
+    "city_id": "madrid-es",
+    "website": "https://www.varrarestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Hermosilla 7, Madrid, 28001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "99 sushi bar",
+    "slug": "99-sushi-bar",
+    "city_id": "madrid-es",
+    "website": "https://www.99sushibar.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Padre Damián 23, Madrid, 28036, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Agarimo",
+    "slug": "agarimo",
+    "city_id": "madrid-es",
+    "website": "https://agarimomadrid.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bretón de los Herreros 27, Madrid, 28003, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Alabaster",
+    "slug": "alabaster",
+    "city_id": "madrid-es",
+    "website": "https://amicalia.es/alabaster",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Montalbán 9, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Alcotán",
+    "slug": "alcotan",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantealcotan.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Claudio Coello 96, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Allégorie",
+    "slug": "allegorie",
+    "city_id": "madrid-es",
+    "website": "https://restauranteallegorie.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bretón de los Herreros, 39, Madrid, 28003, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Amparito Roca",
+    "slug": "amparito-roca",
+    "city_id": "madrid-es",
+    "website": "https://restauranteamparitoroca.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Juan Bravo 12, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Amós",
+    "slug": "amos",
+    "city_id": "madrid-es",
+    "website": "https://www.rosewoodhotels.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de la Castellana 22, Madrid, 28046, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ayantar",
+    "slug": "ayantar",
+    "city_id": "madrid-es",
+    "website": "https://www.ayantar.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de San Francisco de Sales 41, Madrid, 28003, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "BANCAL",
+    "slug": "bancal",
+    "city_id": "madrid-es",
+    "website": "https://www.bancalrestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Serrano 95, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bao Li",
+    "slug": "bao-li",
+    "city_id": "madrid-es",
+    "website": "https://www.baolirestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jovellanos 5, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Barracuda MX",
+    "slug": "barracuda-mx",
+    "city_id": "madrid-es",
+    "website": "https://www.barracudamx.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Valenzuela 7, Madrid, 28014, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bascoat",
+    "slug": "bascoat",
+    "city_id": "madrid-es",
+    "website": "https://www.bascoatmadrid.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de la Habana 33, Madrid, 28036, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Benares",
+    "slug": "benares",
+    "city_id": "madrid-es",
+    "website": "https://www.benaresmadrid.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Zurbano 5, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "BiBo Madrid",
+    "slug": "bibo-madrid",
+    "city_id": "madrid-es",
+    "website": "https://grupodanigarcia.com/bibo/madrid/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de la Castellana 52, Madrid, 28046, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bichopalo",
+    "slug": "bichopalo",
+    "city_id": "madrid-es",
+    "website": "https://www.bichopalo.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Cristóbal Bordiú 39, Madrid, 28003, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistronómika",
+    "slug": "bistronomika",
+    "city_id": "madrid-es",
+    "website": "https://bistronomika.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ibiza 44, Madrid, 28009, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bolboreta",
+    "slug": "bolboreta",
+    "city_id": "madrid-es",
+    "website": "https://www.bolboretarestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ave María 8, Madrid, 28012, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bākkō",
+    "slug": "bakko",
+    "city_id": "madrid-es",
+    "website": "https://bakkomadrid.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lopez De Hoyos 9, Madrid, 28006, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Casa Mortero",
+    "slug": "casa-mortero",
+    "city_id": "madrid-es",
+    "website": "https://casamortero.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Zorrilla 9, Madrid, 28014, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Casa de Comidas",
+    "slug": "casa-de-comidas",
+    "city_id": "madrid-es",
+    "website": "https://www.casadecomidas-restaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Padre Damián 23, Madrid, 28001, Spain",
+    "price_tier": "€€"
+  },
+  {
+    "name": "China Crown",
+    "slug": "china-crown",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantechinacrown.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Don Ramón de la Cruz 6, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Contrastes by Diego Ferreira",
+    "slug": "contrastes-by-diego-ferreira",
+    "city_id": "madrid-es",
+    "website": "https://restaurantecontrastes.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jorge Juan 56, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Coquetto Bar",
+    "slug": "coquetto-bar",
+    "city_id": "madrid-es",
+    "website": "https://www.coquettobar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fortuny 2, Madrid, 28010, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cornamusa Cibeles",
+    "slug": "cornamusa-cibeles",
+    "city_id": "madrid-es",
+    "website": "https://cornamusa.azoteagrupo.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza de Cibeles 1, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Corsario Madrid",
+    "slug": "corsario-madrid",
+    "city_id": "madrid-es",
+    "website": "https://www.corsariomadrid.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tamayo y Baus 1, Madrid, 28004, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dantte",
+    "slug": "dantte",
+    "city_id": "madrid-es",
+    "website": "https://www.instagram.com/dantte.madrid",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Santa Engracia 32, Madrid, 28010, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Desborre",
+    "slug": "desborre",
+    "city_id": "madrid-es",
+    "website": "https://www.desborre.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "De la Unión 8, Madrid, 28013, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Doppelgänger Bar",
+    "slug": "doppelganger-bar",
+    "city_id": "madrid-es",
+    "website": "https://doppelgangerbar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Santa Isabel 5, Madrid, 28012, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ebisu by Kobos",
+    "slug": "ebisu-by-kobos",
+    "city_id": "madrid-es",
+    "website": "https://ebisubykobos.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Luciente 14, Madrid, 28005, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "El Bajío",
+    "slug": "el-bajio",
+    "city_id": "madrid-es",
+    "website": "https://www.restauranteelbajio.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Juan Bravo 23, Madrid, 28006, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "El Brote",
+    "slug": "el-brote",
+    "city_id": "madrid-es",
+    "website": "https://www.elbrote.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "de la Ruda 14, Madrid, 28005, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "El Campero",
+    "slug": "el-campero",
+    "city_id": "madrid-es",
+    "website": "https://restauranteelcampero.es/madrid/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lagasca 148, Madrid, 28006, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "El Gran Asador Lecanda",
+    "slug": "el-gran-asador-lecanda",
+    "city_id": "madrid-es",
+    "website": "https://www.elgranasadorlecanda.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lagasca 46, Madrid, 28001, Spain",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "El Patio de Claudio",
+    "slug": "el-patio-de-claudio",
+    "city_id": "madrid-es",
+    "website": "https://www.unicohotelmadrid.com/es/restaurante-patio-de-claudio-madrid/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Claudio Coello 67, Madrid, 28001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "El Pedrusco de Aldealcorvo",
+    "slug": "el-pedrusco-de-aldealcorvo",
+    "city_id": "madrid-es",
+    "website": "https://www.elpedruscorestaurante.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Juan de Austria 27, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "El Señor Martín",
+    "slug": "el-senor-martin",
+    "city_id": "madrid-es",
+    "website": "https://srmartin.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "General Castaños 13, Madrid, 28004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Estimar Madrid",
+    "slug": "estimar-madrid",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurante-estimar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marqués de Cubas 18, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ferretería Restaurante",
+    "slug": "ferreteria-restaurante",
+    "city_id": "madrid-es",
+    "website": "https://www.ferreteriarestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atocha 57, Madrid, 28012, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Filandón",
+    "slug": "filandon",
+    "city_id": "madrid-es",
+    "website": "https://www.filandon.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Carretera Fuencarral-El Pardo, Madrid, 28049, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fisgón",
+    "slug": "fisgon",
+    "city_id": "madrid-es",
+    "website": "https://fisgonrestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Edgar Neville 39, Madrid, 28020, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fismuler",
+    "slug": "fismuler",
+    "city_id": "madrid-es",
+    "website": "https://www.fismuler.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sagasta 29, Madrid, 28004, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fonda de la Confianza",
+    "slug": "fonda-de-la-confianza",
+    "city_id": "madrid-es",
+    "website": "https://www.fondalaconfianza.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "General Gallegos 1, Madrid, 28036, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "GRANDUKE",
+    "slug": "granduke",
+    "city_id": "madrid-es",
+    "website": "https://granduke.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jorge Juan 12G, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gianna Ristorante",
+    "slug": "gianna-ristorante",
+    "city_id": "madrid-es",
+    "website": "https://giannaristorante.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Eguilaz 7, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gioia",
+    "slug": "gioia",
+    "city_id": "madrid-es",
+    "website": "https://www.esgioia.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "San Bartolomé 23, Madrid, 28004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "HDDN",
+    "slug": "hddn",
+    "city_id": "madrid-es",
+    "website": "https://www.hddn.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza de Puerta Cerrada 7, Madrid, 28005, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Haramboure",
+    "slug": "haramboure",
+    "city_id": "madrid-es",
+    "website": "https://www.haramboure.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Maldonado 4, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ikigai Flor Baja",
+    "slug": "ikigai-flor-baja",
+    "city_id": "madrid-es",
+    "website": "https://restauranteikigai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Flor Baja 5, Madrid, 28013, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ikigai Velázquez",
+    "slug": "ikigai-velazquez",
+    "city_id": "madrid-es",
+    "website": "https://ikigaivelazquez.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Velázquez 136, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Isa",
+    "slug": "isa",
+    "city_id": "madrid-es",
+    "website": "https://www.isarestaurantandbar.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sevilla 3, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jaizkibel",
+    "slug": "jaizkibel",
+    "city_id": "madrid-es",
+    "website": "https://jaizkibelartesanoscocineros.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Albasanz 67, Madrid, 28037, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kabuki Madrid",
+    "slug": "kabuki-madrid",
+    "city_id": "madrid-es",
+    "website": "https://www.kabukimadrid.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lagasca 38, Madrid, 28001, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kappo",
+    "slug": "kappo",
+    "city_id": "madrid-es",
+    "website": "https://restaurantekappo.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bretón de los Herreros 54, Madrid, 28003, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kuoco",
+    "slug": "kuoco",
+    "city_id": "madrid-es",
+    "website": "https://www.kuoco.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Barquillo 30, Madrid, 28004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Bien Aparecida",
+    "slug": "la-bien-aparecida",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantelabienaparecida.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jorge Juan 8, Madrid, 28001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Guisandera de Piñera",
+    "slug": "la-guisandera-de-pinera",
+    "city_id": "madrid-es",
+    "website": "https://www.laguisanderadepinera.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rosario Pino 12, Madrid, 28020, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Llorería",
+    "slug": "la-lloreria",
+    "city_id": "madrid-es",
+    "website": "https://www.lalloreriarestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "San Lorenzo 4, Madrid, 28004, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Mar Madrid by Gastón Acurio",
+    "slug": "la-mar-madrid-by-gaston-acurio",
+    "city_id": "madrid-es",
+    "website": "https://www.lamarcebicheria.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenida del General Perón 36, Madrid, 28020, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Maruca - Castellana",
+    "slug": "la-maruca-castellana",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantelamaruca.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de la Castellana 212, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Maruca - López de Hoyos",
+    "slug": "la-maruca-lopez-de-hoyos",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantelamaruca.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "López de Hoyos 42, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Maruca - Velázquez",
+    "slug": "la-maruca-velazquez",
+    "city_id": "madrid-es",
+    "website": "https://restaurantelamaruca.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Velázquez 54, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Morena",
+    "slug": "la-morena",
+    "city_id": "madrid-es",
+    "website": "https://www.lamorenamadrid.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de la Castellana 210, Madrid, 28046, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Tasquita de Enfrente",
+    "slug": "la-tasquita-de-enfrente",
+    "city_id": "madrid-es",
+    "website": "https://www.latasquitadeenfrente.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ballesta 6, Madrid, 28004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lakasa",
+    "slug": "lakasa",
+    "city_id": "madrid-es",
+    "website": "https://www.lakasa.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza del Descubridor Diego de Ordás 1, Madrid, 28003, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lana",
+    "slug": "lana",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantelana.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ponzano 59, Madrid, 28003, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Bistroman Atelier",
+    "slug": "le-bistroman-atelier",
+    "city_id": "madrid-es",
+    "website": "https://lebistroman.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Amnistía 10, Madrid, 28013, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Leña Madrid",
+    "slug": "lena-madrid",
+    "city_id": "madrid-es",
+    "website": "https://lenarestaurants.com/es/madrid/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paseo de la Castellana 57, Madrid, 28046, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lina",
+    "slug": "lina",
+    "city_id": "madrid-es",
+    "website": "https://www.linarestaurante.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fernando'el Santo' 25, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Little Dragon",
+    "slug": "little-dragon",
+    "city_id": "madrid-es",
+    "website": "https://www.littledragon.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Reyes 11, Madrid, 28015, Spain",
+    "price_tier": "$"
+  },
+  {
+    "name": "Llama Inn - Madrid",
+    "slug": "llama-inn-madrid",
+    "city_id": "madrid-es",
+    "website": "https://www.llamainnmadrid.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Conde de Xiquena 2, Madrid, 28004, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Los 33",
+    "slug": "los-33",
+    "city_id": "madrid-es",
+    "website": "https://www.los33.net",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza de las Salesas 9, Madrid, 28004, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marcano",
+    "slug": "marcano",
+    "city_id": "madrid-es",
+    "website": "https://restaurantemarcano.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Doctor Castelo 31, Madrid, 28009, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Marmitón",
+    "slug": "marmiton",
+    "city_id": "madrid-es",
+    "website": "https://marmitonbistro.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Aguas 6, Madrid, 28005, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Noi",
+    "slug": "noi",
+    "city_id": "madrid-es",
+    "website": "https://restaurantenoi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Recoletos 6, Madrid, 28001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nunuka - Bistrot Georgia",
+    "slug": "nunuka-bistrot-georgia",
+    "city_id": "madrid-es",
+    "website": "https://www.nunukamadrid.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Libertad 13, Madrid, 28004, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "O'Grelo",
+    "slug": "ogrelo",
+    "city_id": "madrid-es",
+    "website": "https://restauranteogrelo.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Menorca 39, Madrid, 28009, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Omeraki",
+    "slug": "omeraki",
+    "city_id": "madrid-es",
+    "website": "https://www.omerakirestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Duque de Sesto 27, Madrid, 28009, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Otoro Jukusei",
+    "slug": "otoro-jukusei",
+    "city_id": "madrid-es",
+    "website": "https://www.otoromadrid.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fernández de la Hoz 35, Madrid, 28010, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ovillo",
+    "slug": "ovillo",
+    "city_id": "madrid-es",
+    "website": "https://www.ovillo.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Pantoja 8, Madrid, 28002, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ozio Gastronómico",
+    "slug": "ozio-gastronomico",
+    "city_id": "madrid-es",
+    "website": "https://www.oziogastronomico.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Aviador Zorita 37, Madrid, 28020, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pacto Raíz",
+    "slug": "pacto-raiz",
+    "city_id": "madrid-es",
+    "website": "https://pactoraiz.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Espartinas 5, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Palm Court",
+    "slug": "palm-court",
+    "city_id": "madrid-es",
+    "website": "https://www.mandarinoriental.com/es-es/madrid/hotel-ritz/dine/palm-court",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza de la Lealtad 5, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pilar Akaneya",
+    "slug": "pilar-akaneya",
+    "city_id": "madrid-es",
+    "website": "https://akaneyajapan.com/pilar-akaneya-madrid/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Espronceda 33, Madrid, 28003, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Playing Solo",
+    "slug": "playing-solo",
+    "city_id": "madrid-es",
+    "website": "https://www.playingsolorestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Manuela Malasaña 33, Madrid, 28004, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Poncio WM",
+    "slug": "poncio-wm",
+    "city_id": "madrid-es",
+    "website": "https://ponciowm.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza del Niño Jesús 3, Madrid, 28009, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Puntarena",
+    "slug": "puntarena",
+    "city_id": "madrid-es",
+    "website": "https://puntarenamadrid.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Alberto Aguilera 20, Madrid, 28015, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Qorte",
+    "slug": "qorte",
+    "city_id": "madrid-es",
+    "website": "https://qorte.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Castelló 9, Madrid, 28001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Quincé",
+    "slug": "quince",
+    "city_id": "madrid-es",
+    "website": "https://www.quincemadrid.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Barquillo 42, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ramón Freixa Tradición",
+    "slug": "ramon-freixa-tradicion",
+    "city_id": "madrid-es",
+    "website": "https://ramonfreixatradicion.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Velázquez 24, Madrid, 28001, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rocacho Plaza",
+    "slug": "rocacho-plaza",
+    "city_id": "madrid-es",
+    "website": "https://rocachoplaza.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza del Marqués de Salamanca 9, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rubaiyat Madrid",
+    "slug": "rubaiyat-madrid",
+    "city_id": "madrid-es",
+    "website": "https://www.gruporubaiyat.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Juan Ramón Jiménez 37, Madrid, 28036, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rural",
+    "slug": "rural",
+    "city_id": "madrid-es",
+    "website": "https://www.restauranterural.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marqués de Cubas 8, Madrid, 28014, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shibari Sushi and Grill",
+    "slug": "shibari-sushi-and-grill",
+    "city_id": "madrid-es",
+    "website": "https://shibarisushiandgrill.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mira el Río Baja, 20, Madrid, 28005, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Soy Kitchen",
+    "slug": "soy-kitchen",
+    "city_id": "madrid-es",
+    "website": "https://soykitchen.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Zurbano 59, Madrid, 28010, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sua",
+    "slug": "sua",
+    "city_id": "madrid-es",
+    "website": "https://www.suabytriciclo.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Moratín 22, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Surtopía",
+    "slug": "surtopia",
+    "city_id": "madrid-es",
+    "website": "https://www.surtopia.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Núñez de Balboa 106, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sushi Bar Hannah",
+    "slug": "sushi-bar-hannah",
+    "city_id": "madrid-es",
+    "website": "https://www.sushibarhannah.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marqués de Villamagna 1, Madrid, 28001, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "TA-KUMI",
+    "slug": "ta-kumi",
+    "city_id": "madrid-es",
+    "website": "https://www.restaurantetakumi.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Claudio Coello 114, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "TAMPU",
+    "slug": "tampu",
+    "city_id": "madrid-es",
+    "website": "https://tampurestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prim 13, Madrid, 28004, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taberna Pedraza",
+    "slug": "taberna-pedraza",
+    "city_id": "madrid-es",
+    "website": "https://www.tabernapedraza.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Recoletos 4, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tetsu",
+    "slug": "tetsu",
+    "city_id": "madrid-es",
+    "website": "https://restaurantetetsu.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marqués de Villamagna 1, Madrid, 28001, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ticuí",
+    "slug": "ticui",
+    "city_id": "madrid-es",
+    "website": "https://www.ticui.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Cedaceros 6, Madrid, 28014, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "TonTon",
+    "slug": "tonton",
+    "city_id": "madrid-es",
+    "website": "https://www.tonton.rest",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jordán 7, Madrid, 28010, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tora",
+    "slug": "tora",
+    "city_id": "madrid-es",
+    "website": "https://www.toraexperience.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Padilla 5, Madrid, 28006, Spain",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tori-Key",
+    "slug": "tori-key",
+    "city_id": "madrid-es",
+    "website": "https://www.torikey.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Plaza del Descubridor Diego de Ordás 2, Madrid, 28003, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tramo",
+    "slug": "tramo",
+    "city_id": "madrid-es",
+    "website": "https://www.espaciotramo.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Eugenio Salazar 56, Madrid, 28002, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Triciclo",
+    "slug": "triciclo",
+    "city_id": "madrid-es",
+    "website": "https://eltriciclo.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Santa María 28, Madrid, 28014, Spain",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zalacaín",
+    "slug": "zalacain",
+    "city_id": "madrid-es",
+    "website": "https://zalacain.es/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Álvarez de Baena 4, Madrid, 28006, Spain",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "ita",
+    "slug": "ita",
+    "city_id": "madrid-es",
+    "website": "https://www.itamadrid.es",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "General Oráa 42, Madrid, 28006, Spain",
+    "price_tier": "$$"
+  }
+]

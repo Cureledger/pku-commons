@@ -1,0 +1,4337 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "bangkok-th",
+ "restaurant_count": 111,
+ "restaurants": [
+  {
+   "restaurant_id": "bangkok-th/coda",
+   "city_id": "bangkok-th",
+   "slug": "coda",
+   "name": "Coda",
+   "website": "",
+   "address": "130-132 Wireless Road, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/coda-1206365"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/coda-1206365",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jay-fai",
+   "city_id": "bangkok-th",
+   "slug": "jay-fai",
+   "name": "Jay Fai",
+   "website": "",
+   "address": "327 Maha Chai Road, Samran Rat, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jay-fai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jay-fai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/wana-yook",
+   "city_id": "bangkok-th",
+   "slug": "wana-yook",
+   "name": "Wana Yook",
+   "website": "",
+   "address": "5/15 Phaya Thai Road, Thanon Phaya Thai, Ratchathewi, Bangkok, 10400, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/wana-yook"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/wana-yook",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/ann-tha-din-daeng",
+   "city_id": "bangkok-th",
+   "slug": "ann-tha-din-daeng",
+   "name": "Ann Tha Din Daeng",
+   "website": "",
+   "address": "167 Tha Din Daeng Road, Khlong San, Bangkok, 10600, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ann-tha-din-daeng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ann-tha-din-daeng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/aunglo-by-yangrak",
+   "city_id": "bangkok-th",
+   "slug": "aunglo-by-yangrak",
+   "name": "Aunglo by Yangrak",
+   "website": "",
+   "address": "174/4-6, Decho Road, Suriyawong, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/aunglo-by-yangrak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/aunglo-by-yangrak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/baan-pee-lek",
+   "city_id": "bangkok-th",
+   "slug": "baan-pee-lek",
+   "name": "Baan Pee Lek",
+   "website": "",
+   "address": "39 Chalermprakhet 9 Soi 9, Nong Bon, Prawet, Bangkok, 10250, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baan-pee-lek"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baan-pee-lek",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/beer-hima-chatuchak",
+   "city_id": "bangkok-th",
+   "slug": "beer-hima-chatuchak",
+   "name": "Beer Hima (Chatuchak)",
+   "website": "",
+   "address": "12/21, 99/231 Thetsaban Songkhro Road, Lat Yao, Chatuchak, Bangkok, 10900, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/beer-hima-prachachuen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/beer-hima-prachachuen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/bokkia-tha-din-daeng",
+   "city_id": "bangkok-th",
+   "slug": "bokkia-tha-din-daeng",
+   "name": "Bokkia Tha Din Daeng",
+   "website": "",
+   "address": "323 Tha Din Daeng Road, Somdet Chao Phraya, Khlong San, Bangkok, 10600, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/bokkia-tha-din-daeng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/bokkia-tha-din-daeng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/bunloet-pom-prap-sattru-phai",
+   "city_id": "bangkok-th",
+   "slug": "bunloet-pom-prap-sattru-phai",
+   "name": "Bunloet (Pom Prap Sattru Phai)",
+   "website": "",
+   "address": "360 Soi Nakhon Sawan 8, Nakhon Sawan Road, Wat Sommanat, Pom Prap Sattru Phai, Bangkok, 10100, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/bunloet"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/bunloet",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/charmgang",
+   "city_id": "bangkok-th",
+   "slug": "charmgang",
+   "name": "Charmgang",
+   "website": "",
+   "address": "14 Soi Charoenkrung 35, Talat Noi, Samphanthawong, Bangkok, 10100, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/charmgang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/charmgang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai contemporary",
+   "price_tier": "฿฿"
+  },
+  {
+   "restaurant_id": "bangkok-th/here-hai-vadhana",
+   "city_id": "bangkok-th",
+   "slug": "here-hai-vadhana",
+   "name": "Here Hai (Vadhana)",
+   "website": "",
+   "address": "112/1 Soi Sukhumvit 63, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/here-hai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/here-hai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/hia-wan-khao-tom-pla",
+   "city_id": "bangkok-th",
+   "slug": "hia-wan-khao-tom-pla",
+   "name": "Hia Wan Khao Tom Pla",
+   "website": "",
+   "address": "816 Chan Road, Thung Wat Don, Sathon, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/hia-wan-khao-tom-pla"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/hia-wan-khao-tom-pla",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jaan",
+   "city_id": "bangkok-th",
+   "slug": "jaan",
+   "name": "Jaan",
+   "website": "",
+   "address": "9 Soi Chan 7, Chong Nonsi, Yan Nawa, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jaan-by-khun-jim"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jaan-by-khun-jim",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/janhom",
+   "city_id": "bangkok-th",
+   "slug": "janhom",
+   "name": "Janhom",
+   "website": "",
+   "address": "273/4 Soi Ramkhamhaeng 21, Ramkhamhaeng Road, Wang Thonglang, Bangkok, 10310, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/janhom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/janhom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/k-panich",
+   "city_id": "bangkok-th",
+   "slug": "k-panich",
+   "name": "K. Panich",
+   "website": "",
+   "address": "431-433 Tanao Road, Sao Chingcha, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/k-panich"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/k-panich",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/keawloon",
+   "city_id": "bangkok-th",
+   "slug": "keawloon",
+   "name": "Keawloon",
+   "website": "",
+   "address": "21/3 Soi Saeng Chan, Phra Khanong, Khlong Toei, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/keawloon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/keawloon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/kin-kub-koi",
+   "city_id": "bangkok-th",
+   "slug": "kin-kub-koi",
+   "name": "Kin Kub Koi",
+   "website": "",
+   "address": "83/3 Phuttha Monthon Sai 2 Road, Sala Thammasop, Thawi Watthana, Bangkok, 10170, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kin-kub-koi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kin-kub-koi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/kolun-h",
+   "city_id": "bangkok-th",
+   "slug": "kolun-h",
+   "name": "Kolun.h",
+   "website": "",
+   "address": "110/1 Mahannop Road, Sao Chingcha, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kolun-h"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kolun-h",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/krua-apsorn-dusit",
+   "city_id": "bangkok-th",
+   "slug": "krua-apsorn-dusit",
+   "name": "Krua Apsorn (Dusit)",
+   "website": "",
+   "address": "503-505 Sam Sen Road, Wachira Payaban, Dusit, Bangkok, 10300, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/krua-apsorn-sam-sen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/krua-apsorn-sam-sen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/lucky-seafood",
+   "city_id": "bangkok-th",
+   "slug": "lucky-seafood",
+   "name": "Lucky Seafood",
+   "website": "",
+   "address": "28/1 Phran Nok-Phutthamonthon 4 Road, Bang Phrom, Taling Chan, Bangkok, 10170, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/lucky-seafood"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/lucky-seafood",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/maan-muang",
+   "city_id": "bangkok-th",
+   "slug": "maan-muang",
+   "name": "Maan Muang",
+   "website": "",
+   "address": "165/6-7 Soi Ramkhamhaeng 112, Ramkhamhaeng Road, Saphan Sung, Bangkok, 10240, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/maan-muang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/maan-muang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Northern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/no-name-noodle",
+   "city_id": "bangkok-th",
+   "slug": "no-name-noodle",
+   "name": "No Name Noodle",
+   "website": "",
+   "address": "1F, Room P2, 1/2 Soi Athakravi 1, Sukhumvit 26 Road, Khlong Tan, Khlong Toei, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/no-name-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/no-name-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/pad-thai-fai-ta-lu-phra-nakhon",
+   "city_id": "bangkok-th",
+   "slug": "pad-thai-fai-ta-lu-phra-nakhon",
+   "name": "Pad Thai Fai Ta Lu (Phra Nakhon)",
+   "website": "",
+   "address": "115/5 Dinso Road, Bowon Niwet, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/eat-pad-thai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/eat-pad-thai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/pae-brass-pot-porridge-38-years",
+   "city_id": "bangkok-th",
+   "slug": "pae-brass-pot-porridge-38-years",
+   "name": "Pae Brass Pot Porridge 38 Years",
+   "website": "",
+   "address": "320 Pracha Rat Sai 1 Road, Bang Sue, Bangkok, 10800, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/pae-jok-38-years"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/pae-jok-38-years",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Congee",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/prik-yuak-phya-thai",
+   "city_id": "bangkok-th",
+   "slug": "prik-yuak-phya-thai",
+   "name": "Prik-Yuak (Phya Thai)",
+   "website": "",
+   "address": "108 Pradiphat Road, Phaya Thai, Bangkok, 10400, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/prik-yuak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/prik-yuak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/rung-rueang-tung-pork-noodle",
+   "city_id": "bangkok-th",
+   "slug": "rung-rueang-tung-pork-noodle",
+   "name": "Rung Rueang Tung Pork Noodle",
+   "website": "",
+   "address": "21/2 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/guay-tiew-mu-rung-rueang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/guay-tiew-mu-rung-rueang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/samlor",
+   "city_id": "bangkok-th",
+   "slug": "samlor",
+   "name": "Samlor",
+   "website": "",
+   "address": "1076 Charoen Krung Road, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/samlor"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/samlor",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/somsak-pu-ob-charoen-rat",
+   "city_id": "bangkok-th",
+   "slug": "somsak-pu-ob-charoen-rat",
+   "name": "Somsak Pu Ob (Charoen Rat)",
+   "website": "",
+   "address": "199-205 Soi Charoen Rat 1, Khlong San, Bangkok, 10600, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/somsak-pu-ob-charoen-rat"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/somsak-pu-ob-charoen-rat",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/ten-suns",
+   "city_id": "bangkok-th",
+   "slug": "ten-suns",
+   "name": "Ten Suns",
+   "website": "",
+   "address": "456 Wisut Kasat Road, Bang Khun Phrom, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ten-suns"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ten-suns",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/thai-niyom",
+   "city_id": "bangkok-th",
+   "slug": "thai-niyom",
+   "name": "Thai Niyom",
+   "website": "",
+   "address": "Mahatun Plaza, 888/28-29 Phloen Chit Road, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/thai-niyom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/thai-niyom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/thai-tham",
+   "city_id": "bangkok-th",
+   "slug": "thai-tham",
+   "name": "Thai Tham",
+   "website": "",
+   "address": "28/1 Phraeng Phuthon Road, San Chao Pho Suea, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/thai-tham"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/thai-tham",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai-Chinese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/urai-braised-goose",
+   "city_id": "bangkok-th",
+   "slug": "urai-braised-goose",
+   "name": "Urai Braised Goose",
+   "website": "",
+   "address": "935 Song Wat Road, Chakkrawat, Samphanthawong, Bangkok, 10100, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/urai-braised-goose"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/urai-braised-goose",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/aheesah-roddee",
+   "city_id": "bangkok-th",
+   "slug": "aheesah-roddee",
+   "name": "Aheesah Roddee",
+   "website": "",
+   "address": "103-105 Tani Road, Talat Yot, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/aheesah-roddee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/aheesah-roddee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/anakade",
+   "city_id": "bangkok-th",
+   "slug": "anakade",
+   "name": "Anakade",
+   "website": "",
+   "address": "663 Soi Lat Phrao 48 Lane 16, Sam Sen Nok, Huai Khwang, Bangkok, 10310, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/anakade"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/anakade",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/arunwan",
+   "city_id": "bangkok-th",
+   "slug": "arunwan",
+   "name": "Arunwan",
+   "website": "",
+   "address": "LGF, Park X Building, 295 Soi Ekkamai 15, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/arunwan-1200640"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/arunwan-1200640",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/arva",
+   "city_id": "bangkok-th",
+   "slug": "arva",
+   "name": "Arva",
+   "website": "",
+   "address": "9F Aman Nai Lert Bangkok, 1 Soi Somkid, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/arva-1243396"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/arva-1243396",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/baannok-bangkok-langsuan-road",
+   "city_id": "bangkok-th",
+   "slug": "baannok-bangkok-langsuan-road",
+   "name": "Baannok Bangkok (Langsuan Road)",
+   "website": "",
+   "address": "2F, VIVRE Building, 34/3 Lang Suan Road, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baannok-bangkok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baannok-bangkok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/bangkok-bold-pathum-wan",
+   "city_id": "bangkok-th",
+   "slug": "bangkok-bold-pathum-wan",
+   "name": "Bangkok Bold (Pathum Wan)",
+   "website": "",
+   "address": "LGF, Central Embassy, 1031 Phloen Chit Road, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/bangkok-bold-kitchen-central-embassy"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/bangkok-bold-kitchen-central-embassy",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/charoen-saeng-silom",
+   "city_id": "bangkok-th",
+   "slug": "charoen-saeng-silom",
+   "name": "Charoen Saeng Silom",
+   "website": "",
+   "address": "492/6 Soi Charoen Krung 49, Silom Road, Suriyawong, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/charoen-saeng-silom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/charoen-saeng-silom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/chef-man-sathon",
+   "city_id": "bangkok-th",
+   "slug": "chef-man-sathon",
+   "name": "Chef Man (Sathon)",
+   "website": "",
+   "address": "3F, Eastin Grand Sathorn, 33/1 Sathon Tai Road, Yan Nawa, Sathon, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chef-man-sathon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chef-man-sathon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/duck-noodle-house",
+   "city_id": "bangkok-th",
+   "slug": "duck-noodle-house",
+   "name": "Duck Noodle House",
+   "website": "",
+   "address": "945 Soi Wanit 2, Talat Noi, Samphanthawong, Bangkok, 10100, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/duck-noodle-house"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/duck-noodle-house",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/foong",
+   "city_id": "bangkok-th",
+   "slug": "foong",
+   "name": "Foong",
+   "website": "",
+   "address": "53 Soi Thong Lo 19, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/foong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/foong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/gaggan-at-louis-vuitton",
+   "city_id": "bangkok-th",
+   "slug": "gaggan-at-louis-vuitton",
+   "name": "Gaggan at Louis Vuitton",
+   "website": "",
+   "address": "2F, Gaysorn Amarin, 502 Phloen Chit Road, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaggan-at-louis-vuitton"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaggan-at-louis-vuitton",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/garlic",
+   "city_id": "bangkok-th",
+   "slug": "garlic",
+   "name": "Garlic",
+   "website": "",
+   "address": "44 Soi Chotiwat, Bang Sue, Bangkok, 10800, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/garlic"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/garlic",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/guay-jub-mr-jo",
+   "city_id": "bangkok-th",
+   "slug": "guay-jub-mr-jo",
+   "name": "Guay Jub Mr. Jo",
+   "website": "",
+   "address": "86 Soi Chan 44, Wat Phraya Krai, Bang Kho Laem, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/guay-jub-mr-joe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/guay-jub-mr-joe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jaidee-shrimp",
+   "city_id": "bangkok-th",
+   "slug": "jaidee-shrimp",
+   "name": "Jaidee Shrimp",
+   "website": "",
+   "address": "222/388 Ruam Mit Phatthana Road, Tha Raeng, Bang Khen, Bangkok, 10220, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jaidee-shrimp"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jaidee-shrimp",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jamn",
+   "city_id": "bangkok-th",
+   "slug": "jamn",
+   "name": "Jamn",
+   "website": "",
+   "address": "8 Soi Chan 43 Yaek 41, Bang Khlo, Bang Kho Laem, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jamn"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jamn",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jao-nai-fish-ball-bang-khae-road",
+   "city_id": "bangkok-th",
+   "slug": "jao-nai-fish-ball-bang-khae-road",
+   "name": "Jao Nai Fish Ball (Bang Khae Road)",
+   "website": "",
+   "address": "103/14 Bang Khae Road, Bang Khae, Bangkok, 10160, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jao-nai-fish-ball"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jao-nai-fish-ball",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jay-jia-yentafo",
+   "city_id": "bangkok-th",
+   "slug": "jay-jia-yentafo",
+   "name": "Jay Jia Yentafo",
+   "website": "",
+   "address": "564 Rama 4 Road, Maha Phruettharam, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jay-jia-yentafo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jay-jia-yentafo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jay-ngor-beef-noodle",
+   "city_id": "bangkok-th",
+   "slug": "jay-ngor-beef-noodle",
+   "name": "Jay Ngor Beef Noodle",
+   "website": "",
+   "address": "679 Nakhon Chaisi Road, Thanon Nakhon Chai Si, Dusit, Bangkok, 10300, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jay-ngor-beef-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jay-ngor-beef-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jek-tod",
+   "city_id": "bangkok-th",
+   "slug": "jek-tod",
+   "name": "Jek Tod",
+   "website": "",
+   "address": "3597/49 Chalaem Nimit Road, Bang Khlo, Bang Kho Laem, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jek-tod"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jek-tod",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/joks-kitchen",
+   "city_id": "bangkok-th",
+   "slug": "joks-kitchen",
+   "name": "Jok's Kitchen",
+   "website": "",
+   "address": "23 Soi Charoen Krung 21, Phlapphla Chai Road, Pom Prap, Pom Prap Sattru Phai, Bangkok, 10100, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jok-s-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jok-s-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai-Chinese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/kaenkrung",
+   "city_id": "bangkok-th",
+   "slug": "kaenkrung",
+   "name": "KAENKRUNG",
+   "website": "",
+   "address": "521/11 Arunamarin Road, Bangkok Noi, Bangkok, 10700, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kaenkrung"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kaenkrung",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/kao-soy-prin",
+   "city_id": "bangkok-th",
+   "slug": "kao-soy-prin",
+   "name": "KAO SOY PRIN",
+   "website": "",
+   "address": "5F, Dusit Central Park, Rama 4 Road, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kao-soy-prin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kao-soy-prin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/kamkinsuk",
+   "city_id": "bangkok-th",
+   "slug": "kamkinsuk",
+   "name": "Kamkinsuk",
+   "website": "",
+   "address": "2469/7 New Phetchaburi Road, Bang Kapi, Huai Khwang, Bangkok, 10310, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kam-kin-suk"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/kam-kin-suk",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Northern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/krua-sa-ros-jad",
+   "city_id": "bangkok-th",
+   "slug": "krua-sa-ros-jad",
+   "name": "Krua Sa Ros Jad",
+   "website": "",
+   "address": "112/1 Soi Vibhavadi 44, Vibhavadi Rangsit Road, Lat Yao, Chatuchak, Bangkok, 10900, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/krua-yai-pleng",
+   "city_id": "bangkok-th",
+   "slug": "krua-yai-pleng",
+   "name": "Krua Yai Pleng",
+   "website": "",
+   "address": "8 Soi Borommaratchachonnani 101, Sala Thammasop, Thawi Watthana, Bangkok, 10170, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/krua-yai-pleng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/krua-yai-pleng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/lay-lao-phaya-thai",
+   "city_id": "bangkok-th",
+   "slug": "lay-lao-phaya-thai",
+   "name": "Lay Lao (Phaya Thai)",
+   "website": "",
+   "address": "65 Soi Phahon Yothin 7, Phahon Yothin Road, Sam Sen Nai, Phaya Thai, Bangkok, 10400, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/lay-lao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/lay-lao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/mama-yaya",
+   "city_id": "bangkok-th",
+   "slug": "mama-yaya",
+   "name": "MAMA YAYA",
+   "website": "",
+   "address": "53 Soi Nak Niwat 16, Lat Phrao, Bangkok, 10230, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mama-yaya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mama-yaya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/mae-khlong-hua-pla-mo-fai",
+   "city_id": "bangkok-th",
+   "slug": "mae-khlong-hua-pla-mo-fai",
+   "name": "Mae Khlong Hua Pla Mo Fai",
+   "website": "",
+   "address": "198 Phran Nok-Phutthamonthon Sai 4 Road, Bang Phrom, Taling Chan, Bangkok, 10170, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mae-khlong-hua-pla-mo-fai-1195212"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mae-khlong-hua-pla-mo-fai-1195212",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/mae-prapha-crispy-pancake-phra-nakhon",
+   "city_id": "bangkok-th",
+   "slug": "mae-prapha-crispy-pancake-phra-nakhon",
+   "name": "Mae Prapha Crispy Pancake (Phra Nakhon)",
+   "website": "",
+   "address": "102 Phra Sumen Road, Chana Songkhram, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mae-prapha-crispy-pancake-phra-nakhon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mae-prapha-crispy-pancake-phra-nakhon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/mae-thum-padthai-kheng",
+   "city_id": "bangkok-th",
+   "slug": "mae-thum-padthai-kheng",
+   "name": "Mae Thum Padthai Kheng",
+   "website": "",
+   "address": "6/3 Siriphong Road, Samran Rat, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mae-thum-padthai-kheng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mae-thum-padthai-kheng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/mhom",
+   "city_id": "bangkok-th",
+   "slug": "mhom",
+   "name": "Mhom",
+   "website": "",
+   "address": "125 Rama IX Soi 51 Yaek 3, Suan Luang, Suan Luang, Bangkok, 10250, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mhom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/mhom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/phat-kaolao-beef",
+   "city_id": "bangkok-th",
+   "slug": "phat-kaolao-beef",
+   "name": "Phat Kaolao Beef",
+   "website": "",
+   "address": "29 Ratchaphruek Road, Bang Waek, Phasi Charoen, Bangkok, 10160, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/phat-kaolao-beef"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/phat-kaolao-beef",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/phukej",
+   "city_id": "bangkok-th",
+   "slug": "phukej",
+   "name": "Phukej",
+   "website": "",
+   "address": "730-732 Mangkon Road, Pom Prap, Pom Prap Sattru Phai, Bangkok, 10100, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/phukej"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/phukej",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/rark",
+   "city_id": "bangkok-th",
+   "slug": "rark",
+   "name": "Rark",
+   "website": "",
+   "address": "4 Pridiphanomyong 26 Road, Soi Phatthana Wet 3, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/rark"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/rark",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/reunros-yan-nawa",
+   "city_id": "bangkok-th",
+   "slug": "reunros-yan-nawa",
+   "name": "Reunros (Yan Nawa)",
+   "website": "",
+   "address": "Bangkok Square, 762/2 Rama 3 Road, Bang Phongphang, Yan Nawa, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/reunros"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/reunros",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/rongros",
+   "city_id": "bangkok-th",
+   "slug": "rongros",
+   "name": "Rongros",
+   "website": "",
+   "address": "392/16 Maha Rat Road, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/rongros"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/rongros",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/rue-poh",
+   "city_id": "bangkok-th",
+   "slug": "rue-poh",
+   "name": "Rue Poh",
+   "website": "",
+   "address": "8 Soi Srinagarindra 56, Nong Bon, Prawet, Bangkok, 10250, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/rue-poh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/rue-poh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/sang-thatien",
+   "city_id": "bangkok-th",
+   "slug": "sang-thatien",
+   "name": "Sang Thatien",
+   "website": "",
+   "address": "75 Maha Rat Road, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sang-tha-tien"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sang-tha-tien",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/sanyod-bang-rak",
+   "city_id": "bangkok-th",
+   "slug": "sanyod-bang-rak",
+   "name": "Sanyod (Bang Rak)",
+   "website": "",
+   "address": "89 Soi Charat Wiang, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sanyod-sathon-bang-rak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sanyod-sathon-bang-rak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/shirokane-tori-tama",
+   "city_id": "bangkok-th",
+   "slug": "shirokane-tori-tama",
+   "name": "Shirokane Tori-Tama",
+   "website": "",
+   "address": "Park Lane, 18 Soi Sukhumvit 63, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/tori-tama"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/tori-tama",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/si-sawat",
+   "city_id": "bangkok-th",
+   "slug": "si-sawat",
+   "name": "Si Sawat",
+   "website": "",
+   "address": "Unit A1, Suwan Tower, 14/1 Soi Sathon 2, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/si-sawat"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/si-sawat",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/sornthong",
+   "city_id": "bangkok-th",
+   "slug": "sornthong",
+   "name": "Sornthong",
+   "website": "",
+   "address": "2829-31 Rama 4 Road, Khlong Toei, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sornthong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sornthong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/sushi-saryu",
+   "city_id": "bangkok-th",
+   "slug": "sushi-saryu",
+   "name": "Sushi Saryu",
+   "website": "",
+   "address": "GF, Kronos Sathorn Building, 46 North Sathorn Road, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sushi-saryu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sushi-saryu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/tai-yai",
+   "city_id": "bangkok-th",
+   "slug": "tai-yai",
+   "name": "Tai Yai",
+   "website": "",
+   "address": "A204, The Coast Bangkok, 3888, Sukhumvit Road, Bang Na Tai, Bang Na, Bangkok, 10260, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/tai-yai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/tai-yai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Burmese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/tang-sui-heng-banthat-thong-road",
+   "city_id": "bangkok-th",
+   "slug": "tang-sui-heng-banthat-thong-road",
+   "name": "Tang Sui Heng (Banthat Thong Road)",
+   "website": "",
+   "address": "649 Banthat Thong Road, Wang Mai, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/tung-sui-heng-pochana-stadium-one"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/tung-sui-heng-pochana-stadium-one",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/the-local",
+   "city_id": "bangkok-th",
+   "slug": "the-local",
+   "name": "The Local",
+   "website": "",
+   "address": "32-32/1 Soi Sukhumvit 23, Sukhumvit Road, Khlong Toei Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/the-local"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/the-local",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/torisawa-22",
+   "city_id": "bangkok-th",
+   "slug": "torisawa-22",
+   "name": "Torisawa 22",
+   "website": "",
+   "address": "Unit 119, Marriott Executive Apartments Town Hall, 88/8 Soi Sukhumvit 49, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/torisawa-22"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/torisawa-22",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/yakiniku-sudo",
+   "city_id": "bangkok-th",
+   "slug": "yakiniku-sudo",
+   "name": "Yakiniku Sudo",
+   "website": "",
+   "address": "Unit 206-207, 2F, Nihonmachi Mall, Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/yakiniku-sudo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/yakiniku-sudo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/sorn",
+   "city_id": "bangkok-th",
+   "slug": "sorn",
+   "name": "Sorn",
+   "website": "https://www.sornfinesouthern.com",
+   "address": "56 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sorn"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sorn",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/anne-sophie-pic-at-le-normandie",
+   "city_id": "bangkok-th",
+   "slug": "anne-sophie-pic-at-le-normandie",
+   "name": "Anne-Sophie Pic at Le Normandie",
+   "website": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/dine/anne-sophie-pic-at-le-normandie",
+   "address": "5F, Mandarin Oriental, Bangkok, 48 Soi Charoen Krung 40, Charoen Krung Road, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/le-normandie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/le-normandie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/chefs-table",
+   "city_id": "bangkok-th",
+   "slug": "chefs-table",
+   "name": "Chef's Table",
+   "website": "https://www.lebua.com/restaurants/chefs-table",
+   "address": "61F, Tower Club at Lebua, 1055 Silom Road, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chef-s-table1184372"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chef-s-table1184372",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/cote-by-mauro-colagreco",
+   "city_id": "bangkok-th",
+   "slug": "cote-by-mauro-colagreco",
+   "name": "Côte by Mauro Colagreco",
+   "website": "https://www.capellahotels.com/en/capella-bangkok/dining/cote-by-mauro-colagreco",
+   "address": "2F, Capella Bangkok, 300/2 Charoenkrung Road, Yan Nawa, Sathon, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/cote-by-mauro-colagreco"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/cote-by-mauro-colagreco",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/gaa",
+   "city_id": "bangkok-th",
+   "slug": "gaa",
+   "name": "Gaa",
+   "website": "https://www.gaabkk.com",
+   "address": "46/1 Sukhumvit 53, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaa-1194845"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaa-1194845",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/avant",
+   "city_id": "bangkok-th",
+   "slug": "avant",
+   "name": "AVANT",
+   "website": "https://www.kimptonmaalaibangkok.com/bangkok-restaurants/avant",
+   "address": "30F, Kimpton Maa-Lai Bangkok, 78 Soi Ton Son, Lumphini, Pathum Wan, Bangkok, 10300, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/avant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/avant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/gaggan",
+   "city_id": "bangkok-th",
+   "slug": "gaggan",
+   "name": "Gaggan",
+   "website": "https://www.gaggan.com",
+   "address": "68 Soi Sukhumvit 31, Sukhumvit Road, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaggan-anand"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaggan-anand",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/juksunchae",
+   "city_id": "bangkok-th",
+   "slug": "juksunchae",
+   "name": "Juksunchae",
+   "website": "https://www.juksunchae.com",
+   "address": "Marriott Executive Apartments Town Hall, 88/8 Soi Sukhumvit 49, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/juksunchae"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/juksunchae",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/maison-dunand",
+   "city_id": "bangkok-th",
+   "slug": "maison-dunand",
+   "name": "Maison Dunand",
+   "website": "https://www.maisondunand.com",
+   "address": "55 Soi Sathon 10, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/maison-dunand"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/maison-dunand",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Alpine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/resonance",
+   "city_id": "bangkok-th",
+   "slug": "resonance",
+   "name": "Resonance",
+   "website": "https://www.resonancebkk.com",
+   "address": "108, 4 Soi Sukhumvit 65, Phra Khanong Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/resonance"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/resonance",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/samrub-samrub-thai",
+   "city_id": "bangkok-th",
+   "slug": "samrub-samrub-thai",
+   "name": "Samrub Samrub Thai",
+   "website": "https://www.samrubsamrubthai.com",
+   "address": "39/11 Soi Yommarat, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/samrub-samrub-thai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/samrub-samrub-thai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/saneh-jaan",
+   "city_id": "bangkok-th",
+   "slug": "saneh-jaan",
+   "name": "Saneh Jaan",
+   "website": "https://www.sanehjaan.com",
+   "address": "Sindhorn Tower, 130-132 Wireless Road, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/saneh-jaan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/saneh-jaan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/gim-nguan-noodle",
+   "city_id": "bangkok-th",
+   "slug": "gim-nguan-noodle",
+   "name": "Gim Nguan Noodle",
+   "website": "https://www.facebook.com/grimnguannoodlebkk",
+   "address": "75/70 Soi Chom Thong 16, Chom Thong Road, Bang Kho, Chom Thong, Bangkok, 10150, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/grim-nguan-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/grim-nguan-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "bangkok-th/100-mahaseth",
+   "city_id": "bangkok-th",
+   "slug": "100-mahaseth",
+   "name": "100 Mahaseth",
+   "website": "https://www.100mahaseth.com",
+   "address": "100 Mahaseth Road, Si Phraya, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/100-mahaseth"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/100-mahaseth",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Isan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/baan-suriyasai-bangrak",
+   "city_id": "bangkok-th",
+   "slug": "baan-suriyasai-bangrak",
+   "name": "Baan Suriyasai (Bangrak)",
+   "website": "https://www.baansuriyasai.com",
+   "address": "174 Surawong Road, Si Phraya, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baan-suriyasai-1195317"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baan-suriyasai-1195317",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/chakrabongse-dining",
+   "city_id": "bangkok-th",
+   "slug": "chakrabongse-dining",
+   "name": "Chakrabongse Dining",
+   "website": "https://www.chakrabongsevillas.com",
+   "address": "396/1 Maha Rat Road, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok, 10200, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chakrabongse-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chakrabongse-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/fillets",
+   "city_id": "bangkok-th",
+   "slug": "fillets",
+   "name": "Fillets",
+   "website": "https://www.filletsbangkok.com",
+   "address": "Unit 2323, 3F, The Storeys, 199 One Bangkok, Wireless Road, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/fillets"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/fillets",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/grok",
+   "city_id": "bangkok-th",
+   "slug": "grok",
+   "name": "Grok",
+   "website": "https://www.grok1970restaurant.com",
+   "address": "14 Yolo Forest Community, Soi Somkid, Lumphini, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/grok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/grok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/huen-lamphun",
+   "city_id": "bangkok-th",
+   "slug": "huen-lamphun",
+   "name": "Huen Lamphun",
+   "website": "https://huenlumphun.com",
+   "address": "64/233 Mu 5, Suan Phak Road, Chimphli, Taling Chan, Bangkok, 10170, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/huen-lamphun-suan-phak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/huen-lamphun-suan-phak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Northern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/indus",
+   "city_id": "bangkok-th",
+   "slug": "indus",
+   "name": "Indus",
+   "website": "https://www.indusbangkok.com",
+   "address": "71 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/indus"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/indus",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/jikasei-b",
+   "city_id": "bangkok-th",
+   "slug": "jikasei-b",
+   "name": "Jikasei B",
+   "website": "https://www.jikaseib.com",
+   "address": "3/4 Soi Sukhumvit 43, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jikasei-b"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/jikasei-b",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/north",
+   "city_id": "bangkok-th",
+   "slug": "north",
+   "name": "North",
+   "website": "https://www.north-restaurant.com",
+   "address": "8 Soi Sukhumvit 33, Khlong Tan Nuea, Vadhana, Bangkok, 10110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/north"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/north",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Northern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/ojo",
+   "city_id": "bangkok-th",
+   "slug": "ojo",
+   "name": "Ojo",
+   "website": "https://www.ojobangkok.com",
+   "address": "76F, The Standard Bangkok Mahanakhon, 114 Narathiwas Road, Si Lom, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ojo-bangkok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ojo-bangkok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/palmier",
+   "city_id": "bangkok-th",
+   "slug": "palmier",
+   "name": "Palmier",
+   "website": "https://www.fourseasons.com/bangkok/dining/restaurants/palmier-by-guillaume-galliot",
+   "address": "Four Seasons Private Residences Bangkok, 300/1 Charoen Krung Road, Yan Nawa, Sathon, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/palmier-by-guillaume-galliot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/palmier-by-guillaume-galliot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/phra-nakhon",
+   "city_id": "bangkok-th",
+   "slug": "phra-nakhon",
+   "name": "Phra Nakhon",
+   "website": "https://www.capellahotels.com/en/capella-bangkok/dining/phra-nakhon",
+   "address": "Lower Lobby, Capella Bangkok, 300/2 Charoenkrung Road, Yan Nawa, Sathon, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/phra-nakhon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/phra-nakhon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/small-dinner-club",
+   "city_id": "bangkok-th",
+   "slug": "small-dinner-club",
+   "name": "Small Dinner Club",
+   "website": "https://www.smalldinnerclub.com",
+   "address": "1109 Charoen Krung Road, Si Phraya, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/small-dinner-club"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/small-dinner-club",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/soma",
+   "city_id": "bangkok-th",
+   "slug": "soma",
+   "name": "Soma",
+   "website": "https://www.somabangkok.com",
+   "address": "Siam Patumwan House, 414 Phaya Thai Road, Wang Mai, Pathum Wan, Bangkok, 10330, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/soma-1242092"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/soma-1242092",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/somboon-seafood-bang-rak",
+   "city_id": "bangkok-th",
+   "slug": "somboon-seafood-bang-rak",
+   "name": "Somboon Seafood (Bang Rak)",
+   "website": "https://www.somboonseafood.com/en",
+   "address": "169, 169/7-12 Surawong Road, Suriyawong, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/somboon-seafood-surawong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/somboon-seafood-surawong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai-Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/the-china-house-by-chef-fei",
+   "city_id": "bangkok-th",
+   "slug": "the-china-house-by-chef-fei",
+   "name": "The China House by Chef Fei",
+   "website": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/dine/the-china-house-by-chef-fei",
+   "address": "Mandarin Oriental, Bangkok, 48 Soi Charoen Krung 40, Charoen Krung Road, Bang Rak, Bangkok, 10500, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/the-china-house-by-chef-fei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/the-china-house-by-chef-fei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/via-emilia",
+   "city_id": "bangkok-th",
+   "slug": "via-emilia",
+   "name": "Via Emilia",
+   "website": "https://www.viaemiliabangkok.com",
+   "address": "1040 Soi Naradhiwas Rajanagarindra 17 Lane 5, Thung Maha Mek, Sathon, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/via-emilia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/via-emilia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "bangkok-th/ore",
+   "city_id": "bangkok-th",
+   "slug": "ore",
+   "name": "Ōre",
+   "website": "https://www.orerestaurant.com",
+   "address": "11/31 Sathu Pradit Road, Chong Nonsi, Yan Nawa, Bangkok, 10120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ore-1214214"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/ore-1214214",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Posted menu blocked or would not load. Not shown until the dish list is in hand.",
+ "city_id": "charleston-sc-us",
+ "restaurant_count": 6,
+ "restaurants": [
+  {
+   "restaurant_id": "charleston-sc-us/fig",
+   "city_id": "charleston-sc-us",
+   "slug": "fig",
+   "name": "Fig",
+   "website": "",
+   "address": "232 Meeting St., Charleston, SC, 29401, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/south-carolina/charleston_2952029/restaurant/fig"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/south-carolina/charleston_2952029/restaurant/fig",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "American",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "charleston-sc-us/malagon-mercado-y-taperia",
+   "city_id": "charleston-sc-us",
+   "slug": "malagon-mercado-y-taperia",
+   "name": "Malagón Mercado y Taperia",
+   "website": "https://www.malagonchs.com/",
+   "address": "33 Spring St., Charleston, SC, 29403, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/south-carolina/charleston_2952029/restaurant/malagon-mercado-y-taperia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/south-carolina/charleston_2952029/restaurant/malagon-mercado-y-taperia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "charleston-sc-us/the-restaurant-at-zero-george",
+   "city_id": "charleston-sc-us",
+   "slug": "the-restaurant-at-zero-george",
+   "name": "The Restaurant at Zero George",
+   "website": "https://zerorestaurantcharleston.com/",
+   "address": "0 George St., Charleston, SC, 29401, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/south-carolina/charleston_2952029/restaurant/the-restaurant-at-zero-george"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/south-carolina/charleston_2952029/restaurant/the-restaurant-at-zero-george",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "charleston-sc-us/applebees-charleston",
+   "city_id": "charleston-sc-us",
+   "slug": "applebees-charleston",
+   "name": "Applebee's",
+   "website": "https://www.applebees.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.applebees.com/en/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.applebees.com/en/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "applebees"
+  },
+  {
+   "restaurant_id": "charleston-sc-us/outback-charleston",
+   "city_id": "charleston-sc-us",
+   "slug": "outback-charleston",
+   "name": "Outback Steakhouse",
+   "website": "https://www.outback.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.outback.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.outback.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$",
+   "chain": "outback"
+  },
+  {
+   "restaurant_id": "charleston-sc-us/cracker-barrel-charleston",
+   "city_id": "charleston-sc-us",
+   "slug": "cracker-barrel-charleston",
+   "name": "Cracker Barrel",
+   "website": "https://www.crackerbarrel.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.crackerbarrel.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.crackerbarrel.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "cracker-barrel"
+  }
+ ]
+}

@@ -1,0 +1,603 @@
+[
+  {
+    "name": "Dewakan",
+    "slug": "dewakan",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.dewakan.my",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "48F, Skyviews, Naza Tower, Platinum Park, 10 Persiaran KLCC, Kuala Lumpur, 50088, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Akar",
+    "slug": "akar",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.akarkl.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "109 Jalan Aminuddin Baki, Taman Tun Dr Ismail, Kuala Lumpur, 60000, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Beta",
+    "slug": "beta",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.betakl.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Lot 3 & 4, GF, Cormar Suites, 10 Jalan Perak, Kuala Lumpur, 50450, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chim by Chef Noom",
+    "slug": "chim-by-chef-noom",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://chimdining.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "L2-03, TSLAW Tower, 39 Jalan Kamuning, Imbi, Kuala Lumpur, 55100, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "DC. by Darren Chin",
+    "slug": "dc-by-darren-chin",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.restaurant-dc.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "44 Persiaran Zaaba, Taman Tun Dr Ismail, Kuala Lumpur, 60000, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Molina",
+    "slug": "molina",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.restaurant-molina.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "51F, THE FACE Style, 1020 Jalan Sultan Ismail, Kampung Baru, Kuala Lumpur, 50250, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Terra Dining",
+    "slug": "terra-dining",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.terra-dining.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail, Kuala Lumpur, 60000, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Aliyaa",
+    "slug": "aliyaa",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.aliyaa.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "48 Jalan Medan Setia 2, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Coast by Kayra",
+    "slug": "coast-by-kayra",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://coast.kayra.com.my/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Lot G03-G05, GF, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "De. Wan 1958 (Taman U Thant)",
+    "slug": "de-wan-1958-taman-u-thant",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://dewan.space",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Level 2-2, The LINC KL, 360 Jalan Tun Razak, Taman U Thant, Kuala Lumpur, 50400, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Foong Lian",
+    "slug": "foong-lian",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.foonglian.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "55 Jalan Yew, Pudu, Kuala Lumpur, 55100, Malaysia",
+    "price_tier": "$"
+  },
+  {
+    "name": "Hai Kah Lang (Taman Cheras)",
+    "slug": "hai-kah-lang-taman-cheras",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://haikahlang.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur, 56100, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MTR 1924",
+    "slug": "mtr-1924",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://mtr1924malaysia.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "69 Jalan Thambipillay, Brickfields, Kuala Lumpur, 50470, Malaysia",
+    "price_tier": "$"
+  },
+  {
+    "name": "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)",
+    "slug": "nasi-ayam-hainan-chee-meng-jalan-kelang-lama",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.cheemeng.com.my",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Sub Lot-A1, Batu 4 1/4, Jalan Kelang Lama, Kuala Lumpur, 58000, Malaysia",
+    "price_tier": "$"
+  },
+  {
+    "name": "Nirwana",
+    "slug": "nirwana",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://srinirwanamaju.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur, 59100, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Roti by d'Tandoor",
+    "slug": "roti-by-dtandoor",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://dtandoor.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "82 Jalan Damai, off Jalan Ampang, Kampung Datuk Keramat, Kuala Lumpur, 55000, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sao Nam",
+    "slug": "sao-nam",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.saonam.com.my/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur, 50200, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Atelier Binchotan",
+    "slug": "atelier-binchotan",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.atelierbinchotan.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 Jalan 1/109e, Taman Desa Business Park, Kuala Lumpur, 58100, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bar Kar",
+    "slug": "bar-kar",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.barkarkl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Suites G-06, GF, G Tower, 199 Jalan Tun Razak, Kampung Baru, Kuala Lumpur, 50400, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bidou",
+    "slug": "bidou",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.bidou.my",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 Jalan Setiakasih 5, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Café Café",
+    "slug": "cafe-cafe",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://cafecafe.com.my",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "175 Jalan Maharajalela, Kampung Attap, Kuala Lumpur, 50150, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cilantro",
+    "slug": "cilantro",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://cilantrokl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "MiCasa All Suite Hotel, 368B Jalan Tun Razak, Taman U Thant, Kuala Lumpur, 50400, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dancing Fish",
+    "slug": "dancing-fish",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://dancingfish.asia",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lot T120 & 121, 3F, Bangsar Shopping Centre, 285 Jalan Maarof, Bangsar, Kuala Lumpur, 59000, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Frangipaani",
+    "slug": "frangipaani",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.theolivetreegroup.com/frangipaani-bukit-damansara/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Republik, Lot No.M.03, Mezzanine Floor, Jalan Medan Setia 1, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gai by Darren Chin (Taman Tun Dr Ismail)",
+    "slug": "gai-by-darren-chin-taman-tun-dr-ismail",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.gai-kl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26A Lorong Datuk Sulaiman 1, Taman Tun Dr Ismail, Kuala Lumpur, 60000, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hide",
+    "slug": "hide",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.hidekl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Concourse, Ritz-Carlton Residences, 105 Jalan Ampang, Kuala Lumpur, Kuala Lumpur, 50450, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jwala",
+    "slug": "jwala",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://jwalakl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "E-02-01, Block E, The Five@KPD, 49 Jalan Dungun, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "K",
+    "slug": "k",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://kkualalumpur.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Level 37, Menara Ilham, 8 Jalan Binjai, Kuala Lumpur, 50450, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kayra",
+    "slug": "kayra",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://kayra.com.my",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "F-8, 1F, Bangsar Village 1, Jalan Telawi 1, Bangsar, Kuala Lumpur, 59100, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kazu",
+    "slug": "kazu",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.kazu.my",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Pavilion At The Five, Lot 54303 & 54304, Jalan Gelenggang, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Li Yen",
+    "slug": "li-yen",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.marriott.com/en-us/dining/restaurant-bar/kulrz-the-ritz-carlton-kuala-lumpur/86180-li-yen.mi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, The Ritz-Carlton, 168 Jalan Imbi, Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ling Long",
+    "slug": "ling-long",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.linglong.com.my",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "L2-04, Block E, The Five@KPD, 49 Jalan Dungun, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Malai",
+    "slug": "malai",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.malaithai.restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "GF, Menara Ample West, 6 Jalan Puncak, Kuala Lumpur, 50250, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Marble 8",
+    "slug": "marble-8",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://marinisgroup.com/marble-8/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "56F, Menara 3 Petronas, Persiaran KLCC, Kuala Lumpur City Centre, Kuala Lumpur, 50088, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marini's on 57",
+    "slug": "marinis-on-57",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://marinisgroup.com/marinis-on-57/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "57F, Menara 3 Petronas, Persiaran KLCC, Kuala Lumpur City Centre, Kuala Lumpur, 50088, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nadodi",
+    "slug": "nadodi",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.nadodikl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Level 7A, Four Seasons Hotel, 145 Jalan Ampang, Kuala Lumpur, 50450, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Passage Thru India",
+    "slug": "passage-thru-india",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://passagethruindia.vulcantechies.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 Jalan Delima, off Jalan Bukit Bintang, Imbi, Kuala Lumpur, 50400, Malaysia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Potager",
+    "slug": "potager",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://potagerkl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "P11, Bamboo Hills, off DUKE, Taman Bamboo, Segambut, Kuala Lumpur, 51200, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Seed",
+    "slug": "seed",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.seedbywhitegrass.com.my",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "L1-04, Block E, The Five@KPD, 49 Jalan Dungun, Bukit Damansara, Kuala Lumpur, 50490, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shanghai Restaurant",
+    "slug": "shanghai-restaurant",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.marriott.com/en-us/dining/restaurant-bar/kuldt-jw-marriott-hotel-kuala-lumpur/87669-shanghai.mi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F, JW Marriott, 183 Jalan Bukit Bintang, Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Shu",
+    "slug": "shu",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.restaurantshu.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8F, Annexed Block, Menara IMC, 8 Jalan Sultan Ismail, Kuala Lumpur, 50250, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Skillet",
+    "slug": "skillet",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.skilletkl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lot 1-01, 1F, Menara Hap Seng 3, Jalan P. Ramlee, Kuala Lumpur, 50250, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sushi Masa",
+    "slug": "sushi-masa",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://sushimasa.com.my",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lot 1-03, 1F, Menara Hap Seng 3, Jalan P. Ramlee, Kuala Lumpur, 50250, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Ori",
+    "slug": "sushi-ori",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://sushi-ori.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Unit PG-01, GF, Podium Block, Menara Keck Seng, 203 Jalan Bukit Bintang, Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Taka",
+    "slug": "sushi-taka",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://taka-ushi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3A, The St. Regis, 6 Jalan Stesen Sentral 2, Kuala Lumpur Sentral, Kuala Lumpur, 50470, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tenmasa",
+    "slug": "tenmasa",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://tenmasa-kl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Unit 3.3 (annexe), 2F, Tower 1, Platinum Park, 11 Persiaran KLCC, Kuala Lumpur, 50088, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ushi",
+    "slug": "ushi",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.taka-ushi.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3A, The St. Regis, 6 Jalan Stesen Sentral 2, Kuala Lumpur Sentral, Kuala Lumpur, 50470, Malaysia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Vantador",
+    "slug": "vantador",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.vantador.co",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "38 Jalan 25/70A, Desa Sri Hartamas, Kuala Lumpur, 50480, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Wagyu Kappo Yoshida",
+    "slug": "wagyu-kappo-yoshida",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://wagyu-kappoyoshida.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Unit 3-48, 48F, Naza Tower, Platinum Park, 10 Persiaran KLCC, Kuala Lumpur, 50088, Malaysia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yun House",
+    "slug": "yun-house",
+    "city_id": "kuala-lumpur-my",
+    "website": "https://www.fourseasons.com/kualalumpur/dining/restaurants/yun-house",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5B, Four Seasons Hotel, 145 Jalan Ampang, Kuala Lumpur, Kuala Lumpur, 50450, Malaysia",
+    "price_tier": "$$$"
+  }
+]

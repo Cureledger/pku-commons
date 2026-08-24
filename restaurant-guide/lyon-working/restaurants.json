@@ -1,0 +1,1022 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "lyon-fr",
+ "restaurant_count": 26,
+ "restaurants": [
+  {
+   "restaurant_id": "lyon-fr/la-viree",
+   "city_id": "lyon-fr",
+   "slug": "la-viree",
+   "name": "La Virée",
+   "website": "",
+   "address": "21 rue Jean-Larrivé, Lyon, 69003, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/la-viree"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/la-viree",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "lyon-fr/largot",
+   "city_id": "lyon-fr",
+   "slug": "largot",
+   "name": "L'Argot",
+   "website": "",
+   "address": "132 rue Bugeaud, Lyon, 69006, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-argot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-argot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-garet",
+   "city_id": "lyon-fr",
+   "slug": "le-garet",
+   "name": "Le Garet",
+   "website": "",
+   "address": "7 rue du Garet, Lyon, 69001, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-garet"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-garet",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lyonnaise",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-merciere",
+   "city_id": "lyon-fr",
+   "slug": "le-merciere",
+   "name": "Le Mercière",
+   "website": "",
+   "address": "56 rue Mercière, Lyon, 69002, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-merciere"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-merciere",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lyonnaise",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/saku-restaurant",
+   "city_id": "lyon-fr",
+   "slug": "saku-restaurant",
+   "name": "Saku Restaurant",
+   "website": "",
+   "address": "27 rue Rachais, Lyon, 69007, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/saku-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/saku-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/accentue",
+   "city_id": "lyon-fr",
+   "slug": "accentue",
+   "name": "Accentué",
+   "website": "https://www.accentue-restaurant.fr",
+   "address": "97 rue de Gerland, Lyon, 69007, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/accentue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/accentue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/agastache",
+   "city_id": "lyon-fr",
+   "slug": "agastache",
+   "name": "Agastache",
+   "website": "https://agastache-restaurant-lyon.fr/",
+   "address": "134 rue Duguesclin, Lyon, 69006, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/agastache"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/agastache",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/danton",
+   "city_id": "lyon-fr",
+   "slug": "danton",
+   "name": "Danton",
+   "website": "https://danton-restaurant.fr",
+   "address": "8 rue Danton, Lyon, 69003, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/danton"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/danton",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-cochon-qui-boit",
+   "city_id": "lyon-fr",
+   "slug": "le-cochon-qui-boit",
+   "name": "Le Cochon qui Boit",
+   "website": "https://www.lecochonquiboit.fr/",
+   "address": "23 rue Royale, Lyon, 69001, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-cochon-qui-boit"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-cochon-qui-boit",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-zeste-gourmand",
+   "city_id": "lyon-fr",
+   "slug": "le-zeste-gourmand",
+   "name": "Le Zeste Gourmand",
+   "website": "https://lezestegourmand.fr",
+   "address": "93 rue Bossuet, Lyon, 69006, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-zeste-gourmand"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-zeste-gourmand",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/sipres",
+   "city_id": "lyon-fr",
+   "slug": "sipres",
+   "name": "Siprès",
+   "website": "https://www.sipresrestaurant.fr/",
+   "address": "2 place du Prado, Lyon, 69007, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/sipres"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/sipres",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/armada",
+   "city_id": "lyon-fr",
+   "slug": "armada",
+   "name": "Armada",
+   "website": "https://armada-lyon.fr",
+   "address": "16 rue du Bœuf, Lyon, 69005, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/armada"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/armada",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/bistro-b",
+   "city_id": "lyon-fr",
+   "slug": "bistro-b",
+   "name": "Bistro B",
+   "website": "https://bistro-b.eatbu.com",
+   "address": "90 rue Duguesclin, Lyon, 69006, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/bistro-b"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/bistro-b",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/culina-hortus",
+   "city_id": "lyon-fr",
+   "slug": "culina-hortus",
+   "name": "Culina Hortus",
+   "website": "https://www.culinahortus.com/",
+   "address": "38 rue de l'Arbre-Sec, Lyon, 69001, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/culina-hortus"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/culina-hortus",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/curnonsky",
+   "city_id": "lyon-fr",
+   "slug": "curnonsky",
+   "name": "Curnonsky",
+   "website": "https://www.curnonskylyon.com/",
+   "address": "6 rue Hippolyte-Flandrin, Lyon, 69001, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/curnonsky"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/curnonsky",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/lartichaut",
+   "city_id": "lyon-fr",
+   "slug": "lartichaut",
+   "name": "L'Artichaut",
+   "website": "https://hotelabbayelyon.com/restaurant-artichaut/",
+   "address": "Hôtel de l'Abbaye, 20 rue de l'Abbaye-d'Ainay, Lyon, 69002, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-artichaut-1192741"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-artichaut-1192741",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/letabli",
+   "city_id": "lyon-fr",
+   "slug": "letabli",
+   "name": "L'Établi",
+   "website": "https://www.letabli-restaurant.fr/",
+   "address": "22 rue des Remparts-d'Ainay, Lyon, 69002, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-etabli"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-etabli",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-bistrot-des-voraces",
+   "city_id": "lyon-fr",
+   "slug": "le-bistrot-des-voraces",
+   "name": "Le Bistrot des Voraces",
+   "website": "https://www.bistrotdesvoraces.com/",
+   "address": "13 rue d'Austerlitz, Lyon, 69004, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-bistrot-des-voraces"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-bistrot-des-voraces",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-limonadier",
+   "city_id": "lyon-fr",
+   "slug": "le-limonadier",
+   "name": "Le Limonadier",
+   "website": "https://lelimonadierlyon.fr",
+   "address": "9 rue Justin-Godart, Lyon, 69004, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-limonadier"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-limonadier",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-musee",
+   "city_id": "lyon-fr",
+   "slug": "le-musee",
+   "name": "Le Musée",
+   "website": "https://www.bouchonlemusee.fr",
+   "address": "2 rue des Forces, Lyon, 69002, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-musee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-musee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lyonnaise",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "lyon-fr/le-supreme",
+   "city_id": "lyon-fr",
+   "slug": "le-supreme",
+   "name": "Le Suprême",
+   "website": "https://lesupremelyon.fr",
+   "address": "106 cours Gambetta, Lyon, 69007, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-supreme"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-supreme",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/maison-lea",
+   "city_id": "lyon-fr",
+   "slug": "maison-lea",
+   "name": "Maison Léa",
+   "website": "https://lamerelea.com/",
+   "address": "11 quai des Célestins, Lyon, 69002, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/maison-lea"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/maison-lea",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lyonnaise",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/milpree",
+   "city_id": "lyon-fr",
+   "slug": "milpree",
+   "name": "Milprée",
+   "website": "https://www.milpree.com",
+   "address": "25 rue de Sèze, Lyon, 69006, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/milpree"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/milpree",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/osteria-matto",
+   "city_id": "lyon-fr",
+   "slug": "osteria-matto",
+   "name": "Osteria Matto",
+   "website": "https://osteria-matto-lyon.fr",
+   "address": "23 rue de Sèze, Lyon, 69006, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/osteria-matto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/osteria-matto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/py-restaurant",
+   "city_id": "lyon-fr",
+   "slug": "py-restaurant",
+   "name": "PY Restaurant",
+   "website": "https://pyrestaurant.fr",
+   "address": "16 cours Vitton, Lyon, 69006, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/py"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/py",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lyon-fr/soma",
+   "city_id": "lyon-fr",
+   "slug": "soma",
+   "name": "Söma",
+   "website": "https://bistrotsoma.com/",
+   "address": "9 place Saint-Paul, Lyon, 69005, France",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/soma-1218154"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/soma-1218154",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  }
+ ]
+}

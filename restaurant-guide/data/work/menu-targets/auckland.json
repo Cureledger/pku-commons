@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Ahi.",
+    "slug": "ahi",
+    "city_id": "auckland-nz",
+    "website": "https://ahirestaurant.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, Commercial Bay, 7 Queen Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Paris Butter",
+    "slug": "paris-butter",
+    "city_id": "auckland-nz",
+    "website": "https://parisbutter.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "166 Jervois Road, Herne Bay, Auckland, 1011, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tala",
+    "slug": "tala",
+    "city_id": "auckland-nz",
+    "website": "https://www.tala.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "235 Parnell Road, Parnell, Auckland, 1052, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Apéro Food & Wine",
+    "slug": "apero-food-wine",
+    "city_id": "auckland-nz",
+    "website": "https://www.apero.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "280 Karangahape Road, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Atelier",
+    "slug": "atelier",
+    "city_id": "auckland-nz",
+    "website": "https://www.atelierkrd.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "292 Karangahape Road, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistro Saine",
+    "slug": "bistro-saine",
+    "city_id": "auckland-nz",
+    "website": "https://bistrosaine.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1F, 51 Albert Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Boda",
+    "slug": "boda",
+    "city_id": "auckland-nz",
+    "website": "https://boda.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "13F, Mövenpick Hotel, 8 Customs Street East, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cazador",
+    "slug": "cazador",
+    "city_id": "auckland-nz",
+    "website": "https://cazador.co.nz/restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "854 Dominion Road, Mount Eden, Auckland, 1041, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gemmayze Street",
+    "slug": "gemmayze-street",
+    "city_id": "auckland-nz",
+    "website": "https://www.gemmayzestreet.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Shop 16, St. Kevin's Arcade, 183 Karangahape Road, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Goat",
+    "slug": "goat",
+    "city_id": "auckland-nz",
+    "website": "https://goatakl.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "12 Wyndham Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Milenta",
+    "slug": "milenta",
+    "city_id": "auckland-nz",
+    "website": "https://www.milenta.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "210/218 Victoria Street West, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Osteria Uno",
+    "slug": "osteria-uno",
+    "city_id": "auckland-nz",
+    "website": "https://www.osteriauno.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "140 Hinemoa Street, Birkenhead, Auckland, 0626, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Parro",
+    "slug": "parro",
+    "city_id": "auckland-nz",
+    "website": "https://www.parro.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "359 Dominion Road, Mount Eden, Auckland, 1024, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pasta & Cuore",
+    "slug": "pasta-cuore",
+    "city_id": "auckland-nz",
+    "website": "https://www.pastaecuore.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "409 Mount Eden Road, Mount Eden, Auckland, 1024, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tempero",
+    "slug": "tempero",
+    "city_id": "auckland-nz",
+    "website": "https://www.temperoakl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "352 Karangahape Road, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "1947 Eatery",
+    "slug": "1947-eatery",
+    "city_id": "auckland-nz",
+    "website": "https://1947eatery.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "60 Federal Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ada",
+    "slug": "ada",
+    "city_id": "auckland-nz",
+    "website": "https://www.adarestaurant.co.nz",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Convent Hotel, 454 Great North Road, Grey Lynn, Auckland, 1021, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Advieh",
+    "slug": "advieh",
+    "city_id": "auckland-nz",
+    "website": "https://www.adviehrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 Queen Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Alma",
+    "slug": "alma",
+    "city_id": "auckland-nz",
+    "website": "https://www.alma.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "130 Quay Street, Britomart, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Baduzzi",
+    "slug": "baduzzi",
+    "city_id": "auckland-nz",
+    "website": "https://www.baduzzi.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10/26 Jellicoe Street, North Wharf, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bar Magda",
+    "slug": "bar-magda",
+    "city_id": "auckland-nz",
+    "website": "https://www.barmagda.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25B Cross Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bossi",
+    "slug": "bossi",
+    "city_id": "auckland-nz",
+    "website": "https://www.bossi.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 Commerce Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "East",
+    "slug": "east",
+    "city_id": "auckland-nz",
+    "website": "https://easteats.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "63-67 Nelson Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Esther",
+    "slug": "esther",
+    "city_id": "auckland-nz",
+    "website": "https://www.estherrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "QT Auckland, 4 Viaduct Harbour Avenue, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Gilt",
+    "slug": "gilt",
+    "city_id": "auckland-nz",
+    "website": "https://www.giltbrasserie.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 Chancery Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hello Beasty",
+    "slug": "hello-beasty",
+    "city_id": "auckland-nz",
+    "website": "https://hellobeasty.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "95-97 Customs Street West, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jervois Steak House",
+    "slug": "jervois-steak-house",
+    "city_id": "auckland-nz",
+    "website": "https://www.jervoissteakhouse.co.nz/auckland",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "70 Jervois Road, Ponsonby, Auckland, 1011, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kingi",
+    "slug": "kingi",
+    "city_id": "auckland-nz",
+    "website": "https://www.kingibritomart.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Hotel Britomart, 29 Galway Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kol",
+    "slug": "kol",
+    "city_id": "auckland-nz",
+    "website": "https://kolauckland.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "23 Ponsonby Road, Grey Lynn, Auckland, 1011, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lillius",
+    "slug": "lillius",
+    "city_id": "auckland-nz",
+    "website": "https://www.lillius.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 Khyber Pass Road, Grafton, Auckland, 1023, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Metita",
+    "slug": "metita",
+    "city_id": "auckland-nz",
+    "website": "https://skycityauckland.co.nz/restaurants/metita/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Grand, 90 Federal Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Morell",
+    "slug": "morell",
+    "city_id": "auckland-nz",
+    "website": "https://www.morell.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "91-95 Upland Road, Remuera, Auckland, 1050, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mr Morris",
+    "slug": "mr-morris",
+    "city_id": "auckland-nz",
+    "website": "https://www.mrmorris.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Britomart, Corner of Galway & Commerce Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "One Tree Grill",
+    "slug": "one-tree-grill",
+    "city_id": "auckland-nz",
+    "website": "https://www.onetreegrill.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 Pah Road, Epsom, Auckland, 1023, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Onslow",
+    "slug": "onslow",
+    "city_id": "auckland-nz",
+    "website": "https://www.onslow.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 Princes Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Origine",
+    "slug": "origine",
+    "city_id": "auckland-nz",
+    "website": "https://origine.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Commercial Bay, 7 Queen Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Otto",
+    "slug": "otto",
+    "city_id": "auckland-nz",
+    "website": "https://www.otto-krd.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "375 Karangahape Road, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ragtag",
+    "slug": "ragtag",
+    "city_id": "auckland-nz",
+    "website": "https://www.ragtagnz.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "162 Garnet Road, Westmere, Auckland, 1022, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rodd & Gunn The Lodge",
+    "slug": "rodd-gunn-the-lodge",
+    "city_id": "auckland-nz",
+    "website": "https://www.roddandgunn.com/nz/restaurants/auckland",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "GF, Commercial Bay, 7 Queen Street, Auckland Central, Auckland, 1010, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sails",
+    "slug": "sails",
+    "city_id": "auckland-nz",
+    "website": "https://sailsrestaurant.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "103-113 Westhaven Drive, Saint Marys Bay, Auckland, 1011, New Zealand",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The French Café",
+    "slug": "the-french-cafe",
+    "city_id": "auckland-nz",
+    "website": "https://thefrenchcafe.co.nz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "210 Symonds Street, Eden Terrace, Auckland, 1011, New Zealand",
+    "price_tier": "$$$"
+  }
+]

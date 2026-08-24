@@ -1,0 +1,515 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "riyadh-sa",
+ "restaurant_count": 13,
+ "restaurants": [
+  {
+   "restaurant_id": "riyadh-sa/najd-village",
+   "city_id": "riyadh-sa",
+   "slug": "najd-village",
+   "name": "Najd Village",
+   "website": "https://najdvillage.com/",
+   "address": "Al-Takhassusi, Al-Ulaya, Riyadh, 12331, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/najd-village"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/najd-village",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Saudi Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/hong",
+   "city_id": "riyadh-sa",
+   "slug": "hong",
+   "name": "Hong",
+   "website": "https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/dining/",
+   "address": "Ritz-Carlton Riyadh, AlHada Area, Mekkah Road, Riyadh, 11493, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/hong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/hong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/julien-by-daniel-boulud",
+   "city_id": "riyadh-sa",
+   "slug": "julien-by-daniel-boulud",
+   "name": "Julien by Daniel Boulud",
+   "website": "https://www.fourseasons.com/riyadh/dining/restaurants/julien/",
+   "address": "Ground Floor, Four Seasons Hotel Riyadh, Kingdom Centre, Olaya Street, Al Olaya, Riyadh, 11321, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/julien-by-daniel-boulud"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/julien-by-daniel-boulud",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/long-chim",
+   "city_id": "riyadh-sa",
+   "slug": "long-chim",
+   "name": "Long Chim",
+   "website": "https://www.sevenrooms.com/reservations/longchimriyadh",
+   "address": "Al Bujairi Terrace, Diriyah, Riyadh, 13711, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/long-chim-1211441"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/long-chim-1211441",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/namu",
+   "city_id": "riyadh-sa",
+   "slug": "namu",
+   "name": "Namu",
+   "website": "https://namu.unifiedhospitality.com/",
+   "address": "The Esplanade Mall, Prince Turki Bin Abdulaziz Alawwal Street, King Saud University, Riyadh, 12371, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/namu-1241970"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/namu-1241970",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/ovun-bistro",
+   "city_id": "riyadh-sa",
+   "slug": "ovun-bistro",
+   "name": "OVUN Bistro",
+   "website": "https://www.instagram.com/ovunbistro",
+   "address": "ِAlDabab Street, 4096 Prince Abdulaziz Ibn Musaid Ibn Jalawi Street, As Sulimaniyah, Riyadh, 12223, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/ovun-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/ovun-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/takya",
+   "city_id": "riyadh-sa",
+   "slug": "takya",
+   "name": "Takya",
+   "website": "https://www.diriyah.sa/ar/dine/takya",
+   "address": "Al Bujairi Terrace, Diriyah, Riyadh, 13711, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/takya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/takya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Saudi Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/taleed-by-michael-mina",
+   "city_id": "riyadh-sa",
+   "slug": "taleed-by-michael-mina",
+   "name": "Taleed by Michael Mina",
+   "website": "https://www.marriott.com/en-us/hotels/ruhlc-bab-samhan-a-luxury-collection-hotel-diriyah/dining/",
+   "address": "Bab Samhan Hotel, 7628 King Faisal Ibn Abd Al Aziz Road, Riyadh, 13712, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/taleed-by-michael-mina"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/taleed-by-michael-mina",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/tanjiah",
+   "city_id": "riyadh-sa",
+   "slug": "tanjiah",
+   "name": "Tanjiah",
+   "website": "https://www.instagram.com/tanjiah_r",
+   "address": "Imam Saud Bin Abdulaziz Bin Mohammed Road, King Fahd, Riyadh, 12274, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/tanjiah"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/tanjiah",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Moroccan",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/thara",
+   "city_id": "riyadh-sa",
+   "slug": "thara",
+   "name": "Thara",
+   "website": "https://www.instagram.com/thara_saudi",
+   "address": "Abi Bakr As Siddiq Branch Road, An Narjis, Riyadh, 13327, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/thara-1241362"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/thara-1241362",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Saudi Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/the-globe",
+   "city_id": "riyadh-sa",
+   "slug": "the-globe",
+   "name": "The Globe",
+   "website": "https://www.mandarinoriental.com/en/riyadh/olaya/dine/the-globe",
+   "address": "Mandarin Oriental, Al Faisaliah Tower, King Fahd Road, Al Olaya, Riyadh, 11491, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/the-globe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/the-globe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/villa-mamas",
+   "city_id": "riyadh-sa",
+   "slug": "villa-mamas",
+   "name": "Villa Mamas",
+   "website": "https://villamamas.com/riyadh",
+   "address": "Al Bujairi Terrace, Diriyah, Riyadh, 13711, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/villa-mamas-1241431"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/villa-mamas-1241431",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "riyadh-sa/yawmiyat-by-dalal",
+   "city_id": "riyadh-sa",
+   "slug": "yawmiyat-by-dalal",
+   "name": "Yawmiyat By Dalal",
+   "website": "https://www.yawmiyatfood.com/",
+   "address": "2611 Prince Sultan Bin Salman Bin Abdulaziz Street, Al Wurud, Riyadh, 12251, Saudi Arabia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/yawmiyat-by-dalal"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/yawmiyat-by-dalal",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$"
+  }
+ ]
+}

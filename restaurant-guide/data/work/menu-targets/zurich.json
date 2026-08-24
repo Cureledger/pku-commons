@@ -1,0 +1,729 @@
+[
+  {
+    "name": "IGNIV Zürich by Andreas Caminada",
+    "slug": "igniv-zurich-by-andreas-caminada",
+    "city_id": "zurich-ch",
+    "website": "https://www.marktgassehotel.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Marktgasse 17, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Counter",
+    "slug": "the-counter",
+    "city_id": "zurich-ch",
+    "website": "https://www.the-counter.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Bahnhofplatz 15, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Restaurant",
+    "slug": "the-restaurant",
+    "city_id": "zurich-ch",
+    "website": "https://www.thedoldergrand.com/the-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Kurhausstrasse 65, Zurich, 8032, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Widder Restaurant",
+    "slug": "widder-restaurant",
+    "city_id": "zurich-ch",
+    "website": "https://www.widderhotel.com/de/restaurants/widder-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Rennweg 7, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Eden Kitchen & Bar",
+    "slug": "eden-kitchen-bar",
+    "city_id": "zurich-ch",
+    "website": "https://www.lareserve-zurich.com/restaurants/eden-kitchen-and-bar/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Utoquai 45, Zurich, 8008, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "EquiTable",
+    "slug": "equitable",
+    "city_id": "zurich-ch",
+    "website": "https://www.equi-table.ch/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Stauffacherstrasse 163, Zurich, 8004, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "KLE",
+    "slug": "kle",
+    "city_id": "zurich-ch",
+    "website": "https://www.restaurantkle.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Zweierstrasse 114, Zurich, 8003, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Rôtisserie",
+    "slug": "la-rotisserie",
+    "city_id": "zurich-ch",
+    "website": "https://storchen.ch/en/home",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Weinplatz 2, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Neue Taverne",
+    "slug": "neue-taverne",
+    "city_id": "zurich-ch",
+    "website": "https://www.neuetaverne.ch/de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Glockengasse 8, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "ORSINI",
+    "slug": "orsini",
+    "city_id": "zurich-ch",
+    "website": "https://www.mandarinoriental.com/fr/zurich/savoy/dine/orsini",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Waaggasse 7, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shin",
+    "slug": "shin",
+    "city_id": "zurich-ch",
+    "website": "https://www.shinrestaurant.ch",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Zinnengasse 7, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Wirtschaft im FRANZ",
+    "slug": "wirtschaft-im-franz",
+    "city_id": "zurich-ch",
+    "website": "https://www.wirtschaftimfranz.ch",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Bremgartnerstrasse 18, Zurich, 8003, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Wöschi",
+    "slug": "woschi",
+    "city_id": "zurich-ch",
+    "website": "https://www.woeschi.ch/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Seestrasse 457, Zurich, 8038, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "AuGust",
+    "slug": "august",
+    "city_id": "zurich-ch",
+    "website": "https://www.widderhotel.com/de/essen-trinken/boucherie-august",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rennweg 7, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Barranco",
+    "slug": "barranco",
+    "city_id": "zurich-ch",
+    "website": "https://www.barranco.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Sihlfeldstrasse 141, Zurich, 8004, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bauernschänke",
+    "slug": "bauernschanke",
+    "city_id": "zurich-ch",
+    "website": "https://www.bauernschaenke.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rindermarkt 24, Zurich, 8001, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "DAR",
+    "slug": "dar",
+    "city_id": "zurich-ch",
+    "website": "https://www.restaurantdar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "Weststrasse 20, Zurich, 8003, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Didi's Frieden",
+    "slug": "didis-frieden",
+    "city_id": "zurich-ch",
+    "website": "https://www.didisfrieden.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Stampfenbachstrasse 32, Zurich, 8006, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Freilager La Trattoria",
+    "slug": "freilager-la-trattoria",
+    "city_id": "zurich-ch",
+    "website": "https://www.restaurant-freilager.ch",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Freilagerstrasse 53, Zurich, 8047, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gaijin Izakaya",
+    "slug": "gaijin-izakaya",
+    "city_id": "zurich-ch",
+    "website": "https://gaijin-izakaya.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Birmensdorferstrasse 5, Zurich, 8004, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gül",
+    "slug": "gul",
+    "city_id": "zurich-ch",
+    "website": "https://www.guel.ch",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Tellstrasse 22, Zurich, 8004, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Josef",
+    "slug": "josef",
+    "city_id": "zurich-ch",
+    "website": "https://www.josef.ch",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Gasometerstrasse 24, Zurich, 8005, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Bottega di Mario",
+    "slug": "la-bottega-di-mario",
+    "city_id": "zurich-ch",
+    "website": "https://www.labottegadimario.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Nüschelerstrasse 6, Zurich, 8001, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rigiblick",
+    "slug": "rigiblick",
+    "city_id": "zurich-ch",
+    "website": "https://www.restaurantrigiblick.ch",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Germaniastrasse 99, Zurich, 8044, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "AMEO",
+    "slug": "ameo",
+    "city_id": "zurich-ch",
+    "website": "https://www.ameo-restaurant.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Zentralstrasse 36, Zurich, 8003, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "AURA",
+    "slug": "aura",
+    "city_id": "zurich-ch",
+    "website": "https://www.aura-zurich.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bleicherweg 5, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Accademia del Gusto",
+    "slug": "accademia-del-gusto",
+    "city_id": "zurich-ch",
+    "website": "https://www.accademiadelgusto.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rotwandstrasse 48, Zurich, 8004, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Afghan Anar",
+    "slug": "afghan-anar",
+    "city_id": "zurich-ch",
+    "website": "https://www.afghananar.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fierzgasse 22, Zurich, 8005, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Baur's",
+    "slug": "baurs",
+    "city_id": "zurich-ch",
+    "website": "https://www.bauraulac.ch",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Talstrasse 1, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bianchi",
+    "slug": "bianchi",
+    "city_id": "zurich-ch",
+    "website": "https://www.bindella.ch/gastronomie/bianchi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Limmatquai 82, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Blaue Ente by Alex",
+    "slug": "blaue-ente-by-alex",
+    "city_id": "zurich-ch",
+    "website": "https://www.blaue-ente.ch",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Seefeldstrasse 223, Zurich, 8008, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Carlton",
+    "slug": "carlton",
+    "city_id": "zurich-ch",
+    "website": "https://www.carlton.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bahnhofstrasse 41, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Freilager La Cucina Colaianni",
+    "slug": "freilager-la-cucina-colaianni",
+    "city_id": "zurich-ch",
+    "website": "https://www.restaurant-freilager.ch",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Freilagerstrasse 53, Zurich, 8047, Switzerland",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "Gandria",
+    "slug": "gandria",
+    "city_id": "zurich-ch",
+    "website": "https://www.restaurantgandria.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rudolfstrasse 6, Zurich, 8008, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Haus zum Rüden",
+    "slug": "haus-zum-ruden",
+    "city_id": "zurich-ch",
+    "website": "https://www.haus-zum-rueden.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Limmatquai 42, Zurich, 8001, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Heugümper",
+    "slug": "heugumper",
+    "city_id": "zurich-ch",
+    "website": "https://www.restaurantheuguemper.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Waaggasse 4, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kindli",
+    "slug": "kindli",
+    "city_id": "zurich-ch",
+    "website": "https://www.kindli.ch/restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Strehlgasse 24, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kronenhalle",
+    "slug": "kronenhalle",
+    "city_id": "zurich-ch",
+    "website": "https://kronenhalle.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rämistrasse 4, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "LOFT FIVE",
+    "slug": "loft-five",
+    "city_id": "zurich-ch",
+    "website": "https://www.loftfive.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Europaallee 15, Zurich, 8004, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Muña",
+    "slug": "la-muna",
+    "city_id": "zurich-ch",
+    "website": "https://www.lareserve-zurich.com/de/restaurants/la-muna/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Utoquai 45, Zurich, 8008, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Scarpetta",
+    "slug": "la-scarpetta",
+    "city_id": "zurich-ch",
+    "website": "https://la-scarpetta.ch/pages/zurich-startseite",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Forchstrasse 359, Zurich, 8008, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Soupière",
+    "slug": "la-soupiere",
+    "city_id": "zurich-ch",
+    "website": "https://www.la-soupiere.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bahnhofplatz 7, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lindenhofkeller",
+    "slug": "lindenhofkeller",
+    "city_id": "zurich-ch",
+    "website": "https://www.lindenhofkeller.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Pfalzgasse 4, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Marguita",
+    "slug": "marguita",
+    "city_id": "zurich-ch",
+    "website": "https://www.marguita.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Talstrasse 1, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marktküche",
+    "slug": "marktkuche",
+    "city_id": "zurich-ch",
+    "website": "https://www.marktkueche.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Feldstrasse 98, Zurich, 8004, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mikuriya",
+    "slug": "mikuriya",
+    "city_id": "zurich-ch",
+    "website": "https://www.thedoldergrand.com/mikuriya/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kurhausstrasse 65, Zurich, 8032, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ornellaia",
+    "slug": "ornellaia",
+    "city_id": "zurich-ch",
+    "website": "https://www.ristorante-ornellaia.ch/de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "St. Annagasse 2, Zurich, 8001, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rechberg 1837",
+    "slug": "rechberg-1837",
+    "city_id": "zurich-ch",
+    "website": "https://rechberg1837.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Chorgasse 20, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sablier",
+    "slug": "sablier",
+    "city_id": "zurich-ch",
+    "website": "https://www.sablier.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Circle 23, Zurich, 8053, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sala of Tokyo",
+    "slug": "sala-of-tokyo",
+    "city_id": "zurich-ch",
+    "website": "https://www.sala-of-tokyo.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schützengasse 5, Zurich, 8001, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Silex",
+    "slug": "silex",
+    "city_id": "zurich-ch",
+    "website": "https://www.silexrestaurant.ch",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Freyastrasse 3, Zurich, 8004, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Soi 28 by Heilemann",
+    "slug": "soi-28-by-heilemann",
+    "city_id": "zurich-ch",
+    "website": "https://www.widderhotel.com/de/restaurants/soi-28/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rennweg 7, Zurich, 8001, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Stapferstube da Rizzo",
+    "slug": "stapferstube-da-rizzo",
+    "city_id": "zurich-ch",
+    "website": "https://www.stapferstube.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Culmannstrasse 45, Zurich, 8006, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tao's",
+    "slug": "taos",
+    "city_id": "zurich-ch",
+    "website": "https://www.taos-zurich.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Augustinergasse 3, Zurich, 8001, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Weisses Rössli",
+    "slug": "weisses-rossli",
+    "city_id": "zurich-ch",
+    "website": "https://www.weisses-roessli.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bederstrasse 96, Zurich, 8002, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "White Elephant",
+    "slug": "white-elephant",
+    "city_id": "zurich-ch",
+    "website": "https://www.whiteelephant.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Neumühlequai 42, Zurich, 8006, Switzerland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "blooms",
+    "slug": "blooms",
+    "city_id": "zurich-ch",
+    "website": "https://www.thedoldergrand.com/restaurant-blooms/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kurhausstrasse 65, Zurich, 8032, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "parkhuus",
+    "slug": "parkhuus",
+    "city_id": "zurich-ch",
+    "website": "https://www.hyattrestaurants.com/en/zurich/restaurant/fine-dining-restaurant-zurichsee-parkhuus?utm_source=gmb&utm_medium=organic&utm_campaign=website",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dreikönigstrasse 25, Zurich, 8002, Switzerland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "rémy",
+    "slug": "remy",
+    "city_id": "zurich-ch",
+    "website": "https://www.remy.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kalkbreitestrasse 33​, Zurich, 8003, Switzerland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "tsuru tsuru noodlebar",
+    "slug": "tsuru-tsuru-noodlebar",
+    "city_id": "zurich-ch",
+    "website": "https://www.tsuru-tsuru.ch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schützengasse 5, Zurich, 8001, Switzerland",
+    "price_tier": "$"
+  }
+]

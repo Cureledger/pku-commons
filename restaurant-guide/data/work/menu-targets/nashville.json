@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Bastion",
+    "slug": "bastion",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.bastionnashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "434 Houston St., Nashville, TN, 37203, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Locust",
+    "slug": "locust",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.locustnashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2305 12th Ave. S., Nashville, TN, 37204, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Catbird Seat",
+    "slug": "the-catbird-seat",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.thecatbirdseatrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "700 8th Ave. S., 5th Fl., Nashville, TN, 37203, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kisser",
+    "slug": "kisser",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.kisserrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "747 Douglas Ave., Ste. 105B, Nashville, TN, 37207, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Peninsula",
+    "slug": "peninsula",
+    "city_id": "nashville-tn-us",
+    "website": "https://peninsulanashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1035 W. Eastland Ave., Nashville, TN, 37206, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Redheaded Stranger",
+    "slug": "redheaded-stranger",
+    "city_id": "nashville-tn-us",
+    "website": "https://redheadedstrangertacos.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "305 Arrington St., Nashville, TN, 37207, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "S.S. Gai",
+    "slug": "s-s-gai",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.ssgainash.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1101 McKennie Ave., Nashville, TN, 37206, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sho Pizza Bar",
+    "slug": "sho-pizza-bar",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.shopizzabar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1309 McGavock Pk., Nashville, TN, 37216, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "St. Vito Focacceria",
+    "slug": "st-vito-focacceria",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.stvitonashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "605 Mansion St., Nashville, TN, 37203, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Uzbegim",
+    "slug": "uzbegim",
+    "city_id": "nashville-tn-us",
+    "website": "https://uzbegimgrill.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "117 28th Ave. N., Nashville, TN, 37203, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Arnold's Country Kitchen",
+    "slug": "arnolds-country-kitchen",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.arnoldscountrykitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "605 8th Ave. S., Nashville, TN, 37203, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Audrey",
+    "slug": "audrey",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.audreynashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "809 Meridian St., Nashville, TN, 37207, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bad Idea",
+    "slug": "bad-idea",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.badideanashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1021 Russell St., #101, Nashville, TN, 37206, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cafe Roze",
+    "slug": "cafe-roze",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.caferoze.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1115 Porter Rd., Nashville, TN, 37206, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Folk",
+    "slug": "folk",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.goodasfolk.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "823 Meridian St., Nashville, TN, 37207, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hattie B’s Hot Chicken",
+    "slug": "hattie-bs-hot-chicken",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.hattieb.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "112 19th Ave. S., Nashville, TN, 37203, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "International Market",
+    "slug": "international-market",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.im2nashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2013 Belmont Blvd., Nashville, TN, 37212, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Rolf and Daughters",
+    "slug": "rolf-and-daughters",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.rolfanddaughters.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "700 Taylor St., Nashville, TN, 37208, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tailor",
+    "slug": "tailor",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.tailornashville.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "620 Taylor St., Nashville, TN, 37208, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "iggy's",
+    "slug": "iggys",
+    "city_id": "nashville-tn-us",
+    "website": "https://www.iggysnashville.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "609 Merritt Ave., Ste. 101, Nashville, TN, 37203, USA",
+    "price_tier": "$$$"
+  }
+]

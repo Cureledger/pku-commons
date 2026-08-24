@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Emeril’s",
+    "slug": "emerils",
+    "city_id": "new-orleans-la-us",
+    "website": "https://emerilsrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "800 Tchoupitoulas St., New Orleans, LA, 70130, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Saint-Germain",
+    "slug": "saint-germain",
+    "city_id": "new-orleans-la-us",
+    "website": "https://saintgermainnola.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3054 Saint Claude Ave., New Orleans, LA, 70117, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zasu",
+    "slug": "zasu",
+    "city_id": "new-orleans-la-us",
+    "website": "https://zasunola.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "127 N. Carrollton Ave., New Orleans, LA, 70119, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Acamaya",
+    "slug": "acamaya",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.acamayanola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3070 Dauphine St., New Orleans, LA, 70117, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cochon",
+    "slug": "cochon",
+    "city_id": "new-orleans-la-us",
+    "website": "https://cochonrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "930 Tchoupitoulas St., New Orleans, LA, 70130, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cochon Butcher",
+    "slug": "cochon-butcher",
+    "city_id": "new-orleans-la-us",
+    "website": "https://cochonbutcher.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "930 Tchoupitoulas St., New Orleans, LA, 70130, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Domilise’s Po-Boy & Bar",
+    "slug": "domilises-po-boy-bar",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.domilisespoboys.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5240 Annunciation St., New Orleans, LA, 70115, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Dooky Chase",
+    "slug": "dooky-chase",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.dookychaserestaurants.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2301 Orleans Ave., New Orleans, LA, 70119, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hungry Eyes",
+    "slug": "hungry-eyes",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.hungryeyesnola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4206 Magazine St., New Orleans, LA, 70115, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lufu Nola",
+    "slug": "lufu-nola",
+    "city_id": "new-orleans-la-us",
+    "website": "https://lufunola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "301 Saint Charles Ave., New Orleans, LA, 70130, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mister Mao",
+    "slug": "mister-mao",
+    "city_id": "new-orleans-la-us",
+    "website": "https://mistermaonola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4501 Tchoupitoulas St., New Orleans, LA, 70115, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Parkway Bakery & Tavern",
+    "slug": "parkway-bakery-tavern",
+    "city_id": "new-orleans-la-us",
+    "website": "https://parkwaypoorboys.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "538 Hagan Ave., New Orleans, LA, 70119, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Saba",
+    "slug": "saba",
+    "city_id": "new-orleans-la-us",
+    "website": "https://eatwithsaba.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5757 Magazine St., Ste. A, New Orleans, LA, 70115, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Turkey and the Wolf",
+    "slug": "turkey-and-the-wolf",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.turkeyandthewolf.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "739 Jackson Ave., New Orleans, LA, 70130, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Addis Nola",
+    "slug": "addis-nola",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.addisnola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2514 Bayou Rd., New Orleans, LA, 70119, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Atchafalaya",
+    "slug": "atchafalaya",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.atchafalayarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "901 Louisiana Ave., New Orleans, LA, 70115, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Clancy's",
+    "slug": "clancys",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.clancysneworleans.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6100 Annunciation St., New Orleans, LA, 70118, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Compère Lapin",
+    "slug": "compere-lapin",
+    "city_id": "new-orleans-la-us",
+    "website": "https://comperelapin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Old No. 77 Hotel & Chandlery, 535 Tchoupitoulas St., New Orleans, LA, 70130, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dakar NOLA",
+    "slug": "dakar-nola",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.dakarnola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "937 Leonidas St., New Orleans, LA, 70118, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Galatoire’s",
+    "slug": "galatoires",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.galatoires.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "209 Bourbon St., New Orleans, LA, 70130, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Herbsaint",
+    "slug": "herbsaint",
+    "city_id": "new-orleans-la-us",
+    "website": "https://herbsaint.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "701 St. Charles Ave., New Orleans, LA, 70130, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Killer PoBoys",
+    "slug": "killer-poboys",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.killerpoboys.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "219 Dauphine St., New Orleans, LA, 70112, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "La Petite Grocery",
+    "slug": "la-petite-grocery",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.lapetitegrocery.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4238 Magazine St., New Orleans, LA, 70115, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Molly's Rise & Shine",
+    "slug": "mollys-rise-shine",
+    "city_id": "new-orleans-la-us",
+    "website": "https://mollysriseandshine.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2368 Magazine St., New Orleans, LA, 70130, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Osteria Lupo",
+    "slug": "osteria-lupo",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.osterialupo.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4609 Magazine St., New Orleans, LA, 70115, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Patois",
+    "slug": "patois",
+    "city_id": "new-orleans-la-us",
+    "website": "https://patoisnola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6078 Laurel St., New Orleans, LA, 70118, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pêche",
+    "slug": "peche",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.pecherestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "800 Magazine St., New Orleans, LA, 70130, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Restaurant August",
+    "slug": "restaurant-august",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.restaurantaugust.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "301 Tchoupitoulas St., New Orleans, LA, 70130, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Saffron NOLA",
+    "slug": "saffron-nola",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.saffronnola.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4128 Magazine St., New Orleans, LA, 70115, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Kingsway",
+    "slug": "the-kingsway",
+    "city_id": "new-orleans-la-us",
+    "website": "https://www.kingswaynola.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4201 Magazine St., New Orleans, LA, 70115, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Willie Mae's Nola",
+    "slug": "willie-maes-nola",
+    "city_id": "new-orleans-la-us",
+    "website": "https://williemaesnola.com/home",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "898 Baronne St., New Orleans, LA, 70113, USA",
+    "price_tier": "$$"
+  }
+]

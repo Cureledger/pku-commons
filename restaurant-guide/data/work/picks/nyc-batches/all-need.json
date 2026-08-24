@@ -1,0 +1,3458 @@
+[
+  {
+    "name": "Jungsik New York",
+    "slug": "jungsik-new-york",
+    "website": "https://www.jungsik.com/",
+    "menu_urls": [
+      "https://www.jungsik.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Le Bernardin",
+    "slug": "le-bernardin",
+    "website": "https://www.le-bernardin.com/",
+    "menu_urls": [
+      "https://www.le-bernardin.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Per Se",
+    "slug": "per-se",
+    "website": "https://www.thomaskeller.com/perseny",
+    "menu_urls": [
+      "https://thomaskeller.com/new-york-new-york/per-se/todays-menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chef's Table at Brooklyn Fare",
+    "slug": "chefs-table-at-brooklyn-fare",
+    "website": "https://www.brooklynfare.com/chefs-table/",
+    "menu_urls": [
+      "https://www.brooklynfare.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Gabriel Kreuther",
+    "slug": "gabriel-kreuther",
+    "website": "https://www.gknyc.com/",
+    "menu_urls": [
+      "https://www.gknyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Jean-Georges",
+    "slug": "jean-georges",
+    "website": "https://www.jean-georgesrestaurant.com/",
+    "menu_urls": [
+      "https://www.jean-georgesrestaurant.com/nougatine-and-terrace-at-jean-georges/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Masa",
+    "slug": "masa",
+    "website": "https://www.masanyc.com/",
+    "menu_urls": [
+      "https://masariga.lv/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Odo",
+    "slug": "odo",
+    "website": "https://www.odo.nyc/",
+    "menu_urls": [
+      "https://www.odo.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sushi Noz",
+    "slug": "sushi-noz",
+    "website": "https://www.sushinoz.com/",
+    "menu_urls": [
+      "https://bbot.menu/sushinozdeliveryorpickup/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "The Modern",
+    "slug": "the-modern",
+    "website": "https://www.themodernnyc.com/the-modern/",
+    "menu_urls": [
+      "https://www.themodernnyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bridges",
+    "slug": "bridges",
+    "website": "https://www.bridges-nyc.com",
+    "menu_urls": [
+      "https://bridgesrestaurant.nl/menu-bridges/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Café Boulud",
+    "slug": "cafe-boulud",
+    "website": "https://www.cafeboulud.com/nyc/",
+    "menu_urls": [
+      "https://www.cafeboulud.com/nyc/our-menu/dinner/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Casa Mono",
+    "slug": "casa-mono",
+    "website": "https://casamononyc.com/",
+    "menu_urls": [
+      "https://www.casamononyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Corima",
+    "slug": "corima",
+    "website": "https://corimanyc.com/",
+    "menu_urls": [
+      "https://corimanyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cote",
+    "slug": "cote",
+    "website": "https://www.cotekoreansteakhouse.com/",
+    "menu_urls": [
+      "https://www.cotekoreansteakhouse.com/singaporedinnermenu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Crown Shy",
+    "slug": "crown-shy",
+    "website": "https://www.crownshy.nyc/",
+    "menu_urls": [
+      "https://www.crownshy.nyc/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Daniel",
+    "slug": "daniel",
+    "website": "https://www.danielnyc.com/",
+    "menu_urls": [
+      "https://www.danielnyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Dirt Candy",
+    "slug": "dirt-candy",
+    "website": "https://www.dirtcandynyc.com/",
+    "menu_urls": [
+      "https://www.dirtcandynyc.com/dinner-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Essential by Christophe",
+    "slug": "essential-by-christophe",
+    "website": "https://www.essentialbychristophe.com/",
+    "menu_urls": [
+      "https://www.essentialbychristophe.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Estela",
+    "slug": "estela",
+    "website": "https://www.estelanyc.com/",
+    "menu_urls": [
+      "https://estelanyc.com/#menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Francie",
+    "slug": "francie",
+    "website": "https://www.franciebrooklyn.com/",
+    "menu_urls": [
+      "https://www.franciebrooklyn.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Frevo",
+    "slug": "frevo",
+    "website": "https://frevonyc.com/",
+    "menu_urls": [
+      "https://frevonyc.com/restaurant/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Gramercy Tavern",
+    "slug": "gramercy-tavern",
+    "website": "https://www.gramercytavern.com/",
+    "menu_urls": [
+      "https://www.gramercytavern.com/tavern-menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Huso",
+    "slug": "huso",
+    "website": "https://husony.com/",
+    "menu_urls": [
+      "https://husony.com/tasting-menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Jua",
+    "slug": "jua",
+    "website": "https://juanyc.com/",
+    "menu_urls": [
+      "https://juanyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Jōji",
+    "slug": "joji",
+    "website": "https://www.jojiny.com/",
+    "menu_urls": [
+      "https://www.jojiny.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kochi",
+    "slug": "kochi",
+    "website": "https://kochinyc.com/",
+    "menu_urls": [
+      "https://www.kochinyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kosaka",
+    "slug": "kosaka",
+    "website": "https://www.kosakanyc.com/",
+    "menu_urls": [
+      "https://www.kosakanyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Le Pavillon",
+    "slug": "le-pavillon",
+    "website": "https://lepavillonnyc.com/",
+    "menu_urls": [
+      "https://lepavillonnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "L’Abeille",
+    "slug": "labeille",
+    "website": "https://www.labeille.nyc/",
+    "menu_urls": [
+      "https://www.labeille.nyc/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Mari",
+    "slug": "mari",
+    "website": "https://marinyc.com/",
+    "menu_urls": [
+      "https://marinyc.com/our-menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Meju",
+    "slug": "meju",
+    "website": "https://mejunyc.com/",
+    "menu_urls": [
+      "https://mejunyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Muku",
+    "slug": "muku",
+    "website": "https://www.restaurantmuku.nyc/",
+    "menu_urls": [
+      "https://www.restaurantmuku.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Noda",
+    "slug": "noda",
+    "website": "https://www.noda.nyc/",
+    "menu_urls": [
+      "https://nodaharajuku.tumblr.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Oiji Mi",
+    "slug": "oiji-mi",
+    "website": "https://www.oijimi.com/",
+    "menu_urls": [
+      "https://www.oijimi.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Oxomoco",
+    "slug": "oxomoco",
+    "website": "https://www.oxomoconyc.com/",
+    "menu_urls": [
+      "https://www.oxomoconyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Restaurant Yuu",
+    "slug": "restaurant-yuu",
+    "website": "https://www.yuunewyork.com/restaurantyuu/",
+    "menu_urls": [
+      "https://www.yuunewyork.com/restaurantyuu/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Rezdôra",
+    "slug": "rezdora",
+    "website": "https://www.rezdora.nyc/",
+    "menu_urls": [
+      "https://www.rezdora.nyc/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sushi Nakazawa New York",
+    "slug": "sushi-nakazawa-new-york",
+    "website": "https://www.sushinakazawa.com/new-york",
+    "menu_urls": [
+      "https://www.sushinakazawa.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tempura Matsui",
+    "slug": "tempura-matsui",
+    "website": "https://www.tempuramatsui.com/",
+    "menu_urls": [
+      "https://www.tempuramatsui.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Torrisi",
+    "slug": "torrisi",
+    "website": "https://www.torrisinyc.com",
+    "menu_urls": [
+      "https://www.torrisinyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tsukimi",
+    "slug": "tsukimi",
+    "website": "https://www.tsukimi.nyc/",
+    "menu_urls": [
+      "https://www.tsukimi.nyc/s/2026-Summer-Kaiseki-Menu.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tuome",
+    "slug": "tuome",
+    "website": "https://www.tuomenyc.com/",
+    "menu_urls": [
+      "https://www.tuomenyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Yamada",
+    "slug": "yamada",
+    "website": "https://www.yamadanewyork.com/",
+    "menu_urls": [
+      "https://www.yamadanewyork.com/s/yamada_menu_winter_1222.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "YingTao",
+    "slug": "yingtao",
+    "website": "https://yingtaonyc.com/",
+    "menu_urls": [
+      "https://www.yingtaonyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "bōm",
+    "slug": "bom",
+    "website": "https://www.bom-nyc.com/",
+    "menu_urls": [
+      "https://bomkitchen.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "8282",
+    "slug": "8282",
+    "website": "https://www.eightwoeightwo.com/",
+    "menu_urls": [
+      "https://www.eightwoeightwo.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Alley 41",
+    "slug": "alley-41",
+    "website": "https://www.alley41.com/",
+    "menu_urls": [
+      "https://www.alley41.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Alta Calidad",
+    "slug": "alta-calidad",
+    "website": "https://altacalidadbk.com/",
+    "menu_urls": [
+      "https://altacalidadbk.com/nyc-restaurant-week-summer-2026/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bayon",
+    "slug": "bayon",
+    "website": "https://www.bayonnyc.com/",
+    "menu_urls": [
+      "https://www.bayonnyc.com/#menu-pacific-section"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bohemian Spirit",
+    "slug": "bohemian-spirit",
+    "website": "https://bohemianspiritrestaurant.com/",
+    "menu_urls": [
+      "https://bohemianspiritrestaurant.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bonnie's",
+    "slug": "bonnies",
+    "website": "https://www.bonniesbrooklyn.com/",
+    "menu_urls": [
+      "https://www.bonniesbrooklyn.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bungalow",
+    "slug": "bungalow",
+    "website": "https://www.bungalowny.com/",
+    "menu_urls": [
+      "https://www.bungalowny.com/menu-landing"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "C as in Charlie",
+    "slug": "c-as-in-charlie",
+    "website": "https://www.c-asincharlie.com/",
+    "menu_urls": [
+      "https://www.c-asincharlie.com"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Café Mars",
+    "slug": "cafe-mars",
+    "website": "https://cafemarsbk.com",
+    "menu_urls": [
+      "https://cafemarsbk.com/menu/main"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cardamom",
+    "slug": "cardamom",
+    "website": "https://www.cardamomny.com/",
+    "menu_urls": [
+      "https://cardamom.ordering-panel.com/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cervo’s",
+    "slug": "cervos",
+    "website": "https://cervosnyc.com/",
+    "menu_urls": [
+      "https://www.cervosnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chalong Southern Thai",
+    "slug": "chalong-southern-thai",
+    "website": "https://www.chalongnyc.com/",
+    "menu_urls": [
+      "https://chalongnyc.com/food-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chavela’s",
+    "slug": "chavelas",
+    "website": "https://chavelasnyc.com/",
+    "menu_urls": [
+      "https://chavelasnyc.com/dinner/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "CheLi",
+    "slug": "cheli",
+    "website": "https://www.che-li.com",
+    "menu_urls": [
+      "https://www.che-li.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cho Dang Gol",
+    "slug": "cho-dang-gol",
+    "website": "https://chodanggolnyc.com/",
+    "menu_urls": [
+      "https://chodanggolnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chuan Tian Xia",
+    "slug": "chuan-tian-xia",
+    "website": "https://chuantianxiany.com/",
+    "menu_urls": [
+      "https://chuantianxiany.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Coqodaq",
+    "slug": "coqodaq",
+    "website": "https://www.coqodaq.com/",
+    "menu_urls": [
+      "https://www.coqodaq.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Covacha",
+    "slug": "covacha",
+    "website": "https://www.covachany.com/",
+    "menu_urls": [
+      "https://www.covachany.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Dim Sum Go Go",
+    "slug": "dim-sum-go-go",
+    "website": "https://www.dimsumgogonyc.com/",
+    "menu_urls": [
+      "https://www.dimsumgogonyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Gordo's Cantina",
+    "slug": "gordos-cantina",
+    "website": "https://gordoscantina.com/",
+    "menu_urls": [
+      "https://www.gordoscantina.com/pages/menu-1"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Haenyeo",
+    "slug": "haenyeo",
+    "website": "https://haenyeobk.com/",
+    "menu_urls": [
+      "https://haenyeobk.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "HanGawi",
+    "slug": "hangawi",
+    "website": "https://hangawirestaurant.com",
+    "menu_urls": [
+      "https://hangawirestaurant.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Hometown Bar B Que New York",
+    "slug": "hometown-bar-b-que-new-york",
+    "website": "https://hometownbbq.com/",
+    "menu_urls": [
+      "https://hometownbbq.com/menu-rh"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ishq",
+    "slug": "ishq",
+    "website": "https://www.ishq.nyc/",
+    "menu_urls": [
+      "https://www.ishq.nyc/dinner-menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Jiang Nan",
+    "slug": "jiang-nan",
+    "website": "https://www.jiangnanny.com/",
+    "menu_urls": [
+      "https://www.jiangnanny.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Katz's",
+    "slug": "katzs",
+    "website": "https://katzsdelicatessen.com/",
+    "menu_urls": [
+      "https://katzsdelicatessen.com/store-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kung Fu Little Steamed Buns Ramen",
+    "slug": "kung-fu-little-steamed-buns-ramen",
+    "website": "https://www.kfkitchennyc.com/",
+    "menu_urls": [
+      "https://static1.squarespace.com/static/55b837f8e4b0f7f8803f68ab/t/68e494fa1448fb4090e70d0a/1759810810430/KF+Kitchen+2025+final.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "LORE",
+    "slug": "lore",
+    "website": "https://www.lorebrooklyn.com/",
+    "menu_urls": [
+      "https://www.loremanila.com/wp-content/uploads/2025/11/Lore-Menu-2025.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "La Dong",
+    "slug": "la-dong",
+    "website": "https://www.ladongnyc.com/",
+    "menu_urls": [
+      "https://www.ladongnyc.com/_files/ugd/511aa7_68c361f2f3a74af08fdd1fd6240c27de.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Laliko",
+    "slug": "laliko",
+    "website": "https://laliko.com/",
+    "menu_urls": [
+      "https://laliko.com/menu/dinner/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Legend of Taste",
+    "slug": "legend-of-taste",
+    "website": "https://www.legendoftasteny.com/",
+    "menu_urls": [
+      "https://www.menusifu.com"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Little Alley",
+    "slug": "little-alley",
+    "website": "https://www.littlealley.nyc/",
+    "menu_urls": [
+      "https://www.littlealley.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Little Myanmar",
+    "slug": "little-myanmar",
+    "website": "https://www.littlemyanmar.nyc/",
+    "menu_urls": [
+      "https://tatilashes.co/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Lungi",
+    "slug": "lungi",
+    "website": "https://lungirestaurant.com/",
+    "menu_urls": [
+      "https://lungirestaurant.com/new-york-upper-east-side-lungi-food-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Miss Ada",
+    "slug": "miss-ada",
+    "website": "https://www.missadanyc.com/",
+    "menu_urls": [
+      "https://www.missadanyc.com/#menu-section"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Momofuku Noodle Bar",
+    "slug": "momofuku-noodle-bar",
+    "website": "https://momofuku.com/",
+    "menu_urls": [
+      "https://momofuku.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "MáLà Project",
+    "slug": "mala-project",
+    "website": "https://www.malaproject.com/",
+    "menu_urls": [
+      "https://www.malaproject.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Nami Nori",
+    "slug": "nami-nori",
+    "website": "https://naminori.us/",
+    "menu_urls": [
+      "https://www.naminori.us/new-folder"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Noreetuh",
+    "slug": "noreetuh",
+    "website": "https://www.noreetuh.com/",
+    "menu_urls": [
+      "https://www.noreetuh.com/s/Summer-2026-Restaurant-Week-Menu.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Odre",
+    "slug": "odre",
+    "website": "https://odrenyc.com/",
+    "menu_urls": [
+      "https://odrenyc.com/menu-desktop"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Olmo",
+    "slug": "olmo",
+    "website": "https://www.olmobk.com/",
+    "menu_urls": [
+      "https://www.olmobk.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Peppercorn Station",
+    "slug": "peppercorn-station",
+    "website": "https://www.peppercornstation.com/",
+    "menu_urls": [
+      "https://www.peppercornstation.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Pierozek",
+    "slug": "pierozek",
+    "website": "https://www.pierozekbrooklyn.com/",
+    "menu_urls": [
+      "https://www.pierozekbrooklyn.com/menu-1"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Pinch Chinese",
+    "slug": "pinch-chinese",
+    "website": "https://www.pinchchinese.com/",
+    "menu_urls": [
+      "https://www.seamless.com/menu/pinch-chinese-177-prince-st-new-york/504559?classicAffiliateId=%2Fr%2Fw%2F55974%2F&utm_source=content-cms.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=504559https://www.seamless.com/menu/pinch-chinese-177-prince-st-new-york/504559?classicAffiliateId=%2Fr%2Fw%2F55974%2F&utm_source=content-cms.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=504559"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Potluck Club",
+    "slug": "potluck-club",
+    "website": "https://thepotluckclubny.com/",
+    "menu_urls": [
+      "https://thepotluckclubny.com/pages/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Rolo's",
+    "slug": "rolos",
+    "website": "https://www.rolosnyc.com",
+    "menu_urls": [
+      "https://www.rolosnyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ruffian",
+    "slug": "ruffian",
+    "website": "https://ruffiannyc.com/",
+    "menu_urls": [
+      "https://ruffiannyc.com/dinner-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Runner Up",
+    "slug": "runner-up",
+    "website": "https://www.winner.nyc/location/runner-up/",
+    "menu_urls": [
+      "https://www.winner.nyc/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Russ & Daughters Cafe",
+    "slug": "russ-daughters-cafe",
+    "website": "https://www.russanddaughterscafe.com/",
+    "menu_urls": [
+      "https://www.russanddaughterscafe.com/s/042626-cafe-placemat-menu-WEB.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sal Tang's",
+    "slug": "sal-tangs",
+    "website": "https://www.saltangs.com/",
+    "menu_urls": [
+      "https://www.saltangs.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sami & Susu",
+    "slug": "sami-susu",
+    "website": "https://www.samiandsusu.com/",
+    "menu_urls": [
+      "https://www.samiandsusu.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Shalom Japan",
+    "slug": "shalom-japan",
+    "website": "https://shalomjapannyc.com/",
+    "menu_urls": [
+      "https://shalomjapannyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sobaya",
+    "slug": "sobaya",
+    "website": "https://www.sobaya-nyc.com",
+    "menu_urls": [
+      "https://sobaya.square.site/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sobre Masa",
+    "slug": "sobre-masa",
+    "website": "https://sobremasa.com/",
+    "menu_urls": [
+      "https://sobremasa.com/pages/dinner"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Soda Club",
+    "slug": "soda-club",
+    "website": "https://www.sodaclubnyc.com/",
+    "menu_urls": [
+      "https://www.wearesodaclub.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Speedy Romeo",
+    "slug": "speedy-romeo",
+    "website": "https://www.speedyromeo.com/",
+    "menu_urls": [
+      "https://www.speedyromeo.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Superiority Burger",
+    "slug": "superiority-burger",
+    "website": "https://www.superiorityburger.com/",
+    "menu_urls": [
+      "http://menus.fyi/8604704"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tanoreen",
+    "slug": "tanoreen",
+    "website": "https://tanoreen.com/",
+    "menu_urls": [
+      "https://www.tanoreen.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tha Phraya",
+    "slug": "tha-phraya",
+    "website": "https://www.thaphraya.com/",
+    "menu_urls": [
+      "https://www.thaphraya.com/s/cateringresized.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tolo",
+    "slug": "tolo",
+    "website": "https://tolonyc.com/",
+    "menu_urls": [
+      "https://tolonyc.com/api/menu/large_party_menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tonchin",
+    "slug": "tonchin",
+    "website": "https://www.tonchinus.com/",
+    "menu_urls": [
+      "https://www.tonchinus.com/signature-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Una Pizza Napoletana",
+    "slug": "una-pizza-napoletana",
+    "website": "https://unapizza.com/",
+    "menu_urls": [
+      "https://unapizza.com/menu-867530/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Win Son",
+    "slug": "win-son",
+    "website": "https://winsonbrooklyn.com/restaurant",
+    "menu_urls": [
+      "https://winsonbrooklyn.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Yellow Rose",
+    "slug": "yellow-rose",
+    "website": "https://www.yellowrosenyc.com/",
+    "menu_urls": [
+      "https://www.yellowrosenyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Yemenat",
+    "slug": "yemenat",
+    "website": "https://www.yemenat.rest/",
+    "menu_urls": [
+      "https://yemenat.cloveronline.com/menu/all"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "4 Charles Prime Rib",
+    "slug": "4-charles-prime-rib",
+    "website": "https://nycprimerib.com/",
+    "menu_urls": [
+      "https://www.nycprimerib.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "53",
+    "slug": "53",
+    "website": "https://53-nyc.com/",
+    "menu_urls": [
+      "https://53-nyc.com/menus/brunch/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "6 Restaurant",
+    "slug": "6-restaurant",
+    "website": "https://6restaurant.com/",
+    "menu_urls": [
+      "https://www.6restaurant.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Adda",
+    "slug": "adda",
+    "website": "https://www.addanyc.com/",
+    "menu_urls": [
+      "https://www.addanyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ai Fiori",
+    "slug": "ai-fiori",
+    "website": "https://aifiorinyc.com/",
+    "menu_urls": [
+      "https://aifiorinyc.com/menu/lunch/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Al Badawi",
+    "slug": "al-badawi",
+    "website": "https://www.albadawinyc.com/",
+    "menu_urls": [
+      "https://www.albadawinyc.com/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Altro Paradiso",
+    "slug": "altro-paradiso",
+    "website": "https://www.altroparadiso.com/",
+    "menu_urls": [
+      "https://altroparadiso.com/#menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ammazzacaffè",
+    "slug": "ammazzacaffe",
+    "website": "https://www.ammazzacaffe.nyc",
+    "menu_urls": [
+      "https://ammazzacaffe.nyc/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ariari",
+    "slug": "ariari",
+    "website": "https://ariarinyc.com/",
+    "menu_urls": [
+      "https://ariarinyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Atoboy",
+    "slug": "atoboy",
+    "website": "https://www.atoboynyc.com/",
+    "menu_urls": [
+      "https://www.atoboynyc.com/s/08062026-Atoboy-Restaurant-Week-Summer-menu.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Avant Garden",
+    "slug": "avant-garden",
+    "website": "https://www.avantgardennyc.com",
+    "menu_urls": [
+      "https://www.avantgardennyc.com/food"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Balera",
+    "slug": "balera",
+    "website": "https://www.balerabk.com/",
+    "menu_urls": [
+      "https://www.balerabk.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bangkok Supper Club",
+    "slug": "bangkok-supper-club",
+    "website": "https://www.bangkoksupperclubnyc.com/",
+    "menu_urls": [
+      "https://www.bangkoksupperclubnyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Barawine",
+    "slug": "barawine",
+    "website": "https://www.barawine.com/",
+    "menu_urls": [
+      "https://www.barawine.com/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bartolo",
+    "slug": "bartolo",
+    "website": "https://www.bartolonyc.com/",
+    "menu_urls": [
+      "https://www.bartolonyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Benoit",
+    "slug": "benoit",
+    "website": "https://www.benoitny.com/",
+    "menu_urls": [
+      "https://www.benoit-paris.com/actualites/les-coulisses-du-menu-de-fetes-de-benoit-inspirations-et-creations-des-chefs/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Bong",
+    "slug": "bong",
+    "website": "https://www.bongnyc.com/",
+    "menu_urls": [
+      "https://www.bongnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cafe Commerce",
+    "slug": "cafe-commerce",
+    "website": "https://cafecommercenyc.com/",
+    "menu_urls": [
+      "https://www.cafecommercenyc.com/daily-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cafe Mado",
+    "slug": "cafe-mado",
+    "website": "https://www.cafemadonyc.com/",
+    "menu_urls": [
+      "https://www.cafemadonyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cafe Sabarsky",
+    "slug": "cafe-sabarsky",
+    "website": "https://www.neuegalerie.org/cafesabarsky",
+    "menu_urls": [
+      "https://neue-gallerie-files.b-cdn.net/e41492ecba26d40bda4c623c86b7eeca37f8e860.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Café Carmellini",
+    "slug": "cafe-carmellini",
+    "website": "https://www.cafecarmellini.com/",
+    "menu_urls": [
+      "https://www.cafecarmellini.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Café Kestrel",
+    "slug": "cafe-kestrel",
+    "website": "https://www.kesnewyork.com/",
+    "menu_urls": [
+      "https://www.kesnewyork.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Carbone",
+    "slug": "carbone",
+    "website": "https://www.carbonenewyork.com/",
+    "menu_urls": [
+      "https://www.carbone.com.hk/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Carlotto",
+    "slug": "carlotto",
+    "website": "https://www.carlottonewyork.com/",
+    "menu_urls": [
+      "https://carlottonewyork.com/wp-content/uploads/2026/08/CarlottoPrixFixeSummerRW_-August-6.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Carne Mare",
+    "slug": "carne-mare",
+    "website": "https://www.carnemare.com/",
+    "menu_urls": [
+      "https://www.carnemare.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Casa Enrique",
+    "slug": "casa-enrique",
+    "website": "https://casaenriquelic.com/",
+    "menu_urls": [
+      "https://casaenrique.hrpos.heartland.us/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Casa Ora",
+    "slug": "casa-ora",
+    "website": "https://www.casaoranyc.com/",
+    "menu_urls": [
+      "https://casaoranyc.com/food-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cha Kee",
+    "slug": "cha-kee",
+    "website": "https://www.chakeenyc.com/",
+    "menu_urls": [
+      "https://www.chakeenyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chambers",
+    "slug": "chambers",
+    "website": "https://chambers.nyc/",
+    "menu_urls": [
+      "https://www.chambers.nyc/menu-dropdown"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chez Fifi",
+    "slug": "chez-fifi",
+    "website": "https://www.chezfifinyc.com/",
+    "menu_urls": [
+      "https://www.chezfifinyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chez Ma Tante",
+    "slug": "chez-ma-tante",
+    "website": "https://www.chezmatantebk.com/",
+    "menu_urls": [
+      "https://files.cargocollective.com/c1840156/Dinner-08.25.25-.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chick Chick",
+    "slug": "chick-chick",
+    "website": "https://www.chickchicknyc.com/",
+    "menu_urls": [
+      "https://www.chickchicknyc.com/menu-2"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Chola",
+    "slug": "chola",
+    "website": "https://www.cholany.com/",
+    "menu_urls": [
+      "https://www.cholany.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ci Siamo",
+    "slug": "ci-siamo",
+    "website": "https://www.cisiamo.com/",
+    "menu_urls": [
+      "https://www.cisiamo.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Claud",
+    "slug": "claud",
+    "website": "https://www.claudnyc.com/",
+    "menu_urls": [
+      "https://www.claudnyc.com/food/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Comal",
+    "slug": "comal",
+    "website": "https://www.comal-nyc.com/",
+    "menu_urls": [
+      "https://www.comal-nyc.com/s/ONLINE-MENU-AUGUST.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Confidant",
+    "slug": "confidant",
+    "website": "https://www.confidantnyc.com/",
+    "menu_urls": [
+      "https://www.confidantnyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cosme",
+    "slug": "cosme",
+    "website": "https://www.cosmenyc.com/",
+    "menu_urls": [
+      "https://cosmenyc.com/#menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cove",
+    "slug": "cove",
+    "website": "https://www.cove-nyc.com/",
+    "menu_urls": [
+      "https://www.cove-nyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Crane Club",
+    "slug": "crane-club",
+    "website": "https://taogroup.com/venues/crane-club-restaurant-new-york/",
+    "menu_urls": [
+      "https://taogroup.com/venues/crane-club-restaurant-new-york/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Crevette",
+    "slug": "crevette",
+    "website": "https://www.crevettenyc.com/",
+    "menu_urls": [
+      "https://www.crevettenyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Cynthia",
+    "slug": "cynthia",
+    "website": "https://www.cynthianyc.com/",
+    "menu_urls": [
+      "https://cynthianyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Dagon",
+    "slug": "dagon",
+    "website": "https://www.dagonnyc.com/",
+    "menu_urls": [
+      "https://www.dagonnyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Dame",
+    "slug": "dame",
+    "website": "https://www.damenewyork.com",
+    "menu_urls": [
+      "https://dame-resto.fr/fr/pdf/menu_dame_20260708112647.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Daphne's",
+    "slug": "daphnes",
+    "website": "https://www.daphnesbrooklyn.com/",
+    "menu_urls": [
+      "https://www.daphnesbrooklyn.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Don Angie",
+    "slug": "don-angie",
+    "website": "https://www.donangie.com/",
+    "menu_urls": [
+      "https://www.donangie.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Don Antonio",
+    "slug": "don-antonio",
+    "website": "https://www.donantoniopizza.com/",
+    "menu_urls": [
+      "https://www.donantoniopizza.com/menu-food/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Dons Bogam",
+    "slug": "dons-bogam",
+    "website": "https://www.donsbogam.com/",
+    "menu_urls": [
+      "https://www.donsbogam.com/lunch"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "East Harbor Seafood Palace",
+    "slug": "east-harbor-seafood-palace",
+    "website": "https://east-harbor-seafood-palace.com/",
+    "menu_urls": [
+      "https://east-harbor-seafood-palace.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "El Fish Marisqueria",
+    "slug": "el-fish-marisqueria",
+    "website": "https://www.elfish67.com/",
+    "menu_urls": [
+      "https://www.elfish67.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Elcielo New York",
+    "slug": "elcielo-new-york",
+    "website": "https://elcielo.com.co/new-york/",
+    "menu_urls": [
+      "https://www.opentable.com/booking/experiences-availability?rid=1438912&restref=1438912&experienceId=542292&ot_source=website&ot_campaign=heroMobile"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Eléa",
+    "slug": "elea",
+    "website": "https://eleanyc.com/",
+    "menu_urls": [
+      "https://www.eleanyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Entre Nous",
+    "slug": "entre-nous",
+    "website": "https://www.entrenousbrooklyn.com/",
+    "menu_urls": [
+      "https://www.entrenousbrooklyn.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ernesto's",
+    "slug": "ernestos",
+    "website": "https://www.ernestosnyc.com/",
+    "menu_urls": [
+      "https://www.ernestosnyc.com/ernestos-nyc-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Farra",
+    "slug": "farra",
+    "website": "https://www.farranyc.com/",
+    "menu_urls": [
+      "https://www.farranyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Fasano",
+    "slug": "fasano",
+    "website": "https://www.fasanorestaurantny.com/",
+    "menu_urls": [
+      "https://fasanorestaurantny.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Fausto",
+    "slug": "fausto",
+    "website": "https://www.faustobrooklyn.com/",
+    "menu_urls": [
+      "https://www.faustobrooklyn.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Forsythia",
+    "slug": "forsythia",
+    "website": "https://www.forsythianyc.com/",
+    "menu_urls": [
+      "https://www.forsythianyc.com/menu-5"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Four Twenty Five",
+    "slug": "four-twenty-five",
+    "website": "https://www.425parkrestaurant.com/",
+    "menu_urls": [
+      "https://www.425parkrestaurant.com/menu/bar/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Gage & Tollner",
+    "slug": "gage-tollner",
+    "website": "https://www.gageandtollner.com/",
+    "menu_urls": [
+      "https://www.sunkenharbor.club/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Gallaghers",
+    "slug": "gallaghers",
+    "website": "https://www.gallaghersnysteakhouse.com/",
+    "menu_urls": [
+      "https://www.gallaghersnysteakhouse.com/menus-new-york/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Genesis House Restaurant",
+    "slug": "genesis-house-restaurant",
+    "website": "https://www.genesishouse.com/us/en/nyc/index.html",
+    "menu_urls": [
+      "https://www.genesishouse.com/us/en/nyc/tea-pavilion.html#teamenu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Glin Thai Bistro",
+    "slug": "glin-thai-bistro",
+    "website": "https://glinthaibistro.com/",
+    "menu_urls": [
+      "https://glinthaibistro.com/brooklyn-fort-greene-glin-thai-bistro-food-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Gui",
+    "slug": "gui",
+    "website": "https://www.guinyc.com/",
+    "menu_urls": [
+      "https://guinyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "HAGS",
+    "slug": "hags",
+    "website": "https://hagsnyc.com/",
+    "menu_urls": [
+      "https://hagsnyc.com/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Hart's",
+    "slug": "harts",
+    "website": "https://hartsbrooklyn.com/",
+    "menu_urls": [
+      "https://www.hartsbrooklyn.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Hav & Mar",
+    "slug": "hav-mar",
+    "website": "https://www.havandmar.com/",
+    "menu_urls": [
+      "https://www.havandmar.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Hungry Thirsty",
+    "slug": "hungry-thirsty",
+    "website": "https://www.hungrythirstynyc.com/",
+    "menu_urls": [
+      "https://www.hungrythirstynyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Hwaro",
+    "slug": "hwaro",
+    "website": "https://hwaronyc.com/",
+    "menu_urls": [
+      "https://hwaronyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Il Fiorista",
+    "slug": "il-fiorista",
+    "website": "https://www.ilfioristanyc.com/",
+    "menu_urls": [
+      "https://www.ilfioristanyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ivan Ramen",
+    "slug": "ivan-ramen",
+    "website": "https://www.ivanramen.com/",
+    "menu_urls": [
+      "https://www.ivanramen.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Izakaya Futago",
+    "slug": "izakaya-futago",
+    "website": "https://www.izakaya-futago.com/",
+    "menu_urls": [
+      "https://www.izakaya-futago.com/totto-soba-1-1-1-1"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "J.G. Melon",
+    "slug": "j-g-melon",
+    "website": "https://jgmelon-nyc.com/",
+    "menu_urls": [
+      "https://jgmelon-nyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "JoJo",
+    "slug": "jojo",
+    "website": "https://www.jojorestaurantnyc.com/",
+    "menu_urls": [
+      "https://www.jojorestaurantnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Junoon",
+    "slug": "junoon",
+    "website": "https://www.junoonnyc.com/",
+    "menu_urls": [
+      "https://www.junoonnyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Jupiter",
+    "slug": "jupiter",
+    "website": "https://www.jupiterrestaurant.nyc/",
+    "menu_urls": [
+      "https://www.jupiterrestaurant.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "KRU",
+    "slug": "kru",
+    "website": "https://www.krubrooklyn.com/",
+    "menu_urls": [
+      "https://www.krubrooklyn.com/s/Kru_Template_FOOD_WEBSITE.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kabawa",
+    "slug": "kabawa",
+    "website": "https://kabawa.com/",
+    "menu_urls": [
+      "https://kabawa.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kanoyama",
+    "slug": "kanoyama",
+    "website": "https://kanoyama.com/",
+    "menu_urls": [
+      "https://kanoyama.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kebab aur Sharab",
+    "slug": "kebab-aur-sharab",
+    "website": "https://kebabaursharab.com",
+    "menu_urls": [
+      "https://kebabaursharab.com/kebab-sharab-menu-2024.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "King",
+    "slug": "king",
+    "website": "https://kingrestaurant.nyc/",
+    "menu_urls": [
+      "https://kingrestaurant.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kubeh",
+    "slug": "kubeh",
+    "website": "https://www.eatkubeh.com/",
+    "menu_urls": [
+      "https://www.eatkubeh.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Kyma",
+    "slug": "kyma",
+    "website": "https://kymarestaurants.com/",
+    "menu_urls": [
+      "https://www.kymarestaurants.com/west-palm-beach-menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "La Devozione: The Oval",
+    "slug": "la-devozione-the-oval",
+    "website": "https://www.ladevozionenyc.com/",
+    "menu_urls": [
+      "https://www.ladevozionenyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "La Tête d’Or",
+    "slug": "la-tete-dor",
+    "website": "https://www.latetedorbydaniel.com/",
+    "menu_urls": [
+      "https://www.latetedorbydaniel.com/our-menu/dinner"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "La Vara",
+    "slug": "la-vara",
+    "website": "https://www.lavarany.com/",
+    "menu_urls": [
+      "https://www.lavarany.com/about"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Laser Wolf",
+    "slug": "laser-wolf",
+    "website": "https://www.laserwolfbrooklyn.com/",
+    "menu_urls": [
+      "https://www.laserwolfbrooklyn.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Le B",
+    "slug": "le-b",
+    "website": "https://lebnyc.com/",
+    "menu_urls": [
+      "http://lebnyc.com/wp-content/uploads/2026/08/Le-BWEBdinnermenu.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Le Chêne",
+    "slug": "le-chene",
+    "website": "https://www.lechenenyc.com/",
+    "menu_urls": [
+      "https://www.lechenenyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Le Jardinier New York",
+    "slug": "le-jardinier-new-york",
+    "website": "https://lejardinier-nyc.com/",
+    "menu_urls": [
+      "https://www.lejardinier-nyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Le Rock",
+    "slug": "le-rock",
+    "website": "https://www.lerocknyc.com",
+    "menu_urls": [
+      "https://www.lerocknyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Le Veau d'Or",
+    "slug": "le-veau-dor",
+    "website": "https://www.lvdnyc.com/",
+    "menu_urls": [
+      "https://www.lvdnyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Lei",
+    "slug": "lei",
+    "website": "https://www.leiwine.nyc/",
+    "menu_urls": [
+      "https://www.leiwine.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Len Len",
+    "slug": "len-len",
+    "website": "https://lenlen.nyc/",
+    "menu_urls": [
+      "https://lenlen.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Lingo",
+    "slug": "lingo",
+    "website": "https://www.lingobk.com/",
+    "menu_urls": [
+      "https://www.lingobk.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Lord's",
+    "slug": "lords",
+    "website": "https://www.lordsenglish.com/",
+    "menu_urls": [
+      "https://www.lordsenglish.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Los Burritos Juárez",
+    "slug": "los-burritos-juarez",
+    "website": "https://www.losburritosjuarez.com/",
+    "menu_urls": [
+      "https://www.losburritosjuarez.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ly Ly Vietnam Cookhouse",
+    "slug": "ly-ly-vietnam-cookhouse",
+    "website": "https://www.lylynyc.com/",
+    "menu_urls": [
+      "https://www.lylynyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "L’abeille à Côté",
+    "slug": "labeille-a-cote",
+    "website": "https://www.labeilleacote.nyc/",
+    "menu_urls": [
+      "https://www.labeilleacote.nyc/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Madre",
+    "slug": "madre",
+    "website": "https://www.madrenyc.com/",
+    "menu_urls": [
+      "https://www.madrenyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Maison Passerelle",
+    "slug": "maison-passerelle",
+    "website": "https://maisonpasserellenyc.com/",
+    "menu_urls": [
+      "https://maisonpasserellenyc.com/menu/dinner"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Mango Bay",
+    "slug": "mango-bay",
+    "website": "https://www.themangobay.com",
+    "menu_urls": [
+      "https://www.themangobay.com/menu_mangobay.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Manhatta",
+    "slug": "manhatta",
+    "website": "https://www.manhattarestaurant.com/",
+    "menu_urls": [
+      "https://www.manhattarestaurant.com/restaurant-menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Marea",
+    "slug": "marea",
+    "website": "https://www.marearestaurant.com/new-york",
+    "menu_urls": [
+      "https://www.marearestaurant.com/new-york/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Markette",
+    "slug": "markette",
+    "website": "https://www.marketterestaurant.com/",
+    "menu_urls": [
+      "https://www.marketterestaurant.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Massara",
+    "slug": "massara",
+    "website": "https://www.massara.nyc/",
+    "menu_urls": [
+      "https://www.massara.nyc/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "MayRee",
+    "slug": "mayree",
+    "website": "https://www.mayreenyc.com/",
+    "menu_urls": [
+      "https://www.mayreenyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ma•dé",
+    "slug": "made",
+    "website": "https://www.ma-de-nyc.com/",
+    "menu_urls": [
+      "https://www.ma-de-nyc.com/menu-2-1"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Meadowsweet",
+    "slug": "meadowsweet",
+    "website": "https://www.meadowsweetnyc.com/",
+    "menu_urls": [
+      "https://www.meadowsweetnyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Melba's",
+    "slug": "melbas",
+    "website": "https://www.melbasrestaurant.com/",
+    "menu_urls": [
+      "https://www.melbasrestaurant.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Mesiba",
+    "slug": "mesiba",
+    "website": "https://mesibabk.com/",
+    "menu_urls": [
+      "https://www.mesibabk.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Minetta Tavern",
+    "slug": "minetta-tavern",
+    "website": "https://www.minettatavernny.com/",
+    "menu_urls": [
+      "https://www.minettatavernny.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Miss Lily’s",
+    "slug": "miss-lilys",
+    "website": "https://www.misslilys.com/",
+    "menu_urls": [
+      "https://v1-misslilys.getbento.com/east-village-7a/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Miss Mamie's Spoonbread Too",
+    "slug": "miss-mamies-spoonbread-too",
+    "website": "https://spoonbreadinc.com/",
+    "menu_urls": [
+      "https://spoonbreadinc.com/new-york-morningside-heights-miss-mamies-spoonbread-too-food-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Mission Ceviche",
+    "slug": "mission-ceviche",
+    "website": "https://missionceviche.com/",
+    "menu_urls": [
+      "https://missionceviche.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Moody Tongue Sushi",
+    "slug": "moody-tongue-sushi",
+    "website": "https://www.moodytongue.com/location/moody-tongue-sushi-and-the-hand-roll-bar/",
+    "menu_urls": [
+      "https://images.getbento.com/accounts/79fd3434023b8d1e373038a861c015ef/media/PuNRKIDjRMeQc2bH4B0D_MTS%20Handroll_26-05-20%20v2.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Moono",
+    "slug": "moono",
+    "website": "https://www.moononyc.com/",
+    "menu_urls": [
+      "https://www.moononyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Novitá",
+    "slug": "novita",
+    "website": "https://www.novitanyc.com/",
+    "menu_urls": [
+      "https://novitanyc.squarespace.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Nudibranch",
+    "slug": "nudibranch",
+    "website": "https://nudibranchnyc.com/",
+    "menu_urls": [
+      "https://nudibranchnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Oceans",
+    "slug": "oceans",
+    "website": "https://oceansnewyork.com/",
+    "menu_urls": [
+      "https://oceansnewyork.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Octo",
+    "slug": "octo",
+    "website": "https://www.octo.nyc/",
+    "menu_urls": [
+      "https://www.octo.nyc/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Odo East Village",
+    "slug": "odo-east-village",
+    "website": "https://www.odoeastvillage.nyc/",
+    "menu_urls": [
+      "https://www.odoeastvillage.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "One White Street",
+    "slug": "one-white-street",
+    "website": "https://www.onewhitestreetnyc.com/",
+    "menu_urls": [
+      "https://onewhitestreetnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Orsay",
+    "slug": "orsay",
+    "website": "https://www.orsayrestaurant.com/",
+    "menu_urls": [
+      "https://www.orsayrestaurant.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Papa San",
+    "slug": "papa-san",
+    "website": "https://www.papasannyc.com/",
+    "menu_urls": [
+      "https://www.papasannyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Patricia’s",
+    "slug": "patricias",
+    "website": "https://patriciasofmorrispark.com/",
+    "menu_urls": [
+      "https://www.patriciasofmorrispark.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Penny",
+    "slug": "penny",
+    "website": "https://www.penny-nyc.com/",
+    "menu_urls": [
+      "https://www.penny-nyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Persepolis",
+    "slug": "persepolis",
+    "website": "https://www.persepolisnewyork.com/",
+    "menu_urls": [
+      "https://www.persepolisnewyork.com/our-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Peter Luger",
+    "slug": "peter-luger",
+    "website": "https://peterluger.com/",
+    "menu_urls": [
+      "https://peterluger.com/pages/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Place des Fêtes",
+    "slug": "place-des-fetes",
+    "website": "https://www.pdfnyc.com/",
+    "menu_urls": [
+      "https://www.pdfnyc.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Portale",
+    "slug": "portale",
+    "website": "https://www.portalerestaurant.com/",
+    "menu_urls": [
+      "https://www.portalerestaurant.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Pylos",
+    "slug": "pylos",
+    "website": "https://pylosrestaurant.com/",
+    "menu_urls": [
+      "https://pylosrestaurant.com/events/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "R40",
+    "slug": "r40",
+    "website": "https://www.r40lic.com/",
+    "menu_urls": [
+      "https://www.r40lic.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Raf's",
+    "slug": "rafs",
+    "website": "https://www.rafsnewyork.com/",
+    "menu_urls": [
+      "https://www.rafsnewyork.com/menu/wine/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Red Hook Tavern",
+    "slug": "red-hook-tavern",
+    "website": "https://www.redhooktavern.com/",
+    "menu_urls": [
+      "https://www.redhooktavern.com/menu-1"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Red Paper Clip",
+    "slug": "red-paper-clip",
+    "website": "https://www.redpaperclip.nyc/",
+    "menu_urls": [
+      "https://www.redpaperclip.nyc/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Risbo",
+    "slug": "risbo",
+    "website": "https://www.risbobk.com/",
+    "menu_urls": [
+      "https://www.risbobk.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Rosella",
+    "slug": "rosella",
+    "website": "https://www.rosellanyc.com/",
+    "menu_urls": [
+      "https://www.rosellanyc.com/s/Menu_0528_SAMPLE_LARGE.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Runner & Stone",
+    "slug": "runner-stone",
+    "website": "https://www.runnerandstone.com/",
+    "menu_urls": [
+      "https://www.runnerandstone.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sailor",
+    "slug": "sailor",
+    "website": "https://www.sailor.nyc/",
+    "menu_urls": [
+      "https://www.sailor.nyc/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Saint Julivert Fisherie",
+    "slug": "saint-julivert-fisherie",
+    "website": "https://www.saintjulivertbk.com/",
+    "menu_urls": [
+      "https://www.saintjulivertbk.com/dinner-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Secchu Yokota",
+    "slug": "secchu-yokota",
+    "website": "https://www.secchuyokota.com/",
+    "menu_urls": [
+      "https://www.secchuyokota.com/omakase-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "See No Evil Pizza",
+    "slug": "see-no-evil-pizza",
+    "website": "https://seenoevilpizza.com/",
+    "menu_urls": [
+      "https://seenoevilpizza.com/new-york-city-times-square-see-no-evil-pizza-food-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Seis Vecinos",
+    "slug": "seis-vecinos",
+    "website": "https://www.seisvecinos.com/",
+    "menu_urls": [
+      "https://www.seisvecinos.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sempre Oggi",
+    "slug": "sempre-oggi",
+    "website": "https://www.semprenyc.com/",
+    "menu_urls": [
+      "https://www.semprenyc.com/menus/#weekend-brunch"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Seoul Salon",
+    "slug": "seoul-salon",
+    "website": "https://seoulsalon.nyc/",
+    "menu_urls": [
+      "https://seoulsalon.nyc/MENU"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Seppe Pizza Bar",
+    "slug": "seppe-pizza-bar",
+    "website": "https://www.seppepizzabar.com/",
+    "menu_urls": [
+      "https://urldefense.proofpoint.com/v2/url?u=https-3A__seppepizzabar.com_menu_catering_&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=dxzv-oIyxVI0GbCwwnISuaK0xrPx8urredLG7HBhh3c&m=tmGncKcICHlaV8serFfbiXoCAARA4tWnpqpxujjgMEusKFglo7uph5LbbDD4o5A_&s=Lt0gBlufKlDRei2oGMoOvQz1hCT2J6vOht3PTkM0MgA&e="
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Shabushabu Mayumon",
+    "slug": "shabushabu-mayumon",
+    "website": "https://www.shabushabumayumon.com/",
+    "menu_urls": [
+      "https://www.shabushabumayumon.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Smithereens",
+    "slug": "smithereens",
+    "website": "https://www.smithereensnyc.com/",
+    "menu_urls": [
+      "https://www.smithereensnyc.com/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sofreh",
+    "slug": "sofreh",
+    "website": "https://www.sofrehnyc.com/",
+    "menu_urls": [
+      "https://www.sofrehnyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sunday in Brooklyn",
+    "slug": "sunday-in-brooklyn",
+    "website": "https://www.sundayinbrooklyn.com/",
+    "menu_urls": [
+      "https://www.sundayinbrooklyn.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sushi Akira",
+    "slug": "sushi-akira",
+    "website": "https://sushiakiranyc.com/",
+    "menu_urls": [
+      "https://sushiakiranyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sushi Ikumi",
+    "slug": "sushi-ikumi",
+    "website": "https://www.ikumi.nyc/",
+    "menu_urls": [
+      "https://www.ikumi.nyc"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Sushi Yasuda",
+    "slug": "sushi-yasuda",
+    "website": "https://www.sushiyasuda.com/",
+    "menu_urls": [
+      "https://www.sushiyasuda.com/menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Szechuan Gourmet",
+    "slug": "szechuan-gourmet",
+    "website": "https://www.szechuangourment.com/",
+    "menu_urls": [
+      "https://www.menusifu.com"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tamarind",
+    "slug": "tamarind",
+    "website": "https://tamarindtribeca.com/",
+    "menu_urls": [
+      "https://www.tamarindtribeca.com/wine-world/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tatiana",
+    "slug": "tatiana",
+    "website": "https://www.tatiananyc.com/",
+    "menu_urls": [
+      "https://www.tatiananyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "The Commerce Inn",
+    "slug": "the-commerce-inn",
+    "website": "https://www.thecommerceinn.com/",
+    "menu_urls": [
+      "https://www.thecommerceinn.com/s/TCI_WEBMENU_05-29-2026.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "The Dining Room at RH Guesthouse",
+    "slug": "the-dining-room-at-rh-guesthouse",
+    "website": "https://rhguesthouse.com/diningroom",
+    "menu_urls": [
+      "https://images.restorationhardware.com/media/menus/GHNY_Dinner.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "The Grill",
+    "slug": "the-grill",
+    "website": "https://thegrillnewyork.com",
+    "menu_urls": [
+      "https://thegrillnewyork.com/#menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "The Lobster Club",
+    "slug": "the-lobster-club",
+    "website": "https://thelobsterclub.com/",
+    "menu_urls": [
+      "https://thelobsterclub.com/#menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "The Musket Room",
+    "slug": "the-musket-room",
+    "website": "https://www.musketroom.com/",
+    "menu_urls": [
+      "https://www.musketroom.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "The River Café",
+    "slug": "the-river-cafe",
+    "website": "https://rivercafe.com/",
+    "menu_urls": [
+      "https://rivercafe.com/dinner-menu/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Theodora",
+    "slug": "theodora",
+    "website": "https://www.theodoranyc.com/",
+    "menu_urls": [
+      "https://www.theodoranyc.com/menu2"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tobalá",
+    "slug": "tobala",
+    "website": "https://www.tobalanyc.com/",
+    "menu_urls": [
+      "https://www.tobalanyc.com/menus/#del-bar/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Tong",
+    "slug": "tong",
+    "website": "https://www.tongbrooklyn.com/",
+    "menu_urls": [
+      "https://www.tongbrooklyn.com/brooklyn-bushwick-tong-food-menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Ulivo",
+    "slug": "ulivo",
+    "website": "https://www.ulivonyc.com/",
+    "menu_urls": [
+      "https://www.ulivonyc.com/menu-1"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Uzuki",
+    "slug": "uzuki",
+    "website": "https://www.uzuki-ny.com/",
+    "menu_urls": [
+      "https://www.uzuki-ny.com/_files/ugd/d740e9_6443a258b35f4e34aa058463807431ef.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Veerays",
+    "slug": "veerays",
+    "website": "https://www.veerays.com/",
+    "menu_urls": [
+      "https://www.veerays.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Via Carota",
+    "slug": "via-carota",
+    "website": "https://www.viacarota.com/",
+    "menu_urls": [
+      "https://www.viacarota.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Wayan",
+    "slug": "wayan",
+    "website": "https://www.wayan-nyc.com/",
+    "menu_urls": [
+      "https://www.wayan-nyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Wenwen",
+    "slug": "wenwen",
+    "website": "https://wenwenbrooklyn.com/",
+    "menu_urls": [
+      "https://www.wenwenbrooklyn.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Wild Cherry",
+    "slug": "wild-cherry",
+    "website": "https://www.wildcherrynyc.com/",
+    "menu_urls": [
+      "https://www.wildcherrynyc.com/menus/"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "abcV",
+    "slug": "abcv",
+    "website": "https://www.abcv.nyc/",
+    "menu_urls": [
+      "https://www.abcv.nyc/menus"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "arthur",
+    "slug": "arthur",
+    "website": "https://www.eatwitharthur.com/",
+    "menu_urls": [
+      "https://www.eatwitharthur.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "il Gigante",
+    "slug": "il-gigante",
+    "website": "https://www.ilgigantenyc.com/",
+    "menu_urls": [
+      "https://www.ilgigantenyc.com/menu"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  },
+  {
+    "name": "Çka Ka Qëllu",
+    "slug": "cka-ka-qellu",
+    "website": "https://ckakaqellu.com/",
+    "menu_urls": [
+      "https://ckakaqellu.com/menu.pdf"
+    ],
+    "chain": "",
+    "status": "none",
+    "mains": 0,
+    "plates": 0
+  }
+]

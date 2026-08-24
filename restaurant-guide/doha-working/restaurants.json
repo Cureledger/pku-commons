@@ -1,0 +1,632 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "doha-qa",
+ "restaurant_count": 16,
+ "restaurants": [
+  {
+   "restaurant_id": "doha-qa/idam-by-alain-ducasse",
+   "city_id": "doha-qa",
+   "slug": "idam-by-alain-ducasse",
+   "name": "IDAM by Alain Ducasse",
+   "website": "https://www.idam.com/",
+   "address": "5th Floor, Museum of Islamic Art, Corniche Promenade, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/idam-by-alain-ducasse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/idam-by-alain-ducasse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/argan",
+   "city_id": "doha-qa",
+   "slug": "argan",
+   "name": "Argan",
+   "website": "https://www.tivolihotels.com/en/souq-waqif-doha/restaurants/argan",
+   "address": "Al Jasra Street, Souq Waqif, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/argan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/argan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Moroccan",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "doha-qa/berenjak-al-maha-island",
+   "city_id": "doha-qa",
+   "slug": "berenjak-al-maha-island",
+   "name": "Berenjak Al Maha Island",
+   "website": "https://berenjak.com/locations/al-maha-island/",
+   "address": "Al Maha Island, Lusail, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/berenjak-al-maha-island"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/berenjak-al-maha-island",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Persian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "doha-qa/fenyal",
+   "city_id": "doha-qa",
+   "slug": "fenyal",
+   "name": "Fenyal",
+   "website": "https://www.instagram.com/fenyal/",
+   "address": "Crystal Walk, Gewen Island, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/fenyal"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/fenyal",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "doha-qa/jiwan",
+   "city_id": "doha-qa",
+   "slug": "jiwan",
+   "name": "Jiwan",
+   "website": "https://www.jiwan.qa/",
+   "address": "4th Floor, National Museum of Qatar, Museum Park Street, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/jiwan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/jiwan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "doha-qa/bayt-sharq",
+   "city_id": "doha-qa",
+   "slug": "bayt-sharq",
+   "name": "Bayt Sharq",
+   "website": "https://www.instagram.com/baytsharq.qa/",
+   "address": "Al Doha Gardens, Al-Sharq Street, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/bayt-sharq"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/bayt-sharq",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "doha-qa/carbone-doha",
+   "city_id": "doha-qa",
+   "slug": "carbone-doha",
+   "name": "Carbone Doha",
+   "website": "https://almahaisland.com/destinations/info/8",
+   "address": "Al Maha Island, Lusail, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/carbone-doha"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/carbone-doha",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian-American",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/dalchini",
+   "city_id": "doha-qa",
+   "slug": "dalchini",
+   "name": "Dalchini",
+   "website": "https://www.dalchinidoha.com/",
+   "address": "Diplomatic Street, West Bay, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/dalchini"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/dalchini",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "doha-qa/em-sherif",
+   "city_id": "doha-qa",
+   "slug": "em-sherif",
+   "name": "Em Sherif",
+   "website": "https://almahaisland.com/destinations/info/9",
+   "address": "Al Maha Island, Lusail, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/em-sherif-1217716"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/em-sherif-1217716",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/gymkhana",
+   "city_id": "doha-qa",
+   "slug": "gymkhana",
+   "name": "Gymkhana",
+   "website": "https://www.instagram.com/gymkhanaqa/",
+   "address": "Katara Hills, Doha LXR Hotels & Resorts, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/gymkhana-1213807"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/gymkhana-1213807",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/liang",
+   "city_id": "doha-qa",
+   "slug": "liang",
+   "name": "Liang",
+   "website": "https://www.mandarinoriental.com/doha/msheireb/fine-dining/restaurant/chinese/liang",
+   "address": "Barahat Msheireb Street, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/liang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/liang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/loris",
+   "city_id": "doha-qa",
+   "slug": "loris",
+   "name": "Loris",
+   "website": "https://www.instagram.com/loris.qa/",
+   "address": "125 Porto Arabia Drive, The Pearl, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/loris"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/loris",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/muru",
+   "city_id": "doha-qa",
+   "slug": "muru",
+   "name": "MURU",
+   "website": "https://www.hilton.com/en/hotels/dohnzwa-waldorf-astoria-doha-west-bay/dining/",
+   "address": "5th Floor, Waldorf Astoria Doha, Al Shaghya Street, West Bay, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/muru-1213808"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/muru-1213808",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/smat",
+   "city_id": "doha-qa",
+   "slug": "smat",
+   "name": "SMAT",
+   "website": "https://www.instagram.com/smatrestaurant/",
+   "address": "Oriental Pearl, Corniche, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/smat"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/smat",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "doha-qa/saasna",
+   "city_id": "doha-qa",
+   "slug": "saasna",
+   "name": "Saasna",
+   "website": "https://www.instagram.com/saasnaqatar/",
+   "address": "Barahat Msheireb Street, Sikkat Al Maiz, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/saasna"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/saasna",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "doha-qa/yun",
+   "city_id": "doha-qa",
+   "slug": "yun",
+   "name": "yūn",
+   "website": "https://www.hilton.com/en/hotels/dohnzwa-waldorf-astoria-doha-west-bay/dining/",
+   "address": "44th Floor, Waldorf Astoria Doha, Al Shaghya Street, West Bay, Doha, Qatar",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/yun-1244210"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/doha-region/doha_2433318/restaurant/yun-1244210",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  }
+ ]
+}

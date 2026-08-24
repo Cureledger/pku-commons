@@ -1,0 +1,531 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Posted menu blocked or would not load. Not shown until the dish list is in hand.",
+ "city_id": "miami-fl-us",
+ "restaurant_count": 14,
+ "restaurants": [
+  {
+   "restaurant_id": "miami-fl-us/hakkasan-miami",
+   "city_id": "miami-fl-us",
+   "slug": "hakkasan-miami",
+   "name": "Hakkasan Miami",
+   "website": "",
+   "address": "Fontainebleau Miami Beach, 4441 Collins Ave., Miami Beach, FL, 33140, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/miami-beach/restaurant/hakkasan-miami"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/miami-beach/restaurant/hakkasan-miami",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "miami-fl-us/shingo",
+   "city_id": "miami-fl-us",
+   "slug": "shingo",
+   "name": "Shingo",
+   "website": "https://www.shingomiami.com/",
+   "address": "112 Alhambra Cir., Coral Gables, FL, 33134, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/florida/coral-gables/restaurant/shingo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/coral-gables/restaurant/shingo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "miami-fl-us/stubborn-seed",
+   "city_id": "miami-fl-us",
+   "slug": "stubborn-seed",
+   "name": "Stubborn Seed",
+   "website": "https://stubbornseed.com/",
+   "address": "101 Washington Ave., Miami Beach, FL, 33139, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/florida/miami-beach/restaurant/stubborn-seed"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/florida/miami-beach/restaurant/stubborn-seed"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/miami-beach/restaurant/stubborn-seed",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "miami-fl-us/el-turco",
+   "city_id": "miami-fl-us",
+   "slug": "el-turco",
+   "name": "El Turco",
+   "website": "https://elturcoturkishfood.com/",
+   "address": "184 N.E. 50th Terr., Miami, FL, 33137, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/miami/restaurant/el-turco"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/miami/restaurant/el-turco",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "miami-fl-us/to-be-determined",
+   "city_id": "miami-fl-us",
+   "slug": "to-be-determined",
+   "name": "To Be Determined",
+   "website": "https://tobe-determined.com/",
+   "address": "2240 S.W. 32nd Ave., Miami, FL, 33145, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/florida/miami/restaurant/to-be-determined"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/miami/restaurant/to-be-determined",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seasonal Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "miami-fl-us/beauty-the-butcher",
+   "city_id": "miami-fl-us",
+   "slug": "beauty-the-butcher",
+   "name": "Beauty & the Butcher",
+   "website": "https://www.beautyandthebutchermiami.com/",
+   "address": "6915 S.W. 57th Ave., S. Red Rd., Coral Gables, FL, 33143, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/coral-gables/restaurant/beauty-the-butcher"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/coral-gables/restaurant/beauty-the-butcher",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "miami-fl-us/elyu-omakase",
+   "city_id": "miami-fl-us",
+   "slug": "elyu-omakase",
+   "name": "Elyu Omakase",
+   "website": "https://elyuomakase.com/",
+   "address": "2626 Ponce de Leon, Unit 3, Coral Gables, FL, 33134, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/florida/coral-gables/restaurant/elyu-omakase"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/florida/coral-gables/restaurant/elyu-omakase",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "miami-fl-us/applebees-miami",
+   "city_id": "miami-fl-us",
+   "slug": "applebees-miami",
+   "name": "Applebee's",
+   "website": "https://www.applebees.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.applebees.com/en/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.applebees.com/en/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "applebees"
+  },
+  {
+   "restaurant_id": "miami-fl-us/outback-miami",
+   "city_id": "miami-fl-us",
+   "slug": "outback-miami",
+   "name": "Outback Steakhouse",
+   "website": "https://www.outback.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.outback.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.outback.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$",
+   "chain": "outback"
+  },
+  {
+   "restaurant_id": "miami-fl-us/true-food-kitchen-miami",
+   "city_id": "miami-fl-us",
+   "slug": "true-food-kitchen-miami",
+   "name": "True Food Kitchen",
+   "website": "https://www.truefoodkitchen.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.truefoodkitchen.com/menu/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.truefoodkitchen.com/menu/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "true-food-kitchen"
+  },
+  {
+   "restaurant_id": "miami-fl-us/north-italia-miami",
+   "city_id": "miami-fl-us",
+   "slug": "north-italia-miami",
+   "name": "North Italia",
+   "website": "https://www.northitalia.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.northitalia.com/locations/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.northitalia.com/locations/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "north-italia"
+  },
+  {
+   "restaurant_id": "miami-fl-us/yard-house-miami",
+   "city_id": "miami-fl-us",
+   "slug": "yard-house-miami",
+   "name": "Yard House",
+   "website": "https://www.yardhouse.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.yardhouse.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.yardhouse.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "yard-house"
+  },
+  {
+   "restaurant_id": "miami-fl-us/capital-grille-miami",
+   "city_id": "miami-fl-us",
+   "slug": "capital-grille-miami",
+   "name": "The Capital Grille",
+   "website": "https://www.thecapitalgrille.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.thecapitalgrille.com/menu/dinner"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.thecapitalgrille.com/menu/dinner"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$",
+   "chain": "capital-grille"
+  },
+  {
+   "restaurant_id": "miami-fl-us/cracker-barrel-miami",
+   "city_id": "miami-fl-us",
+   "slug": "cracker-barrel-miami",
+   "name": "Cracker Barrel",
+   "website": "https://www.crackerbarrel.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.crackerbarrel.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.crackerbarrel.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "cracker-barrel"
+  }
+ ]
+}

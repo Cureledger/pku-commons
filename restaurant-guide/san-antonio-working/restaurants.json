@@ -1,0 +1,296 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Posted menu blocked or would not load. Not shown until the dish list is in hand.",
+ "city_id": "san-antonio-tx-us",
+ "restaurant_count": 8,
+ "restaurants": [
+  {
+   "restaurant_id": "san-antonio-tx-us/garcias-mexican-food",
+   "city_id": "san-antonio-tx-us",
+   "slug": "garcias-mexican-food",
+   "name": "Garcia's Mexican Food",
+   "website": "",
+   "address": "842 Fredericksburg Rd., San Antonio, TX, 78201, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/texas/san-antonio_2958156/restaurant/garcia-s-mexican-food"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/texas/san-antonio_2958156/restaurant/garcia-s-mexican-food",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tex-Mex",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "san-antonio-tx-us/nicosi",
+   "city_id": "san-antonio-tx-us",
+   "slug": "nicosi",
+   "name": "Nicōsi",
+   "website": "https://nicosisatx.com",
+   "address": "221 Newell Ave., San Antonio, TX, 78215, USA",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/texas/san-antonio_2958156/restaurant/nicosi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/texas/san-antonio_2958156/restaurant/nicosi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "san-antonio-tx-us/applebees-san-antonio",
+   "city_id": "san-antonio-tx-us",
+   "slug": "applebees-san-antonio",
+   "name": "Applebee's",
+   "website": "https://www.applebees.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.applebees.com/en/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.applebees.com/en/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "applebees"
+  },
+  {
+   "restaurant_id": "san-antonio-tx-us/outback-san-antonio",
+   "city_id": "san-antonio-tx-us",
+   "slug": "outback-san-antonio",
+   "name": "Outback Steakhouse",
+   "website": "https://www.outback.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.outback.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.outback.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$",
+   "chain": "outback"
+  },
+  {
+   "restaurant_id": "san-antonio-tx-us/north-italia-san-antonio",
+   "city_id": "san-antonio-tx-us",
+   "slug": "north-italia-san-antonio",
+   "name": "North Italia",
+   "website": "https://www.northitalia.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.northitalia.com/locations/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.northitalia.com/locations/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "north-italia"
+  },
+  {
+   "restaurant_id": "san-antonio-tx-us/maggianos-san-antonio",
+   "city_id": "san-antonio-tx-us",
+   "slug": "maggianos-san-antonio",
+   "name": "Maggiano's Little Italy",
+   "website": "https://www.maggianos.com/",
+   "address": "",
+   "menu_urls": [
+    "https://locations.maggianos.com/menus/"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://locations.maggianos.com/menus/"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "Italian",
+   "price_tier": "$$",
+   "chain": "maggianos"
+  },
+  {
+   "restaurant_id": "san-antonio-tx-us/yard-house-san-antonio",
+   "city_id": "san-antonio-tx-us",
+   "slug": "yard-house-san-antonio",
+   "name": "Yard House",
+   "website": "https://www.yardhouse.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.yardhouse.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.yardhouse.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "yard-house"
+  },
+  {
+   "restaurant_id": "san-antonio-tx-us/cracker-barrel-san-antonio",
+   "city_id": "san-antonio-tx-us",
+   "slug": "cracker-barrel-san-antonio",
+   "name": "Cracker Barrel",
+   "website": "https://www.crackerbarrel.com/",
+   "address": "",
+   "menu_urls": [
+    "https://www.crackerbarrel.com/menu"
+   ],
+   "reservation_platform": "",
+   "awards": [],
+   "provenance": {
+    "source": "operator_import",
+    "added_by": "phebe-eats",
+    "added_utc": "2026-08-24T01:43:21+00:00",
+    "citations": [
+     "https://www.crackerbarrel.com/menu"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "US sit-down chain. Menu published by the operator.",
+   "cuisine": "American",
+   "price_tier": "$$",
+   "chain": "cracker-barrel"
+  }
+ ]
+}

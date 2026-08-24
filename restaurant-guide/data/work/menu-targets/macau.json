@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Jade Dragon",
+    "slug": "jade-dragon",
+    "city_id": "macau-mo",
+    "website": "https://www.cityofdreamsmacau.com/en/dining/jade-dragon",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "2F, The Shops at the Boulevard, City of Dreams, Estrada do Istmo, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Robuchon au Dôme",
+    "slug": "robuchon-au-dome",
+    "city_id": "macau-mo",
+    "website": "https://www.grandlisboahotels.com/en/dining/robuchon-au-dome",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "43F, Grand Lisboa Hotel, Avenida de Lisboa, Macau, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alain Ducasse at Morpheus",
+    "slug": "alain-ducasse-at-morpheus",
+    "city_id": "macau-mo",
+    "website": "https://www.cityofdreamsmacau.com/en/dining/alain-ducasse-morpheus",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "3F, Morpheus, City of Dreams, Estrada do Istmo, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Chef Tam's Seasons",
+    "slug": "chef-tams-seasons",
+    "city_id": "macau-mo",
+    "website": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "GF, North Esplanade, Wynn Palace, Avenida da Nave Desportiva, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Feng Wei Ju",
+    "slug": "feng-wei-ju",
+    "city_id": "macau-mo",
+    "website": "https://www.starworldmacau.com/restaurant/feng-wei-ju",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "5F, StarWorld Hotel, Avenida da Amizade, Macau, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Eight",
+    "slug": "the-eight",
+    "city_id": "macau-mo",
+    "website": "https://www.grandlisboahotels.com/en/dining/the-8",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "2F, Grand Lisboa Hotel, Avenida de Lisboa, Macau, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Huaiyang Garden",
+    "slug": "the-huaiyang-garden",
+    "city_id": "macau-mo",
+    "website": "https://www.londonermacao.com/macau-restaurants/huaiyang-garden.html",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Shop 2206a & 2208, 2F, The Londoner, Estrada do Istmo, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Wing Lei",
+    "slug": "wing-lei",
+    "city_id": "macau-mo",
+    "website": "https://www.wynnresortsmacau.com/en/wynn-macau/dining/wing-lei",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "GF, Wynn Hotel, Rua Cidade de Sintra, NAPE, Macau, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "8 1/2 Otto e Mezzo - Bombana",
+    "slug": "8-1-2-otto-e-mezzo-bombana",
+    "city_id": "macau-mo",
+    "website": "https://www.ottoemezzobombana.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop 1031, 1F, The Promenade, Galaxy, Avenida de Cotai, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Aji",
+    "slug": "aji",
+    "city_id": "macau-mo",
+    "website": "https://www.mgm.mo/en/cotai/dining/aji",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "GM Floor, MGM Cotai, Avenida da Nave Desportiva, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Don Alfonso 1890",
+    "slug": "don-alfonso-1890",
+    "city_id": "macau-mo",
+    "website": "https://www.grandlisboapalace.com/en/restaurants-n-bars/don-alfonso-1890",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop 307, 3F, Palazzo Versace, Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Five Foot Road",
+    "slug": "five-foot-road",
+    "city_id": "macau-mo",
+    "website": "https://www.mgm.mo/en/cotai/dining/five-foot-road",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "GF, MGM Cotai, Avenida da Nave Desportiva, Cotai, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lai Heen",
+    "slug": "lai-heen",
+    "city_id": "macau-mo",
+    "website": "https://www.laiheenmacau.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "51F, The Ritz-Carlton, Galaxy, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mizumi",
+    "slug": "mizumi",
+    "city_id": "macau-mo",
+    "website": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/mizumi-wp",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "GF, North Esplanade, Wynn Palace, Avenida da Nave Desportiva, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Palace Garden",
+    "slug": "palace-garden",
+    "city_id": "macau-mo",
+    "website": "https://www.grandlisboapalace.com/en/restaurants-n-bars/palace-garden",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop 306, 3F, Grand Lisboa Palace, Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pearl Dragon",
+    "slug": "pearl-dragon",
+    "city_id": "macau-mo",
+    "website": "https://www.studiocity-macau.com/en/dining/pearl-dragon",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop 2111, 2F, Star Tower, Studio City, Estrada do Istmo, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sushi Kinetsu",
+    "slug": "sushi-kinetsu",
+    "city_id": "macau-mo",
+    "website": "https://www.cityofdreamsmacau.com/en/dining/sushi-kinetsu",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1F, Nüwa, City of Dreams, Estrada do Istmo, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Kissho by Miyakawa",
+    "slug": "sushi-kissho-by-miyakawa",
+    "city_id": "macau-mo",
+    "website": "https://www.raffles.com/macau/dining/Sushi-Kissho-by-Miyakawa",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, Raffles, Galaxy, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ying",
+    "slug": "ying",
+    "city_id": "macau-mo",
+    "website": "https://www.altiramacau.com/en/dining/Ying#All",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "11F, Altira Hotel, Avenida de Kwong Tung, Taipa, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zi Yat Heen",
+    "slug": "zi-yat-heen",
+    "city_id": "macau-mo",
+    "website": "https://www.fourseasons.com/macau/dining/restaurants/zi_yat_heen",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "GF, Four Seasons Hotel, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zuicho",
+    "slug": "zuicho",
+    "city_id": "macau-mo",
+    "website": "https://www.grandlisboapalace.com/en/restaurants-n-bars/zuicho",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop 302, 3F, The Karl Lagerfeld, Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "A Lorcha",
+    "slug": "a-lorcha",
+    "city_id": "macau-mo",
+    "website": "https://www.alorcha.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "289 Rua do Almirante Sergio, Macau, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Justindia",
+    "slug": "justindia",
+    "city_id": "macau-mo",
+    "website": "https://www.justindiamacau.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "GF, Block AK, Edifício Jardim Fu Tat, 59 Rua De Bruxelas, Macau, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Restaurant Litoral (Taipa)",
+    "slug": "restaurant-litoral-taipa",
+    "city_id": "macau-mo",
+    "website": "https://www.restaurantelitoral-taipa.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "No. 53-57, Block 4, Wai Chin Kok, Rua do Regedor, Taipa, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "UTM Educational Restaurant",
+    "slug": "utm-educational-restaurant",
+    "city_id": "macau-mo",
+    "website": "https://www2.utm.edu.mo/RESTAURANT/index.php/en",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "Colina de Mong-Há, Macau, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Albergue 1601",
+    "slug": "albergue-1601",
+    "city_id": "macau-mo",
+    "website": "https://www.albergue1601.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 Calçada da Igreja de São Lázaro, Macau, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chiado",
+    "slug": "chiado",
+    "city_id": "macau-mo",
+    "website": "https://londonermacao.com/macau-restaurants/chiado.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shop 2206, 2F, The Londoner, Estrada do lstmo, Cotai, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Drunken Fish",
+    "slug": "drunken-fish",
+    "city_id": "macau-mo",
+    "website": "https://www.wynnresortsmacau.com/en/wynn-macau/dining/drunken-fish",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F, Wynn Hotel, Rua Cidade de Sintra, NAPE, Macau, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Imperial Court",
+    "slug": "imperial-court",
+    "city_id": "macau-mo",
+    "website": "https://www.mgm.mo/en/macau/dining/imperial-court",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "GF, MGM Macau, Avenida Dr. Sun Yat Sen, NAPE, Macau, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lakeview Palace",
+    "slug": "lakeview-palace",
+    "city_id": "macau-mo",
+    "website": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/lakeview-palace",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "GF, West Esplanade, Wynn Palace, Avenida da Nave Desportiva, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mesa",
+    "slug": "mesa",
+    "city_id": "macau-mo",
+    "website": "https://www.grandlisboapalace.com/en/restaurants-n-bars/mesa",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shop 301, 3F, The Karl Lagerfeld, Grand Lisboa Palace Resort, Rua do Tiro, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pin Yue Xuan",
+    "slug": "pin-yue-xuan",
+    "city_id": "macau-mo",
+    "website": "https://www.venetianmacao.com/restaurants/signature/pin-yue-xuan.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shop 1016, 1F, The Venetian, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Portugália",
+    "slug": "portugalia",
+    "city_id": "macau-mo",
+    "website": "https://www.portugalia.com.mo/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "75 Rua dos Clerigos, Taipa, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "SW Steakhouse",
+    "slug": "sw-steakhouse",
+    "city_id": "macau-mo",
+    "website": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/sw-steakhouse",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "GF, North Esplanade, Wynn Palace, Avenida da Nave Desportiva, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Saffron",
+    "slug": "saffron",
+    "city_id": "macau-mo",
+    "website": "https://www.galaxymacau.com/dining/restaurants/saffron/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "31F, Banyan Tree, Galaxy, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Kitchen",
+    "slug": "the-kitchen",
+    "city_id": "macau-mo",
+    "website": "https://www.grandlisboahotels.com/en/dining/the-kitchen",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Grand Lisboa Hotel, Avenida de Lisboa, Macau, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Mews",
+    "slug": "the-mews",
+    "city_id": "macau-mo",
+    "website": "https://www.londonermacao.com/macau-restaurants/the-mews.html?_ga=2.262843407.2087803095.1763013573-1849608999.1763013573",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F, The Londoner, Estrada do lstmo, Cotai, Macau",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Ritz-Carlton Café",
+    "slug": "the-ritz-carlton-cafe",
+    "city_id": "macau-mo",
+    "website": "https://www.ritzcarltoncafemacau.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "GF, The Ritz-Carlton, Galaxy, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Yi",
+    "slug": "yi",
+    "city_id": "macau-mo",
+    "website": "https://www.cityofdreamsmacau.com/en/dining/yi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "21F, Morpheus, City of Dreams, Estrada do Istmo, Cotai, Macau",
+    "price_tier": "$$$$"
+  }
+]

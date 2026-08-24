@@ -1,0 +1,632 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "oslo-no",
+ "restaurant_count": 16,
+ "restaurants": [
+  {
+   "restaurant_id": "oslo-no/maaemo",
+   "city_id": "oslo-no",
+   "slug": "maaemo",
+   "name": "Maaemo",
+   "website": "https://www.maaemo.no",
+   "address": "Dronning Eufemias gate 23, Oslo, 0194, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/maaemo-1194933"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/maaemo-1194933",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "oslo-no/credo",
+   "city_id": "oslo-no",
+   "slug": "credo",
+   "name": "Credo",
+   "website": "https://www.restaurantcredo.no",
+   "address": "The National Library, Henrik Ibsens Gate 110, Oslo, 0255, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/credo-1248105"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/credo-1248105",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "oslo-no/sabi-omakase-oslo",
+   "city_id": "oslo-no",
+   "slug": "sabi-omakase-oslo",
+   "name": "Sabi Omakase Oslo",
+   "website": "https://www.omakaseoslo.no/",
+   "address": "Ruseløkkveien 3, Oslo, 0251, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/sabi-omakase-oslo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/sabi-omakase-oslo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "oslo-no/stallen",
+   "city_id": "oslo-no",
+   "slug": "stallen",
+   "name": "Stallen",
+   "website": "https://www.restaurantstallen.no/",
+   "address": "Underhaugsveien 28, Oslo, 0354, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/stallen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/stallen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "oslo-no/the-little-pickle",
+   "city_id": "oslo-no",
+   "slug": "the-little-pickle",
+   "name": "The Little Pickle",
+   "website": "https://www.thelittlepickle.no/",
+   "address": "Jens Bjelkes gate 9A, Oslo, 0562, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/the-little-pickle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/the-little-pickle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "oslo-no/betong",
+   "city_id": "oslo-no",
+   "slug": "betong",
+   "name": "Betong",
+   "website": "https://www.restaurantbetong.no",
+   "address": "Operagata 77D, Oslo, 0194, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/betong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/betong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "oslo-no/brasserie-blanche",
+   "city_id": "oslo-no",
+   "slug": "brasserie-blanche",
+   "name": "Brasserie Blanche",
+   "website": "https://www.blanche.no",
+   "address": "Josefinesgate 23, Oslo, 0351, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/brasserie-blanche"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/brasserie-blanche",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "oslo-no/brasserie-hansken",
+   "city_id": "oslo-no",
+   "slug": "brasserie-hansken",
+   "name": "Brasserie Hansken",
+   "website": "https://www.brasseriehansken.no",
+   "address": "Christiania torv 4, Oslo, 0158, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/brasserie-hansken"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/brasserie-hansken",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "oslo-no/cru",
+   "city_id": "oslo-no",
+   "slug": "cru",
+   "name": "Cru",
+   "website": "https://www.cru.no",
+   "address": "Dronning Eufemias gate 6, Oslo, 0191, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/cru"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/cru",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Norwegian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "oslo-no/eero",
+   "city_id": "oslo-no",
+   "slug": "eero",
+   "name": "Eero",
+   "website": "https://www.eero.no",
+   "address": "Henrik Ibsens gate 48, Oslo, 0255, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/eero"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/eero",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "oslo-no/fyr-bistronomi-bar",
+   "city_id": "oslo-no",
+   "slug": "fyr-bistronomi-bar",
+   "name": "FYR Bistronomi & Bar",
+   "website": "https://www.fyrbistronomi.no",
+   "address": "Underhaugsveien 28, Oslo, 0354, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/fyr-bistronomi-bar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/fyr-bistronomi-bar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "oslo-no/festningen-restaurant",
+   "city_id": "oslo-no",
+   "slug": "festningen-restaurant",
+   "name": "Festningen Restaurant",
+   "website": "https://www.festningenrestaurant.no",
+   "address": "Akerhus Fortress, Myntgata 9, Oslo, 0151, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/festningen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/festningen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "oslo-no/izakaya-by-vladimir-pak",
+   "city_id": "oslo-no",
+   "slug": "izakaya-by-vladimir-pak",
+   "name": "Izakaya by Vladimir Pak",
+   "website": "https://izakayabyvladimirpak.omakasegroup.no/",
+   "address": "Kirkegata 1, Oslo, 0153, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/izakaya-by-vladimir-pak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/izakaya-by-vladimir-pak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "oslo-no/kolonialen-bislett",
+   "city_id": "oslo-no",
+   "slug": "kolonialen-bislett",
+   "name": "Kolonialen Bislett",
+   "website": "https://www.kolonialenbislett.no",
+   "address": "Sofies gate 16, Oslo, 0170, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/kolonialen-bislett"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/kolonialen-bislett",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "oslo-no/sjoemagasinet",
+   "city_id": "oslo-no",
+   "slug": "sjoemagasinet",
+   "name": "Sjømagasinet",
+   "website": "https://www.sjomagasinet.no",
+   "address": "Tjuvholmen allé 14, Oslo, 0252, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/tjuvholmen-sjomagasin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/tjuvholmen-sjomagasin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "oslo-no/vaaghals",
+   "city_id": "oslo-no",
+   "slug": "vaaghals",
+   "name": "Vaaghals",
+   "website": "https://www.vaaghals.com",
+   "address": "Dronning Eufemias gate 8, Oslo, 0191, Norway",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/oslo-region/oslo/restaurant/vaaghals"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/oslo-region/oslo/restaurant/vaaghals",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Scandinavian",
+   "price_tier": "$$"
+  }
+ ]
+}

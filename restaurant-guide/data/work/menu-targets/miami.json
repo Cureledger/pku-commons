@@ -1,0 +1,689 @@
+[
+  {
+    "name": "L'Atelier de Joël Robuchon Miami",
+    "slug": "latelier-de-joel-robuchon-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://latelier-miami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "151 N.E. 41st St., Miami, FL, 33137, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ariete",
+    "slug": "ariete",
+    "city_id": "miami-fl-us",
+    "website": "https://arietecoconutgrove.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3540 Main Hwy., Miami, FL, 33133, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Boia De",
+    "slug": "boia-de",
+    "city_id": "miami-fl-us",
+    "website": "https://www.boiaderestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5205 N.E. 2nd Ave., Miami, FL, 33137, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cote Miami",
+    "slug": "cote-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://cotemiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3900 N.E. 2nd Ave., Miami, FL, 33137, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Elcielo Miami",
+    "slug": "elcielo-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://elcielomiami.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "31 S.E. 5th St., Miami, FL, 33131, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hiden",
+    "slug": "hiden",
+    "city_id": "miami-fl-us",
+    "website": "https://hidenmiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "313 N.W. 25th St., Miami, FL, 33127, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Jardinier Miami",
+    "slug": "le-jardinier-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://lejardinier-miami.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "151 N.E. 41st St., Ste. 135, Miami, FL, 33137, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Los Félix",
+    "slug": "los-felix",
+    "city_id": "miami-fl-us",
+    "website": "https://www.losfelixmiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "3413 Main Hwy., Miami, FL, 33133, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ogawa",
+    "slug": "ogawa",
+    "city_id": "miami-fl-us",
+    "website": "https://www.ogawamiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "7223 N.W. 2nd Ave., Miami, FL, 33150, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shingo",
+    "slug": "shingo",
+    "city_id": "miami-fl-us",
+    "website": "https://www.shingomiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "112 Alhambra Cir., Coral Gables, FL, 33134, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Stubborn Seed",
+    "slug": "stubborn-seed",
+    "city_id": "miami-fl-us",
+    "website": "https://stubbornseed.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "101 Washington Ave., Miami Beach, FL, 33139, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tambourine Room by Tristan Brandt",
+    "slug": "tambourine-room-by-tristan-brandt",
+    "city_id": "miami-fl-us",
+    "website": "https://www.carillonhotel.com/en/dining/tambourine-room-by-tristan-brandt/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Carillon Miami Wellness Resort, 6801 Collins Ave., Miami Beach, FL, 33141, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bachour",
+    "slug": "bachour",
+    "city_id": "miami-fl-us",
+    "website": "https://www.antoniobachour.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2020 Salzedo St., Ste. 103, Miami, FL, 33134, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chug's Diner",
+    "slug": "chugs-diner",
+    "city_id": "miami-fl-us",
+    "website": "https://chugsdiner.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3444 Main Hwy., Ste. 21, Miami, FL, 33133, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Double Luck",
+    "slug": "double-luck",
+    "city_id": "miami-fl-us",
+    "website": "https://double-luck-miami.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1085 N.E. 79th St., Miami, FL, 33138, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "El Turco",
+    "slug": "el-turco",
+    "city_id": "miami-fl-us",
+    "website": "https://elturcoturkishfood.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "184 N.E. 50th Terr., Miami, FL, 33137, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ghee Indian Kitchen",
+    "slug": "ghee-indian-kitchen",
+    "city_id": "miami-fl-us",
+    "website": "https://www.gheemiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "8965 S.W. 72nd Pl., Miami, FL, 33156, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hometown Barbecue Miami",
+    "slug": "hometown-barbecue-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://hometownbbqmiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1200 N.W. 22nd St., #100, Miami, FL, 33142, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Natural",
+    "slug": "la-natural",
+    "city_id": "miami-fl-us",
+    "website": "https://www.lanaturalmiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "7289 N.W. 2nd Ave., Miami, FL, 33150, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lucali",
+    "slug": "lucali",
+    "city_id": "miami-fl-us",
+    "website": "https://www.lucali.com/location/lucali-miami/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1930 Bay Rd., Miami Beach, FL, 33139, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mandolin Aegean Bistro",
+    "slug": "mandolin-aegean-bistro",
+    "city_id": "miami-fl-us",
+    "website": "https://www.mandolinrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4312 N.E. 2nd Ave., Miami, FL, 33137, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Michael's Genuine",
+    "slug": "michaels-genuine",
+    "city_id": "miami-fl-us",
+    "website": "https://michaelsgenuine.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "130 N.E. 40th St., Miami, FL, 33137, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Phuc Yea",
+    "slug": "phuc-yea",
+    "city_id": "miami-fl-us",
+    "website": "https://www.phucyea.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "7100 Biscayne Blvd., Miami, FL, 33138, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sanguich De Miami",
+    "slug": "sanguich-de-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://sanguich.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2057 S.W. 8th St., Miami, FL, 33135, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tam Tam",
+    "slug": "tam-tam",
+    "city_id": "miami-fl-us",
+    "website": "https://www.tam-tam-mia.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "99 N.W. 1st St., Miami, FL, 33128, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tinta y Cafe",
+    "slug": "tinta-y-cafe",
+    "city_id": "miami-fl-us",
+    "website": "https://www.tintaycafe.co/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1315 Ponce De Leon Blvd., Coral Gables, FL, 33134, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "To Be Determined",
+    "slug": "to-be-determined",
+    "city_id": "miami-fl-us",
+    "website": "https://tobe-determined.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2240 S.W. 32nd Ave., Miami, FL, 33145, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zitz Sum",
+    "slug": "zitz-sum",
+    "city_id": "miami-fl-us",
+    "website": "https://www.zitzsum.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "396 Alhambra Cir., Ste. 155, Coral Gables, FL, 33134, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Beauty & the Butcher",
+    "slug": "beauty-the-butcher",
+    "city_id": "miami-fl-us",
+    "website": "https://www.beautyandthebutchermiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6915 S.W. 57th Ave., S. Red Rd., Coral Gables, FL, 33143, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bistro Ocho",
+    "slug": "bistro-ocho",
+    "city_id": "miami-fl-us",
+    "website": "https://www.bistro8miami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2069 S.W. 8th St., Miami, FL, 33135, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cafe La Trova",
+    "slug": "cafe-la-trova",
+    "city_id": "miami-fl-us",
+    "website": "https://www.cafelatrova.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "971 S.W. 8th St., Miami, FL, 33130, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Elyu Omakase",
+    "slug": "elyu-omakase",
+    "city_id": "miami-fl-us",
+    "website": "https://elyuomakase.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2626 Ponce de Leon, Unit 3, Coral Gables, FL, 33134, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Estiatorio Milos",
+    "slug": "estiatorio-milos",
+    "city_id": "miami-fl-us",
+    "website": "https://www.estiatoriomilos.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "730 1st St., Miami Beach, FL, 33139, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hiyakawa Miami",
+    "slug": "hiyakawa-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://www.hiyakawamiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2700 N. Miami Ave., #5, Miami, FL, 33127, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Joe's Stone Crab",
+    "slug": "joes-stone-crab",
+    "city_id": "miami-fl-us",
+    "website": "https://www.joesstonecrab.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 Washington Ave., Miami Beach, FL, 33139, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kaori",
+    "slug": "kaori",
+    "city_id": "miami-fl-us",
+    "website": "https://www.kaorimiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "871 S. Miami Ave., Miami, FL, 33130, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kojin 2.0",
+    "slug": "kojin-2-0",
+    "city_id": "miami-fl-us",
+    "website": "https://www.kojin2.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "804 Ponce de Leon, Coral Gables, FL, 33134, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Krüs Kitchen",
+    "slug": "krus-kitchen",
+    "city_id": "miami-fl-us",
+    "website": "https://www.kruskitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "3413 Main Hwy., Miami, FL, 33133, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Los Fuegos by Francis Mallmann",
+    "slug": "los-fuegos-by-francis-mallmann",
+    "city_id": "miami-fl-us",
+    "website": "https://www.faena.com/miami-beach/dining/los-fuegos-by-francis-mallmann",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Faena Hotel Miami Beach, 3201 Collins Ave., Miami Beach, FL, 33140, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lung Yai Thai Tapas",
+    "slug": "lung-yai-thai-tapas",
+    "city_id": "miami-fl-us",
+    "website": "https://lungyai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1731 S.W. 8th St., Miami, FL, 33135, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Macchialina",
+    "slug": "macchialina",
+    "city_id": "miami-fl-us",
+    "website": "https://www.macchialina.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "820 Alton Rd., Miami Beach, FL, 33139, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mano Libera",
+    "slug": "mano-libera",
+    "city_id": "miami-fl-us",
+    "website": "https://www.manoliberamiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7201 S.W. 59th Ave., Miami, FL, 33143, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mister O1 Extraordinary Pizza",
+    "slug": "mister-o1-extraordinary-pizza",
+    "city_id": "miami-fl-us",
+    "website": "https://www.mistero1.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1680 Michigan Ave., Ste. 101, Miami Beach, FL, 33139, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Niu Kitchen",
+    "slug": "niu-kitchen",
+    "city_id": "miami-fl-us",
+    "website": "https://www.niukitchen.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "104 N.E. 2nd Ave., Miami, FL, 33132, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ossobuco",
+    "slug": "ossobuco",
+    "city_id": "miami-fl-us",
+    "website": "https://ossobuco.miami/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sentral Wynwood, 62 N.W. 27th St., Miami, FL, 33127, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Palma",
+    "slug": "palma",
+    "city_id": "miami-fl-us",
+    "website": "https://www.eatpalma.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "240 N.W. 8th Ave., Miami, FL, 33128, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pao by Paul Qui",
+    "slug": "pao-by-paul-qui",
+    "city_id": "miami-fl-us",
+    "website": "https://www.faena.com/miami-beach/dining/pao-by-paul-qui",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Faena Hotel Miami Beach, 3201 Collins Ave., Miami Beach, FL, 33140, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Recoveco",
+    "slug": "recoveco",
+    "city_id": "miami-fl-us",
+    "website": "https://recovecorestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6000 S.W. 74th St., Ste. 1, Miami, FL, 33143, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sunny’s Steakhouse",
+    "slug": "sunnys-steakhouse",
+    "city_id": "miami-fl-us",
+    "website": "https://sunnysmia.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7357 N.W. Miami Ct., Miami, FL, 33150, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Yasu Tanaka",
+    "slug": "sushi-yasu-tanaka",
+    "city_id": "miami-fl-us",
+    "website": "https://www.miamarket.com/sushi-yasu-tanaka",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "140 N.E. 39th St., Ste. 241, Miami, FL, 33137, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taquiza",
+    "slug": "taquiza",
+    "city_id": "miami-fl-us",
+    "website": "https://www.taquizatacos.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Broadmore Miami Beach, 7450 Ocean Terrace, Miami Beach, FL, 33141, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "The Den at Azabu Miami Beach",
+    "slug": "the-den-at-azabu-miami-beach",
+    "city_id": "miami-fl-us",
+    "website": "https://www.azabumiami.com/the-den",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marriott Stanton South Beach, 161 Ocean Dr., Miami Beach, FL, 33139, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Gibson Room",
+    "slug": "the-gibson-room",
+    "city_id": "miami-fl-us",
+    "website": "https://thegibsonroommiami.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2224 S.W. 22nd St., Miami, FL, 33145, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Torno Subito Miami",
+    "slug": "torno-subito-miami",
+    "city_id": "miami-fl-us",
+    "website": "https://tornosubitomia.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "191 N.E. 40th St., Miami, FL, 33137, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "ViceVersa",
+    "slug": "viceversa",
+    "city_id": "miami-fl-us",
+    "website": "https://viceversamia.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Elser Hotel, 398 N.E. 5th St., Miami, FL, 33132, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Walrus Rodeo",
+    "slug": "walrus-rodeo",
+    "city_id": "miami-fl-us",
+    "website": "https://www.walrusrodeo.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5143 N.E. 2nd Ave., Miami, FL, 33137, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zak The Baker",
+    "slug": "zak-the-baker",
+    "city_id": "miami-fl-us",
+    "website": "https://zakthebaker.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "295 N.W. 26th St., Miami, FL, 33127, USA",
+    "price_tier": "$"
+  }
+]

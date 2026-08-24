@@ -1,0 +1,5795 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "seoul-kr",
+ "restaurant_count": 148,
+ "restaurants": [
+  {
+   "restaurant_id": "seoul-kr/mitou",
+   "city_id": "seoul-kr",
+   "slug": "mitou",
+   "name": "Mitou",
+   "website": "",
+   "address": "24 Dosan-daero 70-gil, Gangnam-gu, Seoul, 06064, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mitou"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mitou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mitou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sosuheon",
+   "city_id": "seoul-kr",
+   "slug": "sosuheon",
+   "name": "Sosuheon",
+   "website": "",
+   "address": "8 Mallijae-ro 21-gil, Jung-gu, Seoul, 04500, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sosuheon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sosuheon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/escondido",
+   "city_id": "seoul-kr",
+   "slug": "escondido",
+   "name": "Escondido",
+   "website": "",
+   "address": "B1F, 61-7 Hannam-daero 20-gil, Yongsan-gu, Seoul, 04419, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/escondido"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/escondido",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/exquisine",
+   "city_id": "seoul-kr",
+   "slug": "exquisine",
+   "name": "Exquisine",
+   "website": "",
+   "address": "6 Samseong-ro 140-gil, Gangnam-gu, Seoul, 06073, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/exquisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/exquisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/gaggen-by-choi-junho",
+   "city_id": "seoul-kr",
+   "slug": "gaggen-by-choi-junho",
+   "name": "GAGGEN by Choi Junho",
+   "website": "",
+   "address": "2F, 19-1 Apgujeong-ro 80-gil, Gangnam-gu, Seoul, 06015, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gaggen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gaggen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/gigas",
+   "city_id": "seoul-kr",
+   "slug": "gigas",
+   "name": "Gigas",
+   "website": "",
+   "address": "3F, 30 Toegye-ro 6ga-gil, Jung-gu, Seoul, 04635, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gigas"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gigas"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gigas",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/goryori-ken",
+   "city_id": "seoul-kr",
+   "slug": "goryori-ken",
+   "name": "Goryori Ken",
+   "website": "",
+   "address": "2F, 15-3 Eonju-ro 152-gil, Gangnam-gu, Seoul, 06021, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/goryori-ken"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/goryori-ken",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/hakusi",
+   "city_id": "seoul-kr",
+   "slug": "hakusi",
+   "name": "Hakusi",
+   "website": "",
+   "address": "2F, 8-4 Eonju-ro 157-gil, Gangnam-gu, Seoul, 06024, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hakusi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hakusi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/lamitie",
+   "city_id": "seoul-kr",
+   "slug": "lamitie",
+   "name": "L'Amitié",
+   "website": "",
+   "address": "2F, 30 Dosan-daero 67-gil, Gangnam-gu, Seoul, 06015, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-amitie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-amitie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/muni",
+   "city_id": "seoul-kr",
+   "slug": "muni",
+   "name": "Muni",
+   "website": "",
+   "address": "16 Dosan-daero 72-gil, Gangnam-gu, Seoul, 06063, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/muni"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/muni",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/onjium",
+   "city_id": "seoul-kr",
+   "slug": "onjium",
+   "name": "Onjium",
+   "website": "",
+   "address": "4F, 49 Hyoja-ro, Jongno-gu, Seoul, 03043, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/onjium"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/onjium",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/soseoul-hannam",
+   "city_id": "seoul-kr",
+   "slug": "soseoul-hannam",
+   "name": "Soseoul Hannam",
+   "website": "",
+   "address": "B1F, 21-18 Hannam-daero 20-gil, Yongsan-gu, Seoul, 04419, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soseoul-hannam"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soseoul-hannam",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/soul",
+   "city_id": "seoul-kr",
+   "slug": "soul",
+   "name": "Soul",
+   "website": "",
+   "address": "B1F, 35 Sinheung-ro 26-gil, Yongsan-gu, Seoul, 04337, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soul-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soul-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sushi-matsumoto",
+   "city_id": "seoul-kr",
+   "slug": "sushi-matsumoto",
+   "name": "Sushi Matsumoto",
+   "website": "",
+   "address": "24 Dosan-daero 75-gil, Gangnam-gu, Seoul, 06015, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sushi-matsumoto-1195338"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sushi-matsumoto-1195338",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/tutoiement",
+   "city_id": "seoul-kr",
+   "slug": "tutoiement",
+   "name": "Tutoiement",
+   "website": "",
+   "address": "20 Gwangnaru-ro 11-gil, Seongdong-gu, Seoul, 04801, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/tutoiement"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/tutoiement",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/yun",
+   "city_id": "seoul-kr",
+   "slug": "yun",
+   "name": "YUN",
+   "website": "",
+   "address": "805 Seolleung-ro, Gangnam-gu, Seoul, 06019, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yun"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yun",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/zero-complex",
+   "city_id": "seoul-kr",
+   "slug": "zero-complex",
+   "name": "Zero Complex",
+   "website": "",
+   "address": "11-8 Seobinggo-ro 59-gil, Yongsan-gu, Seoul, 04384, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/zero-complex"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/zero-complex",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/3rd-samgyetang",
+   "city_id": "seoul-kr",
+   "slug": "3rd-samgyetang",
+   "name": "3rd Samgyetang",
+   "website": "",
+   "address": "56-3 Banpo-daero 28-gil, Seocho-gu, Seoul, 06646, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/3rd-samgyetang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/3rd-samgyetang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Samgyetang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/alt-a",
+   "city_id": "seoul-kr",
+   "slug": "alt-a",
+   "name": "ALT.a",
+   "website": "",
+   "address": "109 Bogwang-ro, Yongsan-gu, Seoul, 04391, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/alt-a"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/alt-a",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/andeok",
+   "city_id": "seoul-kr",
+   "slug": "andeok",
+   "name": "Andeok",
+   "website": "",
+   "address": "18 Jahamun-ro 17-gil, Jongno-gu, Seoul, 03035, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/andeok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/andeok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/base-is-nice",
+   "city_id": "seoul-kr",
+   "slug": "base-is-nice",
+   "name": "Base is nice",
+   "website": "",
+   "address": "20 Dohwa 2-gil, Mapo-gu, Seoul, 04171, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/base-is-nice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/base-is-nice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/daesungjip",
+   "city_id": "seoul-kr",
+   "slug": "daesungjip",
+   "name": "Daesungjip",
+   "website": "",
+   "address": "5 Sajik-ro, Jongno-gu, Seoul, 03029, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/daesungjip"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/daesungjip",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Doganitang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/damtaek",
+   "city_id": "seoul-kr",
+   "slug": "damtaek",
+   "name": "Damtaek",
+   "website": "",
+   "address": "51 Donggyo-ro 12an-gil, Mapo-gu, Seoul, 04029, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/damtaek"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/damtaek",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/geumdwaeji-sikdang",
+   "city_id": "seoul-kr",
+   "slug": "geumdwaeji-sikdang",
+   "name": "Geumdwaeji Sikdang",
+   "website": "",
+   "address": "149 Dasan-ro, Jung-gu, Seoul, 04607, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/ggupdang",
+   "city_id": "seoul-kr",
+   "slug": "ggupdang",
+   "name": "Ggupdang",
+   "website": "",
+   "address": "615 Gangnam-daero, Seocho-gu, Seoul, 06524, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/ggupdang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/ggupdang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/gomtang-lab",
+   "city_id": "seoul-kr",
+   "slug": "gomtang-lab",
+   "name": "Gomtang Lab",
+   "website": "",
+   "address": "10F, Hyundai Department Store, 517 Teheran-ro, Gangnam-gu, Seoul, 06164, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gomtang-lab"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gomtang-lab",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gomtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/gosari-express",
+   "city_id": "seoul-kr",
+   "slug": "gosari-express",
+   "name": "Gosari Express",
+   "website": "",
+   "address": "12-10, Toegye-ro 85-gil, Jung-gu, Seoul, 04576, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gosari-express"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gosari-express"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gosari-express",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/horapa",
+   "city_id": "seoul-kr",
+   "slug": "horapa",
+   "name": "HORAPA",
+   "website": "",
+   "address": "2F, 37-1 Jahamun-ro, Jongno-gu, Seoul, 03040, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/horapa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/horapa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/halmaejip",
+   "city_id": "seoul-kr",
+   "slug": "halmaejip",
+   "name": "Halmaejip",
+   "website": "",
+   "address": "1-5 Sajik-ro 12-gil, Jongno-gu, Seoul, 03169, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/halmaejip"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/halmaejip",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/hapjeongok",
+   "city_id": "seoul-kr",
+   "slug": "hapjeongok",
+   "name": "Hapjeongok",
+   "website": "",
+   "address": "2F, 21 Yanghwa-ro 1-gil, Mapo-gu, Seoul, 04026, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hapjeongok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hapjeongok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gomtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/hwa-hae-dang",
+   "city_id": "seoul-kr",
+   "slug": "hwa-hae-dang",
+   "name": "Hwa Hae Dang",
+   "website": "",
+   "address": "15 Gukhoe-daero 62-gil, Yeongdeungpo-gu, Seoul, 07236, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwa-hae-dang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwa-hae-dang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gejang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/hwanggeum-kongbat",
+   "city_id": "seoul-kr",
+   "slug": "hwanggeum-kongbat",
+   "name": "Hwanggeum Kongbat",
+   "website": "",
+   "address": "9 Mapo-daero 16-gil, Mapo-gu, Seoul, 04205, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwanggeum-kongbat"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwanggeum-kongbat",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dubu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/hwangsaengga-kalguksu",
+   "city_id": "seoul-kr",
+   "slug": "hwangsaengga-kalguksu",
+   "name": "Hwangsaengga Kalguksu",
+   "website": "",
+   "address": "78 Bukchon-ro 5-gil, Jongno-gu, Seoul, 03053, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Kalguksu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jeongmyeon",
+   "city_id": "seoul-kr",
+   "slug": "jeongmyeon",
+   "name": "Jeongmyeon",
+   "website": "",
+   "address": "88 Neungdong-ro 13-gil, Gwangjin-gu, Seoul, 05012, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jeongmyeon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jeongmyeon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jin-jin",
+   "city_id": "seoul-kr",
+   "slug": "jin-jin",
+   "name": "Jin Jin",
+   "website": "",
+   "address": "60 World Cup buk-ro 1-gil, Mapo-gu, Seoul, 04031, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jin-jin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jin-jin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jungin-myeonok",
+   "city_id": "seoul-kr",
+   "slug": "jungin-myeonok",
+   "name": "Jungin Myeonok",
+   "website": "",
+   "address": "10 Gukhoe-daero 76-gil, Yeongdeungpo-gu, Seoul, 07238, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jungin-myeonok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jungin-myeonok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/kyewol",
+   "city_id": "seoul-kr",
+   "slug": "kyewol",
+   "name": "Kyewol",
+   "website": "",
+   "address": "8 Seongdeokjeong 3-gil, Seongdong-gu, Seoul, 04774, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kyewol-gomtang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kyewol-gomtang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gomtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/kyodaiya",
+   "city_id": "seoul-kr",
+   "slug": "kyodaiya",
+   "name": "Kyodaiya",
+   "website": "",
+   "address": "39 Seongji-gil, Mapo-gu, Seoul, 04083, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kyodaiya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kyodaiya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Udon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/limbyungjoo-sandong-kalguksu",
+   "city_id": "seoul-kr",
+   "slug": "limbyungjoo-sandong-kalguksu",
+   "name": "Limbyungjoo Sandong Kalguksu",
+   "website": "",
+   "address": "65 Gangnam-daero 37-gil, Seocho-gu, Seoul, 06734, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/limbyungjoo-sandong-kalguksu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/limbyungjoo-sandong-kalguksu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Kalguksu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mandujip",
+   "city_id": "seoul-kr",
+   "slug": "mandujip",
+   "name": "Mandujip",
+   "website": "",
+   "address": "338 Apgujeong-ro, Gangnam-gu, Seoul, 06018, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mandujip"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mandujip",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mandu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mapo-ok",
+   "city_id": "seoul-kr",
+   "slug": "mapo-ok",
+   "name": "Mapo Ok",
+   "website": "",
+   "address": "312 Tojeong-ro, Mapo-gu, Seoul, 04165, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mapo-ok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mapo-ok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seolleongtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mattdol",
+   "city_id": "seoul-kr",
+   "slug": "mattdol",
+   "name": "Mattdol",
+   "website": "",
+   "address": "63 Seongdeokjeong-gil, Seongdong-gu, Seoul, 04775, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mattdol"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mattdol",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mijin",
+   "city_id": "seoul-kr",
+   "slug": "mijin",
+   "name": "Mijin",
+   "website": "",
+   "address": "#116-2 le Meilleur Jongno town, 19 Jong-ro, Jongno-gu, Seoul, 03157, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mijin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mijin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Memil-guksu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mipildam",
+   "city_id": "seoul-kr",
+   "slug": "mipildam",
+   "name": "Mipildam",
+   "website": "",
+   "address": "22 Seongji 3-gil, Mapo-gu, Seoul, 04083, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mipildam"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mipildam",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mandu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/myeon-seoul",
+   "city_id": "seoul-kr",
+   "slug": "myeon-seoul",
+   "name": "Myeon Seoul",
+   "website": "",
+   "address": "805 Seolleung-ro, Gangnam-gu, Seoul, 06019, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeon-seoul"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeon-seoul",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/neungdong-minari",
+   "city_id": "seoul-kr",
+   "slug": "neungdong-minari",
+   "name": "Neungdong Minari",
+   "website": "",
+   "address": "28 Hangang-daero 40-gil, Yongsan-gu, Seoul, 04386, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/neungdong-minari"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/neungdong-minari",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gomtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/nishimuramen",
+   "city_id": "seoul-kr",
+   "slug": "nishimuramen",
+   "name": "Nishimuramen",
+   "website": "",
+   "address": "4F, 265 Donggyo-ro, Mapo-gu, Seoul, 03983, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/nishimuramen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/nishimuramen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/oilje",
+   "city_id": "seoul-kr",
+   "slug": "oilje",
+   "name": "Oilje",
+   "website": "",
+   "address": "29 Hangang-daero 62da-gil, Yongsan-gu, Seoul, 04382, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oilje"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oilje",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/okdol-heyonok",
+   "city_id": "seoul-kr",
+   "slug": "okdol-heyonok",
+   "name": "Okdol Heyonok",
+   "website": "",
+   "address": "26-1 Ogeum-ro 36-gil, Songpa-gu, Seoul, 05700, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/okdol-heyonok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/okdol-heyonok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/pildong-myeonok",
+   "city_id": "seoul-kr",
+   "slug": "pildong-myeonok",
+   "name": "Pildong Myeonok",
+   "website": "",
+   "address": "26 Seoae-ro, Jung-gu, Seoul, 04624, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pildong-myeonok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pildong-myeonok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/samcheongdong-sujebi",
+   "city_id": "seoul-kr",
+   "slug": "samcheongdong-sujebi",
+   "name": "Samcheongdong Sujebi",
+   "website": "",
+   "address": "101-1 Samcheong-ro, Jongno-gu, Seoul, 03049, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/samcheongdong-sujebi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/samcheongdong-sujebi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sujebi",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sarukame",
+   "city_id": "seoul-kr",
+   "slug": "sarukame",
+   "name": "Sarukame",
+   "website": "",
+   "address": "15 Yeonnam-ro, Mapo-gu, Seoul, 03990, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sarukame"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sarukame",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/seokyonanmyunbang",
+   "city_id": "seoul-kr",
+   "slug": "seokyonanmyunbang",
+   "name": "Seokyonanmyunbang",
+   "website": "",
+   "address": "16 Donggyo-ro 12-gil, Mapo-gu, Seoul, 04029, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seokyonanmyunbang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seokyonanmyunbang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/seoryung",
+   "city_id": "seoul-kr",
+   "slug": "seoryung",
+   "name": "Seoryung",
+   "website": "",
+   "address": "10 Sowol-ro, Jung-gu, Seoul, 04527, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoryung"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoryung",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Memil-guksu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sobakeeri-suzu",
+   "city_id": "seoul-kr",
+   "slug": "sobakeeri-suzu",
+   "name": "Sobakeeri Suzu",
+   "website": "",
+   "address": "98 Dongho-ro 12-gil, Jung-gu, Seoul, 04608, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sobakeeri-suzu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sobakeeri-suzu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Soba",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/subaru",
+   "city_id": "seoul-kr",
+   "slug": "subaru",
+   "name": "Subaru",
+   "website": "",
+   "address": "7 Bangbae-jungangno 21-gil, Seocho-gu, Seoul, 06560, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/subaru"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/subaru",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Soba",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/woo-lae-oak",
+   "city_id": "seoul-kr",
+   "slug": "woo-lae-oak",
+   "name": "Woo Lae Oak",
+   "website": "",
+   "address": "62-29 Changgyeonggung-ro, Jung-gu, Seoul, 04546, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/yangyang-memil-makguksu",
+   "city_id": "seoul-kr",
+   "slug": "yangyang-memil-makguksu",
+   "name": "Yangyang Memil Makguksu",
+   "website": "",
+   "address": "10 Donggwang-ro 15-gil, Seocho-gu, Seoul, 06561, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yangyang-memil-makguksu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yangyang-memil-makguksu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Memil-guksu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/yonggeumok",
+   "city_id": "seoul-kr",
+   "slug": "yonggeumok",
+   "name": "Yonggeumok",
+   "website": "",
+   "address": "41-2 Jahamun-ro, Jongno-gu, Seoul, 03036, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yonggeumok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yonggeumok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chueotang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/youhan",
+   "city_id": "seoul-kr",
+   "slug": "youhan",
+   "name": "Youhan",
+   "website": "",
+   "address": "10-5 Daesagwan-ro 5-gil, Yongsan-gu, Seoul, 04400, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/youhan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/youhan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/yurimmyeon",
+   "city_id": "seoul-kr",
+   "slug": "yurimmyeon",
+   "name": "Yurimmyeon",
+   "website": "",
+   "address": "139-1 Seosomun-ro, Jung-gu, Seoul, 04515, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yurimmyeon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yurimmyeon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Memil-guksu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/a-laise",
+   "city_id": "seoul-kr",
+   "slug": "a-laise",
+   "name": "A L'AISE",
+   "website": "",
+   "address": "89 Dokseodang-ro, Yongsan-gu, Seoul, 04419, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/al-aise"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/al-aise",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/aelgerizm",
+   "city_id": "seoul-kr",
+   "slug": "aelgerizm",
+   "name": "Aelgerizm",
+   "website": "",
+   "address": "2F, 8 Dosan-daero 49-gil, Gangnam-gu, Seoul, 06019, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/aelgerizm"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/aelgerizm",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/au-bouillon",
+   "city_id": "seoul-kr",
+   "slug": "au-bouillon",
+   "name": "Au Bouillon",
+   "website": "",
+   "address": "29-1 Dokseodang-ro 51-gil, Seongdong-gu, Seoul, 04718, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/au-bouillon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/au-bouillon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/bistrot-de-yountville",
+   "city_id": "seoul-kr",
+   "slug": "bistrot-de-yountville",
+   "name": "Bistrot de Yountville",
+   "website": "",
+   "address": "13-7 Seolleung-ro 158-gil, Gangnam-gu, Seoul, 06014, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bistrot-de-yountville"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bistrot-de-yountville",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/boreumsae",
+   "city_id": "seoul-kr",
+   "slug": "boreumsae",
+   "name": "Boreumsae",
+   "website": "",
+   "address": "36 Teheran-ro 81-gil, Gangnam-gu, Seoul, 06167, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/boreumsae"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/boreumsae",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/borgo-hannam",
+   "city_id": "seoul-kr",
+   "slug": "borgo-hannam",
+   "name": "Borgo Hannam",
+   "website": "",
+   "address": "3F, 31 Itaewon-ro 54-gil, Yongsan-gu, Seoul, 04400, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/borgo-hannam"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/borgo-hannam",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/cantique",
+   "city_id": "seoul-kr",
+   "slug": "cantique",
+   "name": "Cantique",
+   "website": "",
+   "address": "24 Dosan-daero 55-gil, Gangnam-gu, Seoul, 06014, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/original-numbers"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/original-numbers",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/chaconne",
+   "city_id": "seoul-kr",
+   "slug": "chaconne",
+   "name": "Chaconne",
+   "website": "",
+   "address": "1F, Building 102, Yeoksam Hills, 23 Nonhyeon-ro 97-gil, Gangnam-gu, Seoul, 06131, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chaconne"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chaconne",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/chez-nous-private-kitchen",
+   "city_id": "seoul-kr",
+   "slug": "chez-nous-private-kitchen",
+   "name": "Chez Nous Private Kitchen",
+   "website": "",
+   "address": "3F, 210-6 Noksapyeong-Daero, Yongsan-gu, Seoul, 04345, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chez-nous"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chez-nous",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/chez-simon",
+   "city_id": "seoul-kr",
+   "slug": "chez-simon",
+   "name": "Chez Simon",
+   "website": "",
+   "address": "3F, 66 Hoenamu-ro, Yongsan-gu, Seoul, 04003, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chez-simon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chez-simon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/doori",
+   "city_id": "seoul-kr",
+   "slug": "doori",
+   "name": "Doori",
+   "website": "",
+   "address": "27 Wonhyo-ro 63-gil, Yongsan-gu, Seoul, 04364, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/doori"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/doori",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/elpic",
+   "city_id": "seoul-kr",
+   "slug": "elpic",
+   "name": "ELPIC",
+   "website": "",
+   "address": "25 Dosan-daero 78-gil, Gangnam-gu, Seoul, 06063, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/elpic"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/elpic",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/egg-flour",
+   "city_id": "seoul-kr",
+   "slug": "egg-flour",
+   "name": "Egg & Flour",
+   "website": "",
+   "address": "2F, 35 Shinheung-ro 26-gil, Yongsan-gu, Seoul, 04337, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/egg-flour"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/egg-flour",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/fuje",
+   "city_id": "seoul-kr",
+   "slug": "fuje",
+   "name": "Fuje",
+   "website": "",
+   "address": "2F, 21 Nonhyeon-ro 24-gil, Gangnam-gu, Seoul, 06302, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/fuje"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/fuje",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/goobok-mandu",
+   "city_id": "seoul-kr",
+   "slug": "goobok-mandu",
+   "name": "Goobok Mandu",
+   "website": "",
+   "address": "7 Duteopbawi-ro, Yongsan-gu, Seoul, 04335, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/goobok-mandu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/goobok-mandu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/grandir",
+   "city_id": "seoul-kr",
+   "slug": "grandir",
+   "name": "Grandir",
+   "website": "",
+   "address": "3F, 4 Apgujeong-ro 54-gil, Gangnam-gu, Seoul, 06018, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/grandir"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/grandir",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/gwanghwamun-gukbap",
+   "city_id": "seoul-kr",
+   "slug": "gwanghwamun-gukbap",
+   "name": "Gwanghwamun Gukbap",
+   "website": "",
+   "address": "53 Sejong-daero 21-gil, Jung-gu, Seoul, 04519, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gwanghwamun-gukbap"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gwanghwamun-gukbap",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dwaeji-gukbap",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/hane",
+   "city_id": "seoul-kr",
+   "slug": "hane",
+   "name": "HANE",
+   "website": "",
+   "address": "14 Eonju-ro 172-gil, Gangnam-gu, Seoul, 06017, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hane"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hane",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/hadongkwan",
+   "city_id": "seoul-kr",
+   "slug": "hadongkwan",
+   "name": "Hadongkwan",
+   "website": "",
+   "address": "12 Myeongdong 9-gil, Jung-gu, Seoul, 04538, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gomtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/il-vecchio",
+   "city_id": "seoul-kr",
+   "slug": "il-vecchio",
+   "name": "Il Vecchio",
+   "website": "",
+   "address": "332-12 World Cup buk-ro, Mapo-gu, Seoul, 03930, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/il-vecchio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/il-vecchio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/imok-smoke-dining",
+   "city_id": "seoul-kr",
+   "slug": "imok-smoke-dining",
+   "name": "Imok Smoke Dining",
+   "website": "",
+   "address": "B1, 6 Apgujeong-ro 2-gil, Gangnam-gu, Seoul, 06027, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imok-smoke-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imok-smoke-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/imun-seolnongtang",
+   "city_id": "seoul-kr",
+   "slug": "imun-seolnongtang",
+   "name": "Imun Seolnongtang",
+   "website": "",
+   "address": "38-13 Ujeongguk-ro, Jongno-gu, Seoul, 03149, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seolleongtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jue",
+   "city_id": "seoul-kr",
+   "slug": "jue",
+   "name": "JUE",
+   "website": "",
+   "address": "124-7 Dokseodang-ro, Yongsan-gu, Seoul, 04420, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jinmi-pyeongyang-naengmyeon",
+   "city_id": "seoul-kr",
+   "slug": "jinmi-pyeongyang-naengmyeon",
+   "name": "Jinmi Pyeongyang Naengmyeon",
+   "website": "",
+   "address": "305-3 Hakdong-ro, Gangnam-gu, Seoul, 06061, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jinmi-pyungyang-naengmyeon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jinmi-pyungyang-naengmyeon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jinmi-sikdang",
+   "city_id": "seoul-kr",
+   "slug": "jinmi-sikdang",
+   "name": "Jinmi Sikdang",
+   "website": "",
+   "address": "186-6 Mapo-daero, Mapo-gu, Seoul, 04207, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jinmi-sikdang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jinmi-sikdang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Gejang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/july",
+   "city_id": "seoul-kr",
+   "slug": "july",
+   "name": "July",
+   "website": "",
+   "address": "164 Donggwang-ro, Seocho-gu, Seoul, 06589, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/july"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/july",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/kirameki",
+   "city_id": "seoul-kr",
+   "slug": "kirameki",
+   "name": "Kirameki",
+   "website": "",
+   "address": "18 Dosan-daero 28-gil, Gangnam-gu, Seoul, 06040, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kirameki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kirameki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/kojacha",
+   "city_id": "seoul-kr",
+   "slug": "kojacha",
+   "name": "Kojacha",
+   "website": "",
+   "address": "17 Hakdong-ro 97-gil, Gangnam-gu, Seoul, 06072, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kojacha"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kojacha",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/kushi-kawa",
+   "city_id": "seoul-kr",
+   "slug": "kushi-kawa",
+   "name": "Kushi Kawa",
+   "website": "",
+   "address": "37 Nonhyeon-ro 24-gil, Gangnam-gu, Seoul, 06300, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kushi-kawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kushi-kawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Kushiage",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/kyoyang-siksa",
+   "city_id": "seoul-kr",
+   "slug": "kyoyang-siksa",
+   "name": "Kyoyang Siksa",
+   "website": "",
+   "address": "238 Itaewon-ro, Yongsan-gu, Seoul, 04400, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gyoyang-siksa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gyoyang-siksa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/loignon",
+   "city_id": "seoul-kr",
+   "slug": "loignon",
+   "name": "L'OIGNON",
+   "website": "",
+   "address": "29 Dosan-daero 17-gil, Gangnam-gu, Seoul, 06033, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-oignon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-oignon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/lee-buk-bang",
+   "city_id": "seoul-kr",
+   "slug": "lee-buk-bang",
+   "name": "Lee Buk Bang",
+   "website": "",
+   "address": "2F, 16 Mapo-daero 1-gil, Mapo-gu, Seoul, 04165, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/lee-buk-bang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/lee-buk-bang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/manao",
+   "city_id": "seoul-kr",
+   "slug": "manao",
+   "name": "Manao",
+   "website": "",
+   "address": "2F, 18 Hannam-daero 21-gil, Yongsan-gu, Seoul, 04401, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/manao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/manao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mater",
+   "city_id": "seoul-kr",
+   "slug": "mater",
+   "name": "Mater",
+   "website": "",
+   "address": "B1, 16 Eonju-ro 154-gil, Gangnam-gu, Seoul, 06021, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mater-1210122"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mater-1210122",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mimi-myeonga",
+   "city_id": "seoul-kr",
+   "slug": "mimi-myeonga",
+   "name": "Mimi Myeonga",
+   "website": "",
+   "address": "29 Gangnam-daero 160-gil, Gangnam-gu, Seoul, 06028, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mimi-myeonga"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mimi-myeonga",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/moulin",
+   "city_id": "seoul-kr",
+   "slug": "moulin",
+   "name": "Moulin",
+   "website": "",
+   "address": "8 Jahamun-ro 16-gil, Jongno-gu, Seoul, 03043, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/moulin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/moulin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mr-ahns-craft-makgeolli",
+   "city_id": "seoul-kr",
+   "slug": "mr-ahns-craft-makgeolli",
+   "name": "Mr. Ahn's Craft Makgeolli",
+   "website": "",
+   "address": "3 Hoenamu-ro, Yongsan-gu, Seoul, 04343, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mr-ahn-s-craft-makgeolli-1192580"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mr-ahn-s-craft-makgeolli-1192580",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/mukjung",
+   "city_id": "seoul-kr",
+   "slug": "mukjung",
+   "name": "Mukjung",
+   "website": "",
+   "address": "17 Teogye-ro 48-gil, Jung-gu, Seoul, 04619, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mukjung"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mukjung",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/myungbodang",
+   "city_id": "seoul-kr",
+   "slug": "myungbodang",
+   "name": "Myungbodang",
+   "website": "",
+   "address": "3F, 13-12 Seolleung-ro 158-gil, Gangnam-gu, Seoul, 06014, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myungbodang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myungbodang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/nampo-myeonok",
+   "city_id": "seoul-kr",
+   "slug": "nampo-myeonok",
+   "name": "Nampo Myeonok",
+   "website": "",
+   "address": "24 Eulji-ro 3-gil, Jung-gu, Seoul, 04522, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/nampo-myeonok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/nampo-myeonok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/on",
+   "city_id": "seoul-kr",
+   "slug": "on",
+   "name": "ON",
+   "website": "",
+   "address": "3F, Mijun Building, 48 Seolleung-ro 148-gil, Gangnam-gu, Seoul, 06070, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/on565623"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/on565623",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/oegojip-seolleongtang",
+   "city_id": "seoul-kr",
+   "slug": "oegojip-seolleongtang",
+   "name": "Oegojip Seolleongtang",
+   "website": "",
+   "address": "555 Samseong-ro, Gangnam-gu, Seoul, 06155, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oegojip-sellongtang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oegojip-sellongtang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seolleongtang",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/one-degree-north",
+   "city_id": "seoul-kr",
+   "slug": "one-degree-north",
+   "name": "One Degree North",
+   "website": "",
+   "address": "8 Hakdong-ro 43-gil, Gangnam-gu, Seoul, 06061, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/one-degree-north"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/one-degree-north",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/osteria-orzo",
+   "city_id": "seoul-kr",
+   "slug": "osteria-orzo",
+   "name": "Osteria Orzo",
+   "website": "",
+   "address": "2F, 47 Hannam-daero 20-gil, Yongsan-gu, Seoul, 04419, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/osteria-orzo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/osteria-orzo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/perigee",
+   "city_id": "seoul-kr",
+   "slug": "perigee",
+   "name": "PERIGEE",
+   "website": "",
+   "address": "6-5 Bongeunsa-ro 68-gil, Gangnam-gu, Seoul, 06153, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/perigee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/perigee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/pyeongyang-myeonok",
+   "city_id": "seoul-kr",
+   "slug": "pyeongyang-myeonok",
+   "name": "Pyeongyang Myeonok",
+   "website": "",
+   "address": "207 Jangchungdan-ro, Jung-gu, Seoul, 04615, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pyeongyang-myeonok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pyeongyang-myeonok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/rialto",
+   "city_id": "seoul-kr",
+   "slug": "rialto",
+   "name": "Rialto",
+   "website": "",
+   "address": "2F, 13 Samseong-ro 149-gil, Gangnam-gu, Seoul, 06063, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/rialto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/rialto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/siio",
+   "city_id": "seoul-kr",
+   "slug": "siio",
+   "name": "SIIO",
+   "website": "",
+   "address": "33 Dosan-daero 54-gil, Gangnam-gu, Seoul, 06056, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/siio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/siio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sanro",
+   "city_id": "seoul-kr",
+   "slug": "sanro",
+   "name": "Sanro",
+   "website": "",
+   "address": "2F, 518 Dosan-daero, Gangnam-gu, Seoul, 06070, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sanro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sanro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sobajuu",
+   "city_id": "seoul-kr",
+   "slug": "sobajuu",
+   "name": "Sobajuu",
+   "website": "",
+   "address": "B1 #22, 75 Keunumul-ro, Mapo-gu, Seoul, 04158, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sobajuu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sobajuu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sooksoodoga",
+   "city_id": "seoul-kr",
+   "slug": "sooksoodoga",
+   "name": "Sooksoodoga",
+   "website": "",
+   "address": "28 Dongsomun-ro 17-gil, Seongbuk-gu, Seoul, 02830, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sooksoodoga"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sooksoodoga",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/table-for-four",
+   "city_id": "seoul-kr",
+   "slug": "table-for-four",
+   "name": "Table for Four",
+   "website": "",
+   "address": "5F, 25-12 Daesagwan-ro 31-gil, Yongsan-gu, Seoul, 04401, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/table-for-four"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/table-for-four",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/the-green-table",
+   "city_id": "seoul-kr",
+   "slug": "the-green-table",
+   "name": "The Green Table",
+   "website": "",
+   "address": "5F Arario Space, 83 Yulgok-ro, Jongno-gu, Seoul, 03058, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/the-green-table"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/the-green-table",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/yakitori-kiyu",
+   "city_id": "seoul-kr",
+   "slug": "yakitori-kiyu",
+   "name": "Yakitori Kiyu",
+   "website": "",
+   "address": "31 Dohwa 4-gil, Mapo-gu, Seoul, 04169, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yakitori-kiyu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yakitori-kiyu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/yakitori-mook",
+   "city_id": "seoul-kr",
+   "slug": "yakitori-mook",
+   "name": "Yakitori Mook",
+   "website": "",
+   "address": "165-1 Seongmisan-ro, Mapo-gu, Seoul, 03980, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yakitori-mook"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yakitori-mook",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/yoon-haeundae-galbi",
+   "city_id": "seoul-kr",
+   "slug": "yoon-haeundae-galbi",
+   "name": "Yoon Haeundae Galbi",
+   "website": "",
+   "address": "House of Shinsegae,176 Sinbanpo-ro, Seocho-gu, Seoul, 06546, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yoon-haeundae-galbi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yoon-haeundae-galbi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/zhonghuafuchun-salon",
+   "city_id": "seoul-kr",
+   "slug": "zhonghuafuchun-salon",
+   "name": "Zhonghuafuchun Salon",
+   "website": "",
+   "address": "10 Yeonnam-ro, Mapo-gu, Seoul, 03989, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/zhonghuafuchun-salon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/zhonghuafuchun-salon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/epanoui",
+   "city_id": "seoul-kr",
+   "slug": "epanoui",
+   "name": "Épanoui",
+   "website": "",
+   "address": "3F, 33 Seolleung-ro 146-gil, Gangnam-gu, Seoul, 06064, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/epanoui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/epanoui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jungsik",
+   "city_id": "seoul-kr",
+   "slug": "jungsik",
+   "name": "Jungsik",
+   "website": "https://www.jungsik.kr",
+   "address": "11 Seolleung-ro 158-gil, Gangnam-gu, Seoul, 06014, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jungsik511965"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jungsik511965",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/kwonsooksoo",
+   "city_id": "seoul-kr",
+   "slug": "kwonsooksoo",
+   "name": "Kwonsooksoo",
+   "website": "https://www.kwonsooksoo.com",
+   "address": "4F, 37 Apgujeong-ro 80-gil, Gangnam-gu, Seoul, 06016, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kwonsooksoo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kwonsooksoo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/soigne",
+   "city_id": "seoul-kr",
+   "slug": "soigne",
+   "name": "Soigné",
+   "website": "https://soigneseoul.com",
+   "address": "#201, 2F, Sinsa square, 652 Gangnam-daero, Gangnam-gu, Seoul, 06027, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soigne"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soigne",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/alla-prima",
+   "city_id": "seoul-kr",
+   "slug": "alla-prima",
+   "name": "alla prima",
+   "website": "https://www.allaprima.co.kr",
+   "address": "13 Hakdong-ro 17-gil, Gangnam-gu, Seoul, 06045, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/alla-prima"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/alla-prima",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/bicena",
+   "city_id": "seoul-kr",
+   "slug": "bicena",
+   "name": "Bicena",
+   "website": "https://www.bicena.com",
+   "address": "81F, Lotte World Tower, 300 Olympic-ro, Songpa-gu, Seoul, 05551, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bicena"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bicena",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/collage",
+   "city_id": "seoul-kr",
+   "slug": "collage",
+   "name": "Collage",
+   "website": "https://ananti.kr/ko/ganm/GN0703",
+   "address": "2F, Ananti at Gangnam, 11 Nonhyeon-ro 136-gil, Gangnam-gu, Seoul, 06051, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/collage"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/collage",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/eatanic-garden",
+   "city_id": "seoul-kr",
+   "slug": "eatanic-garden",
+   "name": "Eatanic Garden",
+   "website": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+   "address": "36F, Josun Palace Hotel, 231 Teheran-ro, Gangnam-gu, Seoul, 06142, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/eatanic-garden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/eatanic-garden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/giwakang",
+   "city_id": "seoul-kr",
+   "slug": "giwakang",
+   "name": "GiwaKang",
+   "website": "https://www.giwakang.com",
+   "address": "4F, 9 Nonhyeon-ro 152-gil, Gangnam-gu, Seoul, 06025, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/giwakang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/giwakang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jueun",
+   "city_id": "seoul-kr",
+   "slug": "jueun",
+   "name": "JUEUN",
+   "website": "https://www.restaurantjueun.com",
+   "address": "8F Gyeonghuidang, 36 Gyeonghuigung-gil, Jongno-gu, Seoul, 03175, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/restaurant-jueun"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/restaurant-jueun",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/legume",
+   "city_id": "seoul-kr",
+   "slug": "legume",
+   "name": "Légume",
+   "website": "https://www.legume.kr",
+   "address": "2F, Sinsa Square, 652 Gangnam-daero, Gangnam-gu, Seoul, 06027, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/legume"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/legume",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/muoki",
+   "city_id": "seoul-kr",
+   "slug": "muoki",
+   "name": "Muoki",
+   "website": "https://www.muoki.kr",
+   "address": "2F, 12-12 Hakdong-ro 55-gil, Gangnam-gu, Seoul, 06065, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/muoki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/muoki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/san",
+   "city_id": "seoul-kr",
+   "slug": "san",
+   "name": "SAN",
+   "website": "https://restaurantsan.com",
+   "address": "B1, 6 Eonju-ro 168-gil, Gangnam-gu, Seoul, 06020, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/san"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/san",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/jaha-son-mandu",
+   "city_id": "seoul-kr",
+   "slug": "jaha-son-mandu",
+   "name": "Jaha Son Mandu",
+   "website": "https://www.jahasonmandoo.com",
+   "address": "12 Baekseokdong-gil, Jongno-gu, Seoul, 03020, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jaha-son-mandu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jaha-son-mandu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mandu",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/okdongsik",
+   "city_id": "seoul-kr",
+   "slug": "okdongsik",
+   "name": "Okdongsik",
+   "website": "https://www.okdongsik.net",
+   "address": "44-10 Yanghwa-ro 7-gil, Mapo-gu, Seoul, 04035, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/okdongsik"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/okdongsik",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dwaeji-gukbap",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/oreno-ramen",
+   "city_id": "seoul-kr",
+   "slug": "oreno-ramen",
+   "name": "Oreno Ramen",
+   "website": "https://www.orenoramen.co.kr/",
+   "address": "16 Dongmak-ro 8-gil, Mapo-gu, Seoul, 04072, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oreno-ramen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oreno-ramen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/bongmilga",
+   "city_id": "seoul-kr",
+   "slug": "bongmilga",
+   "name": "Bongmilga",
+   "website": "https://mbongmilga80ngq.zaemit.com",
+   "address": "664 Seolleung-ro, Gangnam-gu, Seoul, 06088, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bongmilga"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bongmilga",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Naengmyeon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/born-and-bred",
+   "city_id": "seoul-kr",
+   "slug": "born-and-bred",
+   "name": "Born and Bred",
+   "website": "https://www.bandb.co.kr",
+   "address": "2F, 1 Majang-ro 42-gil, Seongdong-gu, Seoul, 04757, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/born-and-bred"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/born-and-bred",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/budnamujip",
+   "city_id": "seoul-kr",
+   "slug": "budnamujip",
+   "name": "Budnamujip",
+   "website": "https://www.budnamujip.com",
+   "address": "434 Hyoryeong-ro, Seocho-gu, Seoul, 06729, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/doughroom",
+   "city_id": "seoul-kr",
+   "slug": "doughroom",
+   "name": "Doughroom",
+   "website": "https://www.soignerestaurantgroup.com",
+   "address": "2F, 99 Donggwang-ro, Seocho-gu, Seoul, 06584, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/doughroom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/doughroom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/gom-ba-wie",
+   "city_id": "seoul-kr",
+   "slug": "gom-ba-wie",
+   "name": "Gom Ba Wie",
+   "website": "https://www.gbw.co.kr",
+   "address": "10 Yeongdong-daero 115-gil, Gangnam-gu, Seoul, 06087, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gom-ba-wie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gom-ba-wie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/myeongdong-kyoja",
+   "city_id": "seoul-kr",
+   "slug": "myeongdong-kyoja",
+   "name": "Myeongdong Kyoja",
+   "website": "https://www.mdkj.co.kr/en",
+   "address": "29 Myeongdong 10-gil, Jung-gu, Seoul, 04537, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeongdong-kyoja"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeongdong-kyoja",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Kalguksu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "seoul-kr/opnng",
+   "city_id": "seoul-kr",
+   "slug": "opnng",
+   "name": "OPNNG",
+   "website": "https://www.baropnng.com",
+   "address": "B1, 22 Dosan-daero 34-gil, Gangnam-gu, Seoul, 06049, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/opnng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/opnng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/onyva",
+   "city_id": "seoul-kr",
+   "slug": "onyva",
+   "name": "Onyva",
+   "website": "https://www.onyva.kr",
+   "address": "B1, 15 Dosan-daero 75-gil, Gangnam-gu, Seoul, 06015, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/onyva"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/onyva",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/restaurant-oy",
+   "city_id": "seoul-kr",
+   "slug": "restaurant-oy",
+   "name": "Restaurant OY",
+   "website": "https://restaurantoy.co.kr",
+   "address": "B1F, 48-12 Seolleung-ro 148-gil, Gangnam-gu, Seoul, 06064, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/restaurant-oy"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/restaurant-oy",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/ryunique",
+   "city_id": "seoul-kr",
+   "slug": "ryunique",
+   "name": "Ryunique",
+   "website": "https://www.ryunique.co.kr",
+   "address": "8-1 Dosan-daero 45-gil, Gangnam-gu, Seoul, 06021, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/ryunique"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/ryunique",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/seoul-dining",
+   "city_id": "seoul-kr",
+   "slug": "seoul-dining",
+   "name": "Seoul Dining",
+   "website": "https://www.seoul-dining.com",
+   "address": "2F, Designhouse, 272 Dongho-ro, Jung-gu, Seoul, 04617, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoul-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoul-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/sonnet",
+   "city_id": "seoul-kr",
+   "slug": "sonnet",
+   "name": "Sonnet",
+   "website": "https://www.sonnetseoul.com",
+   "address": "3F, Seolleung-ro 157-gil, Gangnam-gu, Seoul, 06018, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sonnet-1241886"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sonnet-1241886",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/the-ninth-gate",
+   "city_id": "seoul-kr",
+   "slug": "the-ninth-gate",
+   "name": "The Ninth Gate",
+   "website": "https://www.josunhotel.com/intro.do",
+   "address": "1F The Westin Chosun Hotel, 106 Sogong-ro, Jung-gu, Seoul, 04533, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/the-ninth-gate"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/the-ninth-gate",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "seoul-kr/trid",
+   "city_id": "seoul-kr",
+   "slug": "trid",
+   "name": "trid",
+   "website": "https://tridseoul.com",
+   "address": "2F, 16 Seolleung-ro 162-gil, Gangnam-gu, Seoul, 06014, South Korea",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/trid"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/trid",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  }
+ ]
+}

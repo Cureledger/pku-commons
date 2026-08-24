@@ -1,0 +1,98 @@
+[
+  {
+    "name": "DILL",
+    "slug": "dill",
+    "city_id": "reykjavik-is",
+    "website": "https://www.dillrestaurant.is/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Laugavegur 59, Reykjavík, 101, Iceland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "ÓX",
+    "slug": "ox",
+    "city_id": "reykjavik-is",
+    "website": "https://ox.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Laugavegur 55, Reykjavík, 101, Iceland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hosiló",
+    "slug": "hosilo",
+    "city_id": "reykjavik-is",
+    "website": "https://www.dineout.is/hosilo",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hverfisgata 12, Reykjavík, 101, Iceland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lóla",
+    "slug": "lola",
+    "city_id": "reykjavik-is",
+    "website": "https://lolarestaurant.is/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tryggvagata 11, Reykjavík, 101, Iceland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Matur og Drykkur",
+    "slug": "matur-og-drykkur",
+    "city_id": "reykjavik-is",
+    "website": "https://www.maturogdrykkur.is",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mýrargata 31, Reykjavík, 101, Iceland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "OTO",
+    "slug": "oto",
+    "city_id": "reykjavik-is",
+    "website": "https://www.oto.is/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hverfisgata 44, Reykjavík, 101, Iceland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sümac",
+    "slug": "sumac",
+    "city_id": "reykjavik-is",
+    "website": "https://sumac.is",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Laugavegur 28, Reykjavík, 101, Iceland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "TIDES",
+    "slug": "tides",
+    "city_id": "reykjavik-is",
+    "website": "https://www.tidesrestaurant.is",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Reykjavik EDITION, Austurbakki 2, Reykjavík, 101, Iceland",
+    "price_tier": "$$$"
+  }
+]

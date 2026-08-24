@@ -1,0 +1,164 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "krakow-pl",
+ "restaurant_count": 4,
+ "restaurants": [
+  {
+   "restaurant_id": "krakow-pl/hankki",
+   "city_id": "krakow-pl",
+   "slug": "hankki",
+   "name": "Hankki",
+   "website": "https://www.instagram.com/hankkiKrakow",
+   "address": "Zabłocie 19A, Kraków, 30-701, Poland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/hankki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/hankki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "krakow-pl/karakter",
+   "city_id": "krakow-pl",
+   "slug": "karakter",
+   "name": "Karakter",
+   "website": "https://www.facebook.com/karakter.restauracja/",
+   "address": "ul. Brzozowa 17, Kraków, 31-050, Poland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/karakter"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/karakter",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "krakow-pl/kropka",
+   "city_id": "krakow-pl",
+   "slug": "kropka",
+   "name": "Kropka.",
+   "website": "https://www.instagram.com/kropka_krakow/",
+   "address": "Jósefa Dietla 31, Kraków, 31-064, Poland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/kropka"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/kropka",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "krakow-pl/vamos",
+   "city_id": "krakow-pl",
+   "slug": "vamos",
+   "name": "Vamos!",
+   "website": "https://www.instagram.com/vamos_krk",
+   "address": "Brodzińskiego 6, Kraków, 30-506, Poland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/vamos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/vamos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  }
+ ]
+}

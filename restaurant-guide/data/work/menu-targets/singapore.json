@@ -1,0 +1,1756 @@
+[
+  {
+    "name": "Les Amis",
+    "slug": "les-amis",
+    "city_id": "singapore-sg",
+    "website": "https://www.lesamis.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Shaw Centre, #01-16, 1 Scotts Road, 228208, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Odette",
+    "slug": "odette",
+    "city_id": "singapore-sg",
+    "website": "https://odetterestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "National Gallery, #01-04, 1 St. Andrew's Road (entrance via Supreme Court wing's foyer), 178957, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zén",
+    "slug": "zen",
+    "city_id": "singapore-sg",
+    "website": "https://www.restaurantzen.com",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "41 Bukit Pasoh Road, 089855, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cloudstreet",
+    "slug": "cloudstreet",
+    "city_id": "singapore-sg",
+    "website": "https://cloudstreet.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "84 Amoy Street, 069903, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jaan by Kirk Westaway",
+    "slug": "jaan-by-kirk-westaway",
+    "city_id": "singapore-sg",
+    "website": "https://www.jaan.sg",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Swissôtel The Stamford, Equinox Complex, Level 70, 2 Stamford Road, 178882, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Meta",
+    "slug": "meta",
+    "city_id": "singapore-sg",
+    "website": "https://metarestaurant.sg",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "9 Mohamed Sultan Road, 238959, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Saint Pierre",
+    "slug": "saint-pierre",
+    "city_id": "singapore-sg",
+    "website": "https://www.saintpierre.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "One Fullerton, #02-02B, 1 Fullerton Road, 049213, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shoukouwa",
+    "slug": "shoukouwa",
+    "city_id": "singapore-sg",
+    "website": "https://www.shoukouwa.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "One Fullerton, #02-02A, 1 Fullerton Road, 049213, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Sakuta",
+    "slug": "sushi-sakuta",
+    "city_id": "singapore-sg",
+    "website": "https://www.sushi-sakuta.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Millenia Walk, #01-06/07/08, 9 Raffles Boulevard, 039596, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Thevar",
+    "slug": "thevar",
+    "city_id": "singapore-sg",
+    "website": "https://thevar.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "16 Mohamed Sultan Road, 238965, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Araya",
+    "slug": "araya",
+    "city_id": "singapore-sg",
+    "website": "https://arayarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Mondrian Duxton, #01-08, 83 Neil Road, 089813, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Born",
+    "slug": "born",
+    "city_id": "singapore-sg",
+    "website": "https://restaurantborn.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "#01-01, 1 Neil Road, 088804, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Buona Terra",
+    "slug": "buona-terra",
+    "city_id": "singapore-sg",
+    "website": "https://www.buonaterra.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "29 Scotts Road, 228224, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Burnt Ends",
+    "slug": "burnt-ends",
+    "city_id": "singapore-sg",
+    "website": "https://burntends.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "#01-02, 7 Dempsey Road, 249671, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "CUT",
+    "slug": "cut",
+    "city_id": "singapore-sg",
+    "website": "https://wolfgangpuck.com/restaurants/cut-singapore/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "The Shoppes at Marina Bay Sands, Galleria Level, #B1-71, 10 Bayfront Avenue, 018972, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Candlenut",
+    "slug": "candlenut",
+    "city_id": "singapore-sg",
+    "website": "https://www.comodempsey.sg/restaurant/candlenut",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "17A Dempsey Road, 249676, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hamamoto",
+    "slug": "hamamoto",
+    "city_id": "singapore-sg",
+    "website": "https://hamamoto.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "58 Tras Street, 078997, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hill Street Tai Hwa Pork Noodle",
+    "slug": "hill-street-tai-hwa-pork-noodle",
+    "city_id": "singapore-sg",
+    "website": "https://www.taihwa.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Blk 466, #01-12, Crawford Lane, 190466, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Iggy's",
+    "slug": "iggys",
+    "city_id": "singapore-sg",
+    "website": "https://www.iggys.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "voco Orchard, Level 3, 581 Orchard Road, 238883, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Imperial Treasure Fine Teochew Cuisine (Orchard)",
+    "slug": "imperial-treasure-fine-teochew-cuisine-orchard",
+    "city_id": "singapore-sg",
+    "website": "https://www.imperialtreasure.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "ION Orchard, #03-05, 2 Orchard Turn, 238801, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jag",
+    "slug": "jag",
+    "city_id": "singapore-sg",
+    "website": "https://www.restaurantjag.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Singapore Tyler Print Institute, #02-02, 41 Robertson Quay, 238236, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Labyrinth",
+    "slug": "labyrinth",
+    "city_id": "singapore-sg",
+    "website": "https://www.restaurantlabyrinth.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Esplanade Mall, #02-23, Marina Bay Promenade, 8 Raffles Avenue, 039802, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lei Garden",
+    "slug": "lei-garden",
+    "city_id": "singapore-sg",
+    "website": "https://leigarden.hk",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Chijmes, #01-24, 30 Victoria Street, 187996, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lerouy",
+    "slug": "lerouy",
+    "city_id": "singapore-sg",
+    "website": "https://lerouy.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "7 Mohamed Sultan Road, 238957, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ma Cuisine",
+    "slug": "ma-cuisine",
+    "city_id": "singapore-sg",
+    "website": "https://www.macuisinesg.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "38 Craig Road, 089676, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marguerite",
+    "slug": "marguerite",
+    "city_id": "singapore-sg",
+    "website": "https://marguerite.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Flower Dome, #01-09, Gardens by The Bay, 18 Marina Gardens Drive, 018953, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nae:um",
+    "slug": "nae-um",
+    "city_id": "singapore-sg",
+    "website": "https://naeum.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "161 Telok Ayer Street, 068615, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nouri",
+    "slug": "nouri",
+    "city_id": "singapore-sg",
+    "website": "https://nouri.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "72 Amoy Street, 069891, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Omakase @ Stevens",
+    "slug": "omakase-stevens",
+    "city_id": "singapore-sg",
+    "website": "https://www.omakase.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "#01-03, 30 Stevens Road, 257840, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pangium",
+    "slug": "pangium",
+    "city_id": "singapore-sg",
+    "website": "https://www.restaurantpangium.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Gallop Entrance, Singapore Botanic Gardens, 11 Gallop Road, 259015, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Seroja",
+    "slug": "seroja",
+    "city_id": "singapore-sg",
+    "website": "https://seroja.sg/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Duo Galleria, #01-30/31/32/33, 7 Fraser Street, 189356, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Shisen Hanten",
+    "slug": "shisen-hanten",
+    "city_id": "singapore-sg",
+    "website": "https://shisenhanten.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Hilton Orchard, Level 35, 333 Orchard Road, 238867, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Summer Palace",
+    "slug": "summer-palace",
+    "city_id": "singapore-sg",
+    "website": "https://www.hilton.com/en/hotels/sinodci-conrad-singapore-orchard/dining/summer-palace",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Conrad Orchard, Level 3, 1 Cuscaden Road, 249715, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Summer Pavilion",
+    "slug": "summer-pavilion",
+    "city_id": "singapore-sg",
+    "website": "https://www.summerpavilion.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "The Ritz-Carlton, Millenia, Level 3, 7 Raffles Avenue, 039799, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sushi Ichi",
+    "slug": "sushi-ichi",
+    "city_id": "singapore-sg",
+    "website": "https://ginza-sushiichi.jp/english/shop/singapore.html",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Marriott Tang Plaza Hotel, #01-04, 320 Orchard Road, 238865, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Waku Ghin",
+    "slug": "waku-ghin",
+    "city_id": "singapore-sg",
+    "website": "https://www.marinabaysands.com/restaurants/waku-ghin.html",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "The Shoppes at Marina Bay Sands, Level 2 Dining, L2-03, 10 Bayfront Avenue, 018956, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Whitegrass",
+    "slug": "whitegrass",
+    "city_id": "singapore-sg",
+    "website": "https://www.whitegrass.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Chijmes, #01-26/27, 30 Victoria Street, 187996, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Willow",
+    "slug": "willow",
+    "city_id": "singapore-sg",
+    "website": "https://www.willowrestaurant.sg",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "39 HongKong Street, 059678, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Anglo Indian (Shenton Way)",
+    "slug": "anglo-indian-shenton-way",
+    "city_id": "singapore-sg",
+    "website": "https://www.angloindian.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "#01-08, 1 Shenton Way, 068803, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bismillah Biryani (Little India)",
+    "slug": "bismillah-biryani-little-india",
+    "city_id": "singapore-sg",
+    "website": "https://www.bismillahbiryani.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "50 Dunlop Street, 209379, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Boon Tong Kee (Balestier Road)",
+    "slug": "boon-tong-kee-balestier-road",
+    "city_id": "singapore-sg",
+    "website": "https://boontongkee.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "399, 401, 403 Balestier Road, 329801, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Chef Kang's Noodle House",
+    "slug": "chef-kangs-noodle-house",
+    "city_id": "singapore-sg",
+    "website": "https://www.chef-kang.com/noodle-house",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Blk C, #01-34, Jackson Square, 11 Lorong 3 Toa Payoh, 319579, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Cumi Bali",
+    "slug": "cumi-bali",
+    "city_id": "singapore-sg",
+    "website": "https://www.cumibali.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "50 Tras Street, 078989, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fico",
+    "slug": "fico",
+    "city_id": "singapore-sg",
+    "website": "https://www.ficomasseria.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1300 East Coast Parkway, 468964, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hoo Kee Bak Chang",
+    "slug": "hoo-kee-bak-chang",
+    "city_id": "singapore-sg",
+    "website": "https://www.hookeebakchang.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Amoy Street Food Centre, #01-18, 7 Maxwell Road, 069111, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Indocafé",
+    "slug": "indocafe",
+    "city_id": "singapore-sg",
+    "website": "https://thehouseofindocafe.com/indocafe-peranakan-dining",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "35 Scotts Road, 228227, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jian Bo Tiong Bahru Shui Kueh",
+    "slug": "jian-bo-tiong-bahru-shui-kueh",
+    "city_id": "singapore-sg",
+    "website": "https://www.jianboshuikueh.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Jurong West 505 Market & Food Centre, #01-27, Blk 505, Jurong West Street 52, 640505, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Jungle",
+    "slug": "jungle",
+    "city_id": "singapore-sg",
+    "website": "https://jungle.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "10 Ann Siang Hill, 069789, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kitchenman Nasi Lemak",
+    "slug": "kitchenman-nasi-lemak",
+    "city_id": "singapore-sg",
+    "website": "https://kitchenmannasilemak.oddle.me/en_SG",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "CT Hub, #01-08/13, 2 Kallang Avenue, 339407, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Kotuwa",
+    "slug": "kotuwa",
+    "city_id": "singapore-sg",
+    "website": "https://kotuwa.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "New Bahru, #01-03, 46 Kim Yam Road, 239351, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lagnaa",
+    "slug": "lagnaa",
+    "city_id": "singapore-sg",
+    "website": "https://www.lagnaa.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "6 Upper Dickson Road, 207466, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lixin Teochew Fishball Noodles",
+    "slug": "lixin-teochew-fishball-noodles",
+    "city_id": "singapore-sg",
+    "website": "https://www.lixinfishball.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kim Keat Palm Market & Food Centre, #01-20, Blk 19 Toa Payoh Lor 7, 310019, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "MP Thai (Vision Exchange)",
+    "slug": "mp-thai-vision-exchange",
+    "city_id": "singapore-sg",
+    "website": "https://mpthai.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Vision Exchange, #02-41/42, 2 Venture Drive, 608526, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Muthu's Curry",
+    "slug": "muthus-curry",
+    "city_id": "singapore-sg",
+    "website": "https://www.muthuscurry.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "#01-01, 138 Race Course Road, 218591, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sik Bao Sin",
+    "slug": "sik-bao-sin",
+    "city_id": "singapore-sg",
+    "website": "https://www.sikbaosineatinghouse.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "592 Geylang Road, 389531, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Song Fa Bak Kut Teh (New Bridge Road)",
+    "slug": "song-fa-bak-kut-teh-new-bridge-road",
+    "city_id": "singapore-sg",
+    "website": "https://songfa.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "#01-01, 11 New Bridge Road, 059386, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Tai Wah Pork Noodle",
+    "slug": "tai-wah-pork-noodle",
+    "city_id": "singapore-sg",
+    "website": "https://taiwahnoodles.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Hong Lim Market and Food Centre, #02-16, Blk 531A, Upper Cross Street, 051531, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "The Blue Ginger",
+    "slug": "the-blue-ginger",
+    "city_id": "singapore-sg",
+    "website": "https://theblueginger.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "97 Tanjong Pagar Road, 088518, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Coconut Club (Beach Road)",
+    "slug": "the-coconut-club-beach-road",
+    "city_id": "singapore-sg",
+    "website": "https://www.thecoconutclub.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "269 Beach Road, 199546, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "True Blue Cuisine",
+    "slug": "true-blue-cuisine",
+    "city_id": "singapore-sg",
+    "website": "https://truebluecuisine.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "47/49 Armenian Street, 179937, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Un-Yang-Kor-Dai",
+    "slug": "un-yang-kor-dai",
+    "city_id": "singapore-sg",
+    "website": "https://www.unyangkordai.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "#01-02, 57 South Bridge Road, 058688, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Whole Earth",
+    "slug": "whole-earth",
+    "city_id": "singapore-sg",
+    "website": "https://www.wholeearth.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "76 Peck Seah Street, 079331, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Yhingthai Palace",
+    "slug": "yhingthai-palace",
+    "city_id": "singapore-sg",
+    "website": "https://www.yhingthai.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "#01-04, 36 Purvis Street, 188613, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zhup Zhup",
+    "slug": "zhup-zhup",
+    "city_id": "singapore-sg",
+    "website": "https://www.instagram.com/zhupzhup_",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "#01-01, 458 MacPherson Road, 368176, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "54° Steakhouse",
+    "slug": "54-steakhouse",
+    "city_id": "singapore-sg",
+    "website": "https://www.54steakhouse.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "54 Amoy Street, 069880, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ammākase",
+    "slug": "ammakase",
+    "city_id": "singapore-sg",
+    "website": "https://www.ammakase.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#04-48, One Raffles Place, 048616, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ann Chin Handmade Popiah",
+    "slug": "ann-chin-handmade-popiah",
+    "city_id": "singapore-sg",
+    "website": "https://www.annchinpopiah.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Chinatown Complex Market & Food Centre, #02-112, 335 Smith Street, 050335, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bar-Roque Grill",
+    "slug": "bar-roque-grill",
+    "city_id": "singapore-sg",
+    "website": "https://www.stefanandnico.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "165 Tanjong Pagar Road, 088539, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Belimbing",
+    "slug": "belimbing",
+    "city_id": "singapore-sg",
+    "website": "https://www.lobehold.com/concepts/belimbing/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Level 2, 269A Beach Road, 199546, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bhoomi",
+    "slug": "bhoomi",
+    "city_id": "singapore-sg",
+    "website": "https://bhoomi.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-05, 1 Claymore Drive, 229594, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Birds Of Paradise (Katong)",
+    "slug": "birds-of-paradise-katong",
+    "city_id": "singapore-sg",
+    "website": "https://birdsofparadise.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-05, 63 East Coast Road, 428776, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Brasserie Astoria",
+    "slug": "brasserie-astoria",
+    "city_id": "singapore-sg",
+    "website": "https://www.brasserieastoria.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Victoria Concert Hall, #01-01, 11 Empress Place, 179558, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Buko Nero",
+    "slug": "buko-nero",
+    "city_id": "singapore-sg",
+    "website": "https://www.bukonero.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "126 Tanjong Pagar Road, 088534, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Butcher's Block",
+    "slug": "butchers-block",
+    "city_id": "singapore-sg",
+    "website": "https://www.butchersblock.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Raffles Arcade, #02-02, 328 North Bridge Road, 188719, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ce Soir",
+    "slug": "ce-soir",
+    "city_id": "singapore-sg",
+    "website": "https://cesoir.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-03, 5B Portsdown Road, 139311, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cherry Garden by Chef Fei",
+    "slug": "cherry-garden-by-chef-fei",
+    "city_id": "singapore-sg",
+    "website": "https://www.mandarinoriental.com/en/singapore/marina-bay/dine/cherry-garden-by-chef-fei?src=loc.yext.mosin.ggl",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mandarin Oriental Hotel, Level 5, Marina Square, 5 Raffles Avenue, 039797, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Claudine",
+    "slug": "claudine",
+    "city_id": "singapore-sg",
+    "website": "https://www.claudinerestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "39C Harding Road, 249541, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dill",
+    "slug": "dill",
+    "city_id": "singapore-sg",
+    "website": "https://www.dill.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "33 Duxton Road, 089497, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Esquina",
+    "slug": "esquina",
+    "city_id": "singapore-sg",
+    "website": "https://esquina.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 Jiak Chuan Road, 089267, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fat Prince",
+    "slug": "fat-prince",
+    "city_id": "singapore-sg",
+    "website": "https://www.fatprincesg.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "48 Peck Seah Street, 079317, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fiamma",
+    "slug": "fiamma",
+    "city_id": "singapore-sg",
+    "website": "https://capellahotels.com/en/capella-singapore/dining/fiamma",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Capella Hotel, 1 The Knolls, Sentosa Island, 098297, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fiz",
+    "slug": "fiz",
+    "city_id": "singapore-sg",
+    "website": "https://www.restaurantfiz.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "#01-01/02, 21 Tanjong Pagar Road, 088444, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fleur de Sel",
+    "slug": "fleur-de-sel",
+    "city_id": "singapore-sg",
+    "website": "https://www.fleurdesel.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-01, 64 Tras Street, 079003, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Foc (Central)",
+    "slug": "foc-central",
+    "city_id": "singapore-sg",
+    "website": "https://focrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 Keong Saik Road, 089139, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Garibaldi",
+    "slug": "garibaldi",
+    "city_id": "singapore-sg",
+    "website": "https://garibaldi.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-02, 36 Purvis Street, 188613, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gaston",
+    "slug": "gaston",
+    "city_id": "singapore-sg",
+    "website": "https://www.bistrogaston.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 Keong Saik Road, 089132, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gordon Grill",
+    "slug": "gordon-grill",
+    "city_id": "singapore-sg",
+    "website": "https://www.goodwoodparkhotel.com/dining/gordon-grill",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Goodwood Park Hotel, 22 Scotts Road, 228221, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gunther's",
+    "slug": "gunthers",
+    "city_id": "singapore-sg",
+    "website": "https://www.gunthers.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-03, 36 Purvis Street, 188613, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hayop",
+    "slug": "hayop",
+    "city_id": "singapore-sg",
+    "website": "https://hayopnimanam.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "104 Amoy Street, 069924, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ichigo Ichie",
+    "slug": "ichigo-ichie",
+    "city_id": "singapore-sg",
+    "website": "https://ichigoichie.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Claymore Connect, #01-16/17, 442 Orchard Road, 238879, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Imperial Treasure Super Peking Duck (Paragon)",
+    "slug": "imperial-treasure-super-peking-duck-paragon",
+    "city_id": "singapore-sg",
+    "website": "https://www.imperialtreasure.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paragon Shopping Centre, #05-42/45, 290 Orchard Road, 238859, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ingleside",
+    "slug": "ingleside",
+    "city_id": "singapore-sg",
+    "website": "https://ingleside.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "49 Tras Street, 078988, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Iru Den",
+    "slug": "iru-den",
+    "city_id": "singapore-sg",
+    "website": "https://www.iruden.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 Scotts Road, 228222, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ishizawa",
+    "slug": "ishizawa",
+    "city_id": "singapore-sg",
+    "website": "https://www.ishizawa.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Raffles Arcade, #01-11, 328 North Bridge Road, 188719, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jiang-Nan Chun",
+    "slug": "jiang-nan-chun",
+    "city_id": "singapore-sg",
+    "website": "https://www.fourseasons.com/singapore/dining/restaurants/jiang_nan_chun/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Four Seasons Hotel, Level 2, 190 Orchard Boulevard, 248646, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jin Ting Wan",
+    "slug": "jin-ting-wan",
+    "city_id": "singapore-sg",
+    "website": "https://www.marinabaysands.com/restaurants/jin-ting-wan.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marina Bay Sands Hotel, Tower 1, Level 55, 10 Bayfront Avenue, 018956, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Keng Eng Kee (Bukit Merah)",
+    "slug": "keng-eng-kee-bukit-merah",
+    "city_id": "singapore-sg",
+    "website": "https://www.kek.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Blk 124, #01-136, Bukit Merah Lane 1, 150124, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Ki Su",
+    "slug": "ki-su",
+    "city_id": "singapore-sg",
+    "website": "https://www.kisu.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-01, 60 Tras Street, 078999, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Latido",
+    "slug": "latido",
+    "city_id": "singapore-sg",
+    "website": "https://latido.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 Tras Street, 078979, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Ducs",
+    "slug": "les-ducs",
+    "city_id": "singapore-sg",
+    "website": "https://lesducs.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 Ann Siang Hill, 069788, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Loca Niru",
+    "slug": "loca-niru",
+    "city_id": "singapore-sg",
+    "website": "https://locaniru.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "House of Tan Yeok Nee, #02-01, 101 Penang Road, 238466, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Luke's",
+    "slug": "lukes",
+    "city_id": "singapore-sg",
+    "website": "https://www.lukes.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 Gemmill Lane, 069257, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L’Antica Pizzeria da Michele",
+    "slug": "lantica-pizzeria-da-michele",
+    "city_id": "singapore-sg",
+    "website": "https://www.damichele.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mercure ICON Hotel, #01-08, 8 Club Street, 069472, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Magpie",
+    "slug": "magpie",
+    "city_id": "singapore-sg",
+    "website": "https://www.magpie.city",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-88, 57 Eng Hoon Street, 160057, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Maison Boulud",
+    "slug": "maison-boulud",
+    "city_id": "singapore-sg",
+    "website": "https://www.marinabaysands.com/restaurants/maison-boulud.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Shoppes at Marina Bay Sands, #B1-15 & #01-83, 10 Bayfront Avenue, 018956, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Majestic",
+    "slug": "majestic",
+    "city_id": "singapore-sg",
+    "website": "https://restaurantmajestic.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marina One, The Heart (East Tower) #04-01, 5 Straits View, 018935, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mellben Seafood (Ang Mo Kio)",
+    "slug": "mellben-seafood-ang-mo-kio",
+    "city_id": "singapore-sg",
+    "website": "https://www.mellbensignature.sg/mellben-seafood/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Block 232, #01-1222, Ang Mo Kio Avenue 3, 560232, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Min Jiang at Dempsey",
+    "slug": "min-jiang-at-dempsey",
+    "city_id": "singapore-sg",
+    "website": "https://www.goodwoodparkhotel.com/dining/min-jiang-dempsey",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7A & 7B Dempsey Road, 249684, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mustard",
+    "slug": "mustard",
+    "city_id": "singapore-sg",
+    "website": "https://www.mustardsingapore.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 Race Course Road, 218552, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mustard Seed",
+    "slug": "mustard-seed",
+    "city_id": "singapore-sg",
+    "website": "https://www.mustardseed.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "75 Brighton Crescent, 559216, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Na Oh",
+    "slug": "na-oh",
+    "city_id": "singapore-sg",
+    "website": "https://www.hyundai.com/sg/naoh",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hyundai Motor Group Innovation Center Singapore, Level 3, 2 Bulim Link, 649674, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nasi Lemak Ayam Taliwang",
+    "slug": "nasi-lemak-ayam-taliwang",
+    "city_id": "singapore-sg",
+    "website": "https://www.instagram.com/nasilemakayamtaliwang",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yishun Park Hawker Centre, #01-33, 51 Yishun Avenue 11, 768867, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "National Kitchen",
+    "slug": "national-kitchen",
+    "city_id": "singapore-sg",
+    "website": "https://violetoon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "National Gallery Singapore, #02-01, (Coleman Street entrance), 1 St. Andrew's Road, 178957, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nómada",
+    "slug": "nomada",
+    "city_id": "singapore-sg",
+    "website": "https://nomadarestaurant.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-05, 1 Keong Saik Road, 089109, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Olivia",
+    "slug": "olivia",
+    "city_id": "singapore-sg",
+    "website": "https://www.olivia.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-03, 55 Keong Saik Road, 089158, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Osteria Mozza",
+    "slug": "osteria-mozza",
+    "city_id": "singapore-sg",
+    "website": "https://osteriamozza.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hilton Orchard, Level 5, 333 Orchard Road, 238867, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Podi & Poriyal",
+    "slug": "podi-poriyal",
+    "city_id": "singapore-sg",
+    "website": "https://www.podiandporiyal.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "486 Serangoon Road, 218151, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Poh Cheu (KPT Coffee Shop)",
+    "slug": "poh-cheu-kpt-coffee-shop",
+    "city_id": "singapore-sg",
+    "website": "https://www.pohcheukitchen.com.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Blk 127, KPT Coffee Shop, #01-230, Bukit Merah Lane 1, 150127, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Putien (Kitchener Road)",
+    "slug": "putien-kitchener-road",
+    "city_id": "singapore-sg",
+    "website": "https://www.putien.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "127 Kitchener Road, 208514, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Qīn",
+    "slug": "qin",
+    "city_id": "singapore-sg",
+    "website": "https://www.qin.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Clan Hotel, Level 4, 10 Cross Street, 048417, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rempapa",
+    "slug": "rempapa",
+    "city_id": "singapore-sg",
+    "website": "https://gilmore.sg/rempapa",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "National Gallery, #01-02A, 1 St. Andrew's Road, 178957, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Revolver",
+    "slug": "revolver",
+    "city_id": "singapore-sg",
+    "website": "https://revolver.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "56 Tras Street, 078995, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "San Shu Gong",
+    "slug": "san-shu-gong",
+    "city_id": "singapore-sg",
+    "website": "https://www.sanshugong.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-01, 46 Kim Yam Road, 239351, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Seng Kee Black Chicken Herbal Soup",
+    "slug": "seng-kee-black-chicken-herbal-soup",
+    "city_id": "singapore-sg",
+    "website": "https://sengkeeherbalsoup.wixsite.com/sengkeeherbalsoup/our-food",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kaki Bukit 511 Market & Food Centre, #01-31/32, 511 Bedok North Street 3, 460511, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Shang Palace",
+    "slug": "shang-palace",
+    "city_id": "singapore-sg",
+    "website": "https://www.shangri-la.com/singapore/shangrila/dining/restaurants/shang-palace",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shangri-La Hotel, Lobby Level, 22 Orange Grove Road, 258350, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Shunsui",
+    "slug": "shunsui",
+    "city_id": "singapore-sg",
+    "website": "https://www.shunsui.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-01, 17 HongKong Street, 059660, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Solo",
+    "slug": "solo",
+    "city_id": "singapore-sg",
+    "website": "https://soloristorante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "45 Amoy Street, 069871, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Somma",
+    "slug": "somma",
+    "city_id": "singapore-sg",
+    "website": "https://www.somma.world/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "New Bahru, #04-02, 46 Kim Yam Road, 239351, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sospiri",
+    "slug": "sospiri",
+    "city_id": "singapore-sg",
+    "website": "https://www.sospiri.sg/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "IOI Central Boulevard Towers, #07-02, 2 Central Boulevard, 018916, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Spago Dining Room",
+    "slug": "spago-dining-room",
+    "city_id": "singapore-sg",
+    "website": "https://www.marinabaysands.com/restaurants/spago.html?_gl=1*1yuigfk*_gcl_au*MTExNTg0NzU3LjE3NzQ0NTczOTA.*_ga*ODY4MzkxMzIzLjE3NzQ0NTczOTA.*_ga_47M9JPMEW4*czE3NzQ0NTczOTAkbzEkZzAkdDE3NzQ0NTczOTUkajU1JGwwJGgw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marina Bay Sands Hotel, Tower 2, Sands SkyPark, Level 57, 10 Bayfront Avenue, 018956, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Springleaf Prata Place (Spring Leaf Garden)",
+    "slug": "springleaf-prata-place-spring-leaf-garden",
+    "city_id": "singapore-sg",
+    "website": "https://spplace.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 Thong Soon Avenue, 787431, Singapore",
+    "price_tier": "$"
+  },
+  {
+    "name": "Straits Chinese (Cecil Street)",
+    "slug": "straits-chinese-cecil-street",
+    "city_id": "singapore-sg",
+    "website": "https://straitschinese.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Keck Seng Tower, #B1-01, 133 Cecil Street, 069535, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sushi Hare",
+    "slug": "sushi-hare",
+    "city_id": "singapore-sg",
+    "website": "https://www.sushihare.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Chijmes, #01-23, 30 Victoria Street, 187996, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sushi Katori",
+    "slug": "sushi-katori",
+    "city_id": "singapore-sg",
+    "website": "https://sushikatori.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-03, 21 Tanjong Pagar Road, 088444, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Masaaki",
+    "slug": "sushi-masaaki",
+    "city_id": "singapore-sg",
+    "website": "https://sushimasaaki.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "South Beach Avenue, #B1-17, 26 Beach Road, 189768, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Sato",
+    "slug": "sushi-sato",
+    "city_id": "singapore-sg",
+    "website": "https://sushi-sato.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6B Dempsey Road, 247662, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tambuah Mas (Orchard)",
+    "slug": "tambuah-mas-orchard",
+    "city_id": "singapore-sg",
+    "website": "https://www.tambuahmas.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Paragon, #B1-44, 290 Orchard Road, 238859, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Torno Subito",
+    "slug": "torno-subito",
+    "city_id": "singapore-sg",
+    "website": "https://www.tornosubitosg.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-02, 26 Dempsey Road, 249686, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tunglok Heen",
+    "slug": "tunglok-heen",
+    "city_id": "singapore-sg",
+    "website": "https://www.tunglokheen.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hotel Michael, #02-142/143, Resorts World Sentosa, 26 Sentosa Gateway, 098138, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ushidoki Wagyu Kaiseki",
+    "slug": "ushidoki-wagyu-kaiseki",
+    "city_id": "singapore-sg",
+    "website": "https://www.ushidoki.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "#01-01, 57 Tras Street, 078996, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Vue",
+    "slug": "vue",
+    "city_id": "singapore-sg",
+    "website": "https://www.vue.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "OUE Bayfront, Level 19, 50 Collyer Quay, 049321, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Wah Lok",
+    "slug": "wah-lok",
+    "city_id": "singapore-sg",
+    "website": "https://www.carltonhotel.sg/dining/wah-lok",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Carlton Hotel, Level 2, 76 Bras Basah Road, 189558, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Wakuda",
+    "slug": "wakuda",
+    "city_id": "singapore-sg",
+    "website": "https://www.marinabaysands.com/restaurants/wakuda-singapore.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marina Bay Sands Hotel, Tower 2, Lobby, 10 Bayfront Avenue, 018972, Singapore",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yan Ting",
+    "slug": "yan-ting",
+    "city_id": "singapore-sg",
+    "website": "https://www.yantingrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The St. Regis Hotel, Level 1U, 29 Tanglin Road, 247911, Singapore",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Yong Fu",
+    "slug": "yong-fu",
+    "city_id": "singapore-sg",
+    "website": "https://yongfusg.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Suntec City Mall, Tower 5, #01-444, 3 Temasek Boulevard, 038983, Singapore",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Yì By Jereme Leung",
+    "slug": "yi-by-jereme-leung",
+    "city_id": "singapore-sg",
+    "website": "https://www.yi-restaurant.com.sg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Raffles Arcade, #03-02, 328 North Bridge Road, 188719, Singapore",
+    "price_tier": "$$"
+  }
+]

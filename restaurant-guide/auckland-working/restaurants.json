@@ -1,0 +1,86 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "auckland-nz",
+ "restaurant_count": 2,
+ "restaurants": [
+  {
+   "restaurant_id": "auckland-nz/bianca",
+   "city_id": "auckland-nz",
+   "slug": "bianca",
+   "name": "Bianca",
+   "website": "",
+   "address": "4/2 Robert Street, Ellerslie, Auckland, 1051, New Zealand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/north-island/auckland_2302926/restaurant/bianca-1248100"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/north-island/auckland_2302926/restaurant/bianca-1248100",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "New Zealand",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "auckland-nz/cassia",
+   "city_id": "auckland-nz",
+   "slug": "cassia",
+   "name": "Cassia",
+   "website": "",
+   "address": "The Grand, 90 Federal Street, Auckland Central, Auckland, 1010, New Zealand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/north-island/auckland_2302926/restaurant/cassia-1244159"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/north-island/auckland_2302926/restaurant/cassia-1244159",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  }
+ ]
+}

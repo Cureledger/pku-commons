@@ -1,0 +1,5254 @@
+[
+  {
+    "name": "Alléno Paris au Pavillon Ledoyen",
+    "slug": "alleno-paris-au-pavillon-ledoyen",
+    "city_id": "paris-fr",
+    "website": "https://www.yannick-alleno.com/les-etablissements-du-groupe/alleno-paris",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "8 avenue Dutuit, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Arpège",
+    "slug": "arpege",
+    "city_id": "paris-fr",
+    "website": "https://www.alain-passard.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars",
+      "Green Star"
+    ],
+    "address": "84 rue de Varenne, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kei",
+    "slug": "kei",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-kei.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "5 rue Coq-Héron, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Cinq",
+    "slug": "le-cinq",
+    "city_id": "paris-fr",
+    "website": "https://www.fourseasons.com/fr/paris/dining/restaurants/le_cinq/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Four Seasons Hotel George V, 31 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Gabriel - La Réserve Paris",
+    "slug": "le-gabriel-la-reserve-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.lareserve-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "La Réserve Paris, 42 avenue Gabriel, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Pré Catelan",
+    "slug": "le-pre-catelan",
+    "city_id": "paris-fr",
+    "website": "https://www.leprecatelan.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Route de Suresnes - bois de Boulogne, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pierre Gagnaire",
+    "slug": "pierre-gagnaire",
+    "city_id": "paris-fr",
+    "website": "https://pierregagnaire-lerestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "6 rue Balzac, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Plénitude - Cheval Blanc Paris",
+    "slug": "plenitude-cheval-blanc-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.chevalblanc.com/fr/maison/paris/restaurants-et-bars/plenitude/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Cheval Blanc Paris, 8 quai du Louvre, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Épicure",
+    "slug": "epicure",
+    "city_id": "paris-fr",
+    "website": "https://www.oetkerhotels.com/fr/hotels/le-bristol-paris/restaurants-bars/epicure/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Le Bristol, 112 rue du Faubourg-Saint-Honoré, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alliance",
+    "slug": "alliance",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-alliance.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "5 rue de Poissy, Paris, 75005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Blanc",
+    "slug": "blanc",
+    "city_id": "paris-fr",
+    "website": "https://www.blanc-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "52 rue de Longchamp, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "David Toutain",
+    "slug": "david-toutain",
+    "city_id": "paris-fr",
+    "website": "https://www.davidtoutain.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "29 rue Surcouf, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Guy Savoy",
+    "slug": "guy-savoy",
+    "city_id": "paris-fr",
+    "website": "https://www.guysavoy.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "11 quai de Conti, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hakuba",
+    "slug": "hakuba",
+    "city_id": "paris-fr",
+    "website": "https://www.chevalblanc.com/fr/maison/paris/restaurants-et-bars/hakuba/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Cheval Blanc Paris, 8 quai du Louvre, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Abysse Paris",
+    "slug": "labysse-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.yannick-alleno.com/les-etablissements-du-groupe/abysse-paris",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "8 avenue Dutuit, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Ambroisie",
+    "slug": "lambroisie",
+    "city_id": "paris-fr",
+    "website": "https://www.ambroisie-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "9 place des Vosges, Paris, 75004, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Oiseau Blanc",
+    "slug": "loiseau-blanc",
+    "city_id": "paris-fr",
+    "website": "https://www.peninsula.com/fr/paris/hotel-fine-dining/french-rooftop-loiseau-blanc",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "The Peninsula Paris, 19 avenue Kléber, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Orangerie",
+    "slug": "lorangerie",
+    "city_id": "paris-fr",
+    "website": "https://www.fourseasons.com/fr/paris/dining/restaurants/l-orangerie/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Four Seasons George V, 31 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Scène",
+    "slug": "la-scene",
+    "city_id": "paris-fr",
+    "website": "https://www.la-scene.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "32 avenue Matignon, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Clarence",
+    "slug": "le-clarence",
+    "city_id": "paris-fr",
+    "website": "https://www.le-clarence.paris/la-table/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "31 avenue Franklin-D.-Roosevelt, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Grand Restaurant - Jean-François Piège",
+    "slug": "le-grand-restaurant-jean-francois-piege",
+    "city_id": "paris-fr",
+    "website": "https://jeanfrançoispiege.com/le-grand-restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "7 rue d'Aguesseau, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Jules Verne",
+    "slug": "le-jules-verne",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurants-toureiffel.com/fr/restaurant-jules-verne.html",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Tour Eiffel - 6 avenue Gustave-Eiffel, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Taillevent",
+    "slug": "le-taillevent",
+    "city_id": "paris-fr",
+    "website": "https://www.letaillevent.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "15 rue Lamennais, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Maison Rostang",
+    "slug": "maison-rostang",
+    "city_id": "paris-fr",
+    "website": "https://www.maisonrostang.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "20 rue Rennequin, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Marsan par Hélène Darroze",
+    "slug": "marsan-par-helene-darroze",
+    "city_id": "paris-fr",
+    "website": "https://www.marsanhelenedarroze.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "4 rue d'Assas, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Restaurant Le Meurice Alain Ducasse",
+    "slug": "restaurant-le-meurice-alain-ducasse",
+    "city_id": "paris-fr",
+    "website": "https://www.dorchestercollection.com/fr/paris/le-meurice/restaurants-bars/restaurant-le-meurice-alain-ducasse",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Le Meurice, 228 rue de Rivoli, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Yoshinaga",
+    "slug": "sushi-yoshinaga",
+    "city_id": "paris-fr",
+    "website": "https://www.27quatre.com/sushi-yoshinaga",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "27 rue du 4-Septembre, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Table - Bruno Verjus",
+    "slug": "table-bruno-verjus",
+    "city_id": "paris-fr",
+    "website": "https://table.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "3 rue de Prague, Paris, 75012, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Virtus",
+    "slug": "virtus",
+    "city_id": "paris-fr",
+    "website": "https://www.virtus-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "29 rue de Cotte, Paris, 75012, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "114 Faubourg",
+    "slug": "114-faubourg",
+    "city_id": "paris-fr",
+    "website": "https://www.oetkerhotels.com/fr/hotels/le-bristol-paris/restaurants-bars/114-faubourg/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Le Bristol, 114 rue du Faubourg-Saint-Honoré, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "AT",
+    "slug": "at",
+    "city_id": "paris-fr",
+    "website": "https://www.atsushitanaka.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4bis rue du Cardinal-Lemoine, Paris, 75005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Accents Table Bourse",
+    "slug": "accents-table-bourse",
+    "city_id": "paris-fr",
+    "website": "https://accents-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "24 rue Feydeau, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Agapé",
+    "slug": "agape",
+    "city_id": "paris-fr",
+    "website": "https://www.agape-paris.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "51 rue Jouffroy-d'Abbans, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Akrame",
+    "slug": "akrame",
+    "city_id": "paris-fr",
+    "website": "https://www.akrame.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "7 rue Tronchet, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alan Geaam",
+    "slug": "alan-geaam",
+    "city_id": "paris-fr",
+    "website": "https://restaurant.alangeaam.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "19 rue Lauriston, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Aldehyde",
+    "slug": "aldehyde",
+    "city_id": "paris-fr",
+    "website": "https://aldehyde.paris/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 rue du Pont-Louis-Philippe, Paris, 75004, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Amâlia",
+    "slug": "amalia",
+    "city_id": "paris-fr",
+    "website": "https://amaliarestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "32 rue de la Fontaine-au-Roi, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Anne",
+    "slug": "anne",
+    "city_id": "paris-fr",
+    "website": "https://www.pavillon-de-la-reine.com/restaurant",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "28 place des Vosges, Paris, 75003, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Anona",
+    "slug": "anona",
+    "city_id": "paris-fr",
+    "website": "https://www.anona.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "80 boulevard des Batignolles, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Apicius",
+    "slug": "apicius",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-apicius.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "20 rue d'Artois, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Armani Ristorante",
+    "slug": "armani-ristorante",
+    "city_id": "paris-fr",
+    "website": "https://www.armani.com/fr-ch/armani-restaurant/experience/emporio-armani-caffe-ristorante-paris/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "7 place du Québec, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Astrance",
+    "slug": "astrance",
+    "city_id": "paris-fr",
+    "website": "https://www.astranceparis.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "32 rue de Longchamp, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Auguste",
+    "slug": "auguste",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantauguste.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "54 rue de Bourgogne, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Automne",
+    "slug": "automne",
+    "city_id": "paris-fr",
+    "website": "https://www.automne-akishige.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "11 rue Richard-Lenoir, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Baieta",
+    "slug": "baieta",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-baieta-paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 rue de Pontoise, Paris, 75005, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bellefeuille - Saint James Paris",
+    "slug": "bellefeuille-saint-james-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.saint-james-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Saint James Paris, 5 place du Chancelier-Adenauer, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Chakaiseki Akiyoshi",
+    "slug": "chakaiseki-akiyoshi",
+    "city_id": "paris-fr",
+    "website": "https://chakaiseki-akiyoshi.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "59 rue Letellier, Paris, 75015, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Comice",
+    "slug": "comice",
+    "city_id": "paris-fr",
+    "website": "https://comice.paris/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "31 avenue de Versailles, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Contraste",
+    "slug": "contraste",
+    "city_id": "paris-fr",
+    "website": "https://www.contraste.paris/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "18 rue d'Anjou, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Datil",
+    "slug": "datil",
+    "city_id": "paris-fr",
+    "website": "https://www.datil-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "13 rue des Gravilliers, Paris, 75003, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Divellec",
+    "slug": "divellec",
+    "city_id": "paris-fr",
+    "website": "https://www.divellec-paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "18 rue Fabert, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Don Juan II",
+    "slug": "don-juan-ii",
+    "city_id": "paris-fr",
+    "website": "https://donjuan2.yachtsdeparis.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Port Debilly, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "ES",
+    "slug": "es",
+    "city_id": "paris-fr",
+    "website": "https://es-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "91 rue de Grenelle, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Espadon",
+    "slug": "espadon",
+    "city_id": "paris-fr",
+    "website": "https://www.ritzparis.com/fr/hotel/paris/bars-restaurants/restaurant-espadon",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ritz Paris, 15 place Vendôme, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "FIEF",
+    "slug": "fief",
+    "city_id": "paris-fr",
+    "website": "https://fiefrestaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "44 rue de la Folie-Méricourt, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fleur de Pavé",
+    "slug": "fleur-de-pave",
+    "city_id": "paris-fr",
+    "website": "https://fleurdepave.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 rue Paul-Lelong, Paris, 75002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Frenchie",
+    "slug": "frenchie",
+    "city_id": "paris-fr",
+    "website": "https://www.frenchie-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 rue du Nil, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Frédéric Simonin",
+    "slug": "frederic-simonin",
+    "city_id": "paris-fr",
+    "website": "https://fredericsimonin.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "25 rue Bayen, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Gaya par Pierre Gagnaire",
+    "slug": "gaya-par-pierre-gagnaire",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantgaya.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "6 rue de Saint-Simon, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Geoélia",
+    "slug": "geoelia",
+    "city_id": "paris-fr",
+    "website": "https://geoelia.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "125 rue de la Tour, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Granite",
+    "slug": "granite",
+    "city_id": "paris-fr",
+    "website": "https://www.granite.paris",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "6 rue Bailleul, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Géosmine",
+    "slug": "geosmine",
+    "city_id": "paris-fr",
+    "website": "https://www.geosmine.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "71 rue de la Folie-Méricourt, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "HANADA",
+    "slug": "hanada",
+    "city_id": "paris-fr",
+    "website": "https://sushihanada.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "15 quai Voltaire, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Héritages",
+    "slug": "heritages",
+    "city_id": "paris-fr",
+    "website": "https://heritagesparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "11 rue Treilhard, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Il Carpaccio",
+    "slug": "il-carpaccio",
+    "city_id": "paris-fr",
+    "website": "https://www.raffles.com/fr/paris/dining/il-carpaccio/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Le Royal Monceau, 37 avenue Hoche, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Imperial Treasure",
+    "slug": "imperial-treasure",
+    "city_id": "paris-fr",
+    "website": "https://www.imperialtreasure.com/france/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "44 rue de Bassano, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Irwin",
+    "slug": "irwin",
+    "city_id": "paris-fr",
+    "website": "https://irwin.paris",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "22 rue Cambacérès, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jacques Faussat",
+    "slug": "jacques-faussat",
+    "city_id": "paris-fr",
+    "website": "https://www.jacquesfaussat.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "54 rue Cardinet, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jean Imbert au Plaza Athénée",
+    "slug": "jean-imbert-au-plaza-athenee",
+    "city_id": "paris-fr",
+    "website": "https://www.dorchestercollection.com/fr/paris/hotel-plaza-athenee/restaurants-bars/jean-imbert-au-plaza-athenee",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "25 avenue Montaigne, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jin",
+    "slug": "jin",
+    "city_id": "paris-fr",
+    "website": "https://www.jin-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "6 rue de la Sourdière, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Archeste",
+    "slug": "larcheste",
+    "city_id": "paris-fr",
+    "website": "https://www.archeste.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "79 rue de la Tour, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Arôme",
+    "slug": "larome",
+    "city_id": "paris-fr",
+    "website": "https://larome-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3 rue Saint-Philippe-du-Roule, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon - Étoile",
+    "slug": "latelier-de-joel-robuchon-etoile",
+    "city_id": "paris-fr",
+    "website": "https://atelier-robuchon-etoile.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "133 avenue des Champs-Élysées, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Grande Cascade",
+    "slug": "la-grande-cascade",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantsparisiens.com/la-grande-cascade/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Allée de Longchamp, Bois de Boulogne, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Scène Thélème",
+    "slug": "la-scene-theleme",
+    "city_id": "paris-fr",
+    "website": "https://www.lascenetheleme.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "18 rue Troyon, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lasserre",
+    "slug": "lasserre",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-lasserre.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "17 avenue Franklin-D.-Roosevelt, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Baudelaire",
+    "slug": "le-baudelaire",
+    "city_id": "paris-fr",
+    "website": "https://www.leburgundy.com/fr/restaurant-le-baudelaire.html",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Le Burgundy, 6-8 rue Duphot, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Faham",
+    "slug": "le-faham",
+    "city_id": "paris-fr",
+    "website": "https://lefaham.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "108 rue Cardinet, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le George",
+    "slug": "le-george",
+    "city_id": "paris-fr",
+    "website": "https://www.fourseasons.com/fr/paris/dining/restaurants/le_george/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Four Seasons George V, 31 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Sergent Recruteur",
+    "slug": "le-sergent-recruteur",
+    "city_id": "paris-fr",
+    "website": "https://www.lesergentrecruteur.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "41 rue Saint-Louis-en-l'Île, Paris, 75004, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Tout-Paris",
+    "slug": "le-tout-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.chevalblanc.com/fr/maison/paris/restaurants-et-bars/le-tout-paris/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Cheval Blanc Paris, 8 quai du Louvre, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Violon d'Ingres",
+    "slug": "le-violon-dingres",
+    "city_id": "paris-fr",
+    "website": "https://leviolondingres.paris/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "135 rue Saint-Dominique, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lucas Carton",
+    "slug": "lucas-carton",
+    "city_id": "paris-fr",
+    "website": "https://www.lucascarton.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "9 place de la Madeleine, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Maison Dubois",
+    "slug": "maison-dubois",
+    "city_id": "paris-fr",
+    "website": "https://maisonduboisparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2 rue de Vienne, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Maison Ruggieri Palais Royal",
+    "slug": "maison-ruggieri-palais-royal",
+    "city_id": "paris-fr",
+    "website": "https://maisonruggieri.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "111 galerie de Valois, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mallory Gabsi",
+    "slug": "mallory-gabsi",
+    "city_id": "paris-fr",
+    "website": "https://mallory-gabsi.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "28 rue des Acacias, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mavrommatis",
+    "slug": "mavrommatis",
+    "city_id": "paris-fr",
+    "website": "https://www.mavrommatis.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "42 rue Daubenton, Paris, 75005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "MoSuke",
+    "slug": "mosuke",
+    "city_id": "paris-fr",
+    "website": "https://www.mosuke-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "11 rue Raymond-Losserand, Paris, 75014, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "NESO",
+    "slug": "neso",
+    "city_id": "paris-fr",
+    "website": "https://www.neso.paris",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3 rue Papillon, Paris, 75009, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nakatani",
+    "slug": "nakatani",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-nakatani.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "27 rue Pierre-Leroux, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Neige d'Été",
+    "slug": "neige-dete",
+    "city_id": "paris-fr",
+    "website": "https://www.neigedete.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "12 rue de l'Amiral-Roussin, Paris, 75015, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nhome",
+    "slug": "nhome",
+    "city_id": "paris-fr",
+    "website": "https://www.nhomeparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "41 rue de Montpensier, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nomicos",
+    "slug": "nomicos",
+    "city_id": "paris-fr",
+    "website": "https://www.nomicos.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "16 avenue Hubert-Germain, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Omar Dhiab",
+    "slug": "omar-dhiab",
+    "city_id": "paris-fr",
+    "website": "https://omardhiab.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "23 rue Hérold, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Onor",
+    "slug": "onor",
+    "city_id": "paris-fr",
+    "website": "https://www.onor-thierrymarx.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "258 rue du Faubourg-Saint-Honoré, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Origines Restaurant",
+    "slug": "origines-restaurant",
+    "city_id": "paris-fr",
+    "website": "https://www.origines-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "6 rue de Ponthieu, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Oxte",
+    "slug": "oxte",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-oxte.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 rue Troyon, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pages",
+    "slug": "pages",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantpages.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4 rue Auguste-Vacquerie, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pantagruel",
+    "slug": "pantagruel",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-pantagruel.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "10 rue de Richelieu, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pavyllon Paris",
+    "slug": "pavyllon-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.yannick-alleno.com/les-etablissements-du-groupe/pavyllon-paris",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "8 avenue Dutuit, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pertinence",
+    "slug": "pertinence",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantpertinence.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "29 rue de l'Exposition, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pilgrim",
+    "slug": "pilgrim",
+    "city_id": "paris-fr",
+    "website": "https://www.pilgrimparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "8 rue Nicolas-Charlet, Paris, 75015, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Prévelle",
+    "slug": "prevelle",
+    "city_id": "paris-fr",
+    "website": "https://prevelle.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "34 rue Saint-Dominique, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pur' - Jean-François Rouquette",
+    "slug": "pur-jean-francois-rouquette",
+    "city_id": "paris-fr",
+    "website": "https://www.paris-restaurant-pur.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Park Hyatt Paris-Vendôme, 5 rue de la Paix, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Qui Plume la Lune",
+    "slug": "qui-plume-la-lune",
+    "city_id": "paris-fr",
+    "website": "https://quiplumelalune.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "50 rue Amelot, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Quinsou",
+    "slug": "quinsou",
+    "city_id": "paris-fr",
+    "website": "https://www.quinsourestaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "33 rue de l'Abbé-Grégoire, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Relais Louis XIII",
+    "slug": "relais-louis-xiii",
+    "city_id": "paris-fr",
+    "website": "https://relaislouis13.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "8 rue des Grands-Augustins, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Restaurant H",
+    "slug": "restaurant-h",
+    "city_id": "paris-fr",
+    "website": "https://restauranth.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "13 rue Jean-Beausire, Paris, 75004, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Septime",
+    "slug": "septime",
+    "city_id": "paris-fr",
+    "website": "https://www.septime-charonne.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "80 rue de Charonne, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shabour",
+    "slug": "shabour",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantshabour.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "19 rue Saint-Sauveur, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sola",
+    "slug": "sola",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-sola.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "12 rue de l'Hôtel-Colbert, Paris, 75005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Solstice",
+    "slug": "solstice",
+    "city_id": "paris-fr",
+    "website": "https://solsticeparis.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "45 rue Claude-Bernard, Paris, 75005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Substance",
+    "slug": "substance",
+    "city_id": "paris-fr",
+    "website": "https://www.substance.paris",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "18 rue de Chaillot, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi B",
+    "slug": "sushi-b",
+    "city_id": "paris-fr",
+    "website": "https://sushi-b-fr.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 rue Rameau, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Shunei",
+    "slug": "sushi-shunei",
+    "city_id": "paris-fr",
+    "website": "https://www.sushishunei.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3 rue Audran, Paris, 75018, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tomy & Co",
+    "slug": "tomy-co",
+    "city_id": "paris-fr",
+    "website": "https://tomygousset.com/tomy-and-co/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "22 rue Surcouf, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tour d'Argent",
+    "slug": "tour-dargent",
+    "city_id": "paris-fr",
+    "website": "https://tourdargent.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "15 quai de la Tournelle, Paris, 75005, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Trente-Trois",
+    "slug": "trente-trois",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-trente-trois.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Maison Villeroy, 33 rue Jean-Goujon, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Vaisseau",
+    "slug": "vaisseau",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-vaisseau.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "35 rue Faidherbe, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Yoshinori",
+    "slug": "yoshinori",
+    "city_id": "paris-fr",
+    "website": "https://www.yoshinori-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "18 rue Grégoire-de-Tours, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ze Kitchen Galerie",
+    "slug": "ze-kitchen-galerie",
+    "city_id": "paris-fr",
+    "website": "https://zekitchengalerie.fr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4 rue des Grands-Augustins, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zostera",
+    "slug": "zostera",
+    "city_id": "paris-fr",
+    "website": "https://www.zostera.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "40 rue Pergolèse, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Épisodes",
+    "slug": "episodes",
+    "city_id": "paris-fr",
+    "website": "https://www.episodes-paris.fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "8 rue Meissonier, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ōrtensia",
+    "slug": "ortensia",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantortensia.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4 rue Beethoven, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "20 Eiffel",
+    "slug": "20-eiffel",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant20eiffel.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "20 rue de Monttessuy, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Adami",
+    "slug": "adami",
+    "city_id": "paris-fr",
+    "website": "https://adamiparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "19 bis rue Pierre-Fontaine, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Auberge Pyrénées Cévennes",
+    "slug": "auberge-pyrenees-cevennes",
+    "city_id": "paris-fr",
+    "website": "https://www.auberge-pyrenees-cevennes.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "106 rue de la Folie-Méricourt, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aux 2 K",
+    "slug": "aux-2-k",
+    "city_id": "paris-fr",
+    "website": "https://aux2k.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5 rue Louise-Émilie-de-la-Tour-d'Auvergne, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aux Plumes",
+    "slug": "aux-plumes",
+    "city_id": "paris-fr",
+    "website": "https://www.auxplumes.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "45 rue Boulard, Paris, 75014, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "BRU",
+    "slug": "bru",
+    "city_id": "paris-fr",
+    "website": "https://www.bruparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "28 rue Jean-Baptiste-Pigalle, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Baca'v par Gilles Choukroun",
+    "slug": "bacav-par-gilles-choukroun",
+    "city_id": "paris-fr",
+    "website": "https://www.bacav.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "6 rue des Fossés-Saint-Marcel, Paris, 75005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistrot des Fables",
+    "slug": "bistrot-des-fables",
+    "city_id": "paris-fr",
+    "website": "https://www.bistrotdesfables.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "139 rue Saint-Dominique, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brigade du Tigre",
+    "slug": "brigade-du-tigre",
+    "city_id": "paris-fr",
+    "website": "https://www.brigadedutigre.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "38 rue du Faubourg-Poissonnière, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Caillebotte",
+    "slug": "caillebotte",
+    "city_id": "paris-fr",
+    "website": "https://www.lapantruchoise.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "8 rue Hippolyte-Lebas, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Capsule",
+    "slug": "capsule",
+    "city_id": "paris-fr",
+    "website": "https://capsule.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2 rue Cassini, Paris, 75014, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Clamato",
+    "slug": "clamato",
+    "city_id": "paris-fr",
+    "website": "https://www.clamato-charonne.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "80 rue de Charonne, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Double Dragon",
+    "slug": "double-dragon",
+    "city_id": "paris-fr",
+    "website": "https://www.doubledragonparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "52 rue Saint-Maur, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fana",
+    "slug": "fana",
+    "city_id": "paris-fr",
+    "website": "https://www.fanabistro.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "14 rue Ferdinand-Flocon, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Impérial Choisy",
+    "slug": "imperial-choisy",
+    "city_id": "paris-fr",
+    "website": "https://imperialchoisy.fr/menu/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "32 avenue de Choisy, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jip",
+    "slug": "jip",
+    "city_id": "paris-fr",
+    "website": "https://www.jip.paris",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "112 rue de la Roquette, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jouvence",
+    "slug": "jouvence",
+    "city_id": "paris-fr",
+    "website": "https://www.jouvence.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "172 bis rue du Faubourg-Saint-Antoine, Paris, 75012, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kisin",
+    "slug": "kisin",
+    "city_id": "paris-fr",
+    "website": "https://udon-kisin.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "7-9 rue de Ponthieu, Paris, 75008, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kodawari Ramen - Yokochō",
+    "slug": "kodawari-ramen-yokocho",
+    "city_id": "paris-fr",
+    "website": "https://www.kodawari-ramen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "29 rue Mazarine, Paris, 75006, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "L'Antre Amis",
+    "slug": "lantre-amis",
+    "city_id": "paris-fr",
+    "website": "https://www.lantreamis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "9 rue Bouchut, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Table de Mee",
+    "slug": "la-table-de-mee",
+    "city_id": "paris-fr",
+    "website": "https://www.meeandyou.com/table",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "6 rue des Ciseaux, Paris, 75006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le CasseNoix",
+    "slug": "le-cassenoix",
+    "city_id": "paris-fr",
+    "website": "https://www.le-cassenoix.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "56 rue de la Fédération, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Cornichon",
+    "slug": "le-cornichon",
+    "city_id": "paris-fr",
+    "website": "https://lecornichon.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "34 rue Gassendi, Paris, 75014, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Coucou",
+    "slug": "le-coucou",
+    "city_id": "paris-fr",
+    "website": "https://www.lapantruchoise.com/lecoucou",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "14 rue Bochart-de-Saron, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Pantruche",
+    "slug": "le-pantruche",
+    "city_id": "paris-fr",
+    "website": "https://www.lapantruchoise.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3 rue Victor-Massé, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Radis Beurre",
+    "slug": "le-radis-beurre",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantleradisbeurre.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "51 boulevard Garibaldi, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Savarin",
+    "slug": "le-savarin",
+    "city_id": "paris-fr",
+    "website": "https://www.lapantruchoise.com/lesavarin",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4 rue de Navarin, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Tire-Bouchon Rodier",
+    "slug": "le-tire-bouchon-rodier",
+    "city_id": "paris-fr",
+    "website": "https://www.letirebouchonrodier.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "47 rue Claude-Rodier, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Canailles Pigalle",
+    "slug": "les-canailles-pigalle",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantlescanailles.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "25 rue La Bruyère, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lissit",
+    "slug": "lissit",
+    "city_id": "paris-fr",
+    "website": "https://www.barlissit.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "48 rue de la Folie-Méricourt, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mandoobar",
+    "slug": "mandoobar",
+    "city_id": "paris-fr",
+    "website": "https://www.mandoobar.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "7 rue d'Édimbourg, Paris, 75008, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mova",
+    "slug": "mova",
+    "city_id": "paris-fr",
+    "website": "https://www.mova-paris.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "39 rue des Dames, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mắm From Hanoï",
+    "slug": "mam-from-hanoi",
+    "city_id": "paris-fr",
+    "website": "https://mamfromhanoi.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "39 rue de Cléry, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ose",
+    "slug": "ose",
+    "city_id": "paris-fr",
+    "website": "https://oseabbesses.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3 rue Durantin, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rosemarie",
+    "slug": "rosemarie",
+    "city_id": "paris-fr",
+    "website": "https://www.rosemariebistrotparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "149 rue de l'Université, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "À L'Improviste",
+    "slug": "a-limproviste",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-alimproviste.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "21 rue Médéric, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Épopée",
+    "slug": "epopee",
+    "city_id": "paris-fr",
+    "website": "https://www.epopee-charonne.fr",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "52 rue Léon-Frot, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "19 Saint Roch",
+    "slug": "19-saint-roch",
+    "city_id": "paris-fr",
+    "website": "https://www.19saint-roch.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 rue Saint-Roch, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "19.20 by Norbert Tarayre",
+    "slug": "19-20-by-norbert-tarayre",
+    "city_id": "paris-fr",
+    "website": "https://www.19-20paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prince de Galles, 33 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "24 - Le Restaurant",
+    "slug": "24-le-restaurant",
+    "city_id": "paris-fr",
+    "website": "https://www.24lerestaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 rue Jean-Mermoz, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "52 Faubourg St-Denis",
+    "slug": "52-faubourg-st-denis",
+    "city_id": "paris-fr",
+    "website": "https://www.faubourgstdenis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "52 rue du Faubourg-Saint-Denis, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "ASPIC",
+    "slug": "aspic",
+    "city_id": "paris-fr",
+    "website": "https://www.aspic-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 rue Louise-Émilie-de-la-Tour-d'Auvergne, Paris, 75009, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Adraba",
+    "slug": "adraba",
+    "city_id": "paris-fr",
+    "website": "https://www.adraba-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 rue Véron, Paris, 75018, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Akabeko",
+    "slug": "akabeko",
+    "city_id": "paris-fr",
+    "website": "https://www.akabekorestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 rue de l'Université, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Akira Back Paris",
+    "slug": "akira-back-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.akirabackparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prince de Galles, 33 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Allard",
+    "slug": "allard",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-allard.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "41 rue Saint-André-des-Arts, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Alleudium",
+    "slug": "alleudium",
+    "city_id": "paris-fr",
+    "website": "https://www.alleudium.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 rue Rodier, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Alluma",
+    "slug": "alluma",
+    "city_id": "paris-fr",
+    "website": "https://alluma-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "151 rue Saint-Maur, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Amarante",
+    "slug": "amarante",
+    "city_id": "paris-fr",
+    "website": "https://www.amarante.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 rue Biscornet, Paris, 75012, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ambos",
+    "slug": "ambos",
+    "city_id": "paris-fr",
+    "website": "https://www.ambos-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "38 rue de Vaugirard, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Anicia, table nature",
+    "slug": "anicia-table-nature",
+    "city_id": "paris-fr",
+    "website": "https://www.anicia-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "97 rue du Cherche-Midi, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Arnaud Nicolas",
+    "slug": "arnaud-nicolas",
+    "city_id": "paris-fr",
+    "website": "https://www.arnaudnicolas.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "46 avenue de la Bourdonnais, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Atelier Maître Albert",
+    "slug": "atelier-maitre-albert",
+    "city_id": "paris-fr",
+    "website": "https://www.ateliermaitrealbert.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 rue Maître-Albert, Paris, 75005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Au Trou Gascon",
+    "slug": "au-trou-gascon",
+    "city_id": "paris-fr",
+    "website": "https://autrougasconparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 rue Taine, Paris, 75012, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Auberge Nicolas Flamel",
+    "slug": "auberge-nicolas-flamel",
+    "city_id": "paris-fr",
+    "website": "https://auberge.nicolas-flamel.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "51 rue de Montmorency, Paris, 75003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Augustin",
+    "slug": "augustin",
+    "city_id": "paris-fr",
+    "website": "https://www.augustin-bistrot.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "79 rue Daguerre, Paris, 75014, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aux Lyonnais",
+    "slug": "aux-lyonnais",
+    "city_id": "paris-fr",
+    "website": "https://www.auxlyonnais.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 rue Saint-Marc, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aux Prés",
+    "slug": "aux-pres",
+    "city_id": "paris-fr",
+    "website": "https://restaurantauxpres.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 rue du Dragon, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Baffo",
+    "slug": "baffo",
+    "city_id": "paris-fr",
+    "website": "https://www.baffo.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 rue Pecquay, Paris, 75004, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Baillotte",
+    "slug": "baillotte",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantbaillotte.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue du Dragon, Paris, 75006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Benjamin Schmitt Restaurant",
+    "slug": "benjamin-schmitt-restaurant",
+    "city_id": "paris-fr",
+    "website": "https://schmittrestaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "41 rue Catherine-de-La-Rochefoucauld, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Benoit",
+    "slug": "benoit",
+    "city_id": "paris-fr",
+    "website": "https://www.benoit-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "20 rue Saint-Martin, Paris, 75004, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Biondi",
+    "slug": "biondi",
+    "city_id": "paris-fr",
+    "website": "https://www.biondi-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "118 rue Amelot, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Biscotte",
+    "slug": "biscotte",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-biscotte.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 rue Desnouettes, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistro S",
+    "slug": "bistro-s",
+    "city_id": "paris-fr",
+    "website": "https://www.bistros.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7 rue Saint-Nicolas, Paris, 75012, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bistrot Instinct",
+    "slug": "bistrot-instinct",
+    "city_id": "paris-fr",
+    "website": "https://bistrotinstinctparis3.fr/fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 rue de Picardie, Paris, 75003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistrot Marloe",
+    "slug": "bistrot-marloe",
+    "city_id": "paris-fr",
+    "website": "https://www.marloe.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 rue du Commandant-Rivière, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bistrot Paul Bert",
+    "slug": "bistrot-paul-bert",
+    "city_id": "paris-fr",
+    "website": "https://bistrotpaulbert.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18 rue Paul-Bert, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bloom",
+    "slug": "bloom",
+    "city_id": "paris-fr",
+    "website": "https://www.bloomsushi.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "99 rue Jouffroy-d'Abbans, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bloom Garden",
+    "slug": "bloom-garden",
+    "city_id": "paris-fr",
+    "website": "https://bloomhouse-hotel.com/restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bloom House, 23 rue du Château-Landon, Paris, 75010, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bolea",
+    "slug": "bolea",
+    "city_id": "paris-fr",
+    "website": "https://www.bolearestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "30 rue du Printemps, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bombance",
+    "slug": "bombance",
+    "city_id": "paris-fr",
+    "website": "https://www.bombanceparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "40 rue des Blancs-Manteaux, Paris, 75004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bon Kushikatsu",
+    "slug": "bon-kushikatsu",
+    "city_id": "paris-fr",
+    "website": "https://kintarogroup.com/kushikatsubon",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 rue Jean-Pierre-Timbaud, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bonhomme",
+    "slug": "bonhomme",
+    "city_id": "paris-fr",
+    "website": "https://bonhomme-resto.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "58 rue du Faubourg-Poissonnière, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Boutary",
+    "slug": "boutary",
+    "city_id": "paris-fr",
+    "website": "https://www.boutary-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 rue Mazarine, Paris, 75006, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Brach",
+    "slug": "brach",
+    "city_id": "paris-fr",
+    "website": "https://brachparis-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1-7 rue Jean-Richepin, Paris, 75016, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Braise",
+    "slug": "braise",
+    "city_id": "paris-fr",
+    "website": "https://www.braise.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 rue d'Anjou, Paris, 75008, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie Lutetia",
+    "slug": "brasserie-lutetia",
+    "city_id": "paris-fr",
+    "website": "https://www.hotellutetia.com/fr/gastronomie-paris/brasserie/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "45 boulevard Raspail, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie du Louvre",
+    "slug": "brasserie-du-louvre",
+    "city_id": "paris-fr",
+    "website": "https://www.hyattrestaurants.com/fr/paris/restaurant-bar/la-brasserie-du-louvre",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Place André-Malraux, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brion",
+    "slug": "brion",
+    "city_id": "paris-fr",
+    "website": "https://www.brion-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "17 rue Lamartine, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bếp Việt",
+    "slug": "bep-viet",
+    "city_id": "paris-fr",
+    "website": "https://bepviet.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 rue Caillaux, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Café Compagnon",
+    "slug": "cafe-compagnon",
+    "city_id": "paris-fr",
+    "website": "https://cafecompagnon.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22-26 rue Léopold-Bellan, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Café des Ministères",
+    "slug": "cafe-des-ministeres",
+    "city_id": "paris-fr",
+    "website": "https://www.cafedesministeres.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "83 rue de l'Université, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Calcifer",
+    "slug": "calcifer",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-calcifer.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "41 rue Notre-Dame-de-Nazareth, Paris, 75003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Calice",
+    "slug": "calice",
+    "city_id": "paris-fr",
+    "website": "https://www.calicerestaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 rue de Bazeilles, Paris, 75005, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Campelli",
+    "slug": "campelli",
+    "city_id": "paris-fr",
+    "website": "https://campelli.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "36 rue Croix-des-Petits-Champs, Paris, 75001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Caves Pétrissans",
+    "slug": "caves-petrissans",
+    "city_id": "paris-fr",
+    "website": "https://www.cavespetrissans.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "30 bis avenue Niel, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Caïus",
+    "slug": "caius",
+    "city_id": "paris-fr",
+    "website": "https://www.caius-restaurant.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue d'Armaillé, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chantoiseau",
+    "slug": "chantoiseau",
+    "city_id": "paris-fr",
+    "website": "https://www.chantoiseau-paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "63 rue Lepic, Paris, 75018, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Charbon Kunitoraya",
+    "slug": "charbon-kunitoraya",
+    "city_id": "paris-fr",
+    "website": "https://charbon-kunitoraya.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 rue Villedo, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chez Michel",
+    "slug": "chez-michel",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantchezmichel.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 rue de Belzunce, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chez Monsieur",
+    "slug": "chez-monsieur",
+    "city_id": "paris-fr",
+    "website": "https://www.chezmonsieur.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 rue du Chevalier-de-Saint-George, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chocho",
+    "slug": "chocho",
+    "city_id": "paris-fr",
+    "website": "https://chocho.becsparisiens.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "54 rue de Paradis, Paris, 75010, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ciasa Mia",
+    "slug": "ciasa-mia",
+    "city_id": "paris-fr",
+    "website": "https://www.ciasamia.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 rue Laplace, Paris, 75005, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Clutch",
+    "slug": "clutch",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-clutch.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "62 rue de Montreuil, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Colvert",
+    "slug": "colvert",
+    "city_id": "paris-fr",
+    "website": "https://colvert.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "30 rue des Grands-Augustins, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Comme Chez Maman",
+    "slug": "comme-chez-maman",
+    "city_id": "paris-fr",
+    "website": "https://comme-chez-maman.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 rue des Moines, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Coretta",
+    "slug": "coretta",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantcoretta.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "151 bis rue Cardinet, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dame",
+    "slug": "dame",
+    "city_id": "paris-fr",
+    "website": "https://dame-resto.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "38 rue Condorcet, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dame Augustine",
+    "slug": "dame-augustine",
+    "city_id": "paris-fr",
+    "website": "https://www.dameaugustine.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 avenue des Gobelins, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dandelion",
+    "slug": "dandelion",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantdandelion.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "46 rue des Vignoles, Paris, 75020, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dante",
+    "slug": "dante",
+    "city_id": "paris-fr",
+    "website": "https://www.danterestaurant.info",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 rue de Paradis, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Des Terres",
+    "slug": "des-terres",
+    "city_id": "paris-fr",
+    "website": "https://www.instagram.com/desterres.paris/?hl=fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "82 rue Alexandre-Dumas, Paris, 75020, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dessance",
+    "slug": "dessance",
+    "city_id": "paris-fr",
+    "website": "https://www.dessance.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "74 rue des Archives, Paris, 75003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dessirier",
+    "slug": "dessirier",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantdessirier.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 place du Maréchal-Juin, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Deux Bistrot de chefs",
+    "slug": "deux-bistrot-de-chefs",
+    "city_id": "paris-fr",
+    "website": "https://www.deux-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "58 rue de la Fontaine-au-Roi, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dilia",
+    "slug": "dilia",
+    "city_id": "paris-fr",
+    "website": "https://www.dilia.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 rue d'Eupatoria, Paris, 75020, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Disciples",
+    "slug": "disciples",
+    "city_id": "paris-fr",
+    "website": "https://disciples.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "136 boulevard Murat, Paris, 75016, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Drouant",
+    "slug": "drouant",
+    "city_id": "paris-fr",
+    "website": "https://drouant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16-18 place Gaillon, Paris, 75002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ducasse Baccarat",
+    "slug": "ducasse-baccarat",
+    "city_id": "paris-fr",
+    "website": "https://www.ducasse-baccarat-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 place des États-Unis, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ducasse sur Seine",
+    "slug": "ducasse-sur-seine",
+    "city_id": "paris-fr",
+    "website": "https://www.ducasse-seine.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Port Debilly, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "ERH",
+    "slug": "erh",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-erh.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 rue Tiquetonne, Paris, 75002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Edith",
+    "slug": "edith",
+    "city_id": "paris-fr",
+    "website": "https://www.padam-hotel.com/restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Jean-Giraudoux, Paris, 75016, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Eels",
+    "slug": "eels",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-eels.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 rue d'Hauteville, Paris, 75010, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Elmer",
+    "slug": "elmer",
+    "city_id": "paris-fr",
+    "website": "https://www.elmer-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "30 rue Notre-Dame-de-Nazareth, Paris, 75003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Elsass",
+    "slug": "elsass",
+    "city_id": "paris-fr",
+    "website": "https://www.elsass.restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "153 avenue Parmentier, Paris, 75010, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Emporio Armani Caffè",
+    "slug": "emporio-armani-caffe",
+    "city_id": "paris-fr",
+    "website": "https://www.armani.com/fr-fr/experience/armani-restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "149 boulevard Saint-Germain, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Erso",
+    "slug": "erso",
+    "city_id": "paris-fr",
+    "website": "https://www.erso-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18 rue Saint-Ambroise, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Eunoé",
+    "slug": "eunoe",
+    "city_id": "paris-fr",
+    "website": "https://www.eunoe-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue Rochebrune, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "FOGO",
+    "slug": "fogo",
+    "city_id": "paris-fr",
+    "website": "https://www.fogoparis.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 rue Meissonier, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Faubourg Daimant",
+    "slug": "faubourg-daimant",
+    "city_id": "paris-fr",
+    "website": "https://www.daimant.co/faubourg-daimant.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "20 rue du Faubourg-Poissonnière, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Feel Ling - La Table",
+    "slug": "feel-ling-la-table",
+    "city_id": "paris-fr",
+    "website": "https://feel-ling.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26 rue Freycinet, Paris, 75116, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Felini",
+    "slug": "felini",
+    "city_id": "paris-fr",
+    "website": "https://feliniparis.cargo.site",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "50 rue Saint-Georges, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Flocon",
+    "slug": "flocon",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantflocon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "75 rue Mouffetard, Paris, 75005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Frenchie Pigalle",
+    "slug": "frenchie-pigalle",
+    "city_id": "paris-fr",
+    "website": "https://www.frenchie-pigalle.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "29 rue Victor-Massé, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fugue",
+    "slug": "fugue",
+    "city_id": "paris-fr",
+    "website": "https://fugueparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "128 rue du Faubourg-Saint-Martin, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gemellus",
+    "slug": "gemellus",
+    "city_id": "paris-fr",
+    "website": "https://gemellus-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "37 avenue Duquesne, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Godaille",
+    "slug": "godaille",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantgodaille.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Antoine-Vollon, Paris, 75012, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "GrandCœur",
+    "slug": "grandcur",
+    "city_id": "paris-fr",
+    "website": "https://www.grandcoeur.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "41 rue du Temple, Paris, 75004, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Guefen",
+    "slug": "guefen",
+    "city_id": "paris-fr",
+    "website": "https://guefen.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "212 bis rue de Charenton, Paris, 75012, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Halle aux Grains",
+    "slug": "halle-aux-grains",
+    "city_id": "paris-fr",
+    "website": "https://www.halleauxgrains.bras.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bourse de Commerce, 2 rue de Viarmes, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Halo Paris",
+    "slug": "halo-paris",
+    "city_id": "paris-fr",
+    "website": "https://www.halo-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 rue Saint-Sauveur, Paris, 75002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Helen",
+    "slug": "helen",
+    "city_id": "paris-fr",
+    "website": "https://www.helenrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 rue Berryer, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hestia",
+    "slug": "hestia",
+    "city_id": "paris-fr",
+    "website": "https://www.hestia-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 rue de la Huchette, Paris, 75005, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hokusaï",
+    "slug": "hokusai",
+    "city_id": "paris-fr",
+    "website": "https://www.marriott.com/fr/hotels/parxt-le-metropolitan-paris-tour-eiffel-a-tribute-portfolio-hotel/dining/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Metropolitan Paris Tour Eiffel, 3 rue des Belles-Feuilles, Paris, 75016, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "HuThoPi",
+    "slug": "huthopi",
+    "city_id": "paris-fr",
+    "website": "https://www.huthopi.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "53 rue de Charenton, Paris, 75012, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hugo & Co",
+    "slug": "hugo-co",
+    "city_id": "paris-fr",
+    "website": "https://tomygousset.com/hugo-and-co/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "48 rue Monge, Paris, 75005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Il Ristorante - Niko Romito",
+    "slug": "il-ristorante-niko-romito",
+    "city_id": "paris-fr",
+    "website": "https://www.bulgarihotels.com/fr_FR/paris/dining/il-ristorante-niko-romito",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hôtel Bulgari, 30 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ilô",
+    "slug": "ilo",
+    "city_id": "paris-fr",
+    "website": "https://ilo-restaurant.eatbu.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue Castex, Paris, 75004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jium",
+    "slug": "jium",
+    "city_id": "paris-fr",
+    "website": "https://www.jium.art/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26 rue Tiphaine, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kalank",
+    "slug": "kalank",
+    "city_id": "paris-fr",
+    "website": "https://www.kalank-sud.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "52 boulevard de Charonne, Paris, 75020, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ken Yamamoto",
+    "slug": "ken-yamamoto",
+    "city_id": "paris-fr",
+    "website": "https://www.kenyamamoto.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "144 rue de la Pompe, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kigawa",
+    "slug": "kigawa",
+    "city_id": "paris-fr",
+    "website": "https://www.kigawa.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "186 rue du Château, Paris, 75014, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kitchen Ter(re)",
+    "slug": "kitchen-ter-re",
+    "city_id": "paris-fr",
+    "website": "https://zekitchengalerie.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26 boulevard Saint-Germain, Paris, 75005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Korus",
+    "slug": "korus",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantkorus.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "73 rue Amelot, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Accolade",
+    "slug": "laccolade",
+    "city_id": "paris-fr",
+    "website": "https://www.laccoladeparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "208 rue de la Croix-Nivert, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Altro Frenchie",
+    "slug": "laltro-frenchie",
+    "city_id": "paris-fr",
+    "website": "https://www.altro-frenchie.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue du Nil, Paris, 75002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Ami Jean",
+    "slug": "lami-jean",
+    "city_id": "paris-fr",
+    "website": "https://lamijean.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 rue Malar, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Apibo",
+    "slug": "lapibo",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-lapibo.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "31 rue Tiquetonne, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Assaggio",
+    "slug": "lassaggio",
+    "city_id": "paris-fr",
+    "website": "https://collezione.starhotels.com/fr/nos-hotels/castille/restaurant-et-bar/restaurant-lassaggio.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Castille Paris, 37 rue Cambon, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Assiette",
+    "slug": "lassiette",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-lassiette.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "181 rue du Château, Paris, 75014, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon - St-Germain",
+    "slug": "latelier-de-joel-robuchon-st-germain",
+    "city_id": "paris-fr",
+    "website": "https://www.atelier-robuchon-saint-germain.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 rue de Montalembert, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Attilio",
+    "slug": "lattilio",
+    "city_id": "paris-fr",
+    "website": "https://lattilio-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "184 rue du Faubourg-Saint-Honoré, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Auberge des Crus",
+    "slug": "lauberge-des-crus",
+    "city_id": "paris-fr",
+    "website": "https://www.aubergedescrus.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "13 rue Bosio, Paris, 75016, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Escudella",
+    "slug": "lescudella",
+    "city_id": "paris-fr",
+    "website": "https://www.escudella.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "41 avenue de Ségur, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Esquisse",
+    "slug": "lesquisse",
+    "city_id": "paris-fr",
+    "website": "https://www.esquisse-paris18.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "151 bis rue Marcadet, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Hommage",
+    "slug": "lhommage",
+    "city_id": "paris-fr",
+    "website": "https://www.lhommageparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "36 avenue de Choisy, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Inconnu",
+    "slug": "linconnu",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-linconnu.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 rue Pierre-Leroux, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Initial",
+    "slug": "linitial",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-linitial.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue de Bièvre, Paris, 75005, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "LAVA",
+    "slug": "lava",
+    "city_id": "paris-fr",
+    "website": "https://www.lava-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue de la Montagne-Sainte-Geneviève, Paris, 75005, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Borie",
+    "slug": "la-borie",
+    "city_id": "paris-fr",
+    "website": "https://www.laborie-ferme-et-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "9 rue de Pondichéry, Paris, 75015, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Chaise Haute",
+    "slug": "la-chaise-haute",
+    "city_id": "paris-fr",
+    "website": "https://www.lachaisehaute.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "42 rue Veron, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Condesa",
+    "slug": "la-condesa",
+    "city_id": "paris-fr",
+    "website": "https://lacondesa-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "13 rue Rodier, Paris, 75009, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Ferme du Pré",
+    "slug": "la-ferme-du-pre",
+    "city_id": "paris-fr",
+    "website": "https://leprecatelan.paris/bistrot-la-ferme-du-pre",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Route de Suresnes - Bois de Boulogne, Paris, 75016, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Méditerranée",
+    "slug": "la-mediterranee",
+    "city_id": "paris-fr",
+    "website": "https://www.la-mediterranee.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 place de l'Odéon, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Poule au Pot",
+    "slug": "la-poule-au-pot",
+    "city_id": "paris-fr",
+    "website": "https://jeanfrançoispiege.com/la-poule-au-pot",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Vauvilliers, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Régalade Saint-Honoré",
+    "slug": "la-regalade-saint-honore",
+    "city_id": "paris-fr",
+    "website": "https://laregalade.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "106 rue Saint-Honoré, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Table du Caviste Bio",
+    "slug": "la-table-du-caviste-bio",
+    "city_id": "paris-fr",
+    "website": "https://www.latable.bio",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "55 rue de Prony, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Langosteria",
+    "slug": "langosteria",
+    "city_id": "paris-fr",
+    "website": "https://www.langosteria.com/it/langosteria-paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Cheval Blanc Paris, 8 quai du Louvre, Paris, 75001, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lazare",
+    "slug": "lazare",
+    "city_id": "paris-fr",
+    "website": "https://lazare-paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Parvis de la gare Saint-Lazare, rue Intérieure, Paris, 75008, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le 39V",
+    "slug": "le-39v",
+    "city_id": "paris-fr",
+    "website": "https://www.le39v.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "39 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le 703",
+    "slug": "le-703",
+    "city_id": "paris-fr",
+    "website": "https://www.le703.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Fourcroy, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Beurre Noisette",
+    "slug": "le-beurre-noisette",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantbeurrenoisette.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "68 rue Vasco-de-Gama, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Bistrot Flaubert",
+    "slug": "le-bistrot-flaubert",
+    "city_id": "paris-fr",
+    "website": "https://www.bistrotflaubert.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 rue Gustave-Flaubert, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Bon Saint-Pourçain",
+    "slug": "le-bon-saint-pourcain",
+    "city_id": "paris-fr",
+    "website": "https://www.bonsaintpourcain.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 bis rue Servandoni, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Boréal",
+    "slug": "le-boreal",
+    "city_id": "paris-fr",
+    "website": "https://www.leborealparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "39 rue Montcalm, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Café de l'Usine",
+    "slug": "le-cafe-de-lusine",
+    "city_id": "paris-fr",
+    "website": "https://www.cafedelusine.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 passage Piver, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Chardenoux",
+    "slug": "le-chardenoux",
+    "city_id": "paris-fr",
+    "website": "https://restaurantlechardenoux.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 rue Jules-Vallès, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Cheval d'Or",
+    "slug": "le-cheval-dor",
+    "city_id": "paris-fr",
+    "website": "https://chevaldorparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "21 rue de la Villette, Paris, 75019, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Christine",
+    "slug": "le-christine",
+    "city_id": "paris-fr",
+    "website": "https://lechristine.becsparisiens.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 rue Christine, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Comptoir Boutary",
+    "slug": "le-comptoir-boutary",
+    "city_id": "paris-fr",
+    "website": "https://www.comptoir-boutary.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 rue Catherine-de-la-Rochefoucauld, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Comptoir du Relais",
+    "slug": "le-comptoir-du-relais",
+    "city_id": "paris-fr",
+    "website": "https://www.hotel-paris-relais-saint-germain.com/restaurant-le-comptoir",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 carrefour de l'Odéon, Paris, 75006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Cotte Rôti",
+    "slug": "le-cotte-roti",
+    "city_id": "paris-fr",
+    "website": "https://lecotteroti.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 rue de Cotte, Paris, 75012, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Cyrano",
+    "slug": "le-cyrano",
+    "city_id": "paris-fr",
+    "website": "https://www.lecyranoparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 rue Biot, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Duc",
+    "slug": "le-duc",
+    "city_id": "paris-fr",
+    "website": "https://restaurantleduc.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "243 boulevard Raspail, Paris, 75014, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Florimond",
+    "slug": "le-florimond",
+    "city_id": "paris-fr",
+    "website": "https://www.leflorimond.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 avenue de La Motte-Picquet, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Gentil",
+    "slug": "le-gentil",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantlegentil.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26 rue Surcouf, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Grand Bain",
+    "slug": "le-grand-bain",
+    "city_id": "paris-fr",
+    "website": "https://www.legrandbainparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 rue Dénoyez, Paris, 75020, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Jourdain",
+    "slug": "le-jourdain",
+    "city_id": "paris-fr",
+    "website": "https://www.lejourdain.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "101 rue des Couronnes, Paris, 75020, France",
+    "price_tier": "$"
+  },
+  {
+    "name": "Le Maquis",
+    "slug": "le-maquis",
+    "city_id": "paris-fr",
+    "website": "https://lemaquisrestaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "53 rue des Cloÿs, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Matré",
+    "slug": "le-matre",
+    "city_id": "paris-fr",
+    "website": "https://www.lematre.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "42 rue Véron, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Mazenay",
+    "slug": "le-mazenay",
+    "city_id": "paris-fr",
+    "website": "https://www.lemazenay.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "46 rue de Montmorency, Paris, 75003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Mermoz",
+    "slug": "le-mermoz",
+    "city_id": "paris-fr",
+    "website": "https://www.lemermozparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue Jean-Mermoz, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Petit Lucas",
+    "slug": "le-petit-lucas",
+    "city_id": "paris-fr",
+    "website": "https://www.lucascarton.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 place de la Madeleine, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Relais Plaza",
+    "slug": "le-relais-plaza",
+    "city_id": "paris-fr",
+    "website": "https://www.dorchestercollection.com/fr/paris/hotel-plaza-athenee/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 avenue Montaigne, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Richer",
+    "slug": "le-richer",
+    "city_id": "paris-fr",
+    "website": "https://www.lericher.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 rue Richer, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Servan",
+    "slug": "le-servan",
+    "city_id": "paris-fr",
+    "website": "https://leservan.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 rue Saint-Maur, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Sirocco",
+    "slug": "le-sirocco",
+    "city_id": "paris-fr",
+    "website": "https://restaurantlesirocco.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 bis rue des Gobelins, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Villaret",
+    "slug": "le-villaret",
+    "city_id": "paris-fr",
+    "website": "https://www.levillaret-restaurant.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "13 rue Ternaux, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Les 110 de Taillevent",
+    "slug": "les-110-de-taillevent",
+    "city_id": "paris-fr",
+    "website": "https://www.les-110-taillevent-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "195 rue du Faubourg-Saint-Honoré, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Les Botanistes",
+    "slug": "les-botanistes",
+    "city_id": "paris-fr",
+    "website": "https://www.lesbotanistes.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 bis rue Chomel, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Les Collonges",
+    "slug": "les-collonges",
+    "city_id": "paris-fr",
+    "website": "https://lescollonges.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 rue Francœur, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Délices d'Aphrodite",
+    "slug": "les-delices-daphrodite",
+    "city_id": "paris-fr",
+    "website": "https://www.mavrommatis.com/les-delices-daphrodite/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 rue de Candolle, Paris, 75005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Enfants Rouges",
+    "slug": "les-enfants-rouges",
+    "city_id": "paris-fr",
+    "website": "https://les-enfants-rouges-paris.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue de Beauce, Paris, 75003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Les Parisiens",
+    "slug": "les-parisiens",
+    "city_id": "paris-fr",
+    "website": "https://pavillon-faubourg-saint-germain.com/restaurant-les-parisiens",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 rue du Pré-aux-Clercs, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Les Petits Parisiens",
+    "slug": "les-petits-parisiens",
+    "city_id": "paris-fr",
+    "website": "https://petits-parisiens.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "49 avenue Jean-Moulin, Paris, 75014, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Résistants - La Table",
+    "slug": "les-resistants-la-table",
+    "city_id": "paris-fr",
+    "website": "https://www.lesresistants-latable.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7 rue de la Fidélité, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Les Résistants - Le Bistrot",
+    "slug": "les-resistants-le-bistrot",
+    "city_id": "paris-fr",
+    "website": "https://www.lesresistants.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue du Château-d'Eau, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lesar",
+    "slug": "lesar",
+    "city_id": "paris-fr",
+    "website": "https://www.lesar-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 rue du Petit-Moine, Paris, 75005, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "LiLi",
+    "slug": "lili",
+    "city_id": "paris-fr",
+    "website": "https://www.peninsula.com/fr/paris/hotel-fine-dining/lili-cantonese-chinese",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 avenue Kléber, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Liquide",
+    "slug": "liquide",
+    "city_id": "paris-fr",
+    "website": "https://www.liquide.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "39 rue de l'Arbre-Sec, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Liza",
+    "slug": "liza",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-liza.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 rue de la Banque, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Loulou",
+    "slug": "loulou",
+    "city_id": "paris-fr",
+    "website": "https://www.loulou-paris.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "107 rue de Rivoli, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L’Oyat",
+    "slug": "loyat",
+    "city_id": "paris-fr",
+    "website": "https://restaurantloyat.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 rue Notre-Dame-de-Nazareth, Paris, 75003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Madame FAN",
+    "slug": "madame-fan",
+    "city_id": "paris-fr",
+    "website": "https://www.madame-fan.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18 rue Bayen, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Magma",
+    "slug": "magma",
+    "city_id": "paris-fr",
+    "website": "https://restaurantmagma.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Jean-Pierre-Timbaud, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Magnolia",
+    "slug": "magnolia",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-magnolia.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 rue Henry-Monnier, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Maison",
+    "slug": "maison",
+    "city_id": "paris-fr",
+    "website": "https://www.maison-sota.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 rue Saint-Hubert, Paris, 75011, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mansou'",
+    "slug": "mansou",
+    "city_id": "paris-fr",
+    "website": "https://www.mansouria.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "60 rue de Charonne, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mantra",
+    "slug": "mantra",
+    "city_id": "paris-fr",
+    "website": "https://www.mantra-paris.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "17 rue Rodier, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marie Akaneya",
+    "slug": "marie-akaneya",
+    "city_id": "paris-fr",
+    "website": "https://www.akaneyajapan.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 rue Godot-de-Mauroy, Paris, 75009, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Marius",
+    "slug": "marius",
+    "city_id": "paris-fr",
+    "website": "https://restaurantmarius.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "82 boulevard Murat, Paris, 75016, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marius et Janette",
+    "slug": "marius-et-janette",
+    "city_id": "paris-fr",
+    "website": "https://mariusetjanette-paris.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 avenue George-V, Paris, 75008, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Marso & Co",
+    "slug": "marso-co",
+    "city_id": "paris-fr",
+    "website": "https://www.tomygousset.com/marso-and-co/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue Vulpian, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Masaikuta",
+    "slug": "masaikuta",
+    "city_id": "paris-fr",
+    "website": "https://masaikuta.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26 bis rue de la Fontaine-au-Roi, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Matka",
+    "slug": "matka",
+    "city_id": "paris-fr",
+    "website": "https://www.matkarestaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "78 rue Quincampoix, Paris, 75003, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mensae",
+    "slug": "mensae",
+    "city_id": "paris-fr",
+    "website": "https://www.mensae-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "23 rue Melingue, Paris, 75019, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mieux",
+    "slug": "mieux",
+    "city_id": "paris-fr",
+    "website": "https://www.mieux-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "21 rue Saint-Lazare, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Milagro",
+    "slug": "milagro",
+    "city_id": "paris-fr",
+    "website": "https://www.milagroparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "85 avenue Bosquet, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Minore",
+    "slug": "minore",
+    "city_id": "paris-fr",
+    "website": "https://www.minore.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 avenue Trudaine, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mojju",
+    "slug": "mojju",
+    "city_id": "paris-fr",
+    "website": "https://www.mojju-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 rue de l'Exposition, Paris, 75007, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mokko",
+    "slug": "mokko",
+    "city_id": "paris-fr",
+    "website": "https://mokko-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 rue Francœur, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Monsieur Bleu",
+    "slug": "monsieur-bleu",
+    "city_id": "paris-fr",
+    "website": "https://monsieurbleu-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "20 avenue de New-York, Paris, 75016, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Montée",
+    "slug": "montee",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-montee.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Léopold-Robert, Paris, 75014, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mori Venice Bar",
+    "slug": "mori-venice-bar",
+    "city_id": "paris-fr",
+    "website": "https://www.mori-venicebar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 rue Vivienne, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mâche",
+    "slug": "mache",
+    "city_id": "paris-fr",
+    "website": "https://mache.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "61 rue de Chabrol, Paris, 75010, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Neva Cuisine",
+    "slug": "neva-cuisine",
+    "city_id": "paris-fr",
+    "website": "https://www.nevacuisineparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 rue de Berne, Paris, 75008, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nodaïwa",
+    "slug": "nodaiwa",
+    "city_id": "paris-fr",
+    "website": "https://www.nodaiwa.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "272 rue Saint-Honoré, Paris, 75001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nolinski Le Restaurant",
+    "slug": "nolinski-le-restaurant",
+    "city_id": "paris-fr",
+    "website": "https://nolinskiparis-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 avenue de l'Opéra, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nonos par Paul Pairet",
+    "slug": "nonos-par-paul-pairet",
+    "city_id": "paris-fr",
+    "website": "https://www.rosewoodhotels.com/fr/hotel-de-crillon/dining/nonos-comestibles-paul-pairet",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Le Crillon, 10 place de la Concorde, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nosso",
+    "slug": "nosso",
+    "city_id": "paris-fr",
+    "website": "https://www.nosso-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 promenade Claude-Lévi-Strauss, Paris, 75013, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nous 4",
+    "slug": "nous-4",
+    "city_id": "paris-fr",
+    "website": "https://www.nous4restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 rue Beccaria, Paris, 75012, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "OMASAKE",
+    "slug": "omasake",
+    "city_id": "paris-fr",
+    "website": "https://www.27quatre.com/omasake",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27 rue du 4-Septembre, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Odette",
+    "slug": "odette",
+    "city_id": "paris-fr",
+    "website": "https://www.maison-albar-hotels-le-pont-neuf.com/fr/page/restaurant-odette-paris.2488.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 rue du Pont-Neuf, Paris, 75001, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Oktobre",
+    "slug": "oktobre",
+    "city_id": "paris-fr",
+    "website": "https://oktobre.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 rue des Grands-Augustins, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Osmossi - Maison Mavrommatis",
+    "slug": "osmossi-maison-mavrommatis",
+    "city_id": "paris-fr",
+    "website": "https://www.mavrommatis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "70 avenue Paul-Doumer, Paris, 75016, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Osteria Ferrara",
+    "slug": "osteria-ferrara",
+    "city_id": "paris-fr",
+    "website": "https://www.osteriaferrara.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7 rue du Dahomey, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Panurge",
+    "slug": "panurge",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-panurge.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 rue du Sentier, Paris, 75002, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Parcelles",
+    "slug": "parcelles",
+    "city_id": "paris-fr",
+    "website": "https://www.parcelles-paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "13 rue Chapon, Paris, 75003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Paris Bonheur",
+    "slug": "paris-bonheur",
+    "city_id": "paris-fr",
+    "website": "https://bonheur.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 place du Maréchal-Juin, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Passerini",
+    "slug": "passerini",
+    "city_id": "paris-fr",
+    "website": "https://www.passerini.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "65 rue Traversière, Paris, 75012, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Passionné",
+    "slug": "passionne",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantpassionne.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "17 rue Bergère, Paris, 75009, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Patine",
+    "slug": "patine",
+    "city_id": "paris-fr",
+    "website": "https://www.patine-bistrot.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue la Vacquerie, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Patsy",
+    "slug": "patsy",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-patsy.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "26 rue Bergère, Paris, 75009, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Penati al Baretto",
+    "slug": "penati-al-baretto",
+    "city_id": "paris-fr",
+    "website": "https://www.penatialbaretto.eu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "94 boulevard de la Tour-Maubourg, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Perception",
+    "slug": "perception",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurant-perception.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "53 rue Blanche, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Petit Boutary",
+    "slug": "petit-boutary",
+    "city_id": "paris-fr",
+    "website": "https://www.petitboutary.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue Jacquemont, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Petrossian",
+    "slug": "petrossian",
+    "city_id": "paris-fr",
+    "website": "https://restaurant.petrossian.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "13 boulevard de la Tour-Maubourg, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Petrus",
+    "slug": "petrus",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-petrus.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 place du Maréchal-Juin, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pianovins",
+    "slug": "pianovins",
+    "city_id": "paris-fr",
+    "website": "https://www.pianovins.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "46 rue Trousseau, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Piero TT",
+    "slug": "piero-tt",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantpiero.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "44 rue du Bac, Paris, 75007, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pierre Sang in Oberkampf",
+    "slug": "pierre-sang-in-oberkampf",
+    "city_id": "paris-fr",
+    "website": "https://pierresang.com/in-oberkampf/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "55 rue Oberkampf, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pierre Sang on Gambey",
+    "slug": "pierre-sang-on-gambey",
+    "city_id": "paris-fr",
+    "website": "https://pierresang.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue Gambey, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pimpan",
+    "slug": "pimpan",
+    "city_id": "paris-fr",
+    "website": "https://www.damedesarts.com/restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hôtel Dame des Arts, 4 rue Danton, Paris, 75006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pouliche",
+    "slug": "pouliche",
+    "city_id": "paris-fr",
+    "website": "https://www.poulicheparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 rue d'Enghien, Paris, 75010, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pétrelle",
+    "slug": "petrelle",
+    "city_id": "paris-fr",
+    "website": "https://www.petrelle.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "34 rue Pétrelle, Paris, 75009, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Qasti Green",
+    "slug": "qasti-green",
+    "city_id": "paris-fr",
+    "website": "https://www.qasti.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "41 rue des Jeûneurs, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Quedubon",
+    "slug": "quedubon",
+    "city_id": "paris-fr",
+    "website": "https://restaurantquedubon.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 rue du Plateau, Paris, 75019, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Racines",
+    "slug": "racines",
+    "city_id": "paris-fr",
+    "website": "https://racinesparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 passage des Panoramas, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Restaurant F",
+    "slug": "restaurant-f",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantf.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 rue Saint-Didier, Paris, 75116, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Restaurant Grands Boulevards Experimental",
+    "slug": "restaurant-grands-boulevards-experimental",
+    "city_id": "paris-fr",
+    "website": "https://www.grandsboulevardshotel.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "17 boulevard Poissonnière, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rooster",
+    "slug": "rooster",
+    "city_id": "paris-fr",
+    "website": "https://www.rooster-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "137 rue Cardinet, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "SENsation",
+    "slug": "sensation",
+    "city_id": "paris-fr",
+    "website": "https://www.sensationparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 rue Saint-Maur, Paris, 75011, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sagan",
+    "slug": "sagan",
+    "city_id": "paris-fr",
+    "website": "https://www.saganparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 rue Casimir-Delavigne, Paris, 75006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sancerre Rive Gauche",
+    "slug": "sancerre-rive-gauche",
+    "city_id": "paris-fr",
+    "website": "https://www.sancerrerivegauche.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 avenue Rapp, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sellae",
+    "slug": "sellae",
+    "city_id": "paris-fr",
+    "website": "https://sellae-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18 rue des Wallons, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Semilla",
+    "slug": "semilla",
+    "city_id": "paris-fr",
+    "website": "https://www.semillaparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "54 rue de Seine, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Shang Palace",
+    "slug": "shang-palace",
+    "city_id": "paris-fr",
+    "website": "https://www.shangri-la.com/fr/paris/shangrila/dining/restaurants/shang-palace/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shangri-La, 10 avenue d'Iéna, Paris, 75116, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sharma Ji",
+    "slug": "sharma-ji",
+    "city_id": "paris-fr",
+    "website": "https://sharmaji.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16 rue Frémicourt, Paris, 75015, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Signature Montmartre",
+    "slug": "signature-montmartre",
+    "city_id": "paris-fr",
+    "website": "https://signature-montmartre.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 rue des Trois-Frères, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Simone, Le Resto...",
+    "slug": "simone-le-resto",
+    "city_id": "paris-fr",
+    "website": "https://www.simonelerestolacave.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "33 boulevard Arago, Paris, 75013, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Soces",
+    "slug": "soces",
+    "city_id": "paris-fr",
+    "website": "https://www.soces.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "32 rue de la Villette, Paris, 75019, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sormani",
+    "slug": "sormani",
+    "city_id": "paris-fr",
+    "website": "https://www.sormanirestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 rue du Général-Lanrezac, Paris, 75017, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sourire Le Restaurant",
+    "slug": "sourire-le-restaurant",
+    "city_id": "paris-fr",
+    "website": "https://www.sourire-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "15 rue de la Santé, Paris, 75013, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Soé",
+    "slug": "soe",
+    "city_id": "paris-fr",
+    "website": "https://www.soe-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18 rue Beautreillis, Paris, 75004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Stern Ristorante",
+    "slug": "stern-ristorante",
+    "city_id": "paris-fr",
+    "website": "https://alajmo.it/fr/pages/homepage-stern-ristorante",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "47 passage des Panoramas, Paris, 75002, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Super Huit",
+    "slug": "super-huit",
+    "city_id": "paris-fr",
+    "website": "https://www.superhuit-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "95 rue de Miromesnil, Paris, 75008, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sétopa",
+    "slug": "setopa",
+    "city_id": "paris-fr",
+    "website": "https://www.setopaparis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue Dupuytren, Paris, 75006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Table Penja",
+    "slug": "table-penja",
+    "city_id": "paris-fr",
+    "website": "https://tablepenja.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 rue Sédillot, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Taokan",
+    "slug": "taokan",
+    "city_id": "paris-fr",
+    "website": "https://www.taokan.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 rue du Sabot, Paris, 75006, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tavline",
+    "slug": "tavline",
+    "city_id": "paris-fr",
+    "website": "https://www.tavline.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 rue du Roi-de-Sicile, Paris, 75004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tekés",
+    "slug": "tekes",
+    "city_id": "paris-fr",
+    "website": "https://www.tekesrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 bis rue Saint-Sauveur, Paris, 75002, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Terra",
+    "slug": "terra",
+    "city_id": "paris-fr",
+    "website": "https://www.terraparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "21 rue des Gravilliers, Paris, 75003, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Thaï Spices",
+    "slug": "thai-spices",
+    "city_id": "paris-fr",
+    "website": "https://www.thaispices.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5-7 rue de l'Ave-Maria, Paris, 75004, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Towa",
+    "slug": "towa",
+    "city_id": "paris-fr",
+    "website": "https://www.towarestaurantparis.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "75 rue Crozatier, Paris, 75012, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "VIVE, Maison Mer",
+    "slug": "vive-maison-mer",
+    "city_id": "paris-fr",
+    "website": "https://www.vive-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "62 avenue des Ternes, Paris, 75017, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vantre",
+    "slug": "vantre",
+    "city_id": "paris-fr",
+    "website": "https://www.vantre.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "19 rue de la Fontaine-au-Roi, Paris, 75011, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vendémiaire",
+    "slug": "vendemiaire",
+    "city_id": "paris-fr",
+    "website": "https://vendemiaire.paris",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "54 boulevard de la Tour-Maubourg, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vertueux",
+    "slug": "vertueux",
+    "city_id": "paris-fr",
+    "website": "https://restaurantvertueux.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "34 rue Beaurepaire, Paris, 75010, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Via del Campo",
+    "slug": "via-del-campo",
+    "city_id": "paris-fr",
+    "website": "https://www.via-del-campo.paris/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 rue du Champ-de-Mars, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vinello",
+    "slug": "vinello",
+    "city_id": "paris-fr",
+    "website": "https://www.vinello-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "106 rue Nollet, Paris, 75017, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Yen",
+    "slug": "yen",
+    "city_id": "paris-fr",
+    "website": "https://www.yen-paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "22 rue Saint-Benoît, Paris, 75006, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zeffirino",
+    "slug": "zeffirino",
+    "city_id": "paris-fr",
+    "website": "https://zeffirino-restaurant.com/paris/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 rue Marbeuf, Paris, 75008, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zen",
+    "slug": "zen",
+    "city_id": "paris-fr",
+    "website": "https://www.zenrestaurantparis.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 rue de l'Échelle, Paris, 75001, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zoutra",
+    "slug": "zoutra",
+    "city_id": "paris-fr",
+    "website": "https://arba-hospitality.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 rue Aristide-Bruant, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "a.lea",
+    "slug": "a-lea",
+    "city_id": "paris-fr",
+    "website": "https://www.alearestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "39 rue Lamarck, Paris, 75018, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "eme",
+    "slug": "eme",
+    "city_id": "paris-fr",
+    "website": "https://eme.restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 impasse Guéménée, Paris, 75004, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "jjii",
+    "slug": "jjii",
+    "city_id": "paris-fr",
+    "website": "https://www.restaurantjjii.fr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "92 rue du Faubourg-Poissonnière, Paris, 75010, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "À La Biche au Bois",
+    "slug": "a-la-biche-au-bois",
+    "city_id": "paris-fr",
+    "website": "https://alabicheaubois.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "45 avenue Ledru-Rollin, Paris, 75012, France",
+    "price_tier": "$$"
+  },
+  {
+    "name": "À Table",
+    "slug": "a-table",
+    "city_id": "paris-fr",
+    "website": "https://www.atable-restaurant.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "28 rue du Général-Bertrand, Paris, 75007, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ébène",
+    "slug": "ebene",
+    "city_id": "paris-fr",
+    "website": "https://www.ebeneparis.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 rue Falguière, Paris, 75015, France",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Étude",
+    "slug": "etude",
+    "city_id": "paris-fr",
+    "website": "https://restaurant-etude.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 rue du Bouquet-de-Longchamp, Paris, 75016, France",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "étsi - le bistro",
+    "slug": "etsi-le-bistro",
+    "city_id": "paris-fr",
+    "website": "https://www.etsi-paris.fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "23 rue Eugène-Carrière, Paris, 75018, France",
+    "price_tier": "$$"
+  }
+]

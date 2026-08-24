@@ -1,0 +1,985 @@
+[
+  {
+    "slug": "estrellita",
+    "menu_url": "https://www.estrellitafilipino.com/filipino-flavors",
+    "picks": [
+      {
+        "name": "Cassava Fries",
+        "description": "Crispy cassava fries served with banana ketchup",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Jasmine Rice",
+        "description": "Side choice with entrées",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "French Fries",
+        "description": "Side choice with entrées",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Salad",
+        "description": "Side choice with entrées",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Coconut Rice",
+        "description": "Upgrade side",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "freds-meat-bread",
+    "menu_url": "https://www.fredsmeatandbread.com/s/61625-Freds-Menu.png",
+    "picks": [
+      {
+        "name": "Cauliflower & Eggplant Banh Mi",
+        "description": "Pickled carrot, daikon, spicy mayo, jalapeno, cilantro, thai vinaigrette (almost vegetarian)",
+        "course": "main",
+        "kind": "main",
+        "hold": "spicy mayo",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "Veggie Burger",
+        "description": "Chickpeas, slaw, pickles, arugula, aioli, tomato, avocado",
+        "course": "main",
+        "kind": "main",
+        "hold": "chickpeas and aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Hand Cut Fries",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Garlic Fries & Ranch",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "Pommes Frites & Aioli",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      }
+    ]
+  },
+  {
+    "slug": "heirloom-market-bbq",
+    "menu_url": "https://heirloommarketbbq.com/",
+    "picks": [
+      {
+        "name": "Tacos (crispy tofu)",
+        "description": "Choice of smoked meats or crispy tofu, kimchi slaw, jalapenos, cilantro, corn tortilla, KB sauce",
+        "course": "main",
+        "kind": "main",
+        "hold": "tofu"
+      },
+      {
+        "name": "BBQ Beans",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Collards",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Traditional Slaw",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Fries",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Korean Sweet Potatoes",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Kimchi Slaw",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Cucumber Radish Salad",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Local Kimchi",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Sweet & Spicy Tofu",
+        "description": "Regular side",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "tofu"
+      },
+      {
+        "name": "Mac N Cheese",
+        "description": "Special side",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      }
+    ]
+  },
+  {
+    "slug": "little-bear",
+    "menu_url": "https://littlebearatl.com/s/LB-Food-x-BTG_82226.pdf",
+    "picks": [
+      {
+        "name": "Kabocha Squash Salad",
+        "description": "Garlic dressin’, preserved ga grapefruit, onion, blueberry raisin, trout spice, mint",
+        "course": "starter",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Chilllll’d Eggplant",
+        "description": "Bread & butter banana pepper, baba ghanoush vin, corn husk za’atar, mustard chili oil, chive",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "sesame",
+        "note": "Za’atar often includes sesame."
+      },
+      {
+        "name": "Peach & Onion Gazpacho",
+        "description": "Carrot, cuke, sweet pepper, strawberry kosho oil, berry togarashi, sherry vin, basil",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Grilled Melon",
+        "description": "Peanut zhug, xī guā zǐ jiàng broth, pickled melon, fresno chili, sabzi khordan, málà peanut topping",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "peanut"
+      }
+    ]
+  },
+  {
+    "slug": "banshee",
+    "menu_url": "https://www.banshee-atl.com/wp-content/uploads/Banshee-Dinner-Menu.pdf",
+    "picks": [
+      {
+        "name": "Heirloom Tomatoes",
+        "description": "Cashew + corn stracciatella, pickled cherry tomato, tomato water vinegarette, jimmy nardello oil",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "cashew"
+      },
+      {
+        "name": "Farinata di chanterelle",
+        "description": "Quesillo, field peas, salsa verde, epazote",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "quesillo and field peas"
+      },
+      {
+        "name": "Summer corn agnolotti",
+        "description": "Sweet pepper agrodolce, gorgonzola fonduta, breadcrumbs, basil",
+        "course": "main",
+        "kind": "main",
+        "hold": "gorgonzola"
+      },
+      {
+        "name": "Summer Vegetable plate",
+        "description": "Field peas, parsnip nduja, roasted shiitake mushroom",
+        "course": "main",
+        "kind": "main",
+        "hold": "field peas"
+      },
+      {
+        "name": "Charred Okra",
+        "description": "Habanada aioli, hatch chili",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Cucumbers + Peaches",
+        "description": "Smashed cucumbers, ga peaches, tofu bagna cauda, sesame, herbs",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "tofu and sesame"
+      }
+    ]
+  },
+  {
+    "slug": "boccalupo",
+    "menu_url": "https://boccalupoatl.com/downloads/client-uploads/index_38_1236385222.pdf",
+    "picks": [
+      {
+        "name": "Burrata",
+        "description": "Badger Flame beets, toasted pumpkin seeds, Black Mission figs",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata and pumpkin seeds"
+      },
+      {
+        "name": "Little Gems",
+        "description": "Black berries, Jersey Girl cheese, candied pecan, real balsamic",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "cheese and pecan"
+      },
+      {
+        "name": "20 Yolk Tagliatelle",
+        "description": "Mushrooms, Tuscan kale kimchi, European butter",
+        "course": "main",
+        "kind": "main",
+        "hold": "egg"
+      },
+      {
+        "name": "Goat Cheese Ravioli",
+        "description": "Brown butter, peach, Sungold tomatoes, pecorino",
+        "course": "main",
+        "kind": "main",
+        "hold": "goat cheese and pecorino"
+      }
+    ]
+  },
+  {
+    "slug": "home-grown",
+    "menu_url": "https://www.homegrownga.com/menu/",
+    "picks": [
+      {
+        "name": "Vegetarian Biscuit & Gravy",
+        "description": "Buttermilk gravy with sautéed spinach & mushrooms",
+        "course": "main",
+        "kind": "main",
+        "hold": "buttermilk gravy"
+      },
+      {
+        "name": "Chef’s Omelette",
+        "description": "Spinach, roasted tomatoes, mushrooms & goat cheese served with one side",
+        "course": "main",
+        "kind": "main",
+        "hold": "egg and goat cheese"
+      },
+      {
+        "name": "Veggie patty biscuit",
+        "description": "",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "French Onion Dip",
+        "description": "With Ruffles potato chips",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "dip"
+      },
+      {
+        "name": "Fried Green Tomatoes",
+        "description": "With horseradish ranch dipping sauce",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "Fried Pickles",
+        "description": "Doux South dill pickles with spicy horseradish ranch dipping sauce",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "Our Award Winning Sloppy Joe",
+        "description": "100% vegan",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Pimento Cheese Sandwich",
+        "description": "Homemade pimento cheese served on grilled Texas toast",
+        "course": "main",
+        "kind": "main",
+        "hold": "pimento cheese"
+      },
+      {
+        "name": "Sautéed spinach",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Collard greens",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Jalapeño cole slaw",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Broccoli cheddar salad",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "cheddar"
+      },
+      {
+        "name": "Mashed potatoes & gravy",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Sautéed mushrooms",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Sautéed cabbage",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mashed roasted sweet potatoes",
+        "description": "Lunch side, vegetarian friendly",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Home fries",
+        "description": "Breakfast side",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Grits",
+        "description": "Breakfast side",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "lyla-lila",
+    "menu_url": "https://www.lylalilaatl.com/new-page",
+    "picks": [
+      {
+        "name": "Rosemary ciabatta",
+        "description": "Lavender honey-chili butter",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Broccoli & fennel salad",
+        "description": "Olives, pistachios, banana peppers, oregano, provolone",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "pistachios and provolone"
+      },
+      {
+        "name": "Lettuces",
+        "description": "Champagne-dijon vinaigrette, blackberries, beets, buttered breadcrumbs",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Peach & heirloom tomato salad",
+        "description": "Beets, pecan chermoula, smoked ricotta salata",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "pecan and ricotta salata"
+      },
+      {
+        "name": "Crispy artichokes",
+        "description": "Aleppo pepper-lemon aioli, anchovy, mint",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "aioli and anchovy",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Cacio e pepe agnolotti ravioli",
+        "description": "Four peppercorns, parmigiano, pecorino romano",
+        "course": "main",
+        "kind": "main",
+        "hold": "parmigiano and pecorino"
+      },
+      {
+        "name": "Charred okra",
+        "description": "Pecorino romano fonduta, green harissa, hazelnuts",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pecorino and hazelnuts"
+      },
+      {
+        "name": "Wood grilled mushrooms",
+        "description": "Black truffle aioli, parmigiano",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "aioli and parmigiano",
+        "note": "Aioli is egg."
+      }
+    ]
+  },
+  {
+    "slug": "madeira-park",
+    "menu_url": "https://www.madeiraparkatl.com/new-page-1-2-1-3-4",
+    "picks": [
+      {
+        "name": "Olives",
+        "description": "Snack, available all day",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Spiced pecans",
+        "description": "Snack, available all day",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pecans"
+      },
+      {
+        "name": "Panisse, olive tapenade",
+        "description": "Snack, available all day",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pommes frites",
+        "description": "Snack, available all day",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Burrata, tomato, pickled peaches, grilled sourdough",
+        "description": "Snack, available all day",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata"
+      },
+      {
+        "name": "Hummus, crudités, flatbread",
+        "description": "Snack, available all day",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "hummus",
+        "note": "Hummus is chickpea; tahini is sesame."
+      },
+      {
+        "name": "Gnocchi",
+        "description": "Parmesan brodo, roasted tomato, pepita pesto",
+        "course": "main",
+        "kind": "main",
+        "hold": "parmesan and pepita"
+      }
+    ]
+  },
+  {
+    "slug": "marcel",
+    "menu_url": "https://marcelatl.com/wp-content/uploads/2026/08/Marcel-Dinner-08.10.2026.pdf",
+    "picks": [
+      {
+        "name": "Caesar",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "dressing",
+        "note": "Caesar is usually egg and anchovy."
+      },
+      {
+        "name": "Salade Marcel",
+        "description": "Bacon vinaigrette, walnuts, blew cheese",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "bacon, walnuts, and blue cheese"
+      },
+      {
+        "name": "Burrata",
+        "description": "Heirloom tomatoes, Pearson’s peaches, breadcrumb, EVOO",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata"
+      },
+      {
+        "name": "Jersey Girl Brulee",
+        "description": "Brie, walnuts, honeycomb, fennel pollen",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "brie and walnuts"
+      },
+      {
+        "name": "Onion Soup Gratinee",
+        "description": "Crouton, gruyere",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "gruyere"
+      },
+      {
+        "name": "Gnudi",
+        "description": "Ricotta, browned butter, foraged mushrooms",
+        "course": "main",
+        "kind": "main",
+        "hold": "ricotta"
+      },
+      {
+        "name": "Pommes Purée",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Pommes Aligot",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "cheese"
+      },
+      {
+        "name": "Pommes Dauphinoise",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "dairy"
+      },
+      {
+        "name": "Pommes Frites Béarnaise",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "béarnaise",
+        "note": "Béarnaise is egg."
+      },
+      {
+        "name": "Roasted Mushrooms in Wine",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Roasted Asparagus",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Cacio e Pepe",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Corn Gratin",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "dairy"
+      },
+      {
+        "name": "Spinach Gratin",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "dairy"
+      }
+    ]
+  },
+  {
+    "slug": "miller-union",
+    "menu_url": "https://www.millerunion.com/new-page-1-2-1",
+    "picks": [
+      {
+        "name": "Country sourdough & house butter",
+        "description": "Per person",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mezze platter",
+        "description": "Seasonal spreads, crudités & lavash",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Field pea & peanut salad",
+        "description": "Tomato, peppers, ricotta, mint",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "field pea, peanut, and ricotta"
+      },
+      {
+        "name": "Watermelon, cucumber, tomato, onion",
+        "description": "Feta, mint, basil, jalapeño vinaigrette",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "feta"
+      },
+      {
+        "name": "Grilled sweet potato",
+        "description": "Pecan & benne seed chili crisp, garlic-lemon yogurt",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "pecan, benne, and yogurt",
+        "note": "Benne is sesame."
+      },
+      {
+        "name": "Cornmeal fried okra & eggplant",
+        "description": "Basil aioli, pickled pepper",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Sweet corn & fromage blanc ravioli",
+        "description": "Roasted tomato, chimichurri, feta",
+        "course": "main",
+        "kind": "main",
+        "hold": "fromage blanc and feta"
+      },
+      {
+        "name": "Seasonal vegetable plate",
+        "description": "",
+        "course": "main",
+        "kind": "main"
+      }
+    ]
+  },
+  {
+    "slug": "southern-belle",
+    "menu_url": "https://southernbelleatl.com/menu",
+    "picks": [
+      {
+        "name": "Salad of Spring Vegetables",
+        "description": "Spring vegetables & lettuces. Green garlic-buttermilk dressing. Edible GA pollen.",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "buttermilk"
+      },
+      {
+        "name": "Warm Strawberry-Zucchini Bread",
+        "description": "Decimal Place Farm chèvre. Arugula. Fennel jam. Candied pistachios. Roasted strawberries.",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "chèvre and pistachios"
+      }
+    ]
+  },
+  {
+    "slug": "little-sparrow",
+    "menu_url": "https://www.littlesparrowatl.com/s/Little-Sparrow-Dinner.pdf",
+    "picks": [
+      {
+        "name": "Salade Maison",
+        "description": "Vinaigrette, aged cheese",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "aged cheese"
+      },
+      {
+        "name": "Onion Soup Gratinée",
+        "description": "Gruyère, sourdough",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "gruyère"
+      },
+      {
+        "name": "Jasper Hill Harbison",
+        "description": "Hazelnuts, brown butter",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "Harbison and hazelnuts"
+      },
+      {
+        "name": "Tortellini",
+        "description": "Fromage blanc, English peas, black truffle vinaigrette",
+        "course": "main",
+        "kind": "main",
+        "hold": "fromage blanc and peas"
+      },
+      {
+        "name": "Levain Baguette",
+        "description": "Good butter, evoo, maldon salt",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Cauliflower",
+        "description": "Capers, lemon",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Squash",
+        "description": "Pumpkin seed pesto",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pumpkin seed"
+      }
+    ]
+  },
+  {
+    "slug": "storico-fresco-alimentari",
+    "menu_url": "https://www.yhospitality.com/menus",
+    "picks": [
+      {
+        "name": "Big Burrata",
+        "description": "250g Burrata from Caseificio La Murgia, tomato pappa, basil",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata"
+      },
+      {
+        "name": "Tatin di Zucca",
+        "description": "Pumpkin tarte tatin with pecorino cheese, pecorino chantilly cream",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pecorino"
+      },
+      {
+        "name": "Assortimento di Formaggi Freschi",
+        "description": "Caseificio la Murgia's selection: burratina, mozzarella knot and fresh ricotta cheese",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burratina, mozzarella, and ricotta"
+      }
+    ]
+  },
+  {
+    "slug": "ticonderoga-club",
+    "menu_url": "https://www.ticonderogaclub.com/s/TC_Menu_PDF_20260821.pdf",
+    "picks": [
+      {
+        "name": "Poh’s Eggplant",
+        "description": "Jasmine rice, Thai basil, mint, Thai chilis, toasted coconut, Bali sauce",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Green Salad",
+        "description": "Local lettuces, shallot, radish, shaved parm, toasted pepitas, sherry-dijon dressing",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "parm and pepitas"
+      },
+      {
+        "name": "Bali Street Corn",
+        "description": "Charred sweet corn, spiced coconut, lime salt",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Wok Veg",
+        "description": "Any season, any reason, wok hei",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "GA Farm Cheese",
+        "description": "Creole-spiced walnuts, crackers, sorghum syrup",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "cheese and walnuts"
+      }
+    ]
+  },
+  {
+    "slug": "tomo",
+    "menu_url": "https://www.tomorestaurant.com/menu",
+    "picks": [
+      {
+        "name": "Chamame",
+        "description": "From Chiba prefecture, naturally sweet and nuttier than green edamame",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "edamame"
+      },
+      {
+        "name": "Sesame Spinach",
+        "description": "Blanched spinach, sesame, sweet soy sauce",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "sesame"
+      },
+      {
+        "name": "Tempura (Veggie Only)",
+        "description": "Veggie Only, Chicken & Veggie, Shrimp & Veggie",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Shishito Peppers",
+        "description": "Grilled with butter, salt and pepper",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Okra Tempura or Grilled",
+        "description": "Flash fried okra, tempura sauce",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Murasaki Truffle Fries",
+        "description": "Purple yam fries, truffle oil aioli",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Green Goddess",
+        "description": "Japanese vegetable fritters, avocado, truffle mayo",
+        "course": "main",
+        "kind": "main",
+        "hold": "truffle mayo",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "Vegetable",
+        "description": "Avocado, shiitake mushroom, asparagus, cilantro, soy paper, cucumber, red beet sauce",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Miso",
+        "description": "Dashi base, miso paste, tofu, scallion",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tofu"
+      },
+      {
+        "name": "Seaweed Salad",
+        "description": "Sesame seed, sesame oil, shoyu",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "sesame"
+      },
+      {
+        "name": "Spring Mix",
+        "description": "Organic mixed greens, tomato, ginger dressing",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "xian-gourmet-house",
+    "menu_url": "https://xiangourmethouse.kwickmenu.com/",
+    "picks": [
+      {
+        "name": "Scallion Pancake",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pumpkin Cake (4 pc)",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Vegetable Spring Roll (2 pc)",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Cucumber Salad",
+        "description": "",
+        "course": "starter",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Mixed Vegetable (peanut)",
+        "description": "Cucumber, carrot, fungus, dry beancurd, peanut, coriander, scallion",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "peanut and beancurd"
+      },
+      {
+        "name": "Sweet potato fries w/. Sour plum powder",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Edamame",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "edamame"
+      },
+      {
+        "name": "Spicy Garlic Edamame",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "edamame"
+      },
+      {
+        "name": "Vegetable Hand-Pulled Noodle",
+        "description": "Spicy chili powder, green onion, minced garlic, soy bean sprouts, Napa cabbage, potato, carrot, king mushroom, dry tofu, black fungus",
+        "course": "main",
+        "kind": "main",
+        "hold": "soy bean sprouts and dry tofu"
+      },
+      {
+        "name": "Stir-Fry Tomato & Eggs Noodle",
+        "description": "Stir-fry tomato and eggs, spicy chili powder, green onion, minced garlic, soy bean sprouts, Napa cabbage",
+        "course": "main",
+        "kind": "main",
+        "hold": "egg and soy bean sprouts"
+      },
+      {
+        "name": "Vegetable Burger",
+        "description": "Stir-fry potato, carrot, king mushroom, dry tofu, black fungus",
+        "course": "main",
+        "kind": "main",
+        "hold": "dry tofu"
+      },
+      {
+        "name": "Cold Skin Noodle",
+        "description": "Soybean sprouts, cucumber with special vinegar sauce",
+        "course": "main",
+        "kind": "main",
+        "hold": "soybean sprouts"
+      }
+    ]
+  }
+]

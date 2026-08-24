@@ -57,6 +57,8 @@ export interface Restaurant {
   harvest_categories?: string[];
   /** Prior slugs. Captured menus may be filed under one of these. */
   aliases?: string[];
+  /** National or regional chain id. PKU picks are stored once under this id. */
+  chain?: string | null;
   cuisine?: string | null;
   /** Michelin price indication, stored verbatim: $, $$, $$$, $$$$. */
   price_tier?: string | null;

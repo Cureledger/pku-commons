@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Barley Swine",
+    "slug": "barley-swine",
+    "city_id": "austin-tx-us",
+    "website": "https://barleyswine.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "6555 Burnet Rd., Ste. 400, Austin, TX, 78757, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Craft Omakase",
+    "slug": "craft-omakase",
+    "city_id": "austin-tx-us",
+    "website": "https://craftomakase.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4400 N. Lamar Blvd., Ste. 102, Austin, TX, 78756, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hestia",
+    "slug": "hestia",
+    "city_id": "austin-tx-us",
+    "website": "https://hestiaaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "607 W. 3rd St., Austin, TX, 78701, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "InterStellar BBQ",
+    "slug": "interstellar-bbq",
+    "city_id": "austin-tx-us",
+    "website": "https://www.theinterstellarbbq.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "12233 Ranch Rd. 620 N., Ste. 105, Austin, TX, 78750, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "LeRoy and Lewis Barbecue",
+    "slug": "leroy-and-lewis-barbecue",
+    "city_id": "austin-tx-us",
+    "website": "https://leroyandlewisbbq.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5621 Emerald Forest Dr., Austin, TX, 78745, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "la Barbecue",
+    "slug": "la-barbecue",
+    "city_id": "austin-tx-us",
+    "website": "https://www.labarbecue.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2401 E. Cesar Chavez St., Austin, TX, 78702, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Briscuits",
+    "slug": "briscuits",
+    "city_id": "austin-tx-us",
+    "website": "https://briscuits.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4204 Menchaca Rd., Austin, TX, 78704, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cuantos Tacos",
+    "slug": "cuantos-tacos",
+    "city_id": "austin-tx-us",
+    "website": "https://www.cuantostacosaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1108 E. 12th St., Austin, TX, 78702, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Dai Due",
+    "slug": "dai-due",
+    "city_id": "austin-tx-us",
+    "website": "https://www.daidue.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "2406 Manor Rd., Ste. A, Austin, TX, 78722, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Distant Relatives",
+    "slug": "distant-relatives",
+    "city_id": "austin-tx-us",
+    "website": "https://www.distatantrelativesatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3901 Promontory Point Dr., Austin, TX, 78744, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Emmer & Rye",
+    "slug": "emmer-rye",
+    "city_id": "austin-tx-us",
+    "website": "https://emmerandrye.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "51 Rainey St., Austin, TX, 78701, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Franklin Barbecue",
+    "slug": "franklin-barbecue",
+    "city_id": "austin-tx-us",
+    "website": "https://franklinbbq.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "900 E. 11th St., Austin, TX, 78702, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "KG BBQ",
+    "slug": "kg-bbq",
+    "city_id": "austin-tx-us",
+    "website": "https://www.kgbbq.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3108 Manor Rd., Austin, TX, 78723, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kemuri Tatsu-ya",
+    "slug": "kemuri-tatsu-ya",
+    "city_id": "austin-tx-us",
+    "website": "https://www.kemuri-tatsuya.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2713 E. 2nd St., Austin, TX, 78702, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mercado Sin Nombre",
+    "slug": "mercado-sin-nombre",
+    "city_id": "austin-tx-us",
+    "website": "https://mercadosinnombre.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "408 N. Pleasant Valley Rd., Austin, TX, 78702, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Micklethwait Craft Meats",
+    "slug": "micklethwait-craft-meats",
+    "city_id": "austin-tx-us",
+    "website": "https://www.craftmeatsaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4602 Tanney St., Austin, TX, 78721, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nixta Taqueria",
+    "slug": "nixta-taqueria",
+    "city_id": "austin-tx-us",
+    "website": "https://www.nixtataqueria.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "2512 E. 12th St., Austin, TX, 78702, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Odd Duck",
+    "slug": "odd-duck",
+    "city_id": "austin-tx-us",
+    "website": "https://www.oddduckaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1201 S. Lamar Blvd., Austin, TX, 78704, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Parish Barbecue",
+    "slug": "parish-barbecue",
+    "city_id": "austin-tx-us",
+    "website": "https://parishbarbecue.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "10300 Springdale Rd., Austin, TX, 78754, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Veracruz Fonda & Bar",
+    "slug": "veracruz-fonda-bar",
+    "city_id": "austin-tx-us",
+    "website": "https://veracruzfonda.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1905 Aldrich St., Austin, TX, 78723, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Apt 115",
+    "slug": "apt-115",
+    "city_id": "austin-tx-us",
+    "website": "https://www.apartmentonefifteen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2025 E. 7th St., Austin, TX, 78702, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Birdie's",
+    "slug": "birdies",
+    "city_id": "austin-tx-us",
+    "website": "https://www.birdiesaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2944 E. 12th St., Austin, TX, 78702, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Comedor",
+    "slug": "comedor",
+    "city_id": "austin-tx-us",
+    "website": "https://comedortx.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "501 Colorado St., Austin, TX, 78701, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Discada",
+    "slug": "discada",
+    "city_id": "austin-tx-us",
+    "website": "https://www.discadatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1700 E. Cesar Chavez St., Austin, TX, 78702, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Este",
+    "slug": "este",
+    "city_id": "austin-tx-us",
+    "website": "https://www.esteatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2113 Manor Rd., Austin, TX, 78722, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ezov",
+    "slug": "ezov",
+    "city_id": "austin-tx-us",
+    "website": "https://ezovatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2708 E. Cesar Chavez St., Austin, TX, 78702, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fabrik",
+    "slug": "fabrik",
+    "city_id": "austin-tx-us",
+    "website": "https://www.fabrikatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3108 Windsor Rd., Austin, TX, 78703, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Garrison",
+    "slug": "garrison",
+    "city_id": "austin-tx-us",
+    "website": "https://www.garrisongrill.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "101 Red River St., Austin, TX, 78701, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jeffrey's",
+    "slug": "jeffreys",
+    "city_id": "austin-tx-us",
+    "website": "https://jeffreysofaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1204 W. Lynn St., Austin, TX, 78703, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Joe's Bakery & Coffee Shop",
+    "slug": "joes-bakery-coffee-shop",
+    "city_id": "austin-tx-us",
+    "website": "https://joesbakery.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2305 E. 7th St., Austin, TX, 78702, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "La Condesa",
+    "slug": "la-condesa",
+    "city_id": "austin-tx-us",
+    "website": "https://lacondesa.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "400 W. 2nd St., Austin, TX, 78701, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Launderette",
+    "slug": "launderette",
+    "city_id": "austin-tx-us",
+    "website": "https://launderetteaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2115 Holly St., Austin, TX, 78702, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Calamar",
+    "slug": "le-calamar",
+    "city_id": "austin-tx-us",
+    "website": "https://le-calamar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1600 S. 1st St., Ste. 100, Austin, TX, 78704, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lenoir",
+    "slug": "lenoir",
+    "city_id": "austin-tx-us",
+    "website": "https://www.lenoirrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1807 S. 1st St., Austin, TX, 78704, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ling Kitchen",
+    "slug": "ling-kitchen",
+    "city_id": "austin-tx-us",
+    "website": "https://lingkitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8423 Research Blvd., Austin, TX, 78758, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lutie's",
+    "slug": "luties",
+    "city_id": "austin-tx-us",
+    "website": "https://auberge.com/commodore-perry/dine/luties/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Commodore Perry Estate, Auberge Collection, 4100 Red River St., Austin, TX, 78751, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Maie Day",
+    "slug": "maie-day",
+    "city_id": "austin-tx-us",
+    "website": "https://www.maieday.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "South Congress Hotel, 1603 S. Congress Ave., Austin, TX, 78704, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mexta",
+    "slug": "mexta",
+    "city_id": "austin-tx-us",
+    "website": "https://mextarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "106 E. 6th St., Ste. 110, Austin, TX, 78701, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mum Foods Smokehouse & Delicatessen",
+    "slug": "mum-foods-smokehouse-delicatessen",
+    "city_id": "austin-tx-us",
+    "website": "https://www.mumfoodsatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5811 Manor Rd., Austin, TX, 78723, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Siti",
+    "slug": "siti",
+    "city_id": "austin-tx-us",
+    "website": "https://www.sitiatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Frances Modern Inn, 1123 E. 11th St., Austin, TX, 78702, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Suerte",
+    "slug": "suerte",
+    "city_id": "austin-tx-us",
+    "website": "https://www.suerteatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1800 E. 6th St., Austin, TX, 78702, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tare",
+    "slug": "tare",
+    "city_id": "austin-tx-us",
+    "website": "https://www.tareaustin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12414 Alderbrook Dr., Austin, TX, 78727, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Terry Black’s BBQ",
+    "slug": "terry-blacks-bbq",
+    "city_id": "austin-tx-us",
+    "website": "https://www.terryblacksbbq.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1003 Barton Springs Rd., Austin, TX, 78704, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Toshokan",
+    "slug": "toshokan",
+    "city_id": "austin-tx-us",
+    "website": "https://www.toshokanatx.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "807 E. 4th St., Austin, TX, 78702, USA",
+    "price_tier": "$$$$"
+  }
+]

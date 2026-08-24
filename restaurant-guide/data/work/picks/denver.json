@@ -1,0 +1,764 @@
+[
+  {
+    "slug": "mezcaleria-alma",
+    "menu_url": "https://www.mezcaleriaalma.com/s/MEZCALERIA-MENUS-WEB-VERSION-july-2026-nwfb.pdf",
+    "picks": [
+      {
+        "name": "Sweet Corn Aguachile",
+        "description": "Charred Avocado, Lemon Oil, Roasted Corn, Habanero Chicharron Oil",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Arroz A La Tumbada De Hongos",
+        "description": "Wild Mushroom Broth, duck Egg Yolk, Chive Jocoque, Crispy Wild Mushrooms",
+        "course": "main",
+        "kind": "main",
+        "hold": "egg yolk and jocoque"
+      },
+      {
+        "name": "Burrata Con Huitlacoche",
+        "description": "Huitlacoche Succotash, HEIRLOOM Tomatoes, Salsa Verde, Candied Pepitas, Toasted Sourdough",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata and pepitas"
+      }
+    ]
+  },
+  {
+    "slug": "ashkara",
+    "menu_url": "https://www.ashkaradenver.com/menus/",
+    "picks": [
+      {
+        "name": "Pickles",
+        "description": "cucumber, carrot, beet GF/VGN",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Castelvetrano Olives",
+        "description": "calabrian chili, orange GF/VGN",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Htipiti",
+        "description": "red pepper, fresno, feta, kalamata olive GF/VEG",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "feta"
+      },
+      {
+        "name": "Hummus",
+        "description": "organic chick peas, tahini, garlic, paprika, parsley GF/VGN",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "chick peas and tahini",
+        "note": "Tahini is sesame."
+      },
+      {
+        "name": "Whipped Labneh",
+        "description": "compressed strawberry, sofrito, blistered snap pea GF/VEG",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "labneh"
+      },
+      {
+        "name": "Carrot Kibbeh Nayyeh",
+        "description": "ground carrot \"tartare,\" apricot, sunflower seeds, baharat spice GF/VEG",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "sunflower seeds"
+      },
+      {
+        "name": "Babaganoush",
+        "description": "roasted eggplant, pepper ezme, crispy shallot, paprika oil GF/VGN",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mezze Trio",
+        "description": "htipiti, whipped labneh, and babaganoush GF/VEG",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "feta and labneh"
+      },
+      {
+        "name": "Falafel",
+        "description": "tomato tahini, urfa pepper VGN",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "falafel and tahini",
+        "note": "Tahini is sesame. Falafel is chickpea."
+      },
+      {
+        "name": "Za'atar Spiced Fries",
+        "description": "harissa aioli VEG",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aïoli is egg."
+      },
+      {
+        "name": "Saganaki",
+        "description": "kasseri cheese, ouzo, sumac, honey, lemon GF/VEG",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "kasseri"
+      },
+      {
+        "name": "Shishitos",
+        "description": "whipped feta, black garlic, lime VEG",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "feta"
+      },
+      {
+        "name": "Tahini Caesar Salad",
+        "description": "little gem lettuce, tahini caesar dressing, crispy chickpeas, radish GF",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "tahini and chickpeas",
+        "note": "Tahini is sesame. Caesar is usually egg and anchovy."
+      },
+      {
+        "name": "Greek Artichoke Salad",
+        "description": "marinated feta, confit tomato, kalamata olive, mixed greens, oregano vinaigrette GF/VEG",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "feta"
+      },
+      {
+        "name": "Grilled Asparagus",
+        "description": "ramp tzatziki, pickled allium, dill GF/VEG",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "tzatziki"
+      },
+      {
+        "name": "Wood-Fired Carrots",
+        "description": "herbed labneh, pistachio dukkah, parsley, chickpea, pickled onion GF/VEG",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "labneh, pistachio, and chickpea"
+      },
+      {
+        "name": "Roasted Eggplant Mashwiya",
+        "description": "roasted red pepper, hatch chile, tomato, paprika VEG. Tagine served with saffron-red pepper base, potato, urfa onion, carrot, coconut cream, spiced rice and paratha roti.",
+        "course": "main",
+        "kind": "main",
+        "hold": "coconut cream"
+      },
+      {
+        "name": "Wood-Fired Pita",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Crudite",
+        "description": "cucumber, carrot, red pepper, evo, salt",
+        "course": "starter",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "glo-noodle-house",
+    "menu_url": "https://glonoodlehouse.com/menu",
+    "picks": [
+      {
+        "name": "EDAMAME",
+        "description": "garlic soy, togarashi",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "edamame"
+      },
+      {
+        "name": "CUCUMBERS",
+        "description": "scallion dressing, chili oil, marcona almonds, sesame",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "almonds and sesame"
+      },
+      {
+        "name": "CABBAGE SALAD",
+        "description": "sesame vinaigrette, chili crisp, green onion, tempura crispies",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "sesame"
+      },
+      {
+        "name": "POTATOES",
+        "description": "tofu aioli, rayu furikake",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "tofu aioli",
+        "note": "Aïoli is egg. Tofu is soybean."
+      },
+      {
+        "name": "MARINATED TOFU",
+        "description": "umeboshi miso, almond chili crunch, green onion",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tofu and almond"
+      },
+      {
+        "name": "SPICY MUSHROOM",
+        "description": "mushroom dashi, chili, roasted mushrooms, bok choy, menma, green onion, bean sprouts, crispy shallot, onsen egg, black garlic oil",
+        "course": "main",
+        "kind": "main",
+        "hold": "egg"
+      }
+    ]
+  },
+  {
+    "slug": "mister-oso",
+    "menu_url": "https://www.misterosodenver.com/rino-menus/",
+    "picks": [
+      {
+        "name": "Spicy Bear Caesar Salad 2.0",
+        "description": "Chopped romaine and napa cabbage, radish, cucumber, parmesan, chile spiked Caesar dressing, crispy masa and shallots",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan",
+        "note": "Caesar is usually egg and anchovy."
+      },
+      {
+        "name": "Brussels Sprout Salad",
+        "description": "Avocado, dried papaya, cotija, onion, almonds, quinoa, creamy tomatillo dressing",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "cotija and almonds"
+      },
+      {
+        "name": "Chips & Salsa",
+        "description": "With choice of salsa roja, taqueria avocado, or red jalapeño",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Guacamole",
+        "description": "Pumpkin seed, sesame and pistachio, tortilla chips",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pumpkin seed, sesame, and pistachio"
+      },
+      {
+        "name": "Queso Fundido",
+        "description": "Peanut & sesame salsa macha, pico verde, tortilla chips",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "cheese, peanut, and sesame"
+      },
+      {
+        "name": "Elote Corn \"Ribs\"",
+        "description": "citrus jalapeno aioli, cotija cheese, chile garlic crunch, cilantro, lime",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "aioli and cotija",
+        "note": "Aïoli is egg."
+      },
+      {
+        "name": "Heirloom Tomato & Avocado Salad",
+        "description": "cherry tomato escabeche, herby ranch dressing, chile garlic crunch, puffed rice, cilantro, basil",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "Coconut Rice",
+        "description": "Onion, Fresno peppers, cilantro, lime",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Smoked Potatoes",
+        "description": "Confit and smoked Yukon gold potatoes, chile crunch, crema, scallion, & cilantro",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "crema"
+      },
+      {
+        "name": "Beans Refritos",
+        "description": "Vegetarian refried heirloom beans, sofrito verde, queso fresco, lemon",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "beans and queso fresco"
+      },
+      {
+        "name": "Calabacitas & Corn",
+        "description": "smoked and roasted summer squash, grilled corn, pistachio sikil pak, charred scallion crema, pickled red onion, fresno chile, cilantro",
+        "course": "main",
+        "kind": "main",
+        "hold": "pistachio and crema"
+      }
+    ]
+  },
+  {
+    "slug": "the-ginger-pig",
+    "menu_url": "https://www.gingerpig.com/denver-menus",
+    "picks": [
+      {
+        "name": "PAI HUANG GUA - CHINESE SMASHED CUCUMBER SALAD",
+        "description": "English cucumbers, house Sichuan vinaigrette, cilantro, sesame seeds.",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "sesame"
+      },
+      {
+        "name": "VEGETABLE EGGROLLS",
+        "description": "cabbage, carrot, green bean, onion, ginger, garlic. sweet chili garlic & spicy Chinese mustard. 5 per order.",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "NASU DENGAKU - JAPANESE MISO EGGPLANT",
+        "description": "miso-glazed eggplant, with thai jasmine rice and chinese smashed cucumber salad.",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "YU XIANG QIEZI - SICHUAN SPICY EGGPLANT",
+        "description": "Chinese eggplant, garlic, ginger, scallion, doubanjiang, sambal, with thai jasmine rice and chinese smashed cucumber salad.",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "MAC SALAD",
+        "description": "Hawaiian-style macaroni salad",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "a5-steakhouse",
+    "menu_url": "https://www.a5denver.com/menus/",
+    "picks": [
+      {
+        "name": "Our House",
+        "description": "ramp goddess, snow peas, radish, peanut chili crunch, kanaal",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "peanut"
+      },
+      {
+        "name": "Caesar",
+        "description": "little gems, spicy anchovy dressing, torn croutons, cured egg yolk, poached egg, grana padano",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "anchovy, egg, and grana padano"
+      },
+      {
+        "name": "Wedge",
+        "description": "roquefort dressing, super crunch, confit tomato, bacon lardon, avocado",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "roquefort and bacon"
+      },
+      {
+        "name": "Kennebec Fries",
+        "description": "beer batter, fry spice, umami aioli",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aïoli is egg."
+      },
+      {
+        "name": "Whipped Potatoes",
+        "description": "yukon gold potatoes, whipped with butter & chives",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "butter"
+      },
+      {
+        "name": "Wok Tossed Broccolini",
+        "description": "bok choy, lemongrass soffritto, demi glace, fried shallots",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Asparagus",
+        "description": "curried peccorino, anchovy breadcrumbs, herb oil, caccio ricotta",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pecorino, anchovy, and ricotta"
+      },
+      {
+        "name": "Roasted Mushrooms",
+        "description": "king trumpets, XO butter, pickled shallots, umami fraîche",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "XO butter and fraîche"
+      }
+    ]
+  },
+  {
+    "slug": "barolo-grill",
+    "menu_url": "https://www.barologrilldenver.com/s/Dining-Menu-72826.pdf",
+    "picks": [
+      {
+        "name": "Soufflé di gorgonzola",
+        "description": "gorgonzola picante soufflé, hazelnuts, orange compote, gorgonzola fonduta",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "gorgonzola, egg, and hazelnuts"
+      },
+      {
+        "name": "'Super' caprese",
+        "description": "colorado heirloom tomatoes, burrata cheese, balsamic pearls, basil gelée, extra virgin olive oil powder",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "burrata"
+      },
+      {
+        "name": "Risotto alla zafferano",
+        "description": "eight year-aged acquerello carnaroli rice, saffron, crispy zucchini, robiola fonduta",
+        "course": "main",
+        "kind": "main",
+        "hold": "robiola"
+      },
+      {
+        "name": "Gnocchi al Pomodoro",
+        "description": "house-made potato gnocchi, crushed heirloom tomato sauce, basil-pistachio pesto, La Spinetta olive oil",
+        "course": "main",
+        "kind": "main",
+        "hold": "pistachio"
+      },
+      {
+        "name": "Agnolotti di mais",
+        "description": "traditional piemontese pinches of pasta stuffed with colorado sweet corn and mascarpone, castelmagno cheese, scallions, espelette pepper",
+        "course": "main",
+        "kind": "main",
+        "hold": "mascarpone and castelmagno"
+      }
+    ]
+  },
+  {
+    "slug": "guard-and-grace",
+    "menu_url": "https://www.guardandgrace.com/denver-menu",
+    "picks": [
+      {
+        "name": "Oak Fired Carrots",
+        "description": "herb yogurt, carrot top salad, pistachio crumble",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "yogurt and pistachio"
+      },
+      {
+        "name": "Whipped Italian Burrata",
+        "description": "roasted tomato vinaigrette, warm heirloom tomato confit",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata"
+      },
+      {
+        "name": "G&G House",
+        "description": "heirloom cherry tomato, sunflower seeds, parmesan reggiano, white balsamic vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "sunflower seeds and parmesan"
+      },
+      {
+        "name": "Caesar",
+        "description": "hearts of romaine, avocado, parmesan crisp, cherry tomato, white anchovy",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan and anchovy",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "Black Truffle Mac & Cheese",
+        "description": "truffle béchamel",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese and béchamel"
+      },
+      {
+        "name": "Crispy Brussels Sprouts",
+        "description": "lemon, grana padano",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "grana padano"
+      },
+      {
+        "name": "Hand Made Gnocchi",
+        "description": "truffle, chive",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "G&G Fries",
+        "description": "classic",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Oak-Grilled Broccolini",
+        "description": "nam chim, crispy shallots, asian herbs",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Crispy Potato Pave",
+        "description": "caramelized onion crema",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "crema"
+      },
+      {
+        "name": "Whipped Potatoes",
+        "description": "chive butter, grana padano",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "butter and grana padano"
+      },
+      {
+        "name": "Foraged Mushrooms",
+        "description": "sherry, herbs",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "hey-kiddo",
+    "menu_url": "https://www.hk-oy.com/s/HK-Menu_Winter-2026_website.pdf",
+    "picks": [
+      {
+        "name": "SMACKED CUCUMBER",
+        "description": "chili crunch, pumpkin seed, cilantro",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pumpkin seed"
+      },
+      {
+        "name": "CAESAR SALAD",
+        "description": "anchovy, grana padano, pistachio",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "anchovy, grana padano, and pistachio",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "GRILLED MUSHROOMS",
+        "description": "winter squash ponzu, sesame",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "sesame"
+      },
+      {
+        "name": "POTATO PAVÉ",
+        "description": "trout roe, gravy, chives",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "trout roe"
+      },
+      {
+        "name": "AUNTIE’S KIMCHI",
+        "description": "rotating in-house ferments",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "mercantile",
+    "menu_url": "https://www.mercantiledenver.com/menus/",
+    "picks": [
+      {
+        "name": "Spiced Carrots",
+        "description": "Whipped feta, cashew dukkah, carrot gastrique",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "feta and cashew"
+      },
+      {
+        "name": "Stone Fruit Salad",
+        "description": "summer stone fruits, co. goat cheese, rebel farms, greens, pistachio, leopold bros, red wine vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "goat cheese and pistachio"
+      },
+      {
+        "name": "Burrata & Peaches",
+        "description": "palisade peaches, morita agave, summer chicories, lemon honey, ja’ala",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata"
+      },
+      {
+        "name": "Japanese Eggplant",
+        "description": "Nduja agrodolce, smoked yoghurt, mint, fried herbs",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "yoghurt"
+      },
+      {
+        "name": "Heirloom Corn Fritter",
+        "description": "corn crema, onion conserva, cippolini & tomato vinaigrette",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "crema"
+      },
+      {
+        "name": "Watermelon & Cucumber",
+        "description": "roasted watermelon in ponzu, cucumber, black olive, rind relish, chili, mint",
+        "course": "starter",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Heirloom Baby Beets",
+        "description": "Buck & bloom co fromage blanc, clove zhug, blood orange, salsify",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "fromage blanc"
+      },
+      {
+        "name": "Carolina Gold Rice & Summer Squash",
+        "description": "squash & coconut bisque, black olive, patty pan squash, medley of summer flowers & herbs",
+        "course": "main",
+        "kind": "main"
+      }
+    ]
+  },
+  {
+    "slug": "smok",
+    "menu_url": "https://www.denversmok.com/menu/sides",
+    "picks": [
+      {
+        "name": "Mac & Cheese",
+        "description": "white cheddar, black pepper",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheddar"
+      },
+      {
+        "name": "Seasoned Fries",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Side Of Chips",
+        "description": "corn tortilla chips",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Sweet Potato Tots",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Creamed Corn",
+        "description": "corn, cream, lime, elote spice, queso fresco",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cream and queso fresco"
+      },
+      {
+        "name": "Coleslaw",
+        "description": "mayo, vinegar, scallion, cabbage, carrots, ginger",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "mayo",
+        "note": "Mayonnaise is egg."
+      },
+      {
+        "name": "Cornbread",
+        "description": "2 pcs per order. hatch chile, cheddar, honey butter",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheddar and butter"
+      }
+    ]
+  },
+  {
+    "slug": "kawa-ni",
+    "menu_url": "https://www.kawanidenver.com/s/820-Dinner.pdf",
+    "picks": [
+      {
+        "name": "TOFU POCKETS",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tofu"
+      },
+      {
+        "name": "ADDICTIVE CABBAGE",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "CUCUMBERS",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "STEAMED EDAMAME",
+        "description": "plain-salted",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "edamame"
+      },
+      {
+        "name": "SALT + PEPPER TOFU",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tofu"
+      },
+      {
+        "name": "SHISHITOS + GRAPEFRUIT",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "PICKLED TOFU BAO",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tofu"
+      },
+      {
+        "name": "GOMA MISO",
+        "description": "cannolo farms mushrooms, leeks, menma, bean sprouts + miso noodles",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "COLD SESAME NOODLES",
+        "description": "sesame + peanut sauce, chili crunch + szechuan pickled vegetables",
+        "course": "main",
+        "kind": "main",
+        "hold": "sesame and peanut"
+      }
+    ]
+  },
+  {
+    "slug": "makfam",
+    "menu_url": "https://media-cdn.getbento.com/accounts/0096fc13b486f23fdea6f1deece52a8d/media/TUs7eBpSRAq26l7YY3Or_mmm%20new.pdf",
+    "picks": [
+      {
+        "name": "MALA STICKY FRIES",
+        "description": "vegan Uncle Tony's chili oil, mala, hoisin sauce",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "GINGER SCALLION NOODLES",
+        "description": "wheat noodles wok-tossed with ginger scallion oil & cabbage with your choice of tofu or chicken",
+        "course": "main",
+        "kind": "main",
+        "hold": "tofu"
+      }
+    ]
+  }
+]

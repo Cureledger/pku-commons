@@ -1,0 +1,831 @@
+[
+  {
+    "name": "La Pergola",
+    "slug": "la-pergola",
+    "city_id": "rome-it",
+    "website": "https://romecavalieri.com/it/la-pergola-it/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Via Alberto Cadlolo, 101, Rome, 00136, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Acquolina",
+    "slug": "acquolina",
+    "city_id": "rome-it",
+    "website": "https://www.acquolinaristorante.it/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Via del Vantaggio 14, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Enoteca La Torre",
+    "slug": "enoteca-la-torre",
+    "city_id": "rome-it",
+    "website": "https://villalaetitia.enotecalatorre.group/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Lungotevere delle Armi 22/23, Rome, 00195, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Il Pagliaccio",
+    "slug": "il-pagliaccio",
+    "city_id": "rome-it",
+    "website": "https://www.ristoranteilpagliaccio.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Via dei Banchi Vecchi 129/a, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Achilli al Parlamento",
+    "slug": "achilli-al-parlamento",
+    "city_id": "rome-it",
+    "website": "https://achilli.restaurant",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Via dei Prefetti 15, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "All'Oro",
+    "slug": "alloro",
+    "city_id": "rome-it",
+    "website": "https://www.ristorantealloro.it/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Via Giuseppe Pisanelli 25, Rome, 00196, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Aroma",
+    "slug": "aroma",
+    "city_id": "rome-it",
+    "website": "https://www.manfredihotels.com/aroma/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Via Labicana 125, Rome, 00184, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Glass Hostaria",
+    "slug": "glass-hostaria",
+    "city_id": "rome-it",
+    "website": "https://glasshostaria.it/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Vicolo del Cinque 58, Rome, 00153, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "INEO",
+    "slug": "ineo",
+    "city_id": "rome-it",
+    "website": "https://www.ineorestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Piazza della Repubblica 46, Rome, 00184, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Idylio by Apreda",
+    "slug": "idylio-by-apreda",
+    "city_id": "rome-it",
+    "website": "https://www.thepantheonhotel.com/idylio-by-apreda/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Piazza dei Caprettari, 56/60, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Il Convivio Troiani",
+    "slug": "il-convivio-troiani",
+    "city_id": "rome-it",
+    "website": "https://www.ilconviviotroiani.it/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Vicolo dei Soldati 31, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Imàgo",
+    "slug": "imago",
+    "city_id": "rome-it",
+    "website": "https://www.imagorestaurant.it/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Piazza Trinità dei Monti 6, Rome, 00187, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Terrazza",
+    "slug": "la-terrazza",
+    "city_id": "rome-it",
+    "website": "https://www.dorchestercollection.com/it/rome/hotel-eden/ristoranti-bar/la-terrazza/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Via Ludovisi 49, Rome, 00187, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Marco Martini Restaurant",
+    "slug": "marco-martini-restaurant",
+    "city_id": "rome-it",
+    "website": "https://www.marcomartinichef.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Viale Aventino 121, Rome, 00153, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Moma",
+    "slug": "moma",
+    "city_id": "rome-it",
+    "website": "https://www.ristorantemoma.it/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Via di San Basilio 42, Rome, 00187, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Orma Roma",
+    "slug": "orma-roma",
+    "city_id": "rome-it",
+    "website": "https://www.ormaroma.it",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Via Boncompagni 31, Rome, 00187, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Per Me Giulio Terrinoni",
+    "slug": "per-me-giulio-terrinoni",
+    "city_id": "rome-it",
+    "website": "https://www.giulioterrinoni.it",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "vicolo del Malpasso 9, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pipero Roma",
+    "slug": "pipero-roma",
+    "city_id": "rome-it",
+    "website": "https://www.piperoroma.it/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "corso Vittorio Emanuele II 250, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pulejo",
+    "slug": "pulejo",
+    "city_id": "rome-it",
+    "website": "https://pulejo.it",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "via dei Gracchi 31, Rome, 00192, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zia",
+    "slug": "zia",
+    "city_id": "rome-it",
+    "website": "https://ziarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "via Goffredo Mameli 45, Rome, 00153, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "53 Untitled",
+    "slug": "53-untitled",
+    "city_id": "rome-it",
+    "website": "https://www.untitledrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Via del Monte della Farina 53, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Domenico dal 1968",
+    "slug": "domenico-dal-1968",
+    "city_id": "rome-it",
+    "website": "https://www.domenicodal1968.it/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "via Satrico 21, Rome, 00183, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Green T.",
+    "slug": "green-t",
+    "city_id": "rome-it",
+    "website": "https://www.green-tea.it/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Via del Piè di Marmo 28, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hosteria Grappolo d'Oro",
+    "slug": "hosteria-grappolo-doro",
+    "city_id": "rome-it",
+    "website": "https://hosteriagrappolodoro.it/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Piazza della Cancelleria 80, Rome, 00186, Italy",
+    "price_tier": "$"
+  },
+  {
+    "name": "L'Osteria della Trippa",
+    "slug": "losteria-della-trippa",
+    "city_id": "rome-it",
+    "website": "https://www.losteriadellatrippa.it",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Via Goffredo Mameli 15, Rome, 00153, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Romanè",
+    "slug": "romane",
+    "city_id": "rome-it",
+    "website": "https://www.romaneviacipro106.it/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "via Cipro 106, Rome, 00136, Italy",
+    "price_tier": "$"
+  },
+  {
+    "name": "Trattoria Pennestri",
+    "slug": "trattoria-pennestri",
+    "city_id": "rome-it",
+    "website": "https://trattoriapennestri.it/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "via Giovanni Da Empoli 5, Rome, 00154, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Acciuga",
+    "slug": "acciuga",
+    "city_id": "rome-it",
+    "website": "https://www.acciugaroma.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Vodice 25, Rome, 00195, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Adelaide",
+    "slug": "adelaide",
+    "city_id": "rome-it",
+    "website": "https://hotelvilon.com/ristorante-salotto/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via dell'Arancio 69, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Antica Pesa",
+    "slug": "antica-pesa",
+    "city_id": "rome-it",
+    "website": "https://www.anticapesa.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Garibaldi 18, Rome, 00153, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Armando al Pantheon",
+    "slug": "armando-al-pantheon",
+    "city_id": "rome-it",
+    "website": "https://www.armandoalpantheon.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Salita de' Crescenzi 31, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistrot 64",
+    "slug": "bistrot-64",
+    "city_id": "rome-it",
+    "website": "https://www.bistrot64.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Guglielmo Calderini 64, Rome, 00196, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Campocori",
+    "slug": "campocori",
+    "city_id": "rome-it",
+    "website": "https://www.chapter-roma.com/?page_id=3199",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via di Santa Maria de' Calderari 49, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Carter Oblio",
+    "slug": "carter-oblio",
+    "city_id": "rome-it",
+    "website": "https://www.carteroblio.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Giuseppe Gioachino Belli 21, Rome, 00193, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Casa Coppelle",
+    "slug": "casa-coppelle",
+    "city_id": "rome-it",
+    "website": "https://www.casacoppelle.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "piazza delle Coppelle 49, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "CiPASSO",
+    "slug": "cipasso",
+    "city_id": "rome-it",
+    "website": "https://www.cipassoitalia.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Metastasio 21, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Colline Emiliane",
+    "slug": "colline-emiliane",
+    "city_id": "rome-it",
+    "website": "https://www.collineemiliane.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via degli Avignonesi 22, Rome, 00187, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Da Cesare",
+    "slug": "da-cesare",
+    "city_id": "rome-it",
+    "website": "https://www.ristorantecesare.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Crescenzio 13, Rome, 00193, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Diana's Place",
+    "slug": "dianas-place",
+    "city_id": "rome-it",
+    "website": "https://www.dianasplace.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Volturno 54, Rome, 00185, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Dogma",
+    "slug": "dogma",
+    "city_id": "rome-it",
+    "website": "https://www.ristorantedogma.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "piazza Zama 34, Rome, 00183, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ego",
+    "slug": "ego",
+    "city_id": "rome-it",
+    "website": "https://www.egorestaurant.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Etruria 35, Rome, 00183, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Enoteca Cavour 313",
+    "slug": "enoteca-cavour-313",
+    "city_id": "rome-it",
+    "website": "https://www.cavour313.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Cavour 313, Rome, 00184, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gainn",
+    "slug": "gainn",
+    "city_id": "rome-it",
+    "website": "https://www.gainnrome.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via dei Mille 18, Rome, 00185, Italy",
+    "price_tier": "$"
+  },
+  {
+    "name": "Giano",
+    "slug": "giano",
+    "city_id": "rome-it",
+    "website": "https://www.gianorestaurant.com/it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Liguria 28, Rome, 00187, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Il Marchese - Osteria Mercato Liquori",
+    "slug": "il-marchese-osteria-mercato-liquori",
+    "city_id": "rome-it",
+    "website": "https://www.ilmarcheseroma.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via di Ripetta 162, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Il Ristorante - Niko Romito",
+    "slug": "il-ristorante-niko-romito",
+    "city_id": "rome-it",
+    "website": "https://www.bulgarihotels.com/it_IT/rome/dining/il-ristorante-niko-romito",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via di Ripetta 73, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Il Ristorante Alain Ducasse Roma",
+    "slug": "il-ristorante-alain-ducasse-roma",
+    "city_id": "rome-it",
+    "website": "https://theromeocollection.com/it/romeo-roma/restaurants-bar/il-ristorante-alain-ducasse/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via di Ripetta 246, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Il Sanlorenzo",
+    "slug": "il-sanlorenzo",
+    "city_id": "rome-it",
+    "website": "https://www.ilsanlorenzo.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via dei Chiavari 4/5, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kohaku",
+    "slug": "kohaku",
+    "city_id": "rome-it",
+    "website": "https://www.kohakurome.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Marche 66, Rome, 00187, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Arcangelo",
+    "slug": "larcangelo",
+    "city_id": "rome-it",
+    "website": "https://www.larcangelo.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Giuseppe Gioacchino Belli 59, Rome, 00193, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Ciambella",
+    "slug": "la-ciambella",
+    "city_id": "rome-it",
+    "website": "https://www.la-ciambella.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via dell'Arco della Ciambella 20, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Livello 1",
+    "slug": "livello-1",
+    "city_id": "rome-it",
+    "website": "https://www.ristorantelivello1.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Duccio di Buoninsegna 25, Rome, 00142, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Luciano Cucina Italiana",
+    "slug": "luciano-cucina-italiana",
+    "city_id": "rome-it",
+    "website": "https://www.lucianomonosilio.it/luciano-cucina-italiana/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Piazza del Teatro di Pompeo 18, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mamma Orso",
+    "slug": "mamma-orso",
+    "city_id": "rome-it",
+    "website": "https://www.ristorantemammaorso.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Arezzo 17, Rome, 00161, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mater Terrae",
+    "slug": "mater-terrae",
+    "city_id": "rome-it",
+    "website": "https://www.biohotelraphael.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Largo Febo 2, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Menabò Vino e Cucina",
+    "slug": "menabo-vino-e-cucina",
+    "city_id": "rome-it",
+    "website": "https://menabovinoecucina.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via delle Palme 44 d/e, Rome, 00171, Italy",
+    "price_tier": "$"
+  },
+  {
+    "name": "Mirabelle",
+    "slug": "mirabelle",
+    "city_id": "rome-it",
+    "website": "https://www.mirabelle.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via di Porta Pinciana 14, Rome, 00187, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Moi",
+    "slug": "moi",
+    "city_id": "rome-it",
+    "website": "https://www.ristorantemoi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via Antonio Serra 15, Rome, 00191, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nomos Ante",
+    "slug": "nomos-ante",
+    "city_id": "rome-it",
+    "website": "https://nomoshotel.com/nomos-ante/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via di San Paolo alla Regola, 3, Rome, 00186, Italy",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Osteria Fernanda",
+    "slug": "osteria-fernanda",
+    "city_id": "rome-it",
+    "website": "https://www.osteriafernanda.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Crescenzo Del Monte 18/24, Rome, 00153, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pirò",
+    "slug": "piro",
+    "city_id": "rome-it",
+    "website": "https://piroosteriadipesce.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "vicolo della Cancelleria 36, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Poldo e Gianna Osteria",
+    "slug": "poldo-e-gianna-osteria",
+    "city_id": "rome-it",
+    "website": "https://www.poldoegianna.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "vicolo Rosini 6/7, Rome, 00186, Italy",
+    "price_tier": "$"
+  },
+  {
+    "name": "Retrobottega",
+    "slug": "retrobottega",
+    "city_id": "rome-it",
+    "website": "https://www.retro-bottega.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via del Velabro 9, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Roscioli",
+    "slug": "roscioli",
+    "city_id": "rome-it",
+    "website": "https://www.salumeriaroscioli.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via dei Giubbonari 21, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "San Baylon",
+    "slug": "san-baylon",
+    "city_id": "rome-it",
+    "website": "https://www.sanbaylon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via di Ripetta 232, Rome, 00186, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Shiroya",
+    "slug": "shiroya",
+    "city_id": "rome-it",
+    "website": "https://www.shiroya.it",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via dei Baullari 147, Rome, 00186, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sushisen",
+    "slug": "sushisen",
+    "city_id": "rome-it",
+    "website": "https://www.sushisen.it/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Giuseppe Giulietti 21/a, Rome, 00154, Italy",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taverna Trilussa",
+    "slug": "taverna-trilussa",
+    "city_id": "rome-it",
+    "website": "https://tavernatrilussa.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Via del Politeama 23, Rome, 00153, Italy",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Trattoria del Pesce",
+    "slug": "trattoria-del-pesce",
+    "city_id": "rome-it",
+    "website": "https://www.trattoriadelpesce.it/wp/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "via Folco Portinari 27, Rome, 00151, Italy",
+    "price_tier": "$$"
+  }
+]

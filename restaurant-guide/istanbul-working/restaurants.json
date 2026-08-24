@@ -1,0 +1,1388 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "istanbul-tr",
+ "restaurant_count": 35,
+ "restaurants": [
+  {
+   "restaurant_id": "istanbul-tr/ahmet-ustam-ocakbas",
+   "city_id": "istanbul-tr",
+   "slug": "ahmet-ustam-ocakbas",
+   "name": "Ahmet Ustam Ocakbaşı",
+   "website": "",
+   "address": "Maslak Mahallesi, Dereboyu 2 Caddesi No:8/1, Sarıyer, Istanbul, 34485, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/ahmet-ustam-ocakbas%C4%B1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/ahmet-ustam-ocakbas%C4%B1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/mahir-lokantas",
+   "city_id": "istanbul-tr",
+   "slug": "mahir-lokantas",
+   "name": "Mahir Lokantası",
+   "website": "",
+   "address": "Cumhuriyet, Tavukçu Fethi Sokak No:28/B, Şişli, Istanbul, 34380, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/mahir-lokantas%C4%B1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/mahir-lokantas%C4%B1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/nazende-cadde",
+   "city_id": "istanbul-tr",
+   "slug": "nazende-cadde",
+   "name": "Nazende Cadde",
+   "website": "",
+   "address": "Caddebostan Mahallesi, Bağdat Caddesi Kınayman B Blok No: 345A, Kadıköy, Istanbul, 34728, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/nazende-cadde"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/nazende-cadde",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/azur",
+   "city_id": "istanbul-tr",
+   "slug": "azur",
+   "name": "AZUR",
+   "website": "",
+   "address": "Yeniköy Mahallesi, Köybaşı Caddesi No:71, Sarıyer, Istanbul, 34464, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/azur"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/azur",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/apartman-yenikoy",
+   "city_id": "istanbul-tr",
+   "slug": "apartman-yenikoy",
+   "name": "Apartıman Yeniköy",
+   "website": "",
+   "address": "Yeniköy, Köybaşı Caddesi No:153, Sarıyer, Istanbul, 34464, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/apart%C4%B1man-yenikoy"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/apart%C4%B1man-yenikoy",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/basta-neo-bistro",
+   "city_id": "istanbul-tr",
+   "slug": "basta-neo-bistro",
+   "name": "Basta Neo Bistro",
+   "website": "",
+   "address": "Caddebostan, Operatör Cemil Topuzlu Caddesi No:39, Kadıköy, Istanbul, 34728, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/basta-neo-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/basta-neo-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/havus-lokantas",
+   "city_id": "istanbul-tr",
+   "slug": "havus-lokantas",
+   "name": "Havuş Lokantası",
+   "website": "",
+   "address": "Ataköy 2-5-6, Rauf Orbay Caddesi Kapı No-4 İç Kapı No-7, Yalı Ataköy, Bakırköy, Istanbul, 34158, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/havus-lokantas%C4%B1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/havus-lokantas%C4%B1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/liman-istanbul",
+   "city_id": "istanbul-tr",
+   "slug": "liman-istanbul",
+   "name": "Liman İstanbul",
+   "website": "",
+   "address": "Kılıçali Paşa Mahallesi, Meclis-i Mebusan Sokak O2 Blok No:8 D:102 Galataport, Beyoğlu, Istanbul, 34433, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/liman-istanbul"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/liman-istanbul",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/monteverdi-ristorante",
+   "city_id": "istanbul-tr",
+   "slug": "monteverdi-ristorante",
+   "name": "Monteverdi Ristorante",
+   "website": "",
+   "address": "Cihannüma, Saray Caddesi No:5, Beşiktaş, Istanbul, 34353, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/monteverdi-ristorante"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/monteverdi-ristorante",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/muutto-anatolian-tapas-bar",
+   "city_id": "istanbul-tr",
+   "slug": "muutto-anatolian-tapas-bar",
+   "name": "Muutto Anatolian Tapas Bar",
+   "website": "",
+   "address": "Kılıçali Paşa, Meclis-i Mebusan Caddesi No:8, Beyoğlu, Istanbul, 34433, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/muutto-anatolian-tapas-bar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/muutto-anatolian-tapas-bar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/sapa-istanbul",
+   "city_id": "istanbul-tr",
+   "slug": "sapa-istanbul",
+   "name": "Sapa İstanbul",
+   "website": "",
+   "address": "Küçükbakkalköy Mahallesi, Rüya Sokak No:12/18A, Ataşehir, Istanbul, 34750, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/sapa-istanbul"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/sapa-istanbul",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/sral-kebap",
+   "city_id": "istanbul-tr",
+   "slug": "sral-kebap",
+   "name": "Sıralı Kebap",
+   "website": "",
+   "address": "Nispetiye Caddesi No:74, Beşiktaş, Istanbul, 34340, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/s%C4%B1ral%C4%B1-kebap"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/s%C4%B1ral%C4%B1-kebap",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/turk-fatih-tutak",
+   "city_id": "istanbul-tr",
+   "slug": "turk-fatih-tutak",
+   "name": "TURK FATİH TUTAK",
+   "website": "https://www.turkft.com/",
+   "address": "Bomonti, Cumhuriyet Hacıahmet Silahşör Caddesi, Yeniyol Sokak No:2, Şişli, Istanbul, 34440, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/turk-fatih-tutak"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/turk-fatih-tutak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/turk-fatih-tutak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/casa-lavanda",
+   "city_id": "istanbul-tr",
+   "slug": "casa-lavanda",
+   "name": "Casa Lavanda",
+   "website": "https://www.casalavanda.com.tr/",
+   "address": "Ulupelit Köyü, Seçilmiş Sokak No:2, Şile, Istanbul, 34980, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/casa-lavanda"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/casa-lavanda"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/casa-lavanda",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/neolokal",
+   "city_id": "istanbul-tr",
+   "slug": "neolokal",
+   "name": "Neolokal",
+   "website": "https://www.neolokal.com/",
+   "address": "Arap Camii Mahallesi, Bankalar Caddesi No:11/1, Beyoğlu, Istanbul, 34420, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/neolokal"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/neolokal"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/neolokal",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/ali-ocakbas-karakoy",
+   "city_id": "istanbul-tr",
+   "slug": "ali-ocakbas-karakoy",
+   "name": "Ali Ocakbaşı Karaköy",
+   "website": "https://www.aliocakbasi.com/",
+   "address": "Arap Camii Mahallesi, Tersane Caddesi, Kardeşim Sokak No:45 Kat 4, Beyoğlu, Istanbul, 34421, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/ali-ocakbas%C4%B1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/ali-ocakbas%C4%B1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/tatbak",
+   "city_id": "istanbul-tr",
+   "slug": "tatbak",
+   "name": "Tatbak",
+   "website": "https://www.tatbak.com/",
+   "address": "Valikonağı Caddesi, Akkavak Sokak No:38/B, Nişantaşı/Şişli, Istanbul, 34365, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/tatbak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/tatbak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/tavac-recep-usta-bostanc",
+   "city_id": "istanbul-tr",
+   "slug": "tavac-recep-usta-bostanc",
+   "name": "Tavacı Recep Usta Bostancı",
+   "website": "https://tavacirecepusta.com.tr/",
+   "address": "Altintepe, Bağdat Caddesi, No:6, Maltepe, Istanbul, 34840, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/tavac%C4%B1-recep-usta-bostanc%C4%B1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/tavac%C4%B1-recep-usta-bostanc%C4%B1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/tershane",
+   "city_id": "istanbul-tr",
+   "slug": "tershane",
+   "name": "Tershane",
+   "website": "https://www.tershanerestaurant.com/",
+   "address": "Arap Cami Mahallesi, Tersane Caddesi No:24, Karaköy/Beyoğlu, Hotel Momento 8th Floor (8. kat), Istanbul, 34420, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/tershane"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/tershane",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/yanyal-fehmi-lokantas",
+   "city_id": "istanbul-tr",
+   "slug": "yanyal-fehmi-lokantas",
+   "name": "Yanyalı Fehmi Lokantası",
+   "website": "https://www.fehmilokantasi.com/",
+   "address": "Osmanağa Mahallesi, Yağlıkçı İsmail Sokak No:1, Kadıköy, Istanbul, 34714, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/yanyal%C4%B1-fehmi-lokantas%C4%B1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/yanyal%C4%B1-fehmi-lokantas%C4%B1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/mutfakkoz",
+   "city_id": "istanbul-tr",
+   "slug": "mutfakkoz",
+   "name": "mutfakkoz",
+   "website": "https://mutfakkoz.com/",
+   "address": "Kozyatağı Mah. Kaya Sultan Sok. No:27B, Kadıköy, Istanbul, 34742, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/mutfakkoz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/mutfakkoz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/29",
+   "city_id": "istanbul-tr",
+   "slug": "29",
+   "name": "29",
+   "website": "https://www.29.com.tr",
+   "address": "Ulus Mahallesi, Ahmet Adnan Saygun Caddesi, Ulus Parkı İçi No:71/1, Beşiktaş, Istanbul, 34340, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/29-1195533"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/29-1195533",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/balkc-kahraman",
+   "city_id": "istanbul-tr",
+   "slug": "balkc-kahraman",
+   "name": "Balıkçı Kahraman",
+   "website": "https://www.balikcikahraman.com",
+   "address": "Rumeli Kavağı Mahallesi, İskele Caddesi No:15/1, Sarıyer, Istanbul, 34450, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/bal%C4%B1kc%C4%B1-kahraman"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/bal%C4%B1kc%C4%B1-kahraman",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/fauna",
+   "city_id": "istanbul-tr",
+   "slug": "fauna",
+   "name": "Fauna",
+   "website": "https://www.fauna.com.tr",
+   "address": "Küçükbakkalköy Mahallesi, Işıklar Caddesi, Ahmet Muhip Dranas Sokak No:9/A, Ataşehir, Istanbul, 34750, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/fauna"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/fauna",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/gallada",
+   "city_id": "istanbul-tr",
+   "slug": "gallada",
+   "name": "GALLADA",
+   "website": "https://www.galladaistanbul.com/",
+   "address": "Kemankeş Karamustafa Paşa, Kemankeş Caddesi No:34, Beyoğlu, Istanbul, 34425, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/gallada"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/gallada",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Influences",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/giritli",
+   "city_id": "istanbul-tr",
+   "slug": "giritli",
+   "name": "Giritli",
+   "website": "https://www.giritlirestoran.com",
+   "address": "Yenigüvey Sokak No:9, Cankurtaran/Fatih, Istanbul, 34122, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/giritli"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/giritli",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/gun-lokantas",
+   "city_id": "istanbul-tr",
+   "slug": "gun-lokantas",
+   "name": "Gün Lokantası",
+   "website": "https://www.gunlokantasi.com/",
+   "address": "Asmalı Mescit, Gönül Sokak No: 8/A İç Kapı:1, Beyoğlu, Istanbul, 34430, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/gun-lokantas%C4%B1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/gun-lokantas%C4%B1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/itsumi",
+   "city_id": "istanbul-tr",
+   "slug": "itsumi",
+   "name": "Itsumi",
+   "website": "https://www.itsumijp.com",
+   "address": "KULE - İşkuleleri Kule 2 Entrance floor No:43, 4.Levent/Beşiktaş, Istanbul, 34330, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/itsumi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/itsumi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/lokanta-limu",
+   "city_id": "istanbul-tr",
+   "slug": "lokanta-limu",
+   "name": "Lokanta Limu",
+   "website": "https://www.lokantalimu.com",
+   "address": "Yeniköy, Köybaşı Caddesi No:158 D:B, Sarıyer, Istanbul, 34464, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/lokanta-limu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/lokanta-limu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/lokanta-by-divan",
+   "city_id": "istanbul-tr",
+   "slug": "lokanta-by-divan",
+   "name": "Lokanta by Divan",
+   "website": "https://www.divan.com.tr/restoran/lokanta-by-divan-istanbul",
+   "address": "Asker Ocağı Caddesi No:1, Şişli, Istanbul, 34367, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/lokanta-by-divan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/lokanta-by-divan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/roka",
+   "city_id": "istanbul-tr",
+   "slug": "roka",
+   "name": "ROKA",
+   "website": "https://www.rokarestaurant.com/restaurant/roka-istanbul/",
+   "address": "Kılıçalipaşa Mahallesi, Meclis-i Mebusan Sokak No:14/2E, Beyoğlu, Istanbul, 34433, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/roka-1204963"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/roka-1204963",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/spago-istanbul-by-wolfgang-puck",
+   "city_id": "istanbul-tr",
+   "slug": "spago-istanbul-by-wolfgang-puck",
+   "name": "Spago Istanbul by Wolfgang Puck",
+   "website": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/dining/",
+   "address": "Mim Kemal Öke Caddesi No:35, Nişantaşı/Şişli, Istanbul, 34367, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/spago-1195842"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/spago-1195842",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/st-regis-brasserie",
+   "city_id": "istanbul-tr",
+   "slug": "st-regis-brasserie",
+   "name": "St. Regis Brasserie",
+   "website": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/dining/",
+   "address": "Mim Kemal Öke Caddesi No:35, Nişantaşı/Şişli, Istanbul, 34367, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/st-regis-brasserie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/st-regis-brasserie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/terrazza-italia",
+   "city_id": "istanbul-tr",
+   "slug": "terrazza-italia",
+   "name": "Terrazza Italia",
+   "website": "https://www.eataly.com.tr/tr/terrazza-italia",
+   "address": "Levazım, Zorlu Center, Koru Sokak No:2, Beşiktaş, Istanbul, 34340, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/terrazza-italia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/terrazza-italia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "istanbul-tr/sans-restaurant",
+   "city_id": "istanbul-tr",
+   "slug": "sans-restaurant",
+   "name": "Şans Restaurant",
+   "website": "https://www.sansrestaurant.com",
+   "address": "Hacı Adil Caddesi, Palmiye Sokak No:1, Levent/Beşiktaş, Istanbul, 34330, Türkiye",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/sans"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/istanbul-province/istanbul/restaurant/sans",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$$"
+  }
+ ]
+}

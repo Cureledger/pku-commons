@@ -1,0 +1,401 @@
+[
+  {
+    "name": "Delta",
+    "slug": "delta",
+    "city_id": "athens-gr",
+    "website": "https://www.deltarestaurant.gr",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "364 Syggrou Avenue, Athens, 17674, Greece",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "Botrini's",
+    "slug": "botrinis",
+    "city_id": "athens-gr",
+    "website": "https://www.botrinis.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "24b Vasileos Georgiou B Avenue, Athens, 152 33, Greece",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "CTC Urban Gastronomy",
+    "slug": "ctc-urban-gastronomy",
+    "city_id": "athens-gr",
+    "website": "https://www.ctc-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "15 Plateon Street, Athens, 10435, Greece",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hervé",
+    "slug": "herve",
+    "city_id": "athens-gr",
+    "website": "https://www.herve-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "170 Trion Ierarchon Street, Athens, 118 52, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Hytra",
+    "slug": "hytra",
+    "city_id": "athens-gr",
+    "website": "https://www.hytra.gr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1 Petrou Kokkali Street, Athens, 11521, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Makris Athens",
+    "slug": "makris-athens",
+    "city_id": "athens-gr",
+    "website": "https://makrisathens.com/en/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "10 Astiggos - 119 Ermou Street, Athens, 10555, Greece",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "Patio",
+    "slug": "patio",
+    "city_id": "athens-gr",
+    "website": "https://patio.gr/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "11 Litous, Vouliagmeni, Athens, 16671, Greece",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "Pelagos",
+    "slug": "pelagos",
+    "city_id": "athens-gr",
+    "website": "https://www.pelagosathens.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "40 Apollonos Street, Athens, 166 71, Greece",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Soil",
+    "slug": "soil",
+    "city_id": "athens-gr",
+    "website": "https://www.soilrestaurant.gr",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "5 Ferekidou Street, Athens, 116 35, Greece",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "Spondi",
+    "slug": "spondi",
+    "city_id": "athens-gr",
+    "website": "https://www.spondi.gr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 Pyrronos Street, Athens, 116 36, Greece",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Zillers Rooftop Gastronomy",
+    "slug": "the-zillers-rooftop-gastronomy",
+    "city_id": "athens-gr",
+    "website": "https://thezillersathens.com/rooftop-gastronomy/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "54 Mitropoleos, Athens, 10563, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Tudor Hall",
+    "slug": "tudor-hall",
+    "city_id": "athens-gr",
+    "website": "https://www.tudorhall.gr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3A Vasileos Georgiou A, Athens, 10564, Greece",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "Cerdo Negro 1985",
+    "slug": "cerdo-negro-1985",
+    "city_id": "athens-gr",
+    "website": "https://www.cerdonegro1985.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5 Vitonos Street, Athens, 11854, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "Fine Mess Smokehouse",
+    "slug": "fine-mess-smokehouse",
+    "city_id": "athens-gr",
+    "website": "https://www.finemess.gr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5 Delfon Street, Athens, 10680, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "Jerár",
+    "slug": "jerar",
+    "city_id": "athens-gr",
+    "website": "https://jerar.gr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "55 Agias Varvaras Street, Athens, 172 35, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "Nolan",
+    "slug": "nolan",
+    "city_id": "athens-gr",
+    "website": "https://www.nolanverse.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "31-33 Voulis Street, Athens, 10557, Greece",
+    "price_tier": "$"
+  },
+  {
+    "name": "Pharaoh",
+    "slug": "pharaoh",
+    "city_id": "athens-gr",
+    "website": "https://www.pharaoh.gr/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "54 Solomou, Athens, 10682, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "Aleria",
+    "slug": "aleria",
+    "city_id": "athens-gr",
+    "website": "https://www.aleria.gr/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "57 Megalou Alexandrou Street, Athens, 10435, Greece",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Aneton",
+    "slug": "aneton",
+    "city_id": "athens-gr",
+    "website": "https://www.aneton.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3 Navarchou Nikodimou Street, Athens, 10 557, Greece",
+    "price_tier": "$$"
+  },
+  {
+    "name": "DOLLI·S",
+    "slug": "dollis",
+    "city_id": "athens-gr",
+    "website": "https://www.thedolli.com/fine-dining/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "49 Mitropoleos, Athens, 10556, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Esthiō",
+    "slug": "esthio",
+    "city_id": "athens-gr",
+    "website": "https://esthio.restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7 Dimitrakopoulou, Athens, 11742, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "GB Roof Garden",
+    "slug": "gb-roof-garden",
+    "city_id": "athens-gr",
+    "website": "https://www.gbroofgarden.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1A Vasileos Georgiou A street, Athens, 105 64, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Gallina",
+    "slug": "gallina",
+    "city_id": "athens-gr",
+    "website": "https://www.gallina.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "49 Markou Mpotsari & 59 Falirou, Athens, 11742, Greece",
+    "price_tier": "€€€€"
+  },
+  {
+    "name": "Linou Soumpasis & Co.",
+    "slug": "linou-soumpasis-co",
+    "city_id": "athens-gr",
+    "website": "https://www.linousoumpasis.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kalamida 9 & Melanthiou 2 Street, Athens, 10554, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "Merceri",
+    "slug": "merceri",
+    "city_id": "athens-gr",
+    "website": "https://www.merceri.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "21 Iraklidon Street, Athens, 11851, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "Okio",
+    "slug": "okio",
+    "city_id": "athens-gr",
+    "website": "https://www.okio.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Nikis 33 & Navarhou Nikodimou 3, Athens, 10557, Greece",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ovio",
+    "slug": "ovio",
+    "city_id": "athens-gr",
+    "website": "https://www.ovio.gr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4 Apollonos, Athens, 10557, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "SENSE",
+    "slug": "sense",
+    "city_id": "athens-gr",
+    "website": "https://www.senserestaurants.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 Dionysiou Areopagitou Street, Athens, 117 42, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Simul",
+    "slug": "simul",
+    "city_id": "athens-gr",
+    "website": "https://simul.gr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "63 Ipsilantou Street, Athens, 11521, Greece",
+    "price_tier": "€€"
+  },
+  {
+    "name": "VERi TABLE",
+    "slug": "veri-table",
+    "city_id": "athens-gr",
+    "website": "https://veritable-bistrot.gr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 Aggelou Sikelianou Street, Athens, 11525, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Varoulko Seaside",
+    "slug": "varoulko-seaside",
+    "city_id": "athens-gr",
+    "website": "https://www.varoulko.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "54 Koumoundourou Coast, Athens, 18533, Greece",
+    "price_tier": "€€€"
+  },
+  {
+    "name": "Vezené",
+    "slug": "vezene",
+    "city_id": "athens-gr",
+    "website": "https://www.vezene.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "11 Vrasida Street, Athens, 11 528, Greece",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "see|ds",
+    "slug": "see-ds",
+    "city_id": "athens-gr",
+    "website": "https://www.seedsrestaurant.gr",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14 Oumplianis, 27 Diocharous, Athens, 16121, Greece",
+    "price_tier": "€€€"
+  }
+]

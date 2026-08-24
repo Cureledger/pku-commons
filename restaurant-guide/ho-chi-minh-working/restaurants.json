@@ -1,0 +1,1724 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance. Not appropriate for now: posted menu has no PKU-friendly main or plate, or the dish list would not load.",
+ "city_id": "ho-chi-minh-vn",
+ "restaurant_count": 44,
+ "restaurants": [
+  {
+   "restaurant_id": "ho-chi-minh-vn/banh-canh-cua-ba-ba",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "banh-canh-cua-ba-ba",
+   "name": "Bánh Canh Cua Bà Ba",
+   "website": "",
+   "address": "84/6 Nguyen Bieu Street, Cho Quan Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-canh-cua-ba-ba"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-canh-cua-ba-ba",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/banh-cuon-tay-ho-127",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "banh-cuon-tay-ho-127",
+   "name": "Bánh Cuốn Tây Hồ 127",
+   "website": "",
+   "address": "127 Dinh Tien Hoang Street, Tan Dinh Ward, Ho Chi Minh City, 710000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-cuon-tay-ho-127"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-cuon-tay-ho-127",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/banh-xeo-46a",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "banh-xeo-46a",
+   "name": "Bánh Xèo 46A",
+   "website": "",
+   "address": "46 Dinh Cong Trang Street, Tan Dinh Ward, Ho Chi Minh City, 710776, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-xeo-46a"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-xeo-46a",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/bun-bo-hue-14b",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "bun-bo-hue-14b",
+   "name": "Bún Bò Huế 14B",
+   "website": "",
+   "address": "14B Street 46, Vinh Hoi Ward, Ho Chi Minh City, 754000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-bo-hue-14b"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-bo-hue-14b",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/bun-rieu-yen",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "bun-rieu-yen",
+   "name": "Bún Riêu Yến",
+   "website": "",
+   "address": "1346 Truong Sa Street, Tan Son Hoa Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-rieu-yen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-rieu-yen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/chi-mo",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "chi-mo",
+   "name": "Chị Mơ",
+   "website": "",
+   "address": "23C Le Van Mien Street, An Khanh Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chi-mo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chi-mo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/com-tam-ba-ghien",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "com-tam-ba-ghien",
+   "name": "Cơm Tấm Ba Ghiền",
+   "website": "",
+   "address": "84 Dang Van Ngu Street, Phu Nhuan Ward, Ho Chi Minh City, 725000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/com-tam-ba-ghien"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/com-tam-ba-ghien",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/la-lola",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "la-lola",
+   "name": "La Lola",
+   "website": "",
+   "address": "82 Ly Tu Trong Street, Ben Thanh Ward, Ho Chi Minh City, 71009, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/la-lola"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/la-lola",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/nha-tu",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "nha-tu",
+   "name": "Nhà Tú",
+   "website": "",
+   "address": "129/4 Vo Van Tan Street, Xuan Hoa Ward, Ho Chi Minh City, 722700, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/nha-tu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/nha-tu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-chao",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-chao",
+   "name": "Phở Chào",
+   "website": "",
+   "address": "52 Nguyen Cong Tru Street, Thanh My Tay Ward, Ho Chi Minh City, 72323, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-chao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-chao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-hoang-nguyen-tri-phuong-street",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-hoang-nguyen-tri-phuong-street",
+   "name": "Phở Hoàng (Nguyen Tri Phuong Street)",
+   "website": "",
+   "address": "460 Nguyen Tri Phuong Street, Vuon Lai Ward, Ho Chi Minh City, 740500, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hoang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hoang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-huong-binh",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-huong-binh",
+   "name": "Phở Hương Bình",
+   "website": "",
+   "address": "148 Vo Thi Sau Street, Xuan Hoa Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-huong-binh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-huong-binh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-minh-sai-gon",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-minh-sai-gon",
+   "name": "Phở Minh (Sài Gòn)",
+   "website": "",
+   "address": "63/6 Pasteur Street, Saigon Ward, Ho Chi Minh City, 710000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-minh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-minh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-mien-ga-ky-ong",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-mien-ga-ky-ong",
+   "name": "Phở Miến Gà Kỳ Đồng",
+   "website": "",
+   "address": "14/5 Bis Ky Dong Street, Xuan Hoa Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-mien-ga-ky-%C4%91ong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-mien-ga-ky-%C4%91ong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-phuong",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-phuong",
+   "name": "Phở Phượng",
+   "website": "",
+   "address": "25 Hoang Sa Street, Saigon Ward, Ho Chi Minh City, 71007, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-phuong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-phuong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/tiem-com-tho-chuyen-ky",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "tiem-com-tho-chuyen-ky",
+   "name": "Tiệm Cơm Thố Chuyên Ký",
+   "website": "",
+   "address": "67 Ton That Dam Street, Saigon Ward, Ho Chi Minh City, 70000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/tiem-com-tho-chuyen-ky"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/tiem-com-tho-chuyen-ky",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/apero",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "apero",
+   "name": "Apero",
+   "website": "",
+   "address": "45 Nguyen Duy Hieu Street, An Khanh Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/apero-1246001"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/apero-1246001",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/ba-co-loc-coc",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "ba-co-loc-coc",
+   "name": "Bà Cô Lốc Cốc",
+   "website": "",
+   "address": "40A Tran Cao Van Street, Xuan Hoa Ward, Ho Chi Minh City, 722700, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/ba-co-loc-coc"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/ba-co-loc-coc",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/bun-bo-hue-co-nhu",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "bun-bo-hue-co-nhu",
+   "name": "Bún Bò Huế Cô Như",
+   "website": "",
+   "address": "274/29 Vo Van Tan Street, Ban Co Ward, Ho Chi Minh City, 722700, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-bo-hue-co-nhu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-bo-hue-co-nhu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/bun-thit-nuong-hoang-van",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "bun-thit-nuong-hoang-van",
+   "name": "Bún Thịt Nướng Hoàng Văn",
+   "website": "",
+   "address": "137 Chan Hung Street, Tan Hoa Ward, Ho Chi Minh City, 736090, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-thit-nuong-hoang-van"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-thit-nuong-hoang-van",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/bep-nguoi-hoi-an",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "bep-nguoi-hoi-an",
+   "name": "Bếp Người Hội An",
+   "website": "",
+   "address": "22 Tran Quoc Toan Street, Xuan Hoa Ward, Ho Chi Minh City, 72408, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bep-nguoi-hoi-an"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bep-nguoi-hoi-an",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/co-lieng",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "co-lieng",
+   "name": "Cô Liêng",
+   "website": "",
+   "address": "321 Vo Van Tan Street, Ban Co Ward, Ho Chi Minh City, 72407, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/co-lieng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/co-lieng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/du-yen",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "du-yen",
+   "name": "Du Yên",
+   "website": "",
+   "address": "26B Street 10, An Khanh Ward, Ho Chi Minh City, 71000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/du-yen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/du-yen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/kobe-bistro",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "kobe-bistro",
+   "name": "Kobe Bistro",
+   "website": "",
+   "address": "23C Ton Duc Thang Street, Saigon Ward, Ho Chi Minh City, 710000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/kobe-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/kobe-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/mia-dining",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "mia-dining",
+   "name": "Mía Dining",
+   "website": "",
+   "address": "12G2 Nguyen Thi Minh Khai Street, Saigon Ward, Ho Chi Minh City, 710000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/mia-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/mia-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-bo-phu-gia-nhieu-loc",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-bo-phu-gia-nhieu-loc",
+   "name": "Phở Bò Phú Gia (Nhiêu Lộc)",
+   "website": "",
+   "address": "146E Ly Chinh Thang Street, Nhieu Loc Ward, Ho Chi Minh City, 722700, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-bo-phu-gia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-bo-phu-gia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/quan-an-ngu-binh",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "quan-an-ngu-binh",
+   "name": "Quán ăn Ngự Bình",
+   "website": "",
+   "address": "82 Cu Xa Nguyen Van Troi Street, Phu Nhuan Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/quan-an-ngu-binh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/quan-an-ngu-binh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/stoker-saigon",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "stoker-saigon",
+   "name": "Stoker (Saigon)",
+   "website": "",
+   "address": "44 Mac Thi Buoi Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/stoker-district-1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/stoker-district-1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/thuy-94-cu",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "thuy-94-cu",
+   "name": "Thúy 94 Cũ",
+   "website": "",
+   "address": "84 Dinh Tien Hoang Street, Saigon Ward, Ho Chi Minh City, 710000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/thuy-94-cu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/thuy-94-cu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/xoi-ga-number-one",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "xoi-ga-number-one",
+   "name": "Xôi Gà Number One",
+   "website": "",
+   "address": "15 Nguyen Trung Truc Street, Ben Thanh Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/xoi-ga-number-one"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/xoi-ga-number-one",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/oc-oanh",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "oc-oanh",
+   "name": "Ốc Oanh",
+   "website": "",
+   "address": "534 Vinh Khanh Street, Khanh Hoi Ward, Ho Chi Minh City, 754000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/oc-oanh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/oc-oanh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/ciel",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "ciel",
+   "name": "CieL",
+   "website": "https://cieldining.com",
+   "address": "50 6/3 Street, An Khanh Ward, Ho Chi Minh City, 713000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/ciel%C2%A0"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/ciel%C2%A0",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/coco-dining",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "coco-dining",
+   "name": "Coco Dining",
+   "website": "https://cocosgn.com",
+   "address": "143 Nam Ky Khoi Nghia Street, Xuan Hoa Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/coco-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/coco-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/bo-kho-ganh",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "bo-kho-ganh",
+   "name": "Bò Kho Gánh",
+   "website": "https://www.bokhoganh.com",
+   "address": "029 Lot H, Ngo Gia Tu Apartment, Su Van Hanh Street, Vuon Lai Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bo-kho-ganh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bo-kho-ganh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/chay-garden-xuan-hoa",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "chay-garden-xuan-hoa",
+   "name": "Chay Garden (Xuan Hoa)",
+   "website": "https://chaygarden.com",
+   "address": "52 Vo Van Tan Street, Xuan Hoa Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chay-garden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chay-garden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/hong-phat-ban-co",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "hong-phat-ban-co",
+   "name": "Hồng Phát (Bàn Cờ)",
+   "website": "https://hutieuhongphat.com",
+   "address": "389-391 Vo Van Tan Street, Ban Co Ward, Ho Chi Minh City, 70000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hong-phat-district-3"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hong-phat-district-3",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/man-moi-an-khanh",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "man-moi-an-khanh",
+   "name": "Mặn Mòi (An Khánh)",
+   "website": "https://manmoi.vn",
+   "address": "32 D11 Street, An Khanh Ward, Ho Chi Minh City, 721400, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/man-moi-thu-duc-city"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/man-moi-thu-duc-city",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/sol-kitchen-bar-ben-thanh",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "sol-kitchen-bar-ben-thanh",
+   "name": "Sol Kitchen & Bar (Ben Thanh)",
+   "website": "https://solkitchenbar.com",
+   "address": "112 Ly Tu Trong Street, Ben Thanh Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/sol-kitchen-bar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/sol-kitchen-bar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Latin American",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/beo-oi",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "beo-oi",
+   "name": "Béo Ơi",
+   "website": "https://www.facebook.com/share/1Ah1HVwHth/?mibextid=wwXIfr",
+   "address": "15/20 Nguyen Thi Minh Khai Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/beo-oi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/beo-oi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/elgin",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "elgin",
+   "name": "Elgin",
+   "website": "https://elginsgn.com",
+   "address": "27 Mac Dinh Chi Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/elgin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/elgin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/esta",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "esta",
+   "name": "Esta",
+   "website": "https://www.estasaigon.com",
+   "address": "27 Tran Quy Khoach Street, Tan Dinh Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/esta"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/esta",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/hoi-an-sense",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "hoi-an-sense",
+   "name": "Hoi An Sense",
+   "website": "https://hoiansense.com.vn",
+   "address": "6F, 12 Phan Ke Binh, Tan Dinh Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hoi-an-sense"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hoi-an-sense",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/pho-hung-cau-ong-lanh",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "pho-hung-cau-ong-lanh",
+   "name": "Phở Hùng (Cầu Ông Lãnh)",
+   "website": "https://www.phohung.vn",
+   "address": "241-243 Nguyen Trai Street, Cau Ong Lanh Ward, Ho Chi Minh City, 71014, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hung"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hung",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "ho-chi-minh-vn/the-monkey-gallery-dining",
+   "city_id": "ho-chi-minh-vn",
+   "slug": "the-monkey-gallery-dining",
+   "name": "The Monkey Gallery Dining",
+   "website": "https://monkeygallery.vn",
+   "address": "3F, 91 Mac Thi Buoi Street, Saigon Ward, Ho Chi Minh City, 700000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/the-monkey-gallery-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/the-monkey-gallery-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese Contemporary",
+   "price_tier": "$$$$"
+  }
+ ]
+}

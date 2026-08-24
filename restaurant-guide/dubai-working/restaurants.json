@@ -1,0 +1,905 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "dubai-ae",
+ "restaurant_count": 23,
+ "restaurants": [
+  {
+   "restaurant_id": "dubai-ae/manao",
+   "city_id": "dubai-ae",
+   "slug": "manao",
+   "name": "Manāo",
+   "website": "https://manao.ae",
+   "address": "Wasl Vita Mall , Jumeirah 1, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/manao-1217282"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/manao-1217282",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/ossiano",
+   "city_id": "dubai-ae",
+   "slug": "ossiano",
+   "name": "Ossiano",
+   "website": "https://www.atlantis.com/dubai/dining/ossiano",
+   "address": "Atlantis The Palm, Crescent Road, The Palm, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/ossiano"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/ossiano",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/tasca-by-jose-avillez",
+   "city_id": "dubai-ae",
+   "slug": "tasca-by-jose-avillez",
+   "name": "Tasca by José Avillez",
+   "website": "https://www.mandarinoriental.com/en/dubai/jumeira-beach/dine/tasca-by-jose-avillez",
+   "address": "Mandarin Oriental Jumeira Hotel, Jumeirah Beach Road, Jumeirah 1, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tasca-by-jose-avillez"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tasca-by-jose-avillez",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Portuguese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/21-grams",
+   "city_id": "dubai-ae",
+   "slug": "21-grams",
+   "name": "21 Grams",
+   "website": "https://21grams.me/",
+   "address": "2nd Floor, Meyan Mall, Al Thanya Street, Umm Suqeim 2, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/21-grams"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/21-grams",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Balkan",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "dubai-ae/berenjak",
+   "city_id": "dubai-ae",
+   "slug": "berenjak",
+   "name": "Berenjak",
+   "website": "https://berenjak.com",
+   "address": "Dar Wasl Mall - Shop 01 - Al Wasl Rd - Al Wasl, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/berenjak-1211855"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/berenjak-1211855",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Persian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/konjiki-hototogisu",
+   "city_id": "dubai-ae",
+   "slug": "konjiki-hototogisu",
+   "name": "Konjiki Hototogisu",
+   "website": "https://www.instagram.com/konjiki.uae/",
+   "address": "Mall Of Emirates - 2nd Level, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/konjiki-hototogisu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/konjiki-hototogisu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "dubai-ae/reif-japanese-kushiyaki-dar-wasl",
+   "city_id": "dubai-ae",
+   "slug": "reif-japanese-kushiyaki-dar-wasl",
+   "name": "REIF Japanese Kushiyaki - Dar Wasl",
+   "website": "https://reifkushiyaki.com/",
+   "address": "Unit 70, Dar Wasl Mall, Al Wasl Road, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/reif-japanese-kushiyaki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/reif-japanese-kushiyaki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "dubai-ae/reif-japanese-kushiyaki-dubai-hills",
+   "city_id": "dubai-ae",
+   "slug": "reif-japanese-kushiyaki-dubai-hills",
+   "name": "REIF Japanese Kushiyaki - Dubai Hills",
+   "website": "https://www.reifkushiyaki.com",
+   "address": "Building 3, Dubai Hills Estate Business Park, Dubai Hills, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/reif-japanese-kushiyaki-dubai-hills"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/reif-japanese-kushiyaki-dubai-hills",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/revelry",
+   "city_id": "dubai-ae",
+   "slug": "revelry",
+   "name": "Revelry",
+   "website": "https://revelrydxb.com/",
+   "address": "Building 1, Dubai Hills Estate Business Park, Dubai Hills, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/revelry"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/revelry",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "dubai-ae/al-fanar",
+   "city_id": "dubai-ae",
+   "slug": "al-fanar",
+   "name": "Al-Fanar",
+   "website": "https://www.alfanarrestaurant.com",
+   "address": "Al Seef unit P3-07-02, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/al-fanar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/al-fanar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Emirati Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "dubai-ae/at-mosphere",
+   "city_id": "dubai-ae",
+   "slug": "at-mosphere",
+   "name": "At.Mosphere",
+   "website": "https://atmosphereburjkhalifa.com/",
+   "address": "Burj Khalifa, Sheikh Mohammed bin Rashid Boulevard, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/at-mosphere"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/at-mosphere",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/chic-nonna",
+   "city_id": "dubai-ae",
+   "slug": "chic-nonna",
+   "name": "Chic Nonna",
+   "website": "https://www.chicnonna.com/chic-nonna-restaurant-dubai/",
+   "address": "DIFC, Gate Avenue, South Zone, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/chic-nonna"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/chic-nonna",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/cinque",
+   "city_id": "dubai-ae",
+   "slug": "cinque",
+   "name": "Cinque",
+   "website": "https://palmjumeirah.fivehotelsandresorts.com/eat-drink/cinque",
+   "address": "FIVE Palm Jumeirah - No 1 Palm Jumeirah, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/cinque"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/cinque",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/dragonfly",
+   "city_id": "dubai-ae",
+   "slug": "dragonfly",
+   "name": "Dragonfly",
+   "website": "https://www.dragonfly-dxb.com/",
+   "address": "The Lana Promenade, Marasi Drive, Business Bay, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/dragonfly"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/dragonfly",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/filia",
+   "city_id": "dubai-ae",
+   "slug": "filia",
+   "name": "Fi'lia",
+   "website": "https://slshotels.com/dubai/restaurants-and-bars/filia-dubai/",
+   "address": "70th Floor, SLS Dubai Hotel & Residences, Marasi Drive, Business Bay, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/fi-lia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/fi-lia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/jara-by-martin-berasategui",
+   "city_id": "dubai-ae",
+   "slug": "jara-by-martin-berasategui",
+   "name": "JARA by Martín Berasategui",
+   "website": "https://www.dorchestercollection.com/dubai/the-lana/dining/jara-by-martin-berasategui",
+   "address": "18th Floor, The Lana - Dorchester Collection, Marasi Drive, Business Bay, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/jara-by-martin-berasategui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/jara-by-martin-berasategui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Basque",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/late-eatery",
+   "city_id": "dubai-ae",
+   "slug": "late-eatery",
+   "name": "Late Eatery",
+   "website": "https://www.instagram.com/late.eatery/",
+   "address": "The 77 Valley, Academic City Road, Al Khawaneej, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/late-eatery"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/late-eatery",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/masti",
+   "city_id": "dubai-ae",
+   "slug": "masti",
+   "name": "Masti",
+   "website": "https://www.mastidubai.com/",
+   "address": "The Dubai Edition Hotel, Floor 1, Downtown, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/masti"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/masti",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/netsu-by-ross-shonhan",
+   "city_id": "dubai-ae",
+   "slug": "netsu-by-ross-shonhan",
+   "name": "Netsu by Ross Shonhan",
+   "website": "https://www.mandarinoriental.com/dubai/jumeira-beach/fine-dining/restaurants/japanese-cuisine/netsu-by-ross-shonhan",
+   "address": "Mandarin Oriental Jumeira Hotel, Jumeirah Beach Road, Jumeirah 1, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/netsu-by-ross-shonhan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/netsu-by-ross-shonhan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/osteria-funkcoolio",
+   "city_id": "dubai-ae",
+   "slug": "osteria-funkcoolio",
+   "name": "Osteria Funkcoolio",
+   "website": "https://www.funkcoolio.com/",
+   "address": "​La Cote B03 -R04, ​Port De La Mer, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/osteria-funkcoolio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/osteria-funkcoolio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/rsvp",
+   "city_id": "dubai-ae",
+   "slug": "rsvp",
+   "name": "RSVP",
+   "website": "https://www.instagram.com/rsvprestaurant/",
+   "address": "Al Wasl Road, Jumeirah 2, Dubai, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/rsvp"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/rsvp",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/riviera-by-jean-imbert",
+   "city_id": "dubai-ae",
+   "slug": "riviera-by-jean-imbert",
+   "name": "Riviera by Jean Imbert",
+   "website": "https://www.dorchestercollection.com/dubai/the-lana/dining/riviera-by-jean-imbert",
+   "address": "The Lana - Dorchester Collection, Marasi Drive, Business Bay, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/riviera-by-jean-imbert"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/riviera-by-jean-imbert",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "dubai-ae/tero-unconventional-omakase",
+   "city_id": "dubai-ae",
+   "slug": "tero-unconventional-omakase",
+   "name": "TERO - Unconventional Omakase",
+   "website": "https://www.terodubai.com",
+   "address": "Building 3, Dubai Hills Estate Business Park, Dubai Hills, Dubai",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tero-the-experience-by-reif-othman"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tero-the-experience-by-reif-othman",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  }
+ ]
+}

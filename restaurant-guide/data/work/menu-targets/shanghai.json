@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Taian Table",
+    "slug": "taian-table",
+    "city_id": "shanghai-cn",
+    "website": "https://sh.taian-table.cn",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "101-102, Building No. 1, Garden Office, No.161, Lane 465, Zhenning Road, Changning, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "8 ½ Otto e Mezzo Bombana",
+    "slug": "8-12-otto-e-mezzo-bombana",
+    "city_id": "shanghai-cn",
+    "website": "https://www.ottoemezzobombana.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "6-7F, Associate Mission Building, 169 Yuanmingyuan Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bao Li Xuan",
+    "slug": "bao-li-xuan",
+    "city_id": "shanghai-cn",
+    "website": "https://www.bulgarihotels.com/en_US/shanghai/dining/chinese-fine-dining-restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "3F, Chamber of Commerce Shanghai, Lane 108, North Shanxi Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Da Vittorio",
+    "slug": "da-vittorio",
+    "city_id": "shanghai-cn",
+    "website": "https://www.davittorio.com/en/restaurants/da-vittorio-shanghai.html",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "3F, N3 Building, The Bund Finance Centre, 600 Zhongshan Dong Er Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Imperial Treasure Fine Chinese Cuisine",
+    "slug": "imperial-treasure-fine-chinese-cuisine",
+    "city_id": "shanghai-cn",
+    "website": "https://www.imperialtreasure.com.cn/china/LG-en/restaurant/Imperial_Treasure_Fine_Chinese_Cuisine-1",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "L402-403, 4F, Yi Feng Galleria, 99 East Beijing Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "T'ang Court",
+    "slug": "tang-court",
+    "city_id": "shanghai-cn",
+    "website": "https://www.langhamhotels.com/en/the-langham/shanghai/dine/tang-court/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "5F, The Langham, 99 Madang Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Canton Table",
+    "slug": "canton-table",
+    "city_id": "shanghai-cn",
+    "website": "https://www.threeonthebund.com/en/restaurant/102008183385",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5F, Bund 3, 3 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Da Dong (Xuhui)",
+    "slug": "da-dong-xuhui",
+    "city_id": "shanghai-cn",
+    "website": "https://www.dadongdadong.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop 602, 6F, iapm, 999 Middle Huaihai Road, Xuhui, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Gastro Esthetics at DaDong",
+    "slug": "gastro-esthetics-at-dadong",
+    "city_id": "shanghai-cn",
+    "website": "https://www.dadongdadong.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5F, Park Place, 1601 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Il Ristorante - Niko Romito",
+    "slug": "il-ristorante-niko-romito",
+    "city_id": "shanghai-cn",
+    "website": "https://www.bulgarihotels.com/en_US/shanghai/dining/il-ristorante-niko-romito",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "47F, Bvlgari Hotel, Lane 108, North Shanxi Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jin Xuan",
+    "slug": "jin-xuan",
+    "city_id": "shanghai-cn",
+    "website": "https://www.ritzcarlton.com/en/hotels/shasz-the-ritz-carlton-shanghai-pudong/dining/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "53F, The Ritz-Carlton Pudong, 8 Century Avenue, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lei Garden (Pudong)",
+    "slug": "lei-garden-pudong",
+    "city_id": "shanghai-cn",
+    "website": "https://leigarden.hk/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "L3-17 & 18, IFC Mall, 8 Century Avenue, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lei Garden (Xuhui)",
+    "slug": "lei-garden-xuhui",
+    "city_id": "shanghai-cn",
+    "website": "https://leigarden.hk",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop 401, 4F, iapm, 999 Middle Huaihai Road, Xuhui, Shanghai, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ling Long",
+    "slug": "ling-long",
+    "city_id": "shanghai-cn",
+    "website": "https://restaurantlinglong.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "105, 1F, Waldorf Astoria Hotel, 2 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Maison Lameloise",
+    "slug": "maison-lameloise",
+    "city_id": "shanghai-cn",
+    "website": "https://www.lameloise.com.cn",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "68F, Shanghai Tower, 501 Middle Yincheng Road, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ming Court (Minhang)",
+    "slug": "ming-court-minhang",
+    "city_id": "shanghai-cn",
+    "website": "https://www.cordishotels.com/en/shanghai-hongqiao/dine/ming-court/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "B1 Level, Cordis Hotel, 333 Shenhong Road, Minhang, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Narisawa",
+    "slug": "narisawa",
+    "city_id": "shanghai-cn",
+    "website": "https://www.narisawa-yoshihiro-en.com/shanghai",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "L7-05, 1000Trees, 600 Moganshan Road, Putuo, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Obscura",
+    "slug": "obscura",
+    "city_id": "shanghai-cn",
+    "website": "https://www.obscura-sh.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Tangxiang Cultural Space, 538 Xikang Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Seventh Son",
+    "slug": "seventh-son",
+    "city_id": "shanghai-cn",
+    "website": "https://www.seventhson.hk/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "R2-01, 2F, Fungseng Commercial Center, 500 Weihai Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vivant by Johnny Pham",
+    "slug": "vivant-by-johnny-pham",
+    "city_id": "shanghai-cn",
+    "website": "https://www.vivantshanghai.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "279 Beihai Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Xin Rong Ji (West Nanjing Road)",
+    "slug": "xin-rong-ji-west-nanjing-road",
+    "city_id": "shanghai-cn",
+    "website": "https://www.xinrongji.cc/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, 688 Plaza, 688 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Yi Long Court",
+    "slug": "yi-long-court",
+    "city_id": "shanghai-cn",
+    "website": "https://www.peninsula.com/en/shanghai/hotel-fine-dining/yi-long-court-chinese-restaurant",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, The Peninsula Hotel, Bund 32, 32 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Yong Yi Ting",
+    "slug": "yong-yi-ting",
+    "city_id": "shanghai-cn",
+    "website": "https://www.mandarinoriental.com/en/shanghai/pudong",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "LG Level, Mandarin Oriental Pudong, 111 South Pudong Road, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "le Comptoir de Pierre Gagnaire",
+    "slug": "le-comptoir-de-pierre-gagnaire",
+    "city_id": "shanghai-cn",
+    "website": "https://capellahotels.com/en/capella-shanghai/dining/le-comptoir-de-pierre-gagnaire",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Capella, Jian Ye Li, 480 West Jianguo Road, Xuhui, Shanghai, 200031, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mi Thai",
+    "slug": "mi-thai",
+    "city_id": "shanghai-cn",
+    "website": "https://www.mithai.com.cn/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2F, 195 Anfu Road, Xuhui, Shanghai, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Polux",
+    "slug": "polux",
+    "city_id": "shanghai-cn",
+    "website": "https://www.poluxbypp.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "No. 5, Xintiandi Beili, Lane 181, Taicang Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "1515 West Chophouse",
+    "slug": "1515-west-chophouse",
+    "city_id": "shanghai-cn",
+    "website": "https://www.shangri-la.com/shanghai/jinganshangrila/dining/restaurants/the-1515-west-chophouse-and-bar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4F, Jing An Shangri-La Hotel, 1218 Middle Yan'an Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "1929 by Guillaume Galliot",
+    "slug": "1929-by-guillaume-galliot",
+    "city_id": "shanghai-cn",
+    "website": "https://1929bygg.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F, Cathay Building, Jin Jiang Hotel, 59 South Maoming Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Arva",
+    "slug": "arva",
+    "city_id": "shanghai-cn",
+    "website": "https://www.aman.com/resorts/amanyangyun/dining/arva",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6161 Yuanjiang Road, Minhang, Shanghai, 201111, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Beef & Liberty (Jingan)",
+    "slug": "beef-liberty-jingan",
+    "city_id": "shanghai-cn",
+    "website": "https://www.beef-liberty.com/cn/en/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shop 111, Shanghai Centre, 1376 West Nanjing Road, Jingan, Shanghai, 200040, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Coquille",
+    "slug": "coquille",
+    "city_id": "shanghai-cn",
+    "website": "https://www.coquille.com.cn/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "29 Mengzi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dining Room",
+    "slug": "dining-room",
+    "city_id": "shanghai-cn",
+    "website": "https://www.hyatt.com/en-US/hotel/china/park-hyatt-shanghai/shaph",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "87F, Park Hyatt, 100 Century Avenue, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dong Ping Chao",
+    "slug": "dong-ping-chao",
+    "city_id": "shanghai-cn",
+    "website": "https://www.sanrion.com/ProDetail.aspx?ProId=29",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1 Dongping Road, Xuhui, Shanghai, 200031, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fucheng",
+    "slug": "fucheng",
+    "city_id": "shanghai-cn",
+    "website": "https://www.hilton.com/en/hotels/shaqtwa-waldorf-astoria-shanghai-qiantan/dining/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16F, Waldorf Astoria Hotel, 18 Linyao Road, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hakkasan",
+    "slug": "hakkasan",
+    "city_id": "shanghai-cn",
+    "website": "https://hakkasan.com/shanghai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, Bund 18, 18 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hang Yuen Hin",
+    "slug": "hang-yuen-hin",
+    "city_id": "shanghai-cn",
+    "website": "https://hyhgroup.cn/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Xujiahui Park, 290 Wanping Road, Xuhui, Shanghai, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hokkien Huay Kuan",
+    "slug": "hokkien-huay-kuan",
+    "city_id": "shanghai-cn",
+    "website": "https://yueyegroup.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, Xintiandi Style I, 177 Madang Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jade on 36",
+    "slug": "jade-on-36",
+    "city_id": "shanghai-cn",
+    "website": "https://www.shangri-la.com/shanghai/pudongshangrila/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "36F, Grand Tower, Pudong Shangri-La Hotel, 33 Fucheng Road, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jean Georges",
+    "slug": "jean-georges",
+    "city_id": "shanghai-cn",
+    "website": "https://www.threeonthebund.com/en/restaurant/102008183386",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4F, Bund 3, 3 Zhongshan Dong Yi Road, Huangpu, Shanghai, 200002, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lin Jiang Yan",
+    "slug": "lin-jiang-yan",
+    "city_id": "shanghai-cn",
+    "website": "https://www.linjiangyansh.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "216 Fucheng Road, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mercato",
+    "slug": "mercato",
+    "city_id": "shanghai-cn",
+    "website": "https://www.threeonthebund.com/en/restaurant/102008183384",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6F, Bund 3, 3 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mi Shang",
+    "slug": "mi-shang",
+    "city_id": "shanghai-cn",
+    "website": "https://www.prada.com/hk/zh/pradasphere/special-projects/2025/mi-shang-prada-rong-zhai.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "186 North Shaanxi Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Min He Nan Huan Xi",
+    "slug": "min-he-nan-huan-xi",
+    "city_id": "shanghai-cn",
+    "website": "https://www.lvdaohotel.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, MixC East Alley, 111 North Shanxi Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mr & Mrs Bund",
+    "slug": "mr-mrs-bund",
+    "city_id": "shanghai-cn",
+    "website": "https://www.mmbund.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6F, Bund 18, 18 Zhongshan Dong Yi Road, Huangpu, Shanghai, 200002, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pop",
+    "slug": "pop",
+    "city_id": "shanghai-cn",
+    "website": "https://www.threeonthebund.com/en/restaurant/102008183381",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7F, Bund 3, 3 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Royal China Club",
+    "slug": "royal-china-club",
+    "city_id": "shanghai-cn",
+    "website": "https://www.royalchinagroup.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Bund 5, 20 Guangdong Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Shanghai",
+    "slug": "shanghai",
+    "city_id": "shanghai-cn",
+    "website": "https://www.wbh-sh.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Central Hotel, 555 Jiujiang Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Shanghai Tavern",
+    "slug": "shanghai-tavern",
+    "city_id": "shanghai-cn",
+    "website": "https://www.editionhotels.com/shanghai/restaurants-and-bars/shanghai-tavern/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F, Shanghai Edition, 199 East Nanjing Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sir Elly's",
+    "slug": "sir-ellys",
+    "city_id": "shanghai-cn",
+    "website": "https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "13F, The Peninsula Hotel, Bund 32, 32 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sui Tang Li",
+    "slug": "sui-tang-li",
+    "city_id": "shanghai-cn",
+    "website": "https://www.thehousecollective.com/en/the-middle-house/restaurants-and-bars/sui-tang-li/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, The Middle House Residences, 366 Shimen Yi Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Summer Palace",
+    "slug": "summer-palace",
+    "city_id": "shanghai-cn",
+    "website": "https://www.shangri-la.com/shanghai/jinganshangrila/dining/restaurants/summer-palace/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Jing An Shangri-La Hotel, 1218 Middle Yan'an Road, Jingan, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Meat",
+    "slug": "the-meat",
+    "city_id": "shanghai-cn",
+    "website": "https://www.shangri-la.com/shanghai/kerryhotelpudong/dining/restaurants/the-meat/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Kerry Hotel Pudong, 1388 Huamu Road, Pudong, Shanghai, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Xin Yuan Lou",
+    "slug": "xin-yuan-lou",
+    "city_id": "shanghai-cn",
+    "website": "https://www.ihg.com/intercontinental/hotels/gb/en/shanghai/shgsr/hoteldetail/dining",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Building No.4, InterContinental Ruijin Hotel, 118 Ruijin Er Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Yè Shanghai",
+    "slug": "ye-shanghai",
+    "city_id": "shanghai-cn",
+    "website": "https://www.elite-concepts.com/restaurants/ye-shanghai/shanghai/en/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Infinitus Mall, 168 Hubin Road, Huangpu, Shanghai, Chinese Mainland",
+    "price_tier": "$$"
+  }
+]

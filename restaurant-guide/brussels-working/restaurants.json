@@ -1,0 +1,437 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "brussels-be",
+ "restaurant_count": 11,
+ "restaurants": [
+  {
+   "restaurant_id": "brussels-be/alley-mian",
+   "city_id": "brussels-be",
+   "slug": "alley-mian",
+   "name": "Alley Mian",
+   "website": "",
+   "address": "rue de l'Ecuyer 45, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/alley-mian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/alley-mian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "brussels-be/la-villa-lorraine",
+   "city_id": "brussels-be",
+   "slug": "la-villa-lorraine",
+   "name": "La Villa Lorraine",
+   "website": "",
+   "address": "Avenue du Vivier d'Oie 75, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/la-villa-lorraine-1246740"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/la-villa-lorraine-1246740",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "brussels-be/eliane",
+   "city_id": "brussels-be",
+   "slug": "eliane",
+   "name": "Eliane",
+   "website": "https://www.elianerestaurant.be",
+   "address": "Rue Saint-Laurent 36, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/eliane"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/eliane",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "brussels-be/kline",
+   "city_id": "brussels-be",
+   "slug": "kline",
+   "name": "Kline",
+   "website": "https://kline.brussels/",
+   "address": "Rue de Flandre 162, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/kline"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/kline",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "brussels-be/au-vieux-saint-martin",
+   "city_id": "brussels-be",
+   "slug": "au-vieux-saint-martin",
+   "name": "Au Vieux Saint Martin",
+   "website": "https://auvieuxsaintmartin.be/",
+   "address": "place du Grand Sablon 38, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/au-vieux-saint-martin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/au-vieux-saint-martin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Belgian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "brussels-be/correspondance",
+   "city_id": "brussels-be",
+   "slug": "correspondance",
+   "name": "Correspondance",
+   "website": "https://www.correspondance.brussels/",
+   "address": "Rue Picard 9, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/correspondance"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/correspondance",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "brussels-be/jayu",
+   "city_id": "brussels-be",
+   "slug": "jayu",
+   "name": "Jayu",
+   "website": "https://www.jayubxl.be/",
+   "address": "Rue de Flandre 19, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/jayu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/jayu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "brussels-be/la-belle-maraichere",
+   "city_id": "brussels-be",
+   "slug": "la-belle-maraichere",
+   "name": "La Belle Maraîchère",
+   "website": "https://www.labellemaraichere.be",
+   "address": "place Sainte-Catherine 11a, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/la-belle-maraichere"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/la-belle-maraichere",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "brussels-be/les-petits-oignons",
+   "city_id": "brussels-be",
+   "slug": "les-petits-oignons",
+   "name": "Les Petits Oignons",
+   "website": "https://www.lespetitsoignons.be",
+   "address": "rue de la Régence 25, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/les-petits-oignons"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/les-petits-oignons",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Classic Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "brussels-be/samourai",
+   "city_id": "brussels-be",
+   "slug": "samourai",
+   "name": "Samouraï",
+   "website": "https://www.samourai-bruxelles.be/",
+   "address": "avenue Louise 104, Brussels, 1050, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/samourai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/samourai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "brussels-be/vismet",
+   "city_id": "brussels-be",
+   "slug": "vismet",
+   "name": "Vismet",
+   "website": "https://levismet.be/",
+   "address": "place Sainte-Catherine 23, Brussels, 1000, Belgium",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/le-vismet"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/le-vismet",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  }
+ ]
+}

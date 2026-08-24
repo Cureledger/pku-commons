@@ -1,0 +1,927 @@
+{
+  "results": [
+    {
+      "slug": "jungsik-new-york",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.jungsik.com/menu/",
+      "picks": [
+        {
+          "name": "Jungsik garden",
+          "description": "Corn, Sweet Potato, Pumpkin, Carrot",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Dolhareubang",
+          "description": "Black Bean, Rice, Sesame",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "sesame"
+        }
+      ]
+    },
+    {
+      "slug": "le-bernardin",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.le-bernardin.com/menus/dining-room/dinner",
+      "picks": [
+        {
+          "name": "MESCLUN SALAD",
+          "description": "Market Herbs, Seasonal Vegetables, Truffle Vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "ARTICHOKE",
+          "description": "Warm Artichoke Panaché; Tomato Compote, Black Truffle Vinaigrette",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "PASTA",
+          "description": "Wild Mushroom Tagliatelle; Black Truffle Sauce",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "per-se",
+      "verdict": "no_pku",
+      "reason": "Posted page is tasting-only: nine-course chef tasting and nine-course vegetable tasting, no à la carte veg or salad.",
+      "menu_url": "https://thomaskeller.com/new-york-new-york/per-se/todays-menus",
+      "picks": []
+    },
+    {
+      "slug": "chefs-table-at-brooklyn-fare",
+      "verdict": "blocked",
+      "reason": "Menu URL timed out; website returned an empty grocery JS shell with no posted restaurant dishes.",
+      "menu_url": "https://www.brooklynfare.com/menu",
+      "picks": []
+    },
+    {
+      "slug": "gabriel-kreuther",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.gknyc.com/menu",
+      "picks": [
+        {
+          "name": "Hen of the Woods Tarte Flambée",
+          "description": "comté cheese • nutmeg",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "comté"
+        },
+        {
+          "name": "Cashew & Wild Mushroom Parfait",
+          "description": "clementine • pickled green strawberries • teff tuile",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cashew"
+        }
+      ]
+    },
+    {
+      "slug": "jean-georges",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.jean-georgesrestaurant.com/nougatine-and-terrace-at-jean-georges/menus/dinner/",
+      "picks": [
+        {
+          "name": "Roasted Whole Artichoke",
+          "description": "Garlic, Parsley and Lemon",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Burrata",
+          "description": "Cherry Vinaigrette, Arugula, Basil and Sourdough",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata"
+        },
+        {
+          "name": "Kale Salad",
+          "description": "Serrano Chili, Parmesan Dressing and Croutons",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "parmesan"
+        },
+        {
+          "name": "Watermelon",
+          "description": "Goat Cheese, Olive Oil, Black Pepper",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "goat cheese"
+        },
+        {
+          "name": "Heirloom Tomatoes and Basil",
+          "description": "Shaved Red Onion, Sherry Vinaigrette",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tomato Gazpacho",
+          "description": "Summer Flavors and Olive Oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Torchio Pasta",
+          "description": "Romano Beans, Cherry Tomatoes, Basil-Pistachio Pesto",
+          "course": "main",
+          "kind": "main",
+          "hold": "pistachio"
+        },
+        {
+          "name": "Sautéed Corn, Scallions and Lime",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sautéed Summer Beans",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "French Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Sweet Potato Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Pomme Purée",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "masa",
+      "verdict": "no_pku",
+      "reason": "Batch menu URL was a Riga restaurant. Official masanyc.com posts omakase only, no à la carte veg or salad.",
+      "menu_url": "https://www.masanyc.com/",
+      "picks": []
+    },
+    {
+      "slug": "odo",
+      "verdict": "no_pku",
+      "reason": "Kaiseki-only lunch and dinner; sample courses include sashimi and grilled fish or meat, no à la carte veg or salad.",
+      "menu_url": "https://www.odo.nyc/menu",
+      "picks": []
+    },
+    {
+      "slug": "sushi-noz",
+      "verdict": "no_pku",
+      "reason": "Delivery menu 404. Official site posts Edomae tasting only and says it cannot accommodate vegetarian guests.",
+      "menu_url": "https://www.sushinoz.com/",
+      "picks": []
+    },
+    {
+      "slug": "the-modern",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.themodernnyc.com/the-modern/",
+      "picks": [
+        {
+          "name": "summer squash, gooseberry, chèvre",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "chèvre"
+        },
+        {
+          "name": "eggs on eggs on eggs",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "australian black truffle risotto",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "bridges",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://cdn.sanity.io/files/fat5qr7b/production/a1e2be3fe45aef8c0bac613601d0a0d4e102e778.pdf",
+      "picks": [
+        {
+          "name": "Comté tart with cherry tomatoes, currants and hyssop",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "Comté"
+        },
+        {
+          "name": "Spring leaf and herb salad",
+          "description": "",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "cafe-boulud",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.cafeboulud.com/nyc/our-menu/dinner/",
+      "picks": [
+        {
+          "name": "SUMMER SALAD",
+          "description": "heirloom tomato salad, hibiscus ricotta, basil pine nut pesto, romesco dressing, onion tuile",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "ricotta and pine nut"
+        },
+        {
+          "name": "CORN VELOUTÉ",
+          "description": "chilled corn soup, cilantro & feta cheese royale, blue corn tuile, grilled baby corn, chili oil",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "feta"
+        },
+        {
+          "name": "VADOUVAN CARROT TART",
+          "description": "curried rainbow carrots, shallot compote, pecorino romano sablé",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "pecorino"
+        },
+        {
+          "name": "SAFFRON RISOTTO",
+          "description": "tomato vierge, black pepper stracciatella, blood orange squid ink vinaigrette",
+          "course": "main",
+          "kind": "main",
+          "hold": "stracciatella"
+        },
+        {
+          "name": "pommes frites",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "roasted baby carrots",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "pommes dauphine",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "creamy spinach casserole",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "cream"
+        },
+        {
+          "name": "twice baked potato",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "haricots verts amandine",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "almond"
+        },
+        {
+          "name": "market greens",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "green asparagus mousseline sauce",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "mousseline"
+        }
+      ]
+    },
+    {
+      "slug": "casa-mono",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.casamononyc.com/menus/",
+      "picks": [
+        {
+          "name": "Pan con Tomate",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Marinated Mono Olives",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Ensalada Mono",
+          "description": "Manchego, Pimenton Marcona Almonds",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "Manchego and Marcona almonds"
+        },
+        {
+          "name": "Burrata",
+          "description": "Ajo Blanco, Tom Eckerton Tomatoes",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata"
+        },
+        {
+          "name": "Setas",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Patatas Bravas",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Pimiento Shishitos",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "corima",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://corimanyc.com/menu",
+      "picks": [
+        {
+          "name": "Cucumber, Quelites, Piparra, Melon, Salsa Macha",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "salsa macha"
+        },
+        {
+          "name": "Esquites, Mushroom Carnitas, Porcini, Mimolette",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "mimolette"
+        }
+      ]
+    },
+    {
+      "slug": "cote",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.cotekoreansteakhouse.com/nycdinnermenu",
+      "picks": [
+        {
+          "name": "COTE House Salad",
+          "description": "Crispy gem lettuce, baby arugula, cotton candy grapes, Jersey tomato, Korean mustard vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Dol-sot Bibimbap",
+          "description": "Mountain vegetables, soft-poached egg, and gochujang in sizzling earthenware",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg"
+        },
+        {
+          "name": "Bi-bim Somyun",
+          "description": "Cold and refreshing Korean angel hair, apples, gem lettuce, gochujang vinaigrette",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "crown-shy",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.crownshy.nyc/menus/",
+      "picks": [
+        {
+          "name": "Gruyère Fritters, Chili, Lime",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "Gruyère"
+        },
+        {
+          "name": "Romaine, Green Goddess, Breadcrumbs",
+          "description": "",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "green goddess"
+        },
+        {
+          "name": "Watermelon Salad, Suya Spice, Feta, Pistachio",
+          "description": "",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "feta and pistachio"
+        },
+        {
+          "name": "Tomato Carpaccio, Peach, Parmesan, Croutons",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "parmesan"
+        },
+        {
+          "name": "Eggplant Lasagna, Quattro Formaggi, Basil",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "Corn Ravioli, Ricotta, Black Truffles",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta"
+        },
+        {
+          "name": "Tempura Squash, Vadouvan, Koshihikari Rice",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "daniel",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.danielnyc.com/cuisine/vegetarian-menu",
+      "picks": [
+        {
+          "name": "TENDER GREENS SALAD",
+          "description": "Burrata Cheese, Melon Lemon Verbena Vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "burrata"
+        },
+        {
+          "name": "NEW YORK CUCUMBER",
+          "description": "Mezcal, Charred Ataúlfo Mango Lovage-Calamansi Emulsion",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "CASTROVILLE ARTICHOKE",
+          "description": "Pickled Fresno Pepper, Tomatillo, Thai Basil Saffron-Pastis Bearnaise",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "béarnaise"
+        },
+        {
+          "name": "OHIO YELLOW CORN",
+          "description": "Green Tomato “Beignet”, Jalapeño Cilantro “Chimichurri”",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "LANCASTER FARM GEM LETTUCE",
+          "description": "Confit Heirloom Tomatoes, Castelvatrano Green Olive “Red Wine-Olive Essence”",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "PENNSYLVANIA ZUCCHINI",
+          "description": "Trenne Pasta, Smoked Ricotta Stuffed Squash Blossom Zucchini and Oregano-Pine Nut Gremolata",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta and pine nut"
+        },
+        {
+          "name": "GEORGIA EGGPLANT",
+          "description": "Einkorn Berries, Yuchoy Ginger, Sesame",
+          "course": "main",
+          "kind": "main",
+          "hold": "sesame"
+        },
+        {
+          "name": "INDIANA COLLARD GREENS",
+          "description": "Chanterelles, Gnocchi, Spigarello Tempura \"Sauce Chasseur\"",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "dirt-candy",
+      "verdict": "no_pku",
+      "reason": "Posted dinner is a five-course tasting only; no à la carte mains or plates.",
+      "menu_url": "https://www.dirtcandynyc.com/dinner-menu",
+      "picks": []
+    },
+    {
+      "slug": "essential-by-christophe",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.essentialbychristophe.com/menus/",
+      "picks": [
+        {
+          "name": "Corn",
+          "description": "fin velouté / zebra tomatoes / lemon verbena",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "French Fries",
+          "description": "house made ketchup",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Pomme Purée",
+          "description": "our signature side",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "estela",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://cdn.shopify.com/s/files/1/0635/9990/2978/files/Estela_Dinner_08.15.26.pdf",
+      "picks": [
+        {
+          "name": "Corn velouté with finger lime and coriander",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Cherry tomatoes with melon and brazil nut",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "brazil nut"
+        },
+        {
+          "name": "Ricotta dumplings with mushrooms and pecorino sardo",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta and pecorino"
+        }
+      ]
+    },
+    {
+      "slug": "francie",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.franciebrooklyn.com/menus/",
+      "picks": [
+        {
+          "name": "Market Salad",
+          "description": "variations, black olive, creamy italian",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "creamy italian"
+        },
+        {
+          "name": "Crudités",
+          "description": "marcona almond, truffle",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "marcona almond"
+        },
+        {
+          "name": "Gnocchetti",
+          "description": "sweet corn, chanterelles, perigord truffle",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "White Asparagus",
+          "description": "morels, potato terrine, vin jaune",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Olive Oil Frites",
+          "description": "aioli",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "aioli"
+        }
+      ]
+    },
+    {
+      "slug": "frevo",
+      "verdict": "no_pku",
+      "reason": "Sauce-centered tasting only at $255; no posted à la carte veg or salad.",
+      "menu_url": "https://frevonyc.com/restaurant/",
+      "picks": []
+    },
+    {
+      "slug": "gramercy-tavern",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.gramercytavern.com/tavern-menu/",
+      "picks": [
+        {
+          "name": "Chilled Tomato Soup",
+          "description": "Fennel, Basil, Burrata",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata"
+        },
+        {
+          "name": "Heirloom Tomatoes",
+          "description": "Peaches, Coconut, Mint",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Market Greens Salad",
+          "description": "Romano Beans, Radish, Dill",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Grilled Summer Squash",
+          "description": "Wax Beans, Olives, Basil",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "huso",
+      "verdict": "no_pku",
+      "reason": "Tasting-only at $285; site says it cannot accommodate vegetarian or vegan.",
+      "menu_url": "https://husony.com/tasting-menu/",
+      "picks": []
+    },
+    {
+      "slug": "jua",
+      "verdict": "no_pku",
+      "reason": "Seven-course tasting only; posted courses are caviar, mulhoe, branzino, and tenderloin, no à la carte veg or salad.",
+      "menu_url": "https://juanyc.com/menu",
+      "picks": []
+    },
+    {
+      "slug": "joji",
+      "verdict": "no_pku",
+      "reason": "Menu URL 404. Official site posts sushi omakase only, no à la carte veg or salad.",
+      "menu_url": "https://www.jojiny.com/",
+      "picks": []
+    },
+    {
+      "slug": "kochi",
+      "verdict": "no_pku",
+      "reason": "Chef signature tasting only; posted courses are squid, fluke, halibut, octopus, duck, and tuna bibimbap.",
+      "menu_url": "https://www.kochinyc.com/menu/",
+      "picks": []
+    },
+    {
+      "slug": "kosaka",
+      "verdict": "no_pku",
+      "reason": "Omakase only (otsumami, sashimi, sushi); no à la carte veg or salad.",
+      "menu_url": "https://www.kosakanyc.com/menu",
+      "picks": []
+    },
+    {
+      "slug": "le-pavillon",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.lepavillonnyc.com/our-menu/dinner",
+      "picks": [
+        {
+          "name": "AVOCAT | FINES HERBES",
+          "description": "grilled avocado, castle valley einkorn berries, kale, harissa, yogurt green goddess",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "yogurt"
+        },
+        {
+          "name": "OIGNON | ÉPOISSES",
+          "description": "vidalia onion tart, dandelion, époisses emulsion, thyme",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "époisses"
+        },
+        {
+          "name": "CORONA | BASQUAISE",
+          "description": "corona pasta, pepper basquaise, runner beans, lamb’s quarter, ossau-iraty emulsion",
+          "course": "main",
+          "kind": "main",
+          "hold": "ossau-iraty"
+        },
+        {
+          "name": "RATATOUILLE | PROVENÇALE",
+          "description": "roger vergé’s ratatouille, sourdough croutons, barley, basil oil, sauce tomat",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "CAROTTE | FALAFEL",
+          "description": "charred carrot, falafel, fava leaf, magnolia blossom chimichurri",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Wild Rice, Hen Of The Woods Mushroom",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Grilled Broccolini, Smoked Ricotta",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "ricotta"
+        },
+        {
+          "name": "Truffled Pommes Mont d’or",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "Mont d’Or"
+        },
+        {
+          "name": "Roasted Corn, Pickled Chanterelles, Green Garlic Pistou",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Crispy Artichokes, Za’atar, Tamarind Aioli",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "aioli"
+        },
+        {
+          "name": "ARTICHOKE FRITES",
+          "description": "tamarind aioli, za’atar",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "aioli"
+        },
+        {
+          "name": "“PATATAS BRAVAS”",
+          "description": "new potatoes, malt vinegar, red pepper tahini coulis",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "tahini"
+        }
+      ]
+    },
+    {
+      "slug": "labeille",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.labeille.nyc/s/printed-a-la-carte-as-of-07-copy-zadz.pdf",
+      "picks": [
+        {
+          "name": "Tomato \"Beldra\"",
+          "description": "Heirloom Tomato, Bell Pepper Mousse, Smoked Tomato Water",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "T.K.G",
+          "description": "Black Winter Truffles from Chile, Koshihikari Rice Risotto, Onsen-Tamago",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg"
+        }
+      ]
+    },
+    {
+      "slug": "mari",
+      "verdict": "no_pku",
+      "reason": "Hand-roll tasting only at $145; no posted à la carte veg or salad.",
+      "menu_url": "https://marinyc.com/our-menu/",
+      "picks": []
+    },
+    {
+      "slug": "meju",
+      "verdict": "no_pku",
+      "reason": "Posted $265 tasting only (doenjang + tofu through sikhye + red bean); no à la carte veg or salad.",
+      "menu_url": "https://mejunyc.com/menu/",
+      "picks": []
+    },
+    {
+      "slug": "muku",
+      "verdict": "no_pku",
+      "reason": "10–12 course kaiseki only; no posted à la carte veg or salad.",
+      "menu_url": "https://www.restaurantmuku.nyc/menu",
+      "picks": []
+    },
+    {
+      "slug": "noda",
+      "verdict": "blocked",
+      "reason": "Batch menu URL is a Harajuku tumblr. Official noda.nyc loaded as an image/JS shell with no readable posted dishes.",
+      "menu_url": "https://www.noda.nyc/",
+      "picks": []
+    },
+    {
+      "slug": "oiji-mi",
+      "verdict": "no_pku",
+      "reason": "Posted 5-course prix fixe is prawn, tartare, hwe, seafood bowls, sea bass, lamb, and galbi. Bar à la carte is mentioned but not posted.",
+      "menu_url": "https://www.oijimi.com/menu",
+      "picks": []
+    },
+    {
+      "slug": "oxomoco",
+      "verdict": "picks",
+      "reason": "",
+      "menu_url": "https://www.oxomoconyc.com/menus/",
+      "picks": [
+        {
+          "name": "Mango",
+          "description": "chili, lime",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Popcorn",
+          "description": "mole negro oil, escabeche powder",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Chips And Salsa",
+          "description": "variety of salsas, heirloom corn tostadas",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Oxomoco Guacamole",
+          "description": "smoked cherry tomatoes, queso fresco",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "queso fresco"
+        },
+        {
+          "name": "Ensalada Caesar",
+          "description": "romaine, cotija masa crunch",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "cotija"
+        },
+        {
+          "name": "Sweet Pea Tostada",
+          "description": "goat cheese, fiddlehead ferns, jalapeño puree",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "goat cheese"
+        },
+        {
+          "name": "Tomato Tostada",
+          "description": "salsa verde, burrata, macadamia",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata and macadamia"
+        },
+        {
+          "name": "Maitake Tacos",
+          "description": "herbs ricotta, morita-ancho salsa, black trumpet chips",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta"
+        }
+      ]
+    }
+  ]
+}

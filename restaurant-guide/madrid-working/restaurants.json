@@ -1,0 +1,1105 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "madrid-es",
+ "restaurant_count": 28,
+ "restaurants": [
+  {
+   "restaurant_id": "madrid-es/caja-de-cerillas",
+   "city_id": "madrid-es",
+   "slug": "caja-de-cerillas",
+   "name": "Caja de Cerillas",
+   "website": "",
+   "address": "Donoso Cortés, 8, Madrid, 28015, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/caja-de-cerillas"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/caja-de-cerillas",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/goicolea",
+   "city_id": "madrid-es",
+   "slug": "goicolea",
+   "name": "Goicolea",
+   "website": "",
+   "address": "Génova 7, Madrid, 28004, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/goicolea"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/goicolea",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Basque",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/gurisa",
+   "city_id": "madrid-es",
+   "slug": "gurisa",
+   "name": "Gurisa",
+   "website": "",
+   "address": "Zurbano 31, Madrid, 28010, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/gurisa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/gurisa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/nacha",
+   "city_id": "madrid-es",
+   "slug": "nacha",
+   "name": "Nacha",
+   "website": "",
+   "address": "Conde Duque 32, Madrid, 28015, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/nacha"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/nacha",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "madrid-es/dstage",
+   "city_id": "madrid-es",
+   "slug": "dstage",
+   "name": "DSTAgE",
+   "website": "https://dstageconcept.com",
+   "address": "Regueros 8, Madrid, 28004, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/dstage"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/dstage"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/dstage",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/deessa",
+   "city_id": "madrid-es",
+   "slug": "deessa",
+   "name": "Deessa",
+   "website": "https://www.mandarinoriental.com/es-es/madrid/hotel-ritz/dine/deessa",
+   "address": "Plaza de la Lealtad 5, Madrid, 28014, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/deessa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/deessa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/desde-1911",
+   "city_id": "madrid-es",
+   "slug": "desde-1911",
+   "name": "Desde 1911",
+   "website": "https://www.desde1911.es",
+   "address": "Vivero 3, Madrid, 28040, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/desde-1911"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/desde-1911",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/emi",
+   "city_id": "madrid-es",
+   "slug": "emi",
+   "name": "EMi",
+   "website": "https://emimadrid.com/",
+   "address": "Gaztambide 64, Madrid, 28015, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/emi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/emi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/gofio",
+   "city_id": "madrid-es",
+   "slug": "gofio",
+   "name": "Gofio",
+   "website": "https://gofiorestaurant.com/",
+   "address": "Caballero de Gracia 20, Madrid, 28013, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/gofio-by-cicero-canary"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/gofio-by-cicero-canary",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/quinque",
+   "city_id": "madrid-es",
+   "slug": "quinque",
+   "name": "Quinqué",
+   "website": "https://restaurantequinque.es/",
+   "address": "Apolonio Morales 3, Madrid, 28036, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/quinque"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/quinque",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "madrid-es/bichopalo",
+   "city_id": "madrid-es",
+   "slug": "bichopalo",
+   "name": "Bichopalo",
+   "website": "https://www.bichopalo.es",
+   "address": "Cristóbal Bordiú 39, Madrid, 28003, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/bichopalo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/bichopalo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "madrid-es/bolboreta",
+   "city_id": "madrid-es",
+   "slug": "bolboreta",
+   "name": "Bolboreta",
+   "website": "https://www.bolboretarestaurante.com/",
+   "address": "Ave María 8, Madrid, 28012, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/bolboreta"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/bolboreta",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "madrid-es/dantte",
+   "city_id": "madrid-es",
+   "slug": "dantte",
+   "name": "Dantte",
+   "website": "https://www.instagram.com/dantte.madrid",
+   "address": "Santa Engracia 32, Madrid, 28010, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/dantte"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/dantte",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/ebisu-by-kobos",
+   "city_id": "madrid-es",
+   "slug": "ebisu-by-kobos",
+   "name": "Ebisu by Kobos",
+   "website": "https://ebisubykobos.com/",
+   "address": "Luciente 14, Madrid, 28005, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ebisu-by-kobos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ebisu-by-kobos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/fismuler",
+   "city_id": "madrid-es",
+   "slug": "fismuler",
+   "name": "Fismuler",
+   "website": "https://www.fismuler.com/",
+   "address": "Sagasta 29, Madrid, 28004, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/fismuler"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/fismuler",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "madrid-es/haramboure",
+   "city_id": "madrid-es",
+   "slug": "haramboure",
+   "name": "Haramboure",
+   "website": "https://www.haramboure.com/",
+   "address": "Maldonado 4, Madrid, 28006, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/haramboure"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/haramboure",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Basque",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/kappo",
+   "city_id": "madrid-es",
+   "slug": "kappo",
+   "name": "Kappo",
+   "website": "https://restaurantekappo.com/",
+   "address": "Bretón de los Herreros 54, Madrid, 28003, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/kappo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/kappo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/la-mar-madrid-by-gaston-acurio",
+   "city_id": "madrid-es",
+   "slug": "la-mar-madrid-by-gaston-acurio",
+   "name": "La Mar Madrid by Gastón Acurio",
+   "website": "https://www.lamarcebicheria.com/",
+   "address": "Avenida del General Perón 36, Madrid, 28020, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/la-mar-madrid-by-gaston-acurio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/la-mar-madrid-by-gaston-acurio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peruvian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "madrid-es/le-bistroman-atelier",
+   "city_id": "madrid-es",
+   "slug": "le-bistroman-atelier",
+   "name": "Le Bistroman Atelier",
+   "website": "https://lebistroman.es/",
+   "address": "Amnistía 10, Madrid, 28013, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/le-bistroman-atelier"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/le-bistroman-atelier",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/los-33",
+   "city_id": "madrid-es",
+   "slug": "los-33",
+   "name": "Los 33",
+   "website": "https://www.los33.net",
+   "address": "Plaza de las Salesas 9, Madrid, 28004, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/los-33"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/los-33",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/ovillo",
+   "city_id": "madrid-es",
+   "slug": "ovillo",
+   "name": "Ovillo",
+   "website": "https://www.ovillo.es/",
+   "address": "Pantoja 8, Madrid, 28002, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ovillo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ovillo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/palm-court",
+   "city_id": "madrid-es",
+   "slug": "palm-court",
+   "name": "Palm Court",
+   "website": "https://www.mandarinoriental.com/es-es/madrid/hotel-ritz/dine/palm-court",
+   "address": "Plaza de la Lealtad 5, Madrid, 28014, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/palm-court"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/palm-court",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Classic Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/puntarena",
+   "city_id": "madrid-es",
+   "slug": "puntarena",
+   "name": "Puntarena",
+   "website": "https://puntarenamadrid.com/",
+   "address": "Alberto Aguilera 20, Madrid, 28015, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/puntarena"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/puntarena",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/rocacho-plaza",
+   "city_id": "madrid-es",
+   "slug": "rocacho-plaza",
+   "name": "Rocacho Plaza",
+   "website": "https://rocachoplaza.com",
+   "address": "Plaza del Marqués de Salamanca 9, Madrid, 28006, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/rocacho-plaza"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/rocacho-plaza",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/sua",
+   "city_id": "madrid-es",
+   "slug": "sua",
+   "name": "Sua",
+   "website": "https://www.suabytriciclo.com/",
+   "address": "Moratín 22, Madrid, 28014, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/sua"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/sua",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/ta-kumi",
+   "city_id": "madrid-es",
+   "slug": "ta-kumi",
+   "name": "TA-KUMI",
+   "website": "https://www.restaurantetakumi.com",
+   "address": "Claudio Coello 114, Madrid, 28006, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ta-kumi-1205616"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ta-kumi-1205616",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/ticui",
+   "city_id": "madrid-es",
+   "slug": "ticui",
+   "name": "Ticuí",
+   "website": "https://www.ticui.es",
+   "address": "Cedaceros 6, Madrid, 28014, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ticui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ticui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "madrid-es/tori-key",
+   "city_id": "madrid-es",
+   "slug": "tori-key",
+   "name": "Tori-Key",
+   "website": "https://www.torikey.com",
+   "address": "Plaza del Descubridor Diego de Ordás 2, Madrid, 28003, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/tori-key"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/tori-key",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$"
+  }
+ ]
+}

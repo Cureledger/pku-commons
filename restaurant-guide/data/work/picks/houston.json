@@ -1,0 +1,871 @@
+[
+  {
+    "slug": "bcn-taste-tradition",
+    "menu_url": "https://www.bcnhouston.com/menus/",
+    "picks": [
+      {
+        "name": "Beet foam, cucumber tartare, greek yogurt and lime",
+        "description": "Espuma de remolacha, tartar de pepino, yogurt griego, y limón",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "greek yogurt"
+      },
+      {
+        "name": "Grilled Baby Artichoke Hearts with Romesco Sauce",
+        "description": "Alcachofas tiernas con romesco",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "romesco",
+        "note": "Romesco is usually almond."
+      },
+      {
+        "name": "Patatas Bravas BCN",
+        "description": "Potatoes, spicy oil and alioli",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "alioli",
+        "note": "Alioli is egg."
+      },
+      {
+        "name": "Beet-Pistachio-Raspberry Ravioli Salad",
+        "description": "Kefir cheese and pistachio oil",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pistachio and kefir"
+      },
+      {
+        "name": "Burrata salad with watermelon",
+        "description": "Baby greens, basil leaves and balsamic glaze",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "burrata"
+      },
+      {
+        "name": "Sweet corn mousse salad",
+        "description": "Mixed greens, tomato seeds, shredded carrots, avocado, corn nuts, cilantro, and whole grain mustard",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Fresh cherry gazpacho with basil and tropical fruit",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Almond soup, artichokes, vanilla bean oil, and seared mushrooms",
+        "description": "Sopa de turrón",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "almond"
+      },
+      {
+        "name": "Pan con tomate",
+        "description": "Vegan / brunch appetizer",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Manzanilla olives from Spain",
+        "description": "Aceitunas manzanilla con hueso",
+        "course": "starter",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "le-jardinier-houston",
+    "menu_url": "https://www.lejardinier-houston.com/menus",
+    "picks": [
+      {
+        "name": "Whipped Burrata",
+        "description": "Stone fruits, pecan gremolata, basil",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata and pecan"
+      },
+      {
+        "name": "Garden Salad",
+        "description": "Charred corn, avocado, cherry tomatoes, calamansi vinaigrette, mozzarella",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "mozzarella"
+      },
+      {
+        "name": "Carolina Gold Rice Risotto",
+        "description": "Roasted red peppers, mushrooms, roasted corn, mimolette",
+        "course": "main",
+        "kind": "main",
+        "hold": "mimolette"
+      },
+      {
+        "name": "Parisian Gnocchi",
+        "description": "Summer squash, chanterelles, basil puree",
+        "course": "main",
+        "kind": "main"
+      }
+    ]
+  },
+  {
+    "slug": "musaafer",
+    "menu_url": "https://www.musaaferhouston.com/_files/ugd/058839_ea8328cc164a4e7c9fce28fa6e2ed571.pdf",
+    "picks": [
+      {
+        "name": "Paani Puri",
+        "description": "Spiced potato and chickpea; 5 fillings",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "chickpea"
+      },
+      {
+        "name": "Lychee Ceviche",
+        "description": "Cured lychee, yuzu coconut sauce, homemade tooti frooti, crispy corn",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Masala Papad",
+        "description": "Red-pepper and avocado, achar emulsion, karvanda, sesame",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "sesame"
+      },
+      {
+        "name": "Bhalla Patta Chaat",
+        "description": "Lentil dumplings, sweet yoghurt, tamarind, mint, pomegranate, shiso leaf fritters",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "lentil and yoghurt"
+      },
+      {
+        "name": "Onion XuiXo",
+        "description": "Onion, leavened kachori, house blend spice, mint, tamarind chutney",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Bihari Sigdi Kebab",
+        "description": "Charred soya chaap, scallion tomato chutney, masala laccha paratha",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "soya chaap"
+      },
+      {
+        "name": "Vegetable Seekh Kebab",
+        "description": "Vegetable seekh, daikon, red onion, mint chutney",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Palak Paneer",
+        "description": "Spinach, cottage cheese, garlic, corn crisps",
+        "course": "main",
+        "kind": "main",
+        "hold": "paneer"
+      },
+      {
+        "name": "Paneer Rizala",
+        "description": "Rose petal, brown onion, serrano, cilantro",
+        "course": "main",
+        "kind": "main",
+        "hold": "paneer"
+      },
+      {
+        "name": "Dum Aloo Gucchi",
+        "description": "Crispy potato disc, stuffed morels, garlic tomato chutney, Kashmiri dum aloo gravy",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Kela Kofta",
+        "description": "Plantain, pistachio, tomatoes, curry leaf, coconut chips",
+        "course": "main",
+        "kind": "main",
+        "hold": "pistachio"
+      },
+      {
+        "name": "Dal Musaafer",
+        "description": "72-hour slow cooked black lentil, tomato, smoked chili",
+        "course": "main",
+        "kind": "main",
+        "hold": "lentil"
+      },
+      {
+        "name": "Dal Muradabadi",
+        "description": "Yellow lentil, red onion, crispy moong dal, ghee",
+        "course": "main",
+        "kind": "main",
+        "hold": "lentil and ghee"
+      },
+      {
+        "name": "Jackfruit Kolkata Biryani",
+        "description": "Basmati, jackfruit, potato; burhani raita",
+        "course": "main",
+        "kind": "main",
+        "hold": "raita"
+      },
+      {
+        "name": "Caramelized Onion & Cumin Rice",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Basmati Rice",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Balchao Potatoes",
+        "description": "Roasted baby potatoes, onion, tomatoes, cloves, smoked chili, cumin",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Baigan Bharta",
+        "description": "Roasted eggplant mash, onion, tomato, sesame",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "sesame"
+      },
+      {
+        "name": "Brussels Sprouts",
+        "description": "Sesame dressing, white onion, coriander",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "sesame"
+      },
+      {
+        "name": "Chatpati Serrano",
+        "description": "Roasted serrano, lime, chaat masala, dry mango",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "casaema",
+    "menu_url": "https://www.casaemahtx.com/menu",
+    "picks": [
+      {
+        "name": "Papaya Salad",
+        "description": "Sweet papaya, plain yogurt, orange segments, agave lime dressing, housemade granola",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "yogurt and granola"
+      },
+      {
+        "name": "Taco de Zanahoria",
+        "description": "Heirloom blue corn tortilla, confit carrot, pumpkin seed salsa, greens, queso fresco, roasted pumpkin seeds",
+        "course": "main",
+        "kind": "main",
+        "hold": "queso fresco and pumpkin seeds"
+      },
+      {
+        "name": "Mushroom Tetela",
+        "description": "Mushroom carrot tinga, heirloom blue corn masa, black beans, salsa verde, dill sourcream, queso fresco",
+        "course": "main",
+        "kind": "main",
+        "hold": "sourcream and queso fresco"
+      },
+      {
+        "name": "Pipian Rojo Cauliflower",
+        "description": "Roasted cauliflower, caramelized onions, basil, fresh lime juice, red pumpkin seed salsa",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pumpkin seed"
+      },
+      {
+        "name": "Mushroom tostada",
+        "description": "Bella mushrooms, heirloom corn tostada, black beans, pipian rojo, arugula salad, salsa macha, queso fresco",
+        "course": "main",
+        "kind": "main",
+        "hold": "queso fresco"
+      },
+      {
+        "name": "Arugula Avocado Salad",
+        "description": "Pipian vinaigrette, arugula, avocado, red onion, queso fresco, roasted pumpkin seeds, dried cranberries",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "queso fresco and pumpkin seeds"
+      },
+      {
+        "name": "Mole verde Chochoyotes",
+        "description": "Mushrooms, mole verde, Welsh onions, chochoyotes (masa dumplings), salsa macha, asiago cheese (weekends only)",
+        "course": "main",
+        "kind": "main",
+        "hold": "asiago"
+      }
+    ]
+  },
+  {
+    "slug": "maximo",
+    "menu_url": "https://www.maximo-htx.com/menus/",
+    "picks": [
+      {
+        "name": "Guacamole",
+        "description": "Tomatillo chimichurri, todo seasoning, baked tostadas",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "sesame"
+      },
+      {
+        "name": "Papas Bravas",
+        "description": "Epazote aioli, chintextle XO, prosciutto",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "aioli and prosciutto",
+        "note": "Aioli is egg."
+      },
+      {
+        "name": "Smoked Sweet Potato",
+        "description": "Whipped requesón, pumpkin seed matcha, black trumpet mushrooms",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "requesón and pumpkin seed"
+      },
+      {
+        "name": "Corn Ribs",
+        "description": "Chipotle mayo, cotija cheese, pepitas, cilantro",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "mayo, cotija, and pepitas",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "Strawberry & Hearts of Palm Salad",
+        "description": "Texas strawberries, pickled hearts of palm, queso de cincho, palanqueta, champagne vinaigrette, basil",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "queso de cincho and palanqueta",
+        "note": "Palanqueta is usually peanut."
+      },
+      {
+        "name": "Machete de Hongos",
+        "description": "Black truffle, trumpet mushrooms, sottocerene al tartufo cheese, avocado, black garlic-habanero salsa",
+        "course": "main",
+        "kind": "main",
+        "hold": "cheese"
+      },
+      {
+        "name": "Squash Blossom Tetela",
+        "description": "Queso de rancho, epazote, tomatillo salsa",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "queso de rancho"
+      },
+      {
+        "name": "Mushroom Taco",
+        "description": "Choice on the taco plate, corn tortillas",
+        "course": "main",
+        "kind": "main"
+      }
+    ]
+  },
+  {
+    "slug": "nancys-hustle",
+    "menu_url": "https://www.nancyshustle.com/menu",
+    "picks": [
+      {
+        "name": "Smashed cucumber salad",
+        "description": "Preserved orange, puffed rice, fine herbs",
+        "course": "starter",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Grilled summer peppers with tahini vinaigrette",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "tahini",
+        "note": "Tahini is sesame."
+      },
+      {
+        "name": "Sesame sourdough with cultured butter & pickled peach marmalade",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "sesame"
+      },
+      {
+        "name": "Hand cut fries with aioli",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "aioli",
+        "note": "Aioli is egg."
+      }
+    ]
+  },
+  {
+    "slug": "pinkertons-barbecue",
+    "menu_url": "https://www.pinkertonsbarbecue.com/heights",
+    "picks": [
+      {
+        "name": "Jalapeño Cheese Rice",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Grant's Potato Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Tangy Coleslaw",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "South Texas Beans",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "the-pit-room",
+    "menu_url": "https://thepitroombbq.com/main/",
+    "picks": [
+      {
+        "name": "Cole Slaw",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Mac N Cheese",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Elote",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Charro Beans",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mustard Potato Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Green Beans",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Potato & Egg",
+        "description": "Breakfast taco with refried beans",
+        "course": "main",
+        "kind": "main",
+        "hold": "egg"
+      }
+    ]
+  },
+  {
+    "slug": "theodore-rex",
+    "menu_url": "https://trexhouston.com/wp-content/uploads/2026/08/TRex-Food-Menu-8.6.26.pdf",
+    "picks": [
+      {
+        "name": "Cold Ratatouille with Red Miso",
+        "description": "Marinated in some good olive oil",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Chilled Summer Melon",
+        "description": "Bergamot and sweet aromatics, serrano vinegar",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Tomato Toast",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Butternut Squash Stuffed with Spinach Oshitashi",
+        "description": "Parmigiano, Marcella beans and yuzu",
+        "course": "main",
+        "kind": "main",
+        "hold": "parmigiano and beans"
+      },
+      {
+        "name": "Lettuces Lightly Dressed in a Vinaigrette",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Boiled Heirloom Potatoes",
+        "description": "Cultured butter, roasted yeast, dill",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "agnes-and-sherman",
+    "menu_url": "https://www.agnesandsherman.com/dinner",
+    "picks": [
+      {
+        "name": "Savory Scallion Waffle",
+        "description": "Sambal honey butter",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Chilled Noodles",
+        "description": "Ginger scallion, yuba, pickled shiitake",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "yuba"
+      },
+      {
+        "name": "Wok-Fried Summer Veg",
+        "description": "Basil, nuoc cham, crispy shallot",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Potato & Shishito",
+        "description": "Ssamjang mayo, lime",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "mayo",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "Salt and Pepper Fries",
+        "description": "Wok-fried with garlic, shallot and serrano",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "bar-bludorn",
+    "menu_url": "https://cdn.prod.website-files.com/65f46cb54ae59ad512a5423b/6a6ce0632c4ee5664707f2ad_07.30.26%20BB%20Dinner%20Website%20MR.pdf",
+    "picks": [
+      {
+        "name": "Sea Island Red Pea Dip",
+        "description": "Benne seed, chili oil, buttermilk dressing, laffa bread",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pea, benne, and buttermilk",
+        "note": "Benne is sesame."
+      },
+      {
+        "name": "Tomato Gazpacho",
+        "description": "Sherry, sourdough, charred pistou",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Southwest Caesar",
+        "description": "Cotija, corn, avocado, poblano",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "cotija",
+        "note": "Caesar is usually egg and anchovy."
+      },
+      {
+        "name": "Antipasto Salad",
+        "description": "Burrata, summer squash, sungold, soppressata, lemon vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "burrata and soppressata"
+      },
+      {
+        "name": "Ravioli",
+        "description": "Charred corn, chanterelle, manchego",
+        "course": "main",
+        "kind": "main",
+        "hold": "manchego"
+      },
+      {
+        "name": "Mashed Potatoes",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "French Fries",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Spinach, Creamed or Sautéed",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cream if creamed"
+      },
+      {
+        "name": "Parmesan Risotto",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "parmesan"
+      },
+      {
+        "name": "Zucchini and Shishito",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Roasted Carrots",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "bludorn",
+    "menu_url": "https://www.bludornrestaurant.com/s/DinnerWeb-080926.pdf",
+    "picks": [
+      {
+        "name": "Tuscan Kale Salad",
+        "description": "Parmesan cheese, croutons, bonito caesar dressing",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan and bonito",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "Heirloom Tomato Salad",
+        "description": "Eggplant, dama sagrada, chickpea socca",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "chickpea socca"
+      },
+      {
+        "name": "Squash Blossom",
+        "description": "Zucchini pesto, pepper jam, ricotta",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ricotta"
+      },
+      {
+        "name": "Ricotta Gnocchi",
+        "description": "Sunburst squash, walnut, confit tomato, parmesan",
+        "course": "main",
+        "kind": "main",
+        "hold": "ricotta, walnut, and parmesan"
+      },
+      {
+        "name": "Tagliatelle",
+        "description": "Chanterelle, vidalia onion, huitlacoche, pecorino pepato",
+        "course": "main",
+        "kind": "main",
+        "hold": "pecorino"
+      },
+      {
+        "name": "Spinach, Creamed or Sautéed",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cream if creamed"
+      },
+      {
+        "name": "Crispy Potato Wedges",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Glazed Beets",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Blistered Romano Beans",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "brisket-rice",
+    "menu_url": "https://brisketnrice.com/menu",
+    "picks": [
+      {
+        "name": "Cranberry Almond Slaw",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "almond"
+      },
+      {
+        "name": "Street Corn",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Mac & Cheese",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Loaded Baked Potato salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Poor Man's Macaroni",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "BBQ Beans",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "josephines",
+    "menu_url": "https://josephinesgulfcoasttradition.com/menu/",
+    "picks": [
+      {
+        "name": "Southern Pea Salad",
+        "description": "All the peas, diced veg, egg, cheddar, capers, bibb lettuce",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "peas, egg, and cheddar"
+      },
+      {
+        "name": "Little Gem & Apple Salad",
+        "description": "Blue Plate mayo, french dressing, chives, dill, shallot, maldon",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "mayo",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "Red Beans & Rice",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Collard Greens",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Fried Okra",
+        "description": "Comeback sauce",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Hushpuppies",
+        "description": "Pickled jalapeno tartar sauce",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tartar",
+        "note": "Tartar is usually egg."
+      },
+      {
+        "name": "Biscuits",
+        "description": "Seasonal jam, Steen's butter",
+        "course": "starter",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "late-august",
+    "menu_url": "https://www.lateaugusthtx.com/menu",
+    "picks": [
+      {
+        "name": "Texas Caesar",
+        "description": "Spicy Caesar dressing, avocado, 1913 tomatoes, grilled corn",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "dressing",
+        "note": "Caesar is usually egg and anchovy."
+      },
+      {
+        "name": "Tomato Salad",
+        "description": "Cucumber, watermelon, avocado, fry bread croutons",
+        "course": "starter",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Charred Brussels",
+        "description": "Pomegranate molasses, turnips, Texas pecan crumble",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pecan"
+      },
+      {
+        "name": "Chili Relleno",
+        "description": "Poblano, melted cheese, avocado cream, Creole sauce, red rice",
+        "course": "main",
+        "kind": "main",
+        "hold": "cheese and avocado cream"
+      },
+      {
+        "name": "Mexican Aligot",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "cheese"
+      },
+      {
+        "name": "Grilled Farm Veg",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Rice & Peas",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "peas"
+      },
+      {
+        "name": "Smoked Mac & Cheese",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      }
+    ]
+  }
+]

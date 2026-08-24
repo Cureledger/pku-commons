@@ -1,0 +1,2192 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "penang-my",
+ "restaurant_count": 56,
+ "restaurants": [
+  {
+   "restaurant_id": "penang-my/auntie-gaik-leans-old-school-eatery",
+   "city_id": "penang-my",
+   "slug": "auntie-gaik-leans-old-school-eatery",
+   "name": "Auntie Gaik Lean's Old School Eatery",
+   "website": "",
+   "address": "1 Lebuh Bishop, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/ah-boy-koay-teow-thng",
+   "city_id": "penang-my",
+   "slug": "ah-boy-koay-teow-thng",
+   "name": "Ah Boy Koay Teow Th'ng",
+   "website": "",
+   "address": "1 Lebuh Clarke, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ah-boy-koay-teow-th-ng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ah-boy-koay-teow-th-ng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/awesome-char-koay-teow",
+   "city_id": "penang-my",
+   "slug": "awesome-char-koay-teow",
+   "name": "Awesome Char Koay Teow",
+   "website": "",
+   "address": "New KK99 Cafe, 99 Jalan Lembah Permai, Tanjung Bungah, George Town, 11200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/awesome-char-koay-teow"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/awesome-char-koay-teow",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/bee-hwa-cafe",
+   "city_id": "penang-my",
+   "slug": "bee-hwa-cafe",
+   "name": "Bee Hwa Cafe",
+   "website": "",
+   "address": "10 Lebuh Dickens, George Town, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bee-hwa-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bee-hwa-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/bibiks-kitchen",
+   "city_id": "penang-my",
+   "slug": "bibiks-kitchen",
+   "name": "Bibik's Kitchen",
+   "website": "",
+   "address": "73 Jalan Sri Bahari, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bibik-s-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bibik-s-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/bridge-street-prawn-noodle",
+   "city_id": "penang-my",
+   "slug": "bridge-street-prawn-noodle",
+   "name": "Bridge Street Prawn Noodle",
+   "website": "",
+   "address": "533 Lebuh Pantai, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bridge-street-prawn-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bridge-street-prawn-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/duck-blood-curry-mee",
+   "city_id": "penang-my",
+   "slug": "duck-blood-curry-mee",
+   "name": "Duck Blood Curry Mee",
+   "website": "",
+   "address": "223B Jalan Burma, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/ghee-lian",
+   "city_id": "penang-my",
+   "slug": "ghee-lian",
+   "name": "Ghee Lian",
+   "website": "",
+   "address": "Lot No. 39, MBPP Kompleks Makanan Medan Renong Padang Kota Lama, 4 Jalan Tun Syed Sheh Barakhbah, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ghee-lian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ghee-lian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/green-house-prawn-mee-loh-mee-223-jalan-burma",
+   "city_id": "penang-my",
+   "slug": "green-house-prawn-mee-loh-mee-223-jalan-burma",
+   "name": "Green House Prawn Mee & Loh Mee (223 Jalan Burma)",
+   "website": "",
+   "address": "223 Jalan Burma, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/green-house-prawn-mee-loh-mee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/green-house-prawn-mee-loh-mee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/hot-bowl-white-curry-mee",
+   "city_id": "penang-my",
+   "slug": "hot-bowl-white-curry-mee",
+   "name": "Hot Bowl White Curry Mee",
+   "website": "",
+   "address": "58C Jalan Rangoon, George Town, 10400, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/ivys-nyonya-cuisine",
+   "city_id": "penang-my",
+   "slug": "ivys-nyonya-cuisine",
+   "name": "Ivy's Nyonya Cuisine",
+   "website": "",
+   "address": "100-104 Jalan Kedah, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ivy-s-nyonya-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ivy-s-nyonya-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/laksalicious",
+   "city_id": "penang-my",
+   "slug": "laksalicious",
+   "name": "Laksalicious",
+   "website": "",
+   "address": "117-117A Jalan Hutton, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/laksalicious"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/laksalicious",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/lum-lai-duck-meat-koay-teow-thng",
+   "city_id": "penang-my",
+   "slug": "lum-lai-duck-meat-koay-teow-thng",
+   "name": "Lum Lai Duck Meat Koay Teow Th'ng",
+   "website": "",
+   "address": "Pasar Lebuh Cecil, 24 Lebuh Cecil, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lum-lai-duck-meat-koay-teow-th-ng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lum-lai-duck-meat-koay-teow-th-ng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/moh-teng-pheow-nyonya-koay",
+   "city_id": "penang-my",
+   "slug": "moh-teng-pheow-nyonya-koay",
+   "name": "Moh Teng Pheow Nyonya Koay",
+   "website": "",
+   "address": "Jalan Masjid, off Lebuh Chulia, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/moh-teng-pheow-nyonya-koay"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/moh-teng-pheow-nyonya-koay",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/my-own-cafe",
+   "city_id": "penang-my",
+   "slug": "my-own-cafe",
+   "name": "My Own Café",
+   "website": "",
+   "address": "2 Lebuh Cannon, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/my-own-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/penang-road-famous-jin-kor-char-kuey-teow",
+   "city_id": "penang-my",
+   "slug": "penang-road-famous-jin-kor-char-kuey-teow",
+   "name": "Penang Road Famous Jin Kor Char Kuey Teow",
+   "website": "",
+   "address": "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/penang-road-famous-laksa",
+   "city_id": "penang-my",
+   "slug": "penang-road-famous-laksa",
+   "name": "Penang Road Famous Laksa",
+   "website": "",
+   "address": "5 Lebuh Keng Kwee, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-laksa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-laksa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/rasa-rasa",
+   "city_id": "penang-my",
+   "slug": "rasa-rasa",
+   "name": "Rasa Rasa",
+   "website": "",
+   "address": "59 Gat Lebuh Chulia, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/rasa-rasa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/rasa-rasa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/ravis-famous-apom-manis",
+   "city_id": "penang-my",
+   "slug": "ravis-famous-apom-manis",
+   "name": "Ravi's Famous Apom Manis",
+   "website": "",
+   "address": "319 Jalan Burma, George Town, 10350, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ravi-s-famous-apom-manis"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ravi-s-famous-apom-manis",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/sardaarji",
+   "city_id": "penang-my",
+   "slug": "sardaarji",
+   "name": "Sardaarji",
+   "website": "",
+   "address": "6 Lebuh China, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sardaarji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sardaarji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/siam-road-char-koay-teow",
+   "city_id": "penang-my",
+   "slug": "siam-road-char-koay-teow",
+   "name": "Siam Road Char Koay Teow",
+   "website": "",
+   "address": "82 Jalan Siam, George Town, 10400, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/sifu",
+   "city_id": "penang-my",
+   "slug": "sifu",
+   "name": "Sifu",
+   "website": "",
+   "address": "154 Jalan Pintal Tali, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/sister-yaos-char-koay-kak",
+   "city_id": "penang-my",
+   "slug": "sister-yaos-char-koay-kak",
+   "name": "Sister Yao’s Char Koay Kak",
+   "website": "",
+   "address": "96 Lorong Macalister, George Town, 11400, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/teksen",
+   "city_id": "penang-my",
+   "slug": "teksen",
+   "name": "Teksen",
+   "website": "",
+   "address": "18 & 20 Lebuh Carnarvon, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/teksen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/teksen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/thara",
+   "city_id": "penang-my",
+   "slug": "thara",
+   "name": "Thara",
+   "website": "",
+   "address": "5 Lorong Prangin, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/wan-dao-tou-assam-laksa",
+   "city_id": "penang-my",
+   "slug": "wan-dao-tou-assam-laksa",
+   "name": "Wan Dao Tou Assam Laksa",
+   "website": "",
+   "address": "1 Jalan Gottlieb, George Town, 10350, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/winns-cafe",
+   "city_id": "penang-my",
+   "slug": "winns-cafe",
+   "name": "Winn's Cafe",
+   "website": "",
+   "address": "38 Jalan Cantonment, George Town, 10350, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/winn-s-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/winn-s-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/888-hokkien-mee",
+   "city_id": "penang-my",
+   "slug": "888-hokkien-mee",
+   "name": "888 Hokkien Mee",
+   "website": "",
+   "address": "67-A Lebuh Presgrave, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/888-hokkien-mee-lebuh-presgrave"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/888-hokkien-mee-lebuh-presgrave",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/air-itam-duck-rice",
+   "city_id": "penang-my",
+   "slug": "air-itam-duck-rice",
+   "name": "Air Itam Duck Rice",
+   "website": "",
+   "address": "Air Itam Wet Market, Jalan Pasar, George Town, 11500, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/air-itam-duck-rice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/air-itam-duck-rice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/air-itam-sister-curry-mee",
+   "city_id": "penang-my",
+   "slug": "air-itam-sister-curry-mee",
+   "name": "Air Itam Sister Curry Mee",
+   "website": "",
+   "address": "612 T, Jalan Air Itam Pekan Ayer Itam, George Town, 11500, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/air-itam-sister-curry-mee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/air-itam-sister-curry-mee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/ali-nasi-lemak-daun-pisang",
+   "city_id": "penang-my",
+   "slug": "ali-nasi-lemak-daun-pisang",
+   "name": "Ali Nasi Lemak Daun Pisang",
+   "website": "",
+   "address": "Sri Weld Food Court, 19 Lebuh Pantai, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ali-nasi-lemak-daun-pisang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ali-nasi-lemak-daun-pisang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/bali-hai-seafood-market",
+   "city_id": "penang-my",
+   "slug": "bali-hai-seafood-market",
+   "name": "Bali Hai Seafood Market",
+   "website": "",
+   "address": "90 Persiaran Gurney, George Town, 10250, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bali-hai-seafood-market"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bali-hai-seafood-market",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/bao-teck-tea-house",
+   "city_id": "penang-my",
+   "slug": "bao-teck-tea-house",
+   "name": "Bao Teck Tea House",
+   "website": "",
+   "address": "25 Lebuh Melayu, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bao-teck-tea-house"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bao-teck-tea-house",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/bite-n-eat-dindigul-biriyani",
+   "city_id": "penang-my",
+   "slug": "bite-n-eat-dindigul-biriyani",
+   "name": "Bite N Eat Dindigul Biriyani",
+   "website": "",
+   "address": "43 Lebuh Penang, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bite-n-eat-dindigul-biriyani"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bite-n-eat-dindigul-biriyani",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/blacklinen",
+   "city_id": "penang-my",
+   "slug": "blacklinen",
+   "name": "Blacklinen",
+   "website": "",
+   "address": "Level 9, The Millen, 55 Jalan Sultan Ahmad Shah, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/blacklinen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/blacklinen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "penang-my/ceki",
+   "city_id": "penang-my",
+   "slug": "ceki",
+   "name": "Ceki",
+   "website": "",
+   "address": "11-A Jalan Sri Bahari, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ceki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/ceki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/curios-city",
+   "city_id": "penang-my",
+   "slug": "curios-city",
+   "name": "Curios-City",
+   "website": "",
+   "address": "164A-B Lebuh Victoria, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/curios-city"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/curios-city",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "penang-my/du-an-lebuh-pantai",
+   "city_id": "penang-my",
+   "slug": "du-an-lebuh-pantai",
+   "name": "Du-An (Lebuh Pantai)",
+   "website": "",
+   "address": "251 Lebuh Pantai, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/du-an-lebuh-pantai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/du-an-lebuh-pantai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/fatty-loh-chicken-rice",
+   "city_id": "penang-my",
+   "slug": "fatty-loh-chicken-rice",
+   "name": "Fatty Loh Chicken Rice",
+   "website": "",
+   "address": "21 Jalan Fettes, Tanjung Bungah, George Town, 11200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/fatty-loh-chicken-rice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/fatty-loh-chicken-rice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/fook-cheow-cafe",
+   "city_id": "penang-my",
+   "slug": "fook-cheow-cafe",
+   "name": "Fook Cheow Cafe",
+   "website": "",
+   "address": "122I Jalan Hutton, George Town, 10050, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/fook-cheow-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/fook-cheow-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/goh-thew-chik-hainan-chicken-rice",
+   "city_id": "penang-my",
+   "slug": "goh-thew-chik-hainan-chicken-rice",
+   "name": "Goh Thew Chik Hainan Chicken Rice",
+   "website": "",
+   "address": "338A-338B Lebuh Chulia, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/goh-thew-chik-hainan-chicken-rice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/goh-thew-chik-hainan-chicken-rice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/jaloux",
+   "city_id": "penang-my",
+   "slug": "jaloux",
+   "name": "Jaloux",
+   "website": "",
+   "address": "24 Lebuh King, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/jaloux"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/jaloux",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/jit-seng-hong-kong-roasted-duck-rice",
+   "city_id": "penang-my",
+   "slug": "jit-seng-hong-kong-roasted-duck-rice",
+   "name": "Jit Seng Hong Kong Roasted Duck Rice",
+   "website": "",
+   "address": "246 Lebuh Carnarvon, George Town, 10450, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/jit-seng-hong-kong-roasted-duck-rice"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/jit-seng-hong-kong-roasted-duck-rice",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/kota-dine-coffee-fort-cornwallis",
+   "city_id": "penang-my",
+   "slug": "kota-dine-coffee-fort-cornwallis",
+   "name": "Kota Dine & Coffee (Fort Cornwallis)",
+   "website": "",
+   "address": "Fort Cornwallis, Jalan Tun Syed Sheh Barakbah, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/kota-dine-coffee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/kota-dine-coffee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/la-vie",
+   "city_id": "penang-my",
+   "slug": "la-vie",
+   "name": "La Vie",
+   "website": "",
+   "address": "Le Dream Boutique Hotel, 139 Jalan Pintal Tali, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/la-vie-1203685"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/la-vie-1203685",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "penang-my/nyonya-willow",
+   "city_id": "penang-my",
+   "slug": "nyonya-willow",
+   "name": "Nyonya Willow",
+   "website": "",
+   "address": "72-1-3 Arena Curve, Jalan Mahsuri, Bandar Sunway Tunas, Bayan Lepas, George Town, 11900, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/nyonya-willow"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/nyonya-willow",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/penang-famous-samosa",
+   "city_id": "penang-my",
+   "slug": "penang-famous-samosa",
+   "name": "Penang Famous Samosa",
+   "website": "",
+   "address": "45 Lebuh Queen, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/penang-famous-samosa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/penang-famous-samosa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/peninsula-house",
+   "city_id": "penang-my",
+   "slug": "peninsula-house",
+   "name": "Peninsula House",
+   "website": "",
+   "address": "Level 1, India House, 25B Lebuh Pantai, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/peninsula-house"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/peninsula-house",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Australian Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/pitt-street-koay-teow-soup",
+   "city_id": "penang-my",
+   "slug": "pitt-street-koay-teow-soup",
+   "name": "Pitt Street Koay Teow Soup",
+   "website": "",
+   "address": "183 Lebuh Carnarvon, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/pitt-street-koay-teow-soup"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/pitt-street-koay-teow-soup",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/richard-rivalee",
+   "city_id": "penang-my",
+   "slug": "richard-rivalee",
+   "name": "Richard Rivalee",
+   "website": "",
+   "address": "62 & 64 Lorong Macalister, George Town, 10400, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/richard-rivalee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/richard-rivalee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peranakan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/sambal",
+   "city_id": "penang-my",
+   "slug": "sambal",
+   "name": "Sambal",
+   "website": "",
+   "address": "300 Lebuh Pantai, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sambal-1207680"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sambal-1207680",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "penang-my/the-pinn",
+   "city_id": "penang-my",
+   "slug": "the-pinn",
+   "name": "The Pinn",
+   "website": "",
+   "address": "58 Pengkalan Weld, George Town, 10300, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/the-pinn"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/the-pinn",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/tok-tok-mee-bamboo-noodle",
+   "city_id": "penang-my",
+   "slug": "tok-tok-mee-bamboo-noodle",
+   "name": "Tok Tok Mee Bamboo Noodle",
+   "website": "",
+   "address": "37 Lebuh Campbell, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/tok-tok-mee-bamboo-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/tok-tok-mee-bamboo-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/whatsaeb-boat-noodles",
+   "city_id": "penang-my",
+   "slug": "whatsaeb-boat-noodles",
+   "name": "WhatSaeb Boat Noodles",
+   "website": "",
+   "address": "173 Lebuh Carnarvon, George Town, 10100, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/whatsaeb-boat-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/whatsaeb-boat-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "penang-my/firewood",
+   "city_id": "penang-my",
+   "slug": "firewood",
+   "name": "Firewood",
+   "website": "https://firegroup.my/",
+   "address": "15 Jalan Masjid Kapitan Keling, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/firewood"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/firewood",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "penang-my/lucky-hole",
+   "city_id": "penang-my",
+   "slug": "lucky-hole",
+   "name": "Lucky Hole",
+   "website": "https://thisisluckyhole.com",
+   "address": "23N Lebuh Pantai, George Town, 10200, Malaysia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lucky-hole"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lucky-hole",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$"
+  }
+ ]
+}

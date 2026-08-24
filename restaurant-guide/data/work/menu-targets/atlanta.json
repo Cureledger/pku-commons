@@ -1,0 +1,544 @@
+[
+  {
+    "name": "Atlas",
+    "slug": "atlas",
+    "city_id": "atlanta-ga-us",
+    "website": "https://atlasrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "The St. Regis Atlanta, 88 W. Paces Ferry Rd. NW, Atlanta, GA, 30305, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bacchanalia",
+    "slug": "bacchanalia",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.starprovisions.com/bacchanalia",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "1460 Ellsworth Industrial Blvd., Ste. A, Atlanta, GA, 30318, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hayakawa",
+    "slug": "hayakawa",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.hayakawaatl.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1055 Howell Mill Rd., Atlanta, GA, 30318, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lazy Betty",
+    "slug": "lazy-betty",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.lazybettyatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "999 Peachtree St. NE, Atlanta, GA, 30309, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mujō",
+    "slug": "mujo",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.mujoatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "691 14th St. NW, Ste. C, Atlanta, GA, 30318, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "O by Brush",
+    "slug": "o-by-brush",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.obybrush.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3009 Peachtree Rd. NE, Ste. 140, Atlanta, GA, 30305, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Omakase Table",
+    "slug": "omakase-table",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.omakasetableatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3330 Piedmont Rd. NE, #22A, Atlanta, GA, 30305, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Antico Pizza Napoletana",
+    "slug": "antico-pizza-napoletana",
+    "city_id": "atlanta-ga-us",
+    "website": "https://littleitalia.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1093 Hemphill Ave. NW, Atlanta, GA, 30318, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bomb Biscuit Co.",
+    "slug": "bomb-biscuit-co",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.bombbiscuitatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "519 Memorial Dr. SE, Ste. B-02, Atlanta, GA, 30312, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Estrellita",
+    "slug": "estrellita",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.estrellitafilipino.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "580 Woodward Ave., Atlanta, GA, 30312, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fishmonger",
+    "slug": "fishmonger",
+    "city_id": "atlanta-ga-us",
+    "website": "https://fishmongergroup.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "674 N. Highland Ave. NE, Ste. A, Atlanta, GA, 30306, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fred's Meat & Bread",
+    "slug": "freds-meat-bread",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.fredsmeatandbread.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "99 Krog St., Atlanta, GA, 30307, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Heirloom Market BBQ",
+    "slug": "heirloom-market-bbq",
+    "city_id": "atlanta-ga-us",
+    "website": "https://heirloommarketbbq.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2243 Akers Mill Rd. SE, Atlanta, GA, 30339, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Little Bear",
+    "slug": "little-bear",
+    "city_id": "atlanta-ga-us",
+    "website": "https://littlebearatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "71-A Georgia Ave. SE, Ste. A, Atlanta, GA, 30312, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Superica",
+    "slug": "superica",
+    "city_id": "atlanta-ga-us",
+    "website": "https://superica.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "99 Krog St., Atlanta, GA, 30307, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Busy Bee",
+    "slug": "the-busy-bee",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.thebusybeecafe.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "810 Martin Luther King Jr. Dr. SW, Atlanta, GA, 30314, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Whoopsie's",
+    "slug": "whoopsies",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.instagram.com/whooopsies_place",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1 Moreland Ave. SE, Ste. C, Atlanta, GA, 30316, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Avize",
+    "slug": "avize",
+    "city_id": "atlanta-ga-us",
+    "website": "https://avizeatlanta.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "956 Brady Ave. NW, Atlanta, GA, 30318, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Banshee",
+    "slug": "banshee",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.banshee-atl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1271 Glenwood Ave. SE, Atlanta, GA, 30316, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "BoccaLupo",
+    "slug": "boccalupo",
+    "city_id": "atlanta-ga-us",
+    "website": "https://boccalupoatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "753 Edgewood Ave. NE, Atlanta, GA, 30307, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Delbar",
+    "slug": "delbar",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.delbaratl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "870 Inman Village Pkwy. NE, Ste. 1, Atlanta, GA, 30307, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Food Terminal",
+    "slug": "food-terminal",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.foodterminal.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5000 Buford Hwy., Atlanta, GA, 30341, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Georgia Boy",
+    "slug": "georgia-boy",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.georgiaboyatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1043 Ponce de Leon Ave. NE, Atlanta, GA, 30306, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Gunshow",
+    "slug": "gunshow",
+    "city_id": "atlanta-ga-us",
+    "website": "https://gunshowatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "924 Garrett St., Ste. C, Atlanta, GA, 30316, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Han Il Kwan",
+    "slug": "han-il-kwan",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.hanilkwanatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5458 Buford Hwy. NE, Atlanta, GA, 30340, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Home Grown",
+    "slug": "home-grown",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.homegrownga.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "968 Memorial Dr. SE, Atlanta, GA, 30316, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Little Sparrow",
+    "slug": "little-sparrow",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.littlesparrowatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1198 Howell Mill Rd., Atlanta, GA, 30318, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lucky Star",
+    "slug": "lucky-star",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.luckystaratl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1050 Howell Mill Rd., Ste. 110, Atlanta, GA, 30318, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Lyla Lila",
+    "slug": "lyla-lila",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.lylalilaatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "693 Peachtree St. NE, Ste. 118, Atlanta, GA, 30308, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Madeira Park",
+    "slug": "madeira-park",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.madeiraparkatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Otto's Apartment Hotel, 640 N. Highland Ave. NE, Atlanta, GA, 30306, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Marcel",
+    "slug": "marcel",
+    "city_id": "atlanta-ga-us",
+    "website": "https://marcelatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1170 Howell Mill Rd., Atlanta, GA, 30318, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Miller Union",
+    "slug": "miller-union",
+    "city_id": "atlanta-ga-us",
+    "website": "https://millerunion.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "999 Brady Ave. NW, Atlanta, GA, 30318, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nam Phuong",
+    "slug": "nam-phuong",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.namphuongatlcom",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4051 Buford Hwy. NE, Atlanta, GA, 30345, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Poor Hendrix",
+    "slug": "poor-hendrix",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.poorhendrix.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2371 Hosea L. Williams Dr. NE, Atlanta, GA, 30317, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ryokou",
+    "slug": "ryokou",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.ryokouatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "565 Northside Dr. SW, #A101, Atlanta, GA, 30310, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Southern Belle",
+    "slug": "southern-belle",
+    "city_id": "atlanta-ga-us",
+    "website": "https://southernbelleatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1043 Ponce de Leon Ave. NE, Atlanta, GA, 30306, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Staplehouse",
+    "slug": "staplehouse",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.staplehouse.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "541 Edgewood Ave. SE, Atlanta, GA, 30312, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Storico Fresco Alimentari",
+    "slug": "storico-fresco-alimentari",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.storicofresco.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3167 Peachtree Rd. NE, Atlanta, GA, 30305, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Talat Market",
+    "slug": "talat-market",
+    "city_id": "atlanta-ga-us",
+    "website": "https://talatmarketatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "112 Ormond St. SE, Ste. A, Atlanta, GA, 30315, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Chastain",
+    "slug": "the-chastain",
+    "city_id": "atlanta-ga-us",
+    "website": "https://thechastainatl.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "4320 Powers Ferry Rd., Atlanta, GA, 30342, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The General Muir",
+    "slug": "the-general-muir",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.thegeneralmuir.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1540 Avenue Pl., Ste. B-230, Atlanta, GA, 30329, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ticonderoga Club",
+    "slug": "ticonderoga-club",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.ticonderogaclub.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "99 Krog St. NE, Ste. W, Atlanta, GA, 30307, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tomo",
+    "slug": "tomo",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.tomorestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3630 Peachtree Rd. NE, Ste. 140, Atlanta, GA, 30326, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Twisted Soul Cookhouse & Pours",
+    "slug": "twisted-soul-cookhouse-pours",
+    "city_id": "atlanta-ga-us",
+    "website": "https://www.twistedsoulatl.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1133 Huff Rd. NW, Ste. D, Atlanta, GA, 30318, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Xi'an Gourmet House",
+    "slug": "xian-gourmet-house",
+    "city_id": "atlanta-ga-us",
+    "website": "https://xiangourmethouse.kwickmenu.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "955 Spring St. NW, #C, Atlanta, GA, 30309, USA",
+    "price_tier": "$$"
+  }
+]

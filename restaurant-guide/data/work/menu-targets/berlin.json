@@ -1,0 +1,878 @@
+[
+  {
+    "name": "Rutz",
+    "slug": "rutz",
+    "city_id": "berlin-de",
+    "website": "https://rutz-restaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Chausseestraße 8, Berlin, 10115, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "CODA",
+    "slug": "coda",
+    "city_id": "berlin-de",
+    "website": "https://www.coda-berlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Friedelstraße 47, Berlin, 12047, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "FACIL",
+    "slug": "facil",
+    "city_id": "berlin-de",
+    "website": "https://facil.de/de/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Potsdamer Straße 3, Berlin, 10785, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Horváth",
+    "slug": "horvath",
+    "city_id": "berlin-de",
+    "website": "https://www.restaurant-horvath.de/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Paul-Lincke-Ufer 44a, Berlin, 10999, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tim Raue",
+    "slug": "tim-raue",
+    "city_id": "berlin-de",
+    "website": "https://tim-raue.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Rudi-Dutschke-Straße 26, Berlin, 10969, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bandol sur mer",
+    "slug": "bandol-sur-mer",
+    "city_id": "berlin-de",
+    "website": "https://www.bandolsurmer.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Torstraße 167, Berlin, 10115, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bonvivant",
+    "slug": "bonvivant",
+    "city_id": "berlin-de",
+    "website": "https://bonvivant.berlin/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Goltzstraße 32, Berlin, 10781, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bricole",
+    "slug": "bricole",
+    "city_id": "berlin-de",
+    "website": "https://www.bricole.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Senefelderstraße 30, Berlin, 10437, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cookies Cream",
+    "slug": "cookies-cream",
+    "city_id": "berlin-de",
+    "website": "https://www.cookiescream.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Behrenstraße 55, Berlin, 10117, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "GOLVET",
+    "slug": "golvet",
+    "city_id": "berlin-de",
+    "website": "https://golvet.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Potsdamer Straße 58, Berlin, 10785, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hugos",
+    "slug": "hugos",
+    "city_id": "berlin-de",
+    "website": "https://www.berlin.intercontinental.com/de/dine/hugos-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Budapester Straße 2, Berlin, 10787, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Irma la Douce",
+    "slug": "irma-la-douce",
+    "city_id": "berlin-de",
+    "website": "https://www.irmaladouce.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Potsdamer Straße 102, Berlin, 10785, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lorenz Adlon Esszimmer",
+    "slug": "lorenz-adlon-esszimmer",
+    "city_id": "berlin-de",
+    "website": "https://www.lorenzadlon-esszimmer.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Unter den Linden 77, Berlin, 10117, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Loumi",
+    "slug": "loumi",
+    "city_id": "berlin-de",
+    "website": "https://www.loumi-dining.com/loumi-dining",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ritterstraße 2, Berlin, 10969, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Matthias",
+    "slug": "matthias",
+    "city_id": "berlin-de",
+    "website": "https://www.matthiasrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Kollwitzstraße 87, Berlin, 10435, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nobelhart & Schmutzig",
+    "slug": "nobelhart-schmutzig",
+    "city_id": "berlin-de",
+    "website": "https://www.nobelhartundschmutzig.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Friedrichstraße 218, Berlin, 10969, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "hallmann & klee",
+    "slug": "hallmann-klee",
+    "city_id": "berlin-de",
+    "website": "https://www.hallmann-klee.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Böhmische Straße 13, Berlin, 12055, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "pars Restaurant",
+    "slug": "pars-restaurant",
+    "city_id": "berlin-de",
+    "website": "https://parspralinen.com/pages/das-restaurant",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Grolmanstraße 53, Berlin, 10623, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "tulus lotrek",
+    "slug": "tulus-lotrek",
+    "city_id": "berlin-de",
+    "website": "https://www.tuluslotrek.de/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Fichtestraße 24, Berlin, 10967, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Barra",
+    "slug": "barra",
+    "city_id": "berlin-de",
+    "website": "https://www.barraberlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Okerstraße 2, Berlin, 12049, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "CHEZ NASSIB",
+    "slug": "chez-nassib",
+    "city_id": "berlin-de",
+    "website": "https://byblosrestaurantberlin.de/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Spichernstraße 24, Berlin, 10777, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lucky Leek",
+    "slug": "lucky-leek",
+    "city_id": "berlin-de",
+    "website": "https://www.lucky-leek.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kollwitzstraße 54, Berlin, 10405, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MASTAN",
+    "slug": "mastan",
+    "city_id": "berlin-de",
+    "website": "https://restaurantmastan.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Gneisenaustraße 67, Berlin, 10961, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MaMi's",
+    "slug": "mamis",
+    "city_id": "berlin-de",
+    "website": "https://www.mamis-berlin.de/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Oderberger Straße 13, Berlin, 10435, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "November Brasserie",
+    "slug": "november-brasserie",
+    "city_id": "berlin-de",
+    "website": "https://november-brasserie.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Husemannstraße 15, Berlin, 10435, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nußbaumerin",
+    "slug": "nubaumerin",
+    "city_id": "berlin-de",
+    "website": "https://www.nussbaumerin.de/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Leibnizstraße 55, Berlin, 10629, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Remi",
+    "slug": "remi",
+    "city_id": "berlin-de",
+    "website": "https://remi-berlin.de/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Torstraße 48, Berlin, 10119, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Salhino",
+    "slug": "salhino",
+    "city_id": "berlin-de",
+    "website": "https://salhino.de/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Waitzstraße 1, Berlin, 10629, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "136",
+    "slug": "136",
+    "city_id": "berlin-de",
+    "website": "https://136-berlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Linienstraße 136, Berlin, 10115, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "893 Ryotei",
+    "slug": "893-ryotei",
+    "city_id": "berlin-de",
+    "website": "https://893ryotei.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kantstraße 135, Berlin, 10623, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "BRIKZ",
+    "slug": "brikz",
+    "city_id": "berlin-de",
+    "website": "https://restaurantbrikz.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Grolmanstraße 53, Berlin, 10623, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bardele",
+    "slug": "bardele",
+    "city_id": "berlin-de",
+    "website": "https://www.bardeleberlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Auguststr. 36, Berlin, 10119, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Berta",
+    "slug": "berta",
+    "city_id": "berlin-de",
+    "website": "https://www.bertarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Stresemannstraße 99, Berlin, 10963, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bieberbau",
+    "slug": "bieberbau",
+    "city_id": "berlin-de",
+    "website": "https://www.bieberbau-berlin.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Durlacher Straße 15, Berlin, 10715, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bob & Thoms",
+    "slug": "bob-thoms",
+    "city_id": "berlin-de",
+    "website": "https://www.bobthoms.berlin/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Welserstraße 10, Berlin, 10777, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bocca di Bacco",
+    "slug": "bocca-di-bacco",
+    "city_id": "berlin-de",
+    "website": "https://www.boccadibacco.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Friedrichstraße 167, Berlin, 10117, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie Colette Tim Raue",
+    "slug": "brasserie-colette-tim-raue",
+    "city_id": "berlin-de",
+    "website": "https://www.brasseriecolette.de/berlin",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Passauer Straße 5, Berlin, 10789, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie Lamazère",
+    "slug": "brasserie-lamazere",
+    "city_id": "berlin-de",
+    "website": "https://lamazere.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Stuttgarter Platz 18, Berlin, 10627, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "CARTE BLANCHE",
+    "slug": "carte-blanche",
+    "city_id": "berlin-de",
+    "website": "https://www.so-berlin-das-stue.com/restaurants-bars/carteblanche/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Drakestraße 1, Berlin, 10787, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Château Royal",
+    "slug": "chateau-royal",
+    "city_id": "berlin-de",
+    "website": "https://www.chateauroyalberlin.com/de/restaurant-berlin-mitte",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mittelstraße 41-44, Berlin, 10117, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Crackers",
+    "slug": "crackers",
+    "city_id": "berlin-de",
+    "website": "https://www.crackersberlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Friedrichstraße 158, Berlin, 10117, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dae Mon",
+    "slug": "dae-mon",
+    "city_id": "berlin-de",
+    "website": "https://dae-mon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Monbijouplatz 11, Berlin, 10178, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Diekmann",
+    "slug": "diekmann",
+    "city_id": "berlin-de",
+    "website": "https://diekmann-restaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Meinekestraße 7, Berlin, 10719, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "FUKAGAWA - Fine Dining",
+    "slug": "fukagawa-fine-dining",
+    "city_id": "berlin-de",
+    "website": "https://fukagawa-finedining.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fichtestraße 31, Berlin, 10967, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fa:me",
+    "slug": "fa-me",
+    "city_id": "berlin-de",
+    "website": "https://famegastrobar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lenaustraße 21, Berlin, 12047, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fukagawa Ramen XBerg",
+    "slug": "fukagawa-ramen-xberg",
+    "city_id": "berlin-de",
+    "website": "https://fukagawa.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prinzessinnenstraße 17, Berlin, 10969, Germany",
+    "price_tier": "$"
+  },
+  {
+    "name": "Funky Fisch",
+    "slug": "funky-fisch",
+    "city_id": "berlin-de",
+    "website": "https://funky-fisch.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kantstraße 135, Berlin, 10625, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "GRACE",
+    "slug": "grace",
+    "city_id": "berlin-de",
+    "website": "https://www.grace-berlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kurfürstendamm 25, Berlin, 10719, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "INDIA CLUB",
+    "slug": "india-club",
+    "city_id": "berlin-de",
+    "website": "https://www.india-club-berlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Behrenstraße 72, Berlin, 10117, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "JAJA",
+    "slug": "jaja",
+    "city_id": "berlin-de",
+    "website": "https://jajawein.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Weichselstraße 7, Berlin, 12043, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Julius Ernst",
+    "slug": "julius-ernst",
+    "city_id": "berlin-de",
+    "website": "https://juliusberlin.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gerichtstraße 31, Berlin, 13347, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jäger & Lustig",
+    "slug": "jager-lustig",
+    "city_id": "berlin-de",
+    "website": "https://jaegerundlustig.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Grünberger Straße 1, Berlin, 10243, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kitchen Library",
+    "slug": "kitchen-library",
+    "city_id": "berlin-de",
+    "website": "https://www.kitchen-library.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bleibtreustraße 55, Berlin, 10623, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kitten Deli",
+    "slug": "kitten-deli",
+    "city_id": "berlin-de",
+    "website": "https://kittendeli.de/reservations",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Friedelstraße 30, Berlin, 12047, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kurpfalz Weinstuben",
+    "slug": "kurpfalz-weinstuben",
+    "city_id": "berlin-de",
+    "website": "https://kurpfalz-weinstuben.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Wilmersdorfer Straße 93, Berlin, 10629, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Li.Ke Thai Vegan",
+    "slug": "li-ke-thai-vegan",
+    "city_id": "berlin-de",
+    "website": "https://likethaivegan.squarespace.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Grünberger Str. 69, Berlin, 10245, Germany",
+    "price_tier": "$"
+  },
+  {
+    "name": "Long March Canteen",
+    "slug": "long-march-canteen",
+    "city_id": "berlin-de",
+    "website": "https://www.longmarchcanteen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Wrangelstraße 20, Berlin, 10997, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lovis",
+    "slug": "lovis",
+    "city_id": "berlin-de",
+    "website": "https://lovisrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kantstraße 79, Berlin, 10627, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "MINE",
+    "slug": "mine",
+    "city_id": "berlin-de",
+    "website": "https://www.minerestaurant.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Meinekestraße 10, Berlin, 10719, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Macionga",
+    "slug": "macionga",
+    "city_id": "berlin-de",
+    "website": "https://www.restaurantmacionga.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Xantener Straße 9, Berlin, 10707, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Madame Ngo - Une Brasserie Hanoi",
+    "slug": "madame-ngo-une-brasserie-hanoi",
+    "city_id": "berlin-de",
+    "website": "https://madame-ngo.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kantstraße 30, Berlin, 10623, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "NaNum",
+    "slug": "nanum",
+    "city_id": "berlin-de",
+    "website": "https://www.nanumberlin.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lindenstraße 90, Berlin, 10969, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Norms",
+    "slug": "norms",
+    "city_id": "berlin-de",
+    "website": "https://norms-food.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Elisabethkirchstraße 2, Berlin, 10115, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Orania.Berlin",
+    "slug": "orania-berlin",
+    "city_id": "berlin-de",
+    "website": "https://orania.berlin",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Oranienplatz 17, Berlin, 10999, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Otto",
+    "slug": "otto",
+    "city_id": "berlin-de",
+    "website": "https://otto-berlin.net/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Oderberger Straße 56, Berlin, 10435, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Oukan",
+    "slug": "oukan",
+    "city_id": "berlin-de",
+    "website": "https://oukan.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ackerstraße 144, Berlin, 10115, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "POTS",
+    "slug": "pots",
+    "city_id": "berlin-de",
+    "website": "https://www.potsrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Potsdamer Platz 3, Berlin, 10785, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rutz - Zollhaus",
+    "slug": "rutz-zollhaus",
+    "city_id": "berlin-de",
+    "website": "https://rutz-zollhaus.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Carl-Herz-Ufer 30, Berlin, 10961, Germany",
+    "price_tier": "$$"
+  },
+  {
+    "name": "SKYKITCHEN",
+    "slug": "skykitchen",
+    "city_id": "berlin-de",
+    "website": "https://www.skykitchen.berlin/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Landsberger Allee 106, Berlin, 10369, Germany",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "VOX Restaurant",
+    "slug": "vox-restaurant",
+    "city_id": "berlin-de",
+    "website": "https://vox-restaurant.de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marlene-Dietrich-Platz 2, Berlin, 10785, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "aerde",
+    "slug": "aerde",
+    "city_id": "berlin-de",
+    "website": "https://www.aerde.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Am Lokdepot 6, Berlin, 10965, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "eins44",
+    "slug": "eins44",
+    "city_id": "berlin-de",
+    "website": "https://www.eins44.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Elbestraße 28, Berlin, 12045, Germany",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "merold",
+    "slug": "merold",
+    "city_id": "berlin-de",
+    "website": "https://restaurant-merold.de/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Pannierstraße 24, Berlin, 12047, Germany",
+    "price_tier": "$$"
+  }
+]

@@ -1,0 +1,2108 @@
+{
+  "results": [
+    {
+      "slug": "kung-fu-little-steamed-buns-ramen",
+      "verdict": "blocked",
+      "reason": "Listed PDF 404; official /menu is a WordPress placeholder with no dish list.",
+      "menu_url": "https://static1.squarespace.com/static/55b837f8e4b0f7f8803f68ab/t/68e494fa1448fb4090e70d0a/1759810810430/KF+Kitchen+2025+final.pdf",
+      "picks": []
+    },
+    {
+      "slug": "lore",
+      "verdict": "picks",
+      "reason": "Posted à la carte has vegetarian mains and plates. Batch PDF is Lore Manila, not Brooklyn.",
+      "menu_url": "https://www.lorebrooklyn.com/menu",
+      "picks": [
+        {
+          "name": "Leafy Salad",
+          "description": "crunchy seeds, chickpea croutons, chickpea dressing",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "chickpea"
+        },
+        {
+          "name": "Delicata Squash",
+          "description": "chili crisp, baba ghanoush, crispy seeds, fresh herbs",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fermented Dosa",
+          "description": "masala potato, coconut, tomato & daal chutney, gunpowder",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "ROTI RAVIOLI",
+          "description": "eggplant, spaghetti squash, vindaloo sauce, pomegranate",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Samosa Puffs",
+          "description": "Puff pastry, spiced potato, peas, tamarind, mango, mint and beetroot chutneys",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "nuts"
+        },
+        {
+          "name": "MUSHROOM UTTHAPPAM",
+          "description": "wild mushroom ragout, tomato and coconut chutney, arugula",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Rice Aapams and Vegetable Stew",
+          "description": "aapam, potato and carrot stew, cardamom, clove",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Fries",
+          "description": "double fried hand cut fries",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Roasted Rainbow carrots",
+          "description": "crispy seeds, tadka",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Brussel Sprouts",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "la-dong",
+      "verdict": "picks",
+      "reason": "Posted menu has vegetarian pho, bánh mì, and vegetable plates.",
+      "menu_url": "https://www.ladongnyc.com/_files/ugd/511aa7_68c361f2f3a74af08fdd1fd6240c27de.pdf",
+      "picks": [
+        {
+          "name": "Vegetable Spring Roll",
+          "description": "cabbage, carrot, vermicelli & tangy chili sauce",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tofu Scallion",
+          "description": "crispy fried velvety tofu dressed in savory fish sauce",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Morning Glory",
+          "description": "sauteed water spinach with traditional rice-garlic sauce",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Green Salad",
+          "description": "mix greens, shredded red cabbage, crispy shallot, Cara Cara orange & citrus-soy vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Gỏi đu đủ",
+          "description": "fresh papaya salad with watercress, peanut, cabbage & fried shallot in chili lime dressing served with sesame cracker",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "peanut"
+        },
+        {
+          "name": "Tofu & Mushroom",
+          "description": "Shimeji mushroom, fried velvety tofu, fresh herbs, pickle & Vietnamese spicy mayo",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Pho Vegetable",
+          "description": "rice noodle, King oyster mushroom, shimeji mushroom, Yu Choy, bamboo shoot, shallot, scallion & cilantro",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Fried Tofu",
+          "description": "lunch Bún or Cơm protein choice",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Sautéed Mushroom Medley",
+          "description": "with butter soy",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Garlic Fried Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fresh Greens & Herbs Basket",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "JASMINE RICE",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "laliko",
+      "verdict": "picks",
+      "reason": "Posted dinner menu has vegetarian mains and Georgian vegetable plates.",
+      "menu_url": "https://laliko.com/menu/dinner/",
+      "picks": [
+        {
+          "name": "GEORGIAN SALAD",
+          "description": "Fresh cucumbers and tomatoes with vegetable and walnut paste, Kakhetian oil",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "walnut"
+        },
+        {
+          "name": "AJAPSANDALI",
+          "description": "A mix of eggplant, bell peppers, tomatoes, spices, topped with a slice of cheese",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "PKHALI",
+          "description": "Traditional Georgian vegetable spreads with walnuts and herbs. spinach / eggplant / beet",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnuts"
+        },
+        {
+          "name": "EGGPLANT ROLLS",
+          "description": "Roasted eggplant rolls filled with a silky walnut and garlic purée, pomegranate",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnuts"
+        },
+        {
+          "name": "KHINKALI",
+          "description": "3 pieces per order. Juicy, hand-folded dumplings. cheese",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "FRESHLY BAKED BREAD",
+          "description": "with garlic and rosemary",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "LOBIO",
+          "description": "Georgian beans with fresh herbs, marinated vegetables on the side",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "OYSTER MUSHROOM",
+          "description": "Grilled mushroom, green plum sauce",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "MUSHROOM KHINKALI",
+          "description": "Mushroom-filled dumplings served over a rich truffle sauce",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "MASHED POTATOES",
+          "description": "Creamy mashed potatoes with butter",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "CRISPY POTATOES WITH SVAN SALT",
+          "description": "Golden fried potatoes with Svan salt, served with green plum sauce",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "GRILLED ASPARAGUS",
+          "description": "Lightly charred asparagus with olive oil and Svan salt",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "GREEN SALAD",
+          "description": "Mixed greens and cucumbers with mustard dressing and pomegranate seeds",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "ACHARULI",
+          "description": "A boat-shaped khachapuri with cheese, topped with an egg yolk and butter",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese and egg"
+        },
+        {
+          "name": "IMERULI WITH MINT",
+          "description": "Round-shaped khachapuri with a cheese and mint filling inside",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "MEGRULI",
+          "description": "Cheese-filled khachapuri with extra cheese baked on top",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "LOBIANI",
+          "description": "Round-shaped pie filled with spiced mashed beans and butter",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "PKHALI QUARTET",
+          "description": "spinach, eggplant, and beet with walnuts, plus a fresh cottage cheese and herb mix. Served with freshly baked bread",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnuts and cottage cheese"
+        },
+        {
+          "name": "ADJIKA TRIO",
+          "description": "smoky spiced red, herbaceous green, and rich walnut. Served with freshly baked bread",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnut"
+        }
+      ]
+    },
+    {
+      "slug": "legend-of-taste",
+      "verdict": "blocked",
+      "reason": "Listed menusifu.com is a generic platform; official site has no readable posted dish list.",
+      "menu_url": "https://www.menusifu.com",
+      "picks": []
+    },
+    {
+      "slug": "little-alley",
+      "verdict": "picks",
+      "reason": "Posted menu has a vegetable section and vegetarian dim sum.",
+      "menu_url": "https://www.littlealley.nyc/menu",
+      "picks": [
+        {
+          "name": "Tossed Fragrant Tofu with Ma Lan Tou",
+          "description": "Finely chopped Ma Lan Tou greens gently tossed with dry tofu and sesame oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Bean Curd Wrap",
+          "description": "Delicate rolls of dry tofu skin wrapped around shredded bamboo shoots and shiitake mushrooms, lightly dressed with sesame oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Marinated Cucumber",
+          "description": "Crunchy cucumber slices marinated in a sweet and tangy soy-garlic dressing with a hint of sesame oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Honey Kaofu",
+          "description": "Braised wheat gluten cubes in a sweet soy-honey glaze with peanuts, wood ear mushrooms, and bamboo shoots",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "peanuts"
+        },
+        {
+          "name": "Salted Edamame",
+          "description": "Fresh soybeans, lightly salted",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Garlic Romaine Lettuce (V)",
+          "description": "Crisp romaine lettuce stir-fried with fragrant garlic.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Stir Fried Cauliflower with Dry Chili Pepper",
+          "description": "Crispy cauliflower wok-fried with dry chili for a bold, spicy kick.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Water Spinach with Fermented Bean Curd",
+          "description": "Stir-fried water spinach tossed with fermented bean curd",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Luffa & Edamame",
+          "description": "Tender luffa squash stir-fried with fresh edamame",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Stir Fried Bok Choy with Garlic",
+          "description": "Crisp bok choy stir-fried with fresh garlic",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Eggplant in Garlic Sauce",
+          "description": "Tender eggplant braised with green and red peppers, ginger, garlic, vinegar, and chili",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Vegetable Dumpling (4)",
+          "description": "Steamed dumplings filled with a wholesome blend of wild greens, bok choy, and shiitake mushrooms",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Vegetable Potsticker (4)",
+          "description": "Pan-fried dumplings filled with a savory mix of wild greens, bok choy, and shiitake mushrooms",
+          "course": "starter",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "little-myanmar",
+      "verdict": "blocked",
+      "reason": "Listed tatilashes.co is the wrong site; littlemyanmar.nyc is Cloudflare; official menu cart loaded no dishes.",
+      "menu_url": "https://tatilashes.co/",
+      "picks": []
+    },
+    {
+      "slug": "lungi",
+      "verdict": "picks",
+      "reason": "Posted dinner menu has vegetarian dosas, karis, and vegetable plates.",
+      "menu_url": "https://lungirestaurant.com/new-york-upper-east-side-lungi-food-menu",
+      "picks": [
+        {
+          "name": "Thakkali Melagu Rasam",
+          "description": "South Indian tomato broth infused with black pepper, coriander, chilies and tamarind.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Guntur Chili Mushroom",
+          "description": "Garden fresh mushrooms tossed in Guntur chili, onion, curry leaf and South Indian Spices.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Medhu Vada",
+          "description": "Crispy lentil doughnut served with sambar and coconut chutney.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "lentil"
+        },
+        {
+          "name": "Curry leaves Cauliflower 65",
+          "description": "crispy cauliflower seasoned with fresh curry leaves, chili, and spices",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Devilled Paneer",
+          "description": "Paneer tossed in banana chili pepper, onion, curry leaf and Sri-Lankan Spices.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "paneer"
+        },
+        {
+          "name": "Kothu Roti",
+          "description": "Choice of: Veg $25.00. A Sri Lankan roadside specialty prepared from shredded paratha stir-fried with vegetables, onions, and egg",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg"
+        },
+        {
+          "name": "Hopper",
+          "description": "Wafer-thin, bowl-shaped pancakes made from a fermented batter of rice flour and coconut milk",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "String Hoppers",
+          "description": "Delicate steamed rice flour noodles recommended with side of Karis",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Masala Dosa",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Podi Masala Dosa",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Chilli Paneer Dosa",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "paneer"
+        },
+        {
+          "name": "Plain Dosa",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Idli",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Gun Powder Thattu Idli",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Puttu",
+          "description": "(Steamed rice-coconut puttu with Kerala black chickpea curry)",
+          "course": "main",
+          "kind": "main",
+          "hold": "chickpea"
+        },
+        {
+          "name": "Vegetable Biryani & Raita",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "yogurt"
+        },
+        {
+          "name": "Paneer Ghee Roast",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "paneer"
+        },
+        {
+          "name": "Pachakari Avial",
+          "description": "Seasonal vegetables simmered in a rich, aromatic Kerala-style coconut curry",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Eggplant Moju",
+          "description": "Aubergine tossed in sesame seeds, curry leaf, shallots, pepper, chili & Sri-Lankan spices.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Kochin Kadala Kari",
+          "description": "Black chickpeas simmered in byadgi chili, curry leaf & roasted coconut sauce.",
+          "course": "main",
+          "kind": "main",
+          "hold": "chickpeas"
+        },
+        {
+          "name": "Sri Lankan jack fruit kari (polos) (V",
+          "description": "Young Jackfruit simmered in coconut milk, curry leaf and Sri Lankan herbs and spices.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Vendakkai Mor Kozhambu",
+          "description": "Okra cooked in spiced yoghurt gravy, tempered with mustard, curry leaf and dried chilies.",
+          "course": "main",
+          "kind": "main",
+          "hold": "yoghurt"
+        },
+        {
+          "name": "Coconut Chutney",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tomato Chutney",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Malabar Parota",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Basmati Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Dhal Kari",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "lentil"
+        },
+        {
+          "name": "Vegetarian",
+          "description": "Lunch thali. A meal with sambhar, vegetables, rasam, dal, yogurt and accompanied with rice, parota, dessert",
+          "course": "main",
+          "kind": "main",
+          "hold": "yogurt and dal"
+        }
+      ]
+    },
+    {
+      "slug": "miss-ada",
+      "verdict": "blocked",
+      "reason": "Official #menu-section is an empty JS shell; no posted dish names loaded.",
+      "menu_url": "https://www.missadanyc.com/#menu-section",
+      "picks": []
+    },
+    {
+      "slug": "momofuku-noodle-bar",
+      "verdict": "blocked",
+      "reason": "Listed /menu 404; official East Village menu page is an empty JS shell.",
+      "menu_url": "https://momofuku.com/menu/",
+      "picks": []
+    },
+    {
+      "slug": "mala-project",
+      "verdict": "picks",
+      "reason": "Posted menu has vegetable appetizers, dumplings, and potato fries.",
+      "menu_url": "https://www.malaproject.com/menu",
+      "picks": [
+        {
+          "name": "MáLà Peanuts",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "peanuts"
+        },
+        {
+          "name": "MáLà Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "MáLà Pickles",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Marinated Cucumbers",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Eggplant With Roasted Garlic",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "LiángFěn of Happy Tears",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Vegetable Dumplings",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Scallion Pancake",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sweet Lotus Root",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "White Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Purple Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "nami-nori",
+      "verdict": "picks",
+      "reason": "Posted West Village menu image has plant-based temaki and vegetable kitchen plates.",
+      "menu_url": "https://www.naminori.us/menu",
+      "picks": [
+        {
+          "name": "braised bamboo shoots (v)",
+          "description": "sea beans, rayu chili oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "japanese potato salad",
+          "description": "add ikura",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "nami nori salad",
+          "description": "iceberg, tomato, rice chips, buttermilk nori dressing",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "buttermilk"
+        },
+        {
+          "name": "wasabi cucumber tataki (v)",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "veggie miso soup (v)",
+          "description": "age tofu, carrot",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "shishito peppers",
+          "description": "smoked honey miso",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "furikake cottage fries (v)",
+          "description": "tomato tonkatsu; add mentaiko mayo",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "mushroom dip (v)",
+          "description": "black garlic, tofu cream",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "eggplant",
+          "description": "red miso, gobo chips",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "tofu chimichurri",
+          "description": "micro cilantro",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "maitake truffle",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "sweet potato tempura",
+          "description": "sweet chili soy",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "cucumber black sesame",
+          "description": "shiso, plum",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "avocado \"toast\"",
+          "description": "pickled beets, carrot",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "vegan set",
+          "description": "avocado toast, eggplant, tofu chimichurri, sweet potato tempura, cucumber black sesame",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "noreetuh",
+      "verdict": "picks",
+      "reason": "Posted Restaurant Week prix-fixe includes vegan chow noodles and chicory salad.",
+      "menu_url": "https://www.noreetuh.com/s/Summer-2026-Restaurant-Week-Menu.pdf",
+      "picks": [
+        {
+          "name": "chicory salad",
+          "description": "Hawaiian papaya, heirloom tomato, crouton, papaya seed vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "sweet summer corn raviolo",
+          "description": "jidori egg, polenta, scallion cream",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "chow noodles",
+          "description": "five spice tofu, seasonal vegetables, fermented black bean, Szechuan chili sauce (v)",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "odre",
+      "verdict": "blocked",
+      "reason": "Prix-fixe only; dining menu did not load as text. Site says last day was August 22.",
+      "menu_url": "https://odrenyc.com/menu-desktop",
+      "picks": []
+    },
+    {
+      "slug": "olmo",
+      "verdict": "picks",
+      "reason": "Posted dinner and brunch menus have vegetarian plates and a veg brunch main.",
+      "menu_url": "https://www.olmobk.com/menus",
+      "picks": [
+        {
+          "name": "Watermelon",
+          "description": "Cucumber vinaigrette, chili oil, aleppo",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Veggie Tostada",
+          "description": "Tzikil pak, seasonal greens, leek vinaigrette, parmesan (2 pieces)",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "parmesan"
+        },
+        {
+          "name": "Sopes",
+          "description": "Black beans, queso fresco, plantains",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "queso fresco"
+        },
+        {
+          "name": "Queso Fundido",
+          "description": "Melted cheese, chiles toreados, harina tortillas",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "Roti Potato Tacos Dorados",
+          "description": "Tamarind salsa, sesame crema",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "César Salad",
+          "description": "Little gems, breadcrumbs, fried garlic",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Black Beans",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tortillas de harina",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Avocado",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Huarache",
+          "description": "”Sandal” masa, refried beans, sweet potato, mushroom, crema, salsa macha",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Chilaquiles",
+          "description": "Salsa morita, avocado, fried egg",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg"
+        },
+        {
+          "name": "Shakshuka Verde",
+          "description": "Salsa verde, queso fresco, sourdough",
+          "course": "main",
+          "kind": "main",
+          "hold": "queso fresco"
+        }
+      ]
+    },
+    {
+      "slug": "peppercorn-station",
+      "verdict": "picks",
+      "reason": "Posted NYC PDF has vegetable plates, salads, and mapo tofu.",
+      "menu_url": "https://www.peppercornstation.com/_files/ugd/d13252_d119c484003e4e558b040f0b9eb04de2.pdf",
+      "picks": [
+        {
+          "name": "Szechuan Green Pepper Bamboo Shoots",
+          "description": "Green pepper paste, Spring bamboo shoots",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Clear Noodles in Chili Oil",
+          "description": "Mung bean noodles, Soy bean, Peanuts",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "peanuts"
+        },
+        {
+          "name": "Wood Ear Salad",
+          "description": "Wood Ear, Pickled Chili Pepper, Cilantro",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Cucumber Salad",
+          "description": "Cucumber",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Ma Po Tofu",
+          "description": "Tofu",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Pepper Garlic Cabbage",
+          "description": "Cabbage, Dry chili pepper, Garlic",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Truffle Cauliflower",
+          "description": "Cauliflower, Truffle Sauce",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sauteed Pea Shoots",
+          "description": "Fresh pea shoots",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "White Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fried Noodles",
+          "description": "Choose:Egg/Chicken/Beef, Bean sprouts, Carrots, Leek, Wood ear mushroom",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg if egg"
+        }
+      ]
+    },
+    {
+      "slug": "pierozek",
+      "verdict": "picks",
+      "reason": "Posted menu has vegetarian pierogi, borscht, and salad.",
+      "menu_url": "https://www.pierozekbrooklyn.com/menu-1",
+      "picks": [
+        {
+          "name": "Potato & Cheese (V)",
+          "description": "filled with potato & farmer cheese, topped with caramelized onions",
+          "course": "main",
+          "kind": "main",
+          "hold": "farmer cheese"
+        },
+        {
+          "name": "Sauerkraut & Mushroom (VG)",
+          "description": "filled with sauerkraut & mushroom, topped with caramelized onions",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Spinach (VG)",
+          "description": "filled with spinach & garlic",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Red Borscht (VG, GF)",
+          "description": "cup of traditional Polish beetroot broth served plain",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sauerkraut & Mushroom Croquette (V)",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Golabki / Stuffed Cabbage",
+          "description": "cooked cabbage leaves wrapped around meat with rice or buckwheat with mushrooms (VG/GF) coated in a sauce of your choice, tomato (VG/GF) or mushroom sauce (V) (two per portion)",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Harvest Salad",
+          "description": "Spring mix, dried cranberries, red onion, sliced pickles, cocktail tomatoes, and a honey balsamic vinaigrette. Served with three pierogi.",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "pinch-chinese",
+      "verdict": "picks",
+      "reason": "Posted Seamless menu (listed URL) has tofu hotpot, vegetable plates, and vegetarian fried rice.",
+      "menu_url": "https://www.seamless.com/menu/pinch-chinese-177-prince-st-new-york/504559",
+      "picks": [
+        {
+          "name": "Vegetable Dumplings",
+          "description": "shanghai greens, free range egg + glass noodle",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "Mushroom Dumplings",
+          "description": "shiitake + truffle",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Marinated Cucumbers",
+          "description": "fresh chili + garlic",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Spring Rolls",
+          "description": "shiitake + bamboo shoots.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tofu Hotpot",
+          "description": "housemade tofu, maitake + black truffle",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Vegetarian Fried Rice",
+          "description": "free range organic eggs + scallion",
+          "course": "main",
+          "kind": "main",
+          "hold": "eggs"
+        },
+        {
+          "name": "Seasonal Greens",
+          "description": "pea shoot leaves w. fresh garlic",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Eggplant in Garlic Sauce",
+          "description": "union square eggplant + long pepper",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Má Là Five Treasure Vegetables",
+          "description": "Union Square greenmarket vegetables + house má là sauce.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Chinese Broccoli",
+          "description": "whole garlic + hoisin.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "8 Treasures",
+          "description": "union square greenmarket seasonal vegetables + house má là sauce.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Steamed White Rice",
+          "description": "made in China",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "potluck-club",
+      "verdict": "blocked",
+      "reason": "Official dinner menu page is an empty JS shell with no dish names.",
+      "menu_url": "https://thepotluckclubny.com/pages/menu",
+      "picks": []
+    },
+    {
+      "slug": "rolos",
+      "verdict": "picks",
+      "reason": "Posted dinner menu has vegetarian pastas and vegetable plates.",
+      "menu_url": "https://www.rolosnyc.com/menus/",
+      "picks": [
+        {
+          "name": "wood-fired polenta bread",
+          "description": "olive oil & flaky salt 8 / sesame & wild oregano 10 / calabrian chili butter 13",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "pickled carrots, orange, coriander",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "tahini chickpeas",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "chickpeas"
+        },
+        {
+          "name": "stracciatella cheese cheese, silk, chili, sumac",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "leafy greens & herb salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "heirloom tomatoes, curry lentils, basil, crispy shallots",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "lentils"
+        },
+        {
+          "name": "wood-fired romano beans, romesco, mint",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "charred jimmy nardello peppers, lime",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "sungold tomato candele, pine nuts, basil",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "pine nuts"
+        },
+        {
+          "name": "roasted sweet corn cappelletti, shishito peppers",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "crispy potatoes",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "crispy potatoes \"war style\"",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "grilled pea greens, garlic, confit, lemon",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "ruffian",
+      "verdict": "blocked",
+      "reason": "Dinner menu page is an empty JS shell; no posted dish names.",
+      "menu_url": "https://ruffiannyc.com/dinner-menu",
+      "picks": []
+    },
+    {
+      "slug": "runner-up",
+      "verdict": "picks",
+      "reason": "Posted bar snacks and supper-for-two list include vegetable plates.",
+      "menu_url": "https://www.winner.nyc/location/runner-up/",
+      "picks": [
+        {
+          "name": "baguette & butter",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "marinated olives",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "whipped ricotta toast rosemary",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "ricotta"
+        },
+        {
+          "name": "sungold tomatoes",
+          "description": "supper for two",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "mozzarella",
+          "description": "supper for two",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "mozzarella"
+        },
+        {
+          "name": "polenta",
+          "description": "supper for two",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "russ-daughters-cafe",
+      "verdict": "picks",
+      "reason": "Posted cafe menu has latkes, mixed green salad, and a mushroom omelet.",
+      "menu_url": "https://www.russanddaughterscafe.com/s/042626-cafe-placemat-menu-WEB.pdf",
+      "picks": [
+        {
+          "name": "POTATO LATKES",
+          "description": "APPLESAUCE & SOUR CREAM",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "sour cream"
+        },
+        {
+          "name": "KASHA VARNISHKAS",
+          "description": "BUCKWHEAT, CARAMELIZED ONION, NOODLES, POACHED EGG",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "PICKLES FROM THE BARREL",
+          "description": "HALF SOURS, FULL SOURS and PICKLED TOMATOES",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "FARM EGG OMELET",
+          "description": "SAUTÉED MUSHROOMS, GOAT CHEESE, SPINACH with TOASTED SHISSEL RYE",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg and goat cheese"
+        },
+        {
+          "name": "RUSS & DAUGHTERS BAGEL & BREAD BASKET",
+          "description": "BAGEL, BIALY, CHALLAH, SHISSEL RYE & PUMPERNICKEL BREAD",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "MIXED GREEN SALAD",
+          "description": "FENNEL, DILL, CAPERS, CITRUS DRESSING",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "SUMMER BORSCHT",
+          "description": "SERVED CHILLED with SOUR CREAM, DILL and PUMPERNICKEL BREAD",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "sour cream"
+        }
+      ]
+    },
+    {
+      "slug": "sal-tangs",
+      "verdict": "picks",
+      "reason": "Posted main menu has chili garlic tofu and vegetable rice/noodles.",
+      "menu_url": "https://www.saltangs.com/menus/",
+      "picks": [
+        {
+          "name": "Wonton Chips",
+          "description": "plum sauce & Chinese mustard",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Cucumber Salad",
+          "description": "chili crisp, cilantro, peanuts",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "peanuts"
+        },
+        {
+          "name": "Scallion Pancake",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sesame Crunch Salad",
+          "description": "iceberg lettuce, Asian pear, bean sprouts",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Chili Garlic Tofu",
+          "description": "Sichuan pepper, Chinese broccoli",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Lo Mein",
+          "description": "shiitake, garlic chives, chili. Vegetable $15",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Stir-Fried String Beans",
+          "description": "crispy garlic, sesame, soy",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Cold Spicy Peanut Noodles",
+          "description": "peanuts, sesame, scallions",
+          "course": "main",
+          "kind": "main",
+          "hold": "peanuts"
+        },
+        {
+          "name": "Fried Rice",
+          "description": "Vegetable $13",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "White Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "sami-susu",
+      "verdict": "picks",
+      "reason": "Posted dinner PDF has dips and tomato panzanella; no vegetarian entrée.",
+      "menu_url": "https://www.samiandsusu.com/s/Dinner_Summer_07_30_26.pdf",
+      "picks": [
+        {
+          "name": "LABNEH",
+          "description": "za’atar. DIPS comes with pita",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "labneh"
+        },
+        {
+          "name": "MUHAMMARA",
+          "description": "roasted red pepper, walnut. DIPS comes with pita",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnut"
+        },
+        {
+          "name": "MATBUCHA",
+          "description": "tomato confit, smoked paprika. DIPS comes with pita",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "HEIRLOOM TOMATO PANZANELLA",
+          "description": "stracciatella, japanese cucumbers",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "stracciatella"
+        }
+      ]
+    },
+    {
+      "slug": "shalom-japan",
+      "verdict": "picks",
+      "reason": "Posted dinner PDF has vegetarian matzoh ball ramen and vegetable plates.",
+      "menu_url": "https://shalomjapannyc.com/wp-content/uploads/2026/01/Shalom-Japan-DINNER-MENU-2026.pdf",
+      "picks": [
+        {
+          "name": "PICKLE PLATE",
+          "description": "assorted seasonal pickles",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "CHILLED SESAME TEMOMI MAZEMEN",
+          "description": "shiitake mushrooms, cucumbers, shiso, chili crisp",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "SPICY VEGETARIAN MATZOH BALL RAMEN",
+          "description": "special shio-koji broth, yuba, scallion, mandels, mushrooms, nori",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "SAKE KASU CHALLAH",
+          "description": "golden raisin butter",
+          "course": "starter",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "sobaya",
+      "verdict": "blocked",
+      "reason": "Listed Square checkout is an empty JS cart; no posted dish list loaded.",
+      "menu_url": "https://sobaya.square.site/",
+      "picks": []
+    },
+    {
+      "slug": "sobre-masa",
+      "verdict": "picks",
+      "reason": "Posted dinner menu has a vegetable main and vegetable starters.",
+      "menu_url": "https://sobremasa.com/pages/dinner",
+      "picks": [
+        {
+          "name": "Guacamole",
+          "description": "Flowering cilantro, onion, lime.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Milpa Salad",
+          "description": "Heirloom beans, nopales, cacahuazintle corn, chile verde vinaigrette.",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "beans"
+        },
+        {
+          "name": "Turnip Salad",
+          "description": "Roasted Hokkaido turnips, labneh, pasilla mixe",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "labneh"
+        },
+        {
+          "name": "Tacos de Coliflor",
+          "description": "Cauliflower, dried chile adobo.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Queso Asado",
+          "description": "Seared queso fresco, charred tomato salsa.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "queso fresco"
+        },
+        {
+          "name": "Huarache",
+          "description": "Maitake Mushrooms, mole amarillo, hoja santa oil.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Mole Almendrado",
+          "description": "Charred broccolini, almond mole",
+          "course": "main",
+          "kind": "main",
+          "hold": "almond"
+        }
+      ]
+    },
+    {
+      "slug": "soda-club",
+      "verdict": "blocked",
+      "reason": "Official menu page is image-only sample menus; no readable dish list.",
+      "menu_url": "https://www.wearesodaclub.com/menu",
+      "picks": []
+    },
+    {
+      "slug": "speedy-romeo",
+      "verdict": "picks",
+      "reason": "Posted dinner menu has vegetarian pastas and pizzas.",
+      "menu_url": "https://www.speedyromeo.com/menus/",
+      "picks": [
+        {
+          "name": "KALE APPLE SALAD",
+          "description": "goat cheese vinaigrette, seasonal fruit, freekeh, walnuts",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "goat cheese and walnuts"
+        },
+        {
+          "name": "BREAD AND BUTTER",
+          "description": "housemade bread",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "CACIO PEPE",
+          "description": "spaghetti, pecorino, parm, black pepper",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "WALNUT PESTO",
+          "description": "bucatini, walnut, basil, breadcrumb",
+          "course": "main",
+          "kind": "main",
+          "hold": "walnut"
+        },
+        {
+          "name": "SPICY MEZCAL",
+          "description": "lumache, stracciatella, mezcal sauce, chili oil",
+          "course": "main",
+          "kind": "main",
+          "hold": "stracciatella"
+        },
+        {
+          "name": "CAMPONATA",
+          "description": "eggplant, olives, capers, roasted red pepper",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "MARGHERITA",
+          "description": "San Marzano tomato sauce, mozzarella, basil, oregano, chili flake",
+          "course": "main",
+          "kind": "main",
+          "hold": "mozzarella"
+        },
+        {
+          "name": "SCARLET BEGONIA",
+          "description": "San Marzano tomato sauce, basil, oregano, chili flake, sea salt",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Whole Burratta Love",
+          "description": "San Marzano tomato sauce, fresh burrata, basil, oregano, chili flake",
+          "course": "main",
+          "kind": "main",
+          "hold": "burrata"
+        },
+        {
+          "name": "White Album",
+          "description": "Bèchamel, roasted garlic, mozz, ricotta Provel, pecorino, parm",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "ANTON EGO",
+          "description": "eggplant, summer squash, tomato concentrate, onion, basil, mint",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "KIND BROTHER",
+          "description": "Bèchamel, wild mushroom, smoked mozzarella, farm egg, sage",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg and cheese"
+        },
+        {
+          "name": "FEED ME SEYMOUR",
+          "description": "eggplant, summer squash, spicy tomato concentrate, onions, basil, mint, semolina",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "SUNSHINE DREAM",
+          "description": "roasted butternut squash, guajillo, burrata, pickled onions, pepitas, chicory salad, semolina",
+          "course": "main",
+          "kind": "main",
+          "hold": "burrata"
+        }
+      ]
+    },
+    {
+      "slug": "superiority-burger",
+      "verdict": "picks",
+      "reason": "Posted menus.fyi/Grubhub menu is vegetarian; several mains and plates.",
+      "menu_url": "http://menus.fyi/8604704",
+      "picks": [
+        {
+          "name": "SUPERIORITY BURGER",
+          "description": "Our classic namesake sandwich, not fake meat, made in house, a little squishy by design.",
+          "course": "main",
+          "kind": "main",
+          "hold": "chickpeas and tree nuts"
+        },
+        {
+          "name": "TFT",
+          "description": "Deeply marinated deep fried tofu, coated in super crisp coating with spicy mayo and carrot-cabbage slaw.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "SLOPPY DAVE",
+          "description": "Old time sloppy joe, kind of a zesty chili of tofu and tomatoes.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "SB RICE BOWL",
+          "description": "Carefully cooked jasmine rice with deep fried tofu, griddled broccoli rabe, & garlic bread cauliflower, BBQ carrots, & lots of fresh herbs.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "COLLARDS OVER RICE",
+          "description": "Slow braised collard greens tossed on the griddle with Cooper Sharp Cheddar cheese and threaded around like a chopped cheese.",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheddar"
+        },
+        {
+          "name": "YUBA VERDE OVER RICE",
+          "description": "Juicy savory broccoli rabe and yuba with sausaged ceci and spicy mayo over jasmine rice.",
+          "course": "main",
+          "kind": "main",
+          "hold": "chick peas"
+        },
+        {
+          "name": "HOUSE SALAD",
+          "description": "Little gem lettuces and pickled fennel with a handful of chopped parsley. Classic carrot ginger dressing.",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "SWEET & SOUR BEETS",
+          "description": "Pickled beets with jalapeño cream and fried pretzels",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cashew"
+        },
+        {
+          "name": "FRIED RICE & BEANS",
+          "description": "Deceptively simple, very satisfying, not just beans and rice.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "SPICY LENTILS & CORNBREAD",
+          "description": "A stewy spicy mess of olive oily lentils with a satisfying hunk of warm cornbread",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "lentils"
+        },
+        {
+          "name": "BURNT BROCCOLI SALAD",
+          "description": "Charred broccoli with coriander vinaigrette, candied cashews, pickled peppers, and eggplant.",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "cashews"
+        },
+        {
+          "name": "ROASTED WHITE SWEET POTATO",
+          "description": "Roasted and creamy golden fleshed sweet potato, zingily topped with pickles and cream and green sauce.",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "cashew and dairy"
+        }
+      ]
+    },
+    {
+      "slug": "tanoreen",
+      "verdict": "picks",
+      "reason": "Posted menu has vegan baked eggplant, vegan combo, and many vegetable plates.",
+      "menu_url": "https://www.tanoreen.com/menus/",
+      "picks": [
+        {
+          "name": "Baba",
+          "description": "Grilled eggplant, tahini, lemon, garlic.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Hummus",
+          "description": "Pureed chickpeas, tahini, lemon, garlic.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "chickpeas"
+        },
+        {
+          "name": "Tabouleh Salad",
+          "description": "Chopped parsley, mint, onion, tomato bulgur, lemon, olive oil.",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Feta Salad",
+          "description": "Feta cheese, tomato, fresh zaatar leaves, olive oil.",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "feta"
+        },
+        {
+          "name": "Makdous",
+          "description": "Olive oil cured stuffed eggplant, garlic, walnuts, harissa.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnuts"
+        },
+        {
+          "name": "Labaneh",
+          "description": "Yogurt spread, mint, olive oil.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "yogurt"
+        },
+        {
+          "name": "Fatoush Salad",
+          "description": "Lettuce, tomato, cucumbers, onion, mint, sumac, pita, lemon, olive oil dressing.",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Vegan Grape Leaves",
+          "description": "Rice, parsley, onions, tomatoes.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Cauliflower Salad",
+          "description": "Fried florets, tahini, pomegranate molasses.",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Brussels Sprout",
+          "description": "Fried, tahini-yogurt-pomegranate, garlic-toasted panko.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "yogurt"
+        },
+        {
+          "name": "Mhammara",
+          "description": "Chunky spread of red bell pepper, walnut, pomegranate molasses.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnut"
+        },
+        {
+          "name": "Fried Cauliflower Steak",
+          "description": "Panko breaded, herbs, parmesan, tahini sauce, pomegranate molasses, spicy harissa.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "parmesan"
+        },
+        {
+          "name": "Eggplant Napoleon",
+          "description": "Layers of crispy breaded eggplant, baba, tomato-basil salad.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Falafel",
+          "description": "Crispy chickpea patties, tahini sauce & toppings.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "chickpea"
+        },
+        {
+          "name": "Shulbato",
+          "description": "Bulgur wheat pilaf, tomato sauce, vegetables, chickpeas.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "chickpeas"
+        },
+        {
+          "name": "Lentil Mujaddara",
+          "description": "Lentils, rice, caramelized onion.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "lentils"
+        },
+        {
+          "name": "Crispy Fried Halloumi",
+          "description": "Cheese plate, fresh vegetables, olives.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "halloumi"
+        },
+        {
+          "name": "Pureed Lentil Soup",
+          "description": "Red lentil, carrot, coriander.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "lentil"
+        },
+        {
+          "name": "Vegan Baked Eggplant",
+          "description": "Layers of eggplant, tomato, potato, zucchini, onion, bell pepper with Tanoreen spices and toasted almonds. With basmati rice.",
+          "course": "main",
+          "kind": "main",
+          "hold": "almonds"
+        },
+        {
+          "name": "Vegan Combo",
+          "description": "Shulbato, lentil pilaf, veg grape leaves, dandelion, tomato salad.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Sautéed Spinach or Dandelion",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Basmati Rice",
+          "description": "Saffron scented.",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Arabic Tomato Salad",
+          "description": "Cucumbers, onions, mint, lemon, olive oil.",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "French Fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Foul Mudammas",
+          "description": "Stewed fava beans, lemon, olive oil, garlic.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Eggs & Potatoes",
+          "description": "Scrambled with onions & garlic.",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg"
+        }
+      ]
+    },
+    {
+      "slug": "tha-phraya",
+      "verdict": "picks",
+      "reason": "Official Grand Menu (website) has vegan green curry and vegetable plates. Batch URL is catering-only.",
+      "menu_url": "https://www.thaphraya.com/s/Grand-Menu-Website_226_V2.pdf",
+      "picks": [
+        {
+          "name": "Taro Spring Rolls",
+          "description": "Fried spring rolls with yummy taro root!",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Pak Mor",
+          "description": "Savory rice crepe wrapped sweet radish, red onion, peanut",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "peanut"
+        },
+        {
+          "name": "Chive Dumpling",
+          "description": "Crispy garlic chives with batter fried into delicious cubes with sweet vinegar soy sauce",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Thai Corn Salad",
+          "description": "“Tum Khao Pod”, sweet corn with white long bean, roasted peanuts & red chili dressing",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "peanuts"
+        },
+        {
+          "name": "Pad Seasonal Greens",
+          "description": "Sauteed seasonal greens, garlic, home made brown sauce",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Green Curry Pak Yang",
+          "description": "Roasted pumpkin, cauliflower & brussel sprout in homemade green curry, coconut milk & Thai basil",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Jasmine Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sticky Rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "tolo",
+      "verdict": "picks",
+      "reason": "Posted large-party menu lists vegetable mains and sides.",
+      "menu_url": "https://tolonyc.com/api/menu/large_party_menu",
+      "picks": [
+        {
+          "name": "watermelon slice with chili crisp & crispy shallots",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "salt & pepper tofu with chili aioli",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "aioli"
+        },
+        {
+          "name": "bean curd skin with Chinese celery & cumin chili",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "cucumber & wood ear with wasabi",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "“fish fragrant” Brussels sprouts",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "pea shoots with salted duck yolk",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "seaweed “shake shake” fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "steamed rice",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "tonchin",
+      "verdict": "picks",
+      "reason": "Posted signature menu has vegan ramen and vegetable plates.",
+      "menu_url": "https://www.tonchinus.com/signature-menu",
+      "picks": [
+        {
+          "name": "shishito",
+          "description": "shishito, tonchin umami salt, salted kelp",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "edamame",
+          "description": "chilled edamame, basil, plum, red shiso, olive oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "kyuri",
+          "description": "cucumber, onion, vinegar, micro shiso, sea salt",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "kimchi mushrooms",
+          "description": "oyster mushroom, scallion, white pepper, black pepper, sesame, kimchi sauce",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "kinoko",
+          "description": "grilled mixed mushrooms, sukiyaki sauce, egg salad, yuzu kosho, romaine, scallion",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "tonchin salad",
+          "description": "local seasonal vegetable salad, grapefruit, tonchin fresh dressing, olive oil, lemon",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "ume",
+          "description": "roasted sesame, pickled plum, salted kelp, seaweed",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "miso ginger",
+          "description": "homemade vegan noodles, vegan miso broth, wakame, corn, spicy soy meat, menma, cabbage, sesame, negi, chili pepper",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "ban ban kinoko",
+          "description": "warm homemade noodles, spicy vegan ban ban sauce and sukiyaki sauce, grilled mixed mushrooms, bean sprouts, negi, cashew nuts, fried garlic",
+          "course": "main",
+          "kind": "main",
+          "hold": "cashew nuts"
+        }
+      ]
+    },
+    {
+      "slug": "una-pizza-napoletana",
+      "verdict": "picks",
+      "reason": "Posted menu has vegetarian pizzas and vegetable starters.",
+      "menu_url": "https://unapizza.com/menu-867530/",
+      "picks": [
+        {
+          "name": "House Marinated Olives",
+          "description": "Gaeta, Cerignola, Castelvetrano and Taggiasca olives. Lemon and rosemary.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Lupini Beans",
+          "description": "Fennel pollen, parsley, chili and Mangieri EVOO.",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Burrata Special",
+          "description": "Imported Italian burrata, Vesuvio semi-dried tomatoes, broccoli rabe, Sicilian sea salt, Mangieri EVOO and house bread crumbs.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata"
+        },
+        {
+          "name": "MARINARA",
+          "description": "San Marzano tomatoes, Amalfi Coast wild oregano, NY State garlic, basil, Sicilian sea salt and Mangieri EVOO.",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "MARGHERITA",
+          "description": "San Marzano tomatoes, DOP buffalo mozzarella, basil, Sicilian sea salt and Mangieri EVOO.",
+          "course": "main",
+          "kind": "main",
+          "hold": "mozzarella"
+        },
+        {
+          "name": "BIANCA",
+          "description": "DOP buffalo mozzarella, NY State garlic, basil, Sicilian sea salt and Mangieri EVOO.",
+          "course": "main",
+          "kind": "main",
+          "hold": "mozzarella"
+        },
+        {
+          "name": "FILETTI",
+          "description": "Eckerton Hill Farms heirloom cherry tomatoes, DOP buffalo mozzarella, NY State garlic, basil, Sicilian sea salt and Mangieri EVOO.",
+          "course": "main",
+          "kind": "main",
+          "hold": "mozzarella"
+        },
+        {
+          "name": "COSACCA",
+          "description": "San Marzano tomatoes, basil, Pecorino Romano, Sicilian sea salt and Mangieri EVOO.",
+          "course": "main",
+          "kind": "main",
+          "hold": "pecorino"
+        }
+      ]
+    }
+  ]
+}

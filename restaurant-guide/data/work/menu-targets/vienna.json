@@ -1,0 +1,822 @@
+[
+  {
+    "name": "Amador",
+    "slug": "amador",
+    "city_id": "vienna-at",
+    "website": "https://www.restaurant-amador.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Grinzinger Straße 86, Vienna, 1190, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Steirereck im Stadtpark",
+    "slug": "steirereck-im-stadtpark",
+    "city_id": "vienna-at",
+    "website": "https://www.steirereck.at/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Am Heumarkt 2a, Vienna, 1030, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Doubek",
+    "slug": "doubek",
+    "city_id": "vienna-at",
+    "website": "https://restaurantdoubek.at/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Kochgasse 13, Vienna, 1080, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Konstantin Filippou",
+    "slug": "konstantin-filippou",
+    "city_id": "vienna-at",
+    "website": "https://konstantinfilippou.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Dominikanerbastei 17, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mraz & Sohn",
+    "slug": "mraz-sohn",
+    "city_id": "vienna-at",
+    "website": "https://www.mrazundsohn.at/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Wallensteinstraße 59, Vienna, 1200, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Silvio Nickol Gourmet Restaurant",
+    "slug": "silvio-nickol-gourmet-restaurant",
+    "city_id": "vienna-at",
+    "website": "https://www.palais-coburg.com/wine-dine/silvio-nickol",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Coburgbastei 4, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "APRON",
+    "slug": "apron",
+    "city_id": "vienna-at",
+    "website": "https://www.restaurant-apron.at/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Am Heumarkt 35, Vienna, 1030, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Addiert",
+    "slug": "addiert",
+    "city_id": "vienna-at",
+    "website": "https://www.addiert.at/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Franz-Josefs-Kai 43, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Edvard",
+    "slug": "edvard",
+    "city_id": "vienna-at",
+    "website": "https://www.edvard-restaurant.com/en/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Schottenring 24, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Esszimmer - Everybody's Darling",
+    "slug": "esszimmer-everybodys-darling",
+    "city_id": "vienna-at",
+    "website": "https://everybodysdarling.at/esszimmer/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Tuchlauben 22, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Glasswing by Alexandru Simon",
+    "slug": "glasswing-by-alexandru-simon",
+    "city_id": "vienna-at",
+    "website": "https://www.glasswing-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Kärntner Ring 8, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Herzig",
+    "slug": "herzig",
+    "city_id": "vienna-at",
+    "website": "https://www.restaurant-herzig.at/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Schanzstrasse 14, Vienna, 1150, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "JOLA",
+    "slug": "jola",
+    "city_id": "vienna-at",
+    "website": "https://www.jola.wien",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Salzgries 15, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pramerl & the Wolf",
+    "slug": "pramerl-the-wolf",
+    "city_id": "vienna-at",
+    "website": "https://pramerlandthewolf.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Pramergasse 21, Vienna, 1090, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "TIAN",
+    "slug": "tian",
+    "city_id": "vienna-at",
+    "website": "https://www.tian-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Himmelpfortgasse 23, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Z'SOM",
+    "slug": "zsom",
+    "city_id": "vienna-at",
+    "website": "https://zsom-restaurant.at",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Gußhausstraße 12, Vienna, 1040, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "[aend]",
+    "slug": "aend",
+    "city_id": "vienna-at",
+    "website": "https://aend.at/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Mollardgasse 76, Vienna, 1060, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Chez Bernard",
+    "slug": "chez-bernard",
+    "city_id": "vienna-at",
+    "website": "https://www.chezbernard.at/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Mariahilfer Straße 71A, Vienna, 1060, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gasthaus Tante Liesl",
+    "slug": "gasthaus-tante-liesl",
+    "city_id": "vienna-at",
+    "website": "https://tante-liesl.at/de/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Servitengasse 7, Vienna, 1090, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "LOLA",
+    "slug": "lola",
+    "city_id": "vienna-at",
+    "website": "https://www.lolatapas.at/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Gonzagagasse 14, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MAST Weinbistro",
+    "slug": "mast-weinbistro",
+    "city_id": "vienna-at",
+    "website": "https://www.mast.wine/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "Porzellangasse 53, Vienna, 1090, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Meierei im Stadtpark",
+    "slug": "meierei-im-stadtpark",
+    "city_id": "vienna-at",
+    "website": "https://www.steirereck.at/meierei.html",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Am Heumarkt 2a, Vienna, 1030, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mochi",
+    "slug": "mochi",
+    "city_id": "vienna-at",
+    "website": "https://www.mochi.at/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Praterstraße 15, Vienna, 1020, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rosi",
+    "slug": "rosi",
+    "city_id": "vienna-at",
+    "website": "https://www.rosi.wien/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Sechshauser Straße 120, Vienna, 1150, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "TIAN Bistro am Spittelberg",
+    "slug": "tian-bistro-am-spittelberg",
+    "city_id": "vienna-at",
+    "website": "https://www.tian-bistro.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "Schrankgasse 4, Vienna, 1070, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Atelier 7 Brasserie",
+    "slug": "atelier-7-brasserie",
+    "city_id": "vienna-at",
+    "website": "https://www.mandarinoriental.com/de/vienna/inner-city/dine/atelier-7-izakaya-and-bar",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Riemergasse 7, Vienna, 1010, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Beef & Glory",
+    "slug": "beef-glory",
+    "city_id": "vienna-at",
+    "website": "https://www.beefandglory.at/de",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Florianigasse 35, Vienna, 1080, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Beletage Zum Schwarzen Kameel",
+    "slug": "beletage-zum-schwarzen-kameel",
+    "city_id": "vienna-at",
+    "website": "https://www.kameel.at",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bognergasse 5, Vienna, 1010, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Buxbaum",
+    "slug": "buxbaum",
+    "city_id": "vienna-at",
+    "website": "https://www.buxbaumrestaurant.at",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Grashofgasse 3, Vienna, 1010, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cafe Kandl",
+    "slug": "cafe-kandl",
+    "city_id": "vienna-at",
+    "website": "https://cafekandl.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kandlgasse 12/2, Vienna, 1070, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Collina am Berg",
+    "slug": "collina-am-berg",
+    "city_id": "vienna-at",
+    "website": "https://www.collina.wien",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Spittelberggasse 12, Vienna, 1070, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Das Kraus",
+    "slug": "das-kraus",
+    "city_id": "vienna-at",
+    "website": "https://daskraus.at",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Große Pfarrgasse 7, Vienna, 1020, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Das Loft",
+    "slug": "das-loft",
+    "city_id": "vienna-at",
+    "website": "https://www.dasloftwien.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Praterstraße 1, Vienna, 1020, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "DiningRuhm",
+    "slug": "diningruhm",
+    "city_id": "vienna-at",
+    "website": "https://www.diningruhm.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lambrechtgasse 9, Vienna, 1040, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Eckel",
+    "slug": "eckel",
+    "city_id": "vienna-at",
+    "website": "https://www.restauranteckel.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sieveringer Straße 46, Vienna, 1190, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Edlingers Tempel",
+    "slug": "edlingers-tempel",
+    "city_id": "vienna-at",
+    "website": "https://www.edlingers-tempel.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Praterstraße 56, Vienna, 1020, Austria",
+    "price_tier": "$"
+  },
+  {
+    "name": "Fabios",
+    "slug": "fabios",
+    "city_id": "vienna-at",
+    "website": "https://fabios.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tuchlauben 6, Vienna, 1010, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fuhrmann",
+    "slug": "fuhrmann",
+    "city_id": "vienna-at",
+    "website": "https://www.restaurantfuhrmann.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fuhrmannsgasse 9, Vienna, 1080, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gasthaus Stern",
+    "slug": "gasthaus-stern",
+    "city_id": "vienna-at",
+    "website": "https://www.gasthausstern.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Braunhubergasse 6, Vienna, 1110, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Grüne Bar",
+    "slug": "grune-bar",
+    "city_id": "vienna-at",
+    "website": "https://www.sacher.com/en/restaurants/restaurant-gruene-bar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Philharmonikerstraße 4, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "HAUSBAR Wien",
+    "slug": "hausbar-wien",
+    "city_id": "vienna-at",
+    "website": "https://www.hausbar-wien.at",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Karlsplatz 5, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Heunisch und Erben",
+    "slug": "heunisch-und-erben",
+    "city_id": "vienna-at",
+    "website": "https://www.heunisch.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Landstrasser Hauptstraße 17, Vienna, 1030, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "KIAS Restaurant",
+    "slug": "kias-restaurant",
+    "city_id": "vienna-at",
+    "website": "https://kiasrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gumpendorfer Straße 37, Vienna, 1060, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "KUTSCH",
+    "slug": "kutsch",
+    "city_id": "vienna-at",
+    "website": "https://www.kutsch.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schopenhauerstraße 19, Vienna, 1180, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kommod",
+    "slug": "kommod",
+    "city_id": "vienna-at",
+    "website": "https://kommod-essen.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Strozzigasse 40, Vienna, 1080, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kutschker 44",
+    "slug": "kutschker-44",
+    "city_id": "vienna-at",
+    "website": "https://www.kutschker44.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kutschkergasse 44, Vienna, 1180, Austria",
+    "price_tier": "$"
+  },
+  {
+    "name": "LABSTELLE",
+    "slug": "labstelle",
+    "city_id": "vienna-at",
+    "website": "https://labstelle.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lugeck 6, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Salzgries Paris",
+    "slug": "le-salzgries-paris",
+    "city_id": "vienna-at",
+    "website": "https://www.le-salzgries.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Marc-Aurel-Straße 6, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Sept",
+    "slug": "le-sept",
+    "city_id": "vienna-at",
+    "website": "https://www.mandarinoriental.com/de/vienna/inner-city/dine/le-sept",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Riemergasse 7, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Liebsteinsky",
+    "slug": "liebsteinsky",
+    "city_id": "vienna-at",
+    "website": "https://www.liebsteinsky.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schubertring 6, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Léontine",
+    "slug": "leontine",
+    "city_id": "vienna-at",
+    "website": "https://www.leontine.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Reisnerstraße 39, Vienna, 1030, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mama Konstantina",
+    "slug": "mama-konstantina",
+    "city_id": "vienna-at",
+    "website": "https://mamakonstantina.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Döblinger Hauptstraße 17, Vienna, 1190, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Meissl & Schadn",
+    "slug": "meissl-schadn",
+    "city_id": "vienna-at",
+    "website": "https://meisslundschadn.at/meissl-schadn-wien/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schubertring 10, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "O boufés",
+    "slug": "o-boufes",
+    "city_id": "vienna-at",
+    "website": "https://konstantinfilippou.com/oboufes/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dominikanerbastei 17, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Oak-107",
+    "slug": "oak-107",
+    "city_id": "vienna-at",
+    "website": "https://www.oak-107.at",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mariahilfer Straße 47, Vienna, 1060, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pastamara - Bar con Cucina",
+    "slug": "pastamara-bar-con-cucina",
+    "city_id": "vienna-at",
+    "website": "https://www.pastamara.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schubertring 5, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pichlmaiers zum Herkner",
+    "slug": "pichlmaiers-zum-herkner",
+    "city_id": "vienna-at",
+    "website": "https://www.zumherkner.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dornbacher Straße 123, Vienna, 1170, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Reznicek",
+    "slug": "reznicek",
+    "city_id": "vienna-at",
+    "website": "https://www.reznicek.co.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Reznicekgasse 10, Vienna, 1090, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rote Bar",
+    "slug": "rote-bar",
+    "city_id": "vienna-at",
+    "website": "https://www.sacher.com/de/restaurants/restaurant-rote-bar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Philharmonikerstraße 4, Vienna, 1010, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "SHIKI Japanese Cuisine",
+    "slug": "shiki-japanese-cuisine",
+    "city_id": "vienna-at",
+    "website": "https://www.shiki.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Krugerstraße 3, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "SHIKI Omakase",
+    "slug": "shiki-omakase",
+    "city_id": "vienna-at",
+    "website": "https://shiki-omakase.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Krugerstraße 15, Vienna, 1010, Austria",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Skopik & Lohn",
+    "slug": "skopik-lohn",
+    "city_id": "vienna-at",
+    "website": "https://skopikundlohn.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Leopoldsgasse 17, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Trattoria Martinelli",
+    "slug": "trattoria-martinelli",
+    "city_id": "vienna-at",
+    "website": "https://www.barbaro.at/trattoriamartinelli",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Freyung 3, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Vestibül",
+    "slug": "vestibul",
+    "city_id": "vienna-at",
+    "website": "https://www.vestibuel.at/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Universitätsring 2, Vienna, 1010, Austria",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Weibel's Wirtshaus",
+    "slug": "weibels-wirtshaus",
+    "city_id": "vienna-at",
+    "website": "https://www.weibel.at/wirtshaus01.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kumpfgasse 2, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zum weissen Rauchfangkehrer",
+    "slug": "zum-weissen-rauchfangkehrer",
+    "city_id": "vienna-at",
+    "website": "https://www.weisser-rauchfangkehrer.at/en/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Weihburggasse 4, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "das weinberg",
+    "slug": "das-weinberg",
+    "city_id": "vienna-at",
+    "website": "https://www.dasweinberg.at",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Thimiggasse 11, Vienna, 1180, Austria",
+    "price_tier": "$$"
+  },
+  {
+    "name": "lara",
+    "slug": "lara",
+    "city_id": "vienna-at",
+    "website": "https://www.lara.wien",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Passauer Platz 2, Vienna, 1010, Austria",
+    "price_tier": "$$"
+  }
+]

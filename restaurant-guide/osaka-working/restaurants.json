@@ -1,0 +1,5980 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "osaka-jp",
+ "restaurant_count": 153,
+ "restaurants": [
+  {
+   "restaurant_id": "osaka-jp/taian",
+   "city_id": "osaka-jp",
+   "slug": "taian",
+   "name": "Taian",
+   "website": "",
+   "address": "1-21-2 Shimanochi, Chuo-ku, Osaka, 542-0082, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/taian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/taian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kahala",
+   "city_id": "osaka-jp",
+   "slug": "kahala",
+   "name": "KAHALA",
+   "website": "",
+   "address": "2F, 1-9-2 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kahala"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kahala",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tenjimbashi-aoki",
+   "city_id": "osaka-jp",
+   "slug": "tenjimbashi-aoki",
+   "name": "Tenjimbashi Aoki",
+   "website": "",
+   "address": "7-12-14 Tenjimbashi, Kita-ku, Osaka, 531-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tenjimbashi-aoki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tenjimbashi-aoki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/alarde",
+   "city_id": "osaka-jp",
+   "slug": "alarde",
+   "name": "Alarde",
+   "website": "",
+   "address": "1-14-4 Awaza, Nishi-ku, Osaka, 550-0011, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/alarde"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/alarde",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/hachi",
+   "city_id": "osaka-jp",
+   "slug": "hachi",
+   "name": "Hachi",
+   "website": "",
+   "address": "8-1-8 Uehommachi, Tennoji-ku, Osaka, 543-0001, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/hachi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/hachi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/higashichaya-nakamura",
+   "city_id": "osaka-jp",
+   "slug": "higashichaya-nakamura",
+   "name": "Higashichaya Nakamura",
+   "website": "",
+   "address": "1-25-8 Honjohigashi, Kita-ku, Osaka, 531-0074, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/higashichaya-nakamura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/higashichaya-nakamura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/hiraishi",
+   "city_id": "osaka-jp",
+   "slug": "hiraishi",
+   "name": "Hiraishi",
+   "website": "",
+   "address": "3F, 1-9-6 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/hiraishi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/hiraishi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kaishoku-shimizu",
+   "city_id": "osaka-jp",
+   "slug": "kaishoku-shimizu",
+   "name": "Kaishoku Shimizu",
+   "website": "",
+   "address": "1F, Shin Daibiru, 1-2-1 Dojimahama, Kita-ku, Osaka, 530-0004, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kaishoku-shimizu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kaishoku-shimizu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/katamachi-kawaguchi",
+   "city_id": "osaka-jp",
+   "slug": "katamachi-kawaguchi",
+   "name": "Katamachi Kawaguchi",
+   "website": "",
+   "address": "1-3-11 Katamachi, Miyakojima-ku, Osaka, 534-0025, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/katamachi-kawaguchi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/katamachi-kawaguchi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/masuda",
+   "city_id": "osaka-jp",
+   "slug": "masuda",
+   "name": "Masuda",
+   "website": "",
+   "address": "2F, 1-3-12 Shinsaibashisuji, Chuo-ku, Osaka, 542-0085, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/masuda"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/masuda",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/matsuzushi-tanigawa",
+   "city_id": "osaka-jp",
+   "slug": "matsuzushi-tanigawa",
+   "name": "Matsuzushi Tanigawa",
+   "website": "",
+   "address": "3-13-6 Ojicho, Abeno-ku, Osaka, 545-0023, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/matsuzushi-tanigawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/matsuzushi-tanigawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/naniwaryori-yu",
+   "city_id": "osaka-jp",
+   "slug": "naniwaryori-yu",
+   "name": "Naniwaryori Yu",
+   "website": "",
+   "address": "1-9-17 Higashitemma, Kita-ku, Osaka, 530-0044, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/naniwaryori-yu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/naniwaryori-yu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ono",
+   "city_id": "osaka-jp",
+   "slug": "ono",
+   "name": "Ono",
+   "website": "",
+   "address": "6F, 1-2-22 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ono"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ono",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/oryori-horikawa",
+   "city_id": "osaka-jp",
+   "slug": "oryori-horikawa",
+   "name": "Oryori Horikawa",
+   "website": "",
+   "address": "4-8-17 Temma, Kita-ku, Osaka, 530-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oryori-horikawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oryori-horikawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/rakushin",
+   "city_id": "osaka-jp",
+   "slug": "rakushin",
+   "name": "Rakushin",
+   "website": "",
+   "address": "1-6-27 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/rakushin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/rakushin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/shinchi-yamamoto",
+   "city_id": "osaka-jp",
+   "slug": "shinchi-yamamoto",
+   "name": "Shinchi Yamamoto",
+   "website": "",
+   "address": "1-1-13 Dojima, Kita-ku, Osaka, 530-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shinchi-yamamoto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shinchi-yamamoto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sui-oya",
+   "city_id": "osaka-jp",
+   "slug": "sui-oya",
+   "name": "Sui Oya",
+   "website": "",
+   "address": "2F, 3-1-2 Temma, Kita-ku, Osaka, 530-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sui-oya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sui-oya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushi-murakami-jiro",
+   "city_id": "osaka-jp",
+   "slug": "sushi-murakami-jiro",
+   "name": "Sushi Murakami Jiro",
+   "website": "",
+   "address": "1-5-7 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-murakami-jiro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-murakami-jiro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushi-sanshin",
+   "city_id": "osaka-jp",
+   "slug": "sushi-sanshin",
+   "name": "Sushi Sanshin",
+   "website": "",
+   "address": "2-7-14 Uchikyuhojimachi, Chuo-ku, Osaka, 540-0013, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-sanshin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-sanshin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/torisho-ishii",
+   "city_id": "osaka-jp",
+   "slug": "torisho-ishii",
+   "name": "Torisho Ishii",
+   "website": "",
+   "address": "3-11-4 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/torisho-ishii"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/torisho-ishii",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ukitacho-ima",
+   "city_id": "osaka-jp",
+   "slug": "ukitacho-ima",
+   "name": "Ukitacho Ima",
+   "website": "",
+   "address": "2-5-27 Ukida, Kita-ku, Osaka, 530-0021, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ukitacho-ima"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ukitacho-ima",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/yakitori-ichimatsu",
+   "city_id": "osaka-jp",
+   "slug": "yakitori-ichimatsu",
+   "name": "Yakitori Ichimatsu",
+   "website": "",
+   "address": "1-5-1 Dojima, Kita-ku, Osaka, 530-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yakitori-ichimatsu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yakitori-ichimatsu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/yakitori-torisen",
+   "city_id": "osaka-jp",
+   "slug": "yakitori-torisen",
+   "name": "Yakitori Torisen",
+   "website": "",
+   "address": "3F, 1-4-26 Dojima, Kita-ku, Osaka, 530-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yakitori-torisen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yakitori-torisen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/yonemasu",
+   "city_id": "osaka-jp",
+   "slug": "yonemasu",
+   "name": "Yonemasu",
+   "website": "",
+   "address": "1-9-16 Oyodominami, Kita-ku, Osaka, 531-0075, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yonemasu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yonemasu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/yoshiko",
+   "city_id": "osaka-jp",
+   "slug": "yoshiko",
+   "name": "Yoshiko",
+   "website": "",
+   "address": "1-8-5 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yoshiko"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yoshiko",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fugu / Pufferfish",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/zeshin",
+   "city_id": "osaka-jp",
+   "slug": "zeshin",
+   "name": "Zeshin",
+   "website": "",
+   "address": "B1F, 2-9-3 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/zeshin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/zeshin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/milpa",
+   "city_id": "osaka-jp",
+   "slug": "milpa",
+   "name": "milpa",
+   "website": "",
+   "address": "1-16-25 Kitahorie, Nishi-ku, Osaka, 550-0014, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/milpa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/milpa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ayamedo",
+   "city_id": "osaka-jp",
+   "slug": "ayamedo",
+   "name": "Ayamedo",
+   "website": "",
+   "address": "2-2-26 Andojimachi, Chuo-ku, Osaka, 542-0061, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ayamedo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ayamedo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Soba",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/benikurage",
+   "city_id": "osaka-jp",
+   "slug": "benikurage",
+   "name": "Benikurage",
+   "website": "",
+   "address": "5-4 Hommachibashi, Chuo-ku, Osaka, 540-0029, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/benikurage"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/benikurage",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/chukasoba-mugen",
+   "city_id": "osaka-jp",
+   "slug": "chukasoba-mugen",
+   "name": "Chukasoba Mugen",
+   "website": "",
+   "address": "5-5-10 Ebie, Fukushima-ku, Osaka, 553-0001, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/chukasoba-mugen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/chukasoba-mugen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/chukasoba-uemachi",
+   "city_id": "osaka-jp",
+   "slug": "chukasoba-uemachi",
+   "name": "Chukasoba Uemachi",
+   "website": "",
+   "address": "A-22 Uemachi, Chuo-ku, Osaka, 540-0005, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/chukasoba-uemachi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/chukasoba-uemachi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/diva",
+   "city_id": "osaka-jp",
+   "slug": "diva",
+   "name": "DIVA",
+   "website": "",
+   "address": "6-1-29 Tenjimbashi, Kita-ku, Osaka, 530-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/diva-1242557"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/diva-1242557",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/daidokoro-kamiya",
+   "city_id": "osaka-jp",
+   "slug": "daidokoro-kamiya",
+   "name": "Daidokoro Kamiya",
+   "website": "",
+   "address": "1-10-12 Kyomachibori, Nishi-ku, Osaka, 550-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/daidokoro-kamiya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/daidokoro-kamiya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/izakaya-tokitame",
+   "city_id": "osaka-jp",
+   "slug": "izakaya-tokitame",
+   "name": "Izakaya Tokitame",
+   "website": "",
+   "address": "6-9-17 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/izakaya-tokitame"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/izakaya-tokitame",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/jibundoki",
+   "city_id": "osaka-jp",
+   "slug": "jibundoki",
+   "name": "JIBUNDOKI",
+   "website": "",
+   "address": "4-5-11 Minamikyuhojimachi, Chuo-ku, Osaka, 541-0058, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/jibundoki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/jibundoki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Teppanyaki",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kamigata-rainbow",
+   "city_id": "osaka-jp",
+   "slug": "kamigata-rainbow",
+   "name": "Kamigata Rainbow",
+   "website": "",
+   "address": "4-6-3 Katsuyama, Tennoji-ku, Osaka, 543-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kamigata-rainbow"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kamigata-rainbow",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kyomachibori-nakamura",
+   "city_id": "osaka-jp",
+   "slug": "kyomachibori-nakamura",
+   "name": "Kyomachibori Nakamura",
+   "website": "",
+   "address": "1-17-9 Kyomachibori, Nishi-ku, Osaka, 550-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kyomachibori-nakamura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kyomachibori-nakamura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tonkatsu",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/la-bonne-tache",
+   "city_id": "osaka-jp",
+   "slug": "la-bonne-tache",
+   "name": "La bonne tâche",
+   "website": "",
+   "address": "4-1-8 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-bonne-tache"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-bonne-tache",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/mendokoro-subete",
+   "city_id": "osaka-jp",
+   "slug": "mendokoro-subete",
+   "name": "Mendokoro Subete",
+   "website": "",
+   "address": "2-17-12 Momodani, Ikuno-ku, Osaka, 544-0034, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mendokoro-subete"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mendokoro-subete",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/mugito-mensuke",
+   "city_id": "osaka-jp",
+   "slug": "mugito-mensuke",
+   "name": "Mugito Mensuke",
+   "website": "",
+   "address": "3-4-12 Toyosaki, Kita-ku, Osaka, 531-0072, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mugito-mensuke"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mugito-mensuke",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/nikomi-kimura",
+   "city_id": "osaka-jp",
+   "slug": "nikomi-kimura",
+   "name": "Nikomi Kimura",
+   "website": "",
+   "address": "6-18-6 Tanimachi, Chuo-ku, Osaka, 542-0012, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/nikomi-kimura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/nikomi-kimura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ogimachi-udonya-asuro",
+   "city_id": "osaka-jp",
+   "slug": "ogimachi-udonya-asuro",
+   "name": "Ogimachi Udonya Asuro",
+   "website": "",
+   "address": "3-8-3 Tenjimbashi, Kita-ku, Osaka, 530-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ogimachi-udonya-asuro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ogimachi-udonya-asuro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Udon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/oryori-amenimomakezu",
+   "city_id": "osaka-jp",
+   "slug": "oryori-amenimomakezu",
+   "name": "Oryori Amenimomakezu",
+   "website": "",
+   "address": "4-10-17 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oryori-amenimomakezu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oryori-amenimomakezu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/osteria-la-cicerchia",
+   "city_id": "osaka-jp",
+   "slug": "osteria-la-cicerchia",
+   "name": "Osteria La Cicerchia",
+   "website": "",
+   "address": "3F, 2-3-4 Kyomachibori, Nishi-ku, Osaka, 550-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/osteria-la-cicerchia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/osteria-la-cicerchia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/pitak-gohan",
+   "city_id": "osaka-jp",
+   "slug": "pitak-gohan",
+   "name": "PITAK GOHAN",
+   "website": "",
+   "address": "2-2-13 Nakazaki, Kita-ku, Osaka, 530-0016, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/pitak-gohan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/pitak-gohan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ramen-hayato",
+   "city_id": "osaka-jp",
+   "slug": "ramen-hayato",
+   "name": "Ramen Hayato",
+   "website": "",
+   "address": "1-2-2 Minamimorimachi, Kita-ku, Osaka, 530-0054, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ramen-hayato"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ramen-hayato",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sakamoto-sushi",
+   "city_id": "osaka-jp",
+   "slug": "sakamoto-sushi",
+   "name": "Sakamoto Sushi",
+   "website": "",
+   "address": "1-23-13 Nishikujo, Konohana-ku, Osaka, 554-0012, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sakamoto-sushi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sakamoto-sushi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sakeya-sakana-yoshimura",
+   "city_id": "osaka-jp",
+   "slug": "sakeya-sakana-yoshimura",
+   "name": "Sakeya Sakana Yoshimura",
+   "website": "",
+   "address": "1-13-21 Tenjimbashi, Kita-ku, Osaka, 530-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sakeya-sakana-yoshimura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sakeya-sakana-yoshimura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/shokudo-akari",
+   "city_id": "osaka-jp",
+   "slug": "shokudo-akari",
+   "name": "Shokudo Akari",
+   "website": "",
+   "address": "2F, 1-6-27 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shokudo-akari"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shokudo-akari",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sobakiri-arabompu",
+   "city_id": "osaka-jp",
+   "slug": "sobakiri-arabompu",
+   "name": "Sobakiri Arabompu",
+   "website": "",
+   "address": "4-1-11 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sobakiri-arabompu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sobakiri-arabompu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Soba",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sobakiri-gaku",
+   "city_id": "osaka-jp",
+   "slug": "sobakiri-gaku",
+   "name": "Sobakiri Gaku",
+   "website": "",
+   "address": "7-1-54 Tanimachi, Chuo-ku, Osaka, 542-0012, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sobakiri-gaku"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sobakiri-gaku",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Soba",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sobakiri-karani",
+   "city_id": "osaka-jp",
+   "slug": "sobakiri-karani",
+   "name": "Sobakiri Karani",
+   "website": "",
+   "address": "2-11-26 Sagisu, Fukushima-ku, Osaka, 553-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sobakiri-karani"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sobakiri-karani",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Soba",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/suigyo-murabayashi",
+   "city_id": "osaka-jp",
+   "slug": "suigyo-murabayashi",
+   "name": "Suigyo Murabayashi",
+   "website": "",
+   "address": "B1F, 1-2-17 Dojima, Kita-ku, Osaka, 530-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/suigyo-murabayashi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/suigyo-murabayashi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Izakaya",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sumisho-mikuriya",
+   "city_id": "osaka-jp",
+   "slug": "sumisho-mikuriya",
+   "name": "Sumisho Mikuriya",
+   "website": "",
+   "address": "5-10-4 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sumisho-mikuriya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sumisho-mikuriya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushidokoro-kaihara",
+   "city_id": "osaka-jp",
+   "slug": "sushidokoro-kaihara",
+   "name": "Sushidokoro Kaihara",
+   "website": "",
+   "address": "5-4 Ikedacho, Kita-ku, Osaka, 530-0033, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushidokoro-kaihara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushidokoro-kaihara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tempura-kozaki",
+   "city_id": "osaka-jp",
+   "slug": "tempura-kozaki",
+   "name": "Tempura Kozaki",
+   "website": "",
+   "address": "4-11-38 Matsuzakicho, Abeno-ku, Osaka, 545-0053, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tempura-kozaki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tempura-kozaki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tenboshi",
+   "city_id": "osaka-jp",
+   "slug": "tenboshi",
+   "name": "Tenboshi",
+   "website": "",
+   "address": "7-10-9 Tenjimbashi, Kita-ku, Osaka, 531-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tenboshi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tenboshi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tonkatsu-fujii",
+   "city_id": "osaka-jp",
+   "slug": "tonkatsu-fujii",
+   "name": "Tonkatsu Fujii",
+   "website": "",
+   "address": "1-11-5 Sembayashi, Asahi-ku, Osaka, 535-0012, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tonkatsu-fujii"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tonkatsu-fujii",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tonkatsu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tonkatsu-minato",
+   "city_id": "osaka-jp",
+   "slug": "tonkatsu-minato",
+   "name": "Tonkatsu Minato",
+   "website": "",
+   "address": "2-9-26 Shimanochi, Chuo-ku, Osaka, 542-0082, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tonkatsu-minato"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tonkatsu-minato",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tonkatsu",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/udondokoro-shigemi",
+   "city_id": "osaka-jp",
+   "slug": "udondokoro-shigemi",
+   "name": "Udondokoro Shigemi",
+   "website": "",
+   "address": "4-7-7 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/udondokoro-shigemi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/udondokoro-shigemi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Udon",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ueroku-wine",
+   "city_id": "osaka-jp",
+   "slug": "ueroku-wine",
+   "name": "Ueroku wine",
+   "website": "",
+   "address": "4-15 Higashikozucho, Tennoji-ku, Osaka, 543-0021, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ueroku-wine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ueroku-wine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/au-soleil-couchant",
+   "city_id": "osaka-jp",
+   "slug": "au-soleil-couchant",
+   "name": "au soleil couchant",
+   "website": "",
+   "address": "1-14-25 Shitennoji, Tennoji-ku, Osaka, 543-0051, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/au-soleil-couchant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/au-soleil-couchant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/bistrot-neuf",
+   "city_id": "osaka-jp",
+   "slug": "bistrot-neuf",
+   "name": "bistrot neuf",
+   "website": "",
+   "address": "1-4-17 Tohei, Chuo-ku, Osaka, 542-0063, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/bistrot-neuf-1242628"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/bistrot-neuf-1242628",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/asador-roca",
+   "city_id": "osaka-jp",
+   "slug": "asador-roca",
+   "name": "Asador ROCA",
+   "website": "",
+   "address": "2-6-4 Hiranomachi, Chuo-ku, Osaka, 541-0046, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/asador-roca"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/asador-roca",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/doshincho-washoku-zui",
+   "city_id": "osaka-jp",
+   "slug": "doshincho-washoku-zui",
+   "name": "Doshincho Washoku Zui",
+   "website": "",
+   "address": "2-4-13 Doshin, Kita-ku, Osaka, 530-0035, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/doshincho-washoku-zui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/doshincho-washoku-zui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/fujiichi",
+   "city_id": "osaka-jp",
+   "slug": "fujiichi",
+   "name": "Fujiichi",
+   "website": "",
+   "address": "2-3-9 Minamishimmachi, Chuo-ku, Osaka, 540-0024, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/fujiichi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/fujiichi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kakan",
+   "city_id": "osaka-jp",
+   "slug": "kakan",
+   "name": "KAKAN",
+   "website": "",
+   "address": "4F, 2-1-6 Tsuriganecho, Chuo-ku, Osaka, 540-0035, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kakan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kakan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kamado",
+   "city_id": "osaka-jp",
+   "slug": "kamado",
+   "name": "Kamado",
+   "website": "",
+   "address": "4-1-11 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kamado"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kamado",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kawahara",
+   "city_id": "osaka-jp",
+   "slug": "kawahara",
+   "name": "Kawahara",
+   "website": "",
+   "address": "2-4-21 Toyosaki, Kita-ku, Osaka, 531-0072, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kawahara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kawahara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kinari",
+   "city_id": "osaka-jp",
+   "slug": "kinari",
+   "name": "Kinari",
+   "website": "",
+   "address": "4-17-15 Temma, Kita-ku, Osaka, 530-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kinari"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kinari",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kirari",
+   "city_id": "osaka-jp",
+   "slug": "kirari",
+   "name": "Kirari",
+   "website": "",
+   "address": "7-1-49 Tanimachi, Chuo-ku, Osaka, 542-0012, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kirari"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kirari",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kitashinchi-fukutatei-the-ukai",
+   "city_id": "osaka-jp",
+   "slug": "kitashinchi-fukutatei-the-ukai",
+   "name": "Kitashinchi Fukutatei The UKAI",
+   "website": "",
+   "address": "B1F, 1-11-19 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-fukutatei-the-ukai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-fukutatei-the-ukai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kitashinchi-shien",
+   "city_id": "osaka-jp",
+   "slug": "kitashinchi-shien",
+   "name": "Kitashinchi Shien",
+   "website": "",
+   "address": "2F, 1-7-19 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-shien"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-shien",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kitashinchi-yumiba-shinnosuke",
+   "city_id": "osaka-jp",
+   "slug": "kitashinchi-yumiba-shinnosuke",
+   "name": "Kitashinchi Yumiba Shinnosuke",
+   "website": "",
+   "address": "7F, 1-5-21 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-yumiba-shinnosuke"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-yumiba-shinnosuke",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kurubushi",
+   "city_id": "osaka-jp",
+   "slug": "kurubushi",
+   "name": "Kurubushi",
+   "website": "",
+   "address": "4-12 Naniwacho, Kita-ku, Osaka, 530-0022, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kurubushi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kurubushi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kushikatsu-daibon",
+   "city_id": "osaka-jp",
+   "slug": "kushikatsu-daibon",
+   "name": "Kushikatsu Daibon",
+   "website": "",
+   "address": "5F, 4-7-7 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kushikatsu-daibon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kushikatsu-daibon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Kushiage",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/langolo",
+   "city_id": "osaka-jp",
+   "slug": "langolo",
+   "name": "L'angolo",
+   "website": "",
+   "address": "1-12-1 Tenjimbashi, Kita-ku, Osaka, 530-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/l-angolo-1195147"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/l-angolo-1195147",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/lacerba",
+   "city_id": "osaka-jp",
+   "slug": "lacerba",
+   "name": "LACERBA",
+   "website": "",
+   "address": "2F, Shin Daibiru, 1-2-1 Dojimahama, Kita-ku, Osaka, 530-0004, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/lacerba"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/lacerba",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/les-souvenirs",
+   "city_id": "osaka-jp",
+   "slug": "les-souvenirs",
+   "name": "LES SOUVENIRS",
+   "website": "",
+   "address": "5F, 1-2-10 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/les-souvenirs"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/les-souvenirs",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/la-kanro",
+   "city_id": "osaka-jp",
+   "slug": "la-kanro",
+   "name": "La Kanro",
+   "website": "",
+   "address": "3-9 Tenjinnishimachi, Kita-ku, Osaka, 530-0045, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-kanro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-kanro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/mato",
+   "city_id": "osaka-jp",
+   "slug": "mato",
+   "name": "MATO",
+   "website": "",
+   "address": "2F, 3-11-7 Temma, Kita-ku, Osaka, 530-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mato"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mato",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/mashino-ken",
+   "city_id": "osaka-jp",
+   "slug": "mashino-ken",
+   "name": "Mashino Ken",
+   "website": "",
+   "address": "2F, 1-3-6 Awajimachi, Chuo-ku, Osaka, 541-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mashino-ken"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mashino-ken",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/mugunfa",
+   "city_id": "osaka-jp",
+   "slug": "mugunfa",
+   "name": "Mugunfa",
+   "website": "",
+   "address": "5-16-15 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mugunfa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/mugunfa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/naniwaryori-satou",
+   "city_id": "osaka-jp",
+   "slug": "naniwaryori-satou",
+   "name": "Naniwaryori Satou",
+   "website": "",
+   "address": "1-1-11 Doshin, Kita-ku, Osaka, 530-0035, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/naniwaryori-satou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/naniwaryori-satou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/oku",
+   "city_id": "osaka-jp",
+   "slug": "oku",
+   "name": "Oku",
+   "website": "",
+   "address": "2-1-37 Katamachi, Miyakojima-ku, Osaka, 534-0025, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oku-1205448"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oku-1205448",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Unagi / Freshwater Eel",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/osteria-ottanta-sette",
+   "city_id": "osaka-jp",
+   "slug": "osteria-ottanta-sette",
+   "name": "Osteria Ottanta Sette",
+   "website": "",
+   "address": "4-1-11 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/osteria-ottanta-sette"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/osteria-ottanta-sette",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/pebble",
+   "city_id": "osaka-jp",
+   "slug": "pebble",
+   "name": "Pebble",
+   "website": "",
+   "address": "5F, 3-1-2 Temma, Kita-ku, Osaka, 530-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/pebble"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/pebble",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/shintaro",
+   "city_id": "osaka-jp",
+   "slug": "shintaro",
+   "name": "Shintaro",
+   "website": "",
+   "address": "2-5-5 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shintaro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shintaro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/shunten-shin",
+   "city_id": "osaka-jp",
+   "slug": "shunten-shin",
+   "name": "Shunten Shin",
+   "website": "",
+   "address": "3-8-10 Ueshio, Tennoji-ku, Osaka, 543-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shunten-shin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/shunten-shin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sugimachi",
+   "city_id": "osaka-jp",
+   "slug": "sugimachi",
+   "name": "Sugimachi",
+   "website": "",
+   "address": "1-6-22 Azuchimachi, Chuo-ku, Osaka, 541-0052, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sugimachi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sugimachi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sumibiyakitori-torio",
+   "city_id": "osaka-jp",
+   "slug": "sumibiyakitori-torio",
+   "name": "Sumibiyakitori Torio",
+   "website": "",
+   "address": "2-7-17 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sumibiyakitori-torio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sumibiyakitori-torio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushi-ichiei",
+   "city_id": "osaka-jp",
+   "slug": "sushi-ichiei",
+   "name": "Sushi Ichiei",
+   "website": "",
+   "address": "B1F, 1-6-10 Sennichimae, Chuo-ku, Osaka, 542-0074, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-ichiei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-ichiei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushi-kyomachibori-sato",
+   "city_id": "osaka-jp",
+   "slug": "sushi-kyomachibori-sato",
+   "name": "Sushi Kyomachibori Sato",
+   "website": "",
+   "address": "B1F, 1-8-22 Kyomachibori, Nishi-ku, Osaka, 550-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-kyomachibori-sato"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-kyomachibori-sato",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushi-marumine",
+   "city_id": "osaka-jp",
+   "slug": "sushi-marumine",
+   "name": "Sushi Marumine",
+   "website": "",
+   "address": "6-2-20 Tenjimbashi, Kita-ku, Osaka, 530-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-marumine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-marumine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushi-takumi",
+   "city_id": "osaka-jp",
+   "slug": "sushi-takumi",
+   "name": "Sushi Takumi",
+   "website": "",
+   "address": "3F, 3-1-2 Bingomachi, Chuo-ku, Osaka, 541-0051, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-takumi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-takumi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushidokoro-kurosugi-shinkan",
+   "city_id": "osaka-jp",
+   "slug": "sushidokoro-kurosugi-shinkan",
+   "name": "Sushidokoro Kurosugi Shinkan",
+   "website": "",
+   "address": "10F, 1-10-22 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushidokoro-kurosugi-shinkan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushidokoro-kurosugi-shinkan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushiroku",
+   "city_id": "osaka-jp",
+   "slug": "sushiroku",
+   "name": "Sushiroku",
+   "website": "",
+   "address": "4-12-22 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushiroku"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushiroku",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushisho-nehachi",
+   "city_id": "osaka-jp",
+   "slug": "sushisho-nehachi",
+   "name": "Sushisho Nehachi",
+   "website": "",
+   "address": "4-1-70 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushisho-nehachi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushisho-nehachi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tavernetta-da-kitayama",
+   "city_id": "osaka-jp",
+   "slug": "tavernetta-da-kitayama",
+   "name": "TAVERNETTA da KITAYAMA",
+   "website": "",
+   "address": "1-6 Ishigatsujicho, Tennoji-ku, Osaka, 543-0031, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tavernetta-da-kitayama"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tavernetta-da-kitayama",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tempura-kawaharasaki",
+   "city_id": "osaka-jp",
+   "slug": "tempura-kawaharasaki",
+   "name": "Tempura Kawaharasaki",
+   "website": "",
+   "address": "3-1-5 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tempura-kawaharasaki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tempura-kawaharasaki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/washoku-iikura",
+   "city_id": "osaka-jp",
+   "slug": "washoku-iikura",
+   "name": "Washoku Iikura",
+   "website": "",
+   "address": "3-7-20 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/washoku-iikura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/washoku-iikura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/yiwanshui",
+   "city_id": "osaka-jp",
+   "slug": "yiwanshui",
+   "name": "Yiwanshui",
+   "website": "",
+   "address": "2-6-13 Utsubohommachi, Nishi-ku, Osaka, 550-0004, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yiwanshui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yiwanshui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/il-centrino",
+   "city_id": "osaka-jp",
+   "slug": "il-centrino",
+   "name": "il Centrino",
+   "website": "",
+   "address": "1-2-2 Kawarayamachi, Chuo-ku, Osaka, 542-0066, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/il-centrino"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/il-centrino",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ku-de-kiyo",
+   "city_id": "osaka-jp",
+   "slug": "ku-de-kiyo",
+   "name": "ku:de kiyo",
+   "website": "",
+   "address": "2-16-5 Tsukamoto, Yodogawa-ku, Osaka, 532-0026, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ku-de-kiyo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ku-de-kiyo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/macua",
+   "city_id": "osaka-jp",
+   "slug": "macua",
+   "name": "macua",
+   "website": "",
+   "address": "2-2-3 Fushimimachi, Chuo-ku, Osaka, 541-0044, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/macua"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/macua",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tamanegi",
+   "city_id": "osaka-jp",
+   "slug": "tamanegi",
+   "name": "tamanegi",
+   "website": "",
+   "address": "1-20-15 Shimmachi, Nishi-ku, Osaka, 550-0013, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tamanegi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tamanegi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/xiang-hua",
+   "city_id": "osaka-jp",
+   "slug": "xiang-hua",
+   "name": "xiang hua",
+   "website": "",
+   "address": "1-13-8 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/xiang-hua"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/xiang-hua",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/optimo",
+   "city_id": "osaka-jp",
+   "slug": "optimo",
+   "name": "Óptimo",
+   "website": "",
+   "address": "2-6-6 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/optimo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/optimo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/epa",
+   "city_id": "osaka-jp",
+   "slug": "epa",
+   "name": "épa",
+   "website": "",
+   "address": "2F, 3-7-20 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/epa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/epa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushi-harasho",
+   "city_id": "osaka-jp",
+   "slug": "sushi-harasho",
+   "name": "Sushi Harasho",
+   "website": "https://sushi-harasho.jp/",
+   "address": "3-30 Uenomiyacho, Tennoji-ku, Osaka, 543-0037, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-harasho"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushi-harasho",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/teruya",
+   "city_id": "osaka-jp",
+   "slug": "teruya",
+   "name": "Teruya",
+   "website": "https://www.teruya-osaka.jp/",
+   "address": "2-1-24 Ueshio, Chuo-ku, Osaka, 542-0064, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/teruya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/teruya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ajikitcho-bumbuan",
+   "city_id": "osaka-jp",
+   "slug": "ajikitcho-bumbuan",
+   "name": "Ajikitcho Bumbuan",
+   "website": "https://bunbu-an.jp/",
+   "address": "B1F, Osaka Metro Hommachi Bldg, 3-6-4 Hommachi, Chuo-ku, Osaka, 541-0053, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ajikitcho-bumbuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ajikitcho-bumbuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ajikitcho-horieten",
+   "city_id": "osaka-jp",
+   "slug": "ajikitcho-horieten",
+   "name": "Ajikitcho Horieten",
+   "website": "https://ajikitcho.com/",
+   "address": "1-22-6 Kitahorie, Nishi-ku, Osaka, 550-0014, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ajikitcho-horieten"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ajikitcho-horieten",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/chi-fu",
+   "city_id": "osaka-jp",
+   "slug": "chi-fu",
+   "name": "Chi-Fu",
+   "website": "https://chi-fu.jp/",
+   "address": "4-4-8 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/chi-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/chi-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/difference",
+   "city_id": "osaka-jp",
+   "slug": "difference",
+   "name": "Différence",
+   "website": "https://difference.upper.jp/",
+   "address": "1-16-12 Utsubohommachi, Nishi-ku, Osaka, 550-0004, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/difference"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/difference",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/fushimimachi-kakoiyama",
+   "city_id": "osaka-jp",
+   "slug": "fushimimachi-kakoiyama",
+   "name": "Fushimimachi Kakoiyama",
+   "website": "https://kakoiyama.jp/",
+   "address": "2-4-12 Fushimimachi, Chuo-ku, Osaka, 541-0044, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/fushimimachi-kakoiyama"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/fushimimachi-kakoiyama",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ideal-bistro",
+   "city_id": "osaka-jp",
+   "slug": "ideal-bistro",
+   "name": "IDÉAL bistro",
+   "website": "https://idealfoodflower.com",
+   "address": "2F, 1-6-5 Tanimachi, Chuo-ku, Osaka, 540-0012, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ideal-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ideal-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ichiju-nisai-ueno-minoten",
+   "city_id": "osaka-jp",
+   "slug": "ichiju-nisai-ueno-minoten",
+   "name": "Ichiju Nisai Ueno Minoten",
+   "website": "https://ichijunisai-ueno.net/",
+   "address": "2-5 Minokoen, Mino, Osaka, 562-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ichiju-nisai-ueno-minoten"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ichiju-nisai-ueno-minoten",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/iroha",
+   "city_id": "osaka-jp",
+   "slug": "iroha",
+   "name": "Iroha",
+   "website": "https://kappou-iroha.com/",
+   "address": "5F, 1-3-19 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/iroha"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/iroha",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/iwaki",
+   "city_id": "osaka-jp",
+   "slug": "iwaki",
+   "name": "Iwaki",
+   "website": "https://k-iwaki.com",
+   "address": "2F, 1-6-29 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/iwaki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/iwaki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/presquile",
+   "city_id": "osaka-jp",
+   "slug": "presquile",
+   "name": "PRESQU'ÎLE",
+   "website": "https://presquile.jp/",
+   "address": "2F, Yodoyabashi odona, 4-1-1 Imabashi, Chuo-ku, Osaka, 541-0042, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/presqu%E2%80%99ile"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/presqu%E2%80%99ile",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/point",
+   "city_id": "osaka-jp",
+   "slug": "point",
+   "name": "Point",
+   "website": "https://point-accueillir.com",
+   "address": "3-12-20 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/point"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/point",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/rooots-nakanoshima",
+   "city_id": "osaka-jp",
+   "slug": "rooots-nakanoshima",
+   "name": "Rooots Nakanoshima",
+   "website": "https://roootsnakanoshima.com",
+   "address": "6-1-45 Nakanoshima, Kita-ku, Osaka, 530-0005, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/rooots-nakanoshima"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/rooots-nakanoshima",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/tosara",
+   "city_id": "osaka-jp",
+   "slug": "tosara",
+   "name": "Tosara",
+   "website": "https://tosara.jp/",
+   "address": "2-7-26 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tosara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/tosara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/a-canto",
+   "city_id": "osaka-jp",
+   "slug": "a-canto",
+   "name": "a canto",
+   "website": "https://www.a-canto.com/",
+   "address": "3-1-10 Uchikyuhojimachi, Chuo-ku, Osaka, 540-0013, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/a-canto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/a-canto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/ad-hoc",
+   "city_id": "osaka-jp",
+   "slug": "ad-hoc",
+   "name": "ad hoc",
+   "website": "https://adhoc2014.jp",
+   "address": "Hotarumachi, 1-1-48 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ad-hoc-1193091"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/ad-hoc-1193091",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/agnel-dor",
+   "city_id": "osaka-jp",
+   "slug": "agnel-dor",
+   "name": "agnel d'or",
+   "website": "https://www.agneldor.com/",
+   "address": "2-4-4 Nishihommachi, Nishi-ku, Osaka, 550-0005, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/agnel-d-or"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/agnel-d-or",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/capi",
+   "city_id": "osaka-jp",
+   "slug": "capi",
+   "name": "capi",
+   "website": "https://capi-osaka.com/",
+   "address": "6F, 1-10-2 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/capi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/capi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/n",
+   "city_id": "osaka-jp",
+   "slug": "n",
+   "name": "Ñ",
+   "website": "https://www.enye.jp/",
+   "address": "1-6-3 Azuchimachi, Chuo-ku, Osaka, 541-0052, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/n"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/n",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/az",
+   "city_id": "osaka-jp",
+   "slug": "az",
+   "name": "Az",
+   "website": "https://www.az-bifun.com/",
+   "address": "B1F, 4-4-8 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/az"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/az",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kushikatsu-gojoya",
+   "city_id": "osaka-jp",
+   "slug": "kushikatsu-gojoya",
+   "name": "Kushikatsu Gojoya",
+   "website": "https://94katu5jyoya.com/",
+   "address": "2-1-11 Uchihiranomachi, Chuo-ku, Osaka, 540-0037, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kushikatsu-gojoya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kushikatsu-gojoya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Kushiage",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sumibi-iwata",
+   "city_id": "osaka-jp",
+   "slug": "sumibi-iwata",
+   "name": "Sumibi Iwata",
+   "website": "https://sumibii-iwata.jp/",
+   "address": "3-5-8 Miyakojimanakadori, Miyakojima-ku, Osaka, 534-0022, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sumibi-iwata"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sumibi-iwata",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushitsune",
+   "city_id": "osaka-jp",
+   "slug": "sushitsune",
+   "name": "Sushitsune",
+   "website": "https://sushitsune.jp/",
+   "address": "2-4-3 Tenjimbashi, Kita-ku, Osaka, 530-0041, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushitsune"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushitsune",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/gastroteka-bimendi",
+   "city_id": "osaka-jp",
+   "slug": "gastroteka-bimendi",
+   "name": "gastroteka bimendi",
+   "website": "https://www.etxola.com/",
+   "address": "1-5-9 Utsubohommachi, Nishi-ku, Osaka, 550-0004, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/gastroteka-bimendi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/gastroteka-bimendi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/artisan",
+   "city_id": "osaka-jp",
+   "slug": "artisan",
+   "name": "Artisan",
+   "website": "https://artisan-osaka-paris.com/",
+   "address": "2F, 2-2-17 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/artisan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/artisan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/etxola",
+   "city_id": "osaka-jp",
+   "slug": "etxola",
+   "name": "ETXOLA",
+   "website": "https://www.etxola.com/",
+   "address": "1-4-2 Utsubohommachi, Nishi-ku, Osaka, 550-0004, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/etxola"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/etxola",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kitashinchi-gyosai-masashi",
+   "city_id": "osaka-jp",
+   "slug": "kitashinchi-gyosai-masashi",
+   "name": "Kitashinchi Gyosai Masashi",
+   "website": "https://masashi-kitashinchi.jp/",
+   "address": "2F, 1-5-26 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-gyosai-masashi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-gyosai-masashi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kitashinchi-kushikatsu-bon",
+   "city_id": "osaka-jp",
+   "slug": "kitashinchi-kushikatsu-bon",
+   "name": "Kitashinchi Kushikatsu Bon",
+   "website": "https://kitchen-dan.jp",
+   "address": "B1F, 1-3-16 Dojima, Kita-ku, Osaka, 530-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-kushikatsu-bon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-kushikatsu-bon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Kushiage",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/kitashinchi-okurano",
+   "city_id": "osaka-jp",
+   "slug": "kitashinchi-okurano",
+   "name": "Kitashinchi Okurano",
+   "website": "https://okurano.net",
+   "address": "3F, 1-3-23 Sonezakishinchi, Kita-ku, Osaka, 530-0002, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-okurano"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/kitashinchi-okurano",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/la-lucciola",
+   "city_id": "osaka-jp",
+   "slug": "la-lucciola",
+   "name": "La Lucciola",
+   "website": "https://lucciola.net/",
+   "address": "5-7-3 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-lucciola"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-lucciola",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/le-nez",
+   "city_id": "osaka-jp",
+   "slug": "le-nez",
+   "name": "Le Nez",
+   "website": "https://lenez-osaka.com/",
+   "address": "2F, 1-3-29 Higashishinsaibashi, Chuo-ku, Osaka, 542-0083, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/le-nez"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/le-nez",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/michino-le-tourbillon",
+   "city_id": "osaka-jp",
+   "slug": "michino-le-tourbillon",
+   "name": "Michino Le Tourbillon",
+   "website": "https://www.michino.com/",
+   "address": "6-9-11 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/michino-le-tourbillon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/michino-le-tourbillon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/oimatsu-tempura-suzuki",
+   "city_id": "osaka-jp",
+   "slug": "oimatsu-tempura-suzuki",
+   "name": "OIMATSU Tempura Suzuki",
+   "website": "https://oimatsu-tempura-suzuki.com/",
+   "address": "4-4-2 Nishitemma, Kita-ku, Osaka, 530-0047, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oimatsu-tempura-suzuki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/oimatsu-tempura-suzuki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/otsuki",
+   "city_id": "osaka-jp",
+   "slug": "otsuki",
+   "name": "Otsuki",
+   "website": "https://fukushima-otsuki.instatry.org/",
+   "address": "1-2-4 Fukushima, Fukushima-ku, Osaka, 553-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/otsuki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/otsuki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/rivi",
+   "city_id": "osaka-jp",
+   "slug": "rivi",
+   "name": "RiVi",
+   "website": "https://www.rivi1122.com",
+   "address": "1-16-28 Kyomachibori, Nishi-ku, Osaka, 550-0003, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/rivi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/rivi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sennarizushi",
+   "city_id": "osaka-jp",
+   "slug": "sennarizushi",
+   "name": "Sennarizushi",
+   "website": "https://sennarisushi.com/",
+   "address": "5-5-13 Sugahara, Higashiyodogawa-ku, Osaka, 533-0022, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sennarizushi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sennarizushi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/sushidokoro-hirokawa",
+   "city_id": "osaka-jp",
+   "slug": "sushidokoro-hirokawa",
+   "name": "Sushidokoro Hirokawa",
+   "website": "https://sushi-hirokawa.jp/",
+   "address": "1-8-39 Gamo, Joto-ku, Osaka, 536-0016, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushidokoro-hirokawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/sushidokoro-hirokawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/takeda",
+   "city_id": "osaka-jp",
+   "slug": "takeda",
+   "name": "Takeda",
+   "website": "https://www.instagram.com/tenmabashi.takeda/?hl=ja",
+   "address": "2F, 2-1-6 Tsuriganecho, Chuo-ku, Osaka, 540-0035, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/takeda-1216714"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/takeda-1216714",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/temmabashi-fujikawa",
+   "city_id": "osaka-jp",
+   "slug": "temmabashi-fujikawa",
+   "name": "Temmabashi Fujikawa",
+   "website": "https://www.te-fujikawa.com/",
+   "address": "2-2-21 Temma, Kita-ku, Osaka, 530-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/temmabashi-fujikawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/temmabashi-fujikawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/unkaku",
+   "city_id": "osaka-jp",
+   "slug": "unkaku",
+   "name": "Unkaku",
+   "website": "https://www.unkaku.jp/",
+   "address": "1-18-17 Temma, Kita-ku, Osaka, 530-0043, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/unkaku"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/unkaku"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/unkaku",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/wagyuchugokusai-kumanohanare",
+   "city_id": "osaka-jp",
+   "slug": "wagyuchugokusai-kumanohanare",
+   "name": "Wagyuchugokusai Kumanohanare",
+   "website": "https://www.qraud.com/brand-list/ichijuku/",
+   "address": "1-4-4 Dojimahama, Kita-ku, Osaka, 530-0004, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/wagyuchugokusai-kumanohanare"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/wagyuchugokusai-kumanohanare",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/yakitori-matsuoka",
+   "city_id": "osaka-jp",
+   "slug": "yakitori-matsuoka",
+   "name": "Yakitori Matsuoka",
+   "website": "https://www.yakitori-matsuoka.com/",
+   "address": "1-4-17 Tohei, Chuo-ku, Osaka, 542-0063, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yakitori-matsuoka"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/yakitori-matsuoka",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "osaka-jp/isolata",
+   "city_id": "osaka-jp",
+   "slug": "isolata",
+   "name": "isolata",
+   "website": "https://www.instagram.com/isolata_hanare/",
+   "address": "3-3-1 Fushimimachi, Chuo-ku, Osaka, 541-0044, Japan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/osaka-region/osaka/restaurant/isolata"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/osaka-region/osaka/restaurant/isolata",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  }
+ ]
+}

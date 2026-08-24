@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Bozar Restaurant",
+    "slug": "bozar-restaurant",
+    "city_id": "brussels-be",
+    "website": "https://bozarrestaurant.be/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "rue Baron Horta 3, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Barge",
+    "slug": "barge",
+    "city_id": "brussels-be",
+    "website": "https://bargerestaurant.be/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "boulevard d'Ypres 33, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Comme chez Soi",
+    "slug": "comme-chez-soi",
+    "city_id": "brussels-be",
+    "website": "https://www.commechezsoi.be/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "place Rouppe 23, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Eliane",
+    "slug": "eliane",
+    "city_id": "brussels-be",
+    "website": "https://www.elianerestaurant.be",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rue Saint-Laurent 36, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Villa in the Sky",
+    "slug": "la-villa-in-the-sky",
+    "city_id": "brussels-be",
+    "website": "https://www.lavillainthesky.be/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Avenue Louise 480, Brussels, 1050, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kline",
+    "slug": "kline",
+    "city_id": "brussels-be",
+    "website": "https://kline.brussels/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rue de Flandre 162, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Selecto",
+    "slug": "selecto",
+    "city_id": "brussels-be",
+    "website": "https://leselecto.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "rue de Flandre 95, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Strofilia",
+    "slug": "strofilia",
+    "city_id": "brussels-be",
+    "website": "https://www.strofilia.brussels/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "rue du Marché aux Porcs 11, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Au Vieux Saint Martin",
+    "slug": "au-vieux-saint-martin",
+    "city_id": "brussels-be",
+    "website": "https://auvieuxsaintmartin.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "place du Grand Sablon 38, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Aux Armes de Bruxelles",
+    "slug": "aux-armes-de-bruxelles",
+    "city_id": "brussels-be",
+    "website": "https://auxarmesdebruxelles.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "rue des Bouchers 13, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Belga Queen",
+    "slug": "belga-queen",
+    "city_id": "brussels-be",
+    "website": "https://www.belgaqueenbrussels.be",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rue du Fossé aux Loups 32, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie de la Patinoire",
+    "slug": "brasserie-de-la-patinoire",
+    "city_id": "brussels-be",
+    "website": "https://www.brasseriedelapatinoire.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "chemin du Gymnase 1, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chaga",
+    "slug": "chaga",
+    "city_id": "brussels-be",
+    "website": "https://chagarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenue Marnix 21, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ciao",
+    "slug": "ciao",
+    "city_id": "brussels-be",
+    "website": "https://www.ciao-brussels.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Place Poelaert 6, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Correspondance",
+    "slug": "correspondance",
+    "city_id": "brussels-be",
+    "website": "https://www.correspondance.brussels/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rue Picard 9, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "De l'Ogenblik",
+    "slug": "de-logenblik",
+    "city_id": "brussels-be",
+    "website": "https://ogenblik.be",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Galerie des Princes 1, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gioia",
+    "slug": "gioia",
+    "city_id": "brussels-be",
+    "website": "https://gioia.kitchen",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rue Belliard 36, Brussels, 1040, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gus",
+    "slug": "gus",
+    "city_id": "brussels-be",
+    "website": "https://www.gus-brussels.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "rue des Cultes 34, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Henri",
+    "slug": "henri",
+    "city_id": "brussels-be",
+    "website": "https://restohenri.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "rue de Flandre 113, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hispania",
+    "slug": "hispania",
+    "city_id": "brussels-be",
+    "website": "https://www.hispaniabrussels.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "rue Bodenbroek 2, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jayu",
+    "slug": "jayu",
+    "city_id": "brussels-be",
+    "website": "https://www.jayubxl.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rue de Flandre 19, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Belle Maraîchère",
+    "slug": "la-belle-maraichere",
+    "city_id": "brussels-be",
+    "website": "https://www.labellemaraichere.be",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "place Sainte-Catherine 11a, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Truffe Noire",
+    "slug": "la-truffe-noire",
+    "city_id": "brussels-be",
+    "website": "https://www.truffenoire.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "boulevard de la Cambre 12, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Les Brigittines Aux marches de la Chapelle",
+    "slug": "les-brigittines-aux-marches-de-la-chapelle",
+    "city_id": "brussels-be",
+    "website": "https://www.lesbrigittines.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "place de la Chapelle 5, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Les Petits Oignons",
+    "slug": "les-petits-oignons",
+    "city_id": "brussels-be",
+    "website": "https://www.lespetitsoignons.be",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "rue de la Régence 25, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lily's",
+    "slug": "lilys",
+    "city_id": "brussels-be",
+    "website": "https://www.lilys.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenue Emile de Mot 1, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lola",
+    "slug": "lola",
+    "city_id": "brussels-be",
+    "website": "https://www.lola-restaurant.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "place du Grand Sablon 33, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Osteria Romana",
+    "slug": "osteria-romana",
+    "city_id": "brussels-be",
+    "website": "https://www.osteriaromana.be",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenue Legrand 11, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Palais Royal by David Martin",
+    "slug": "palais-royal-by-david-martin",
+    "city_id": "brussels-be",
+    "website": "https://palaisroyal.brussels/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rue Royale 103, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Samouraï",
+    "slug": "samourai",
+    "city_id": "brussels-be",
+    "website": "https://www.samourai-bruxelles.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "avenue Louise 104, Brussels, 1050, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Taverne du Passage",
+    "slug": "taverne-du-passage",
+    "city_id": "brussels-be",
+    "website": "https://latavernedupassage.be",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Galerie de la Reine 30, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Umā",
+    "slug": "uma",
+    "city_id": "brussels-be",
+    "website": "https://uma-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rue de la Reinette 8, Brussels, 1000, Belgium",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Vismet",
+    "slug": "vismet",
+    "city_id": "brussels-be",
+    "website": "https://levismet.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "place Sainte-Catherine 23, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "le Petit bon bon",
+    "slug": "le-petit-bon-bon",
+    "city_id": "brussels-be",
+    "website": "https://lepetitbonbon.brussels/fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rue Royale 103, Brussels, 1000, Belgium",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "senzanome",
+    "slug": "senzanome",
+    "city_id": "brussels-be",
+    "website": "https://www.senzanome.be/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "place du Petit Sablon 1, Brussels, 1000, Belgium",
+    "price_tier": "$$$$"
+  }
+]

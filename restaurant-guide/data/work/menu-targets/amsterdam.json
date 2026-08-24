@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Ciel Bleu",
+    "slug": "ciel-bleu",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.cielbleu.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Ferdinand Bolstraat 333, Amsterdam, 1072 LH, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Flore",
+    "slug": "flore",
+    "city_id": "amsterdam-nl",
+    "website": "https://restaurantflore.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "Nieuwe Doelenstraat 2, Amsterdam, 1012 CP, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Restaurant 212",
+    "slug": "restaurant-212",
+    "city_id": "amsterdam-nl",
+    "website": "https://212.amsterdam/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Amstel 212, Amsterdam, 1017 AH, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Vinkeles",
+    "slug": "vinkeles",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.vinkeles.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Keizersgracht 384, Amsterdam, 1016 GB, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bistro de la Mer",
+    "slug": "bistro-de-la-mer",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.bistrodelamer.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Utrechtsestraat 57, Amsterdam, 1017 VJ, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bolenius Rembrandtpark",
+    "slug": "bolenius-rembrandtpark",
+    "city_id": "amsterdam-nl",
+    "website": "https://bolenius-rembrandtpark.nl",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Nachtwachtlaan 20B, Amsterdam, 1058 EA, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bougainville",
+    "slug": "bougainville",
+    "city_id": "amsterdam-nl",
+    "website": "https://restaurantbougainville.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Dam 27, Amsterdam, 1012 JS, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "CUE",
+    "slug": "cue",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.cue-amsterdam.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Utrechtsestraat 30A, Amsterdam, 1017 VN, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Choux",
+    "slug": "choux",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.choux.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "De Ruyterkade 128, Amsterdam, 1011 AC, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "De Juwelier",
+    "slug": "de-juwelier",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurant-dejuwelier.nl",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Utrechtsestraat 51, Amsterdam, 1017 VJ, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "De Kas",
+    "slug": "de-kas",
+    "city_id": "amsterdam-nl",
+    "website": "https://restaurantdekas.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Kamerlingh Onneslaan 3, Amsterdam, 1097 DE, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lars Amsterdam",
+    "slug": "lars-amsterdam",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.larsamsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Danzigerkade 179, Amsterdam, 1013 AP, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "MOS",
+    "slug": "mos",
+    "city_id": "amsterdam-nl",
+    "website": "https://mosamsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "IJdok 185, Amsterdam, 1013 MM, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "RIJKS®",
+    "slug": "rijks",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.rijksrestaurant.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Museumstraat 2, Amsterdam, 1071 XX, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Restaurant Showw",
+    "slug": "restaurant-showw",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantshoww.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Gelrestraat 28, Amsterdam, 1079 MZ, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ron Gastrobar",
+    "slug": "ron-gastrobar",
+    "city_id": "amsterdam-nl",
+    "website": "https://rongastrobar.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Sophialaan 55, Amsterdam, 1075 BP, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sinne",
+    "slug": "sinne",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantsinne.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ceintuurbaan 342H, Amsterdam, 1072 GP, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The White Room by Jacob Jan Boerma",
+    "slug": "the-white-room-by-jacob-jan-boerma",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantthewhiteroom.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Dam 9, Amsterdam, 1012 JS, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Wils",
+    "slug": "wils",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantwils.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Stadionplein 26, Amsterdam, 1076 CM, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yamazato",
+    "slug": "yamazato",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.okura.nl/dine-and-drink/yamazato-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ferdinand Bolstraat 333, Amsterdam, 1072 LH, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zoldering",
+    "slug": "zoldering",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.zoldering.nl/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Utrechtsestraat 141h, Amsterdam, 1017 VM, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "A-Fusion",
+    "slug": "a-fusion",
+    "city_id": "amsterdam-nl",
+    "website": "https://a-fusion.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Zeedijk 130, Amsterdam, 1012 BC, Netherlands",
+    "price_tier": "$"
+  },
+  {
+    "name": "Alba",
+    "slug": "alba",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.alba-amsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Wibautstraat 105H, Amsterdam, 1091 GL, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Auberge - cuisine française",
+    "slug": "auberge-cuisine-francaise",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.aubergeamsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Albert Cuypstraat 58, Amsterdam, 1072 CV, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie Marie",
+    "slug": "brasserie-marie",
+    "city_id": "amsterdam-nl",
+    "website": "https://marieamsterdam.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Nieuwe Doelenstraat 2, Amsterdam, 1012 AC, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fa. Pekelhaaring",
+    "slug": "fa-pekelhaaring",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.pekelhaaring.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Van Woustraat 127, Amsterdam, 1074 AH, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gitane",
+    "slug": "gitane",
+    "city_id": "amsterdam-nl",
+    "website": "https://restaurantgitane.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Jan Pieter Heijestraat 146, Amsterdam, 1054 MK, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Oriole Garden Bistro",
+    "slug": "oriole-garden-bistro",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.oriolebistro.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Oudezijds Voorburgwal 197, Amsterdam, 1012 EX, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rijsel",
+    "slug": "rijsel",
+    "city_id": "amsterdam-nl",
+    "website": "https://rijsel.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Marcusstraat 52b, Amsterdam, 1091 TK, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Scheepskameel",
+    "slug": "scheepskameel",
+    "city_id": "amsterdam-nl",
+    "website": "https://scheepskameel.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kattenburgerstraat 7, gebouw 24, Amsterdam, 1018 JA, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sea Palace",
+    "slug": "sea-palace",
+    "city_id": "amsterdam-nl",
+    "website": "https://seapalace.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Oosterdokskade 8, Amsterdam, 1011 AE, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Serre Restaurant",
+    "slug": "serre-restaurant",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.okura.nl/nl/serre",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Ferdinand Bolstraat 333, Amsterdam, 1072 LH, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Wils Bakery Café",
+    "slug": "wils-bakery-cafe",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.wilsbakerycafe.nl/wbchome",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Stadionplein 24, Amsterdam, 1076 CM, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Arca",
+    "slug": "arca",
+    "city_id": "amsterdam-nl",
+    "website": "https://arcaamsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Martelaarsgracht 5, Amsterdam, 1012 TM, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Arles",
+    "slug": "arles",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.arles-amsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Govert Flinckstraat 251, Amsterdam, 1073 BX, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "BAK",
+    "slug": "bak",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.bakrestaurant.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Van Diemenstraat 408, Amsterdam, 1013 CR, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Beulings",
+    "slug": "beulings",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.beulings.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Beulingstraat 9, Amsterdam, 1017 BA, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Boon & De Koot",
+    "slug": "boon-de-koot",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.boonendekoot.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Barentszstraat 171, Amsterdam, 1013 NM, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie van Baerle",
+    "slug": "brasserie-van-baerle",
+    "city_id": "amsterdam-nl",
+    "website": "https://brasserievanbaerle.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Van Baerlestraat 158, Amsterdam, 1071 BG, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bridges",
+    "slug": "bridges",
+    "city_id": "amsterdam-nl",
+    "website": "https://bridgesrestaurant.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "O.Z. Voorburgwal 197, Amsterdam, 1012 EX, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Café Caron",
+    "slug": "cafe-caron",
+    "city_id": "amsterdam-nl",
+    "website": "https://cafecaron.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Frans Halsstraat 28, Amsterdam, 1072 BS, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "De Mark",
+    "slug": "de-mark",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantdemark.com/nl",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Durgerdammerdijk 73, Amsterdam, 1026 CB, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "De Silveren Spiegel",
+    "slug": "de-silveren-spiegel",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.desilverenspiegel.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kattengat 4, Amsterdam, 1012 SZ, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Domenica",
+    "slug": "domenica",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantdomenica.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Noordermarkt 7, Amsterdam, 1015 MV, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "EN",
+    "slug": "en",
+    "city_id": "amsterdam-nl",
+    "website": "https://en-amsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dusartstraat 53H, Amsterdam, 1072 HP, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Eeuwen",
+    "slug": "eeuwen",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.rosewoodhotels.com/en/amsterdam/dining/eeuwen",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prinsengracht 432, Amsterdam, 1017 KE, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Gebr. Hartering",
+    "slug": "gebr-hartering",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.gebr-hartering.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Peperstraat 10hs, Amsterdam, 1011 TL, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Het Bosch",
+    "slug": "het-bosch",
+    "city_id": "amsterdam-nl",
+    "website": "https://hetbosch.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jollenpad 10, Amsterdam, 1081 KC, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kaagman & Kortekaas",
+    "slug": "kaagman-kortekaas",
+    "city_id": "amsterdam-nl",
+    "website": "https://kaagmanenkortekaas.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sint Nicolaasstraat 43, Amsterdam, 1012 NJ, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lastage",
+    "slug": "lastage",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantlastage.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Geldersekade 29, Amsterdam, 1011 EJ, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lazuur",
+    "slug": "lazuur",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantlazuur.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Purmerplein 8, Amsterdam, 1023 BD, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mont Blanc",
+    "slug": "mont-blanc",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantmontblanc.nl",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Govert Flinckstraat 308, Amsterdam, 1073 CJ, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nazka",
+    "slug": "nazka",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.nazka.nu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Van Ostadestraat 352, Amsterdam, 1073 TZ, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "R21",
+    "slug": "r21",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.r21.amsterdam",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Peperstraat 23, Amsterdam, 1011 TJ, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Roux",
+    "slug": "roux",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantroux.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Westerstraat 132H, Amsterdam, 1015 MP, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Senses",
+    "slug": "senses",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.sensesrestaurant.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Vijzelstraat 45, Amsterdam, 1017 HE, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sinck",
+    "slug": "sinck",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.sinckamsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prinsengracht 422, Amsterdam, 1016 JC, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "THE DUCHESS",
+    "slug": "the-duchess",
+    "city_id": "amsterdam-nl",
+    "website": "https://the-duchess.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Spuistraat 172, Amsterdam, 1012 VT, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tannay",
+    "slug": "tannay",
+    "city_id": "amsterdam-nl",
+    "website": "https://tannay.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Zandhoek 14, Amsterdam, 1013 KT, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Testamatta Ristorante Enoteca",
+    "slug": "testamatta-ristorante-enoteca",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.testamatta.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Overtoom 125H, Amsterdam, 1054 HE, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Toet Amsterdam",
+    "slug": "toet-amsterdam",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.toetamsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Europaplein 67, Amsterdam, 1078 GW, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Troef",
+    "slug": "troef",
+    "city_id": "amsterdam-nl",
+    "website": "https://troefamsterdam.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Schollenbrugstraat 8, Amsterdam, 1091 EX, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "VanOost",
+    "slug": "vanoost",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.vanoostrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mauritskade 61, Amsterdam, 1092 AD, Netherlands",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Veneur",
+    "slug": "veneur",
+    "city_id": "amsterdam-nl",
+    "website": "https://veneur.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Weteringschans 171, Amsterdam, 1017 XD, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Vermeer",
+    "slug": "vermeer",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.restaurantvermeer.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prins Hendrikkade 59, Amsterdam, 1012 AD, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Visaandeschelde",
+    "slug": "visaandeschelde",
+    "city_id": "amsterdam-nl",
+    "website": "https://visaandeschelde.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Scheldeplein 4, Amsterdam, 1078 GR, Netherlands",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Watergang",
+    "slug": "watergang",
+    "city_id": "amsterdam-nl",
+    "website": "https://restaurantwatergang.nl/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Weteringstraat 41, Amsterdam, 1017 SM, Netherlands",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Wolf Atelier",
+    "slug": "wolf-atelier",
+    "city_id": "amsterdam-nl",
+    "website": "https://www.wolfatelier.nl/nl",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Westerdoksplein 20, Amsterdam, 1013 AZ, Netherlands",
+    "price_tier": "$$$"
+  }
+]

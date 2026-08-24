@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Imperial Treasure Fine Chinese Cuisine",
+    "slug": "imperial-treasure-fine-chinese-cuisine",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.imperialtreasure.com.cn/china",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "L514B, 5F, IGC Mall, 222 Xingmin Road, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jiang by Chef Fei",
+    "slug": "jiang-by-chef-fei",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.mandarinoriental.com/en/guangzhou/tianhe/dine/jiang-by-chef-fei",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "3F, Mandarin Oriental Hotel, 389 Tianhe Road, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Taian Table",
+    "slug": "taian-table",
+    "city_id": "guangzhou-cn",
+    "website": "https://gz.taian-table.cn/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "2F, LN Garden Hotel, 368 Huanshi East Road, Yuexiu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "BingSheng Mansion (Xiancun Road)",
+    "slug": "bingsheng-mansion-xiancun-road",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.bingsheng.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5F, Shoufu Mansion, 2 Xiancun Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "BingSheng Private Kitchen (Tianhe East Road)",
+    "slug": "bingsheng-private-kitchen-tianhe-east-road",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.bingsheng.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "178 Tianhe East Road, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chōwa",
+    "slug": "chowa",
+    "city_id": "guangzhou-cn",
+    "website": "https://zhenhe.ja8.zhutuiwang.com/unishop",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Shop C04-1, South Gate, The Canton Place, 46 Haifeng Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hongtu Hall",
+    "slug": "hongtu-hall",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.whiteswanhotel.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, White Swan Hotel, 1 Shamian South Street, Liwan, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Imperial Treasure Fine Teochew Cuisine",
+    "slug": "imperial-treasure-fine-teochew-cuisine",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.imperialtreasure.com.cn/china/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "L307, 3F, Taikoo Hui, 383 Tianhe Road, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jade River",
+    "slug": "jade-river",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.whiteswanhotel.com/en/dining/jade-river",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, White Swan Hotel, 1 Shamian South Street, Liwan, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lai Heen",
+    "slug": "lai-heen",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.ritzcarlton.com/en/hotels/canrz-the-ritz-carlton-guangzhou/dining/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, The Ritz-Carlton Hotel, 3 Xing An Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lei Garden (Yuexiu)",
+    "slug": "lei-garden-yuexiu",
+    "city_id": "guangzhou-cn",
+    "website": "https://leigarden.hk/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4F, Yi An Plaza, 33 Jianshe Sixth Road, Yuexiu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lingnan House",
+    "slug": "lingnan-house",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.rosewoodhotels.com/en/guangzhou/dining/lingnan-house",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5F, Rosewood Hotel, 6 Zhujiang East Road, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Stiller",
+    "slug": "stiller",
+    "city_id": "guangzhou-cn",
+    "website": "https://gz.stiller.cn",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, LN Garden Hotel, 368 Huanshi East Road, Yuexiu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Wisca (Haizhu)",
+    "slug": "wisca-haizhu",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.wisca.cn/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "172 Binjiang West Road, Haizhu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Yu Yue Heen",
+    "slug": "yu-yue-heen",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.fourseasons.com/guangzhou/dining/restaurants/yu_yue_heen",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, Four Seasons Hotel, 5 Zhujiang West Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ze 8 (Haizhu)",
+    "slug": "ze-8-haizhu",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.wisca.cn/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "174 Binjiang West Road, Haizhu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aroma",
+    "slug": "aroma",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.hilton.com/en/hotels/canxwci-conrad-guangzhou/dining",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, Conrad Hotel, 222 Xingmin Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Beiyuan Cuisine",
+    "slug": "beiyuan-cuisine",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.beiyuancuisine.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "202 Xiaobei Road, Yuexiu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Catch",
+    "slug": "catch",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.fourseasons.com/guangzhou/dining/restaurants/catch/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "100F, Four Seasons Hotel, 5 Zhujiang West Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Deli Boutique・Uncle De Abalone",
+    "slug": "deli-boutiqueuncle-de-abalone",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.deshubaoyu.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "909 Xingye Avenue, Nancun Town, Panyu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dr. Xu's Wellbeing Branch (Tianhe)",
+    "slug": "dr-xus-wellbeing-branch-tianhe",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.nanhaiyucun.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7F, Concord Center, 57 Linjiang Avenue, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Emmelyn",
+    "slug": "emmelyn",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.clubemmelyn.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Unit 101, Kingold Century, 62 Jinsui Road, Zhujiang New Town, Tianhe, Guangzhou, 510000, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ersha No.1",
+    "slug": "ersha-no-1",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.nanhaiyucun.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, Man Lap Fong, 9 Qingbo Road, Ersha Island, Yuexiu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Famous Cuisine (Tianhe North Road)",
+    "slug": "famous-cuisine-tianhe-north-road",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.hl-bandao.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2-3F, China Mayors Plaza, 189 Tianhe North Road, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Flavors of China",
+    "slug": "flavors-of-china",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.whiteswanhotel.com/en/dining/flavors-china",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, White Swan Hotel, 1 Shamian South Street, Liwan, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Summer Palace",
+    "slug": "summer-palace",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.shangri-la.com/guangzhou/shangrila/dining/restaurants/summer-palace/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Shangri-La Hotel, 1 Huizhan East Road, Haizhu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Legend",
+    "slug": "the-legend",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.star-river.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Star River Bay Center, 168 Pazhou Avenue, Haizhu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Peach Blossom (Yuexiu)",
+    "slug": "the-peach-blossom-yuexiu",
+    "city_id": "guangzhou-cn",
+    "website": "https://gardenhotel.com/tyg",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, LN Garden Hotel, 368 Huanshi East Road, Yuexiu, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Penthouse",
+    "slug": "the-penthouse",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.hyatt.com/en-US/hotel/china/grand-hyatt-guangzhou/guagh/dining",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "23 & 25F, South Tower, Grand Hyatt Hotel, 12 Zhujiang West Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Wenjian Hainan Cuisine",
+    "slug": "wenjian-hainan-cuisine",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.hainan-wenjian.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shop 502, 5F, K11 Art Mall, 6 Zhujiang East Road, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Yue Jing Xuan",
+    "slug": "yue-jing-xuan",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.hyatt.com/park-hyatt/en-US/guaph-park-hyatt-guangzhou/dining/yue-jing-xuan",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "68F, Park Hyatt, 16 Huaxia Road, Zhujiang New Town, Tianhe, Guangzhou, 510623, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yun Pavilion",
+    "slug": "yun-pavilion",
+    "city_id": "guangzhou-cn",
+    "website": "https://www.hilton.com/en/hotels/canxwci-conrad-guangzhou/dining/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, Conrad Hotel, 222 Xingmin Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+    "price_tier": "$$$"
+  }
+]

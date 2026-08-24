@@ -1,0 +1,798 @@
+[
+  {
+    "slug": "zasu",
+    "menu_url": "https://zasunola.com/menus",
+    "picks": [
+      {
+        "name": "Endive & Radicchio",
+        "description": "toasted walnuts, LA citrus, goat cheese buttermilk dressing",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "walnuts, goat cheese, and buttermilk"
+      },
+      {
+        "name": "Little Gem Lettuces & Asian Pear",
+        "description": "carrots, puffed quinoa, sesame, herbs, jalapeno-lime vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "sesame"
+      },
+      {
+        "name": "Basil & Ricotta Tortellini",
+        "description": "english peas, trumpet mushrooms, parmesan broth",
+        "course": "main",
+        "kind": "main",
+        "hold": "ricotta, peas, and parmesan"
+      },
+      {
+        "name": "Pimento Cheese & Potato Pierogies",
+        "description": "turnip greens, charred scallion crème fraîche",
+        "course": "main",
+        "kind": "main",
+        "hold": "pimento cheese and crème fraîche"
+      }
+    ]
+  },
+  {
+    "slug": "acamaya",
+    "menu_url": "https://www.acamayanola.com/menus/",
+    "picks": [
+      {
+        "name": "HEIRLOOM TOMATO SALAD",
+        "description": "guajillo • chapulines vinaigrette • scallion",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "chapulines"
+      },
+      {
+        "name": "CHARRED OKRA",
+        "description": "poppyseed sikil p’aak • oregano • bottarga",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "sikil p’aak and bottarga",
+        "note": "Sikil p’aak is pumpkin seed."
+      },
+      {
+        "name": "SWEET POTATO",
+        "description": "peanut mole • turmeric • lime",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "peanut"
+      },
+      {
+        "name": "AYOCOTE BEANS",
+        "description": "crema • queso fresco",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "ayocote beans, crema, and queso fresco"
+      }
+    ]
+  },
+  {
+    "slug": "cochon",
+    "menu_url": "https://cochonrestaurant.com/menus/lunch-and-dinner/",
+    "picks": [
+      {
+        "name": "cucumbers & herbs in vinegar",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "salad greens w/jalapeno ranch & buttered croutons",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "macaroni & cheese casserole",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "creamy grits",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "cochon-butcher",
+    "menu_url": "https://cochonbutcher.com/wp-content/uploads/2026/06/Butcher-FOOD-Menu-6.1.26.pdf",
+    "picks": [
+      {
+        "name": "mac & cheese",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Potato Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Marinated Brussels Sprouts",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "House Chips",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Cole Slaw",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Bavarian style pretzel w/ wholegrain mustard",
+        "description": "Baked fresh daily & served until sold out",
+        "course": "starter",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "lufu-nola",
+    "menu_url": "https://cbd.lufunola.com/new-orleans-lufu-nola-food-menu",
+    "picks": [
+      {
+        "name": "Peri Peri Crispy Gobi (VG, G)",
+        "description": "Cauliflower, peri-peri, and beet-coconut chutney.",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Sabudana Vada",
+        "description": "Tapioca pearl, mashed potatoes, peanuts",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "peanuts"
+      },
+      {
+        "name": "Pani Poori (VG, G)",
+        "description": "Crisp semolina water bomb, white peas, and tamarind & mint water.",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "white peas"
+      },
+      {
+        "name": "Tandoori Anañas (VG)",
+        "description": "Pineapple, black salt, and dried mango powder.",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Tandoori Paneer Tikka",
+        "description": "Paneer, Garam masala",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "paneer"
+      },
+      {
+        "name": "Kadhai Paneer (V, N)",
+        "description": "Cottage-cheese, coriander, and ginger",
+        "course": "main",
+        "kind": "main",
+        "hold": "paneer and nuts"
+      },
+      {
+        "name": "Daal Makhni (V)",
+        "description": "Black lentils, tomato, and ghee.",
+        "course": "main",
+        "kind": "main",
+        "hold": "lentils and ghee"
+      },
+      {
+        "name": "Daal Tadka",
+        "description": "Yellow lentils, mustard seeds, curry leaves",
+        "course": "main",
+        "kind": "main",
+        "hold": "lentils"
+      },
+      {
+        "name": "Chole Bhature (VG, G)",
+        "description": "Garbanzo beans, chai leaf, chole masala, and puffed bread.",
+        "course": "main",
+        "kind": "main",
+        "hold": "garbanzo beans"
+      },
+      {
+        "name": "Palak Paneer",
+        "description": "Paneer, Garam masala, OTM",
+        "course": "main",
+        "kind": "main",
+        "hold": "paneer"
+      },
+      {
+        "name": "Bhindi Masala (V)",
+        "description": "Okra, garam masala, OTM",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Jackfruit Biryani",
+        "description": "Basmati rice, green jackfruit, birista",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Masala Dosa (VG)",
+        "description": "Comes with coconut chutney and sambar",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Aloo Tikki Naanwich (V, G)",
+        "description": "Potato cake, naan, and mint chutney.",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Vada Pav (VG, N, G)",
+        "description": "Fried potato dumplings, dinner rolls, and sukhi chutney.",
+        "course": "main",
+        "kind": "main",
+        "hold": "nuts"
+      }
+    ]
+  },
+  {
+    "slug": "mister-mao",
+    "menu_url": "https://mistermaonola.com/pages/dinner",
+    "picks": [
+      {
+        "name": "PANI PURI",
+        "description": "turmeric potato masala, pomegranate, tamarind chutney, fiery mint water",
+        "course": "starter",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "CAULIFLOWER BHAJI",
+        "description": "chickpea fritter, onion, leek, cumin, tamarind, hot chili cream",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "chickpea and cream"
+      },
+      {
+        "name": "GINGER SALAD",
+        "description": "peanut, chickpea, cabbage, serrano, tamarind, date",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "peanut and chickpea"
+      },
+      {
+        "name": "ESQUITES RISOTTO",
+        "description": "Florida corn, feta, Chile arbol, cilantro pepita pesto",
+        "course": "main",
+        "kind": "main",
+        "hold": "feta and pepita"
+      }
+    ]
+  },
+  {
+    "slug": "parkway-bakery-tavern",
+    "menu_url": "https://parkwaypoorboys.com/new-orleans-parkway-bakery-and-tavern-food-menu",
+    "picks": [
+      {
+        "name": "Beyond Burger",
+        "description": "Creole seasoned and charbroiled to order this burger is vegetarian and vegan friendly",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Italian Caprese",
+        "description": "Ripened Tomatoes, fresh Mozzarella and basil topped with salt,pepper and a balsamic reduction",
+        "course": "main",
+        "kind": "main",
+        "hold": "mozzarella"
+      },
+      {
+        "name": "Golden Grilled Cheese",
+        "description": "Flat grilled to buttery perfection with plenty of cheese options to choose from.",
+        "course": "main",
+        "kind": "main",
+        "hold": "cheese"
+      },
+      {
+        "name": "Sweet Potato Fries",
+        "description": "Our thin cut spuds are sweet and crispy",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "French Fries",
+        "description": "Our signature fries",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Fried Pickles",
+        "description": "Deep in the beautiful south, dip these in some remoulade sauce and let the good times roll",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Homemade Potato Salad",
+        "description": "Fresh red new potatoes cooked down and seasoned with celery, green onion, creole seasoning, and eggs all mixed together with Blue Plate Mayo.",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "eggs and mayo",
+        "note": "Mayonnaise is egg."
+      },
+      {
+        "name": "Coleslaw",
+        "description": "House-made, crisp, sweet and tangy with a hint of green onion",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "turkey-and-the-wolf",
+    "menu_url": "https://cdn.shopify.com/s/files/1/0839/9971/9716/files/TURKEY_AND_THE_WOLF_ONLINE_MENU2025.pdf?v=1750800941",
+    "picks": [
+      {
+        "name": "vegan chik’n sandwich",
+        "description": "incogmeato chick’n tenders, vegan honey mustard, shrettuce, red onion, dill, hot sauce and pickles on a dank weiss guys roll",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "collard green melt",
+        "description": "slow cooked collards, swiss cheese, pickled cherry pepper dressing, and cole slaw on toasted rye",
+        "course": "main",
+        "kind": "main",
+        "hold": "swiss"
+      },
+      {
+        "name": "crinkle cut fries",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "cabbage salad",
+        "description": "roasted chili and coconut vinaigrette, lime and herbs for days, sunflower seeds, fried garlic, pig ear cracklin",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "sunflower seeds and pig ear"
+      }
+    ]
+  },
+  {
+    "slug": "addis-nola",
+    "menu_url": "https://www.addisnola.com/menu",
+    "picks": [
+      {
+        "name": "Sambusa",
+        "description": "Two hand pies with lentils, collard greens, or beef.",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "lentils"
+      },
+      {
+        "name": "Ethiopian Salad",
+        "description": "Romaine, tomato, onion, and lemon vinaigrette, with optional chicken, fish, or shrimpfish.",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Veggie Combo",
+        "description": "Red lentils, yellow split peas, collard greens, cabbage, beets, green lentils.",
+        "course": "main",
+        "kind": "main",
+        "hold": "lentils and split peas"
+      }
+    ]
+  },
+  {
+    "slug": "killer-poboys",
+    "menu_url": "https://www.killerpoboys.com/big-killer-menu",
+    "picks": [
+      {
+        "name": "Roasted Sweet Potato",
+        "description": "Spiced Roasted Sweet Potato with Braised Collard Greens, Black Eyed Pea and Pecan Spread",
+        "course": "main",
+        "kind": "main",
+        "hold": "black eyed pea and pecan"
+      },
+      {
+        "name": "Roasted Cauliflower",
+        "description": "Roasted Cauliflower with Pickled Radish, Avocado, Dried Kale, Romesco Sauce. Can also be made on Whole Grain Bread",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Pecan Butter & Jelly",
+        "description": "House Made Pecan Butter with Today's Fruit Jelly. Spice it up a little by substituting our locally made Pepper Jelly. Served on Toasted Whole Grain Bread",
+        "course": "main",
+        "kind": "main",
+        "hold": "pecan"
+      },
+      {
+        "name": "Whiskey Grilled Cheese",
+        "description": "Aged Cheddar Misted with Irish Whiskey on Griddled Whole Grain Bread",
+        "course": "main",
+        "kind": "main",
+        "hold": "cheddar"
+      },
+      {
+        "name": "Thai BBQ Tofu",
+        "description": "Locally Made Tofu Marinated in a Thai BBQ Sauce served with Lemongrass and Thai Chili Mirliton Slaw, Spiced Peanuts and Coconut",
+        "course": "main",
+        "kind": "main",
+        "hold": "tofu and peanuts"
+      },
+      {
+        "name": "Spinach Salad",
+        "description": "Fresh Baby Spinach with Red Onion, Pickled Radish, Pecans, Sherry Dijon Vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pecans"
+      },
+      {
+        "name": "Smothered Greens",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Spicy Potato Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Side Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "la-petite-grocery",
+    "menu_url": "https://www.lapetitegrocery.com/menus",
+    "picks": [
+      {
+        "name": "Ricotta Dumplings",
+        "description": "hen of the woods & grana padano",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ricotta and grana padano"
+      },
+      {
+        "name": "Local Green Salad",
+        "description": "chilled roasted beets, crème fraîche dressing & breadcrumbs",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "crème fraîche"
+      },
+      {
+        "name": "Roasted Broccoli",
+        "description": "chili flakes & bagna cauda",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Baked Macaroni",
+        "description": "pecorino pepato & cornbread crumbs",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pecorino"
+      },
+      {
+        "name": "Pickle Jar",
+        "description": "daily assortment",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Stone Ground Grits",
+        "description": "butter, sea salt & chives",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "butter"
+      },
+      {
+        "name": "Hand Cut Fries",
+        "description": "sea salt, chives & dijonnaise",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "dijonnaise",
+        "note": "Dijonnaise is usually egg."
+      }
+    ]
+  },
+  {
+    "slug": "mollys-rise-shine",
+    "menu_url": "https://mollysriseandshine.com/menu",
+    "picks": [
+      {
+        "name": "ROASTED CARROT YOGURT",
+        "description": "nini’s granola, berries, other fun stuff, carrot marmalade, lemon zest, mint",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "yogurt and granola"
+      },
+      {
+        "name": "TAMALES",
+        "description": "two tamales stuffed with the ingredients and flavors of the moment, served with morita salsa on the side. vegan and gluten free",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "MOLLY'S CAESAR SALAD",
+        "description": "romaine, parm showers, red onion, creamy anchovy dressing, lemon, hot dog bun croutons",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parm and anchovy",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "CRISPY RICE SALAD",
+        "description": "thai night+market style salad of crispy rice, cucumbers, onions, peanuts, cilantro, and jalapenos in a roasted chile/tamarind/lime vinaigrette, served with a dollop of yogurt and a roti scallion pancake",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "peanuts and yogurt"
+      },
+      {
+        "name": "GRITS",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "FRIED HASH BROWNS",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "COLLARD GREENS",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "BUTTERMILK BISCUIT w/ BUTTER AND JAM",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "butter"
+      }
+    ]
+  },
+  {
+    "slug": "patois",
+    "menu_url": "https://patoisnola.com/new-orleans-uptown-patois-food-menu",
+    "picks": [
+      {
+        "name": "Garden Greens",
+        "description": "Fine herbs, vadouvan almonds, farmers’ cheese, banyuls vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "almonds and farmers’ cheese"
+      },
+      {
+        "name": "Creole Tomato Salad",
+        "description": "Summer squash, burrata, basil, croutons, roasted vidalia onion vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "burrata"
+      },
+      {
+        "name": "Eggplant Parmesan",
+        "description": "Mozzarella cheese, basil pistou, spaghetti squash",
+        "course": "main",
+        "kind": "main",
+        "hold": "mozzarella"
+      },
+      {
+        "name": "Grilled Broccoli",
+        "description": "Black garlic whipped goat cheese, salsa matcha, fried tortilla strips, lime, mint, cilantro",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "goat cheese"
+      },
+      {
+        "name": "Fries",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Grits",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Hash Browns",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "saffron-nola",
+    "menu_url": "https://www.saffronnola.com/_files/ugd/f286e9_dbc7338130a44201929a3da1c64e5495.pdf",
+    "picks": [
+      {
+        "name": "PAPDI BHALLA CHAAT",
+        "description": "lentil dumplings, yogurt, mint + tamarind-date chutney",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "lentil and yogurt"
+      },
+      {
+        "name": "PANI PURI potato + garbanzo",
+        "description": "semolina puff, potato + garbanzo",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "garbanzo"
+      },
+      {
+        "name": "WOK GOBI",
+        "description": "cauliflower, green chili, aachari aioli",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "aioli",
+        "note": "Aïoli is egg."
+      },
+      {
+        "name": "PUDHA Paneer",
+        "description": "lentil pancake, tamarind + mint chutney, Paneer",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "lentil and paneer"
+      },
+      {
+        "name": "CREOLE TOMATO SALAD",
+        "description": "mango, tamarind, kashmiri, parmesan tuille",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan"
+      },
+      {
+        "name": "COMPRESSED WATERMELON SALAD",
+        "description": "paneer, pickled fennel, herb vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "paneer"
+      },
+      {
+        "name": "CORN KORMA",
+        "description": "",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "ROYAL PANEER",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "paneer"
+      },
+      {
+        "name": "EGGPLANT HYDERABAD",
+        "description": "contains peanuts",
+        "course": "main",
+        "kind": "main",
+        "hold": "peanuts"
+      },
+      {
+        "name": "MAKHNI DAAL",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "lentils"
+      }
+    ]
+  },
+  {
+    "slug": "willie-maes-nola",
+    "menu_url": "https://williemaesnola.com/s/WillieMaesNOLA-Everyday-Menu.pdf",
+    "picks": [
+      {
+        "name": "HOUSE SALAD",
+        "description": "Tender Lettuce, Heirloom Cherry Tomato. Cucumber, Pickled Red Onions, Cornbread Croutons, House Vinaigrette.",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "CAESAR SALAD",
+        "description": "Crispy Romaine, Cornbread Croutons, Shaved Parmesan, and Housemade Caesar Dressing.",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan",
+        "note": "Caesar is usually egg and anchovy."
+      },
+      {
+        "name": "BUFFALO CAULIFLOWER",
+        "description": "Fried Battered Cauliflower, Housemade Ranch, Cucumber, Buffalo Sauce. (Vegetarian)",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "Red Beans and Rice (V)",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "red beans"
+      },
+      {
+        "name": "Butter Beans and Rice (V)",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "butter beans"
+      },
+      {
+        "name": "Fried Okra",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mac n Cheese",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Candied yams",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Creole Potato Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Sweet Potato Fries",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Green beans (V)(GF)",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Cabbage (V)(GF)",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Potato Wedges",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  }
+]

@@ -1,0 +1,944 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "macau-mo",
+ "restaurant_count": 24,
+ "restaurants": [
+  {
+   "restaurant_id": "macau-mo/chan-seng-kei",
+   "city_id": "macau-mo",
+   "slug": "chan-seng-kei",
+   "name": "Chan Seng Kei",
+   "website": "",
+   "address": "21 Rua Caetano, Coloane, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/chan-seng-kei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/chan-seng-kei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/cheong-kei",
+   "city_id": "macau-mo",
+   "slug": "cheong-kei",
+   "name": "Cheong Kei",
+   "website": "",
+   "address": "68 Rua de Felicidade, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/cheong-kei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/cheong-kei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/din-tai-fung-cod",
+   "city_id": "macau-mo",
+   "slug": "din-tai-fung-cod",
+   "name": "Din Tai Fung (COD)",
+   "website": "",
+   "address": "SOHO, 2F, City of Dreams, Estrada do Istmo, Cotai, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/din-tai-fung-cod"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/din-tai-fung-cod",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/kapok",
+   "city_id": "macau-mo",
+   "slug": "kapok",
+   "name": "Kapok",
+   "website": "",
+   "address": "60 Rua de Hong Chau, Taipa, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/kapok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/kapok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/lok-kei-noodles-patane",
+   "city_id": "macau-mo",
+   "slug": "lok-kei-noodles-patane",
+   "name": "Lok Kei Noodles (Patane)",
+   "website": "",
+   "address": "1-D Travessa da Saudade, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/luk-kei-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/luk-kei-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles and Congee",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/lou-kei",
+   "city_id": "macau-mo",
+   "slug": "lou-kei",
+   "name": "Lou Kei",
+   "website": "",
+   "address": "Shop H&M, GF, Vang Kei Building, 12 Avenida Da Concõrdia N, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/lou-kei-fai-chi-kei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/lou-kei-fai-chi-kei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/nok-song",
+   "city_id": "macau-mo",
+   "slug": "nok-song",
+   "name": "Nok Song",
+   "website": "",
+   "address": "Shop B&C, GF, Keng Fong Hou Teng, 319 Avenida do Dr. Rodrigo Rodrigues, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/nok-song"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/nok-song",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/o-castico-taipa",
+   "city_id": "macau-mo",
+   "slug": "o-castico-taipa",
+   "name": "O Castiço (Taipa)",
+   "website": "",
+   "address": "65B Rua Direita Carlos Eugénio, Taipa, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/o-castico"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/o-castico",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Portuguese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/son-tak-kong",
+   "city_id": "macau-mo",
+   "slug": "son-tak-kong",
+   "name": "Son Tak Kong",
+   "website": "",
+   "address": "106A Rua do Mercadores, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/son-tak-kong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/son-tak-kong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shun Tak",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/fong-kei",
+   "city_id": "macau-mo",
+   "slug": "fong-kei",
+   "name": "Fong Kei",
+   "website": "",
+   "address": "14 Rua do Cunha, Taipa, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/fong-kei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/fong-kei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/kika",
+   "city_id": "macau-mo",
+   "slug": "kika",
+   "name": "Kika",
+   "website": "",
+   "address": "GF, 11A Travessa da Sé, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/kika"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/kika",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/lord-stows-bakery-rua-do-tassara",
+   "city_id": "macau-mo",
+   "slug": "lord-stows-bakery-rua-do-tassara",
+   "name": "Lord Stow's Bakery (Rua do Tassara)",
+   "website": "",
+   "address": "1 Rua do Tassara, Coloane Town Square, Coloane, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/lord-stow-s-bakery-rua-do-tassara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/lord-stow-s-bakery-rua-do-tassara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/lun-kee-rice-roll",
+   "city_id": "macau-mo",
+   "slug": "lun-kee-rice-roll",
+   "name": "Lun Kee Rice Roll",
+   "website": "",
+   "address": "26 Rua Do Tarrafeiro, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/lun-kee-rice-roll"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/lun-kee-rice-roll",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/manuel-cozinha-portuguesa",
+   "city_id": "macau-mo",
+   "slug": "manuel-cozinha-portuguesa",
+   "name": "Manuel Cozinha Portuguesa",
+   "website": "",
+   "address": "90 Rua de Femão Mendes Pinto, Taipa, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/manuel-cozinha-portuguesa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/manuel-cozinha-portuguesa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Portuguese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "macau-mo/mok-yee-kei",
+   "city_id": "macau-mo",
+   "slug": "mok-yee-kei",
+   "name": "Mok Yee Kei",
+   "website": "",
+   "address": "9 Rua do Cunha, Taipa, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/mok-yee-kei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/mok-yee-kei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/ngao-kei-ka-lei-chon-1-rua-de-cinco-de-outubro",
+   "city_id": "macau-mo",
+   "slug": "ngao-kei-ka-lei-chon-1-rua-de-cinco-de-outubro",
+   "name": "Ngao Kei Ka Lei Chon (1 Rua de Cinco de Outubro)",
+   "website": "",
+   "address": "GF, 1 Rua de Cinco de Outubro, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/ngao-kei-ka-lei-chon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/ngao-kei-ka-lei-chon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles and Congee",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/twelve25",
+   "city_id": "macau-mo",
+   "slug": "twelve25",
+   "name": "Twelve25",
+   "website": "",
+   "address": "Shop A-F, GF, Praia Peninsula, Rua Um de Fái Chi Kei, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/twelve25"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/twelve25",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "macau-mo/unique",
+   "city_id": "macau-mo",
+   "slug": "unique",
+   "name": "Unique",
+   "website": "",
+   "address": "60 Rua de Fernão Mendes Pinto, Taipa, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/unique-1240825"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/unique-1240825",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/ving-kei-macau",
+   "city_id": "macau-mo",
+   "slug": "ving-kei-macau",
+   "name": "Ving Kei (Macau)",
+   "website": "",
+   "address": "GF, 47 Rua da Tercena, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/ving-kei-macau"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/ving-kei-macau",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/yi-shun-macau",
+   "city_id": "macau-mo",
+   "slug": "yi-shun-macau",
+   "name": "Yi Shun (Macau)",
+   "website": "",
+   "address": "381 Avenida de Almeida Ribeiro, Macau, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/yi-shun-macau"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/yi-shun-macau",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "macau-mo/8-1-2-otto-e-mezzo-bombana",
+   "city_id": "macau-mo",
+   "slug": "8-1-2-otto-e-mezzo-bombana",
+   "name": "8 1/2 Otto e Mezzo - Bombana",
+   "website": "https://www.ottoemezzobombana.com/",
+   "address": "Shop 1031, 1F, The Promenade, Galaxy, Avenida de Cotai, Cotai, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/8-1-2-otto-e-mezzo-bombana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/8-1-2-otto-e-mezzo-bombana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "macau-mo/lai-heen",
+   "city_id": "macau-mo",
+   "slug": "lai-heen",
+   "name": "Lai Heen",
+   "website": "https://www.laiheenmacau.com",
+   "address": "51F, The Ritz-Carlton, Galaxy, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/lai-heen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/lai-heen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "macau-mo/sushi-kissho-by-miyakawa",
+   "city_id": "macau-mo",
+   "slug": "sushi-kissho-by-miyakawa",
+   "name": "Sushi Kissho by Miyakawa",
+   "website": "https://www.raffles.com/macau/dining/Sushi-Kissho-by-Miyakawa",
+   "address": "2F, Raffles, Galaxy, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/sushi-kissho-by-miyakawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/sushi-kissho-by-miyakawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "macau-mo/the-ritz-carlton-cafe",
+   "city_id": "macau-mo",
+   "slug": "the-ritz-carlton-cafe",
+   "name": "The Ritz-Carlton Café",
+   "website": "https://www.ritzcarltoncafemacau.com",
+   "address": "GF, The Ritz-Carlton, Galaxy, Estrada da Baía de Nossa Senhora da Esperança, Cotai, Macau",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/macau-region/macau/restaurant/the-ritz-carlton-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/macau-region/macau/restaurant/the-ritz-carlton-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  }
+ ]
+}

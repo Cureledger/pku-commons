@@ -1,0 +1,749 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "zurich-ch",
+ "restaurant_count": 19,
+ "restaurants": [
+  {
+   "restaurant_id": "zurich-ch/anna",
+   "city_id": "zurich-ch",
+   "slug": "anna",
+   "name": "Anna",
+   "website": "",
+   "address": "Anna-Heer-Strasse 2, Zurich, 8000, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/anna-1192016"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/anna-1192016",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/mura",
+   "city_id": "zurich-ch",
+   "slug": "mura",
+   "name": "MURA",
+   "website": "",
+   "address": "Fröhlichstrasse 39, Zurich, 8008, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/mura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/mura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/williams-butcherstable-am-bellevue",
+   "city_id": "zurich-ch",
+   "slug": "williams-butcherstable-am-bellevue",
+   "name": "Williams ButchersTable am Bellevue",
+   "website": "",
+   "address": "Schifflände 6, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/williams-butcherstable-am-bellevue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/williams-butcherstable-am-bellevue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/williams-butcherstable-am-hegibachplatz",
+   "city_id": "zurich-ch",
+   "slug": "williams-butcherstable-am-hegibachplatz",
+   "name": "Williams ButchersTable am Hegibachplatz",
+   "website": "",
+   "address": "Neumünsterstrasse 34, Zurich, 8008, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/williams-butcherstable-am-hegibachplatz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/williams-butcherstable-am-hegibachplatz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/igniv-zurich-by-andreas-caminada",
+   "city_id": "zurich-ch",
+   "slug": "igniv-zurich-by-andreas-caminada",
+   "name": "IGNIV Zürich by Andreas Caminada",
+   "website": "https://www.marktgassehotel.ch/",
+   "address": "Marktgasse 17, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/igniv-zurich-by-andreas-caminada"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/igniv-zurich-by-andreas-caminada",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sharing",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/eden-kitchen-bar",
+   "city_id": "zurich-ch",
+   "slug": "eden-kitchen-bar",
+   "name": "Eden Kitchen & Bar",
+   "website": "https://www.lareserve-zurich.com/restaurants/eden-kitchen-and-bar/",
+   "address": "Utoquai 45, Zurich, 8008, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/eden-kitchen-bar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/eden-kitchen-bar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/orsini",
+   "city_id": "zurich-ch",
+   "slug": "orsini",
+   "name": "ORSINI",
+   "website": "https://www.mandarinoriental.com/fr/zurich/savoy/dine/orsini",
+   "address": "Waaggasse 7, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/orsini-1211219"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/orsini-1211219",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/josef",
+   "city_id": "zurich-ch",
+   "slug": "josef",
+   "name": "Josef",
+   "website": "https://www.josef.ch",
+   "address": "Gasometerstrasse 24, Zurich, 8005, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/josef"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/josef",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/aura",
+   "city_id": "zurich-ch",
+   "slug": "aura",
+   "name": "AURA",
+   "website": "https://www.aura-zurich.ch/",
+   "address": "Bleicherweg 5, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/aura388509"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/aura388509",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/accademia-del-gusto",
+   "city_id": "zurich-ch",
+   "slug": "accademia-del-gusto",
+   "name": "Accademia del Gusto",
+   "website": "https://www.accademiadelgusto.ch/",
+   "address": "Rotwandstrasse 48, Zurich, 8004, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/accademia-del-gusto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/accademia-del-gusto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/afghan-anar",
+   "city_id": "zurich-ch",
+   "slug": "afghan-anar",
+   "name": "Afghan Anar",
+   "website": "https://www.afghananar.ch/",
+   "address": "Fierzgasse 22, Zurich, 8005, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/afghan-anar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/afghan-anar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Afghan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/baurs",
+   "city_id": "zurich-ch",
+   "slug": "baurs",
+   "name": "Baur's",
+   "website": "https://www.bauraulac.ch",
+   "address": "Talstrasse 1, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/baur-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/baur-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/haus-zum-ruden",
+   "city_id": "zurich-ch",
+   "slug": "haus-zum-ruden",
+   "name": "Haus zum Rüden",
+   "website": "https://www.haus-zum-rueden.ch/",
+   "address": "Limmatquai 42, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/haus-zum-ruden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/haus-zum-ruden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/heugumper",
+   "city_id": "zurich-ch",
+   "slug": "heugumper",
+   "name": "Heugümper",
+   "website": "https://www.restaurantheuguemper.ch/",
+   "address": "Waaggasse 4, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/heugumper"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/heugumper",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/kronenhalle",
+   "city_id": "zurich-ch",
+   "slug": "kronenhalle",
+   "name": "Kronenhalle",
+   "website": "https://kronenhalle.com/",
+   "address": "Rämistrasse 4, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/kronenhalle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/kronenhalle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/la-muna",
+   "city_id": "zurich-ch",
+   "slug": "la-muna",
+   "name": "La Muña",
+   "website": "https://www.lareserve-zurich.com/de/restaurants/la-muna/",
+   "address": "Utoquai 45, Zurich, 8008, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/la-muna-114026"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/la-muna-114026",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Peruvian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/la-scarpetta",
+   "city_id": "zurich-ch",
+   "slug": "la-scarpetta",
+   "name": "La Scarpetta",
+   "website": "https://la-scarpetta.ch/pages/zurich-startseite",
+   "address": "Forchstrasse 359, Zurich, 8008, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/la-scarpetta-1243595"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/la-scarpetta-1243595",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/lindenhofkeller",
+   "city_id": "zurich-ch",
+   "slug": "lindenhofkeller",
+   "name": "Lindenhofkeller",
+   "website": "https://www.lindenhofkeller.com",
+   "address": "Pfalzgasse 4, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/lindenhofkeller"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/lindenhofkeller",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seasonal Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "zurich-ch/marguita",
+   "city_id": "zurich-ch",
+   "slug": "marguita",
+   "name": "Marguita",
+   "website": "https://www.marguita.ch/",
+   "address": "Talstrasse 1, Zurich, 8001, Switzerland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zurich-region/zurich/restaurant/marguita"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zurich-region/zurich/restaurant/marguita",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  }
+ ]
+}

@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Belcanto",
+    "slug": "belcanto",
+    "city_id": "lisbon-pt",
+    "website": "https://www.belcanto.pt/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Rua Serpa Pinto 10A, Lisbon, 1200-026, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fifty Seconds",
+    "slug": "fifty-seconds",
+    "city_id": "lisbon-pt",
+    "website": "https://www.fiftysecondsexperience.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Cais das Naus, Lisbon, 1990-173, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Henrique Sá Pessoa",
+    "slug": "henrique-sa-pessoa",
+    "city_id": "lisbon-pt",
+    "website": "https://www.henriquesapessoa.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Travessa da Légua De Póvoa 11, Corpo 3, Bloco B, Loja L - Páteo Bagatela, Lisbon, 1250-138, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "2Monkeys",
+    "slug": "2monkeys",
+    "city_id": "lisbon-pt",
+    "website": "https://2monkeys.com.pt/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rua Câmara Pestana 23, Lisbon, 1150-082, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "CURA",
+    "slug": "cura",
+    "city_id": "lisbon-pt",
+    "website": "https://m.fourseasons.com/pt/lisbon/dining/restaurants/cura/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rua Rodrigo da Fonseca 88, Lisbon, 1099-039, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "EPUR",
+    "slug": "epur",
+    "city_id": "lisbon-pt",
+    "website": "https://www.epur.pt/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Largo da Academia Nacional de Belas Artes 14, Lisbon, 1200-005, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Encanto",
+    "slug": "encanto",
+    "city_id": "lisbon-pt",
+    "website": "https://www.encantojoseavillez.pt",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Largo De São Carlos 10, Lisbon, 1200 410, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Feitoria",
+    "slug": "feitoria",
+    "city_id": "lisbon-pt",
+    "website": "https://www.restaurantefeitoria.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Doca do Bom Sucesso, Lisbon, 1400-038, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Grenache",
+    "slug": "grenache",
+    "city_id": "lisbon-pt",
+    "website": "https://grenache.pt/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Pátio de Dom Fradique 12, Lisbon, 1100-624, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kabuki Lisboa",
+    "slug": "kabuki-lisboa",
+    "city_id": "lisbon-pt",
+    "website": "https://www.kabukilisboa.pt",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rua Castilho 77B, Lisbon, 1070-050, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kanazawa",
+    "slug": "kanazawa",
+    "city_id": "lisbon-pt",
+    "website": "https://www.kanazawa.com.pt",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rua Damião De Góis 3 A, Lisbon, 1400-291, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Loco",
+    "slug": "loco",
+    "city_id": "lisbon-pt",
+    "website": "https://www.loco.pt/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rua dos Navegantes 53 B, Lisbon, 1200-731, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Marlene,",
+    "slug": "marlene",
+    "city_id": "lisbon-pt",
+    "website": "https://www.marlene.pt",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Avenida Infante D. Henrique. Doca do Jardim do Tabaco, Lisbon, 1100-651, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "SÁLA de João Sá",
+    "slug": "sala-de-joao-sa",
+    "city_id": "lisbon-pt",
+    "website": "https://www.restaurantesala.pt/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rua dos Bacalhoeiros 103, Lisbon, 1100-068, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "YŌSO",
+    "slug": "yoso",
+    "city_id": "lisbon-pt",
+    "website": "https://yoso-omakase.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rampa Das Necessidades 6, Lisbon, 1350-188, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Canalha",
+    "slug": "canalha",
+    "city_id": "lisbon-pt",
+    "website": "https://www.canalha.pt",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rua da Junqueira 207, Lisbon, 1300-338, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Carnal",
+    "slug": "carnal",
+    "city_id": "lisbon-pt",
+    "website": "https://www.carnal.pt",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rua da Misericordia 78, Lisbon, 1200 273, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ofício - Wine & Dining Room",
+    "slug": "oficio-wine-dining-room",
+    "city_id": "lisbon-pt",
+    "website": "https://www.paradigma.pt/venues/oficio-lisboa",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rua Nova da Trindade 11, Lisbon, 1200-301, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pigmeu",
+    "slug": "pigmeu",
+    "city_id": "lisbon-pt",
+    "website": "https://www.pigmeu.pt",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Rua do 4 De Infantaria 68, Lisbon, 1350-274, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zunzum Gastrobar",
+    "slug": "zunzum-gastrobar",
+    "city_id": "lisbon-pt",
+    "website": "https://www.zunzum.pt",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Avenida Infante D. Henrique. Doca do Jardim do Tabaco, Lisbon, 1100-651, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "100 Maneiras",
+    "slug": "100-maneiras",
+    "city_id": "lisbon-pt",
+    "website": "https://www.100maneiras.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua do Teixeira 39, Lisbon, 1200-459, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "BAHR",
+    "slug": "bahr",
+    "city_id": "lisbon-pt",
+    "website": "https://www.bahr.pt",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Praça Luís De Camões 2, Lisbon, 1200-243, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "BROTO",
+    "slug": "broto",
+    "city_id": "lisbon-pt",
+    "website": "https://brotochiado.pt/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Largo Rafael Bordalo Pinheiro 20A, Lisbon, 1200-445, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Boubou's",
+    "slug": "boubous",
+    "city_id": "lisbon-pt",
+    "website": "https://www.boubous.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua do Monte Olivete 32 A, Lisbon, 1200-280, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Downunder by Justin Jennings",
+    "slug": "downunder-by-justin-jennings",
+    "city_id": "lisbon-pt",
+    "website": "https://www.downunder.pt/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua Dos Industriais 21, Lisbon, 1200-685, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Eleven",
+    "slug": "eleven",
+    "city_id": "lisbon-pt",
+    "website": "https://www.restauranteleven.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua Marquês de Fronteira, Lisbon, 1070-051, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Essencial",
+    "slug": "essencial",
+    "city_id": "lisbon-pt",
+    "website": "https://essencialrestaurante.pt/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua da Rosa 176, Lisbon, 1200-390, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "JNĉQUOI Fish",
+    "slug": "jncquoi-fish",
+    "city_id": "lisbon-pt",
+    "website": "https://www.jncquoihouse.com/en/food-drinks/jncquoi-fish/32/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. da Liberdade, 189, Lisbon, 1250-096, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "JNĉQUOI Table",
+    "slug": "jncquoi-table",
+    "city_id": "lisbon-pt",
+    "website": "https://www.jncquoihouse.com/pt/food-drinks/jncquoi-table/36/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. da Liberdade, 189, Lisbon, 1250-096, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "MITSU",
+    "slug": "mitsu",
+    "city_id": "lisbon-pt",
+    "website": "https://mitsu-portugal.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua Martens Ferrão, 9, Lisbon, 1050-159, Portugal",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "O Frade",
+    "slug": "o-frade",
+    "city_id": "lisbon-pt",
+    "website": "https://fraderestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Calçada da Ajuda 14, Lisbon, 1300-006, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "O Talho",
+    "slug": "o-talho",
+    "city_id": "lisbon-pt",
+    "website": "https://www.otalho.pt/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua Carlos Testa 1, Lisbon, 1050-046, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Omakase RI",
+    "slug": "omakase-ri",
+    "city_id": "lisbon-pt",
+    "website": "https://www.omakaseri.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua Garcia da Orta, 71c loja 1, Lisbon, 1200-678, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Omakase Wa",
+    "slug": "omakase-wa",
+    "city_id": "lisbon-pt",
+    "website": "https://omakaselisbon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tv. do Fala-Só 15B, Lisbon, 1250-096, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Oven",
+    "slug": "oven",
+    "city_id": "lisbon-pt",
+    "website": "https://www.ovenlisboa.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua Dos Fanqueiros 232, Lisbon, 1100-232, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Plano",
+    "slug": "plano",
+    "city_id": "lisbon-pt",
+    "website": "https://www.planorestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua da Bela Vista à Graça 126, Lisbon, 1170-075, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Prado",
+    "slug": "prado",
+    "city_id": "lisbon-pt",
+    "website": "https://www.pradorestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Travessa Das Pedras Negras 2, Lisbon, 1100-404, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Salta",
+    "slug": "salta",
+    "city_id": "lisbon-pt",
+    "website": "https://www.salta.pt",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua Rodrigo da Fonseca 82A, Lisbon, 1250-193, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Santa Joana",
+    "slug": "santa-joana",
+    "city_id": "lisbon-pt",
+    "website": "https://www.santajoanalisboa.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua de Santa Marta 61B, Lisbon, 1059-002, Portugal",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Suba",
+    "slug": "suba",
+    "city_id": "lisbon-pt",
+    "website": "https://www.subarestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tv. da Portuguesa 53, Lisbon, 1200-401, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Terroir",
+    "slug": "terroir",
+    "city_id": "lisbon-pt",
+    "website": "https://www.terroirrestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua da Madalena, 271, Lisbon, 1100-321, Portugal",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Âmago",
+    "slug": "amago",
+    "city_id": "lisbon-pt",
+    "website": "https://www.amagorestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rua da Alegria 41C, Lisbon, 1250-182, Portugal",
+    "price_tier": "$$$"
+  }
+]

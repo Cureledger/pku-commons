@@ -1,0 +1,584 @@
+[
+  {
+    "slug": "gemma",
+    "menu_url": "https://www.gemmadallas.com/menus",
+    "picks": [
+      {
+        "name": "FRIED CASTELVETRANO OLIVES",
+        "description": "with Texas pecans",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pecans"
+      },
+      {
+        "name": "ROASTED BABY CARROTS",
+        "description": "summer eggplant purée, aleppo-cashew nut crumble, fresh basil",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "cashew"
+      },
+      {
+        "name": "BURRATA",
+        "description": "honeydew melon gazpacho, heirloom tomato, jalepeño, hazelnut, mint",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata and hazelnut"
+      },
+      {
+        "name": "SALADE VERTE",
+        "description": "mixed greens, herb vinaigrette, pecorino",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pecorino"
+      },
+      {
+        "name": "TEXAS WATERMELON SALAD",
+        "description": "arugula, pickled watermelon rind, feta cheese, red onion, dill",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "feta"
+      },
+      {
+        "name": "RIGATONI ALLA VODKA",
+        "description": "burrata, spicy vodka sauce, pecorino",
+        "course": "main",
+        "kind": "main",
+        "hold": "burrata and pecorino"
+      },
+      {
+        "name": "ROASTED MAITAKE",
+        "description": "salsify purée, tokyo turnips, pine nuts, fresno, salsa verde",
+        "course": "main",
+        "kind": "main",
+        "hold": "pine nuts"
+      },
+      {
+        "name": "CREAMED SPINACH",
+        "description": "pernod, parmigiano",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "parmigiano"
+      },
+      {
+        "name": "POMMES FRITES",
+        "description": "fines herbes",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "ITALIAN \"STREET\" CORN",
+        "description": "stracchino, calabrian chili, pecorino, chives",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "stracchino and pecorino"
+      },
+      {
+        "name": "HEIRLOOM CARROTS",
+        "description": "cara cara beurre blanc, fines herbes, almonds",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "almonds"
+      }
+    ]
+  },
+  {
+    "slug": "nonna",
+    "menu_url": "https://www.nonna-dallas.com/menus",
+    "picks": [
+      {
+        "name": "fried artichokes",
+        "description": "lemon-caper aioli and pecorino",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "aioli and pecorino",
+        "note": "Aioli is usually egg."
+      },
+      {
+        "name": "Crispy Brussels Sprouts",
+        "description": "calabrian chili & honey with Locatelli Pecorino",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pecorino"
+      },
+      {
+        "name": "Sformato di Butternut Squash",
+        "description": "Pesto Trapanese",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pesto trapanese",
+        "note": "Pesto trapanese is usually almond."
+      },
+      {
+        "name": "TX Mixed Lettuce Caesar",
+        "description": "sicilian anchovy dressing with oregano breadcrumbs",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "anchovy dressing",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "Farmers Market Salad",
+        "description": "seasonal fruits & roots with Mast Produce herbs, burrata",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "burrata"
+      },
+      {
+        "name": "Baugh Farms Gold Bar Squash Carpaccio",
+        "description": "heirloom tomatoes, charcoal oil, preserved lemon, dill",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Heirloom Tomato",
+        "description": "garlic, sicilian oregano, chili flake, evoo, ricotta salata",
+        "course": "main",
+        "kind": "main",
+        "hold": "ricotta salata"
+      },
+      {
+        "name": "Mezzaluna di Butternut Squash",
+        "description": "brown butter, pistachio, shaved smoked ricotta, 12 year balsamic",
+        "course": "main",
+        "kind": "main",
+        "hold": "brown butter, pistachio, and smoked ricotta"
+      },
+      {
+        "name": "Tonnarelli Cacio e Pepe",
+        "description": "ricotta whey, black pepper, parmigiano & pecorino",
+        "course": "main",
+        "kind": "main",
+        "hold": "ricotta whey, parmigiano, and pecorino"
+      }
+    ]
+  },
+  {
+    "slug": "barsottis",
+    "menu_url": "https://cdn.prod.website-files.com/6438c75c23a90e4384dcfc8e/680c117753a6a0b50e8320d7_Barsottis-Dinner_25.pdf",
+    "picks": [
+      {
+        "name": "RICOTTA W/ GARLIC BREAD",
+        "description": "Fresh Ricotta made daily in house",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ricotta"
+      },
+      {
+        "name": "WHITE BEAN AND ESCAROLE SOUP",
+        "description": "Cannelinis and braised greens with pesto Genovese",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pesto genovese",
+        "note": "Pesto genovese is usually pine nut and cheese."
+      },
+      {
+        "name": "LITTLE GEM CAESAR SALAD",
+        "description": "Our Homage to the Classic ala Zuni Cafe",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "note": "Caesar is usually egg and often dairy and anchovy."
+      },
+      {
+        "name": "HEARTS OF ESCAROLE SALAD",
+        "description": "Our version of the North Jersey staple with Pecorino Romana & red onion",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pecorino"
+      },
+      {
+        "name": "BRUSCHETTA",
+        "description": "Diced Beefsteak tomatoes, parsley, basil, Balsamic EVOO",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "SPICY BROCCOLINI",
+        "description": "sauteed with garlic and Calabrian Hot Pepper",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "BRAISED LENTILS",
+        "description": "Braised Umbrian style with soffritto & brodo",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "SHISHITO PEPPERS",
+        "description": "Flash fried w/ sea salt",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "EGGPLANT PARM",
+        "description": "Baked-thinly sliced Japanese eggplant, house mozz, marinara, parm, basil",
+        "course": "main",
+        "kind": "main",
+        "hold": "mozzarella and parm"
+      },
+      {
+        "name": "SPAGHETTI W/ PLUM TOMATO",
+        "description": "Finest Stanislaus Plum Tomatoes, garlic, basil, lots of parm",
+        "course": "main",
+        "kind": "main",
+        "hold": "parm"
+      }
+    ]
+  },
+  {
+    "slug": "crown-block",
+    "menu_url": "https://crownblockdallas.com/wp-content/uploads/2026/07/CB_DinnerSummer2026-07-06.pdf",
+    "picks": [
+      {
+        "name": "CAESAR SALAD",
+        "description": "Little Gem Lettuce, Shaved Brussels Sprouts, Polenta Croutons, Parmesan Reggiano, Crispy Capers, Black Garlic Dressing",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "BURRATA",
+        "description": "Heirloom Tomatoes, Quinoa Crunch, Watercress, Aged Balsamic, Lemon Agrumato Oil",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata"
+      },
+      {
+        "name": "FARMER’S MARKET STAND",
+        "description": "Crudités, Roasted, Pickled & Fried Seasonal Vegetables, Hummus, Smoky Eggplant Dip",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "hummus",
+        "note": "Hummus is chickpea and usually tahini (sesame)."
+      },
+      {
+        "name": "ROASTED CAULIFLOWER",
+        "description": "Butter Masala, Blistered Vegetables, Dukkah Spice",
+        "course": "main",
+        "kind": "main",
+        "hold": "butter masala and dukkah",
+        "note": "Dukkah often includes nuts and sesame."
+      },
+      {
+        "name": "GNOCCHI PASTA",
+        "description": "Artichoke, Spinach, Crisp Capers, Pecorino, Lemon Butter Sauce",
+        "course": "main",
+        "kind": "main",
+        "hold": "pecorino and lemon butter"
+      },
+      {
+        "name": "ASPARAGUS",
+        "description": "Preserved Lemon Aioli, Lemon Zest, Pecorino",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "aioli and pecorino",
+        "note": "Aioli is usually egg."
+      },
+      {
+        "name": "MAC & CHEESE",
+        "description": "Campanelle Pasta, Five Cheese Blend, Hatch Chile",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "MASHED YUKON POTATOES",
+        "description": "Butter & More Butter",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "butter"
+      },
+      {
+        "name": "TRIPLE COOKED FRIES",
+        "description": "Black Truffle Mayonnaise",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "mayonnaise",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "ONION RING STACK",
+        "description": "Pretzel Crusted, Keen’s Hot Mustard",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "SNAP PEAS",
+        "description": "Labneh, Fine Herbs, Chili Garlic Oil",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "labneh"
+      }
+    ]
+  },
+  {
+    "slug": "fearings",
+    "menu_url": "https://www.fearingsrestaurant.com/our-menus",
+    "picks": [
+      {
+        "name": "Dean’s Tortilla Soup",
+        "description": "South of the Border Flavors",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Smoky Southwest Caesar Salad",
+        "description": "Red Chili Dressing, Grilled Radicchio, Pomegranate Seeds and Ancho/Honey Drizzle",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "note": "Caesar is usually egg and often dairy."
+      },
+      {
+        "name": "House Salad ‘Composee’",
+        "description": "True Harvest Farms “Crispy Leaf ” Lettuce, Buttermilk Dressing, Roasted Yellow Beets, Pickled Red Onions, Aged Gouda, Candied Seeds",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "buttermilk dressing, gouda, and candied seeds"
+      },
+      {
+        "name": "Chili Braised Jackfruit Street Taco",
+        "description": "Pickled Red Onion/Mango Salad, Cilantro Crema, Crispy Two Bite Avocado Tacos",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "cilantro crema"
+      },
+      {
+        "name": "Mexican Sampler",
+        "description": "Spinach Jalapeño Ranchero Enchilada on Black Bean Puree; Butternut Squash Taquito with Cilantro Crema; Chili Lime Corn Gratin, Baja Avocado Fries and Poblano Queso",
+        "course": "main",
+        "kind": "main",
+        "hold": "crema and queso"
+      },
+      {
+        "name": "Seared Daikon ‘Scallops’",
+        "description": "on Roasted Butternut Squash Puree, Ancient Farro Risotto, Green Apple/Yellow Currant Salad and Calabrian Chili Butter",
+        "course": "main",
+        "kind": "main",
+        "hold": "calabrian chili butter"
+      },
+      {
+        "name": "Mesquite Grilled Jumbo Asparagus",
+        "description": "Hollandaise",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "hollandaise",
+        "note": "Hollandaise is egg."
+      },
+      {
+        "name": "Sautéed Local Mushrooms",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Fried Brussel Sprouts",
+        "description": "Molasses Picked Garlic, Sweet Peppers",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pan Roasted Broccolini",
+        "description": "with Lemon, Chili Flakes and Parmesan",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "parmesan"
+      }
+    ]
+  },
+  {
+    "slug": "stock-barrel",
+    "menu_url": "https://stockandbarreldallas.com/wp-content/uploads/FRONT.pdf",
+    "picks": [
+      {
+        "name": "DEVILED FARM EGGS",
+        "description": "gravlax, dill, crispy capers",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "egg and gravlax"
+      },
+      {
+        "name": "CRISPY TRUFFLED MUSHROOMS",
+        "description": "truffled aioli, parmesan",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "aioli and parmesan",
+        "note": "Aioli is usually egg."
+      },
+      {
+        "name": "HAND CUT RUSSET FRIES",
+        "description": "herb salt, parmesan, spicy sriracha mayo",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan and mayo",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "CARAMELIZED BRUSSELS",
+        "description": "chili garlic, cilantro, chives",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "CHARRED GREEN BEANS",
+        "description": "macha, candied pecans, crispy garlic",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pecans"
+      },
+      {
+        "name": "GRILLED GLOBE ARTICHOKES",
+        "description": "charred lemon aioli",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "aioli",
+        "note": "Aioli is usually egg."
+      },
+      {
+        "name": "WHIPPED FETA",
+        "description": "black currants, candied pecans, tomato confit, pickled fresnos, mint, toasted focaccia",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "feta and pecans"
+      },
+      {
+        "name": "GRILLED ROMAINE HEART",
+        "description": "white cheddar, almonds, black currants, tomatoes, creamy caesar",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "cheddar, almonds, and caesar",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "WATERMELON & HEIRLOOM TOMATOES",
+        "description": "burrata, basil oil, shaved onion",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "burrata"
+      },
+      {
+        "name": "FALAFEL BURGER",
+        "description": "tahini, feta cheese, pickled fresnos, herbs, hand cut russet fries",
+        "course": "main",
+        "kind": "main",
+        "hold": "tahini and feta",
+        "note": "Tahini is sesame. Falafel is chickpea."
+      },
+      {
+        "name": "MALFALDE",
+        "description": "charred sweet corn, calabrian chili, crème fraiche, arugula",
+        "course": "main",
+        "kind": "main",
+        "hold": "crème fraiche"
+      }
+    ]
+  },
+  {
+    "slug": "tei-an",
+    "menu_url": "https://tei-an.com/menu/",
+    "picks": [
+      {
+        "name": "Zaru",
+        "description": "Choice of classic soy, black sesame, walnut, and pecan",
+        "course": "main",
+        "kind": "main",
+        "hold": "sesame, walnut, or pecan depending on sauce"
+      },
+      {
+        "name": "Soba Salad",
+        "description": "Choice of soy, black sesame, walnut",
+        "course": "main",
+        "kind": "main",
+        "hold": "sesame or walnut depending on sauce"
+      },
+      {
+        "name": "Microgreen",
+        "description": "Olive oil",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "\"White Seawood\" Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Simple Asian Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Japanese Pickle Trio",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Baby Spinach (Walnut or Sesame)",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "walnut or sesame"
+      },
+      {
+        "name": "Blistered Shishitos",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Grilled Maitake Mushroom",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Atsu Age Tofu",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "tofu"
+      },
+      {
+        "name": "Vegetable Tempura",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Purple Potato Gnocchi",
+        "description": "Gorgonzola sauce",
+        "course": "main",
+        "kind": "main",
+        "hold": "gorgonzola"
+      },
+      {
+        "name": "Soba Risotto",
+        "description": "Truffle oil",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Vegetable Pressed Sushi",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Fried Tofu",
+        "description": "Hot soba topping",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "tofu"
+      },
+      {
+        "name": "Broccoli",
+        "description": "Hot soba topping",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Addison",
+    "slug": "addison",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.addisondelmar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Fairmont Grand Del Mar, 5200 Grand Del Mar Way, San Diego, CA, 92130, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lucien",
+    "slug": "lucien",
+    "city_id": "san-diego-ca-us",
+    "website": "https://luciensd.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "7863 Girard Ave., Ste. 308, La Jolla, CA, 92037, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Soichi",
+    "slug": "soichi",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.soichisushi.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2121 Adams Ave., San Diego, CA, 92116, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Callie",
+    "slug": "callie",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.calliesd.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1195 Island Ave., San Diego, CA, 92101, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cesarina",
+    "slug": "cesarina",
+    "city_id": "san-diego-ca-us",
+    "website": "https://cesarinarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4161 Voltaire St., San Diego, CA, 92107, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ciccia Osteria",
+    "slug": "ciccia-osteria",
+    "city_id": "san-diego-ca-us",
+    "website": "https://cicciasandiego.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2233 Logan Ave., San Diego, CA, 92113, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cucina Urbana",
+    "slug": "cucina-urbana",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.cucinaurbana.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "505 Laurel St., San Diego, CA, 92101, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "LOLA 55",
+    "slug": "lola-55",
+    "city_id": "san-diego-ca-us",
+    "website": "https://lola55.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1290 F St., San Diego, CA, 92101, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Mabel’s Gone Fishing",
+    "slug": "mabels-gone-fishing",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.mabelsgonefishing.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3770 30th St., San Diego, CA, 92104, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Morning Glory",
+    "slug": "morning-glory",
+    "city_id": "san-diego-ca-us",
+    "website": "https://morningglorybreakfast.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "550 W. Date St., San Diego, CA, 92101, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "A.R. Valentien",
+    "slug": "a-r-valentien",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.lodgetorreypines.com/ar-valentien",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Lodge at Torrey Pines, 11480 N. Torrey Pines Rd., La Jolla, CA, 92037, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Artifact at Mingei",
+    "slug": "artifact-at-mingei",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.urbankitchengroup.com/artifact-at-mingei/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1439 El Prado, San Diego, CA, 92101, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Born & Raised",
+    "slug": "born-raised",
+    "city_id": "san-diego-ca-us",
+    "website": "https://bornandraisedsteak.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1909 India St., San Diego, CA, 92101, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Catania",
+    "slug": "catania",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.cataniasd.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "7863 Girard Ave., Ste. 301, La Jolla, CA, 92037, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cloak & Petal",
+    "slug": "cloak-petal",
+    "city_id": "san-diego-ca-us",
+    "website": "https://cloakandpetal.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1953 India St., San Diego, CA, 92101, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Coasterra",
+    "slug": "coasterra",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.coasterra.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "880 Harbor Island Dr., San Diego, CA, 92101, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Craft & Commerce",
+    "slug": "craft-commerce",
+    "city_id": "san-diego-ca-us",
+    "website": "https://craft-commerce.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "675 W. Beech St., San Diego, CA, 92101, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fort Oak",
+    "slug": "fort-oak",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.fortoaksd.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1011 Fort Stockton Dr., San Diego, CA, 92103, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Great Maple",
+    "slug": "great-maple",
+    "city_id": "san-diego-ca-us",
+    "website": "https://thegreatmaple.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1451 Washington St., San Diego, CA, 92103, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Herb & Wood",
+    "slug": "herb-wood",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.herbandwood.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2210 Kettner Blvd., San Diego, CA, 92101, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hidden Fish",
+    "slug": "hidden-fish",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.hiddenfishsushi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4764 Convoy St., San Diego, CA, 92111, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Himitsu",
+    "slug": "himitsu",
+    "city_id": "san-diego-ca-us",
+    "website": "https://himitsusd.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1030 Torrey Pines Rd. G, La Jolla, CA, 92037, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Juniper & Ivy",
+    "slug": "juniper-ivy",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.juniperandivy.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2228 Kettner Blvd., San Diego, CA, 92101, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kingfisher",
+    "slug": "kingfisher",
+    "city_id": "san-diego-ca-us",
+    "website": "https://kingfishersd.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2469 Broadway, San Diego, CA, 92102, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nine-Ten",
+    "slug": "nine-ten",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.nine-ten.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Grande Colonial, 910 Prospect St., La Jolla, CA, 92037, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Paradisaea",
+    "slug": "paradisaea",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.paradisaea.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5680 La Jolla Blvd., San Diego, CA, 92037, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Siamo Napoli",
+    "slug": "siamo-napoli",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.siamonapolisd.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3959 30th St., San Diego, CA, 92104, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Solare",
+    "slug": "solare",
+    "city_id": "san-diego-ca-us",
+    "website": "https://solarelounge.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2820 Roosevelt Rd., San Diego, CA, 92106, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sovereign",
+    "slug": "sovereign",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.sovereignsandiego.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1460 J St., San Diego, CA, 92101, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Sushi Tadokoro",
+    "slug": "sushi-tadokoro",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.sushitadokoro.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2244 San Diego Ave., San Diego, CA, 92110, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Fishery",
+    "slug": "the-fishery",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.thefishery.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5040 Cass St., San Diego, CA, 92109, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Trust",
+    "slug": "trust",
+    "city_id": "san-diego-ca-us",
+    "website": "https://www.trustrestaurantsd.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3752 Park Blvd., San Diego, CA, 92103, USA",
+    "price_tier": "$$$"
+  }
+]

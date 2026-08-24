@@ -1,0 +1,242 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "ljubljana-si",
+ "restaurant_count": 6,
+ "restaurants": [
+  {
+   "restaurant_id": "ljubljana-si/aftr",
+   "city_id": "ljubljana-si",
+   "slug": "aftr",
+   "name": "AFTR",
+   "website": "https://aftr.si/",
+   "address": "Nazorjeva ulica 2, Ljubljana, 1000, Slovenia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/aftr"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/aftr",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ljubljana-si/georgie-bistro",
+   "city_id": "ljubljana-si",
+   "slug": "georgie-bistro",
+   "name": "Georgie Bistro",
+   "website": "https://georgiebistro.si/",
+   "address": "Čufarjeva ulica 5, Ljubljana, 1000, Slovenia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/georgie-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/georgie-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ljubljana-si/jaz-by-ana-ros",
+   "city_id": "ljubljana-si",
+   "slug": "jaz-by-ana-ros",
+   "name": "Jaz by Ana Roš",
+   "website": "https://jaz.anaros.eu/ljubljana/sl",
+   "address": "Čopova ulica 5a, Ljubljana, 1000, Slovenia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/jaz-by-ana-ros"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/jaz-by-ana-ros",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "ljubljana-si/pen-klub-restavracija",
+   "city_id": "ljubljana-si",
+   "slug": "pen-klub-restavracija",
+   "name": "PEN KLUB Restavracija",
+   "website": "https://www.kaval-group.si/pen-klub",
+   "address": "Tomšičeva ulica 12, Ljubljana, 1000, Slovenia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/pen-klub-restavracija"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/pen-klub-restavracija",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "ljubljana-si/peti-181",
+   "city_id": "ljubljana-si",
+   "slug": "peti-181",
+   "name": "Peti 181",
+   "website": "https://www.peti181.com/",
+   "address": "Dvorni trg 1, Ljubljana, 1000, Slovenia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/peti-181"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/peti-181",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "ljubljana-si/restavracija-cubo",
+   "city_id": "ljubljana-si",
+   "slug": "restavracija-cubo",
+   "name": "Restavracija CUBO",
+   "website": "https://www.cubo.si/",
+   "address": "Šmartinska cesta 55, Ljubljana, 1000, Slovenia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/cubo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-slovenia/ljubljana/restaurant/cubo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  }
+ ]
+}

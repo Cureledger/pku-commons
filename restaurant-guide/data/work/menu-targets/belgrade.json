@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Langouste",
+    "slug": "langouste",
+    "city_id": "belgrade-rs",
+    "website": "https://www.langouste.rs/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Kosančićev Venac 29, Belgrade, 11000, Serbia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bela Reka",
+    "slug": "bela-reka",
+    "city_id": "belgrade-rs",
+    "website": "https://restoranbelareka.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Tošin Bunar 179, Belgrade, 11070, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Istok",
+    "slug": "istok",
+    "city_id": "belgrade-rs",
+    "website": "https://istokrestoran.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Gospodar Jevremova 50, Belgrade, 11000, Serbia",
+    "price_tier": "$"
+  },
+  {
+    "name": "Iva New Balkan Cuisine",
+    "slug": "iva-new-balkan-cuisine",
+    "city_id": "belgrade-rs",
+    "website": "https://newbalkancuisine.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Svetog Save 14, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Comunale Caffè e Cucina",
+    "slug": "comunale-caffe-e-cucina",
+    "city_id": "belgrade-rs",
+    "website": "https://comunale.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Karađorđeva 2-4, Beton Hala, Belgrade, 11000, Serbia",
+    "price_tier": "$"
+  },
+  {
+    "name": "Ebisu",
+    "slug": "ebisu",
+    "city_id": "belgrade-rs",
+    "website": "https://squarenine.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Studentski trg 9, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Homa Central",
+    "slug": "homa-central",
+    "city_id": "belgrade-rs",
+    "website": "https://www.homa.rs",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Senjanina Ive 4, Belgrade, 11000, Serbia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Klub Književnika by Branko Kisic",
+    "slug": "klub-knjizevnika-by-branko-kisic",
+    "city_id": "belgrade-rs",
+    "website": "https://klubknjizevnika.rs/?lang=enhttps://klubknjizevnika.rs/?lang=en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Francuska 7, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Adresse",
+    "slug": "ladresse",
+    "city_id": "belgrade-rs",
+    "website": "https://saintten.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Svetog Save 10, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Magellan",
+    "slug": "magellan",
+    "city_id": "belgrade-rs",
+    "website": "https://www.magellan.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jurija Gagarina 14ž, Belgrade, 11070, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mezestoran Dvorište",
+    "slug": "mezestoran-dvoriste",
+    "city_id": "belgrade-rs",
+    "website": "https://restorandvoriste.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Svetogorska 46, Belgrade, 11000, Serbia",
+    "price_tier": "$"
+  },
+  {
+    "name": "Na Ćošku",
+    "slug": "na-cosku",
+    "city_id": "belgrade-rs",
+    "website": "https://www.nacosku.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Beogradska 37, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pinòt",
+    "slug": "pinot",
+    "city_id": "belgrade-rs",
+    "website": "https://www.pinot.rs",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Omladinskih Brigada 86ž, West 65, Belgrade, 11070, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Prime",
+    "slug": "prime",
+    "city_id": "belgrade-rs",
+    "website": "https://primerestaurant.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Vladimira Popovića 10, Belgrade, 11070, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Puter",
+    "slug": "puter",
+    "city_id": "belgrade-rs",
+    "website": "https://puter.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Njegoševa 82, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "S5 by Angie",
+    "slug": "s5-by-angie",
+    "city_id": "belgrade-rs",
+    "website": "https://salon5a.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avijatičarski trg 5, Belgrade, 11080, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Salon 1905",
+    "slug": "salon-1905",
+    "city_id": "belgrade-rs",
+    "website": "https://www.salon1905.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Karađorđeva 48, Belgrade, 11000, Serbia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "SkyLounge",
+    "slug": "skylounge",
+    "city_id": "belgrade-rs",
+    "website": "https://skyloungebelgrade.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kralja Milana 35, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Suvenir",
+    "slug": "suvenir",
+    "city_id": "belgrade-rs",
+    "website": "https://www.splavsuvenir.rs/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Novi Beograd Blok 44, Gandijeva BB, Beograd , Serbia, Belgrade, 11070, Serbia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Twenty Two",
+    "slug": "the-twenty-two",
+    "city_id": "belgrade-rs",
+    "website": "https://www.metropolpalace.com/dining/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bulevar Kralja Aleksandra 69, Belgrade, 11000, Serbia",
+    "price_tier": "$$"
+  }
+]

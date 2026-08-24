@@ -1,0 +1,398 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "rome-it",
+ "restaurant_count": 10,
+ "restaurants": [
+  {
+   "restaurant_id": "rome-it/uma-roma",
+   "city_id": "rome-it",
+   "slug": "uma-roma",
+   "name": "UMA Roma",
+   "website": "",
+   "address": "Via Girolamo Benzoni 34, Rome, 00154, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/uma-roma"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/uma-roma",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "rome-it/la-pergola",
+   "city_id": "rome-it",
+   "slug": "la-pergola",
+   "name": "La Pergola",
+   "website": "https://romecavalieri.com/it/la-pergola-it/",
+   "address": "Via Alberto Cadlolo, 101, Rome, 00136, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/la-pergola69016"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/la-pergola69016",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "rome-it/la-terrazza",
+   "city_id": "rome-it",
+   "slug": "la-terrazza",
+   "name": "La Terrazza",
+   "website": "https://www.dorchestercollection.com/it/rome/hotel-eden/ristoranti-bar/la-terrazza/",
+   "address": "Via Ludovisi 49, Rome, 00187, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/la-terrazza68963"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/la-terrazza68963",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "rome-it/green-t",
+   "city_id": "rome-it",
+   "slug": "green-t",
+   "name": "Green T.",
+   "website": "https://www.green-tea.it/",
+   "address": "Via del Piè di Marmo 28, Rome, 00186, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/green-t"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/green-t",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "rome-it/romane",
+   "city_id": "rome-it",
+   "slug": "romane",
+   "name": "Romanè",
+   "website": "https://www.romaneviacipro106.it/",
+   "address": "via Cipro 106, Rome, 00136, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/romane"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/romane",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Roman",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "rome-it/trattoria-pennestri",
+   "city_id": "rome-it",
+   "slug": "trattoria-pennestri",
+   "name": "Trattoria Pennestri",
+   "website": "https://trattoriapennestri.it/",
+   "address": "via Giovanni Da Empoli 5, Rome, 00154, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/trattoria-pennestri"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/trattoria-pennestri",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cuisine from Lazio",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "rome-it/giano",
+   "city_id": "rome-it",
+   "slug": "giano",
+   "name": "Giano",
+   "website": "https://www.gianorestaurant.com/it/",
+   "address": "Via Liguria 28, Rome, 00187, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/giano"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/giano",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "rome-it/il-sanlorenzo",
+   "city_id": "rome-it",
+   "slug": "il-sanlorenzo",
+   "name": "Il Sanlorenzo",
+   "website": "https://www.ilsanlorenzo.it",
+   "address": "Via dei Chiavari 4/5, Rome, 00186, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/il-sanlorenzo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/il-sanlorenzo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "rome-it/luciano-cucina-italiana",
+   "city_id": "rome-it",
+   "slug": "luciano-cucina-italiana",
+   "name": "Luciano Cucina Italiana",
+   "website": "https://www.lucianomonosilio.it/luciano-cucina-italiana/",
+   "address": "Piazza del Teatro di Pompeo 18, Rome, 00186, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/luciano-cucina-italiana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/luciano-cucina-italiana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "rome-it/piro",
+   "city_id": "rome-it",
+   "slug": "piro",
+   "name": "Pirò",
+   "website": "https://piroosteriadipesce.it/",
+   "address": "vicolo della Cancelleria 36, Rome, 00186, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lazio/roma/restaurant/piro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lazio/roma/restaurant/piro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  }
+ ]
+}

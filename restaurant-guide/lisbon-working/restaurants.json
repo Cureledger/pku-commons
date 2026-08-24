@@ -1,0 +1,320 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "lisbon-pt",
+ "restaurant_count": 8,
+ "restaurants": [
+  {
+   "restaurant_id": "lisbon-pt/cura",
+   "city_id": "lisbon-pt",
+   "slug": "cura",
+   "name": "CURA",
+   "website": "https://m.fourseasons.com/pt/lisbon/dining/restaurants/cura/",
+   "address": "Rua Rodrigo da Fonseca 88, Lisbon, 1099-039, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/cura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/cura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "lisbon-pt/kabuki-lisboa",
+   "city_id": "lisbon-pt",
+   "slug": "kabuki-lisboa",
+   "name": "Kabuki Lisboa",
+   "website": "https://www.kabukilisboa.pt",
+   "address": "Rua Castilho 77B, Lisbon, 1070-050, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/kabuki-lisboa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/kabuki-lisboa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "lisbon-pt/kanazawa",
+   "city_id": "lisbon-pt",
+   "slug": "kanazawa",
+   "name": "Kanazawa",
+   "website": "https://www.kanazawa.com.pt",
+   "address": "Rua Damião De Góis 3 A, Lisbon, 1400-291, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/kanazawa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/kanazawa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "lisbon-pt/pigmeu",
+   "city_id": "lisbon-pt",
+   "slug": "pigmeu",
+   "name": "Pigmeu",
+   "website": "https://www.pigmeu.pt",
+   "address": "Rua do 4 De Infantaria 68, Lisbon, 1350-274, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/pigmeu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/pigmeu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Portuguese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lisbon-pt/zunzum-gastrobar",
+   "city_id": "lisbon-pt",
+   "slug": "zunzum-gastrobar",
+   "name": "Zunzum Gastrobar",
+   "website": "https://www.zunzum.pt",
+   "address": "Avenida Infante D. Henrique. Doca do Jardim do Tabaco, Lisbon, 1100-651, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/zunzum-gastrobar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/zunzum-gastrobar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "lisbon-pt/jncquoi-table",
+   "city_id": "lisbon-pt",
+   "slug": "jncquoi-table",
+   "name": "JNĉQUOI Table",
+   "website": "https://www.jncquoihouse.com/pt/food-drinks/jncquoi-table/36/",
+   "address": "Av. da Liberdade, 189, Lisbon, 1250-096, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/jncquoi-table"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/jncquoi-table",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "lisbon-pt/mitsu",
+   "city_id": "lisbon-pt",
+   "slug": "mitsu",
+   "name": "MITSU",
+   "website": "https://mitsu-portugal.com/",
+   "address": "Rua Martens Ferrão, 9, Lisbon, 1050-159, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/mitsu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/mitsu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "lisbon-pt/prado",
+   "city_id": "lisbon-pt",
+   "slug": "prado",
+   "name": "Prado",
+   "website": "https://www.pradorestaurante.com/",
+   "address": "Travessa Das Pedras Negras 2, Lisbon, 1100-404, Portugal",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/prado"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lisboa-region/lisboa/restaurant/prado",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$"
+  }
+ ]
+}

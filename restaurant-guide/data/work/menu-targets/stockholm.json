@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Frantzén",
+    "slug": "frantzen",
+    "city_id": "stockholm-se",
+    "website": "https://www.restaurantfrantzen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Klara Norra Kyrkogata 26, Stockholm, 111 22, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "AIRA",
+    "slug": "aira",
+    "city_id": "stockholm-se",
+    "website": "https://www.aira.se",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Biskopsvägen 9, Stockholm, 115 21, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "ADAM ALBIN",
+    "slug": "adam-albin",
+    "city_id": "stockholm-se",
+    "website": "https://www.adamalbin.se/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Regeringsgatan 2, Stockholm, 111 53, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Celeste",
+    "slug": "celeste",
+    "city_id": "stockholm-se",
+    "website": "https://www.celesterestaurant.se/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Torkel Knutssonsgatan 24, Stockholm, 11849, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Dashi",
+    "slug": "dashi",
+    "city_id": "stockholm-se",
+    "website": "https://dashisthlm.se",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rådmansgatan 23, Stockholm, 114 25, Sweden",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ekstedt",
+    "slug": "ekstedt",
+    "city_id": "stockholm-se",
+    "website": "https://www.ekstedt.nu/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Humlegårdsgatan 17, Stockholm, 114 46, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Etoile",
+    "slug": "etoile",
+    "city_id": "stockholm-se",
+    "website": "https://www.restaurantetoile.se/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Norra Stationsgatan 51, Stockholm, 113 44, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nour",
+    "slug": "nour",
+    "city_id": "stockholm-se",
+    "website": "https://www.restaurantnour.se",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Norrlandsgatan 24, Stockholm, 111 43, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Operakällaren",
+    "slug": "operakallaren",
+    "city_id": "stockholm-se",
+    "website": "https://www.operakallaren.se/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Operahuset, Karl XII's Torg, Stockholm, 111 86, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Seafood Gastro",
+    "slug": "seafood-gastro",
+    "city_id": "stockholm-se",
+    "website": "https://mdghs.se/en/seafood-gastro/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Södra Blasieholmshamnen 8, Stockholm, 11148, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sushi Sho",
+    "slug": "sushi-sho",
+    "city_id": "stockholm-se",
+    "website": "https://www.sushisho.se/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Upplandsgatan 45, Stockholm, 113 28, Sweden",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "ergo.",
+    "slug": "ergo",
+    "city_id": "stockholm-se",
+    "website": "https://www.restaurantergo.se/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Artillerigatan 14, Stockholm, 114 51, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Allegrine",
+    "slug": "allegrine",
+    "city_id": "stockholm-se",
+    "website": "https://www.allegrine.se",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kammakargatan 22, Stockholm, 111 40, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "Babette",
+    "slug": "babette",
+    "city_id": "stockholm-se",
+    "website": "https://www.babette.se",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Roslagsgatan 6, Stockholm, 113 55, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bar Agrikultur",
+    "slug": "bar-agrikultur",
+    "city_id": "stockholm-se",
+    "website": "https://baragrikultur.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Skånegatan 79, Stockholm, 116 35, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "Lilla Ego",
+    "slug": "lilla-ego",
+    "city_id": "stockholm-se",
+    "website": "https://www.lillaego.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Västmannagatan 69, Stockholm, 113 26, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Rolfs Kök",
+    "slug": "rolfs-kok",
+    "city_id": "stockholm-se",
+    "website": "https://www.rolfskok.se",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Tegnérgatan 41, Stockholm, 111 61, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Triton",
+    "slug": "triton",
+    "city_id": "stockholm-se",
+    "website": "https://www.triton.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Ringvägen 87, Stockholm, 118 61, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "ÄRLA",
+    "slug": "arla",
+    "city_id": "stockholm-se",
+    "website": "https://www.restaurangaerla.se",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Danderydsgatan 25, Stockholm, 114 26, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "BORD",
+    "slug": "bord",
+    "city_id": "stockholm-se",
+    "website": "https://www.bord.restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Roslagsgatan 43, Stockholm, 113 54, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Black Milk Gastro Bar",
+    "slug": "black-milk-gastro-bar",
+    "city_id": "stockholm-se",
+    "website": "https://blackmilkgastrobar.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Engelbrektsgatan 3, Stockholm, 114 32, Sweden",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie Astoria",
+    "slug": "brasserie-astoria",
+    "city_id": "stockholm-se",
+    "website": "https://www.brasserieastoria.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Nybrogatan 15, Stockholm, 114 39, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Essence",
+    "slug": "essence",
+    "city_id": "stockholm-se",
+    "website": "https://www.restaurantessence.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hjalmar Södersbergs Väg 10, Stockholm, 112 14, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ett Hem",
+    "slug": "ett-hem",
+    "city_id": "stockholm-se",
+    "website": "https://www.etthem.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sköldungagatan 4, Stockholm, 114 27, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Farang",
+    "slug": "farang",
+    "city_id": "stockholm-se",
+    "website": "https://farang.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tulegatan 7, Stockholm, 111 53, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Forma",
+    "slug": "forma",
+    "city_id": "stockholm-se",
+    "website": "https://www.restaurangforma.se/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hornsbruksgatan 28, Stockholm, 117 34, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "Hillenberg",
+    "slug": "hillenberg",
+    "city_id": "stockholm-se",
+    "website": "https://hillenberg.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Humlegårdsgatan 14, Stockholm, 114 46, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Leijontornet",
+    "slug": "leijontornet",
+    "city_id": "stockholm-se",
+    "website": "https://www.leijontornet.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lilla Nygatan 5, Stockholm, 111 28, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lux Dag för Dag",
+    "slug": "lux-dag-for-dag",
+    "city_id": "stockholm-se",
+    "website": "https://www.luxdagfordag.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Primusgatan 116, Stockholm, 112 67, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Minh Mat",
+    "slug": "minh-mat",
+    "city_id": "stockholm-se",
+    "website": "https://minhmat.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Odengatan 94, Stockholm, 113 22, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "NISCH",
+    "slug": "nisch",
+    "city_id": "stockholm-se",
+    "website": "https://www.nischrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dalagatan 42, Stockholm, 113 24, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Persona",
+    "slug": "persona",
+    "city_id": "stockholm-se",
+    "website": "https://www.personasthlm.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Torstenssonsgatan 11, Stockholm, 114 56, Sweden",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Petri",
+    "slug": "petri",
+    "city_id": "stockholm-se",
+    "website": "https://www.petrirestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kommendörsgatan 16, Stockholm, 11448, Sweden",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Prospero",
+    "slug": "prospero",
+    "city_id": "stockholm-se",
+    "website": "https://prospero-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Roslagsgatan 21, Stockholm, 11355, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "Restaurang B.A.R.",
+    "slug": "restaurang-b-a-r",
+    "city_id": "stockholm-se",
+    "website": "https://restaurangbar.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Blasieholmsgatan 4A, Stockholm, 111 48, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "SOLEN",
+    "slug": "solen",
+    "city_id": "stockholm-se",
+    "website": "https://www.solen.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hallgränd 45, Johanneshov, Stockholm, 121 62, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "Sperling & Co",
+    "slug": "sperling-co",
+    "city_id": "stockholm-se",
+    "website": "https://sperlingco.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sturegatan 6, Stockholm, 11435, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ulla Winbladh",
+    "slug": "ulla-winbladh",
+    "city_id": "stockholm-se",
+    "website": "https://ullawinbladh.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rosendalsvägen 8, Stockholm, 115 21, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Voisine",
+    "slug": "voisine",
+    "city_id": "stockholm-se",
+    "website": "https://voisine.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Erstagatan 21, Stockholm, 116 36, Sweden",
+    "price_tier": "$"
+  },
+  {
+    "name": "Washoku TOMO",
+    "slug": "washoku-tomo",
+    "city_id": "stockholm-se",
+    "website": "https://www.washokutomo.se",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Timmermansgatan 15, Stockholm, 118 25, Sweden",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Woodstockholm",
+    "slug": "woodstockholm",
+    "city_id": "stockholm-se",
+    "website": "https://woodstockholm.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mosebacke Torg 9, Stockholm, 116 46, Sweden",
+    "price_tier": "$$"
+  },
+  {
+    "name": "freyja",
+    "slug": "freyja",
+    "city_id": "stockholm-se",
+    "website": "https://freyjasoder.se/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hornsgatan 18, Stockholm, 118 20, Sweden",
+    "price_tier": "$$"
+  }
+]

@@ -1,0 +1,1651 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "phuket-th",
+ "restaurant_count": 42,
+ "restaurants": [
+  {
+   "restaurant_id": "phuket-th/a-pong-mae-sunee",
+   "city_id": "phuket-th",
+   "slug": "a-pong-mae-sunee",
+   "name": "A Pong Mae Sunee",
+   "website": "",
+   "address": "99 Soi Soon Uthit, Yaowarat Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/a-pong-mae-sunee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/a-pong-mae-sunee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/chuan-chim",
+   "city_id": "phuket-th",
+   "slug": "chuan-chim",
+   "name": "Chuan Chim",
+   "website": "",
+   "address": "37/3 Montri Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/chuan-chim"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/chuan-chim",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/go-benz",
+   "city_id": "phuket-th",
+   "slug": "go-benz",
+   "name": "Go Benz",
+   "website": "",
+   "address": "163 Krabi Road, Talat Nuea, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-benz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-benz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/khao-tom-dibuk",
+   "city_id": "phuket-th",
+   "slug": "khao-tom-dibuk",
+   "name": "Khao Tom Dibuk",
+   "website": "",
+   "address": "185/11 Phang-Nga Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/khao-tom-thanon-di-buk"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/khao-tom-thanon-di-buk",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles and Congee",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/kin-kub-ei",
+   "city_id": "phuket-th",
+   "slug": "kin-kub-ei",
+   "name": "Kin-Kub-Ei",
+   "website": "",
+   "address": "81/9 Mu 7, Si Sunthon Road, Si Sunthon, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/kin-kub-ei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/kin-kub-ei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/krua-baan-platong",
+   "city_id": "phuket-th",
+   "slug": "krua-baan-platong",
+   "name": "Krua Baan Platong",
+   "website": "",
+   "address": "167/1 Mu 5, Thepkrasattri Road, Si Sunthon, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/krua-baan-platong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/krua-baan-platong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/krua-kao-kuk",
+   "city_id": "phuket-th",
+   "slug": "krua-kao-kuk",
+   "name": "Krua Kao Kuk",
+   "website": "",
+   "address": "47/4-5 Phatthana Road, Talat Nuea, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/krua-kao-kuk"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/krua-kao-kuk",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/krua-praya",
+   "city_id": "phuket-th",
+   "slug": "krua-praya",
+   "name": "Krua Praya",
+   "website": "",
+   "address": "216/19 Mu 3, Soi Hua Tha 1, Si Sunthon, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/krua-praya-phuket"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/krua-praya-phuket",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/mor-mu-dong",
+   "city_id": "phuket-th",
+   "slug": "mor-mu-dong",
+   "name": "Mor Mu Dong",
+   "website": "",
+   "address": "9/4 Mu 3 Soi Pa Lai, Chao Fa Road, Chalong, Mueang Phuket, Phuket, 83130, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/mor-mu-dong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/mor-mu-dong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/naam-yoi",
+   "city_id": "phuket-th",
+   "slug": "naam-yoi",
+   "name": "Naam Yoi",
+   "website": "",
+   "address": "63/250 Ruam Phattana Road, Ratsada, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/naam-yoi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/naam-yoi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/niyom-salt-grilled-duck",
+   "city_id": "phuket-th",
+   "slug": "niyom-salt-grilled-duck",
+   "name": "Niyom Salt Grilled Duck",
+   "website": "",
+   "address": "5/19 Mu 3, Chao Fah Tawan Tok Road, Wichit, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/niyom-salt-grilled-duck"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/niyom-salt-grilled-duck",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Grills",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/one-chun",
+   "city_id": "phuket-th",
+   "slug": "one-chun",
+   "name": "One Chun",
+   "website": "",
+   "address": "48/1 Thep Krasatti Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/pathongko-mae-pranee",
+   "city_id": "phuket-th",
+   "slug": "pathongko-mae-pranee",
+   "name": "Pathongko Mae Pranee",
+   "website": "",
+   "address": "57 Wirat Hong Yok 3 Road, Wichit, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/pathongko-mae-pranee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/pathongko-mae-pranee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/roti-chaofa",
+   "city_id": "phuket-th",
+   "slug": "roti-chaofa",
+   "name": "Roti Chaofa",
+   "website": "",
+   "address": "44 Chaofa Road, Talat Nuea, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/roti-chaofa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/roti-chaofa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/roti-thaew-nam",
+   "city_id": "phuket-th",
+   "slug": "roti-thaew-nam",
+   "name": "Roti Thaew Nam",
+   "website": "",
+   "address": "6 Thep Krasattri Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/roti-taew-nam"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/roti-taew-nam",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/surf-turf-by-soul-kitchen",
+   "city_id": "phuket-th",
+   "slug": "surf-turf-by-soul-kitchen",
+   "name": "Surf & Turf by Soul Kitchen",
+   "website": "",
+   "address": "115 Phangnga Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/surf-turf-by-soul-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/surf-turf-by-soul-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/the-charm-dining-gallery",
+   "city_id": "phuket-th",
+   "slug": "the-charm-dining-gallery",
+   "name": "The Charm Dining Gallery",
+   "website": "",
+   "address": "93 Dibuk Road, Talat Nuea, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/the-charm"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/the-charm",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/ton-mayom",
+   "city_id": "phuket-th",
+   "slug": "ton-mayom",
+   "name": "Ton Mayom",
+   "website": "",
+   "address": "23/17 Mu 6, Thep Krasattri Road, Ratsada, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/ton-mayom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/ton-mayom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/bucha",
+   "city_id": "phuket-th",
+   "slug": "bucha",
+   "name": "Bucha",
+   "website": "",
+   "address": "26/156 Chao Fah Tawan Ok Road, Chalong, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/bucha"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/bucha",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/chom-chan",
+   "city_id": "phuket-th",
+   "slug": "chom-chan",
+   "name": "Chom Chan",
+   "website": "",
+   "address": "242/2 Yaowarat Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/chomchan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/chomchan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "฿฿"
+  },
+  {
+   "restaurant_id": "phuket-th/go-ang-seafood",
+   "city_id": "phuket-th",
+   "slug": "go-ang-seafood",
+   "name": "Go Ang Seafood",
+   "website": "",
+   "address": "226 Mu 2, Phuket Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-ang-seafood"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-ang-seafood",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/go-la",
+   "city_id": "phuket-th",
+   "slug": "go-la",
+   "name": "Go La",
+   "website": "",
+   "address": "11 Kra Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-la"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-la",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/gorjan",
+   "city_id": "phuket-th",
+   "slug": "gorjan",
+   "name": "Gorjan",
+   "website": "",
+   "address": "161 Kra Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/gorjan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/gorjan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/hong-khao-tom-pla",
+   "city_id": "phuket-th",
+   "slug": "hong-khao-tom-pla",
+   "name": "Hong Khao Tom Pla",
+   "website": "",
+   "address": "5 Kra Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/hong-khao-tom-pla"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/hong-khao-tom-pla",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/jadjan",
+   "city_id": "phuket-th",
+   "slug": "jadjan",
+   "name": "Jadjan",
+   "website": "",
+   "address": "4/27 Sakdidet Road, Talat Nuea, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/jadjan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/jadjan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/jongjit-kitchen",
+   "city_id": "phuket-th",
+   "slug": "jongjit-kitchen",
+   "name": "Jongjit Kitchen",
+   "website": "",
+   "address": "9/1 Mu 4, Wichit Songkhram Road, Kathu, Phuket, 83120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/jongjit-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/jongjit-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/khrua-ohm",
+   "city_id": "phuket-th",
+   "slug": "khrua-ohm",
+   "name": "Khrua Ohm",
+   "website": "",
+   "address": "2/99 Mu 2, Wichit Songkhram Road, Kathu, Phuket, 83120, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/khrua-ohm"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/khrua-ohm",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/kruvit-raft-ban-laem-hin",
+   "city_id": "phuket-th",
+   "slug": "kruvit-raft-ban-laem-hin",
+   "name": "Kruvit Raft (Ban Laem Hin)",
+   "website": "",
+   "address": "98/7 Ko Maphrao, Mu 6, Ko Kaeo, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/kruvit-raft-ban-laem-hin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/kruvit-raft-ban-laem-hin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/la-gaetana",
+   "city_id": "phuket-th",
+   "slug": "la-gaetana",
+   "name": "La Gaetana",
+   "website": "",
+   "address": "352 Phuket Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/la-gaetana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/la-gaetana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/lertrod",
+   "city_id": "phuket-th",
+   "slug": "lertrod",
+   "name": "Lertrod",
+   "website": "",
+   "address": "17/7 Nai Yang Road, Sakhu, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/lertrod"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/lertrod",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/loba-bang-niao",
+   "city_id": "phuket-th",
+   "slug": "loba-bang-niao",
+   "name": "Loba Bang Niao",
+   "website": "",
+   "address": "18/61 Mae Luan Road, Talat Nuea, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/loba-bang-niao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/loba-bang-niao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/mook-manee",
+   "city_id": "phuket-th",
+   "slug": "mook-manee",
+   "name": "Mook Manee",
+   "website": "",
+   "address": "1120 Wiset Road, Rawai, Mueang Phuket, Phuket, 83100, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/mook-manee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/mook-manee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/o-cha-rot",
+   "city_id": "phuket-th",
+   "slug": "o-cha-rot",
+   "name": "O Cha Rot",
+   "website": "",
+   "address": "72/1 Yaowarat Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/o-cha-rot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/o-cha-rot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/o-tao-bang-niao",
+   "city_id": "phuket-th",
+   "slug": "o-tao-bang-niao",
+   "name": "O Tao Bang Niao",
+   "website": "",
+   "address": "362 Phuket Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/o-tao-bang-niao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/o-tao-bang-niao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/peang-prai",
+   "city_id": "phuket-th",
+   "slug": "peang-prai",
+   "name": "Peang-Prai",
+   "website": "",
+   "address": "101/18 Soi Namtok Bangpae, Ban Pa Khlok Road, Pa Khlok, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/peang-prai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/peang-prai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/sang-ka-si",
+   "city_id": "phuket-th",
+   "slug": "sang-ka-si",
+   "name": "Sang Ka Si",
+   "website": "",
+   "address": "262/8 Yaowarat Road, Talat Yai, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/sang-ka-sri"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/sang-ka-sri",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/shrimp-noodles-ao-kae",
+   "city_id": "phuket-th",
+   "slug": "shrimp-noodles-ao-kae",
+   "name": "Shrimp Noodles Ao Kae",
+   "website": "",
+   "address": "76 Phoonphol Road, Talat Nuea, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/shrimp-noodles-ao-kae"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/shrimp-noodles-ao-kae",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "phuket-th/lob-baan",
+   "city_id": "phuket-th",
+   "slug": "lob-baan",
+   "name": "lob-baan",
+   "website": "",
+   "address": "189/3, Ko Kaeo, Mueang Phuket, Phuket, 83000, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/lob-baan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/lob-baan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Southern Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "phuket-th/jampa",
+   "city_id": "phuket-th",
+   "slug": "jampa",
+   "name": "Jampa",
+   "website": "https://www.jamparestaurant.com",
+   "address": "The Community House, Tri Vananda, 46/6 Mu 3, Thep Krasatti, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/jampa"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/jampa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/jampa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "phuket-th/larome-by-the-sea",
+   "city_id": "phuket-th",
+   "slug": "larome-by-the-sea",
+   "name": "L'Arôme by the Sea",
+   "website": "https://en.laromegroup.com/laromebythesea",
+   "address": "247/5 Phrabaramee Road, Pa Tong, Kathu, Phuket, 83150, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/l-arome-by-the-sea"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/l-arome-by-the-sea",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "phuket-th/the-smokaccia-laboratory",
+   "city_id": "phuket-th",
+   "slug": "the-smokaccia-laboratory",
+   "name": "The Smokaccia Laboratory",
+   "website": "https://www.thesmokaccia.com",
+   "address": "116/4 Mu 3, Srisoonthorn Road, Choeng Thale, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "phuket-th/tiffin-by-la-sala",
+   "city_id": "phuket-th",
+   "slug": "tiffin-by-la-sala",
+   "name": "Tiffin by La Sala",
+   "website": "https://www.anantara.com/en/mai-khao-phuket/restaurants/tiffin-by-la-sala",
+   "address": "Anantara Mai Khao Phuket Villas, 888 Mu 3, Mai Khao, Thalang, Phuket, 83110, Thailand",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/tiffin-by-la-sala"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/phuket-region/phuket/restaurant/tiffin-by-la-sala",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  }
+ ]
+}

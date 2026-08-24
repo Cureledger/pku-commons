@@ -1,0 +1,1349 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "buenos-aires-ar",
+ "restaurant_count": 34,
+ "restaurants": [
+  {
+   "restaurant_id": "buenos-aires-ar/caseros",
+   "city_id": "buenos-aires-ar",
+   "slug": "caseros",
+   "name": "Caseros",
+   "website": "",
+   "address": "Avenida Caseros 486, Buenos Aires, C1152AAN, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/caseros"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/caseros",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/chuchu",
+   "city_id": "buenos-aires-ar",
+   "slug": "chuchu",
+   "name": "Chuchú",
+   "website": "",
+   "address": "Avenida del Libertador 405, Buenos Aires, C1001ABE, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/chuchu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/chuchu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Argentinian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/garabato-bistro",
+   "city_id": "buenos-aires-ar",
+   "slug": "garabato-bistro",
+   "name": "Garabato Bistro",
+   "website": "",
+   "address": "O'Higgins 3424, Buenos Aires, C1429BBN, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/garabato-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/garabato-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/mn-santa-ines",
+   "city_id": "buenos-aires-ar",
+   "slug": "mn-santa-ines",
+   "name": "MN Santa Inés",
+   "website": "",
+   "address": "Ávalos 360, Buenos Aires, C1427DGD, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/mn-santa-ines"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/mn-santa-ines",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/acido",
+   "city_id": "buenos-aires-ar",
+   "slug": "acido",
+   "name": "Ácido",
+   "website": "",
+   "address": "Charlone 999, Buenos Aires, C1427BXU, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/acido"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/acido",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/corte-comedor",
+   "city_id": "buenos-aires-ar",
+   "slug": "corte-comedor",
+   "name": "Corte Comedor",
+   "website": "",
+   "address": "Avenida Olazábal 1391, Buenos Aires, C1428DGE, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/corte-comedor"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/corte-comedor",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/horta",
+   "city_id": "buenos-aires-ar",
+   "slug": "horta",
+   "name": "Horta",
+   "website": "",
+   "address": "Aguirre 1080, Buenos Aires, C1414ASV, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/horta-1217076"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/horta-1217076",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/kona",
+   "city_id": "buenos-aires-ar",
+   "slug": "kona",
+   "name": "Kōnā",
+   "website": "",
+   "address": "Mariscal Antonio José de Sucre 696, Buenos Aires, C1428BBA, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/kona"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/kona",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/narda-comedor",
+   "city_id": "buenos-aires-ar",
+   "slug": "narda-comedor",
+   "name": "Narda Comedor",
+   "website": "",
+   "address": "Mariscal Antonio José De Sucre 664, Buenos Aires, C1428DUB, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/narda-comedor"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/narda-comedor",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Regional Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/ness",
+   "city_id": "buenos-aires-ar",
+   "slug": "ness",
+   "name": "Ness",
+   "website": "",
+   "address": "Grecia 3691, Buenos Aires, C1429BDO, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/ness"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/ness",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/nika-club-omakase",
+   "city_id": "buenos-aires-ar",
+   "slug": "nika-club-omakase",
+   "name": "Nika Club Omakase",
+   "website": "",
+   "address": "Nicaragua 5952, Buenos Aires, C1414BWL, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/nika-club-omakase"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/nika-club-omakase",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/picaron",
+   "city_id": "buenos-aires-ar",
+   "slug": "picaron",
+   "name": "Picarón",
+   "website": "",
+   "address": "Avenida Dorrego 866, Buenos Aires, C1414CKQ, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/picaron"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/picaron",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/presencia",
+   "city_id": "buenos-aires-ar",
+   "slug": "presencia",
+   "name": "Presencia",
+   "website": "",
+   "address": "Montevideo 1789, Buenos Aires, C1021AAC, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/presencia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/presencia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/resto-sca",
+   "city_id": "buenos-aires-ar",
+   "slug": "resto-sca",
+   "name": "Restó SCA",
+   "website": "",
+   "address": "Montevideo 938, Buenos Aires, C1019ABT, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/resto-sca"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/resto-sca",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/ultramarinos",
+   "city_id": "buenos-aires-ar",
+   "slug": "ultramarinos",
+   "name": "Ultramarinos",
+   "website": "",
+   "address": "Pasaje Arribeños 1980, Buenos Aires, C1428DQH, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/ultramarinos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/ultramarinos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/uni-omakase",
+   "city_id": "buenos-aires-ar",
+   "slug": "uni-omakase",
+   "name": "Uni Omakase",
+   "website": "",
+   "address": "Guatemala 5820, Buenos Aires, C1425BVN, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/uni-omakase"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/uni-omakase",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/aramburu",
+   "city_id": "buenos-aires-ar",
+   "slug": "aramburu",
+   "name": "Aramburu",
+   "website": "https://www.arambururesto.com.ar",
+   "address": "Vicente López 1661, Buenos Aires, C1018ABA, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/aramburu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/aramburu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/don-julio",
+   "city_id": "buenos-aires-ar",
+   "slug": "don-julio",
+   "name": "Don Julio",
+   "website": "https://www.parrilladonjulio.com.ar",
+   "address": "Guatemala 4699, Buenos Aires, C1425BUK, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/don-julio"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/don-julio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/don-julio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Grills",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/han",
+   "city_id": "buenos-aires-ar",
+   "slug": "han",
+   "name": "Han",
+   "website": "https://hanrestaurante.com",
+   "address": "Vera 966, Buenos Aires, C1414AOT, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/han"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/han",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/bis-bistro",
+   "city_id": "buenos-aires-ar",
+   "slug": "bis-bistro",
+   "name": "Bis Bistró",
+   "website": "https://www.instagram.com/bis_bistro/?hl=es",
+   "address": "Vicente López 1661 Local 12, Buenos Aires, C1018ABA, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/bis-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/bis-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/la-alacena-trattoria",
+   "city_id": "buenos-aires-ar",
+   "slug": "la-alacena-trattoria",
+   "name": "La Alacena Trattoria",
+   "website": "https://www.instagram.com/laalacenatrattoria",
+   "address": "Gascón 1401, Buenos Aires, C1181ADA, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/la-alacena-trattoria"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/la-alacena-trattoria",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/reliquia",
+   "city_id": "buenos-aires-ar",
+   "slug": "reliquia",
+   "name": "Reliquia",
+   "website": "https://www.instagram.com/reliquia.restaurante/",
+   "address": "Angel Justiniano Carranza 1601, Buenos Aires, C1414COQ, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/reliquia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/reliquia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Argentinian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/a-fuego-fuerte",
+   "city_id": "buenos-aires-ar",
+   "slug": "a-fuego-fuerte",
+   "name": "A Fuego Fuerte",
+   "website": "https://www.afuego-fuerte.com",
+   "address": "Bonpland 1670, Buenos Aires, C1414CMT, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/a-fuego-fuerte"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/a-fuego-fuerte",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/alcanfor",
+   "city_id": "buenos-aires-ar",
+   "slug": "alcanfor",
+   "name": "Alcanfor",
+   "website": "https://alcanfor-restaurante.com",
+   "address": "Aguirre 949, Buenos Aires, C1414ASS, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/alcanfor"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/alcanfor"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/alcanfor",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/anchoita",
+   "city_id": "buenos-aires-ar",
+   "slug": "anchoita",
+   "name": "Anchoíta",
+   "website": "https://www.anchoita.com.ar",
+   "address": "Juan Ramírez De Velasco 1520, Buenos Aires, C1414ARF, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/anchoita"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/anchoita"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/anchoita",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/casa-palanti",
+   "city_id": "buenos-aires-ar",
+   "slug": "casa-palanti",
+   "name": "Casa Palanti",
+   "website": "https://www.casapalanti.com.ar/manifiesto/",
+   "address": "Ortíz de Ocampo 2901, Buenos Aires, C1425DSF, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/casa-palanti"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/casa-palanti",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/duhau-restaurante-vinoteca",
+   "city_id": "buenos-aires-ar",
+   "slug": "duhau-restaurante-vinoteca",
+   "name": "Duhau Restaurante & Vinoteca",
+   "website": "https://www.hyatt.com/en-US/hotel/argentina/palacio-duhau-park-hyatt-buenos-aires/bueph/dining",
+   "address": "Avenida Alvear 1661, Buenos Aires, C1014AAD, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/duhau-restaurant-vinoteca"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/duhau-restaurant-vinoteca",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Grills",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/elena",
+   "city_id": "buenos-aires-ar",
+   "slug": "elena",
+   "name": "Elena",
+   "website": "https://www.fourseasons.com/es/buenosaires/dining/restaurants/elena",
+   "address": "Posadas 1086/88, Buenos Aires, C1011ABB, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/elena"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/elena",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/fico",
+   "city_id": "buenos-aires-ar",
+   "slug": "fico",
+   "name": "Fico",
+   "website": "https://www.instagram.com/fico.ba?igsh=MTJqb3Y1YTRvYnE1ZQ==",
+   "address": "Muñecas 775, Buenos Aires, C1414AEA, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/fico-1213659"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/fico-1213659",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/jose-el-carnicero",
+   "city_id": "buenos-aires-ar",
+   "slug": "jose-el-carnicero",
+   "name": "José El Carnicero",
+   "website": "https://joseelcarnicero.com.ar/",
+   "address": "Thames 2316, Buenos Aires, C1425FIH, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/jose-el-carnicero"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/jose-el-carnicero",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Grills",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/la-cabana",
+   "city_id": "buenos-aires-ar",
+   "slug": "la-cabana",
+   "name": "La Cabaña",
+   "website": "https://www.lacabana.com.ar",
+   "address": "Avenida Alicia Moreau De Justo 580, Buenos Aires, C1107AAL, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/la-cabana-551418"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/la-cabana-551418",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/mishiguene",
+   "city_id": "buenos-aires-ar",
+   "slug": "mishiguene",
+   "name": "Mishiguene",
+   "website": "https://mishiguenerestaurant.com",
+   "address": "Lafinur 3368, Buenos Aires, C1425FAJ, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/mishiguene"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/mishiguene",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Israeli",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/piedra-pasillo-al-fondo",
+   "city_id": "buenos-aires-ar",
+   "slug": "piedra-pasillo-al-fondo",
+   "name": "Piedra Pasillo Al Fondo",
+   "website": "https://www.instagram.com/piedrapasillo",
+   "address": "Campos Salles 2145, Buenos Aires, C1429CFC, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/piedra-pasillo-al-fondo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/piedra-pasillo-al-fondo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "buenos-aires-ar/raggio-osteria",
+   "city_id": "buenos-aires-ar",
+   "slug": "raggio-osteria",
+   "name": "Raggio Osteria",
+   "website": "https://www.instagram.com/raggio.osteria/",
+   "address": "Gurruchaga 2121, Buenos Aires, C1425FEE, Argentina",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/raggio-osteria"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/raggio-osteria",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  }
+ ]
+}

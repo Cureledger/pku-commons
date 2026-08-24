@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Erth",
+    "slug": "erth",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://erthrestaurant.ae/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "North Parking, Al Hosn, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hakkasan",
+    "slug": "hakkasan",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://hakkasan.com/abu-dhabi/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Talea by Antonio Guida",
+    "slug": "talea-by-antonio-guida",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/talea-by-antonio-guida",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "3Fils Abu Dhabi",
+    "slug": "3fils-abu-dhabi",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://3fils.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "The Abu Dhabi EDITION, Al Bateen, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Al Mrzab",
+    "slug": "al-mrzab",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.facebook.com/almrzab",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Airport Road, Abu Dhabi",
+    "price_tier": "$"
+  },
+  {
+    "name": "Almayass",
+    "slug": "almayass",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.almayass.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "The Galleria Mall Al Maryah Island, Level 1, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Beirut Sur Mer",
+    "slug": "beirut-sur-mer",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.instagram.com/beirutsurmer/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Lilac 5, Jacques Chirac Street, Saadiyat Cultural District, Soul Beach, Al Saadiyat Island, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bua Thai Cafe",
+    "slug": "bua-thai-cafe",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.desertlotusgroupuae.com/BuaThaiCafe/Home",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Yas Bay - Yas Island - YS2, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mika",
+    "slug": "mika",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://mika.ae/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Building 7, Yas Marina, Yas Island, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Otoro",
+    "slug": "otoro",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://otoroabudhabi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Al Qana Marina South, Al Maqta' Street, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "ryba",
+    "slug": "ryba",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.seenholding.ae/ryba-seafood-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "31 Al Marabi‘ Street, Zayed Port, Al Mina, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "ťazal",
+    "slug": "tazal",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://tazal.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Al Qana Marina South, Al Maqta' Street, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "99 Sushi Bar",
+    "slug": "99-sushi-bar",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.99sushibar.com/en/99-sushi-bar-abu-dhabi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Galleria, Level 1, Four Seasons Al Maryah Island Hotel, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Al Farah",
+    "slug": "al-farah",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://alfarahrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Khalidiyah St, Al Khalidiyah, W8, Abu Dhabi",
+    "price_tier": "$"
+  },
+  {
+    "name": "Antonia",
+    "slug": "antonia",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.antoniarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Turquoise, Jacques Chirac Street, Saadiyat Cultural District, Soul Beach, Al Saadiyat Island, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bord' Eau by Nicolas Isnard",
+    "slug": "bord-eau-by-nicolas-isnard",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.shangri-la.com/abudhabi/shangrila/dining/restaurants/bord-eau/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Level 3, Lobby Level, Shangri-La Qaryat Al Beri Hotel, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Broadway",
+    "slug": "broadway",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/broadway",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Butcher & Still",
+    "slug": "butcher-still",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.fourseasons.com/abudhabi/dining/restaurants/butcher_and_still/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Four Seasons Al Maryah Island Hotel, 2 Global Market Street, Al Maryah Island, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Byblos Sur Mer",
+    "slug": "byblos-sur-mer",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://abudhabi.intercontinental.com/byblos-sur-mer",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "InterContinental Abu Dhabi, King Abdullah bin Abdul Aziz Al Saud Street, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cafe Milano",
+    "slug": "cafe-milano",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.fourseasons.com/abudhabi/dining/restaurants/cafe_milano/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Four Seasons Hotel, The Galleria Level 1, Al Maryah Island, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Catch at St. Regis",
+    "slug": "catch-at-st-regis",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.catchatthestregis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Nation Riviera Beach Club, Corniche Road, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cipriani Dolci",
+    "slug": "cipriani-dolci",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.cipriani.com/cipriani-dolci-marina-mall",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "GL 7 & 8 Ground Floor - Haza Bin Zayed the 1st Street - Marina Mall, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Coya",
+    "slug": "coya",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://coyarestaurant.com/abu-dhabi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Galleria, Four Seasons Al Maryah Island Hotel, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Dai Pai Dong",
+    "slug": "dai-pai-dong",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.rosewoodhotels.com/en/abu-dhabi/dining/dai-pai-dong",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rosewood Abu Dhabi Hotel, Zayed the First Street, Al Maryah Island, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Em Sherif Sea Café",
+    "slug": "em-sherif-sea-cafe",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.rosewoodhotels.com/en/abu-dhabi/dining/em-sherif-sea-cafe",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rosewood Abu Dhabi Hotel, Zayed the First Street, Al Maryah Island, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Finz",
+    "slug": "finz",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/beachrotana/diningout/finz/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Beach Rotana Hotel, 10th Street, Al Zahiyah, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fouquet's",
+    "slug": "fouquets",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://fouquetsabudhabi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Louvre Abu Dhabi, Saadiyat Cultural District 1, Al Saadiyat Island, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Grand Beirut",
+    "slug": "grand-beirut",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://thegalleria.ae/dine/grand-beirut",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Unit 12100-1201 (FB), Level 2, The Galleria Al Maryah Island, Adgm Square, Al Maryah Island, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "José by Pizarro",
+    "slug": "jose-by-pizarro",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/jose-by-pizarro/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Conrad Etihad Towers Hotel, West Corniche, Corniche Road, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kopitiam by Chandy's",
+    "slug": "kopitiam-by-chandys",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.instagram.com/kopitiambychandys/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Al Falah Street, Old Passport Rd, Zone 1, Abu Dhabi",
+    "price_tier": "$"
+  },
+  {
+    "name": "La Petite Maison (LPM)",
+    "slug": "la-petite-maison-lpm",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://lpmrestaurants.com/abu-dhabi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "L1, The Galleria, Al Maryah Island, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Li Beirut",
+    "slug": "li-beirut",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/li-beirut/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Conrad Abu Dhabi Etihad Towers Hotel, West Corniche, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Li Jiang",
+    "slug": "li-jiang",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi/dining/li-jiang",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Ritz-Carlton Abu Dhabi, Grand Canal, Khor Al Maqt'a, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Martabaan by Hemant Oberoi",
+    "slug": "martabaan-by-hemant-oberoi",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Maté",
+    "slug": "mate",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.hyattrestaurants.com/en/abu-dhabi/restaurant/mate-abu-dhabi?src=prop_eame_en_misc_news_michelin_abuph",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Park Hyatt Abu Dhabi Hotel and Villas, Al Saadiyat Island, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Meylas",
+    "slug": "meylas",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.meylas.com/ar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Al Raha Beach, Al Muneera, Abu Dhabi",
+    "price_tier": "$"
+  },
+  {
+    "name": "Mijana",
+    "slug": "mijana",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi/dining/mijana",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Ritz-Carlton Hotel, Grand Canal, Al Maqta, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "NIRI",
+    "slug": "niri",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.nirirestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Building 9, Mamsha Al Saadiyat, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Namak",
+    "slug": "namak",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.dusit.com/dusitthani-abudhabi/dining/namak/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dusit Thani Hotel, Sultan Bin Zayed The First Street (Al Muroor Road), Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Novikov Abu Dhabi",
+    "slug": "novikov-abu-dhabi",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.novikovabudhabi.ae/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Galleria Al Maryah Island, Level 2 Luxury Collection, South Plaza ADGM, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Oak Room",
+    "slug": "oak-room",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.oakroomabudhabi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Abu Dhabi EDITION Hotel, Al Bateen Marina, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Oii",
+    "slug": "oii",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://oiiabudhabi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Al Qana Marina South, Al Maqta’ Street, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Paradiso",
+    "slug": "paradiso",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.paradisoabudhabi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Yas Bay Waterfront Pier 71, Yas Island, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pincode by Kunal Kapur",
+    "slug": "pincode-by-kunal-kapur",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://pincodebykunalkapur.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Galleria Al Maryah Island, Hamouda Bin Ali Al Dhaheri Street, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Punjab Grill",
+    "slug": "punjab-grill",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.punjabgrill.me/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Ritz-Carlton Hotel, Grand Canal, Venetian Village, 3rd Street, Al Rawdah, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ray's Grill",
+    "slug": "rays-grill",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/rays-grill/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Level 63, Conrad Etihad Towers Hotel, West Corniche, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sand & Koal",
+    "slug": "sand-koal",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/sand-and-koal",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Strawfire by Ross Shonhan",
+    "slug": "strawfire-by-ross-shonhan",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/strawfire-by-ross-shonhan",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Taparelle",
+    "slug": "taparelle",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.taparelle.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Manarat Al Sa’adiyat, Abu Dhabi",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tean",
+    "slug": "tean",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.jumeirah.com/en/dine/abu-dhabi/saadiyat-island-resort-tean",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jumeirah Saadiyat Island, Al Saadiyat Island, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Villa Mamas",
+    "slug": "villa-mamas",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://villamamas.com/abudhabi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Muroor Road, Eastern Road, Al Rawdah, Abu Dhabi",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Villa Toscana",
+    "slug": "villa-toscana",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.villatoscana-abudhabi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "St. Regis Hotel, Nation Towers, Corniche, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zuma",
+    "slug": "zuma",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://zumarestaurant.com/locations/abu-dhabi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Abu Dhabi Global Market, The Galleria Al Maryah Island, Abu Dhabi",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "terra",
+    "slug": "terra",
+    "city_id": "abu-dhabi-ae",
+    "website": "https://www.terra-eatery.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Al Qana, Rabdan, Abu Dhabi",
+    "price_tier": "$$"
+  }
+]

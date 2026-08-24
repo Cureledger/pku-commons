@@ -1,0 +1,671 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "barcelona-es",
+ "restaurant_count": 17,
+ "restaurants": [
+  {
+   "restaurant_id": "barcelona-es/suto",
+   "city_id": "barcelona-es",
+   "slug": "suto",
+   "name": "Suto",
+   "website": "",
+   "address": "Violant de Hungría Reina de Aragón 134, Barcelona, 08028, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/suto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/suto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/umo-alex-vall",
+   "city_id": "barcelona-es",
+   "slug": "umo-alex-vall",
+   "name": "UMO Alex Vall",
+   "website": "",
+   "address": "Reus 25, Barcelona, 08022, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/umo-alex-vall"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/umo-alex-vall",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/disfrutar",
+   "city_id": "barcelona-es",
+   "slug": "disfrutar",
+   "name": "Disfrutar",
+   "website": "https://www.disfrutarbarcelona.com/",
+   "address": "Villarroel 163, Barcelona, 08036, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/disfrutar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/disfrutar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/koy-shunka",
+   "city_id": "barcelona-es",
+   "slug": "koy-shunka",
+   "name": "Koy Shunka",
+   "website": "https://www.koyshunka.com/KoyShunka/esp_home.html",
+   "address": "De Copons 7, Barcelona, 08002, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/koy-shunka"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/koy-shunka",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/mae-barcelona",
+   "city_id": "barcelona-es",
+   "slug": "mae-barcelona",
+   "name": "MAE Barcelona",
+   "website": "https://maebcn.com/",
+   "address": "Sant Elíes 22, Barcelona, 08006, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/mae-barcelona"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/mae-barcelona",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/moments",
+   "city_id": "barcelona-es",
+   "slug": "moments",
+   "name": "Moments",
+   "website": "https://www.mandarinoriental.com/es-es/barcelona/passeig-de-gracia/dine/moments",
+   "address": "Passeig de Gràcia 38-40, Barcelona, 08007, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/moments"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/moments",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/prodigi",
+   "city_id": "barcelona-es",
+   "slug": "prodigi",
+   "name": "Prodigi",
+   "website": "https://www.prodigi.cat",
+   "address": "Girona 145, Barcelona, 08037, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/prodigi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/prodigi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/slow-low",
+   "city_id": "barcelona-es",
+   "slug": "slow-low",
+   "name": "Slow & Low",
+   "website": "https://www.slowandlowbcn.com",
+   "address": "Comte Borrell 119, Barcelona, 08015, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/slow-low"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/slow-low",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "World Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/bacaro",
+   "city_id": "barcelona-es",
+   "slug": "bacaro",
+   "name": "Bacaro",
+   "website": "https://www.bacarobarcelona.com",
+   "address": "Jerusalem 6, Barcelona, 08001, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/bacaro-1206273"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/bacaro-1206273",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/bardeni-caldeni",
+   "city_id": "barcelona-es",
+   "slug": "bardeni-caldeni",
+   "name": "Bardeni-Caldeni",
+   "website": "https://www.bardeni.es/",
+   "address": "Valencia 454, Barcelona, 08013, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/bardeni-caldeni"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/bardeni-caldeni",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/auc",
+   "city_id": "barcelona-es",
+   "slug": "auc",
+   "name": "AÜC",
+   "website": "https://www.aucbar.com/",
+   "address": "Plaça del Camp 7, Barcelona, 08022, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/auc"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/auc",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Regional Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "barcelona-es/besta",
+   "city_id": "barcelona-es",
+   "slug": "besta",
+   "name": "Besta",
+   "website": "https://www.bestabarcelona.com",
+   "address": "Aribau 106, Barcelona, 08036, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/besta"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/besta",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/mantis",
+   "city_id": "barcelona-es",
+   "slug": "mantis",
+   "name": "Mantis",
+   "website": "https://www.restaurantemantis.com/",
+   "address": "París 145, Barcelona, 08036, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/mantis"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/mantis",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/sensato",
+   "city_id": "barcelona-es",
+   "slug": "sensato",
+   "name": "Sensato",
+   "website": "https://www.sensatobarcelona.com/",
+   "address": "Septimania 36, Barcelona, 08006, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/sensato"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/sensato",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/taberna-noroeste",
+   "city_id": "barcelona-es",
+   "slug": "taberna-noroeste",
+   "name": "Taberna Noroeste",
+   "website": "https://www.tabernanoroeste.com",
+   "address": "Radas 67, Barcelona, 08004, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/taberna-noroeste"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/taberna-noroeste",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/ultramarinos-marin",
+   "city_id": "barcelona-es",
+   "slug": "ultramarinos-marin",
+   "name": "Ultramarinos Marín",
+   "website": "https://ultramarinosmarin.com/",
+   "address": "Balmes 187, Barcelona, 08006, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/ultramarinos-marin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/ultramarinos-marin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "barcelona-es/ame",
+   "city_id": "barcelona-es",
+   "slug": "ame",
+   "name": "âme",
+   "website": "https://www.amebarcelona.com",
+   "address": "Londres 91, Barcelona, 08036, Spain",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/catalunya/barcelona/restaurant/ame"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/catalunya/barcelona/restaurant/ame",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  }
+ ]
+}

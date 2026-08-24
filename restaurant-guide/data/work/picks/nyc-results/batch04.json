@@ -1,0 +1,1932 @@
+{
+  "results": [
+    {
+      "slug": "win-son",
+      "verdict": "blocked",
+      "reason": "Posted menu URL 404s. Homepage returns 403. Restaurant and bakery pages have no dish names.",
+      "menu_url": "https://winsonbrooklyn.com/menu/",
+      "picks": []
+    },
+    {
+      "slug": "yellow-rose",
+      "verdict": "picks",
+      "reason": "East Village dinner menu image posts vegetarian plates and veg dinner plates.",
+      "menu_url": "https://www.yellowrosenyc.com/menus/",
+      "picks": [
+        {
+          "name": "SHINER BEER QUESO",
+          "description": "Ancho oil, pickled long hots, cilantro",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "queso"
+        },
+        {
+          "name": "VEGAN CASHEW QUESO",
+          "description": "Ancho oil, pickled long hots, cilantro",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cashew"
+        },
+        {
+          "name": "SMOKED AVOCADO DIP",
+          "description": "Chipotle oil, pecans, pepitas, sesame seeds",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "pecans"
+        },
+        {
+          "name": "SKILLET CORNBREAD",
+          "description": "Honey butter, scallions, candied pecans",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "pecans"
+        },
+        {
+          "name": "SPANISH RICE ARANCINI",
+          "description": "Cilantro cashew crema, salsa verde, cotija",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cashew and cotija"
+        },
+        {
+          "name": "PRUITT'S BAR NACHOS",
+          "description": "Refried pinto beans, pico de gallo, queso, crema (vegan upon request)",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "queso and crema"
+        },
+        {
+          "name": "LITTLE GEM SALAD",
+          "description": "Vegan cashew ranch, corn tortilla strips, hominy powders, radish",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "cashew"
+        },
+        {
+          "name": "ROMAINE SALAD",
+          "description": "Smoked tomatillo vinaigrette, anchovies, cotija, croutons",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "cotija"
+        },
+        {
+          "name": "BEAN AND CHEESE",
+          "description": "Refried pinto beans from Upstate New York, shredded cheddar",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheddar"
+        },
+        {
+          "name": "PAPAS RANCHERA",
+          "description": "Fried Idaho potatoes simmered in salsa ranchera",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "CRUNCHY TOFU PICADILLO TACOS",
+          "description": "Order of three on crisp corn tortillas served with lettuce, tomato, cheddar",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheddar"
+        },
+        {
+          "name": "ENCHILADAS TEJANAS",
+          "description": "Red corn tortillas, Monterey Jack and cheddar, chili gravy, cilantro, scallions, refried beans, lettuce, tomato, and Spanish rice",
+          "course": "main",
+          "kind": "main",
+          "hold": "Monterey Jack and cheddar"
+        },
+        {
+          "name": "SPANISH RICE",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "REFRIED PINTO BEANS",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "yemenat",
+      "verdict": "picks",
+      "reason": "Clover order URL timed out. Official site posts a vegetable tagine and salad.",
+      "menu_url": "https://www.yemenat.rest/",
+      "picks": [
+        {
+          "name": "Shafoot",
+          "description": "Lahooh Bread soaked in herbal yogurt topped with pomegranate.",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "yogurt"
+        },
+        {
+          "name": "House Salad",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Vegetable Tagine",
+          "description": "A flavorful Moroccan stew featuring seasonal vegetables, chickpeas, apricots, and aromatic spices, served with couscous and topped with toasted almonds and fresh herbs.",
+          "course": "main",
+          "kind": "main",
+          "hold": "chickpeas and almonds"
+        }
+      ]
+    },
+    {
+      "slug": "4-charles-prime-rib",
+      "verdict": "picks",
+      "reason": "Dinner is meat and fish entrees. Posted vegetarian sides and a little gem salad.",
+      "menu_url": "https://www.nycprimerib.com/menus",
+      "picks": [
+        {
+          "name": "Little Gem Salad",
+          "description": "lightly dressed with avocado & fines herbes",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Elote Style Corn",
+          "description": "chili, lime, cilantro, parmesan",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "parmesan"
+        },
+        {
+          "name": "Creamed Spinach",
+          "description": "blue cheese, sweet onions",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "blue cheese"
+        },
+        {
+          "name": "Truffle Mac & Cheese",
+          "description": "black truffle, white cheddar",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "white cheddar"
+        },
+        {
+          "name": "Charred Broccoli",
+          "description": "butter, lemon",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Loaded Baked Potato",
+          "description": "bacon, sour cream, cheddar",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "bacon, sour cream, cheddar"
+        },
+        {
+          "name": "Button Mushrooms",
+          "description": "garlic, thyme, cream sherry",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Golden Fries",
+          "description": "garlic aioli (ketchup on request)",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "aioli"
+        }
+      ]
+    },
+    {
+      "slug": "53",
+      "verdict": "picks",
+      "reason": "Dinner posts salads, vegetable wok plates, a vegetable curry, and a mushroom clay pot.",
+      "menu_url": "https://53-nyc.com/menus/dinner/",
+      "picks": [
+        {
+          "name": "MIZUNA SALAD",
+          "description": "mushroom, hazelnut, truffle",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "hazelnut"
+        },
+        {
+          "name": "SEAWEED SALAD",
+          "description": "granny smith, sesame, walnut",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "walnut"
+        },
+        {
+          "name": "CUCUMBER SALAD",
+          "description": "wood ear mushroom, chili",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "CRYSTAL DUMPLING",
+          "description": "morel mushroom, spinach",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "VEGETABLE CURRY",
+          "description": "asparagus, morel",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "EGG NOODLE",
+          "description": "mushroom, garlic chive",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "MAPO TOFU",
+          "description": "preserved radish, tobanjan",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Bok Choy",
+          "description": "garlic",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "PEA SHOOT",
+          "description": "sambal",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "FRIED RICE",
+          "description": "toasted garlic, egg",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "MUSHROOM",
+          "description": "maitake, garlic",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "6-restaurant",
+      "verdict": "picks",
+      "reason": "July PDF posts a tomato plate, ricotta ravioli, and a maitake main.",
+      "menu_url": "https://www.6restaurant.com/s/Six-Menu-July.pdf",
+      "picks": [
+        {
+          "name": "Heirloom tomato",
+          "description": "with robiola cheese, nasturtium",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "robiola"
+        },
+        {
+          "name": "Ravioli",
+          "description": "with ricotta, sungold tomato, belper knolle",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta and belper knolle"
+        },
+        {
+          "name": "Heirloom Egg",
+          "description": "with aged gouda, chanterelles",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg and gouda"
+        },
+        {
+          "name": "Maitake",
+          "description": "with pistachio, horseradish",
+          "course": "main",
+          "kind": "main",
+          "hold": "pistachio"
+        }
+      ]
+    },
+    {
+      "slug": "adda",
+      "verdict": "picks",
+      "reason": "Posted vegetarian snacks, paneer, cauliflower, mushroom, dal, and a vegetable biryani.",
+      "menu_url": "https://www.addanyc.com/menus",
+      "picks": [
+        {
+          "name": "MAKAI MATTAR TIKKI",
+          "description": "fresh corn, green peas, papad, tomato chokha (v)",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "JACKFRUIT LUKHMI",
+          "description": "puff pastry, cumin, mint chutney (v)",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "BHATTI KUMBH",
+          "description": "Queen’s mushroom, hung yogurt, coriander, Kashmiri chili (v)",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "yogurt"
+        },
+        {
+          "name": "ANANAS PANEER TIKKA",
+          "description": "housemade paneer, pineapple, white chili, heirloom red pepper (v)",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "paneer"
+        },
+        {
+          "name": "DHANIWAL MALAI GOBHI",
+          "description": "Dubois Farm cauliflower, cheese and cilantro cream, cilantro oil (v)",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "PANEER KHURCHAN",
+          "description": "coarse coriander, cherry tomatoes, peppers, smoked chili (v)",
+          "course": "main",
+          "kind": "main",
+          "hold": "paneer"
+        },
+        {
+          "name": "SABZ DHUNGAR BIRYANI",
+          "description": "smoked basmati rice, housemade paneer, cauliflower, rainbow carrots, peewee potatoes, saffron (v)",
+          "course": "main",
+          "kind": "main",
+          "hold": "paneer"
+        },
+        {
+          "name": "DAL ADDA",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "ai-fiori",
+      "verdict": "picks",
+      "reason": "Lunch posts cucumber, salads, and a pesto campanelle.",
+      "menu_url": "https://aifiorinyc.com/menu/lunch/",
+      "picks": [
+        {
+          "name": "Vichyssoise",
+          "description": "chilled potato-leek soup, chives, crème fraîche",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "crème fraîche"
+        },
+        {
+          "name": "Insalata",
+          "description": "little gem, radish, hazelnut, ricotta salata, mollica",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "hazelnut and ricotta salata"
+        },
+        {
+          "name": "Cucumber",
+          "description": "marinated cucumber, sunflower seed, cherry tomato",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fiori Salad",
+          "description": "butter lettuce, pickled red onion, cucumber, pumpkin seeds, yogurt-dill vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "yogurt"
+        },
+        {
+          "name": "Campanelle",
+          "description": "pesto genovese, zucchini, asparagus, pistachio",
+          "course": "main",
+          "kind": "main",
+          "hold": "pesto and pistachio"
+        }
+      ]
+    },
+    {
+      "slug": "al-badawi",
+      "verdict": "blocked",
+      "reason": "Official site has no dish names. Order links open Heartland portals that stay on Loading.",
+      "menu_url": "https://www.albadawinyc.com/",
+      "picks": []
+    },
+    {
+      "slug": "altro-paradiso",
+      "verdict": "picks",
+      "reason": "Dinner PDF posts vegetarian pastas, salads, and vegetable sides.",
+      "menu_url": "https://cdn.shopify.com/s/files/1/0576/2426/4804/files/AltroDinner_08.22.26.pdf?v=1787426543",
+      "picks": [
+        {
+          "name": "ARANCINI",
+          "description": "rice fritter with fontina cheese and Calabrian chili",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "fontina"
+        },
+        {
+          "name": "FINOCCHIO",
+          "description": "fennel salad with Castelvetrano olives and provolone",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "provolone"
+        },
+        {
+          "name": "ASPARAGI E PERA",
+          "description": "asparagus and pear salad with mint and Parmigiano",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "Parmigiano"
+        },
+        {
+          "name": "CAPRESE",
+          "description": "Eckerton Hill Farms tomatoes, mozzarella, and basil",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "mozzarella"
+        },
+        {
+          "name": "LATTUGA",
+          "description": "little gem lettuce, herbs, guanciale, and primo sale cheese",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "primo sale"
+        },
+        {
+          "name": "CANDELE CACIO E PEPE",
+          "description": "house extruded pasta, heirloom peppercorns, and Gran Mugello cheese",
+          "course": "main",
+          "kind": "main",
+          "hold": "Gran Mugello"
+        },
+        {
+          "name": "SPAGHETTI POMODORO",
+          "description": "slow braised plum tomatoes, garlic, and basil",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "MALFATTI AI FUNGHI",
+          "description": "ricotta gnocchi with chanterelle mushrooms and corn",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta"
+        },
+        {
+          "name": "RISOTTO AGLI SPINACI",
+          "description": "Vialone Nano rice, spinach, garlic scapes, and Salva Cremasco cheese",
+          "course": "main",
+          "kind": "main",
+          "hold": "Salva Cremasco"
+        },
+        {
+          "name": "SAUTÉED GREENS WITH GARLIC",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "CAPONATA",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "CRISPY FRIES WITH AIOLI",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "aioli"
+        },
+        {
+          "name": "ROASTED SUMMER SQUASH",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "ARUGULA WITH PARMIGIANO",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "Parmigiano"
+        },
+        {
+          "name": "RANCHO GORDO BEANS",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "ammazzacaffe",
+      "verdict": "picks",
+      "reason": "Dinner and lunch menu images post vegetable plates and vegetarian pastas.",
+      "menu_url": "https://ammazzacaffe.nyc/dinner",
+      "picks": [
+        {
+          "name": "SUNCHOKE",
+          "description": "saltbaked sunchoke, hazelnut pesto, yoghurt, granny Smith apple, Pecorino Romano",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "hazelnut, yoghurt, Pecorino"
+        },
+        {
+          "name": "BURRATA",
+          "description": "creamy Burrata, basil, eggplant Calabrese",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata"
+        },
+        {
+          "name": "BARBABIETOLE",
+          "description": "roasted beets, smoked ricotta, pickled figs, pistachio",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "ricotta and pistachio"
+        },
+        {
+          "name": "LATTUGA",
+          "description": "gem lettuce, bagna cauda, lemon, Parmigiano, Bottarga Di Muggine",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "Parmigiano"
+        },
+        {
+          "name": "OLIVE",
+          "description": "mixed olives, citrus, herbs, house infused oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "RAPINI",
+          "description": "broccoli rabe, garlic, anchovy, chili",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "AGNOLOTTI",
+          "description": "ricotta, black truffle, almond pesto, aged balsamic",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta and almond"
+        },
+        {
+          "name": "GEMELLI VERDE",
+          "description": "maitake mushroom, spinach, goat's cheese",
+          "course": "main",
+          "kind": "main",
+          "hold": "goat cheese"
+        },
+        {
+          "name": "FUSILLI CACIO E PEPE",
+          "description": "",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "TAGLIATELLE ALLA VODKA",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "SPAGHETTI POMODORO",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "TRUFFLE FRIES",
+          "description": "Truffle, parmigiano, parsley & truffle aioli",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "parmigiano and aioli"
+        },
+        {
+          "name": "AGLIO E OLIO FRIES",
+          "description": "Garlic, olive oil, chili",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "ariari",
+      "verdict": "picks",
+      "reason": "Mains are fish, duck, chicken, monkfish. Posted Busan Caesar salad is a plate.",
+      "menu_url": "https://ariarinyc.com/food",
+      "picks": [
+        {
+          "name": "Busan Caesar Salad",
+          "description": "romaine, napa, shrimp jeotgal, anchovy ssamjang, nurungji",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "atoboy",
+      "verdict": "picks",
+      "reason": "Restaurant Week prix fixe posts asparagus and sweet corn as vegetable courses.",
+      "menu_url": "https://www.atoboynyc.com/s/08062026-Atoboy-Restaurant-Week-Summer-menu.pdf",
+      "picks": [
+        {
+          "name": "ASPARAGUS",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "SWEET CORN",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "EGG JJIM",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg"
+        }
+      ]
+    },
+    {
+      "slug": "avant-garden",
+      "verdict": "picks",
+      "reason": "Posted vegan dinner PDF is all vegetable plates and entrees.",
+      "menu_url": "https://www.avantgardennyc.com/s/Avant-Garden-Food-Menu-April-2026.pdf",
+      "picks": [
+        {
+          "name": "CELERY ROOT PASTA",
+          "description": "shaved black truffle, shiitake veloute, gremolata",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "SCORCHED CAULIFLOWER",
+          "description": "toasted garlic, fried capers, cauliflower puree",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "RISOTTO",
+          "description": "seasonal mushrooms, watercress, balsamic pearls, basil oil",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "PAELLA",
+          "description": "calasparra rice, artichoke, royal trumpet, almond, merguez aioli",
+          "course": "main",
+          "kind": "main",
+          "hold": "almond"
+        },
+        {
+          "name": "BEECH",
+          "description": "cauliflower cream, nori butter & herbed breadcrumbs, parmesan",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "parmesan"
+        },
+        {
+          "name": "MAITAKE MILLIE-FEUILLE",
+          "description": "thousand leaf potato, pickled hon shimeji, black truffle sauce",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "KING ROYAL TRUMPET RAVIOLO",
+          "description": "green sauce in the forest, ricotta, seasonal herbs",
+          "course": "main",
+          "kind": "main",
+          "hold": "ricotta"
+        },
+        {
+          "name": "BLACK PEARL OYSTER ENMOLADA",
+          "description": "mole, enchilada, epazote sour cream, cilantro, broccolini",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "HEN OF THE WOODS",
+          "description": "mushroom puree, kohlrabi, pickled hon shimeji",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "BLUE OYSTER",
+          "description": "celery root, fennel, button mushroom puree, charred cipollini, peppercorn sauce",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "BABY GEM",
+          "description": "caesar, roasted tomato, avocado, garlic nori crouton",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "AVOCADO",
+          "description": "carrot ginger, crispy rice, miso glaze, blistered shishito",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "CRISPY BRUSSELS SPROUTS",
+          "description": "shallot & balsamic vinaigrette, pears, cranberries, sesame seeds, arugula",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "FIG",
+          "description": "citrus ricotta, balsamic pearls, red watercress",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "ricotta"
+        },
+        {
+          "name": "ARTICHOKE",
+          "description": "spinach & artichoke puree, black truffle, jicama, cashew",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cashew"
+        }
+      ]
+    },
+    {
+      "slug": "balera",
+      "verdict": "picks",
+      "reason": "Dinner PDF posts salads, vegetable antipasti, a crepe rotolo, and vegetarian pizzas.",
+      "menu_url": "https://www.balerabk.com/BALERA_dinner_menu.pdf",
+      "picks": [
+        {
+          "name": "Olive",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fiori di Zucca",
+          "description": "Fried squash blossoms, tomato coulis",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Insalata Riviera",
+          "description": "Endive, arugula, baby turnips, raisins, almonds, breadcrumbs, apple vinegar dressing",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "almonds"
+        },
+        {
+          "name": "Spring Salad",
+          "description": "Gem lettuce, beets, strawberries, dill, pecorino, balsamic vinegar",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "pecorino"
+        },
+        {
+          "name": "Verdure al Salto",
+          "description": "Sauteéd green beans and snap peas, breadcrumbs, peperone crusco, ricotta salata",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "ricotta salata"
+        },
+        {
+          "name": "Rotolo di Crespella",
+          "description": "Savory crepes, stracciatella, mascarpone, marinated and fresh cherry tomatoes",
+          "course": "main",
+          "kind": "main",
+          "hold": "stracciatella and mascarpone"
+        },
+        {
+          "name": "Marinara",
+          "description": "Doppio pomodoro, garlic, sicilian oregano",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Margherita",
+          "description": "Tomato sauce, mozzarella di bufala, fresh parmesan, basil, evoo",
+          "course": "main",
+          "kind": "main",
+          "hold": "mozzarella and parmesan"
+        },
+        {
+          "name": "4 formaggi",
+          "description": "Mozzarella, gorgonzola, Parmigiano Reggiano, provolone, citrus zest, black pepper",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheese"
+        },
+        {
+          "name": "Eggplant parmigiana",
+          "description": "Tomato sauce, smoked provolone, roasted eggplant, Parmesan, mint, basil",
+          "course": "main",
+          "kind": "main",
+          "hold": "provolone and Parmesan"
+        }
+      ]
+    },
+    {
+      "slug": "bangkok-supper-club",
+      "verdict": "picks",
+      "reason": "À la carte posts salads, grilled eggplant, and vegetable sides.",
+      "menu_url": "https://www.bangkoksupperclubnyc.com/menus/",
+      "picks": [
+        {
+          "name": "Three-Egg Salad",
+          "description": "Fried duck egg, cherry tomatoes, celery leaves, celery roots, garnished with grated cured egg yolk and trout roe",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "egg"
+        },
+        {
+          "name": "Grilled Mushroom Salad",
+          "description": "Little gem lettuce, king oyster, oyster mushrooms, chrysanthemum shoots and Thai basil, sprinkled with coconut chips, served with coconut cilantro dressing.",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Citrus Salad",
+          "description": "Grapefruit salad with tangerine, kumquat, pistachios crunch and Makrut lime leaves",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "pistachios"
+        },
+        {
+          "name": "Grilled Eggplant",
+          "description": "Grilled eggplant, soy bean glaze, grilled mushroom, crispy shallot and fried basil",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Green Beans",
+          "description": "Charcoal grilled green beans, sweet peas, english peas, crispy garlic chili oil, tofu cream and crispy shallots",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "tofu"
+        }
+      ]
+    },
+    {
+      "slug": "barawine",
+      "verdict": "picks",
+      "reason": "Site favorites post a corn soup and a cheese platter. Full dish list is not on the page.",
+      "menu_url": "https://www.barawine.com/welcome-2",
+      "picks": [
+        {
+          "name": "SPICY CORN SOUP",
+          "description": "Creamy spicy corn & poblano cheese soup, Bordelaise Sauce",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "cheese platter",
+          "description": "Brie, manchego, blue cheese, goat cheese, served with apples, grapes & crackers",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        }
+      ]
+    },
+    {
+      "slug": "bartolo",
+      "verdict": "picks",
+      "reason": "Dinner PDF posts vegetable pintxos, salad, mushrooms, tomatoes, and a vegetable menestra.",
+      "menu_url": "https://www.bartolonyc.com/s/82026-Dinner-Menu-Copy.pdf",
+      "picks": [
+        {
+          "name": "TARTA DE ESCALIVADA",
+          "description": "FIRE ROASTED PEPPERS AND EGGPLANT, PUFF PASTRY",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "ENSALADA DOLORES",
+          "description": "LITTLE GEM LETTUCE, BOILED EGG, CARROTS, BEETS, WHITE ASPARAGUS CONSERVA",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "egg"
+        },
+        {
+          "name": "CHAMPIÑONES AL AJILLO",
+          "description": "MUSHROOMS, GARLIC, PARSLEY",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "AJO BLANCO CON MELÓN",
+          "description": "CHILLED ALMOND CREMA, HONEYDEW SORBET",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "almond"
+        },
+        {
+          "name": "TOMATES ALIÑADOS",
+          "description": "DRESSED TOMATOES",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "MENESTRA DE ALCACHOFAS Y CARDOS",
+          "description": "BRAISED ARTICHOKES, CARDOONS, JAMÓN BROTH",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "benoit",
+      "verdict": "picks",
+      "reason": "Given URL was a Paris news post. NYC dinner posts tomato salad, potato salad, ratatouille, and vegetable sides. No vegetarian plat.",
+      "menu_url": "https://www.benoitny.com/menus/dinner-menu/",
+      "picks": [
+        {
+          "name": "Panisse fries",
+          "description": "anchoiade",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Warm potato salad",
+          "description": "mustard dressing",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Onion soup gratinée",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "Heirloom tomato salad",
+          "description": "basil condiment",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Our ratatouille",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Pommes frites",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Mixed green salad",
+          "description": "mustard vinaigrette",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Green beans & shallot",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "bong",
+      "verdict": "blocked",
+      "reason": "Menu page is an empty shell. No dish names.",
+      "menu_url": "https://www.bongnyc.com/menu",
+      "picks": []
+    },
+    {
+      "slug": "cafe-commerce",
+      "verdict": "picks",
+      "reason": "Daily menu posts a herb salad, sweet-potato tortelloni, and vegetable sides. Entrees are meat and fish.",
+      "menu_url": "https://www.cafecommercenyc.com/daily-menu",
+      "picks": [
+        {
+          "name": "Herb Salad",
+          "description": "manchego & lemon vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "manchego"
+        },
+        {
+          "name": "Sweet Potato Tortelloni",
+          "description": "hazelnuts, pomegranate & beurre noisette",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "hazelnuts"
+        },
+        {
+          "name": "Broccoli w/ burnt garlic",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Mexican style corn",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Green beans w/ pesto",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "pesto"
+        },
+        {
+          "name": "Wilted spinach w/ shallots",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Potato purée",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Potato galette w/ jalapeño crema",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "crema"
+        },
+        {
+          "name": "French fries",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Marinated Olives",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "cafe-mado",
+      "verdict": "picks",
+      "reason": "Dinner posts salads, farinata, cabbage, eggplant, and lumache alla vodka.",
+      "menu_url": "https://www.cafemadonyc.com/menu",
+      "picks": [
+        {
+          "name": "Le Caesar",
+          "description": "",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Panzanella, Pickled Berries, Verbena",
+          "description": "",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Farinata, Wild Mushrooms, Taleggio",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "taleggio"
+        },
+        {
+          "name": "Grilled Cabbage, Whey, Salsa Verde",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Fried Graffiti Eggplant, Harissa Butter",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Lumache alla Vodka",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Pomme Paillasson",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Heirloom Tomato, Ciabatta",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "cafe-sabarsky",
+      "verdict": "picks",
+      "reason": "Posted savory menu has vegetable soups, salads, and creamed spätzle with vegetables.",
+      "menu_url": "https://neue-gallerie-files.b-cdn.net/e41492ecba26d40bda4c623c86b7eeca37f8e860.pdf",
+      "picks": [
+        {
+          "name": "Weiβe Spargel – Creme – Suppe",
+          "description": "White Asparagus Soup, Herb Oil & Spring Garlic Croutons",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Frühlings – Erbsen – Suppe",
+          "description": "Spring Pea Soup with Mint & Herb Oil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Spätzle, Erbsen, Korn, Karotten, Schwammerln Estragon",
+          "description": "Creamed Spätzle, Seasonal Vegetables, Mushrooms & Tarragon",
+          "course": "main",
+          "kind": "main",
+          "hold": "cream"
+        },
+        {
+          "name": "Rote Rüben Salat mit Ziegenkäse, Pinienkernen",
+          "description": "Beet Salad with Goat Cheese, Pine Nuts and Sherry Vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "goat cheese and pine nuts"
+        },
+        {
+          "name": "Blattsalate mit Radieschen, Kürbiskernöl",
+          "description": "Boston Lettuce with Herbs, Radishes, Cherry Tomatoes and Pumpkinseed Oil",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "cafe-carmellini",
+      "verdict": "picks",
+      "reason": "Dinner posts tomato-melon salad, zucchini blossoms, artichoke, and corn caramelle.",
+      "menu_url": "https://www.cafecarmellini.com/menus/",
+      "picks": [
+        {
+          "name": "Heirloom Tomato & Melon Salad",
+          "description": "",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Zucchini Blossom Fritti",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Artichoke Provençal",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Corn Caramelle, Sherry Jus",
+          "description": "",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "slug": "cafe-kestrel",
+      "verdict": "picks",
+      "reason": "Dinner PDF entrees are meat and fish. Posted salads, halloumi, farinata, fries, and mac & cheese.",
+      "menu_url": "https://www.kesnewyork.com/s/MASTER-MENU-KES-DINNER-II.pdf",
+      "picks": [
+        {
+          "name": "CAFE SALAD",
+          "description": "w/ Radicchio, Beets, Red Rock Blue, Walnut Praline & Citronette",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "blue cheese and walnut"
+        },
+        {
+          "name": "GODDESS SALAD",
+          "description": "w/ Little Gems, Avocados, Fennel, Cress & Asparagus",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "FRIED HALLOUMI",
+          "description": "w/ Piment d'Espelette",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "halloumi"
+        },
+        {
+          "name": "FARINATA",
+          "description": "w/ Meyer Lemons",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "ŒUFS MIMOSA",
+          "description": "w/ Gaufrettes",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "egg"
+        },
+        {
+          "name": "FRIES",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "MAC & CHEESE",
+          "description": "",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "cheese"
+        }
+      ]
+    },
+    {
+      "slug": "carbone",
+      "verdict": "blocked",
+      "reason": "Given URL is Carbone Hong Kong and timed out. NYC site menu tabs are an empty JavaScript shell.",
+      "menu_url": "https://www.carbone.com.hk/menu",
+      "picks": []
+    },
+    {
+      "slug": "carlotto",
+      "verdict": "picks",
+      "reason": "Restaurant Week PDF posts vegetable antipasti, mushroom risotto, corn agnolotti, and sides.",
+      "menu_url": "https://carlottonewyork.com/wp-content/uploads/2026/08/CarlottoPrixFixeSummerRW_-August-6.pdf",
+      "picks": [
+        {
+          "name": "LITTLE GEM CAESAR",
+          "description": "olive oil croutons, aged parmigiano",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "parmigiano"
+        },
+        {
+          "name": "BURRATA PUGLIESE",
+          "description": "cruschi peppers, garlic oil",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata"
+        },
+        {
+          "name": "ZUCCHINI FRITTERS",
+          "description": "fiori di zucca, shaved summer squash feta",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "feta"
+        },
+        {
+          "name": "CRISPY BABY ARTICHOKES",
+          "description": "lemon bagna cauda, mint shaved pecorino",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "pecorino"
+        },
+        {
+          "name": "RISOTTO AI FUNGHI PORCINI",
+          "description": "porcini ragù, truffle butter, arugula parmigiano",
+          "course": "main",
+          "kind": "main",
+          "hold": "parmigiano"
+        },
+        {
+          "name": "SWEET CORN AGNOLOTTI",
+          "description": "chanterelles, shaved truffle parmesan brodo",
+          "course": "main",
+          "kind": "main",
+          "hold": "parmesan"
+        },
+        {
+          "name": "TRUFFLE POTATO “MILLEFOGLIE”",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "ROASTED CAULIFLOWER",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "CHARRED BROCCOLINI",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "carne-mare",
+      "verdict": "picks",
+      "reason": "Dinner posts a smoke-roasted beet steak, corn raviolini, salads, and vegetable sides.",
+      "menu_url": "https://www.carnemare.com/menus/",
+      "picks": [
+        {
+          "name": "Brooklyn Burrata",
+          "description": "sugar snap peas, trapanese",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "burrata"
+        },
+        {
+          "name": "Sicilian Caesar",
+          "description": "toasted sesame, parmesan, egg mimosa",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "parmesan and egg"
+        },
+        {
+          "name": "The House Wedgini",
+          "description": "gorgonzola dolce, pancetta dressing",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "gorgonzola"
+        },
+        {
+          "name": "Sweet Corn Raviolini",
+          "description": "sun blushed tomato, basil",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "(v) 12 oz Smoke-Roasted Beet Steak",
+          "description": "goat butter",
+          "course": "main",
+          "kind": "main",
+          "hold": "goat butter"
+        },
+        {
+          "name": "Linguine al Pesto",
+          "description": "pine nuts, parmigiano",
+          "course": "main",
+          "kind": "main",
+          "hold": "pine nuts and parmigiano"
+        },
+        {
+          "name": "Eggplant Sandwich alla Parmigiana",
+          "description": "stracciatella, tomato",
+          "course": "main",
+          "kind": "main",
+          "hold": "stracciatella"
+        },
+        {
+          "name": "Broccolini",
+          "description": "garlic & oil",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Creamed Spinach",
+          "description": "crispy shallots",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Mushroom Marsala",
+          "description": "porcini crema",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Potatoes Rustica",
+          "description": "rosemary & parmigiano",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "parmigiano"
+        },
+        {
+          "name": "Heirloom Polenta",
+          "description": "herb caprino",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "caprino"
+        },
+        {
+          "name": "Corn Cacio e Pepe",
+          "description": "pecorino & black pepper",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "pecorino"
+        },
+        {
+          "name": "Twice-Baked Potato",
+          "description": "black truffle, fontina",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "fontina"
+        },
+        {
+          "name": "Dressed Arugula",
+          "description": "olio verde, lemon",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "casa-enrique",
+      "verdict": "picks",
+      "reason": "Heartland order URL stayed on Loading. Official dinner page posts guacamole, beet salad, vegan tacos, rajas enchiladas, and chile relleno.",
+      "menu_url": "https://casaenriquelic.com/dinner-1",
+      "picks": [
+        {
+          "name": "GUACAMOLE",
+          "description": "AVOCADO, ONION, CILANTRO, CHILE SERRANO, TOMATO, WITH SIDE OF HOMEMADE TOTOPOS",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "ENSALADA DE BETABEL CON JICAMA",
+          "description": "BEETS, JICAMA, QUESO FRESCO, MINT, LEMON VINAIGRETTE, CANDIED PUMPKIN SEEDS",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "queso fresco"
+        },
+        {
+          "name": "RAJAS CON CREMA",
+          "description": "ROASTED CHILIES POBLANOS, ONION, CORN CHEESE, AND CREAM",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese and cream"
+        },
+        {
+          "name": "TACOS VEGANOS DE LA TEMPORADA",
+          "description": "Seasonal Vegan Tacos",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "DOÑA BLANCA (rajas con crema)",
+          "description": "Roasted chili poblanos, onion, rolled in corn tortilla, tomatillo sauce, lettuce, black beans, crema fresca, queso fresco",
+          "course": "main",
+          "kind": "main",
+          "hold": "crema and queso fresco"
+        },
+        {
+          "name": "CHILE RELLENO",
+          "description": "Chili poblano stuffed with chihuahua cheese, tomato sauce and rice",
+          "course": "main",
+          "kind": "main",
+          "hold": "chihuahua cheese"
+        },
+        {
+          "name": "Side Order of Arroz",
+          "description": "Rice",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Side Order of Frijoles",
+          "description": "Beans",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "casa-ora",
+      "verdict": "picks",
+      "reason": "Dinner posts vegetable street food, salads, and a maitake entree.",
+      "menu_url": "https://casaoranyc.com/food-menu",
+      "picks": [
+        {
+          "name": "Guacamole",
+          "description": "Served with plantain chips",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tequeňos",
+          "description": "Fried breaded cheese sticks with salsa rosada & guasacaca",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "Mandocas",
+          "description": "Corn doughnuts with queso blanco & nata",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "queso blanco"
+        },
+        {
+          "name": "Little Gem",
+          "description": "Mango, papaya, adobo lime vinaigrette",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Heirloom Tomato",
+          "description": "Heart of palm dressing, charred avocado, red onion, cassava dust",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Burrata",
+          "description": "Guayanes cheese filled with queso de mano, sauteed cherry tomatoes, basil, olive oil & lime",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "cheese"
+        },
+        {
+          "name": "Maitake",
+          "description": "Sauteed maitake , almonds, cauliflower curry paste, aji dulce sauce & herbs salad",
+          "course": "main",
+          "kind": "main",
+          "hold": "almonds"
+        },
+        {
+          "name": "Yucca Fries",
+          "description": "with salsa rosada & guasacaca",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Plantain Chips",
+          "description": "with chimichurri",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Sweet Plantain",
+          "description": "fried with nata & queso blanco",
+          "course": "side",
+          "kind": "beyond",
+          "hold": "nata and queso blanco"
+        }
+      ]
+    },
+    {
+      "slug": "cha-kee",
+      "verdict": "picks",
+      "reason": "Posted menu image has vegetable starters, a salad, Buddha’s Delight, and mushroom fried rice.",
+      "menu_url": "https://www.chakeenyc.com/menu/",
+      "picks": [
+        {
+          "name": "Smashed Cucumber and Avocado",
+          "description": "shio konbu, mala oil, lemon juice (vegan)",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Crispy Cauliflower",
+          "description": "sweet spicy lime, Gochujang sauce, toasted walnuts (v)",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "walnuts"
+        },
+        {
+          "name": "Shishito Peppers",
+          "description": "lime salt, shio konbu, sesame seeds, soy chili sauce (vegan, gf)",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Edamame",
+          "description": "wok charred, garlic yuzu brown butter, charcoal salt, bubu arare (vegan)",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Crispy Baby Bok Choy",
+          "description": "sea salt, shichimi togarashi, furikake",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Cha Kee Salad",
+          "description": "romaine, nappa cabbage, kohlrabi, taro chips, cilantro, peanuts, sesame dressing (vegan)",
+          "course": "side",
+          "kind": "potato_or_salad",
+          "hold": "peanuts"
+        },
+        {
+          "name": "Soy Milk Braised Romaine Lettuce",
+          "description": "scallion oil, chili oil, pumpkin seed (v, gf)",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "Buddha’s Delight",
+          "description": "lotus root, carrot, snap pea, tofu, broccoli, bean curd, eggplant, cauliflower, mushroom, bean sprout (vegan)",
+          "course": "main",
+          "kind": "main",
+          "hold": "tofu"
+        },
+        {
+          "name": "Ume and Mushroom Fried Rice",
+          "description": "oyster, shiitake, & wood ear mushrooms, egg, shiso (v, gf)",
+          "course": "main",
+          "kind": "main",
+          "hold": "egg"
+        }
+      ]
+    },
+    {
+      "slug": "chambers",
+      "verdict": "picks",
+      "reason": "Posted dinner list has tomatoes, zucchini, eggplant parm, beans, and potatoes.",
+      "menu_url": "https://www.chambers.nyc/menu-dropdown",
+      "picks": [
+        {
+          "name": "market tomatoes",
+          "description": "cucumber | shiro dashi",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "zucchini",
+          "description": "tomatillo salsa | basil",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "eggplant \"parm\"",
+          "description": "sungolds | brown butter | vermont cheddar",
+          "course": "main",
+          "kind": "main",
+          "hold": "cheddar"
+        },
+        {
+          "name": "summer beans",
+          "description": "ranch",
+          "course": "side",
+          "kind": "beyond"
+        },
+        {
+          "name": "butterball potatoes",
+          "description": "bbq spices",
+          "course": "side",
+          "kind": "potato_or_salad"
+        }
+      ]
+    },
+    {
+      "slug": "chez-fifi",
+      "verdict": "picks",
+      "reason": "Plats are fish and meat. Posted salads, asparagus, mushrooms, and potato sides.",
+      "menu_url": "https://www.chezfifinyc.com/menu",
+      "picks": [
+        {
+          "name": "Salade d’oranges",
+          "description": "capers, horseradish",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Endive",
+          "description": "walnuts, pears, Fourme d'Ambert",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "walnuts and Fourme d'Ambert"
+        },
+        {
+          "name": "White asparagus",
+          "description": "brioche, lemon, sauce Mousseline",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "mousseline"
+        },
+        {
+          "name": "Salade verte",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Pommes Fifi",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Frites maison",
+          "description": "",
+          "course": "side",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Wild mushrooms",
+          "description": "",
+          "course": "side",
+          "kind": "beyond"
+        }
+      ]
+    },
+    {
+      "slug": "chez-ma-tante",
+      "verdict": "picks",
+      "reason": "Dinner PDF entrees are meat and fish. Posted olives, chips, kohlrabi salad, tomato, Caesar, and falafel.",
+      "menu_url": "https://files.cargocollective.com/c1840156/Dinner-08.25.25-.pdf",
+      "picks": [
+        {
+          "name": "Olives",
+          "description": "",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Chips and aioli",
+          "description": "",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "aioli"
+        },
+        {
+          "name": "Kohlrabi salad",
+          "description": "apple, hazelnuts",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "hazelnuts"
+        },
+        {
+          "name": "Grilled tomato",
+          "description": "wax beans, pistachio pistou",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "pistachio"
+        },
+        {
+          "name": "Caesar salad",
+          "description": "anchovy, Piave, breadcrumbs",
+          "course": "starter",
+          "kind": "potato_or_salad",
+          "hold": "Piave"
+        },
+        {
+          "name": "Falafel",
+          "description": "hummus, green harissa, cucumber",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "hummus"
+        }
+      ]
+    },
+    {
+      "slug": "chick-chick",
+      "verdict": "blocked",
+      "reason": "Official menu pages show hours only. Square shop categories load without dish names.",
+      "menu_url": "https://www.chickchicknyc.com/menu-2",
+      "picks": []
+    },
+    {
+      "slug": "chola",
+      "verdict": "picks",
+      "reason": "Official PDF posts many vegetarian starters and vegan, paneer, and vegetable entrees.",
+      "menu_url": "https://drive.google.com/file/d/1CS9y0Lq_YghgWrDy4WOoVtoFEp98d6qF/view?usp=sharing",
+      "picks": [
+        {
+          "name": "Onion Pakora",
+          "description": "Crispy onion fritters",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Samosa",
+          "description": "Spiced potato and cauliflower filling",
+          "course": "starter",
+          "kind": "potato_or_salad"
+        },
+        {
+          "name": "Kurkuri Bhindi",
+          "description": "Crispy okra, besan flour, chaat masala, lime",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Lasoni Gobi",
+          "description": "Tangy cauliflower, ginger, garlic",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Tamarind Eggplant",
+          "description": "Chaat masala, besan crunchies",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Mushroom Hariyali",
+          "description": "Grilled in green marinade",
+          "course": "starter",
+          "kind": "beyond"
+        },
+        {
+          "name": "Chili Paneer",
+          "description": "Fried cheese, onion, bell pepper, garlic, soy sauce",
+          "course": "starter",
+          "kind": "beyond",
+          "hold": "paneer"
+        },
+        {
+          "name": "Hingwali Dal Tadka",
+          "description": "Yellow lentils, burnt garlic, asafoetida",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Langarwali Dal",
+          "description": "Medley of lentils, cumin, dry red chili",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Chole Amritsari",
+          "description": "Curried chickpeas, garden herbs",
+          "course": "main",
+          "kind": "main",
+          "hold": "chickpeas"
+        },
+        {
+          "name": "Martha Stewart’s Fav Bhindi",
+          "description": "Okra you would eat at your in-laws house",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Adrak Ki Gobi Keema",
+          "description": "Mashed cauliflower, onion, green chili",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Alu Gobi",
+          "description": "Spiced potato & cauliflower",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Saag Paneer",
+          "description": "Fresh pureed spinach & cheese",
+          "course": "main",
+          "kind": "main",
+          "hold": "paneer"
+        },
+        {
+          "name": "Malai Kofta",
+          "description": "Vegetable croquettes, cream, nuts, raisins",
+          "course": "main",
+          "kind": "main",
+          "hold": "cream and nuts"
+        },
+        {
+          "name": "Butter Paneer Masala",
+          "description": "Skewered cheese, creamy tomato sauce, coriander",
+          "course": "main",
+          "kind": "main",
+          "hold": "paneer"
+        },
+        {
+          "name": "Baigan Bharta",
+          "description": "Tandoor smoked eggplant, pounded spices",
+          "course": "main",
+          "kind": "main"
+        },
+        {
+          "name": "Tanjavur Avial",
+          "description": "Eclectic vegetables, coconut, yogurt, curry leaves",
+          "course": "main",
+          "kind": "main",
+          "hold": "yogurt"
+        },
+        {
+          "name": "Bhoger Khichuri",
+          "description": "A delicious one pot meal of rice, moong lentil & vegetables",
+          "course": "main",
+          "kind": "main"
+        }
+      ]
+    }
+  ]
+}

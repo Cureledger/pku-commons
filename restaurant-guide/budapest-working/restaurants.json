@@ -1,0 +1,320 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "budapest-hu",
+ "restaurant_count": 8,
+ "restaurants": [
+  {
+   "restaurant_id": "budapest-hu/rumour-by-racz-jeno",
+   "city_id": "budapest-hu",
+   "slug": "rumour-by-racz-jeno",
+   "name": "Rumour by Rácz Jenő",
+   "website": "https://rumour.restaurant/",
+   "address": "Petőfi tér 3, Budapest, 1051, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/rumour"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/rumour",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "budapest-hu/arany-kaviar",
+   "city_id": "budapest-hu",
+   "slug": "arany-kaviar",
+   "name": "Arany Kaviár",
+   "website": "https://aranykaviar.hu/",
+   "address": "Ostrom utca 19, Budapest, 1015, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/arany-kaviar"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/arany-kaviar",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "budapest-hu/faustos",
+   "city_id": "budapest-hu",
+   "slug": "faustos",
+   "name": "Fausto's",
+   "website": "https://fausto.hu/",
+   "address": "Szilágyi Erzsébet fasor 77, Budapest, 1026, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/fausto-s-1241248"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/fausto-s-1241248",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "budapest-hu/majorelle",
+   "city_id": "budapest-hu",
+   "slug": "majorelle",
+   "name": "Majorelle",
+   "website": "https://majorelle.hu/",
+   "address": "Hold utca 23, Budapest, 1054, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/majorelle-1242518"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/majorelle-1242518",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Moroccan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "budapest-hu/moszkvate-bisztro",
+   "city_id": "budapest-hu",
+   "slug": "moszkvate-bisztro",
+   "name": "MoszkvaTéЯ Bisztró",
+   "website": "https://www.moszkvaterbisztro.hu/",
+   "address": "Monastery Boutique Hotel, Fő utca 30, Budapest, 1011, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/moszkvate%D1%8F-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/moszkvate%D1%8F-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Russian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "budapest-hu/mak-by-mizseijani",
+   "city_id": "budapest-hu",
+   "slug": "mak-by-mizseijani",
+   "name": "MÁK by mizseijani",
+   "website": "https://mak.hu",
+   "address": "Vigyázó Ferenc utca 4, Budapest, 1051, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/mak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/mak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "budapest-hu/textura",
+   "city_id": "budapest-hu",
+   "slug": "textura",
+   "name": "Textúra",
+   "website": "https://texturaetterem.hu/",
+   "address": "Sas utca 6, Budapest, 1051, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/textura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/textura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "budapest-hu/umo",
+   "city_id": "budapest-hu",
+   "slug": "umo",
+   "name": "UMO",
+   "website": "https://www.umorestaurant.hu/",
+   "address": "Monastery Boutique Hotel Budapest, Ponty utca 1, Budapest, 1011, Hungary",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/central-hungary/budapest/restaurant/umo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/central-hungary/budapest/restaurant/umo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$"
+  }
+ ]
+}

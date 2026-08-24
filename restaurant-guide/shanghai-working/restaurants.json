@@ -1,0 +1,4922 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "shanghai-cn",
+ "restaurant_count": 126,
+ "restaurants": [
+  {
+   "restaurant_id": "shanghai-cn/amazing-chinese-cuisine-changning",
+   "city_id": "shanghai-cn",
+   "slug": "amazing-chinese-cuisine-changning",
+   "name": "Amazing Chinese Cuisine (Changning)",
+   "website": "",
+   "address": "B5 Villa, 1665 Hongqiao Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/amazing-chinese-cuisine-changning"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/amazing-chinese-cuisine-changning",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/canton-8-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "canton-8-huangpu",
+   "name": "Canton 8 (Huangpu)",
+   "website": "",
+   "address": "63 Runan Street, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-8-runan-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-8-runan-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/fu-he-hui",
+   "city_id": "shanghai-cn",
+   "slug": "fu-he-hui",
+   "name": "Fu He Hui",
+   "website": "",
+   "address": "1037 Yuyuan Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-he-hui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-he-hui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/ji-pin-court",
+   "city_id": "shanghai-cn",
+   "slug": "ji-pin-court",
+   "name": "Ji Pin Court",
+   "website": "",
+   "address": "3F, 55 South Wulumuqi Road, Xuhui, Shanghai, 200031, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ji-pin-court"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ji-pin-court",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/the-house-of-rong",
+   "city_id": "shanghai-cn",
+   "slug": "the-house-of-rong",
+   "name": "The House of Rong",
+   "website": "",
+   "address": "170 Nanyang Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-house-of-rong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-house-of-rong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/tou-zao",
+   "city_id": "shanghai-cn",
+   "slug": "tou-zao",
+   "name": "Tou Zao",
+   "website": "",
+   "address": "Shop 211, East Wing, Shanghai Centre, 1376 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tou-zao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tou-zao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/cheng-long-hang-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "cheng-long-hang-huangpu",
+   "name": "Cheng Long Hang (Huangpu)",
+   "website": "",
+   "address": "216 Jiujiang Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cheng-long-hang-huangpu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cheng-long-hang-huangpu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/fabula",
+   "city_id": "shanghai-cn",
+   "slug": "fabula",
+   "name": "Fabula",
+   "website": "",
+   "address": "2-3F, 720 Weihai Road, Jing'an, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fabula"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fabula",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/fu-1015",
+   "city_id": "shanghai-cn",
+   "slug": "fu-1015",
+   "name": "Fu 1015",
+   "website": "",
+   "address": "1015 Yuyuan Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1015"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1015",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/fu-1039",
+   "city_id": "shanghai-cn",
+   "slug": "fu-1039",
+   "name": "Fu 1039",
+   "website": "",
+   "address": "1039 Yuyuan Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1039"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1039",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/fu-1088",
+   "city_id": "shanghai-cn",
+   "slug": "fu-1088",
+   "name": "Fu 1088",
+   "website": "",
+   "address": "375 Zhenning Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1088"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1088",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/huaiyang-delights-jingan",
+   "city_id": "shanghai-cn",
+   "slug": "huaiyang-delights-jingan",
+   "name": "Huaiyang Delights (Jingan)",
+   "website": "",
+   "address": "5F, Park Place, 1601 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/huaiyang-delights-jingan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/huaiyang-delights-jingan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Huaiyang",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lao-zheng-xing",
+   "city_id": "shanghai-cn",
+   "slug": "lao-zheng-xing",
+   "name": "Lao Zheng Xing",
+   "website": "",
+   "address": "556 Fuzhou Road, Huangpu, Shanghai, 200001, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-zheng-xing-huangpu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-zheng-xing-huangpu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lu-style-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "lu-style-huangpu",
+   "name": "Lu Style (Huangpu)",
+   "website": "",
+   "address": "Room 207, 2F, Uni Elite, Lane 838, South Huangpi Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lu-style-1203592"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lu-style-1203592",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shandong",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/meet-the-bund-zhongshan-dong-er-road",
+   "city_id": "shanghai-cn",
+   "slug": "meet-the-bund-zhongshan-dong-er-road",
+   "name": "Meet the Bund (Zhongshan Dong Er Road)",
+   "website": "",
+   "address": "S301, 3F, South Mall, The Bund Finance Center, 600 Zhongshan Dong Er Road, Huangpu, Shanghai, 200001, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/meet-the-bund"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/meet-the-bund",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fujian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/moose-changning",
+   "city_id": "shanghai-cn",
+   "slug": "moose-changning",
+   "name": "Moose (Changning)",
+   "website": "",
+   "address": "No.1, Lane 119, Xinhua Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/moose-changning"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/moose-changning",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/moose-pudong",
+   "city_id": "shanghai-cn",
+   "slug": "moose-pudong",
+   "name": "Moose (Pudong)",
+   "website": "",
+   "address": "9F, L+Mall, 899 South Pudong Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/moose-pudong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/moose-pudong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/oriental-sense-palate",
+   "city_id": "shanghai-cn",
+   "slug": "oriental-sense-palate",
+   "name": "Oriental Sense & Palate",
+   "website": "",
+   "address": "57 Sinan Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/oriental-sense-palate"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/oriental-sense-palate",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/ren-he-guan-xuhui",
+   "city_id": "shanghai-cn",
+   "slug": "ren-he-guan-xuhui",
+   "name": "Ren He Guan (Xuhui)",
+   "website": "",
+   "address": "407 Zhaojiabang Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ren-he-guan-zhaojiabang-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ren-he-guan-zhaojiabang-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/sheng-yong-xing-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "sheng-yong-xing-huangpu",
+   "name": "Sheng Yong Xing (Huangpu)",
+   "website": "",
+   "address": "5F, Bund 5, 20 Guangdong Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sheng-yong-xing"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sheng-yong-xing",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beijing Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/sole",
+   "city_id": "shanghai-cn",
+   "slug": "sole",
+   "name": "Sole",
+   "website": "",
+   "address": "Shop 109, Shanghai Centre, 1376 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sole"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sole",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/wu-you-xian",
+   "city_id": "shanghai-cn",
+   "slug": "wu-you-xian",
+   "name": "Wu You Xian",
+   "website": "",
+   "address": "Room 1-103, 7 South Maoming Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wu-you-xian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wu-you-xian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yong-fu-hongkou",
+   "city_id": "shanghai-cn",
+   "slug": "yong-fu-hongkou",
+   "name": "Yong Fu (Hongkou)",
+   "website": "",
+   "address": "56F, East Tower, Raffles City The Bund, 1089 Dongdaming Road, Hongkou, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-fu-hongkou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-fu-hongkou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ningbo",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yong-fu-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "yong-fu-huangpu",
+   "name": "Yong Fu (Huangpu)",
+   "website": "",
+   "address": "11-12F, Cathay Building, Jin Jiang Hotel, 59 South Maoming Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ningbo",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yue-hai-tang",
+   "city_id": "shanghai-cn",
+   "slug": "yue-hai-tang",
+   "name": "Yue Hai Tang",
+   "website": "",
+   "address": "Vi Park, 161 Haowen Road, Minhang, Shanghai, 200000, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yue-hai-tang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yue-hai-tang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/zhou-she-minhang",
+   "city_id": "shanghai-cn",
+   "slug": "zhou-she-minhang",
+   "name": "Zhou She (Minhang)",
+   "website": "",
+   "address": "Shop 116, Hongqiao Lihpao Plaza, No.16-101, Lane 318, Suhong Road, Minhang, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/zhou-she-minhang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/zhou-she-minhang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/157-shi-fang",
+   "city_id": "shanghai-cn",
+   "slug": "157-shi-fang",
+   "name": "157 Shi Fang",
+   "website": "",
+   "address": "Unit 101-102, Building T10, IM Shanghai, 1398 Kaixuan Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/157-shi-fang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/157-shi-fang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/a-yong-mian-guan-dongshufang-road",
+   "city_id": "shanghai-cn",
+   "slug": "a-yong-mian-guan-dongshufang-road",
+   "name": "A Yong Mian Guan (Dongshufang Road)",
+   "website": "",
+   "address": "309 Dongshufang Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/a-yong-mian-guan-dongshufang-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/a-yong-mian-guan-dongshufang-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/blossom",
+   "city_id": "shanghai-cn",
+   "slug": "blossom",
+   "name": "Blossom",
+   "website": "",
+   "address": "L501, Plaza 66, 1266 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/blossom-1246455"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/blossom-1246455",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/chun",
+   "city_id": "shanghai-cn",
+   "slug": "chun",
+   "name": "Chun",
+   "website": "",
+   "address": "124 Jinxian Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chun"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chun",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/congs-kitchen",
+   "city_id": "shanghai-cn",
+   "slug": "congs-kitchen",
+   "name": "Cong's Kitchen",
+   "website": "",
+   "address": "158 Luhe Road, Huangpu, Shanghai, 200001, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cong-s-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cong-s-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/da-hu-chun-middle-sichuan-road",
+   "city_id": "shanghai-cn",
+   "slug": "da-hu-chun-middle-sichuan-road",
+   "name": "Da Hu Chun (Middle Sichuan Road)",
+   "website": "",
+   "address": "136 Middle Sichuan Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-hu-chun-middle-sichuan-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-hu-chun-middle-sichuan-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/easeful-cuisine-jingan",
+   "city_id": "shanghai-cn",
+   "slug": "easeful-cuisine-jingan",
+   "name": "Easeful Cuisine (Jingan)",
+   "website": "",
+   "address": "2F, 90 South Shaanxi Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/easeful-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/easeful-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/gong-de-lin-west-nanjing-road",
+   "city_id": "shanghai-cn",
+   "slug": "gong-de-lin-west-nanjing-road",
+   "name": "Gong De Lin (West Nanjing Road)",
+   "website": "",
+   "address": "445 West Nanjing Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gong-de-lin-jingan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gong-de-lin-jingan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/hao-sheng",
+   "city_id": "shanghai-cn",
+   "slug": "hao-sheng",
+   "name": "Hao Sheng",
+   "website": "",
+   "address": "156 Guangyuan Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hao-sheng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hao-sheng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/he-shan-mian-jia",
+   "city_id": "shanghai-cn",
+   "slug": "he-shan-mian-jia",
+   "name": "He Shan Mian Jia",
+   "website": "",
+   "address": "1190 Hutai Road, Jing'an, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/he-shan-mian-jia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/he-shan-mian-jia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/ho-hung-kee",
+   "city_id": "shanghai-cn",
+   "slug": "ho-hung-kee",
+   "name": "Ho Hung Kee",
+   "website": "",
+   "address": "L324, South Building, HKRI Taikoo Hui, 288 Shimen Yi Road, Jingan, Shanghai, 400040, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ho-hung-kee-570572"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ho-hung-kee-570572",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles and Congee",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/jingmei-wuxi-noodles-yanping-road",
+   "city_id": "shanghai-cn",
+   "slug": "jingmei-wuxi-noodles-yanping-road",
+   "name": "Jingmei Wuxi Noodles (Yanping Road)",
+   "website": "",
+   "address": "128 Yanping Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jing-mei-wu-xi-si-fang-mian-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jing-mei-wu-xi-si-fang-mian-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lan-xin-jinxian-road",
+   "city_id": "shanghai-cn",
+   "slug": "lan-xin-jinxian-road",
+   "name": "Lan Xin (Jinxian Road)",
+   "website": "",
+   "address": "130 Jinxian Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lan-xin-jinxian-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lan-xin-jinxian-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lao-di-fang-mian-guan",
+   "city_id": "shanghai-cn",
+   "slug": "lao-di-fang-mian-guan",
+   "name": "Lao Di Fang Mian Guan",
+   "website": "",
+   "address": "107 Sinan Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-di-fang-mian-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-di-fang-mian-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lu-bo-lang",
+   "city_id": "shanghai-cn",
+   "slug": "lu-bo-lang",
+   "name": "Lu Bo Lang",
+   "website": "",
+   "address": "115 Yuyuan Old Street, City God Temple, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lu-bo-lang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lu-bo-lang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/mao-long",
+   "city_id": "shanghai-cn",
+   "slug": "mao-long",
+   "name": "Mao Long",
+   "website": "",
+   "address": "134 Jinxian Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mao-long"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mao-long",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/nanxiang-steamed-bun",
+   "city_id": "shanghai-cn",
+   "slug": "nanxiang-steamed-bun",
+   "name": "Nanxiang Steamed Bun",
+   "website": "",
+   "address": "85 Yuyuan Road, City God Temple, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nanxiang-steamed-bun-city-god-temple"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nanxiang-steamed-bun-city-god-temple",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/ning-hai-shi-fu",
+   "city_id": "shanghai-cn",
+   "slug": "ning-hai-shi-fu",
+   "name": "Ning Hai Shi Fu",
+   "website": "",
+   "address": "LG2-15D, T5, Vanke Center, 988 Shenchang Road, Minhang, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ning-hai-shi-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ning-hai-shi-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ningbo",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/ou-yue-zun-xian",
+   "city_id": "shanghai-cn",
+   "slug": "ou-yue-zun-xian",
+   "name": "Ou Yue Zun Xian",
+   "website": "",
+   "address": "Shop 605, 6F, Crystal Galleria, 68 Yuyuan Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ou-yue-zun-xian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ou-yue-zun-xian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Zhejiang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/qiao-ai-lai-lai-xiao-long-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "qiao-ai-lai-lai-xiao-long-huangpu",
+   "name": "Qiao Ai Lai Lai Xiao Long (Huangpu)",
+   "website": "",
+   "address": "506 Tianjin Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/qiao-ai-lai-lai-xiao-long-huangpu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/qiao-ai-lai-lai-xiao-long-huangpu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/rong-cuisine-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "rong-cuisine-huangpu",
+   "name": "Rong Cuisine (Huangpu)",
+   "website": "",
+   "address": "1-2F, 128 Taicang Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/rong-cuisine-huangpu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/rong-cuisine-huangpu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/rongjia-noodles-soup-with-yellow-croaker-jingan",
+   "city_id": "shanghai-cn",
+   "slug": "rongjia-noodles-soup-with-yellow-croaker-jingan",
+   "name": "Rongjia Noodles Soup with Yellow Croaker (Jingan)",
+   "website": "",
+   "address": "L105A-1, 688 Plaza, 688 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/rongjia-noodle-soup-with-yellow-croaker"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/rongjia-noodle-soup-with-yellow-croaker",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/tan",
+   "city_id": "shanghai-cn",
+   "slug": "tan",
+   "name": "Tan",
+   "website": "",
+   "address": "L 1-2, 106 Songyunlou, Jiu Qu Bridge Square, Yuyuan Garden Malls, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tan-1246400"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tan-1246400",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/the-lakeside-veggie",
+   "city_id": "shanghai-cn",
+   "slug": "the-lakeside-veggie",
+   "name": "The Lakeside Veggie",
+   "website": "",
+   "address": "L2-016-017, Sunny Walk, 230 Ruiping Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-lakeside-veggie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-lakeside-veggie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/the-taste-of-huzhou",
+   "city_id": "shanghai-cn",
+   "slug": "the-taste-of-huzhou",
+   "name": "The Taste of Huzhou",
+   "website": "",
+   "address": "No. 12, Lane 1422, Xietu Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-taste-of-huzhou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-taste-of-huzhou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/wang-lu-pudong",
+   "city_id": "shanghai-cn",
+   "slug": "wang-lu-pudong",
+   "name": "Wang Lu (Pudong)",
+   "website": "",
+   "address": "01-02, 3F, New Bund 31 Mall, No.15, Lane 666, West Haiyang Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wang-lu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wang-lu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/xiao-tao-mian-guan",
+   "city_id": "shanghai-cn",
+   "slug": "xiao-tao-mian-guan",
+   "name": "Xiao Tao Mian Guan",
+   "website": "",
+   "address": "222 Jiashan Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xiao-tao-mian-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xiao-tao-mian-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yangzhou-fan-dian-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "yangzhou-fan-dian-huangpu",
+   "name": "Yangzhou Fan Dian (Huangpu)",
+   "website": "",
+   "address": "345 Middle Fujian Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yangzhou-fan-dian-huangpu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yangzhou-fan-dian-huangpu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Huaiyang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yongfu-mini-pudong",
+   "city_id": "shanghai-cn",
+   "slug": "yongfu-mini-pudong",
+   "name": "YongFu Mini (Pudong)",
+   "website": "",
+   "address": "Shop 910, 9F, L+Mall, 899 South Pudong Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yongfu-mini"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yongfu-mini",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ningbo",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yu-du-lao-wei-mian",
+   "city_id": "shanghai-cn",
+   "slug": "yu-du-lao-wei-mian",
+   "name": "Yu Du Lao Wei Mian",
+   "website": "",
+   "address": "501 Liyuan Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yu-du-lao-wei-mian-huangpu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yu-du-lao-wei-mian-huangpu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yu-ge-zhanjiang-jingan",
+   "city_id": "shanghai-cn",
+   "slug": "yu-ge-zhanjiang-jingan",
+   "name": "Yu Ge Zhanjiang (Jingan)",
+   "website": "",
+   "address": "358 West Yan'an Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yu-ge-zhan-jiang-jingan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yu-ge-zhan-jiang-jingan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yunhe-noodle-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "yunhe-noodle-huangpu",
+   "name": "Yunhe Noodle (Huangpu)",
+   "website": "",
+   "address": "344 Changle Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yunhe-noodle-huangpu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yunhe-noodle-huangpu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/aster-by-joshua-paris",
+   "city_id": "shanghai-cn",
+   "slug": "aster-by-joshua-paris",
+   "name": "Aster by Joshua Paris",
+   "website": "",
+   "address": "2F, Busing A, 132 Yongyuan Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/aster-by-joshua-paris"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/aster-by-joshua-paris",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/bai-rong",
+   "city_id": "shanghai-cn",
+   "slug": "bai-rong",
+   "name": "Bai Rong",
+   "website": "",
+   "address": "1F, N2 Building, The Bund Finance Centre, 558 Zhongshan Dong Er Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/bai-rong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/bai-rong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shandong",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/cellar-to-table",
+   "city_id": "shanghai-cn",
+   "slug": "cellar-to-table",
+   "name": "Cellar to Table",
+   "website": "",
+   "address": "1A, 1F, 20 Donghu Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cellar-to-table"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cellar-to-table",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/chaimen-hui-pudong",
+   "city_id": "shanghai-cn",
+   "slug": "chaimen-hui-pudong",
+   "name": "Chaimen Hui (Pudong)",
+   "website": "",
+   "address": "Shop S-L4-04, Stone Zone, Taikoo Li Qiantan, Lane 500, Dongyu Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chaimen-hui-1205571"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chaimen-hui-1205571",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/chuan-yue-hai-tang-changning",
+   "city_id": "shanghai-cn",
+   "slug": "chuan-yue-hai-tang-changning",
+   "name": "Chuan Yue Hai Tang (Changning)",
+   "website": "",
+   "address": "A01, 4F, Livat, 788 Jinzhong Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chuan-yue-hai-tang-changning"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chuan-yue-hai-tang-changning",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/cuivre",
+   "city_id": "shanghai-cn",
+   "slug": "cuivre",
+   "name": "Cuivre",
+   "website": "",
+   "address": "1502 Middle Huaihai Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cuivre"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cuivre",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/de-xing-guan-guangdong-road",
+   "city_id": "shanghai-cn",
+   "slug": "de-xing-guan-guangdong-road",
+   "name": "De Xing Guan (Guangdong Road)",
+   "website": "",
+   "address": "471 Guangdong Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/de-xing-guan-guangdong-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/de-xing-guan-guangdong-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/ding-te-le-zhou-mian-guan",
+   "city_id": "shanghai-cn",
+   "slug": "ding-te-le-zhou-mian-guan",
+   "name": "Ding Te Le Zhou Mian Guan",
+   "website": "",
+   "address": "No. 22, Lane 494, Middle Huaihai Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ding-te-le-zhou-mian-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ding-te-le-zhou-mian-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles and Congee",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/gongxi-gongxi-pudong",
+   "city_id": "shanghai-cn",
+   "slug": "gongxi-gongxi-pudong",
+   "name": "Gongxi Gongxi (Pudong)",
+   "website": "",
+   "address": "2F, InterContinental Pudong Hotel, 777 Zhangyang Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gongxi-gongxi-pudong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gongxi-gongxi-pudong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ningbo",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/hai-wei-guan-jingan",
+   "city_id": "shanghai-cn",
+   "slug": "hai-wei-guan-jingan",
+   "name": "Hai Wei Guan (Jingan)",
+   "website": "",
+   "address": "18 Kangding Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hai-wei-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hai-wei-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/hong-0871",
+   "city_id": "shanghai-cn",
+   "slug": "hong-0871",
+   "name": "Hong 0871",
+   "website": "",
+   "address": "5F, Shanghai Chengtou Holding, 130 Wusong Road, Hongkou, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hong-0871"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hong-0871",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yunnanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/hong-yu-fang",
+   "city_id": "shanghai-cn",
+   "slug": "hong-yu-fang",
+   "name": "Hong Yu Fang",
+   "website": "",
+   "address": "B1-06, Mix 6, 686 South Xizang Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hong-yu-fang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hong-yu-fang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/hui-ji",
+   "city_id": "shanghai-cn",
+   "slug": "hui-ji",
+   "name": "Hui Ji",
+   "website": "",
+   "address": "Villa 2, LJZ Financial Holdings Plaza, 1788 Century Avenue, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hui-ji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hui-ji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hui Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/kanpai-classic-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "kanpai-classic-huangpu",
+   "name": "Kanpai Classic (Huangpu)",
+   "website": "",
+   "address": "5F, Bund 5, 20 Guangdong Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/kanpai-classic-506687"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/kanpai-classic-506687",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/la-scene-ronde",
+   "city_id": "shanghai-cn",
+   "slug": "la-scene-ronde",
+   "name": "La Scene Ronde",
+   "website": "",
+   "address": "LG1-13, The Roof, Lane 458, Madang Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/la-scene-ronde"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/la-scene-ronde",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lao-xing-xian-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "lao-xing-xian-huangpu",
+   "name": "Lao Xing Xian (Huangpu)",
+   "website": "",
+   "address": "5F, Parkson, 918 Middle Huaihai Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-xing-xian"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-xing-xian",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/legend-taste-jingan",
+   "city_id": "shanghai-cn",
+   "slug": "legend-taste-jingan",
+   "name": "Legend Taste (Jingan)",
+   "website": "",
+   "address": "1025 Kangding Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/legend-taste-jingan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/legend-taste-jingan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yunnanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/les-nuages",
+   "city_id": "shanghai-cn",
+   "slug": "les-nuages",
+   "name": "Les Nuages",
+   "website": "",
+   "address": "57F, East Tower, Raffles City The Bund, 999 Dongdaming Road, Hongkou, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/les-nuages"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/les-nuages",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lin-family-of-one-the-bund",
+   "city_id": "shanghai-cn",
+   "slug": "lin-family-of-one-the-bund",
+   "name": "Lin Family of One - The Bund",
+   "website": "",
+   "address": "4F, The Central, 123 East Nanjing Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lin-family-of-one-the-bund"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lin-family-of-one-the-bund",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/mercado-505",
+   "city_id": "shanghai-cn",
+   "slug": "mercado-505",
+   "name": "Mercado 505",
+   "website": "",
+   "address": "505 North Wulumuqi Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mercado-505"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mercado-505",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/nabi",
+   "city_id": "shanghai-cn",
+   "slug": "nabi",
+   "name": "Nabi",
+   "website": "",
+   "address": "201, Building No.1, WYSH, 168 Wuyi Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nabi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nabi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/nan-xing-yuan",
+   "city_id": "shanghai-cn",
+   "slug": "nan-xing-yuan",
+   "name": "Nan Xing Yuan",
+   "website": "",
+   "address": "Building 12, 1728 Middle Huaihai Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nan-xing-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nan-xing-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/nuits",
+   "city_id": "shanghai-cn",
+   "slug": "nuits",
+   "name": "Nuits",
+   "website": "",
+   "address": "68 Tongren Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nuits"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nuits",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/numata-sou",
+   "city_id": "shanghai-cn",
+   "slug": "numata-sou",
+   "name": "Numata Sou",
+   "website": "",
+   "address": "1F, N1 Building, The Bund Finance Centre, 558 Zhongshan Dong Er Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/numata-sou-1215509"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/numata-sou-1215509",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Tempura",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/scarpetta",
+   "city_id": "shanghai-cn",
+   "slug": "scarpetta",
+   "name": "Scarpetta",
+   "website": "",
+   "address": "33 Mengzi Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/scarpetta"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/scarpetta",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/scilla",
+   "city_id": "shanghai-cn",
+   "slug": "scilla",
+   "name": "Scilla",
+   "website": "",
+   "address": "504 Panyu Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/scilla"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/scilla",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/shanghai-club",
+   "city_id": "shanghai-cn",
+   "slug": "shanghai-club",
+   "name": "Shanghai Club",
+   "website": "",
+   "address": "L-418, 4F, North Building, HKRI Taikoo Hui, 789 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shanghai-club"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shanghai-club",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/shaughnessy",
+   "city_id": "shanghai-cn",
+   "slug": "shaughnessy",
+   "name": "Shaughnessy",
+   "website": "",
+   "address": "No.2201-2202, 22F, East Huaihai International Mansion, 45-49 East Huaihai Road, Huangpu, Shanghai, 200011, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shaughnessy"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shaughnessy",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/stonesal",
+   "city_id": "shanghai-cn",
+   "slug": "stonesal",
+   "name": "Stonesal",
+   "website": "",
+   "address": "1M, 9 Donghu Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/stonesal"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/stonesal",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/the-pine",
+   "city_id": "shanghai-cn",
+   "slug": "the-pine",
+   "name": "The Pine",
+   "website": "",
+   "address": "333 Changle Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-pine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-pine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/the-yidao-east-beijing-road",
+   "city_id": "shanghai-cn",
+   "slug": "the-yidao-east-beijing-road",
+   "name": "The Yidao (East Beijing Road)",
+   "website": "",
+   "address": "L201A, 2F, Yi Feng Galleria, 99 East Beijing Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tea-culture-east-beijing-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tea-culture-east-beijing-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Huaiyang",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/toi-sihng-lauh-yuht",
+   "city_id": "shanghai-cn",
+   "slug": "toi-sihng-lauh-yuht",
+   "name": "Toi Sihng Lauh Yuht",
+   "website": "",
+   "address": "Shop 517, 5F, LuOne CapitaLand Plaza, 268 Xujiahui Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/toi-sihng-lauh-yuht"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/toi-sihng-lauh-yuht",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/torikaze",
+   "city_id": "shanghai-cn",
+   "slug": "torikaze",
+   "name": "Torikaze",
+   "website": "",
+   "address": "Unit 102, Block 3, M+ Blackstone Apartments, 1331 Middle Fuxing Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/torikaze"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/torikaze",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/trine",
+   "city_id": "shanghai-cn",
+   "slug": "trine",
+   "name": "Trine",
+   "website": "",
+   "address": "4F, Building 1, Surpass Court, 570 Yongjia Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/trine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/trine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/wan-yan-changning",
+   "city_id": "shanghai-cn",
+   "slug": "wan-yan-changning",
+   "name": "Wan Yan (Changning)",
+   "website": "",
+   "address": "Inside Jin Jiang Cypress Hotel, Block 8, 2419 Hungqiao Road, Changning, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wan-yan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wan-yan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hui Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/wei-xiang-zhai-yandang-road",
+   "city_id": "shanghai-cn",
+   "slug": "wei-xiang-zhai-yandang-road",
+   "name": "Wei Xiang Zhai (Yandang Road)",
+   "website": "",
+   "address": "14 Yandang Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wei-xiang-zhai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wei-xiang-zhai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/wenzhou-said",
+   "city_id": "shanghai-cn",
+   "slug": "wenzhou-said",
+   "name": "Wenzhou Said",
+   "website": "",
+   "address": "Unit 3, 2F, Building 4, PAC, 718 Wuding Road, Jing'an, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wenzhou-said"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wenzhou-said",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Zhejiang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/xuji-seafood-xuhui",
+   "city_id": "shanghai-cn",
+   "slug": "xuji-seafood-xuhui",
+   "name": "Xuji Seafood (Xuhui)",
+   "website": "",
+   "address": "500 Zhaojiabang Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xuji-seafood-xuhui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xuji-seafood-xuhui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yong-feng-mian-guan-huangpu",
+   "city_id": "shanghai-cn",
+   "slug": "yong-feng-mian-guan-huangpu",
+   "name": "Yong Feng Mian Guan (Huangpu)",
+   "website": "",
+   "address": "320 Hankou Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-feng-mian-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-feng-mian-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yong-jiang-zhen",
+   "city_id": "shanghai-cn",
+   "slug": "yong-jiang-zhen",
+   "name": "Yong Jiang Zhen",
+   "website": "",
+   "address": "Sinan Mansions, 55 Sinan Road, Huangpu, Shanghai, 200000, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-jiang-zhen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-jiang-zhen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yong-xing",
+   "city_id": "shanghai-cn",
+   "slug": "yong-xing",
+   "name": "Yong Xing",
+   "website": "",
+   "address": "No. 1, Lane 626, Middle Fuxing Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-xing"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-xing",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yongfoo-elite",
+   "city_id": "shanghai-cn",
+   "slug": "yongfoo-elite",
+   "name": "YongFoo Élite",
+   "website": "",
+   "address": "200 Yongfu Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yongfoo-elite"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yongfoo-elite",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/8-12-otto-e-mezzo-bombana",
+   "city_id": "shanghai-cn",
+   "slug": "8-12-otto-e-mezzo-bombana",
+   "name": "8 ½ Otto e Mezzo Bombana",
+   "website": "https://www.ottoemezzobombana.com",
+   "address": "6-7F, Associate Mission Building, 169 Yuanmingyuan Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/8-%C2%BD-otto-e-mezzo-bombana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/8-%C2%BD-otto-e-mezzo-bombana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/canton-table",
+   "city_id": "shanghai-cn",
+   "slug": "canton-table",
+   "name": "Canton Table",
+   "website": "https://www.threeonthebund.com/en/restaurant/102008183385",
+   "address": "5F, Bund 3, 3 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-table"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-table",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/da-dong-xuhui",
+   "city_id": "shanghai-cn",
+   "slug": "da-dong-xuhui",
+   "name": "Da Dong (Xuhui)",
+   "website": "https://www.dadongdadong.com/",
+   "address": "Shop 602, 6F, iapm, 999 Middle Huaihai Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-dong-xuhui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-dong-xuhui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/gastro-esthetics-at-dadong",
+   "city_id": "shanghai-cn",
+   "slug": "gastro-esthetics-at-dadong",
+   "name": "Gastro Esthetics at DaDong",
+   "website": "https://www.dadongdadong.com/",
+   "address": "5F, Park Place, 1601 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gastro-esthetics-at-dadong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gastro-esthetics-at-dadong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/jin-xuan",
+   "city_id": "shanghai-cn",
+   "slug": "jin-xuan",
+   "name": "Jin Xuan",
+   "website": "https://www.ritzcarlton.com/en/hotels/shasz-the-ritz-carlton-shanghai-pudong/dining/",
+   "address": "53F, The Ritz-Carlton Pudong, 8 Century Avenue, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jin-xuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jin-xuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/obscura",
+   "city_id": "shanghai-cn",
+   "slug": "obscura",
+   "name": "Obscura",
+   "website": "https://www.obscura-sh.com/",
+   "address": "Tangxiang Cultural Space, 538 Xikang Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/obscura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/obscura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/vivant-by-johnny-pham",
+   "city_id": "shanghai-cn",
+   "slug": "vivant-by-johnny-pham",
+   "name": "Vivant by Johnny Pham",
+   "website": "https://www.vivantshanghai.com",
+   "address": "279 Beihai Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/vivant-by-johnny-pham"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/vivant-by-johnny-pham",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/xin-rong-ji-west-nanjing-road",
+   "city_id": "shanghai-cn",
+   "slug": "xin-rong-ji-west-nanjing-road",
+   "name": "Xin Rong Ji (West Nanjing Road)",
+   "website": "https://www.xinrongji.cc/",
+   "address": "2F, 688 Plaza, 688 West Nanjing Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xin-rong-ji-west-nanjing-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xin-rong-ji-west-nanjing-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taizhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yi-long-court",
+   "city_id": "shanghai-cn",
+   "slug": "yi-long-court",
+   "name": "Yi Long Court",
+   "website": "https://www.peninsula.com/en/shanghai/hotel-fine-dining/yi-long-court-chinese-restaurant",
+   "address": "2F, The Peninsula Hotel, Bund 32, 32 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yi-long-court"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yi-long-court",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/yong-yi-ting",
+   "city_id": "shanghai-cn",
+   "slug": "yong-yi-ting",
+   "name": "Yong Yi Ting",
+   "website": "https://www.mandarinoriental.com/en/shanghai/pudong",
+   "address": "LG Level, Mandarin Oriental Pudong, 111 South Pudong Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-yi-ting"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-yi-ting",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/le-comptoir-de-pierre-gagnaire",
+   "city_id": "shanghai-cn",
+   "slug": "le-comptoir-de-pierre-gagnaire",
+   "name": "le Comptoir de Pierre Gagnaire",
+   "website": "https://capellahotels.com/en/capella-shanghai/dining/le-comptoir-de-pierre-gagnaire",
+   "address": "Capella, Jian Ye Li, 480 West Jianguo Road, Xuhui, Shanghai, 200031, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/le-comptoir-de-pierre-gagnaire"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/le-comptoir-de-pierre-gagnaire",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/mi-thai",
+   "city_id": "shanghai-cn",
+   "slug": "mi-thai",
+   "name": "Mi Thai",
+   "website": "https://www.mithai.com.cn/",
+   "address": "2F, 195 Anfu Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mi-thai-an-fu-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mi-thai-an-fu-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/dining-room",
+   "city_id": "shanghai-cn",
+   "slug": "dining-room",
+   "name": "Dining Room",
+   "website": "https://www.hyatt.com/en-US/hotel/china/park-hyatt-shanghai/shaph",
+   "address": "87F, Park Hyatt, 100 Century Avenue, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/dining-room-1196349"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/dining-room-1196349",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/dong-ping-chao",
+   "city_id": "shanghai-cn",
+   "slug": "dong-ping-chao",
+   "name": "Dong Ping Chao",
+   "website": "https://www.sanrion.com/ProDetail.aspx?ProId=29",
+   "address": "1 Dongping Road, Xuhui, Shanghai, 200031, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/dong-ping-chao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/dong-ping-chao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/fucheng",
+   "city_id": "shanghai-cn",
+   "slug": "fucheng",
+   "name": "Fucheng",
+   "website": "https://www.hilton.com/en/hotels/shaqtwa-waldorf-astoria-shanghai-qiantan/dining/",
+   "address": "16F, Waldorf Astoria Hotel, 18 Linyao Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fucheng"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fucheng",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fujian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/hang-yuen-hin",
+   "city_id": "shanghai-cn",
+   "slug": "hang-yuen-hin",
+   "name": "Hang Yuen Hin",
+   "website": "https://hyhgroup.cn/",
+   "address": "Xujiahui Park, 290 Wanping Road, Xuhui, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hang-yuen-hin-xuhui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hang-yuen-hin-xuhui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/hokkien-huay-kuan",
+   "city_id": "shanghai-cn",
+   "slug": "hokkien-huay-kuan",
+   "name": "Hokkien Huay Kuan",
+   "website": "https://yueyegroup.com",
+   "address": "5F, Xintiandi Style I, 177 Madang Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hokkien-huay-kuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hokkien-huay-kuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fujian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/lin-jiang-yan",
+   "city_id": "shanghai-cn",
+   "slug": "lin-jiang-yan",
+   "name": "Lin Jiang Yan",
+   "website": "https://www.linjiangyansh.com",
+   "address": "216 Fucheng Road, Pudong, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lin-jiang-yan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lin-jiang-yan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/mercato",
+   "city_id": "shanghai-cn",
+   "slug": "mercato",
+   "name": "Mercato",
+   "website": "https://www.threeonthebund.com/en/restaurant/102008183384",
+   "address": "6F, Bund 3, 3 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mercato-506693"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mercato-506693",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/min-he-nan-huan-xi",
+   "city_id": "shanghai-cn",
+   "slug": "min-he-nan-huan-xi",
+   "name": "Min He Nan Huan Xi",
+   "website": "https://www.lvdaohotel.com",
+   "address": "2F, MixC East Alley, 111 North Shanxi Road, Jingan, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/min-he-nan-huan-xi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/min-he-nan-huan-xi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fujian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/pop",
+   "city_id": "shanghai-cn",
+   "slug": "pop",
+   "name": "Pop",
+   "website": "https://www.threeonthebund.com/en/restaurant/102008183381",
+   "address": "7F, Bund 3, 3 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/pop"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/pop",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/royal-china-club",
+   "city_id": "shanghai-cn",
+   "slug": "royal-china-club",
+   "name": "Royal China Club",
+   "website": "https://www.royalchinagroup.com/",
+   "address": "3F, Bund 5, 20 Guangdong Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/royal-china-club-506535"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/royal-china-club-506535",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/shanghai",
+   "city_id": "shanghai-cn",
+   "slug": "shanghai",
+   "name": "Shanghai",
+   "website": "https://www.wbh-sh.com/",
+   "address": "2F, Central Hotel, 555 Jiujiang Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shanghai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shanghai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/sir-ellys",
+   "city_id": "shanghai-cn",
+   "slug": "sir-ellys",
+   "name": "Sir Elly's",
+   "website": "https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund",
+   "address": "13F, The Peninsula Hotel, Bund 32, 32 Zhongshan Dong Yi Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sir-elly-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sir-elly-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/xin-yuan-lou",
+   "city_id": "shanghai-cn",
+   "slug": "xin-yuan-lou",
+   "name": "Xin Yuan Lou",
+   "website": "https://www.ihg.com/intercontinental/hotels/gb/en/shanghai/shgsr/hoteldetail/dining",
+   "address": "Building No.4, InterContinental Ruijin Hotel, 118 Ruijin Er Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xin-yuan-lou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xin-yuan-lou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "shanghai-cn/ye-shanghai",
+   "city_id": "shanghai-cn",
+   "slug": "ye-shanghai",
+   "name": "Yè Shanghai",
+   "website": "https://www.elite-concepts.com/restaurants/ye-shanghai/shanghai/en/",
+   "address": "3F, Infinitus Mall, 168 Hubin Road, Huangpu, Shanghai, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ye-shanghai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ye-shanghai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+[
+  {
+    "slug": "leons-oyster-shop",
+    "menu_url": "https://leonsoystershop.com/wp-content/uploads/2026/07/Leons-Menu-7.10.26-Front.pdf",
+    "picks": [
+      {
+        "name": "Fried Brussels Sprouts",
+        "description": "piperade, red wine vinegar",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Hush Puppies",
+        "description": "honey butter",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "honey butter"
+      },
+      {
+        "name": "Siam Salad",
+        "description": "napa & red cabbage, avocado, peanuts, orange, fried onions, herbs",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "peanuts"
+      },
+      {
+        "name": "Iceberg Stack",
+        "description": "buttermilk dressing, tomato, bread crumbs",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "buttermilk dressing",
+        "note": "Buttermilk dressing is usually dairy and often egg."
+      },
+      {
+        "name": "A Very Good Celery Salad",
+        "description": "celery, dates, arugula, pistachio, and cheddar",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pistachio and cheddar"
+      },
+      {
+        "name": "Black Eye Pea Salad",
+        "description": "pickles, peppers, olive oil, chives",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Marinated Cucumber Salad",
+        "description": "sesame oil, shiso, champagne vinegar",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "sesame oil",
+        "note": "Sesame oil is sesame."
+      },
+      {
+        "name": "Cole Slaw",
+        "description": "buttermilk dressing, currants, seeds",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "buttermilk dressing"
+      },
+      {
+        "name": "Scalloped Potatoes",
+        "description": "‘old school’",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "lewis-barbecue",
+    "menu_url": "https://www.lewisbarbecue.com/menu/menu-copy/",
+    "picks": [
+      {
+        "name": "Chips & Queso",
+        "description": "Beef tallow fried Chips + Green Chile Queso, Pico de gallo",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "queso"
+      },
+      {
+        "name": "Pickled Jalapeño",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pickles & Pickled Onion",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Creamy Potato Salad",
+        "description": "Duke's Mayo, Celery, Green Onion (vegetarian)",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "Duke's Mayo",
+        "note": "Mayo is usually egg."
+      },
+      {
+        "name": "Tangy Coleslaw",
+        "description": "Light, Bright, Dressed with Oil & Vinegar (vegan)",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Cowboy Pinto Beans",
+        "description": "Tex-Mex Spices, Cilantro, Onion (vegan)",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Green Chile Corn Pudding",
+        "description": "Cheesy Cornbread Casserole with Diced Hatch Chiles (vegetarian)",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Collard Greens",
+        "description": "Slow cooked with a little bit of a sweet vinegar kick (vegetarian)",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Mac & Cheese",
+        "description": "Our super creamy mac and cheese (vegetarian)",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      },
+      {
+        "name": "Fries",
+        "description": "Beef Tallow Fried Crispy Sidewinders",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "chubby-fish",
+    "menu_url": "https://www.chubbyfishcharleston.com/menu",
+    "picks": [
+      {
+        "name": "Cauliflower Cacio e Pepe",
+        "description": "poblano crema",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "poblano crema"
+      },
+      {
+        "name": "Celery Salad",
+        "description": "kohlrabi, caper, potato, parm",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parm"
+      }
+    ]
+  },
+  {
+    "slug": "husk",
+    "menu_url": "https://huskcharleston.com/wp-content/uploads/2026/07/Husk-Menu-SUPPER-7.15.26.pdf",
+    "picks": [
+      {
+        "name": "STOREY FARMS DEVILED EGGS",
+        "description": "Roasted Corn, Forx Farm Parmesan",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "egg and parmesan"
+      },
+      {
+        "name": "BLUEBERRY & CORN SALAD",
+        "description": "BBQ Pecans, Ricotta Salata, Bacon Fat Honey Mustard",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pecans, ricotta salata, and bacon fat"
+      },
+      {
+        "name": "TOMATO & PEACH SALAD",
+        "description": "Peppers, Smoked Cheddar, Crispy Ham, Biscuit Crumble, Sherry Vinaigrette",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "smoked cheddar and crispy ham"
+      },
+      {
+        "name": "RIGATONI",
+        "description": "Smoked Tomato, Ricotta, Forx Farm Parmesan",
+        "course": "main",
+        "kind": "main",
+        "hold": "ricotta and parmesan"
+      },
+      {
+        "name": "WOOD FIRED BLUE LAKE POLE BEANS",
+        "description": "Sikil Pak",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "sikil pak",
+        "note": "Sikil pak is usually pumpkin seed."
+      },
+      {
+        "name": "FINGERLING POTATOES",
+        "description": "Chamomile Honey, Puffed Rice, Candied Peanuts, Olive Crumble",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "candied peanuts"
+      },
+      {
+        "name": "BRADFORD FARMS SMOKED COLLARD GREENS",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "MARSH HEN MILLS TN CHEDDAR GRITS",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheddar"
+      }
+    ]
+  },
+  {
+    "slug": "lowland",
+    "menu_url": "https://lowlandcharleston.com/menu/food",
+    "picks": [
+      {
+        "name": "Giardiniera",
+        "description": "rosemary, dill",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Lowland Biscuit",
+        "description": "farmer cheese, pepper jelly",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "farmer cheese"
+      },
+      {
+        "name": "Celery Salad",
+        "description": "dates, walnuts, mint, prairie breeze cheddar",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "walnuts and cheddar"
+      },
+      {
+        "name": "Chicory Salad",
+        "description": "smokey blue cheese, bacon lardon, red onion",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "blue cheese and bacon"
+      },
+      {
+        "name": "Bucatini + Roasted Squash",
+        "description": "sauce piccata, pepita, smoked almond",
+        "course": "main",
+        "kind": "main",
+        "hold": "pepita and smoked almond"
+      }
+    ]
+  },
+  {
+    "slug": "sorelle",
+    "menu_url": "https://www.sorellecharleston.com/menu/main-menu/",
+    "picks": [
+      {
+        "name": "Pane",
+        "description": "Sorelle’s Bread Service, World’s Best Olive Oil",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "ARANCINI ALLA SICILIANA",
+        "description": "Creamy Saffron Risotto, Sicilian Eggplant Caponata, Caciocavallo",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "caciocavallo"
+      },
+      {
+        "name": "Zucca Parmigiana",
+        "description": "Roasted Pumpkin, Pomodoro, Pistachio Pesto, Fonduta",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pistachio pesto and fonduta"
+      },
+      {
+        "name": "Cauliflower Amatriciana",
+        "description": "Fire-Roasted Cauliflower, Arrabbiata, Guanciale Vinaigrette",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "guanciale"
+      },
+      {
+        "name": "Broccoli Caesar",
+        "description": "Grilled Broccolini, Soppressata, Fennel Breadcrumbs",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "soppressata",
+        "note": "Caesar is usually egg and often dairy."
+      },
+      {
+        "name": "Rucola E Finocchio",
+        "description": "Wild Arugula, Shaved Fennel, Grana Padano",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "grana padano"
+      },
+      {
+        "name": "Stonefruit Caprese",
+        "description": "Schuler Farm Peach, Mozzarella di Bufala, Calabrian & Benne Seed Crunch",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "mozzarella and benne seed",
+        "note": "Benne is sesame."
+      },
+      {
+        "name": "Funghi",
+        "description": "Wild Mushrooms, Taleggio Fonduta, Salsa Verde",
+        "course": "main",
+        "kind": "main",
+        "hold": "taleggio"
+      },
+      {
+        "name": "Burrata Di Bufala",
+        "description": "San Marzano Tomato, Bagna Cauda, Sicilian Olive Oil",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "burrata",
+        "note": "Bagna cauda is usually anchovy."
+      },
+      {
+        "name": "Sorelle Spaghetti",
+        "description": "Pomodoro, Burrata di Bufala, Crispy Zucchini, Garden Basil",
+        "course": "main",
+        "kind": "main",
+        "hold": "burrata"
+      },
+      {
+        "name": "RISOTTO AI CARCIOFLI",
+        "description": "Roasted Sicilian Artichoke, Summer Truffle, Parmigiano Reggiano",
+        "course": "main",
+        "kind": "main",
+        "hold": "parmigiano"
+      },
+      {
+        "name": "Patates",
+        "description": "Olive Oil-Fried Potatoes, Rosemary, Castelmagno",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "castelmagno"
+      },
+      {
+        "name": "Spinaci",
+        "description": "Sauteed Spinach, Sicilian Chili Crunch",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "LOWLAND FARM SQUASH",
+        "description": "Roasted Local Squash, Bergamot Lemon, Parmesan Fonduta",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "parmesan fonduta"
+      },
+      {
+        "name": "FAGIOLINI ALLE MANDORLE",
+        "description": "Rosebank Farm String Beans, Marcona Almond Vinaigrette, Guanciale",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "almonds and guanciale"
+      }
+    ]
+  },
+  {
+    "slug": "xiao-bao-biscuit",
+    "menu_url": "https://www.xiaobaobiscuit.com/take-action",
+    "picks": [
+      {
+        "name": "OKONOMIYAKI",
+        "description": "Japanese cabbage pancake - in a style we learned while farming in Japan. IS already vegetarian, vegan option available",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "cauliflower chaat",
+        "description": "roasted cauli & chutneys (vegetarian)",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Yu Xiang Brussels",
+        "description": "sichuan fragrant sauce with fried brussel sprouts and eggplant",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "SIDE OF SHORT GRAIN RICE",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  }
+]

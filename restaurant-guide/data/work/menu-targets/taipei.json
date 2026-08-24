@@ -1,0 +1,907 @@
+[
+  {
+    "name": "Le Palais",
+    "slug": "le-palais",
+    "city_id": "taipei-tw",
+    "website": "https://www.palaisdechinehotel.com/pdc-en/pages/26/0/66",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "17F, Palais de Chine Hotel, 3, Section 1, Chengde Road, Datong District, Taipei, 103, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Taïrroir",
+    "slug": "tairroir",
+    "city_id": "taipei-tw",
+    "website": "https://www.tairroir.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "6F, 299 Lequn 3rd Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "A",
+    "slug": "a",
+    "city_id": "taipei-tw",
+    "website": "https://restaurant-a.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "4F, Building 2, Diamond Towers, Shin Kong Mitsukoshi, 282, Section 3, Zhongxiao East Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Eika",
+    "slug": "eika",
+    "city_id": "taipei-tw",
+    "website": "https://eika.tw",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "58 Minle Street, Datong District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon",
+    "slug": "latelier-de-joel-robuchon",
+    "city_id": "taipei-tw",
+    "website": "https://www.bellavita.com.tw/dining/Latelierdejoelrobuchontaipei.php",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "5F, Bellavita, 28 Songren Road, Xinyi District, Taipei, 110, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mizue",
+    "slug": "mizue",
+    "city_id": "taipei-tw",
+    "website": "https://capellahotels.com/zh-tc/capella-taipei/dining",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "2F, Capella, 139 Dunhua North Road, Songshan District, Taipei, 105021, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Molino de Urdániz",
+    "slug": "molino-de-urdaniz",
+    "city_id": "taipei-tw",
+    "website": "https://hotelmvsa.com/en/dining/molino-de-urdaniz",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "GF, Hotel MVSA, 61, Section 1, Jianguo North Road, Zhongshan District, Taipei, 10491, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mudan",
+    "slug": "mudan",
+    "city_id": "taipei-tw",
+    "website": "https://mudantempura.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "17, Lane 52, Siwei Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "NOBUO",
+    "slug": "nobuo",
+    "city_id": "taipei-tw",
+    "website": "https://Nobuo.tw",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "8 Tai'an Street, Zhongzheng District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "logy",
+    "slug": "logy",
+    "city_id": "taipei-tw",
+    "website": "https://logy.tw",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "39, Lane 258, Ruiguang Road, Neihu District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ad Astra",
+    "slug": "ad-astra",
+    "city_id": "taipei-tw",
+    "website": "https://www.adastra.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "23, Lane 45, Section 2, Zhongshan North Road, Zhongshan District, Taipei, 10450, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Chuan Ya",
+    "slug": "chuan-ya",
+    "city_id": "taipei-tw",
+    "website": "https://www.chuan-ya.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "46F, Breeze Nan Shan, 17 Songzhi Road, Xinyi District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "FRASSI",
+    "slug": "frassi",
+    "city_id": "taipei-tw",
+    "website": "https://www.frassi.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1F, 299 Lequn 3rd Road, Zhongshan District, Taipei, 203, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fujin Tree Taiwanese Cuisine & Champagne (Songshan)",
+    "slug": "fujin-tree-taiwanese-cuisine-champagne-songshan",
+    "city_id": "taipei-tw",
+    "website": "https://www.fujintreeshop.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "17, Lane 199, Dunhua North Road, Songshan District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hosu",
+    "slug": "hosu",
+    "city_id": "taipei-tw",
+    "website": "https://www.hosutaiwan.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "17, Alley 20, Lane 300, Section 4, Ren’ai Road, Da’an District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "INITA",
+    "slug": "inita",
+    "city_id": "taipei-tw",
+    "website": "https://www.inita.tw/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1, Alley 52, Lane 12, Section 3, Bade Road, Songshan District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Vie by Thomas Bühner",
+    "slug": "la-vie-by-thomas-buhner",
+    "city_id": "taipei-tw",
+    "website": "https://www.laviebythomasbuehner.com/en",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1F, Noke Mall, 200 Lequn 3rd Road, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mipon",
+    "slug": "mipon",
+    "city_id": "taipei-tw",
+    "website": "https://www.grandmayfull.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, Grand Mayfull Hotel, 55 Lequn 2nd Road, Zhongshan District, Taipei, 10462, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mountain and Sea House",
+    "slug": "mountain-and-sea-house",
+    "city_id": "taipei-tw",
+    "website": "https://www.mountain-n-seahouse.com/en",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "94, Section 2, Ren'ai Road, Zhongzheng District, Taipei, 100, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mume",
+    "slug": "mume",
+    "city_id": "taipei-tw",
+    "website": "https://www.mume.tw",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "28 Siwei Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Restaurant 12",
+    "slug": "restaurant-12",
+    "city_id": "taipei-tw",
+    "website": "https://ymsbyonefifteen.com/restaurant-12/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "12 Jianye Road, Shilin District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "SENS",
+    "slug": "sens",
+    "city_id": "taipei-tw",
+    "website": "https://www.senstw.com/tw",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "12, Lane 127, Section 3, Minsheng East Road, Songshan District, Taipei, 105, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shin Yeh Taiwanese Signature",
+    "slug": "shin-yeh-taiwanese-signature",
+    "city_id": "taipei-tw",
+    "website": "https://www.shinyeh.com.tw/content/zh/Brand/Index.aspx?BrandId=11",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Marriott Midtown, 199 Lequn 2nd Road, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Silks House",
+    "slug": "silks-house",
+    "city_id": "taipei-tw",
+    "website": "https://www.regenttaiwan.com/dining/silks-house",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, Regent Hotel, 3, Lane 39, Section 2, Zhongshan North Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sushi Kajin",
+    "slug": "sushi-kajin",
+    "city_id": "taipei-tw",
+    "website": "https://www.sushi-kajin.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "28 Jilin Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tien Hsiang Lo",
+    "slug": "tien-hsiang-lo",
+    "city_id": "taipei-tw",
+    "website": "https://taipei.landishotelsresorts.com/chinese-trad/dining-detail.php?id=7",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "B1, The Landis, 41, Section 2, Minquan East Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ya Ge",
+    "slug": "ya-ge",
+    "city_id": "taipei-tw",
+    "website": "https://www.mandarinoriental.com/en/taipei/songshan/dine/ya-ge",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, Mandarin Oriental Hotel, 158 Dunhua North Road, Songshan District, Taipei, 105, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "aMaze",
+    "slug": "amaze",
+    "city_id": "taipei-tw",
+    "website": "https://www.amaze598.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "598 Mingshui Road, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "de nuit",
+    "slug": "de-nuit",
+    "city_id": "taipei-tw",
+    "website": "https://www.denuit.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "175, Section 4, Xinyi Road, Da'an District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Din Tai Fung (Xinyi Road)",
+    "slug": "din-tai-fung-xinyi-road",
+    "city_id": "taipei-tw",
+    "website": "https://www.dintaifung.com.tw/eng/index.php",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "277, Section 2, Xinyi Road, Da'an District, Taipei, 110, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "HUGH dessert dining",
+    "slug": "hugh-dessert-dining",
+    "city_id": "taipei-tw",
+    "website": "https://hughdessert.com/dining",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "56, Lane 136, Section 3, Chongqing North Road, Datong District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hang Zhou Xiao Long Bao (Da'an)",
+    "slug": "hang-zhou-xiao-long-bao-daan",
+    "city_id": "taipei-tw",
+    "website": "https://www.thebestxiaolongbao.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "17 & 19, Section 2, Hangzhou South Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Little Tree Food (Da'an Road)",
+    "slug": "little-tree-food-daan-road",
+    "city_id": "taipei-tw",
+    "website": "https://www.littletreefood.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "17, Lane 116, Section 1, Da'an Road, Da'an District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MoonMoonFood (Qingdao East Road)",
+    "slug": "moonmoonfood-qingdao-east-road",
+    "city_id": "taipei-tw",
+    "website": "https://www.moonmoonfood.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "6-2 Qingdao East Road, Zhongzheng District, Taipei, 100, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Serenity (Zhongzheng)",
+    "slug": "serenity-zhongzheng",
+    "city_id": "taipei-tw",
+    "website": "https://www.serenity.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1, Lane 1, Zhenjiang Street, Zhongzheng District, Taipei, 100, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sung Chu Yuan",
+    "slug": "sung-chu-yuan",
+    "city_id": "taipei-tw",
+    "website": "https://www.28616261.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "546 Yonggong Road, Shilin District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tien Hsia San Chueh",
+    "slug": "tien-hsia-san-chueh",
+    "city_id": "taipei-tw",
+    "website": "https://www.noodle3.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3, Lane 27, Section 4, Ren'ai Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Wang's Broth",
+    "slug": "wangs-broth",
+    "city_id": "taipei-tw",
+    "website": "https://wangsbroth.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Huaxi Street Night Market, Stall 153, 17-4 Huaxi Street, Wanhua District, Taipei, Taiwan",
+    "price_tier": "$"
+  },
+  {
+    "name": "Yi Jia Zi",
+    "slug": "yi-jia-zi",
+    "city_id": "taipei-tw",
+    "website": "https://home.yi-jia-zi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "79 Kangding Road, Wanhua District, Taipei, 108, Taiwan",
+    "price_tier": "$"
+  },
+  {
+    "name": "3927",
+    "slug": "3927",
+    "city_id": "taipei-tw",
+    "website": "https://3927.com.tw/home.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "14, Lane 101, Section 4, Zhongxiao East Road, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "85TD",
+    "slug": "85td",
+    "city_id": "taipei-tw",
+    "website": "https://www.85td-101.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "85F, Taipei 101, 7, Section 5, Xinyi Road, Xinyi District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "A Cheng Goose (Zhongshan)",
+    "slug": "a-cheng-goose-zhongshan",
+    "city_id": "taipei-tw",
+    "website": "https://www.acheng.com.tw/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "162 Jilin Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aleisha",
+    "slug": "aleisha",
+    "city_id": "taipei-tw",
+    "website": "https://www.aleisha.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16, Alley 4, Lane 217, Section 3, Zhongxiao East Road, Da’an District, Taipei, 106080, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bencotto",
+    "slug": "bencotto",
+    "city_id": "taipei-tw",
+    "website": "https://www.mandarinoriental.com/en/taipei/songshan/dine/bencotto",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6F, Mandarin Oriental Hotel, 158 Dunhua North Road, Songshan District, Taipei, 105, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "CEO 1950",
+    "slug": "ceo-1950",
+    "city_id": "taipei-tw",
+    "website": "https://ceo1950.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24, Lane 62, Section 3, Xinsheng North Road, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chinese Cuisine",
+    "slug": "chinese-cuisine",
+    "city_id": "taipei-tw",
+    "website": "https://www.gvrb.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Grand View Resort Beitou, 30 Youya Road, Beitou District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Clover",
+    "slug": "clover",
+    "city_id": "taipei-tw",
+    "website": "https://www.bellavita.com.tw/dining/cloverbellavita.php",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4F, Bellavita, 28 Songren Road, Xinyi District, Taipei, 110, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Danny's Steakhouse",
+    "slug": "dannys-steakhouse",
+    "city_id": "taipei-tw",
+    "website": "https://www.danhouse.com.tw/en/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "58 Lequn 3rd Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Dasuke",
+    "slug": "dasuke",
+    "city_id": "taipei-tw",
+    "website": "https://tw.sakemaru.me/pages/dasuke",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "375-2 Siwei Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "EMBERS",
+    "slug": "embers",
+    "city_id": "taipei-tw",
+    "website": "https://www.embersdining.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "24, Lane 122, Section 4, Ren-Ai Road, Da'an District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ephernité",
+    "slug": "ephernite",
+    "city_id": "taipei-tw",
+    "website": "https://ephernite.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "233, Section 2, Anhe Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hijo",
+    "slug": "hijo",
+    "city_id": "taipei-tw",
+    "website": "https://www.hijo.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "170, Section 2, Chang'an East Road, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "JUNTO",
+    "slug": "junto",
+    "city_id": "taipei-tw",
+    "website": "https://www.juntorestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, The Blue by Just Inn, 22 Guanqian Road, Zhongzheng District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "KOICHIRO",
+    "slug": "koichiro",
+    "city_id": "taipei-tw",
+    "website": "https://koichiro.com.tw/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, 301 Lequn 3rd Road, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "KUR",
+    "slug": "kur",
+    "city_id": "taipei-tw",
+    "website": "https://kur.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6, Lane 109, Section 1, Anhe Road, Da'an District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "May Snow Hakka Food",
+    "slug": "may-snow-hakka-food",
+    "city_id": "taipei-tw",
+    "website": "https://www.maysnow.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "16, Lane 329, Section 1, Dunhua South Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "N°168 Prime Steakhouse (Zhongshan)",
+    "slug": "n168-prime-steakhouse-zhongshan",
+    "city_id": "taipei-tw",
+    "website": "https://grandvictoria.com.tw/en/dining/n168-prime-steakhousedazhi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4F, Grand Victoria Hotel, 168 Jingye 4th Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "PEI FULL",
+    "slug": "pei-full",
+    "city_id": "taipei-tw",
+    "website": "https://www.unitedhotel.com.tw/dining/page/1",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, United Hotel, 200 Guangfu South Road, Da’an District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Page",
+    "slug": "page",
+    "city_id": "taipei-tw",
+    "website": "https://www.restaurant-page.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4, Alley 20, Lane 595, Bei'an Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Paris 1930 de Hideki Takayama",
+    "slug": "paris-1930-de-hideki-takayama",
+    "city_id": "taipei-tw",
+    "website": "https://taipei.landishotelsresorts.com/dining-detail.php?id=9",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, The Landis, 41, Section 2, Minquan East Road, Zhongshan District, Taipei, 104032, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Really Good Seafood",
+    "slug": "really-good-seafood",
+    "city_id": "taipei-tw",
+    "website": "https://www.reallygoodseafood.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "222, Section 1, Fuxing South Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Robin's Teppanyaki",
+    "slug": "robins-teppanyaki",
+    "city_id": "taipei-tw",
+    "website": "https://www.regenttaiwan.com/dining/robins-teppanyaki",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, Regent Hotel, 3, Lane 39, Section 2, Zhongshan North Road, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Rong Ju",
+    "slug": "rong-ju",
+    "city_id": "taipei-tw",
+    "website": "https://capellahotels.com/capella-taipei/dining/rong-ju",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Capella, 139 Dunhua North Road, Songshan District, Taipei, 105021, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sate House",
+    "slug": "sate-house",
+    "city_id": "taipei-tw",
+    "website": "https://satehouse.eatingout.com.tw/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "15 Leli Road, Da'an District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Shin Yeh Taiwanese Cuisine",
+    "slug": "shin-yeh-taiwanese-cuisine",
+    "city_id": "taipei-tw",
+    "website": "https://www.shinyeh.com.tw/content/zh/Brand/Index.aspx?BrandId=1",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "34-1 Shuangcheng Street, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Shin Yeh Taiwanese Delight (Nangang)",
+    "slug": "shin-yeh-taiwanese-delight-nangang",
+    "city_id": "taipei-tw",
+    "website": "https://www.shinyeh.com.tw/content/zh/brand/Index.aspx?BrandId=3",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Block A, CTBC Financial Park, 166 Jingmao 2nd Road, Nangang District, Taipei, 115, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Shing-Peng-Lai (Zhongshan North Road)",
+    "slug": "shing-peng-lai-zhongshan-north-road",
+    "city_id": "taipei-tw",
+    "website": "https://www.splr.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "55, Section 7, Zhongshan North Road, Shilin District, Taipei, 111, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Thai & Thai",
+    "slug": "thai-thai",
+    "city_id": "taipei-tw",
+    "website": "https://www.thaiandthai.com.tw/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5F, THE ARCADE, 158 Dunhua North Road, Songshan District, Taipei, 105, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Dragon",
+    "slug": "the-dragon",
+    "city_id": "taipei-tw",
+    "website": "https://www.marriott.com/en-us/hotels/tpest-sheraton-grand-taipei-hotel/dining",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "B1, Sheraton Grand Hotel, 12, Section 1, Zhongxiao East Road, Zhongzheng District, Taipei, 100, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tsuki Yo Iwa",
+    "slug": "tsuki-yo-iwa",
+    "city_id": "taipei-tw",
+    "website": "https://tsukiyoiwa.com/EN_index.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9, Lane 25, Shuangcheng Street, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tutto Bello",
+    "slug": "tutto-bello",
+    "city_id": "taipei-tw",
+    "website": "https://www.tuttobello.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "15, Lane 25, Shuangcheng Street, Zhongshan District, Taipei, 104, Taiwan",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Uosho",
+    "slug": "uosho",
+    "city_id": "taipei-tw",
+    "website": "https://unagiuosho.co.jp",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24, Lane 83, Section 1, Zhongshan North Road, Zhongshan District, Taipei, Taiwan",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Vanne Yakiniku",
+    "slug": "vanne-yakiniku",
+    "city_id": "taipei-tw",
+    "website": "https://www.minamiaoyama-fan-yakiniku.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, 235, Section 1, Dunhua South Road, Da'an District, Taipei, 106, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Xiang Se",
+    "slug": "xiang-se",
+    "city_id": "taipei-tw",
+    "website": "https://xiang-se.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1-2 Hukou Street, Zhongzheng District, Taipei, 100, Taiwan",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yangming Spring (Shilin)",
+    "slug": "yangming-spring-shilin",
+    "city_id": "taipei-tw",
+    "website": "https://ymspring.com.tw",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "119-1 Jingshan Road, Shilin District, Taipei, Taiwan",
+    "price_tier": "$$$"
+  }
+]

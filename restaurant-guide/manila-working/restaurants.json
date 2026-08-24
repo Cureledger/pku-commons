@@ -1,0 +1,1763 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "manila-ph",
+ "restaurant_count": 45,
+ "restaurants": [
+  {
+   "restaurant_id": "manila-ph/brick-corner",
+   "city_id": "manila-ph",
+   "slug": "brick-corner",
+   "name": "Brick Corner",
+   "website": "",
+   "address": "151 Forbeswood Heights, Forbestown Road, Bonifacio Global City, Taguig - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/brick-corner"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/brick-corner",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/cochi",
+   "city_id": "manila-ph",
+   "slug": "cochi",
+   "name": "COCHI",
+   "website": "",
+   "address": "Unit 1, GF, Verve Residences Tower 2, 27th Street corner 9th Avenue, Bonifacio Global City, Taguig - Metro Manila, 1637, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/cochi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/cochi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/cabel",
+   "city_id": "manila-ph",
+   "slug": "cabel",
+   "name": "Cabel",
+   "website": "",
+   "address": "1153 JP Laurel corner Aguado Street, San Miguel, Manila - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/manila_2329836/restaurant/cabel"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/manila_2329836/restaurant/cabel",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/em-ha-noi",
+   "city_id": "manila-ph",
+   "slug": "em-ha-noi",
+   "name": "Em Hà Nội",
+   "website": "",
+   "address": "GF, F1 Hotel, 32nd Street corner Lane A, Bonifacio Global City, Taguig - Metro Manila, 1226, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/em-ha-noi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/em-ha-noi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/halong",
+   "city_id": "manila-ph",
+   "slug": "halong",
+   "name": "Hálong",
+   "website": "",
+   "address": "U-105, First Midland Condominium Building, 109 Gamboa, Makati - Metro Manila, 1223, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/halong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/halong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/kumba",
+   "city_id": "manila-ph",
+   "slug": "kumba",
+   "name": "Kumba",
+   "website": "",
+   "address": "92 Aguirre Avenue, BF Homes, Parañaque - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/paranaque-city_2322454/restaurant/kumba"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/paranaque-city_2322454/restaurant/kumba",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/la-pita-poblacion",
+   "city_id": "manila-ph",
+   "slug": "la-pita-poblacion",
+   "name": "La Pita (Poblacion)",
+   "website": "",
+   "address": "5652 Don Pedro, Poblacion, Makati - Metro Manila, 1210, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/la-pita"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/la-pita",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/lampara",
+   "city_id": "manila-ph",
+   "slug": "lampara",
+   "name": "Lampara",
+   "website": "",
+   "address": "2F, 5883 Enriquez Street, Poblacion, Makati - Metro Manila, 1210, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/lampara"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/lampara",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/los-tacos",
+   "city_id": "manila-ph",
+   "slug": "los-tacos",
+   "name": "Los Tacos",
+   "website": "",
+   "address": "UGF, One Uptown Residences, 36th Street, Bonifacio Global City, Taguig - Metro Manila, 1214, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/los-tacos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/los-tacos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/morning-sun-eatery",
+   "city_id": "manila-ph",
+   "slug": "morning-sun-eatery",
+   "name": "Morning Sun Eatery",
+   "website": "",
+   "address": "120 J.P. Rizal, Project 4, Quezon - Metro Manila, 1109, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "manila-ph/palm-grill-diliman",
+   "city_id": "manila-ph",
+   "slug": "palm-grill-diliman",
+   "name": "Palm Grill (Diliman)",
+   "website": "",
+   "address": "179 Tomas Morato Avenue, Diliman, Quezon - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/palm-grill-diliman"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/palm-grill-diliman",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/some-thai-quezon",
+   "city_id": "manila-ph",
+   "slug": "some-thai-quezon",
+   "name": "SOME THAI (Quezon)",
+   "website": "",
+   "address": "195 Tomas Morato, Scout Fuentebella Street, Quezon - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/some-thai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/some-thai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/sarsa",
+   "city_id": "manila-ph",
+   "slug": "sarsa",
+   "name": "Sarsa",
+   "website": "",
+   "address": "109 Rada, Legazpi Village, Makati - Metro Manila, 1229, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/sarsa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/the-underbelly",
+   "city_id": "manila-ph",
+   "slug": "the-underbelly",
+   "name": "The Underbelly",
+   "website": "",
+   "address": "The Alley at Karrivin, Karrivin Plaza, 2316 Chino Roces Avenue Extension, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/the-underbelly"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/the-underbelly",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Ramen",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/your-local",
+   "city_id": "manila-ph",
+   "slug": "your-local",
+   "name": "Your Local",
+   "website": "",
+   "address": "106 Esteban, Legazpi Village, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/aidas-chicken",
+   "city_id": "manila-ph",
+   "slug": "aidas-chicken",
+   "name": "Aida's Chicken",
+   "website": "",
+   "address": "LGF, Makati Cinema Square, 2130 Chino Roces Avenue, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/aida-s-chicken"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/aida-s-chicken",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "manila-ph/butcher-boy",
+   "city_id": "manila-ph",
+   "slug": "butcher-boy",
+   "name": "BUTCHER BOY",
+   "website": "",
+   "address": "2F, Alabang West Parade, Daang Hari Road, Makati - Metro Manila, 1750, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/butcher-boy"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/butcher-boy",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/chie-chies-pancit-batil-patung",
+   "city_id": "manila-ph",
+   "slug": "chie-chies-pancit-batil-patung",
+   "name": "Chie Chie's Pancit Batil Patung",
+   "website": "",
+   "address": "1827 Dian Street, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/chie-chie-s-pancit-batil-patung"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/chie-chie-s-pancit-batil-patung",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "manila-ph/deo-gracias",
+   "city_id": "manila-ph",
+   "slug": "deo-gracias",
+   "name": "Deo Gracias",
+   "website": "",
+   "address": "12 11th Jamboree Street, Diliman, Quezon - Metro Manila, 1103, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/deo-gracias"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/deo-gracias",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/el-poco-cantina-malate",
+   "city_id": "manila-ph",
+   "slug": "el-poco-cantina-malate",
+   "name": "El Poco Cantina (Malate)",
+   "website": "",
+   "address": "945 Estrada Street, Malate, Manila - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "manila-ph/esmeralda-kitchen",
+   "city_id": "manila-ph",
+   "slug": "esmeralda-kitchen",
+   "name": "Esmeralda Kitchen",
+   "website": "",
+   "address": "43 Mayon Street, Santa Mesa Heights, Quezon - Metro Manila, 1114, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/esmeralda-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/esmeralda-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/fong-wei-wu",
+   "city_id": "manila-ph",
+   "slug": "fong-wei-wu",
+   "name": "Fong Wei Wu",
+   "website": "",
+   "address": "82 Banawe Street corner Samat Street, Quezon - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/fong-wei-wu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/quenzon-city_2323700/restaurant/fong-wei-wu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "manila-ph/fresca-trattoria",
+   "city_id": "manila-ph",
+   "slug": "fresca-trattoria",
+   "name": "Fresca Trattoria",
+   "website": "",
+   "address": "GF, The Grand Midori, Bolanos, Legazpi Village, Makati - Metro Manila, 1229, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/fresca-trattoria"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/fresca-trattoria",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/mamacita",
+   "city_id": "manila-ph",
+   "slug": "mamacita",
+   "name": "Mamacita",
+   "website": "",
+   "address": "Forbestown Road, Bonifacio Global City, Taguig - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/mamacita"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/mamacita",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/oak-smoke",
+   "city_id": "manila-ph",
+   "slug": "oak-smoke",
+   "name": "Oak & Smoke",
+   "website": "",
+   "address": "GF, Pacquiao Mansion, 324 H.V. Dela Costa,, Makati - Metro Manila, 1227, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/oak-smoke"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/oak-smoke",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/offbeat",
+   "city_id": "manila-ph",
+   "slug": "offbeat",
+   "name": "Offbeat",
+   "website": "",
+   "address": "2F, The Shops at Ayala Triangle Gardens, Makati Avenue, Makati - Metro Manila, 1224, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/offbeat"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/offbeat",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/papillon",
+   "city_id": "manila-ph",
+   "slug": "papillon",
+   "name": "Papillon",
+   "website": "",
+   "address": "129 Frabelle Corporate Plaza, Tordesillas Street, Salcedo Village, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/papillon-1217401"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/papillon-1217401",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/super-uncle-claypot",
+   "city_id": "manila-ph",
+   "slug": "super-uncle-claypot",
+   "name": "Super Uncle Claypot",
+   "website": "",
+   "address": "5887 Enriquez Street, Poblacion, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/super-uncle-claypot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/super-uncle-claypot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/helm",
+   "city_id": "manila-ph",
+   "slug": "helm",
+   "name": "Helm",
+   "website": "https://www.joshboutwood.com/restaurants/helm",
+   "address": "3F, The Shops at Ayala Triangle Gardens, Makati Avenue, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/helm"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/helm",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/celera",
+   "city_id": "manila-ph",
+   "slug": "celera",
+   "name": "Celera",
+   "website": "https://restaurantcelera.com",
+   "address": "3F, Comuna, 238 Pablo Ocampo Senior Extension, Makati - Metro Manila, 1203, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/celera"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/celera",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/toyo-eatery",
+   "city_id": "manila-ph",
+   "slug": "toyo-eatery",
+   "name": "Toyo Eatery",
+   "website": "https://toyoeatery.com",
+   "address": "The Alley at Karrivin, Karrivin Plaza, 2316 Chino Roces Avenue Extension, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/toyo-eatery"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/toyo-eatery",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/pilyas-kitchen",
+   "city_id": "manila-ph",
+   "slug": "pilyas-kitchen",
+   "name": "Pilya's Kitchen",
+   "website": "https://thegridfoodmarket.com/pages/pilyas-kitchen-categories",
+   "address": "Stall 11, The Grid - Food Market, Power Plant Mall, Rockwell Drive corner Estrella, Makati - Metro Manila, 1210, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/pilya-s-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/pilya-s-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/carmelos-steakhouse",
+   "city_id": "manila-ph",
+   "slug": "carmelos-steakhouse",
+   "name": "Carmelo's Steakhouse",
+   "website": "https://www.carmelossteakhouseph.com",
+   "address": "2F, The Proscenium Retail Row, Rockwell Centre, Estrella, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/carmelo-s-steakhouse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/carmelo-s-steakhouse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/china-blue",
+   "city_id": "manila-ph",
+   "slug": "china-blue",
+   "name": "China Blue",
+   "website": "https://www.hilton.com/en/hotels/mnlmbci-conrad-manila/dining",
+   "address": "3F, Conrad Manila, Seaside Boulevard, Coral Way, Pasay - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/pasay-city_2322516/restaurant/china-blue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/pasay-city_2322516/restaurant/china-blue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/ginza-nagaoka",
+   "city_id": "manila-ph",
+   "slug": "ginza-nagaoka",
+   "name": "Ginza Nagaoka",
+   "website": "https://okadamanila.com/dine/ginza-nagaoka",
+   "address": "Okada Manila, New Seaside Drive, Entertainment City, Parañaque - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/paranaque-city_2322454/restaurant/ginza-nagaoka"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/paranaque-city_2322454/restaurant/ginza-nagaoka",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/juniper",
+   "city_id": "manila-ph",
+   "slug": "juniper",
+   "name": "Juniper",
+   "website": "https://www.joshboutwood.com/restaurants/juniper",
+   "address": "GF, Shangri-La Plaza, Shaw Boulevard, Ortigas Centre, Mandaluyong - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/mandaluyong-city_2329754/restaurant/juniper"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/mandaluyong-city_2329754/restaurant/juniper",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/kodawari-salcedo",
+   "city_id": "manila-ph",
+   "slug": "kodawari-salcedo",
+   "name": "Kodawari (Salcedo)",
+   "website": "https://www.kodawari.world",
+   "address": "121 L.P. Leviste Street, Adamson Centre, Salcedo Village, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/kodawari-salcedo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/kodawari-salcedo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/locavore-taguig",
+   "city_id": "manila-ph",
+   "slug": "locavore-taguig",
+   "name": "Locavore (Taguig)",
+   "website": "https://www.locavoreph.com",
+   "address": "Forbes Town Center, Burgos Circle, Bonifacio Global City, Taguig - Metro Manila, 1634, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/locavore-taguig"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/taguig-city_2327686/restaurant/locavore-taguig",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/metiz",
+   "city_id": "manila-ph",
+   "slug": "metiz",
+   "name": "Metiz",
+   "website": "https://metizresto.com",
+   "address": "GF, Building A, Karrivin Plaza, 2316 Chino Roces Avenue Extension, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/metiz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/metiz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Filipino",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/mireio",
+   "city_id": "manila-ph",
+   "slug": "mireio",
+   "name": "Mirèio",
+   "website": "https://www.raffles.com/makati/dining/mireio",
+   "address": "9F, Raffles Makati, 1 Raffles Drive, Makati Avenue, Makati - Metro Manila, 1224, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/mireio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/mireio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/now-now",
+   "city_id": "manila-ph",
+   "slug": "now-now",
+   "name": "Now Now",
+   "website": "https://nownow.ph",
+   "address": "GF, 497-C Rosa Building, Calbayog corner L. Esteban, Barangay Highway Hills, Mandaluyong - Metro Manila, 1550, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/mandaluyong-city_2329754/restaurant/now-now"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/mandaluyong-city_2329754/restaurant/now-now",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/old-manila",
+   "city_id": "manila-ph",
+   "slug": "old-manila",
+   "name": "Old Manila",
+   "website": "https://www.peninsula.com/en/manila/hotel-fine-dining/old-manila",
+   "address": "GF, The Peninsula Manila, Corner of Ayala and Makati Avenues, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/old-manila"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/old-manila",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/pablo",
+   "city_id": "manila-ph",
+   "slug": "pablo",
+   "name": "Pablo",
+   "website": "https://www.carteldeli.com",
+   "address": "GF, The Picasso Boutique Serviced Residences, 119 L.P. Leviste Street, Salcedo Village, Makati - Metro Manila, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/pablo-1241245"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/pablo-1241245",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "manila-ph/spices",
+   "city_id": "manila-ph",
+   "slug": "spices",
+   "name": "Spices",
+   "website": "https://www.peninsula.com/en/manila/5-star-luxury-hotel-makati",
+   "address": "GF, The Peninsula Manila, Corner of Ayala and Makati Avenues, Makati - Metro Manila, 1226, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/spices-1217402"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/spices-1217402",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "manila-ph/the-test-kitchen",
+   "city_id": "manila-ph",
+   "slug": "the-test-kitchen",
+   "name": "The Test Kitchen",
+   "website": "https://www.joshboutwood.com/restaurants/thetestkitchen",
+   "address": "GF, One Rockwell East Tower, Rockwell Drive, Makati - Metro Manila, 1211, The Philippines",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/the-test-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/the-test-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$$"
+  }
+ ]
+}

@@ -1,0 +1,511 @@
+[
+  {
+    "name": "Aramburu",
+    "slug": "aramburu",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.arambururesto.com.ar",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Vicente López 1661, Buenos Aires, C1018ABA, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Crizia",
+    "slug": "crizia",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.crizia.com.ar",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Fitz Roy 1819, Buenos Aires, C1414CIA, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Don Julio",
+    "slug": "don-julio",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.parrilladonjulio.com.ar",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Guatemala 4699, Buenos Aires, C1425BUK, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Han",
+    "slug": "han",
+    "city_id": "buenos-aires-ar",
+    "website": "https://hanrestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Vera 966, Buenos Aires, C1414AOT, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Trescha",
+    "slug": "trescha",
+    "city_id": "buenos-aires-ar",
+    "website": "https://trescharestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Murillo 725, Buenos Aires, C1414AFE, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "ANAFE",
+    "slug": "anafe",
+    "city_id": "buenos-aires-ar",
+    "website": "https://anafe.com.ar/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Virrey Avilés 3216, Buenos Aires, C1426EEH, Argentina",
+    "price_tier": "$"
+  },
+  {
+    "name": "Ajo Negro - Mar de Tapas",
+    "slug": "ajo-negro-mar-de-tapas",
+    "city_id": "buenos-aires-ar",
+    "website": "https://linktr.ee/ajonegrobar?fbclid=PAZXh0bgNhZW0CMTEAAaZPFCL14QEfDQmic1YsSeLg_5T8jNuw3w_GGQWHUWLga4flBvu9YXEdbdI_aem_ni__mgRVamMkAHQvx3DoyA",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Avenida Córdoba 6237, Buenos Aires, C1427BZC, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bis Bistró",
+    "slug": "bis-bistro",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.instagram.com/bis_bistro/?hl=es",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Vicente López 1661 Local 12, Buenos Aires, C1018ABA, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Alacena Trattoria",
+    "slug": "la-alacena-trattoria",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.instagram.com/laalacenatrattoria",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Gascón 1401, Buenos Aires, C1181ADA, Argentina",
+    "price_tier": "$"
+  },
+  {
+    "name": "Mengano",
+    "slug": "mengano",
+    "city_id": "buenos-aires-ar",
+    "website": "https://linktr.ee/mengano.ba",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Jose Antonio Cabrera 5172, Buenos Aires, C1414BGT, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Reliquia",
+    "slug": "reliquia",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.instagram.com/reliquia.restaurante/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Angel Justiniano Carranza 1601, Buenos Aires, C1414COQ, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "4ta Pared",
+    "slug": "4ta-pared",
+    "city_id": "buenos-aires-ar",
+    "website": "https://linktr.ee/4TAPARED",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Habana 3499, Buenos Aires, C1419GQA, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "A Fuego Fuerte",
+    "slug": "a-fuego-fuerte",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.afuego-fuerte.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bonpland 1670, Buenos Aires, C1414CMT, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alcanfor",
+    "slug": "alcanfor",
+    "city_id": "buenos-aires-ar",
+    "website": "https://alcanfor-restaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Aguirre 949, Buenos Aires, C1414ASS, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Anchoíta",
+    "slug": "anchoita",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.anchoita.com.ar",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Juan Ramírez De Velasco 1520, Buenos Aires, C1414ARF, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Buri Omakase",
+    "slug": "buri-omakase",
+    "city_id": "buenos-aires-ar",
+    "website": "https://linktr.ee/BuriOmakase",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Guatemala 5781, Buenos Aires, C1425BVK, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cabaña Las Lilas",
+    "slug": "cabana-las-lilas",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.restaurantlaslilas.com.ar",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenida Alicia Moreau de Justo 516, Buenos Aires, C1107AAL, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Casa Cavia",
+    "slug": "casa-cavia",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.casacavia.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Cavia 2985, Buenos Aires, C1425DDA, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Casa Palanti",
+    "slug": "casa-palanti",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.casapalanti.com.ar/manifiesto/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ortíz de Ocampo 2901, Buenos Aires, C1425DSF, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Casa Veltri",
+    "slug": "casa-veltri",
+    "city_id": "buenos-aires-ar",
+    "website": "https://linktr.ee/casaveltri_",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Juncal 1642, Buenos Aires, C1062ABV, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chuí",
+    "slug": "chui",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.chui.com.ar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Loyola 1250, Buenos Aires, C1414AVB, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Duhau Restaurante & Vinoteca",
+    "slug": "duhau-restaurante-vinoteca",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.hyatt.com/en-US/hotel/argentina/palacio-duhau-park-hyatt-buenos-aires/bueph/dining",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenida Alvear 1661, Buenos Aires, C1014AAD, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "El Preferido de Palermo",
+    "slug": "el-preferido-de-palermo",
+    "city_id": "buenos-aires-ar",
+    "website": "https://elpreferido.meitre.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Jorge Luis Borges 2108, Buenos Aires, C1425FFD, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Elena",
+    "slug": "elena",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.fourseasons.com/es/buenosaires/dining/restaurants/elena",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Posadas 1086/88, Buenos Aires, C1011ABB, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Evelia",
+    "slug": "evelia",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.eveliarestaurante.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Campos Salles 1712, Buenos Aires, C1429CEF, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fervor",
+    "slug": "fervor",
+    "city_id": "buenos-aires-ar",
+    "website": "https://fervorbrasas.com.ar/wp/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Posadas 1519, Buenos Aires, C1112ADA, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fico",
+    "slug": "fico",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.instagram.com/fico.ba?igsh=MTJqb3Y1YTRvYnE1ZQ==",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Muñecas 775, Buenos Aires, C1414AEA, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Fogón Asado",
+    "slug": "fogon-asado",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.fogonasado.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Uriarte 1423, Buenos Aires, C1414DAM, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Gioia Cocina Botánica",
+    "slug": "gioia-cocina-botanica",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.palacioduhauexperience.com/gioia",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Posadas 1350, Buenos Aires, C1011ABH, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "José El Carnicero",
+    "slug": "jose-el-carnicero",
+    "city_id": "buenos-aires-ar",
+    "website": "https://joseelcarnicero.com.ar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Thames 2316, Buenos Aires, C1425FIH, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Julia",
+    "slug": "julia",
+    "city_id": "buenos-aires-ar",
+    "website": "https://juliarestaurante.com.ar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Loyola 807, Buenos Aires, C1414AUQ, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Cabaña",
+    "slug": "la-cabana",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.lacabana.com.ar",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenida Alicia Moreau De Justo 580, Buenos Aires, C1107AAL, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mercado de Liniers",
+    "slug": "mercado-de-liniers",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.mdl.com.ar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gorriti 6012, Buenos Aires, C1414BKN, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Michel Rolland Grill & Wine",
+    "slug": "michel-rolland-grill-wine",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.michelrollandgrillwine.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Juana Manso 1760, Buenos Aires, C1107CHJ, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mishiguene",
+    "slug": "mishiguene",
+    "city_id": "buenos-aires-ar",
+    "website": "https://mishiguenerestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lafinur 3368, Buenos Aires, C1425FAJ, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Niño Gordo",
+    "slug": "nino-gordo",
+    "city_id": "buenos-aires-ar",
+    "website": "https://niniogordo.us",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Thames 1810, Buenos Aires, C1414DDL, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Osaka Concepción",
+    "slug": "osaka-concepcion",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.osakanikkei.com/es/local/buenos-aires",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Concepcion Arenal 2913, Buenos Aires, C1426DGC, Argentina",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Piedra Pasillo Al Fondo",
+    "slug": "piedra-pasillo-al-fondo",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.instagram.com/piedrapasillo",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Campos Salles 2145, Buenos Aires, C1429CFC, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Raggio Osteria",
+    "slug": "raggio-osteria",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.instagram.com/raggio.osteria/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gurruchaga 2121, Buenos Aires, C1425FEE, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "República del Fuego",
+    "slug": "republica-del-fuego",
+    "city_id": "buenos-aires-ar",
+    "website": "https://linktr.ee/republicadelfuego.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Juncal 2682, Buenos Aires, C1425AYF, Argentina",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Roux",
+    "slug": "roux",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.rouxresto.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Peña 2300, Buenos Aires, C1126ABF, Argentina",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sottovoce",
+    "slug": "sottovoce",
+    "city_id": "buenos-aires-ar",
+    "website": "https://www.sottovoce.com.ar",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Avenida del Libertador 1098, Buenos Aires, C1112ABN, Argentina",
+    "price_tier": "$$"
+  }
+]

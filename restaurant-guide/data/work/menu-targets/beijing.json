@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Blackswan",
+    "slug": "blackswan",
+    "city_id": "beijing-cn",
+    "website": "https://www.restaurantblackswan.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "1F, Luohong Art Museum, 89 Capital Airport Road, Shunyi, Beijing, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "King's Joy",
+    "slug": "kings-joy",
+    "city_id": "beijing-cn",
+    "website": "https://www.kingsjoy.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "2 Wudaoying Hutong, Dongcheng, Beijing, 100007, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cai Yi Xuan",
+    "slug": "cai-yi-xuan",
+    "city_id": "beijing-cn",
+    "website": "https://www.fourseasons.com/beijing/dining/restaurants/cai_yi_xuan",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2F, Four Seasons Hotel, 48 Liangmaqiao Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fu Chun Ju",
+    "slug": "fu-chun-ju",
+    "city_id": "beijing-cn",
+    "website": "https://thepuxuan.com/en/beijing-wangfujing-luxury-hotel-dining/cantonese-cuisine-fu-chun-ju-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, The Puxuan Hotel, 1 Wangfujing Street, Dongcheng, Beijing, 100006, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Furong",
+    "slug": "furong",
+    "city_id": "beijing-cn",
+    "website": "https://www.xinrongji.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1F, The Westin, 9C Jinrong Street, Xicheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Gastro Esthetics DaDong",
+    "slug": "gastro-esthetics-dadong",
+    "city_id": "beijing-cn",
+    "website": "https://www.dadongdadong.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1-2F, Nanxincang Business Tower, 22A Dongsi 10th Alley, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Giada Garden",
+    "slug": "giada-garden",
+    "city_id": "beijing-cn",
+    "website": "https://www.shangri-la.com/beijing/chinaworld/dining/restaurants/giada-garden/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, China World Hotel, 1 Jianguomenwai Street, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Il Ristorante - Niko Romito",
+    "slug": "il-ristorante-niko-romito",
+    "city_id": "beijing-cn",
+    "website": "https://www.bulgarihotels.com/en_US/beijing/dining/il-ristorante-niko-romito",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1F, Bvlgari Hotel, Building 2, Courtyard 8, Xinyuan South Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jing",
+    "slug": "jing",
+    "city_id": "beijing-cn",
+    "website": "https://www.peninsula.com/en/beijing/hotel-fine-dining/jing-western-restaurant",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "B1 Level, The Peninsula Hotel, 8 Jinyu Hutong, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lei Garden (Jinbao Tower)",
+    "slug": "lei-garden-jinbao-tower",
+    "city_id": "beijing-cn",
+    "website": "https://leigarden.hk/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, Jinbao Tower, 89 Jinbao Street, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Seventh Son",
+    "slug": "seventh-son",
+    "city_id": "beijing-cn",
+    "website": "https://www.seventhson.hk",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "B1 Level, Jiaming Center, 27 Dongsanhuan North Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The House of Dynasties",
+    "slug": "the-house-of-dynasties",
+    "city_id": "beijing-cn",
+    "website": "https://www.rosewoodhotels.com/en/beijing/dining/the-house-of-dynasties",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4F, Rosewood Hotel, Jing Guang Centre, Hujialou, 1 Chaoyangmenwai Street, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Trb Hutong",
+    "slug": "trb-hutong",
+    "city_id": "beijing-cn",
+    "website": "https://www.trbhutong.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "23 Shatan North Street, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zijin Mansion",
+    "slug": "zijin-mansion",
+    "city_id": "beijing-cn",
+    "website": "https://www.hilton.com/en/hotels/bjswawa-waldorf-astoria-beijing/dining/zijin-mansion/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "3F, Waldorf Astoria Hotel, 5-15 Jinyu Hutong, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tianchumiaoxiang Vegetarian (Chaoyang)",
+    "slug": "tianchumiaoxiang-vegetarian-chaoyang",
+    "city_id": "beijing-cn",
+    "website": "https://liaofan.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "0260, 2F, Building D, CHAOWAI SOHO, 6 Chaowai Street, Chaoyang, Beijing, 100020, Chinese Mainland",
+    "price_tier": "$"
+  },
+  {
+    "name": "1949 - Duck de Chine",
+    "slug": "1949-duck-de-chine",
+    "city_id": "beijing-cn",
+    "website": "https://www.elite-concepts.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "98 Jinbao Street, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Amico BJ",
+    "slug": "amico-bj",
+    "city_id": "beijing-cn",
+    "website": "https://amicobj-restaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shop 109, 1F, Pacific Century Place, 2A Gongrentiyuchang North Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie 1893",
+    "slug": "brasserie-1893",
+    "city_id": "beijing-cn",
+    "website": "https://www.hilton.com/en/hotels/bjswawa-waldorf-astoria-beijing/dining/brasserie-1893/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F, Waldorf Astoria Hotel, 5-15 Jinyu Hutong, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Char (South Sanlitun Road)",
+    "slug": "char-south-sanlitun-road",
+    "city_id": "beijing-cn",
+    "website": "https://www.ihg.com/intercontinental/hotels/gb/en/beijing/peghe/hoteldetail/dining",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, InterContinental Sanlitun Hotel, Topwin Mall, 1 South Sanlitun Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Chef 1996",
+    "slug": "chef-1996",
+    "city_id": "beijing-cn",
+    "website": "https://www.chef1996.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4A Jiangtaiwa, Xinghuo East Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Country Kitchen",
+    "slug": "country-kitchen",
+    "city_id": "beijing-cn",
+    "website": "https://www.rosewoodhotels.com/en/beijing/dining/country-kitchen",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Rosewood Hotel, Jing Guang Centre, Hujialou, 1 Chaoyangmenwai Street, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jia (Chaoyang)",
+    "slug": "jia-chaoyang",
+    "city_id": "beijing-cn",
+    "website": "https://www.nuohotel.com/en/beijing/beijing-jiangtai/restaurants/jia/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1F, Nuo Hotel, 2A Jiangtai Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Chansonnière",
+    "slug": "la-chansonniere",
+    "city_id": "beijing-cn",
+    "website": "https://lachansonniere.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Room B-103, 1F, Iiig Work, Courtyard 2, Jiangtai West Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Maison Flo",
+    "slug": "maison-flo",
+    "city_id": "beijing-cn",
+    "website": "https://www.flo.cn/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18 Xiaoyun Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Meng Du Hui",
+    "slug": "meng-du-hui",
+    "city_id": "beijing-cn",
+    "website": "https://www.mengdugroup.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Block B, Wan Shou Hotel, 12A Wanshou Road, Haidian, Beijing, Chinese Mainland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mio",
+    "slug": "mio",
+    "city_id": "beijing-cn",
+    "website": "https://www.fourseasons.com/beijing/dining/restaurants/mio/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3F, Four Seasons Hotel, 48 Liangmaqiao Road, Chaoyang, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Qu Lang Yuan",
+    "slug": "qu-lang-yuan",
+    "city_id": "beijing-cn",
+    "website": "https://www.qulangyuan.cn",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "25 Dongsi 11th Alley, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rive Gauche",
+    "slug": "rive-gauche",
+    "city_id": "beijing-cn",
+    "website": "https://thepuxuan.com/en/beijing-wangfujing-luxury-hotel-dining/french-cuisine-rive-gauche-le-table/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2F, The PuXuan Hotel and Spa, 1 Wangfujing Street, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Yan Garden by Chef Fei",
+    "slug": "yan-garden-by-chef-fei",
+    "city_id": "beijing-cn",
+    "website": "https://www.mandarinoriental.com/en/beijing/qianmen/dine/yan-garden-by-chef-fei",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "No. 12, Caochang 9th Alley, Dongcheng, Beijing, Chinese Mainland",
+    "price_tier": "$$$$"
+  }
+]

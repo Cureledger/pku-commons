@@ -1,0 +1,720 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "vienna-at",
+ "restaurant_count": 18,
+ "restaurants": [
+  {
+   "restaurant_id": "vienna-at/amador",
+   "city_id": "vienna-at",
+   "slug": "amador",
+   "name": "Amador",
+   "website": "https://www.restaurant-amador.com/",
+   "address": "Grinzinger Straße 86, Vienna, 1190, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/amador"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/amador",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/steirereck-im-stadtpark",
+   "city_id": "vienna-at",
+   "slug": "steirereck-im-stadtpark",
+   "name": "Steirereck im Stadtpark",
+   "website": "https://www.steirereck.at/",
+   "address": "Am Heumarkt 2a, Vienna, 1030, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/steirereck-im-stadtpark"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/steirereck-im-stadtpark",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/konstantin-filippou",
+   "city_id": "vienna-at",
+   "slug": "konstantin-filippou",
+   "name": "Konstantin Filippou",
+   "website": "https://konstantinfilippou.com/",
+   "address": "Dominikanerbastei 17, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/konstantin-filippou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/konstantin-filippou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/addiert",
+   "city_id": "vienna-at",
+   "slug": "addiert",
+   "name": "Addiert",
+   "website": "https://www.addiert.at/",
+   "address": "Franz-Josefs-Kai 43, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/addiert"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/addiert",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/esszimmer-everybodys-darling",
+   "city_id": "vienna-at",
+   "slug": "esszimmer-everybodys-darling",
+   "name": "Esszimmer - Everybody's Darling",
+   "website": "https://everybodysdarling.at/esszimmer/",
+   "address": "Tuchlauben 22, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/esszimmer-everybody-s-darling"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/esszimmer-everybody-s-darling",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/glasswing-by-alexandru-simon",
+   "city_id": "vienna-at",
+   "slug": "glasswing-by-alexandru-simon",
+   "name": "Glasswing by Alexandru Simon",
+   "website": "https://www.glasswing-restaurant.com",
+   "address": "Kärntner Ring 8, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/glasswing"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/glasswing",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/jola",
+   "city_id": "vienna-at",
+   "slug": "jola",
+   "name": "JOLA",
+   "website": "https://www.jola.wien",
+   "address": "Salzgries 15, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/jola"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/jola"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/jola",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegan",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/tian-bistro-am-spittelberg",
+   "city_id": "vienna-at",
+   "slug": "tian-bistro-am-spittelberg",
+   "name": "TIAN Bistro am Spittelberg",
+   "website": "https://www.tian-bistro.com/",
+   "address": "Schrankgasse 4, Vienna, 1070, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/tian-bistro-am-spittelberg"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/tian-bistro-am-spittelberg"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/tian-bistro-am-spittelberg",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "vienna-at/atelier-7-brasserie",
+   "city_id": "vienna-at",
+   "slug": "atelier-7-brasserie",
+   "name": "Atelier 7 Brasserie",
+   "website": "https://www.mandarinoriental.com/de/vienna/inner-city/dine/atelier-7-izakaya-and-bar",
+   "address": "Riemergasse 7, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/atelier-7-brasserie"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/atelier-7-brasserie",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/beletage-zum-schwarzen-kameel",
+   "city_id": "vienna-at",
+   "slug": "beletage-zum-schwarzen-kameel",
+   "name": "Beletage Zum Schwarzen Kameel",
+   "website": "https://www.kameel.at",
+   "address": "Bognergasse 5, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/beletage-zum-schwarzen-kameel"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/beletage-zum-schwarzen-kameel",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/das-kraus",
+   "city_id": "vienna-at",
+   "slug": "das-kraus",
+   "name": "Das Kraus",
+   "website": "https://daskraus.at",
+   "address": "Große Pfarrgasse 7, Vienna, 1020, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/das-kraus"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/das-kraus",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/diningruhm",
+   "city_id": "vienna-at",
+   "slug": "diningruhm",
+   "name": "DiningRuhm",
+   "website": "https://www.diningruhm.at/",
+   "address": "Lambrechtgasse 9, Vienna, 1040, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/diningruhm"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/diningruhm",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/fuhrmann",
+   "city_id": "vienna-at",
+   "slug": "fuhrmann",
+   "name": "Fuhrmann",
+   "website": "https://www.restaurantfuhrmann.com/",
+   "address": "Fuhrmannsgasse 9, Vienna, 1080, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/fuhrmann"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/fuhrmann",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Austrian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "vienna-at/hausbar-wien",
+   "city_id": "vienna-at",
+   "slug": "hausbar-wien",
+   "name": "HAUSBAR Wien",
+   "website": "https://www.hausbar-wien.at",
+   "address": "Karlsplatz 5, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/hausbar-wien"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/hausbar-wien",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/heunisch-und-erben",
+   "city_id": "vienna-at",
+   "slug": "heunisch-und-erben",
+   "name": "Heunisch und Erben",
+   "website": "https://www.heunisch.at/",
+   "address": "Landstrasser Hauptstraße 17, Vienna, 1030, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/heunisch-und-erben"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/heunisch-und-erben",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/kutschker-44",
+   "city_id": "vienna-at",
+   "slug": "kutschker-44",
+   "name": "Kutschker 44",
+   "website": "https://www.kutschker44.at/",
+   "address": "Kutschkergasse 44, Vienna, 1180, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/kutschker-44"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/kutschker-44",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "vienna-at/le-sept",
+   "city_id": "vienna-at",
+   "slug": "le-sept",
+   "name": "Le Sept",
+   "website": "https://www.mandarinoriental.com/de/vienna/inner-city/dine/le-sept",
+   "address": "Riemergasse 7, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/le-sept"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/le-sept",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vienna-at/o-boufes",
+   "city_id": "vienna-at",
+   "slug": "o-boufes",
+   "name": "O boufés",
+   "website": "https://konstantinfilippou.com/oboufes/",
+   "address": "Dominikanerbastei 17, Vienna, 1010, Austria",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vienna/wien/restaurant/o-boufes"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vienna/wien/restaurant/o-boufes",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "belgrade-rs",
+ "restaurant_count": 8,
+ "restaurants": [
+  {
+   "restaurant_id": "belgrade-rs/gusti-mora",
+   "city_id": "belgrade-rs",
+   "slug": "gusti-mora",
+   "name": "Gušti mora",
+   "website": "",
+   "address": "Ulica Radnička 27, Belgrade, 11000, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/gusti-mora"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/gusti-mora",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "belgrade-rs/istok",
+   "city_id": "belgrade-rs",
+   "slug": "istok",
+   "name": "Istok",
+   "website": "https://istokrestoran.com/",
+   "address": "Gospodar Jevremova 50, Belgrade, 11000, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/istok"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/istok",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "belgrade-rs/ladresse",
+   "city_id": "belgrade-rs",
+   "slug": "ladresse",
+   "name": "L'Adresse",
+   "website": "https://saintten.com/",
+   "address": "Svetog Save 10, Belgrade, 11000, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/l-adresse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/l-adresse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "belgrade-rs/magellan",
+   "city_id": "belgrade-rs",
+   "slug": "magellan",
+   "name": "Magellan",
+   "website": "https://www.magellan.rs/",
+   "address": "Jurija Gagarina 14ž, Belgrade, 11070, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/magellan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/magellan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "belgrade-rs/na-cosku",
+   "city_id": "belgrade-rs",
+   "slug": "na-cosku",
+   "name": "Na Ćošku",
+   "website": "https://www.nacosku.rs/",
+   "address": "Beogradska 37, Belgrade, 11000, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/na-cosku"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/na-cosku",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Balkan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "belgrade-rs/pinot",
+   "city_id": "belgrade-rs",
+   "slug": "pinot",
+   "name": "Pinòt",
+   "website": "https://www.pinot.rs",
+   "address": "Omladinskih Brigada 86ž, West 65, Belgrade, 11070, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/pinot-1211133"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/pinot-1211133",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "belgrade-rs/salon-1905",
+   "city_id": "belgrade-rs",
+   "slug": "salon-1905",
+   "name": "Salon 1905",
+   "website": "https://www.salon1905.rs/",
+   "address": "Karađorđeva 48, Belgrade, 11000, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/salon-1905"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/salon-1905",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "belgrade-rs/suvenir",
+   "city_id": "belgrade-rs",
+   "slug": "suvenir",
+   "name": "Suvenir",
+   "website": "https://www.splavsuvenir.rs/",
+   "address": "Novi Beograd Blok 44, Gandijeva BB, Beograd , Serbia, Belgrade, 11070, Serbia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/suvenir"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/belgrade-region/belgrade/restaurant/suvenir",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Traditional Cuisine",
+   "price_tier": "$$"
+  }
+ ]
+}

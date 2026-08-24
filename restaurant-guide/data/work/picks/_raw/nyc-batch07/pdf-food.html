@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+    <style>
+        body{
+            background-color: #272727;
+            color: #fff;
+            padding:25px;
+            font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+        }
+        h1 {
+            font-weight:300;
+        }
+        p {
+            font-weight:300;
+        }
+        .content{
+            margin: 0 auto;
+            max-width:800px;
+        }
+    </style>
+<script>var __uzdbm_1 = "c1bc19bd-3350-4e9e-8c8c-31564f27f213";var __uzdbm_2 = "OTNkOGY2NzItZDZ5aS00ZGU5LThkOWMtMDMyY2VjMWNjZjkwJDE5OS4xNjguMjAwLjI=";var __uzdbm_3 = "";var __uzdbm_4 = "false";var __uzdbm_5 = "";var __uzdbm_6 = "";var __uzdbm_7 = "";</script> <script>   (function (w, d, e, u, c, g, a, b) {     w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {       ss_cid: c,       domain_info: "auto",     };     w[g] = function (i, j) {       w["SSJSConnectorObj"][i] = j;     };     a = d.createElement(e);     a.async = true;     if (       navigator.userAgent.indexOf('MSIE') !== -1 ||       navigator.appVersion.indexOf('Trident/') > -1     ) {       u = u.replace("/advanced/", "/advanced/ie/");     }     a.src = u;     b = d.getElementsByTagName(e)[0];     b.parentNode.insertBefore(a, b);   })(     window, document, "script", "https://origin-secure-prod-radware.getbento.com/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcaster.js", "d6yk", "ssConf"   );   ssConf("c1", "https://origin-secure-prod-radware.getbento.com");   ssConf("c3", "c99a4269-161c-4242-a3f0-28d44fa6ce24");   ssConf("au", "origin-secure-prod-radware.getbento.com");   ssConf("cu", "validate.perfdrive.com, ssc"); </script></head>
+<body>
+    <div class="content">
+        <h1>Page Not Found</h1>
+        <p>The page you were looking for was not found.  You will be redirected to the homepage in <span id="countdown">5</span> seconds...</p>
+    </div>
+</body>
+
+<script>
+  var countdown = document.getElementById('countdown');
+  setInterval(function() {
+    var seconds = parseInt(countdown.textContent);
+    var secondsRemaining;
+    if (seconds > 0) {
+      secondsRemaining = seconds - 1;
+      countdown.textContent = secondsRemaining;
+    }
+    if (secondsRemaining === 0) {
+      window.location.href = '/';
+    }
+  }, 1000);
+</script>
+</html>

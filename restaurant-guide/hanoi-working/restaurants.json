@@ -1,0 +1,1646 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "hanoi-vn",
+ "restaurant_count": 42,
+ "restaurants": [
+  {
+   "restaurant_id": "hanoi-vn/tam-vi",
+   "city_id": "hanoi-vn",
+   "slug": "tam-vi",
+   "name": "Tầm Vị",
+   "website": "",
+   "address": "4B Yen The Street, Ba Dinh Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/tam-vi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/tam-vi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/banh-cuon-gia-truyen-thanh-van-hang-ga-street",
+   "city_id": "hanoi-vn",
+   "slug": "banh-cuon-gia-truyen-thanh-van-hang-ga-street",
+   "name": "Bánh Cuốn Gia Truyền Thanh Vân (Hang Ga Street)",
+   "website": "",
+   "address": "14 Hang Ga Street, Hoan Kiem Ward, Hanoi, 110000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/banh-cuon-gia-truyen-thanh-van-hang-ga-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/banh-cuon-gia-truyen-thanh-van-hang-ga-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/bun-cha-chan",
+   "city_id": "hanoi-vn",
+   "slug": "bun-cha-chan",
+   "name": "Bún Chả Chan",
+   "website": "",
+   "address": "114 Mai Hac De Street, Hai Ba Trung Ward, Hanoi, 11606, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bun-cha-chan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bun-cha-chan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/habakuk",
+   "city_id": "hanoi-vn",
+   "slug": "habakuk",
+   "name": "Habakuk",
+   "website": "",
+   "address": "Alley 4, Phan Huy Chu Street, Hoan Kiem Ward, Hanoi, 11021, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/habakuk"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/habakuk",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/mien-luon-chan-cam-hoan-kiem",
+   "city_id": "hanoi-vn",
+   "slug": "mien-luon-chan-cam-hoan-kiem",
+   "name": "Miến Lươn Chân Cầm (Hoàn Kiếm)",
+   "website": "",
+   "address": "1 Chan Cam Street, Hoan Kiem Ward, Hanoi, 11006, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mien-luon-chan-cam-hoan-kiem"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mien-luon-chan-cam-hoan-kiem",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/mien-luon-ong-thinh",
+   "city_id": "hanoi-vn",
+   "slug": "mien-luon-ong-thinh",
+   "name": "Miến Lươn Đông Thịnh",
+   "website": "",
+   "address": "87 Hang Dieu Street, Hoan Kiem Ward, Hanoi, 111000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mien-luon-%C4%91ong-thinh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mien-luon-%C4%91ong-thinh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/mr-bay-mien-tay",
+   "city_id": "hanoi-vn",
+   "slug": "mr-bay-mien-tay",
+   "name": "Mr Bảy Miền Tây",
+   "website": "",
+   "address": "79 Hang Dieu Street, Hoan Kiem Ward, Hanoi, 11000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mr-bay-mien-tay"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mr-bay-mien-tay",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-bo-lam",
+   "city_id": "hanoi-vn",
+   "slug": "pho-bo-lam",
+   "name": "Phở Bò Lâm",
+   "website": "",
+   "address": "48 Hang Vai Street, Hoan Kiem Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-bo-lam"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-bo-lam",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-gia-truyen-hoan-kiem",
+   "city_id": "hanoi-vn",
+   "slug": "pho-gia-truyen-hoan-kiem",
+   "name": "Phở Gia Truyền (Hoàn Kiếm)",
+   "website": "",
+   "address": "49 Bat Dan Street, Hoan Kiem Ward, Hanoi, 10000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-gia-truyen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-gia-truyen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-ga-nguyet",
+   "city_id": "hanoi-vn",
+   "slug": "pho-ga-nguyet",
+   "name": "Phở Gà Nguyệt",
+   "website": "",
+   "address": "5B Phu Doan Street, Hoan Kiem Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ga-nguyet"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ga-nguyet",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-ha-hang-hom",
+   "city_id": "hanoi-vn",
+   "slug": "pho-ha-hang-hom",
+   "name": "Phở Hà Hàng Hòm",
+   "website": "",
+   "address": "15P, Hang Hom Street, Hoan Kiem Ward, Hanoi, 111000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ha-hang-hom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ha-hang-hom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-khoi-hoi",
+   "city_id": "hanoi-vn",
+   "slug": "pho-khoi-hoi",
+   "name": "Phở Khôi Hói",
+   "website": "",
+   "address": "50 Hang Vai Street, Hoan Kiem Ward, Hanoi, 11014, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-khoi-hoi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-khoi-hoi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/tuyet-bun-cha-34",
+   "city_id": "hanoi-vn",
+   "slug": "tuyet-bun-cha-34",
+   "name": "Tuyết Bún Chả 34",
+   "website": "",
+   "address": "34 Hang Than Street, Ba Dinh Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/tuyet-bun-cha-34"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/tuyet-bun-cha-34",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/banh-cuon-ba-hoanh",
+   "city_id": "hanoi-vn",
+   "slug": "banh-cuon-ba-hoanh",
+   "name": "Bánh Cuốn Bà Hoành",
+   "website": "",
+   "address": "66 To Hien Thanh Street, Bui Thi Xuan Ward, Hanoi, 112300, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/banh-cuon-ba-hoanh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/banh-cuon-ba-hoanh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/banh-cuon-ba-xuan",
+   "city_id": "hanoi-vn",
+   "slug": "banh-cuon-ba-xuan",
+   "name": "Bánh Cuốn Bà Xuân",
+   "website": "",
+   "address": "16 Hoe Nhai Street, Ba Dinh Ward, Hanoi, 11115, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/banh-cuon-ba-xuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/banh-cuon-ba-xuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/bun-cha-huong-lien",
+   "city_id": "hanoi-vn",
+   "slug": "bun-cha-huong-lien",
+   "name": "Bún Chả Hương Liên",
+   "website": "",
+   "address": "24 Le Van Huu Street, Hai Ba Trung Ward, Hanoi, 113000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bun-cha-huong-lien"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bun-cha-huong-lien",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/bep-prime",
+   "city_id": "hanoi-vn",
+   "slug": "bep-prime",
+   "name": "Bếp Prime",
+   "website": "",
+   "address": "12 Hang Dieu Street, Hoan Kiem Ward, Hanoi, 111202, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bep-prime"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bep-prime",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/cha-ca-anh-vu-o-cho-dua",
+   "city_id": "hanoi-vn",
+   "slug": "cha-ca-anh-vu-o-cho-dua",
+   "name": "Chả Cá Anh Vũ (Ô Chợ Dừa)",
+   "website": "",
+   "address": "120-K1 Giang Vo Street, O Cho Dua Ward, Hanoi, 11511, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/cha-ca-anh-vu-dong-da"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/cha-ca-anh-vu-dong-da",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/co-am",
+   "city_id": "hanoi-vn",
+   "slug": "co-am",
+   "name": "Cồ Đàm",
+   "website": "",
+   "address": "68 Tran Hung Dao Street, Hoan Kiem Ward, Hanoi, 11019, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/co-%C4%91am"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/co-%C4%91am",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/highway4-hang-tre-street",
+   "city_id": "hanoi-vn",
+   "slug": "highway4-hang-tre-street",
+   "name": "Highway4 (Hang Tre Street)",
+   "website": "",
+   "address": "5 Hang Tre Street, Hoan Kiem Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/highway4-hang-tre-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/highway4-hang-tre-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/hieu-luc-canh-ca-ro-hung-yen-hoan-kiem",
+   "city_id": "hanoi-vn",
+   "slug": "hieu-luc-canh-ca-ro-hung-yen-hoan-kiem",
+   "name": "Hiệu Lực Canh Cá Rô Hưng Yên (Hoàn Kiếm)",
+   "website": "",
+   "address": "39 Hai Ba Trung Street, Hoan Kiem Ward, Hanoi, 111000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/hieu-luc-canh-ca-ro-hung-yen-hai-ba-trung"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/hieu-luc-canh-ca-ro-hung-yen-hai-ba-trung",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/la-badiane",
+   "city_id": "hanoi-vn",
+   "slug": "la-badiane",
+   "name": "La Badiane",
+   "website": "",
+   "address": "10 Nam Ngu Street, Cua Nam Ward, Hanoi, 111100, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/la-badiane-1202147"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/la-badiane-1202147",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/mau",
+   "city_id": "hanoi-vn",
+   "slug": "mau",
+   "name": "MÀU",
+   "website": "",
+   "address": "5 Van Mieu Street, Quoc Tu Giam Ward, Hanoi, 10000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mau"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/mau",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-ga-cham-yen-ninh-street",
+   "city_id": "hanoi-vn",
+   "slug": "pho-ga-cham-yen-ninh-street",
+   "name": "Phở Gà Châm (Yen Ninh Street)",
+   "website": "",
+   "address": "64-68 Yen Ninh Street, Ba Dinh Ward, Hanoi, 11117, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ga-cham-yen-ninh-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ga-cham-yen-ninh-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-ga-huyen-huong",
+   "city_id": "hanoi-vn",
+   "slug": "pho-ga-huyen-huong",
+   "name": "Phở Gà Huyền Hương",
+   "website": "",
+   "address": "20 Bao Khanh Street, Hoan Kiem Ward, Hanoi, 11024, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ga-huyen-huong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-ga-huyen-huong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-tien",
+   "city_id": "hanoi-vn",
+   "slug": "pho-tien",
+   "name": "Phở Tiến",
+   "website": "",
+   "address": "103 Nguyen Truong To Street, Ba Dinh Ward, Hanoi, 11117, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-tien"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-tien",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/quan-an-ngon-cua-nam",
+   "city_id": "hanoi-vn",
+   "slug": "quan-an-ngon-cua-nam",
+   "name": "Quán Ăn Ngon (Cửa Nam)",
+   "website": "",
+   "address": "18 Phan Boi Chau Street, Cua Nam Ward, Hanoi, 11018, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/quan-an-ngon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/quan-an-ngon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/zao",
+   "city_id": "hanoi-vn",
+   "slug": "zao",
+   "name": "Zao",
+   "website": "",
+   "address": "4 Ngo Hue Street, Hai Ba Trung Ward, Hanoi, 113000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/zao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/zao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/oc-di-tu",
+   "city_id": "hanoi-vn",
+   "slug": "oc-di-tu",
+   "name": "Ốc Dì Tú",
+   "website": "",
+   "address": "144C Quan Thanh Street, Ba Dinh Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/oc-di-tu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/oc-di-tu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/oc-vi-saigon",
+   "city_id": "hanoi-vn",
+   "slug": "oc-vi-saigon",
+   "name": "Ốc Vi Saigon",
+   "website": "",
+   "address": "21 Gia Ngu Street, Hoan Kiem Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/oc-vi-saigon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/oc-vi-saigon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/hibana-by-koki",
+   "city_id": "hanoi-vn",
+   "slug": "hibana-by-koki",
+   "name": "Hibana by Koki",
+   "website": "https://capellahotels.com/en/capella-hanoi/dining/koki",
+   "address": "B1F, Capella Hanoi, 11 Le Phung Hieu Street, Hoan Kiem Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/hibana-by-koki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/hibana-by-koki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Teppanyaki",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/onvit",
+   "city_id": "hanoi-vn",
+   "slug": "onvit",
+   "name": "ONVIT",
+   "website": "https://onvithanoi.com",
+   "address": "3F, Grand Plaza Hotel, 117 Tran Duy Hung Street, Yen Hoa Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/onvit"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/onvit",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Korean Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/cha-ca-thang-long-6b-duong-thanh-street",
+   "city_id": "hanoi-vn",
+   "slug": "cha-ca-thang-long-6b-duong-thanh-street",
+   "name": "Chả Cá Thăng Long (6B Duong Thanh Street)",
+   "website": "https://chacathanglong.com.vn",
+   "address": "6B Duong Thanh Street, Hoan Kiem Ward, Hanoi, 11016, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/cha-ca-thang-long"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/cha-ca-thang-long",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/pho-10-ly-quoc-su-hoan-kiem",
+   "city_id": "hanoi-vn",
+   "slug": "pho-10-ly-quoc-su-hoan-kiem",
+   "name": "Phở 10 Lý Quốc Sư (Hoàn Kiếm)",
+   "website": "https://pho10lyquocsu.com",
+   "address": "10 Ly Quoc Su Street, Hoan Kiem Ward, Hanoi, 11006, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-10-ly-quoc-su"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-10-ly-quoc-su",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/uu-am",
+   "city_id": "hanoi-vn",
+   "slug": "uu-am",
+   "name": "Ưu Đàm",
+   "website": "https://uudamchay.vn",
+   "address": "55 Nguyen Du Street, Cua Nam Ward, Hanoi, 10000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/uu-%C4%91am"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/uu-%C4%91am",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/backstage",
+   "city_id": "hanoi-vn",
+   "slug": "backstage",
+   "name": "Backstage",
+   "website": "https://capellahotels.com/en/capella-hanoi/dining/backstage",
+   "address": "GF, Capella Hanoi, 11 Le Phung Hieu Street, Hoan Kiem Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/backstage"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/backstage",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/bun-cha-ac-kim-hang-manh-street",
+   "city_id": "hanoi-vn",
+   "slug": "bun-cha-ac-kim-hang-manh-street",
+   "name": "Bún Chả Đắc Kim (Hang Manh Street)",
+   "website": "https://bunchahangmanh.vn",
+   "address": "1 Hang Manh Street, Hoan Kiem Ward, Hanoi, 11015, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bun-cha-%C4%91ac-kim"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/bun-cha-%C4%91ac-kim",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/hemispheres-steak-seafood-grill",
+   "city_id": "hanoi-vn",
+   "slug": "hemispheres-steak-seafood-grill",
+   "name": "Hemispheres Steak & Seafood Grill",
+   "website": "https://www.marriott.com/en-us/dining/restaurant-bar/hanhs-sheraton-hanoi-hotel/5966993-hemispheres-steak-seafood-grill.mi",
+   "address": "2F, Sheraton Hotel, K5 Nghi Tam, 11 Xuan Dieu Road, Tay Ho Ward, Hanoi, 11207, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/hemispheres-steak-and-seafood-grill"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/hemispheres-steak-and-seafood-grill",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/izakaya-by-koki",
+   "city_id": "hanoi-vn",
+   "slug": "izakaya-by-koki",
+   "name": "Izakaya by Koki",
+   "website": "https://capellahotels.com/en/capella-hanoi/dining/koki",
+   "address": "B2F, Capella Hanoi, 11 Le Phung Hieu Street, Hoan Kiem Ward, Hanoi, 100000, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/izakaya-by-koki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/izakaya-by-koki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/ngon-garden",
+   "city_id": "hanoi-vn",
+   "slug": "ngon-garden",
+   "name": "Ngon Garden",
+   "website": "https://ngongarden.com",
+   "address": "70 Nguyen Du Street, Hai Ba Trung Ward, Hanoi, 112310, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/ngon-garden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/ngon-garden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/tanh-tach",
+   "city_id": "hanoi-vn",
+   "slug": "tanh-tach",
+   "name": "Tanh Tách",
+   "website": "https://tanhtach.com",
+   "address": "3 Yet Kieu Street, Cua Nam Ward, Hanoi, 112605, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/tanh-tach"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/tanh-tach",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "hanoi-vn/vi-an-ong-a",
+   "city_id": "hanoi-vn",
+   "slug": "vi-an-ong-a",
+   "name": "Vị An (Đống Đa)",
+   "website": "https://nhahangvian.com",
+   "address": "145 Hoang Cau Street, Dong Da Ward, Hanoi, 11515, Vietnam",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/vi-an"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/vi-an",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vietnamese",
+   "price_tier": "$$"
+  }
+ ]
+}

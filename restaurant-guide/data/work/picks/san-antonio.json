@@ -1,0 +1,428 @@
+[
+  {
+    "slug": "isidore",
+    "menu_url": "https://isidoresatx.com/dinner",
+    "picks": [
+      {
+        "name": "buttermilk pie",
+        "description": "mustard greens, sour orange",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "buttermilk"
+      },
+      {
+        "name": "embered beet",
+        "description": "rose, fresno chile",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "grilled cabbage",
+        "description": "buttermilk, bleu cheese",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "buttermilk and bleu cheese"
+      },
+      {
+        "name": "welshman cheddar croquette",
+        "description": "dill pickle relish, monk's pepper ranch",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "cheddar and ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "winter greens",
+        "description": "bagna càuda, sourdough, shallots",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "note": "Bagna cauda is usually anchovy."
+      },
+      {
+        "name": "yuba",
+        "description": "toasted hay brown butter, whey blue, blackened apple",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "yuba, brown butter, and whey blue",
+        "note": "Yuba is soy."
+      },
+      {
+        "name": "mesquite roasted cauliflower",
+        "description": "caramelized cauliflower, tahini vinaigrette",
+        "course": "main",
+        "kind": "main",
+        "hold": "tahini",
+        "note": "Tahini is sesame."
+      }
+    ]
+  },
+  {
+    "slug": "ladino",
+    "menu_url": "https://ladinosatx.com/menus/dinner-menu",
+    "picks": [
+      {
+        "name": "Hummus",
+        "description": "Marinated Chickpeas, Tahini, Tatbila, Ras el Hanout",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "chickpeas and tahini",
+        "note": "Tahini is sesame."
+      },
+      {
+        "name": "Spicy Feta",
+        "description": "Fresno Peppers, Aleppo, Garlic, Oregano",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "feta"
+      },
+      {
+        "name": "Beet Muhammara",
+        "description": "Caraway Candied Pecans, Dill",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pecans"
+      },
+      {
+        "name": "Tirshi",
+        "description": "Butternut Squash, Harissa, Pepita Chili Crisp",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pepita"
+      },
+      {
+        "name": "Fire Roasted Corn",
+        "description": "Labneh, Za'atar, Sivripepper",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "labneh and za'atar",
+        "note": "Za'atar often includes sesame."
+      },
+      {
+        "name": "Zaalouk",
+        "description": "Fire Roasted Eggplant, Charred Onion & Tomato, Urfa",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Citrus Salad",
+        "description": "Seasonal Citrus, Fresno Chilis, Citrus Honey, Green Schug Vinaigrette, Hazelnuts, Black Olive Salt",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "hazelnuts"
+      },
+      {
+        "name": "Kohlrabi Zeytinyali",
+        "description": "Olive Oil Braised Kohlrabi and Carrots, Crispy Garlic, Capers",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Roasted Sweet Potato",
+        "description": "Black Garlic Tahini, Date Chermoula, Fresno Chilis, Puffed Za'atar Rice",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "tahini and za'atar",
+        "note": "Tahini is sesame."
+      },
+      {
+        "name": "Saganaki",
+        "description": "Fried Kefalotyri Cheese, Spiced Tomato Ginger Jam, Lemon",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "kefalotyri"
+      },
+      {
+        "name": "Mushroom Shawarma",
+        "description": "Peanut Salsa, Roasted Root Vegetables, Onion Salad, Toum",
+        "course": "main",
+        "kind": "main",
+        "hold": "peanut salsa"
+      }
+    ]
+  },
+  {
+    "slug": "mezquite",
+    "menu_url": "https://mezquitesatx.com/main-menu",
+    "picks": [
+      {
+        "name": "GUACAMOLE",
+        "description": "Salsa Macha, Cilantro, Peanut",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "peanut"
+      },
+      {
+        "name": "CALABACITAS",
+        "description": "Queso Oaxaca, Seasonal Squash, Jalapeno",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "queso oaxaca"
+      },
+      {
+        "name": "ROASTED CAULIFLOWER",
+        "description": "Mole Blanco, Cured Egg Yolk, Apple Escabeche",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cured egg yolk"
+      },
+      {
+        "name": "BEREJENA ASADA",
+        "description": "Charred Eggplant, Black Garlic, Anaheim Toreado, Pecan",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "pecan"
+      },
+      {
+        "name": "ROASTED BEETS",
+        "description": "Mole, Requeson, Sesame",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "requeson and sesame"
+      },
+      {
+        "name": "TOMATO SALAD",
+        "description": "Heirloom Tomato, Gazpacho, Cucumber",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "FRIED PANELA",
+        "description": "Pasilla Salsa, Fennel Conserva",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "panela"
+      },
+      {
+        "name": "HONGOS EN ADOBO",
+        "description": "Oyster Mushroom, Salsa de Queso. Served with arroz, shishito toreado, cabbage salad, rajas con suero",
+        "course": "main",
+        "kind": "main",
+        "hold": "salsa de queso and rajas con suero"
+      }
+    ]
+  },
+  {
+    "slug": "southerleigh-fine-food-brewery",
+    "menu_url": "https://www.southerleighatpearl.com/menu/all-day/",
+    "picks": [
+      {
+        "name": "Deviled Eggs",
+        "description": "bacon jam, pickled mustard seeds",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "egg and bacon jam"
+      },
+      {
+        "name": "Cucumbers",
+        "description": "spiral cucumbers, gochujang, benne seed dressing",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "benne seed dressing",
+        "note": "Benne is sesame."
+      },
+      {
+        "name": "Salad",
+        "description": "baby tomatoes, pickles, and croutons in black garlic ranch",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "ranch",
+        "note": "Ranch is usually egg."
+      },
+      {
+        "name": "Miso Cabbage",
+        "description": "miso braised cabbage, white bean puree",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Sweet-and-Spicy Cornbread",
+        "description": "whipped hot honey butter",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "honey butter"
+      },
+      {
+        "name": "Weekend Biscuits",
+        "description": "house-cultured butter, seasonal jam",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "butter"
+      },
+      {
+        "name": "Whipped Potatoes",
+        "description": "Tarragon",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Summer Squash",
+        "description": "brown butter dukkah, hot honey, candied peppers",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "brown butter and dukkah",
+        "note": "Dukkah often includes nuts and sesame."
+      },
+      {
+        "name": "Creamed Corn",
+        "description": "Neufchâtel",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "neufchâtel"
+      }
+    ]
+  },
+  {
+    "slug": "2m-smokehouse",
+    "menu_url": "https://www.2msmokehousesatx.com/menu",
+    "picks": [
+      {
+        "name": "Chicharrón Macaroni",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese and chicharrón"
+      },
+      {
+        "name": "Mexican Street Corn",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Maria’s Beans",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Creamy Coleslaw",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Egg Salad",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "egg"
+      },
+      {
+        "name": "Homemade Pickles",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pickled Nopales",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pico de Gallo",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Chips & Queso",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "queso"
+      }
+    ]
+  },
+  {
+    "slug": "leche-de-tigre",
+    "menu_url": "https://lechedetigretx.com/menu/",
+    "picks": [
+      {
+        "name": "napa cabbage",
+        "description": "miso, garlic aioli, scallion",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "aioli",
+        "note": "Aioli is usually egg."
+      },
+      {
+        "name": "fennel salad",
+        "description": "snap peas, huacatay pesto, parmigiano, truffle",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmigiano"
+      }
+    ]
+  },
+  {
+    "slug": "little-ems-oyster-bar",
+    "menu_url": "https://www.littleemsoysterbar.com/menu",
+    "picks": [
+      {
+        "name": "Beet Salad",
+        "description": "whipped ricotta, radishes, pickled mustard seeds, herb mix, toasted almonds",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "ricotta and almonds"
+      },
+      {
+        "name": "Caesar Salad",
+        "description": "romaine, sourdough croutons, caesar dressing, parmesan, add anchoves +3 add shrimp +10",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan and caesar dressing",
+        "note": "Caesar is usually egg and anchovy."
+      }
+    ]
+  },
+  {
+    "slug": "reese-bros-barbecue",
+    "menu_url": "https://www.reesebrosbbq.com/menus/",
+    "picks": [
+      {
+        "name": "Homemade Flour Tortillas",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "House Pickles",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Pickled Red Onions",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Potato Salad",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Okra Beans",
+        "description": "",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Coleslaw",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Poblano Mac & Cheese",
+        "description": "",
+        "course": "side",
+        "kind": "beyond",
+        "hold": "cheese"
+      }
+    ]
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "name": "Pujol",
+    "slug": "pujol",
+    "city_id": "mexico-city-mx",
+    "website": "https://pujol.com.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Tennyson 133, Polanco, Miguel Hildalgo, 11550, Mexico",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Quintonil",
+    "slug": "quintonil",
+    "city_id": "mexico-city-mx",
+    "website": "https://quintonil.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Isaac Newton 55, Polanco, Miguel Hildalgo, 11560, Mexico",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Em",
+    "slug": "em",
+    "city_id": "mexico-city-mx",
+    "website": "https://itsemilia.rest/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Tonalá 133, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Esquina Común",
+    "slug": "esquina-comun",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.instagram.com/esquinacomun?igsh=YzVjaTkzOGZzbjB5",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Fernando Montes De Oca, 86, Condesa, Cuauhtémoc, 06140, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Expendio de Maíz",
+    "slug": "expendio-de-maiz",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.instagram.com/exp_maiz",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Av. Yucatán 84, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gaba",
+    "slug": "gaba",
+    "city_id": "mexico-city-mx",
+    "website": "https://gabarestaurante.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Av. Mazatlán 190, Colonia Condesa, Cuauhtémoc, 06170, Mexico",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Once Mil",
+    "slug": "la-once-mil",
+    "city_id": "mexico-city-mx",
+    "website": "https://laoncemiltaqueria.shop",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Monte Everest 780, Lomas de Chapultepec, Miguel Hildalgo, 11000, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Masala y Maíz",
+    "slug": "masala-y-maiz",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.masalaymaiz.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "C. Artículo 123 116, Colonia Centro, Cuauhtémoc, 06040, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Máximo",
+    "slug": "maximo",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.maximobistrot.com.mx/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Álvaro Obregón, 65 Bis, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Rosetta",
+    "slug": "rosetta",
+    "city_id": "mexico-city-mx",
+    "website": "https://rosetta.com.mx",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Colima 166, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sud 777",
+    "slug": "sud-777",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.sud777.com.mx/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Blvd. De La Luz 777, Jardines del Pedregal , Álvaro Obregón, 01900, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Aleli Rooftop",
+    "slug": "aleli-rooftop",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.alelirooftop.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Sinaloa 141, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Caracol de Mar",
+    "slug": "caracol-de-mar",
+    "city_id": "mexico-city-mx",
+    "website": "https://caracoldemar.com.mx",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Campeche 340, Col. Condesa, Cuauhtémoc, 06100, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Comedor Jacinta",
+    "slug": "comedor-jacinta",
+    "city_id": "mexico-city-mx",
+    "website": "https://comedorjacinta.com/en/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Virgilio 40, Polanco, Miguel Hildalgo, 11550, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Contramar",
+    "slug": "contramar",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.contramar.com.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Durango 200, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "El Vilsito",
+    "slug": "el-vilsito",
+    "city_id": "mexico-city-mx",
+    "website": "https://elvilsito.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Av. Universidad 248, Narvarte, Benito Juárez, 03020, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Filigrana",
+    "slug": "filigrana",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.filigrana.com.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Av. Veracruz 62, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Galanga Thai House",
+    "slug": "galanga-thai-house",
+    "city_id": "mexico-city-mx",
+    "website": "https://linktr.ee/galangathaihouse",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Monterrey 204, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Galea",
+    "slug": "galea",
+    "city_id": "mexico-city-mx",
+    "website": "https://galea.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Sinaloa, 67, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Jowong",
+    "slug": "jowong",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.jowong.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "C. Pachuca 51, Colonia Condesa, Cuauhtémoc, 06140, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Plonk",
+    "slug": "plonk",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.plonk.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Iztaccihuatl 52, Hipódromo, Cuauhtémoc, 06100, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Raíz",
+    "slug": "raiz",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.restauranteraiz.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Schiller 331, entre Horacio y Presidente Mazaryk, Polanco, Miguel Hildalgo, 11570, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Siembra Tortillería",
+    "slug": "siembra-tortilleria",
+    "city_id": "mexico-city-mx",
+    "website": "https://siempresiembra.com.mx",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Av. Isaac Newton 300, Polanco, Miguel Hildalgo, 11560, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Tacos del Valle",
+    "slug": "tacos-del-valle",
+    "city_id": "mexico-city-mx",
+    "website": "https://tacosdelvalle.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Av. Álvaro Obregón 130, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Taquería El Jarocho",
+    "slug": "taqueria-el-jarocho",
+    "city_id": "mexico-city-mx",
+    "website": "https://taqueriaeljarocho.com.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Tapachula 94, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Taquería Los Milanesos",
+    "slug": "taqueria-los-milanesos",
+    "city_id": "mexico-city-mx",
+    "website": "https://losmilanesos.com/#",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Veracruz 156, Álvaro Obregón, 01080, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Ultramarinos Demar",
+    "slug": "ultramarinos-demar",
+    "city_id": "mexico-city-mx",
+    "website": "https://demar.rest/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Mérida 21, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bajel",
+    "slug": "bajel",
+    "city_id": "mexico-city-mx",
+    "website": "https://sofitel.accor.com/en/hotels/9615/R004.restaurant.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sofitel Mexico City Reforma, Av. Paseo De La Reforma, 297, Cuauhtémoc, 06500, Mexico",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Baldio",
+    "slug": "baldio",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.baldio.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Antonio Solá 26, Colonia Condesa, Cuauhtémoc, 06140, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bella Aurora",
+    "slug": "bella-aurora",
+    "city_id": "mexico-city-mx",
+    "website": "https://bellaaurora.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Puebla 242, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Botánico",
+    "slug": "botanico",
+    "city_id": "mexico-city-mx",
+    "website": "https://botanico.website/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Alfonso Reyes 217, Colonia Condesa, Cuauhtémoc, 06100, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Campobaja",
+    "slug": "campobaja",
+    "city_id": "mexico-city-mx",
+    "website": "https://campobaja.mx",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Colima 124, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cana",
+    "slug": "cana",
+    "city_id": "mexico-city-mx",
+    "website": "https://canacdmx.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Liverpool 9, Juárez, Cuauhtémoc, 06600, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Carmela y Sal",
+    "slug": "carmela-y-sal",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.carmelaysal.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Torre Virreyes, Calle Pedregal N. 24, Miguel Hildalgo, 11040, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "El Tigre Silencioso",
+    "slug": "el-tigre-silencioso",
+    "city_id": "mexico-city-mx",
+    "website": "https://eltigresilencioso.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Colima 159 1A, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Entremar",
+    "slug": "entremar",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.entremar.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hegel 307, Polanco, Miguel Hildalgo, 11560, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Er Rre un Bistró",
+    "slug": "er-rre-un-bistro",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.errreunbistro.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Polanco 8, Polanco, Miguel Hildalgo, 11560, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Guzina Oaxaca",
+    "slug": "guzina-oaxaca",
+    "city_id": "mexico-city-mx",
+    "website": "https://guzinaoaxaca.org/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. Presidente Masaryk 513, Polanco, Miguel Hildalgo, 11560, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hugo",
+    "slug": "hugo",
+    "city_id": "mexico-city-mx",
+    "website": "https://hugoelwinebar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. Veracruz 38, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Barra de Fran",
+    "slug": "la-barra-de-fran",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.labarradefran.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Emilio Castelar, 185, Polanco, Miguel Hildalgo, 11560, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Limosneros",
+    "slug": "limosneros",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.limosneros.com.mx",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ignacio Allende 3, Centro, Cuauhtémoc, 06010, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lina",
+    "slug": "lina",
+    "city_id": "mexico-city-mx",
+    "website": "https://lina.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. Yucatán 147, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Lorea",
+    "slug": "lorea",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.lorea.mx",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sinaloa, 141, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Los Danzantes Mexico City",
+    "slug": "los-danzantes-mexico-city",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.losdanzantescoyoacan.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Parque Centenario 12, Jardín Centenario, Coyoacán, 04000, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lotti",
+    "slug": "lotti",
+    "city_id": "mexico-city-mx",
+    "website": "https://lotti.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Colima 235, Roma Nte., Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Maizajo",
+    "slug": "maizajo",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.maizajo.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fernando Montes De Oca 113, Condesa, Cuauhtémoc, 06140, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Malix",
+    "slug": "malix",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.malixresto.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. Isaac Newton 104, Polanco, Miguel Hildalgo, 11560, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Martínez",
+    "slug": "martinez",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.martinez.rest",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Puebla 90, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MeroToro",
+    "slug": "merotoro",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.merotoro.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. Ámsterdam 204, Hipódromo, Cuauhtémoc, 06100, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Meroma",
+    "slug": "meroma",
+    "city_id": "mexico-city-mx",
+    "website": "https://meroma.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Colima 150, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Migrante",
+    "slug": "migrante",
+    "city_id": "mexico-city-mx",
+    "website": "https://migranteroma.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Chiapas, 186, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ricos Tacos Toluca",
+    "slug": "ricos-tacos-toluca",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.instagram.com/ricostacostoluca_?igsh=MjN5Zm56OXh2ODdm",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "López 103, Centro, Cuauhtémoc, 06000, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Sartoria",
+    "slug": "sartoria",
+    "city_id": "mexico-city-mx",
+    "website": "https://sartoria.mx",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Orizaba 42, Roma Norte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taco Tasting Room",
+    "slug": "taco-tasting-room",
+    "city_id": "mexico-city-mx",
+    "website": "https://tacotastingroom.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. 5 de Mayo 47, Centro Histórico, Cuauhtémoc, 06000, Mexico",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Taqueria Los Parados",
+    "slug": "taqueria-los-parados",
+    "city_id": "mexico-city-mx",
+    "website": "https://www.los-parados.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. Monterrey 333, Roma Sur, Cuauhtémoc, 06760, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Taquería El Califa de León",
+    "slug": "taqueria-el-califa-de-leon",
+    "city_id": "mexico-city-mx",
+    "website": "https://el-califa-de-leon.shop/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Av. Ribera De San Cosme 56, San Rafael, Cuauhtémoc, 06470, Mexico",
+    "price_tier": "$"
+  },
+  {
+    "name": "Xuna",
+    "slug": "xuna",
+    "city_id": "mexico-city-mx",
+    "website": "https://xunarestaurante.com.mx/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Valladolid 96, Roma Nte, Cuauhtémoc, 06700, Mexico",
+    "price_tier": "$$$$"
+  }
+]

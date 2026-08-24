@@ -1,0 +1,866 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "abu-dhabi-ae",
+ "restaurant_count": 22,
+ "restaurants": [
+  {
+   "restaurant_id": "abu-dhabi-ae/talea-by-antonio-guida",
+   "city_id": "abu-dhabi-ae",
+   "slug": "talea-by-antonio-guida",
+   "name": "Talea by Antonio Guida",
+   "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/talea-by-antonio-guida",
+   "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/talea-by-antonio-guida"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/talea-by-antonio-guida",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/al-mrzab",
+   "city_id": "abu-dhabi-ae",
+   "slug": "al-mrzab",
+   "name": "Al Mrzab",
+   "website": "https://www.facebook.com/almrzab",
+   "address": "Airport Road, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/al-mrzab"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/al-mrzab",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Emirati Cuisine",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/almayass",
+   "city_id": "abu-dhabi-ae",
+   "slug": "almayass",
+   "name": "Almayass",
+   "website": "https://www.almayass.com/",
+   "address": "The Galleria Mall Al Maryah Island, Level 1, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/almayass-1202415"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/almayass-1202415",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/beirut-sur-mer",
+   "city_id": "abu-dhabi-ae",
+   "slug": "beirut-sur-mer",
+   "name": "Beirut Sur Mer",
+   "website": "https://www.instagram.com/beirutsurmer/",
+   "address": "Lilac 5, Jacques Chirac Street, Saadiyat Cultural District, Soul Beach, Al Saadiyat Island, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/beirut-sur-mer"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/beirut-sur-mer",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/bua-thai-cafe",
+   "city_id": "abu-dhabi-ae",
+   "slug": "bua-thai-cafe",
+   "name": "Bua Thai Cafe",
+   "website": "https://www.desertlotusgroupuae.com/BuaThaiCafe/Home",
+   "address": "Yas Bay - Yas Island - YS2, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/bua-thai-cafe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/bua-thai-cafe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/antonia",
+   "city_id": "abu-dhabi-ae",
+   "slug": "antonia",
+   "name": "Antonia",
+   "website": "https://www.antoniarestaurant.com/",
+   "address": "Turquoise, Jacques Chirac Street, Saadiyat Cultural District, Soul Beach, Al Saadiyat Island, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/antonia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/antonia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/broadway",
+   "city_id": "abu-dhabi-ae",
+   "slug": "broadway",
+   "name": "Broadway",
+   "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/broadway",
+   "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/broadway"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/broadway",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Classic Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/byblos-sur-mer",
+   "city_id": "abu-dhabi-ae",
+   "slug": "byblos-sur-mer",
+   "name": "Byblos Sur Mer",
+   "website": "https://abudhabi.intercontinental.com/byblos-sur-mer",
+   "address": "InterContinental Abu Dhabi, King Abdullah bin Abdul Aziz Al Saud Street, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/byblos-sur-mer"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/byblos-sur-mer",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/cipriani-dolci",
+   "city_id": "abu-dhabi-ae",
+   "slug": "cipriani-dolci",
+   "name": "Cipriani Dolci",
+   "website": "https://www.cipriani.com/cipriani-dolci-marina-mall",
+   "address": "GL 7 & 8 Ground Floor - Haza Bin Zayed the 1st Street - Marina Mall, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/cipriani-dolci"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/cipriani-dolci",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/finz",
+   "city_id": "abu-dhabi-ae",
+   "slug": "finz",
+   "name": "Finz",
+   "website": "https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/beachrotana/diningout/finz/",
+   "address": "Beach Rotana Hotel, 10th Street, Al Zahiyah, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/finz"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/finz",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/grand-beirut",
+   "city_id": "abu-dhabi-ae",
+   "slug": "grand-beirut",
+   "name": "Grand Beirut",
+   "website": "https://thegalleria.ae/dine/grand-beirut",
+   "address": "Unit 12100-1201 (FB), Level 2, The Galleria Al Maryah Island, Adgm Square, Al Maryah Island, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/grand-beirut"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/grand-beirut",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/jose-by-pizarro",
+   "city_id": "abu-dhabi-ae",
+   "slug": "jose-by-pizarro",
+   "name": "José by Pizarro",
+   "website": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/jose-by-pizarro/",
+   "address": "Conrad Etihad Towers Hotel, West Corniche, Corniche Road, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/jose-by-pizarro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/jose-by-pizarro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Spanish",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/kopitiam-by-chandys",
+   "city_id": "abu-dhabi-ae",
+   "slug": "kopitiam-by-chandys",
+   "name": "Kopitiam by Chandy's",
+   "website": "https://www.instagram.com/kopitiambychandys/",
+   "address": "Al Falah Street, Old Passport Rd, Zone 1, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/kopitiam-by-chandy-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/kopitiam-by-chandy-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/li-beirut",
+   "city_id": "abu-dhabi-ae",
+   "slug": "li-beirut",
+   "name": "Li Beirut",
+   "website": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/li-beirut/",
+   "address": "Conrad Abu Dhabi Etihad Towers Hotel, West Corniche, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/li-beirut"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/li-beirut",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/li-jiang",
+   "city_id": "abu-dhabi-ae",
+   "slug": "li-jiang",
+   "name": "Li Jiang",
+   "website": "https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi/dining/li-jiang",
+   "address": "The Ritz-Carlton Abu Dhabi, Grand Canal, Khor Al Maqt'a, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/li-jiang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/li-jiang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/martabaan-by-hemant-oberoi",
+   "city_id": "abu-dhabi-ae",
+   "slug": "martabaan-by-hemant-oberoi",
+   "name": "Martabaan by Hemant Oberoi",
+   "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine",
+   "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/martabaan-by-hemant-oberoi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/martabaan-by-hemant-oberoi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/mijana",
+   "city_id": "abu-dhabi-ae",
+   "slug": "mijana",
+   "name": "Mijana",
+   "website": "https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi/dining/mijana",
+   "address": "The Ritz-Carlton Hotel, Grand Canal, Al Maqta, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/mijana"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/mijana",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Lebanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/niri",
+   "city_id": "abu-dhabi-ae",
+   "slug": "niri",
+   "name": "NIRI",
+   "website": "https://www.nirirestaurant.com/",
+   "address": "Building 9, Mamsha Al Saadiyat, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/niri"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/niri",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/rays-grill",
+   "city_id": "abu-dhabi-ae",
+   "slug": "rays-grill",
+   "name": "Ray's Grill",
+   "website": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/rays-grill/",
+   "address": "Level 63, Conrad Etihad Towers Hotel, West Corniche, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/ray-s-grill"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/ray-s-grill",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Meats and Grills",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/sand-koal",
+   "city_id": "abu-dhabi-ae",
+   "slug": "sand-koal",
+   "name": "Sand & Koal",
+   "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/sand-and-koal",
+   "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/sand-koal"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/sand-koal",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/strawfire-by-ross-shonhan",
+   "city_id": "abu-dhabi-ae",
+   "slug": "strawfire-by-ross-shonhan",
+   "name": "Strawfire by Ross Shonhan",
+   "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/dine/strawfire-by-ross-shonhan",
+   "address": "Emirates Palace Mandarin Oriental Hotel, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/strawfire-by-ross-shonhan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/strawfire-by-ross-shonhan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "abu-dhabi-ae/villa-mamas",
+   "city_id": "abu-dhabi-ae",
+   "slug": "villa-mamas",
+   "name": "Villa Mamas",
+   "website": "https://villamamas.com/abudhabi",
+   "address": "Muroor Road, Eastern Road, Al Rawdah, Abu Dhabi",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/villa-mamas"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/abu-dhabi-emirate/abu-dhabi/restaurant/villa-mamas",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Middle Eastern",
+   "price_tier": "$$$"
+  }
+ ]
+}

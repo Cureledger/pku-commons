@@ -1,0 +1,827 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "milan-it",
+ "restaurant_count": 21,
+ "restaurants": [
+  {
+   "restaurant_id": "milan-it/la-rosa-dei-venti",
+   "city_id": "milan-it",
+   "slug": "la-rosa-dei-venti",
+   "name": "La Rosa dei Venti",
+   "website": "",
+   "address": "Via Piero della Francesca 34, Milan, 20154, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/la-rosa-dei-venti"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/la-rosa-dei-venti",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "milan-it/sakeya",
+   "city_id": "milan-it",
+   "slug": "sakeya",
+   "name": "Sakeya",
+   "website": "",
+   "address": "Via Cesare Da Sesto 1, Milan, 20123, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/sakeya"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/sakeya",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "milan-it/sushi-matsu-omakase",
+   "city_id": "milan-it",
+   "slug": "sushi-matsu-omakase",
+   "name": "Sushi Matsu Omakase",
+   "website": "",
+   "address": "Via Alvise Cadamosto 7, Milan, 20129, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/sushi-matsu-omakase"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/sushi-matsu-omakase",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/enrico-bartolini-al-mudec",
+   "city_id": "milan-it",
+   "slug": "enrico-bartolini-al-mudec",
+   "name": "Enrico Bartolini al Mudec",
+   "website": "https://www.enricobartolini.net",
+   "address": "via Tortona 56, Milan, 20144, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/enrico-bartolini-al-mudec"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/enrico-bartolini-al-mudec",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/andrea-aprea",
+   "city_id": "milan-it",
+   "slug": "andrea-aprea",
+   "name": "Andrea Aprea",
+   "website": "https://www.andreaaprea.com",
+   "address": "Corso Venezia 52, Milan, 20122, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/andrea-aprea"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/andrea-aprea",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/seta-by-antonio-guida",
+   "city_id": "milan-it",
+   "slug": "seta-by-antonio-guida",
+   "name": "Seta by Antonio Guida",
+   "website": "https://www.mandarinoriental.com/it/milan/la-scala/dine/seta",
+   "address": "via Monte di Pietà 18, Milan, 20121, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/seta-by-antonio-guida"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/seta-by-antonio-guida",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/anima",
+   "city_id": "milan-it",
+   "slug": "anima",
+   "name": "Anima",
+   "website": "https://www.enricobartolini.net/i-ristoranti/milano-verticale",
+   "address": "Via Gaspare Rosales 4, Milan, 20124, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/anima-fine-dining"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/anima-fine-dining",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/berton",
+   "city_id": "milan-it",
+   "slug": "berton",
+   "name": "Berton",
+   "website": "https://www.ristoranteberton.com/",
+   "address": "Via Mike Bongiorno 13, Milan, 20124, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/berton"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/berton",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/sine-by-di-pinto",
+   "city_id": "milan-it",
+   "slug": "sine-by-di-pinto",
+   "name": "Sine by Di Pinto",
+   "website": "https://sinerestaurant.com/",
+   "address": "Viale Umbria 126, Milan, 20135, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/sine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/sine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/da-giannino-langolo-dabruzzo",
+   "city_id": "milan-it",
+   "slug": "da-giannino-langolo-dabruzzo",
+   "name": "Da Giannino - L'Angolo d'Abruzzo",
+   "website": "https://da-giannino-langolo-dabruzzo.it/",
+   "address": "via Rosolino Pilo 20, Milan, 20129, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/da-giannino-l-angolo-d-abruzzo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/da-giannino-l-angolo-d-abruzzo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cuisine from Abruzzo",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "milan-it/acanto",
+   "city_id": "milan-it",
+   "slug": "acanto",
+   "name": "Acanto",
+   "website": "https://www.dorchestercollection.com/it/milan/hotel-principe-di-savoia/ristoranti-e-bar/ristorante-acanto",
+   "address": "Piazza della Repubblica 17, Milan, 20124, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/acanto69200"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/acanto69200",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/altatto",
+   "city_id": "milan-it",
+   "slug": "altatto",
+   "name": "Altatto",
+   "website": "https://altatto.com/",
+   "address": "Via Bonaventura Zumbini 39, Milan, 20143, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/altatto-bistrot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/altatto-bistrot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "milan-it/casa-camperio",
+   "city_id": "milan-it",
+   "slug": "casa-camperio",
+   "name": "Casa Camperio",
+   "website": "https://casacamperio.com/",
+   "address": "Via Giorgio Giulini 6, Milan, 20123, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/casa-camperio"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/casa-camperio",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "€€€"
+  },
+  {
+   "restaurant_id": "milan-it/ceresio-7",
+   "city_id": "milan-it",
+   "slug": "ceresio-7",
+   "name": "Ceresio 7",
+   "website": "https://www.ceresio7.com",
+   "address": "via Ceresio 7, Milan, 20154, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/ceresio-7"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/ceresio-7",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "milan-it/dav-by-da-vittorio-louis-vuitton",
+   "city_id": "milan-it",
+   "slug": "dav-by-da-vittorio-louis-vuitton",
+   "name": "DaV by Da Vittorio Louis Vuitton",
+   "website": "https://menu.davmilano.com/it",
+   "address": "Via Bagutta 1, Milan, 20121, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/dav-by-da-vittorio-louis-vuitton"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/dav-by-da-vittorio-louis-vuitton",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/don-carlos",
+   "city_id": "milan-it",
+   "slug": "don-carlos",
+   "name": "Don Carlos",
+   "website": "https://www.ristorantedoncarlos.it",
+   "address": "via Manzoni 29, Milan, 20121, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/don-carlos"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/don-carlos",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/fingers-garden",
+   "city_id": "milan-it",
+   "slug": "fingers-garden",
+   "name": "Finger's Garden",
+   "website": "https://www.fingersrestaurants.com/i-ristoranti/fingers-garden/",
+   "address": "via Keplero 2, Milan, 20124, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/finger-s-garden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/finger-s-garden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "milan-it/frades-porto-cervo",
+   "city_id": "milan-it",
+   "slug": "frades-porto-cervo",
+   "name": "Frades Porto Cervo",
+   "website": "https://frades.eu/it/content/milano",
+   "address": "Via Giuseppe Mazzini 20, Milan, 20123, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/frades-porto-cervo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/frades-porto-cervo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sardinian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "milan-it/hazama",
+   "city_id": "milan-it",
+   "slug": "hazama",
+   "name": "Hazama",
+   "website": "https://www.ristorantehazama.com",
+   "address": "Via Savona 41, Milan, 20144, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/hazama"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/hazama",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "milan-it/manna",
+   "city_id": "milan-it",
+   "slug": "manna",
+   "name": "Manna",
+   "website": "https://www.mannamilano.it/",
+   "address": "Piazzale Governo Provvisorio 6, Milan, 20127, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/manna"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/manna",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "milan-it/terrazza-gallia",
+   "city_id": "milan-it",
+   "slug": "terrazza-gallia",
+   "name": "Terrazza Gallia",
+   "website": "https://www.terrazzagallia.com/it/",
+   "address": "piazza Duca d'Aosta 9, Milan, 20124, Italy",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/lombardia/milano/restaurant/terrazza-gallia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/lombardia/milano/restaurant/terrazza-gallia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$"
+  }
+ ]
+}

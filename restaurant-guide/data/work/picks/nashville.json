@@ -1,0 +1,349 @@
+[
+  {
+    "slug": "peninsula",
+    "menu_url": "https://peninsulanashville.com/menu/",
+    "picks": [
+      {
+        "name": "BEET, ROASTED GARLIC, HABANERO, SORREL",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "SPANISH TORTILLA",
+        "description": "",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "egg"
+      },
+      {
+        "name": "ENDIVE, BURNT ONION, LOVAGE",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      }
+    ]
+  },
+  {
+    "slug": "redheaded-stranger",
+    "menu_url": "https://redheadedstrangertacos.com/img/pdf/redheadedstrangertacos.com/RHS_Menu_Sunup.pdf",
+    "picks": [
+      {
+        "name": "guac salad",
+        "description": "crunchy romaine, red hatch chile dressing, pico de gallo, fritos",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "frito pie",
+        "description": "chili, cheddar cheese, sour cream, pico de gallo",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "cheddar and sour cream"
+      },
+      {
+        "name": "bean + cheese taco",
+        "description": "refried, american cheese, dr pepper hot sauce",
+        "course": "main",
+        "kind": "main",
+        "hold": "american cheese"
+      },
+      {
+        "name": "tater tot taco",
+        "description": "jalapeño crema, red hatch chiles, american cheese",
+        "course": "main",
+        "kind": "main",
+        "hold": "jalapeño crema and american cheese"
+      },
+      {
+        "name": "whipped feta taco",
+        "description": "crispy rice, dreamweaver hot sauce, roasted poblano pepper",
+        "course": "main",
+        "kind": "main",
+        "hold": "feta"
+      }
+    ]
+  },
+  {
+    "slug": "uzbegim",
+    "menu_url": "https://uzbegimgrill.com/food-menu",
+    "picks": [
+      {
+        "name": "Kimchi",
+        "description": "Spice real Korean cabbage kimchi",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "Achichyuk",
+        "description": "Sliced tomatoes with onion",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Yogurt Spring Salad",
+        "description": "Sour cream, cucumber, cilantro, organic radish",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "sour cream"
+      },
+      {
+        "name": "Vinegred",
+        "description": "Boiled egg, potato, carrot, green peas, beetroot",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "egg and green peas"
+      },
+      {
+        "name": "Moroccan Red Lentil Soup",
+        "description": "Chechevitsa",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Hummus & Pita",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "hummus",
+        "note": "Hummus is chickpea and usually tahini (sesame)."
+      },
+      {
+        "name": "Uzbeki Nan",
+        "description": "Traditional Uzbek bread",
+        "course": "side",
+        "kind": "beyond"
+      },
+      {
+        "name": "French Fries",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Plain Rice",
+        "description": "Yellow & White",
+        "course": "side",
+        "kind": "beyond"
+      }
+    ]
+  },
+  {
+    "slug": "cafe-roze",
+    "menu_url": "https://www.caferoze.com/menu/dinner/",
+    "picks": [
+      {
+        "name": "Bread & Butter",
+        "description": "Dozen Red Quinoa & Sunflower Seed Sourdough Boule",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Preserved Lemon Labna",
+        "description": "Fennel Jam",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "labna"
+      },
+      {
+        "name": "Avocado Hummus",
+        "description": "Chermoula & Pepitas",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "hummus and pepitas",
+        "note": "Hummus is chickpea and usually tahini (sesame)."
+      },
+      {
+        "name": "Ricotta Gnocchi",
+        "description": "Trumpet Mushrooms & Aged Machego",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "ricotta and manchego"
+      },
+      {
+        "name": "Sweet Potato Fritter",
+        "description": "Smoked Goat Cheese",
+        "course": "starter",
+        "kind": "potato_or_salad",
+        "hold": "goat cheese"
+      },
+      {
+        "name": "Beetroot Tartare",
+        "description": "Cranberry Kosho, Beet Tahini, Za’atar Crostini",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "beet tahini and za’atar",
+        "note": "Tahini is sesame."
+      },
+      {
+        "name": "Green Goddess",
+        "description": "Basil Nori Vinaigrette, Summer Vegetable Escabeche, Pistachio",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "pistachio"
+      },
+      {
+        "name": "Chicory Waldorf",
+        "description": "Dates, Black Walnut, Kenny Blue Gouda",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "walnut and gouda"
+      },
+      {
+        "name": "Winter Squash",
+        "description": "Fava Falafel, Ajvar, Pepita Chimichurri",
+        "course": "main",
+        "kind": "main",
+        "hold": "fava falafel and pepita"
+      }
+    ]
+  },
+  {
+    "slug": "folk",
+    "menu_url": "https://www.goodasfolk.com/menu",
+    "picks": [
+      {
+        "name": "Foccacia",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Marinated olives",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Eggplant caponata",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Jimmy nardello",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond"
+      },
+      {
+        "name": "Stracciatella, olio verde",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "stracciatella"
+      },
+      {
+        "name": "Summer lettuces, tomme, herbs",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "tomme"
+      },
+      {
+        "name": "Melon, crème fraiche, mint, fig leaf, lime",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "crème fraiche"
+      },
+      {
+        "name": "Heirloom tomatoes, peach, sofrito",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad"
+      },
+      {
+        "name": "Cucumber, caesar, parmesan, sesame",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "parmesan and sesame",
+        "note": "Caesar is usually egg."
+      },
+      {
+        "name": "Tomato, parmesan, oregano",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "parmesan"
+      },
+      {
+        "name": "Corn, pecorino, sweet peppers, oregano, lime",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "pecorino"
+      },
+      {
+        "name": "Cherry tomato, caper, olive, basil, parmesan",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "parmesan"
+      }
+    ]
+  },
+  {
+    "slug": "rolf-and-daughters",
+    "menu_url": "https://www.rolfanddaughters.com/menu",
+    "picks": [
+      {
+        "name": "Sourdough bread, seaweed butter",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "seaweed butter"
+      },
+      {
+        "name": "Marconi pepper, melon, squash, pinenut, ricotta salata",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "pinenut and ricotta salata"
+      },
+      {
+        "name": "Cucumber, pear, shiso, buttermilk, pistachio",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "buttermilk and pistachio"
+      },
+      {
+        "name": "Heirloom tomato, tonnato, hungarian pepper, tomme, basil",
+        "description": "",
+        "course": "side",
+        "kind": "potato_or_salad",
+        "hold": "tonnato and tomme",
+        "note": "Tonnato is usually tuna and often egg."
+      },
+      {
+        "name": "Stracciatella, roulette, jimmy nardello, boquerones",
+        "description": "",
+        "course": "starter",
+        "kind": "beyond",
+        "hold": "stracciatella and boquerones"
+      },
+      {
+        "name": "Spaghetti, tomato vine, garlic, cherry tomato, basil",
+        "description": "",
+        "course": "main",
+        "kind": "main"
+      },
+      {
+        "name": "Fusilli, zucchini, basil, cultured butter, calabrian",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "cultured butter"
+      },
+      {
+        "name": "Agnolotti, corn, jalapeno, d’espelette, pecorino",
+        "description": "",
+        "course": "main",
+        "kind": "main",
+        "hold": "pecorino"
+      }
+    ]
+  }
+]

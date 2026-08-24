@@ -1,0 +1,632 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "vilnius-lt",
+ "restaurant_count": 16,
+ "restaurants": [
+  {
+   "restaurant_id": "vilnius-lt/deep-roots",
+   "city_id": "vilnius-lt",
+   "slug": "deep-roots",
+   "name": "Deep Roots",
+   "website": "https://deeproots.lt/",
+   "address": "Trakų gatvė 14, Vilnius, 01132, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/deep-roots"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/deep-roots",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/nineteen18",
+   "city_id": "vilnius-lt",
+   "slug": "nineteen18",
+   "name": "Nineteen18",
+   "website": "https://nineteen18.lt",
+   "address": "Dominikonų gatvė 11, Vilnius, 01131, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/nineteen18"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/nineteen18",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/14horses",
+   "city_id": "vilnius-lt",
+   "slug": "14horses",
+   "name": "14Horses",
+   "website": "https://14horses.lt/",
+   "address": "Dominikonų gatvė 11, Vilnius, 01131, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/14horses"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/14horses",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/barn-bistro",
+   "city_id": "vilnius-lt",
+   "slug": "barn-bistro",
+   "name": "B'ARN Bistro",
+   "website": "https://barnbistro.lt/",
+   "address": "Visų Šventųjų gatvė 7-110, Vilnius, 01306, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/b-arn-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/b-arn-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "International",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/amandus",
+   "city_id": "vilnius-lt",
+   "slug": "amandus",
+   "name": "Amandus",
+   "website": "https://www.amandus.lt",
+   "address": "Užupio gatvė 22, Vilnius, 01203, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/amandus"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/amandus",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/buff-on",
+   "city_id": "vilnius-lt",
+   "slug": "buff-on",
+   "name": "Buff On",
+   "website": "https://buffon.lt/",
+   "address": "Vokiečių gatvė 28, Vilnius, 01130, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/buff-on"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/buff-on",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/eleno",
+   "city_id": "vilnius-lt",
+   "slug": "eleno",
+   "name": "Elēno",
+   "website": "https://www.eleno.lt",
+   "address": "Gedimino Pr. 37, Vilnius, 01110, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/eleno"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/eleno",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative French",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/ertlio-namas",
+   "city_id": "vilnius-lt",
+   "slug": "ertlio-namas",
+   "name": "Ertlio Namas",
+   "website": "https://ertlionamas.lt",
+   "address": "Šv. Jono gatvé 7, Vilnius, 01123, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/ertlio-namas"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/ertlio-namas",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Regional Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/fabrikelis",
+   "city_id": "vilnius-lt",
+   "slug": "fabrikelis",
+   "name": "Fabrikėlis",
+   "website": "https://fabrikelis.lt",
+   "address": "Pasakų gatvė 9, Vilnius, 10103, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/fabrikelis"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/fabrikelis",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/kristoforas",
+   "city_id": "vilnius-lt",
+   "slug": "kristoforas",
+   "name": "Kristoforas",
+   "website": "https://kristoforas.com/",
+   "address": "Didžioji gatvė 31, Vilnius, 01128, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/kristoforas"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/kristoforas",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/momo-grill",
+   "city_id": "vilnius-lt",
+   "slug": "momo-grill",
+   "name": "Momo Grill",
+   "website": "https://momogrill.lt",
+   "address": "Totorių gatvė 1, Vilnius, 01103, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/momo-grill"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/momo-grill",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/omakase-by-vaidas-uzgerys",
+   "city_id": "vilnius-lt",
+   "slug": "omakase-by-vaidas-uzgerys",
+   "name": "OMAKASE by Vaidas Užgerys",
+   "website": "https://omakasevilnius.lt/en/main/",
+   "address": "Liejyklos gatvė 8, Vilnius, 01121, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/omakase-by-vaidas-uzgerys"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/omakase-by-vaidas-uzgerys",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/proteviai",
+   "city_id": "vilnius-lt",
+   "slug": "proteviai",
+   "name": "Protėviai",
+   "website": "https://www.proteviai.com",
+   "address": "Odminių gatvė 3, Vilnius, 01122, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/proteviai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/proteviai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Beef",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/skog",
+   "city_id": "vilnius-lt",
+   "slug": "skog",
+   "name": "Skóg",
+   "website": "https://skog.lt/",
+   "address": "Pylimo gatvė 22D, Vilnius, 01118, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/skog"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/skog",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/somm",
+   "city_id": "vilnius-lt",
+   "slug": "somm",
+   "name": "Somm",
+   "website": "https://somm.lt",
+   "address": "Pylimo gatvė 21, Vilnius, 01141, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/somm-1209014"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/somm-1209014",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "vilnius-lt/stebuklai",
+   "city_id": "vilnius-lt",
+   "slug": "stebuklai",
+   "name": "Stebuklai",
+   "website": "https://www.stebuklai.com",
+   "address": "L. Stuokos-Gucevičiaus gatvė 1, Vilnius, 01122, Lithuania",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/stebuklai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/vilnius-region/vilnius_1985479/restaurant/stebuklai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$"
+  }
+ ]
+}

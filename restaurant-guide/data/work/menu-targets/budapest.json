@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Stand",
+    "slug": "stand",
+    "city_id": "budapest-hu",
+    "website": "https://standrestaurant.hu",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Székely Mihály utca 2, Budapest, 1061, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Babel",
+    "slug": "babel",
+    "city_id": "budapest-hu",
+    "website": "https://www.babel-budapest.hu",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Piarista Köz 2, Budapest, 1052, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Borkonyha Winekitchen",
+    "slug": "borkonyha-winekitchen",
+    "city_id": "budapest-hu",
+    "website": "https://borkonyha.hu/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Sas utca 3, Budapest, 1051, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Costes Restaurant",
+    "slug": "costes-restaurant",
+    "city_id": "budapest-hu",
+    "website": "https://www.costesrestaurant.hu/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ráday utca 4, Budapest, 1092, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Rumour by Rácz Jenő",
+    "slug": "rumour-by-racz-jeno",
+    "city_id": "budapest-hu",
+    "website": "https://rumour.restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Petőfi tér 3, Budapest, 1051, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Salt",
+    "slug": "salt",
+    "city_id": "budapest-hu",
+    "website": "https://www.saltbudapest.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "Hotel Rum Budapest, Királyi Pál utca 4, Budapest, 1053, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "essência",
+    "slug": "essencia",
+    "city_id": "budapest-hu",
+    "website": "https://essenciarestaurant.hu",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Sas utca 17, Budapest, 1051, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "94' Konyha & Bar",
+    "slug": "94-konyha-bar",
+    "city_id": "budapest-hu",
+    "website": "https://94konyhabudapest.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kiraly utca 39, Budapest, 1077, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cabrio",
+    "slug": "cabrio",
+    "city_id": "budapest-hu",
+    "website": "https://cabriobudapest.hu",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Vitkovics Mihály utca 3-5, Budapest, 1052, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Goli",
+    "slug": "goli",
+    "city_id": "budapest-hu",
+    "website": "https://www.goli.hu",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Arany János utca 32, Budapest, 1051, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "N28 Wine and Kitchen",
+    "slug": "n28-wine-and-kitchen",
+    "city_id": "budapest-hu",
+    "website": "https://n28.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Nagymező utca 28, Budapest, 1065, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Alelí",
+    "slug": "aleli",
+    "city_id": "budapest-hu",
+    "website": "https://aleli.hu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dorothea Hotel, Wekerle Sándor utca 3, Budapest, 1051, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Arany Kaviár",
+    "slug": "arany-kaviar",
+    "city_id": "budapest-hu",
+    "website": "https://aranykaviar.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ostrom utca 19, Budapest, 1015, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "BiBo Budapest",
+    "slug": "bibo-budapest",
+    "city_id": "budapest-hu",
+    "website": "https://bibobudapest.hu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dorothea Hotel, Apáczai Csere János utca 11, 7th Floor, Budapest, 1051, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bilanx",
+    "slug": "bilanx",
+    "city_id": "budapest-hu",
+    "website": "https://bilanxbudapest.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mérleg utca 10, Budapest, 1051, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Costes Downtown",
+    "slug": "costes-downtown",
+    "city_id": "budapest-hu",
+    "website": "https://costesdowntown.hu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Prestige Hotel, Vigyázó Ferenc utca 5, Budapest, 1051, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cut & Barrel",
+    "slug": "cut-barrel",
+    "city_id": "budapest-hu",
+    "website": "https://cutandbarrel.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Pacsirtamező utca 41, Budapest, 1036, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "FELIX Kitchen & Bar",
+    "slug": "felix-kitchen-bar",
+    "city_id": "budapest-hu",
+    "website": "https://felixbudapest.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ybl Miklós tér 9, Budapest, 1013, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Fausto's",
+    "slug": "faustos",
+    "city_id": "budapest-hu",
+    "website": "https://fausto.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Szilágyi Erzsébet fasor 77, Budapest, 1026, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hoppá! Bistro",
+    "slug": "hoppa-bistro",
+    "city_id": "budapest-hu",
+    "website": "https://hoppabistro.hu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Október 6. utca 15, Budapest, 1051, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "KOLLÁZS Brasserie & Bar",
+    "slug": "kollazs-brasserie-bar",
+    "city_id": "budapest-hu",
+    "website": "https://www.kollazs.hu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Four Seasons Hotel Gresham Palace, Széchenyi István tér 5, Budapest, 1051, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Majorelle",
+    "slug": "majorelle",
+    "city_id": "budapest-hu",
+    "website": "https://majorelle.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Hold utca 23, Budapest, 1054, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MoszkvaTéЯ Bisztró",
+    "slug": "moszkvate-bisztro",
+    "city_id": "budapest-hu",
+    "website": "https://www.moszkvaterbisztro.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Monastery Boutique Hotel, Fő utca 30, Budapest, 1011, Hungary",
+    "price_tier": "$"
+  },
+  {
+    "name": "MÁK by mizseijani",
+    "slug": "mak-by-mizseijani",
+    "city_id": "budapest-hu",
+    "website": "https://mak.hu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Vigyázó Ferenc utca 4, Budapest, 1051, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nobu Budapest",
+    "slug": "nobu-budapest",
+    "city_id": "budapest-hu",
+    "website": "https://noburestaurants.com/budapest/home/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kempinski Hotel Corvinus Budapest, Erzsébet tér 7-8, Budapest, 1051, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Onyx",
+    "slug": "onyx",
+    "city_id": "budapest-hu",
+    "website": "https://onyxrestaurant.hu/en",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "Vörösmarty tér 7-8, Budapest, 1051, Hungary",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Spago by Wolfgang Puck",
+    "slug": "spago-by-wolfgang-puck",
+    "city_id": "budapest-hu",
+    "website": "https://spagobudapest.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Matild Palace Hotel, Váci utca 36, Budapest, 1056, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "St. Andrea Restaurant",
+    "slug": "st-andrea-restaurant",
+    "city_id": "budapest-hu",
+    "website": "https://standrearestaurant.hu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bajcsy-Zsilinszky utca 78, Budapest, 1055, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Stand25 Bisztró",
+    "slug": "stand25-bisztro",
+    "city_id": "budapest-hu",
+    "website": "https://stand25.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atilla út 10, Budapest, 1013, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Szaletly",
+    "slug": "szaletly",
+    "city_id": "budapest-hu",
+    "website": "https://szaletly.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Stefánia utca 93, Budapest, 1146, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tati",
+    "slug": "tati",
+    "city_id": "budapest-hu",
+    "website": "https://tatibudapest.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dohány utca 58-62, Budapest, 1076, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Textúra",
+    "slug": "textura",
+    "city_id": "budapest-hu",
+    "website": "https://texturaetterem.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sas utca 6, Budapest, 1051, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "UMO",
+    "slug": "umo",
+    "city_id": "budapest-hu",
+    "website": "https://www.umorestaurant.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Monastery Boutique Hotel Budapest, Ponty utca 1, Budapest, 1011, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "VIRTU",
+    "slug": "virtu",
+    "city_id": "budapest-hu",
+    "website": "https://www.virturestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "MOL Campus, Dombóvári utca 28, Budapest, 1117, Hungary",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Zazie Bistro",
+    "slug": "zazie-bistro",
+    "city_id": "budapest-hu",
+    "website": "https://zaziebistro.hu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "MOL Campus, Dombóvári utca 28, Budapest, 1117, Hungary",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Zincenco Kitchen",
+    "slug": "zincenco-kitchen",
+    "city_id": "budapest-hu",
+    "website": "https://zincencokitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bihari Janos utca 20, Budapest, 1055, Hungary",
+    "price_tier": "$$$$"
+  }
+]

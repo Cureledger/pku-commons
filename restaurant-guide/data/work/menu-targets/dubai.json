@@ -1,0 +1,1336 @@
+[
+  {
+    "name": "FZN by Björn Frantzén",
+    "slug": "fzn-by-bjorn-frantzen",
+    "city_id": "dubai-ae",
+    "website": "https://www.restaurantfzn.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Atlantis The Palm Jumeirah, Crescent Road, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Trèsind Studio",
+    "slug": "tresind-studio",
+    "city_id": "dubai-ae",
+    "website": "https://tresindstudio.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "St. Regis Gardens, The Palm Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Il Ristorante-Niko Romito",
+    "slug": "il-ristorante-niko-romito",
+    "city_id": "dubai-ae",
+    "website": "https://www.bulgarihotels.com/en_US/dubai/bars-and-restaurants/il-ristorante-niko-romito",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Bulgari Resort Dubai Hotel, Jumeirah Bay Island, Jumeirah 2, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Row on 45",
+    "slug": "row-on-45",
+    "city_id": "dubai-ae",
+    "website": "https://www.rowon45dubai.com",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "45th Floor, Tower 2, Grosvenor House Hotel, Al Emreef Street, Dubai Marina, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "STAY by Yannick Alléno",
+    "slug": "stay-by-yannick-alleno",
+    "city_id": "dubai-ae",
+    "website": "https://www.oneandonlyresorts.com/the-palm/dining/stay-by-yannick-alleno",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "One&Only The Palm Hotel, West Crescent Road, The Palm Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "11 Woodfire",
+    "slug": "11-woodfire",
+    "city_id": "dubai-ae",
+    "website": "https://www.11woodfire.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Villa 11, 75B Street, Jumeirah 1, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Al Muntaha",
+    "slug": "al-muntaha",
+    "city_id": "dubai-ae",
+    "website": "https://www.jumeirah.com/en/dine/dubai/burj-al-arab-muntaha",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Burj Al Arab Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Dinner by Heston Blumenthal",
+    "slug": "dinner-by-heston-blumenthal",
+    "city_id": "dubai-ae",
+    "website": "https://www.atlantis.com/dubai/dining/dinner-by-heston",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Atlantis The Royal, Crescent Road, The Palm Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hakkasan Dubai",
+    "slug": "hakkasan-dubai",
+    "city_id": "dubai-ae",
+    "website": "https://www.atlantis.com/dubai/dining/hakkasan",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Atlantis The Palm, Crescent Road, The Palm Jumeriah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hōseki",
+    "slug": "hoseki",
+    "city_id": "dubai-ae",
+    "website": "https://www.bulgarihotels.com/en_US/dubai/bars-and-restaurants/japanese-restaurant-hoseki",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Bulgari Resort Dubai Hotel, 4th Floor, Jumeirah Bay Island, Jumeirah 2, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jamavar",
+    "slug": "jamavar",
+    "city_id": "dubai-ae",
+    "website": "https://jamavarrestaurants.com/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Address Residences, Opera District, Downtown Dubai, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Dame de Pic Dubai",
+    "slug": "la-dame-de-pic-dubai",
+    "city_id": "dubai-ae",
+    "website": "https://ladamedepicdubai.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "25th Floor, The Link, One&Only One Za’abeel, Za'abeel 1, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Manāo",
+    "slug": "manao",
+    "city_id": "dubai-ae",
+    "website": "https://manao.ae",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Wasl Vita Mall , Jumeirah 1, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Orfali Bros",
+    "slug": "orfali-bros",
+    "city_id": "dubai-ae",
+    "website": "https://www.orfalibros.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Wasl 51 Mall, Jumeirah 1, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ossiano",
+    "slug": "ossiano",
+    "city_id": "dubai-ae",
+    "website": "https://www.atlantis.com/dubai/dining/ossiano",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Atlantis The Palm, Crescent Road, The Palm, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Smoked Room",
+    "slug": "smoked-room",
+    "city_id": "dubai-ae",
+    "website": "https://grupodanigarcia.com/smoked-room/en/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "St Regis Gardens, The Palm Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tasca by José Avillez",
+    "slug": "tasca-by-jose-avillez",
+    "city_id": "dubai-ae",
+    "website": "https://www.mandarinoriental.com/en/dubai/jumeira-beach/dine/tasca-by-jose-avillez",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Mandarin Oriental Jumeira Hotel, Jumeirah Beach Road, Jumeirah 1, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "avatāra",
+    "slug": "avatara",
+    "city_id": "dubai-ae",
+    "website": "https://avatara.ae/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Business Park 1, Dubai Hills Estate, Dubai Hills, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "moonrise",
+    "slug": "moonrise",
+    "city_id": "dubai-ae",
+    "website": "https://www.moon-rise.xyz",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Eden House, 41 Street, Al Satwa, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "21 Grams",
+    "slug": "21-grams",
+    "city_id": "dubai-ae",
+    "website": "https://21grams.me/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2nd Floor, Meyan Mall, Al Thanya Street, Umm Suqeim 2, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "3Fils",
+    "slug": "3fils",
+    "city_id": "dubai-ae",
+    "website": "https://www.3fils.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Shop 02, Jumeirah Fishing Harbour 1, Al Urouba St​reet, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "Al Khayma Heritage Restaurant",
+    "slug": "al-khayma-heritage-restaurant",
+    "city_id": "dubai-ae",
+    "website": "https://alkhayma.com/restaurant/al-khayma-heritage-restaurant-dubai",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Villa 54-44, Al Fahidi Historical District, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "Bait Maryam",
+    "slug": "bait-maryam",
+    "city_id": "dubai-ae",
+    "website": "https://baitmaryam.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Cluster D Jumeirah Lakes Towers, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "Berenjak",
+    "slug": "berenjak",
+    "city_id": "dubai-ae",
+    "website": "https://berenjak.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Dar Wasl Mall - Shop 01 - Al Wasl Rd - Al Wasl, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "DUO Gastrobar-Creek Harbour",
+    "slug": "duo-gastrobar-creek-harbour",
+    "city_id": "dubai-ae",
+    "website": "https://creek.duodubai.ae",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Grand Creek Harbour Residence, Tower 2, Dubai Creek Harbour, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "DUO Gastrobar-Dubai Hills",
+    "slug": "duo-gastrobar-dubai-hills",
+    "city_id": "dubai-ae",
+    "website": "https://duodubai.ae",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Building 4, Dubai Hills Estate Business Park, Dubai Hills, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Goldfish",
+    "slug": "goldfish",
+    "city_id": "dubai-ae",
+    "website": "https://www.goldfishsushiyakitori.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Galleria Mall, Al Wasl Road, Jumeirah 1, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Harummanis",
+    "slug": "harummanis",
+    "city_id": "dubai-ae",
+    "website": "https://www.harummanissg.com/home-dxb",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Al Wasl 51, Jumeirah, Jumeirah 1, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hawkerboi",
+    "slug": "hawkerboi",
+    "city_id": "dubai-ae",
+    "website": "https://eatx.com/hawkerboi/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "The Park, Jumeirah Lake Towers, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Indya by Vineet",
+    "slug": "indya-by-vineet",
+    "city_id": "dubai-ae",
+    "website": "https://www.indya-dubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Le Royal Meridien Beach Resort & Spa Hotel, Al Mamsha Street, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Khadak",
+    "slug": "khadak",
+    "city_id": "dubai-ae",
+    "website": "https://www.khadak.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Villa 426 - 12 Al Wasl Road, Jumeirah 2, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kinoya",
+    "slug": "kinoya",
+    "city_id": "dubai-ae",
+    "website": "https://kinoya.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "The Onyx Tower 2, Sheikh Zayed Road, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "Konjiki Hototogisu",
+    "slug": "konjiki-hototogisu",
+    "city_id": "dubai-ae",
+    "website": "https://www.instagram.com/konjiki.uae/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Mall Of Emirates - 2nd Level, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "REIF Japanese Kushiyaki - Dar Wasl",
+    "slug": "reif-japanese-kushiyaki-dar-wasl",
+    "city_id": "dubai-ae",
+    "website": "https://reifkushiyaki.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Unit 70, Dar Wasl Mall, Al Wasl Road, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "REIF Japanese Kushiyaki - Dubai Hills",
+    "slug": "reif-japanese-kushiyaki-dubai-hills",
+    "city_id": "dubai-ae",
+    "website": "https://www.reifkushiyaki.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Building 3, Dubai Hills Estate Business Park, Dubai Hills, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Revelry",
+    "slug": "revelry",
+    "city_id": "dubai-ae",
+    "website": "https://revelrydxb.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Building 1, Dubai Hills Estate Business Park, Dubai Hills, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "Shabestan",
+    "slug": "shabestan",
+    "city_id": "dubai-ae",
+    "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dubai-deira-creek/dining/shabestan",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Radisson Blu Hotel, Baniyas Road, Deira Creek, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sufret Maryam",
+    "slug": "sufret-maryam",
+    "city_id": "dubai-ae",
+    "website": "https://sufretmaryam.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Wasl 51 - Jumeirah - Jumeirah 1, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "Teible",
+    "slug": "teible",
+    "city_id": "dubai-ae",
+    "website": "https://www.teible.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "Jameel Arts Centre, Jaddaf Waterfront, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Akira Back",
+    "slug": "akira-back",
+    "city_id": "dubai-ae",
+    "website": "https://www.akirabackdubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5th Floor, W Dubai Hotel, West Crescent Road, The Palm Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Al-Fanar",
+    "slug": "al-fanar",
+    "city_id": "dubai-ae",
+    "website": "https://www.alfanarrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Al Seef unit P3-07-02, Dubai",
+    "price_tier": "$"
+  },
+  {
+    "name": "Amazónico",
+    "slug": "amazonico",
+    "city_id": "dubai-ae",
+    "website": "https://amazonicorestaurant.com/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "DIFC Pavilion, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ariana's Persian Kitchen",
+    "slug": "arianas-persian-kitchen",
+    "city_id": "dubai-ae",
+    "website": "https://www.atlantis.com/dubai/dining/arianas-kitchen",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atlantis The Royal, Crescent Road, The Palm Jumeriah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Armani Hashi",
+    "slug": "armani-hashi",
+    "city_id": "dubai-ae",
+    "website": "https://www.armanihotels.com/en/restaurant/armani-hashi/?hotel=armani-hotel-dubai&",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Burj Khalifa, 1 Sheikh Mohammed bin Rashid Boulevard, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Armani Ristorante",
+    "slug": "armani-ristorante",
+    "city_id": "dubai-ae",
+    "website": "https://www.armanihotels.com/en/restaurant/armani-ristorante/?hotel=armani-hotel-dubai",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Burj Khalifa, 1 Sheikh Mohammed bin Rashid Boulevard, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "At.Mosphere",
+    "slug": "at-mosphere",
+    "city_id": "dubai-ae",
+    "website": "https://atmosphereburjkhalifa.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Burj Khalifa, Sheikh Mohammed bin Rashid Boulevard, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Atrangi by Ritu Dalmia",
+    "slug": "atrangi-by-ritu-dalmia",
+    "city_id": "dubai-ae",
+    "website": "https://www.atrangidubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "207, Jumeirah Al Qasr Hotel, Al Safouh First, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Avli BY TASHAS",
+    "slug": "avli-by-tashas",
+    "city_id": "dubai-ae",
+    "website": "https://www.avlibytashas.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Unit C01, Gate Village 9, DIFC, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bordo Mavi",
+    "slug": "bordo-mavi",
+    "city_id": "dubai-ae",
+    "website": "https://bordomavidubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jumeirah Fishing Harbour, Al Urouba St, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Brasserie Boulud",
+    "slug": "brasserie-boulud",
+    "city_id": "dubai-ae",
+    "website": "https://www.sofitel-dubai-theobelisk.com/restaurants-bars/brasserie-boulud/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sofitel Dubai The Obelisk, Sheikh Rashid Road - Wafi City, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie Frantzén",
+    "slug": "brasserie-frantzen",
+    "city_id": "dubai-ae",
+    "website": "https://www.brasseriefrantzendubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atlantis The Palm Jumeirah, Crescent Road, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bâoli",
+    "slug": "baoli",
+    "city_id": "dubai-ae",
+    "website": "https://baoli-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "J1 Beach, 2A Street, Jumeirah 1, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Carnival by Trèsind",
+    "slug": "carnival-by-tresind",
+    "city_id": "dubai-ae",
+    "website": "https://carnivalbytresind.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Level P5, Burj Daman, 312 Al Sa'ada Street, Za'abeel, DIFC, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chic Nonna",
+    "slug": "chic-nonna",
+    "city_id": "dubai-ae",
+    "website": "https://www.chicnonna.com/chic-nonna-restaurant-dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "DIFC, Gate Avenue, South Zone, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cinque",
+    "slug": "cinque",
+    "city_id": "dubai-ae",
+    "website": "https://palmjumeirah.fivehotelsandresorts.com/eat-drink/cinque",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "FIVE Palm Jumeirah - No 1 Palm Jumeirah, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "City Social",
+    "slug": "city-social",
+    "city_id": "dubai-ae",
+    "website": "https://www.citysocialdubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "43rd Floor, Tower 2, Grosvenor House Hotel, Al Emreef Street, Dubai Marina, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Clap",
+    "slug": "clap",
+    "city_id": "dubai-ae",
+    "website": "https://www.claprestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gate Village 11, DIFC, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Coya",
+    "slug": "coya",
+    "city_id": "dubai-ae",
+    "website": "https://coyarestaurant.com/restaurants/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Restaurant Village Four Seasons Resort Jumeirah Beach Road, Jumeirah 2, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "CÉ LA VI",
+    "slug": "ce-la-vi",
+    "city_id": "dubai-ae",
+    "website": "https://www.celavi.com/en/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Address Sky View Tower 2, Sheikh Mohammed bin Rashid Boulevard, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Demon Duck by Alvin Leung",
+    "slug": "demon-duck-by-alvin-leung",
+    "city_id": "dubai-ae",
+    "website": "https://www.banyantree.com/united-arab-emirates/dubai/dining/demon-duck",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Banyan Tree Dubai, Bluewaters Island, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Dragonfly",
+    "slug": "dragonfly",
+    "city_id": "dubai-ae",
+    "website": "https://www.dragonfly-dxb.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Lana Promenade, Marasi Drive, Business Bay, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Fi'lia",
+    "slug": "filia",
+    "city_id": "dubai-ae",
+    "website": "https://slshotels.com/dubai/restaurants-and-bars/filia-dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "70th Floor, SLS Dubai Hotel & Residences, Marasi Drive, Business Bay, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gerbou",
+    "slug": "gerbou",
+    "city_id": "dubai-ae",
+    "website": "https://www.gerbou.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Street 20, Nadd Al Sheba Road, Nad Al Sheba 1, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hutong",
+    "slug": "hutong",
+    "city_id": "dubai-ae",
+    "website": "https://www.hutong-dubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gate Building 6, Ground Floor DIFC, Al Sukook Street, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ibn Albahr",
+    "slug": "ibn-albahr",
+    "city_id": "dubai-ae",
+    "website": "https://www.ibnalbahr.me",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Club Vista Mare, Palm Jumeirah, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Il Borro Tuscan Bistro Dubai",
+    "slug": "il-borro-tuscan-bistro-dubai",
+    "city_id": "dubai-ae",
+    "website": "https://ilborrotuscanbistro.ae/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jumeirah Al Naseem Hotel, 906 Jumeirah Street, Umm Suqeim 3, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Indego by Vineet",
+    "slug": "indego-by-vineet",
+    "city_id": "dubai-ae",
+    "website": "https://www.indegobyvineet.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tower 1, Grosvenor House Hotel, Al Emreef Street, Dubai Marina, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "JARA by Martín Berasategui",
+    "slug": "jara-by-martin-berasategui",
+    "city_id": "dubai-ae",
+    "website": "https://www.dorchestercollection.com/dubai/the-lana/dining/jara-by-martin-berasategui",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18th Floor, The Lana - Dorchester Collection, Marasi Drive, Business Bay, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Josette",
+    "slug": "josette",
+    "city_id": "dubai-ae",
+    "website": "https://www.josette.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "ICD Brookfield Place, DIFC, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Jun's",
+    "slug": "juns",
+    "city_id": "dubai-ae",
+    "website": "https://www.junsdubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sheikh Mohammed bin Rashid Boulevard, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon",
+    "slug": "latelier-de-joel-robuchon",
+    "city_id": "dubai-ae",
+    "website": "https://www.atelier-robuchon.ae",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gate Village 11, DIFC, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "LOWE",
+    "slug": "lowe",
+    "city_id": "dubai-ae",
+    "website": "https://lowe-dubai.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected",
+      "Green Star"
+    ],
+    "address": "KOA Canvas, Wadi Al Safa 3, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "La Mar by Gastón Acurio",
+    "slug": "la-mar-by-gaston-acurio",
+    "city_id": "dubai-ae",
+    "website": "https://www.atlantis.com/dubai/dining/la-mar/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atlantis The Royal, Crescent Road, The Palm Jumeriah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Petite Maison (LPM)",
+    "slug": "la-petite-maison-lpm",
+    "city_id": "dubai-ae",
+    "website": "https://lpmrestaurants.com/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gate Village 8, DIFC, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Late Eatery",
+    "slug": "late-eatery",
+    "city_id": "dubai-ae",
+    "website": "https://www.instagram.com/late.eatery/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The 77 Valley, Academic City Road, Al Khawaneej, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Leña Dubai",
+    "slug": "lena-dubai",
+    "city_id": "dubai-ae",
+    "website": "https://lenarestaurants.com/en/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "St Regis Gardens, The Palm Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Little Miss India",
+    "slug": "little-miss-india",
+    "city_id": "dubai-ae",
+    "website": "https://www.fairmont.com/en/hotels/dubai/fairmont-the-palm/dining/little-miss-india.restaurant.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fairmont The Palm, Palm Jumeirah, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L’Olivo at Al Mahara",
+    "slug": "lolivo-at-al-mahara",
+    "city_id": "dubai-ae",
+    "website": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah/dining/burj-al-arab-al-mahara",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Burj Al Arab Jumeirah - Jumeirah Street, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Masti",
+    "slug": "masti",
+    "city_id": "dubai-ae",
+    "website": "https://www.mastidubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Dubai Edition Hotel, Floor 1, Downtown, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MayaBay",
+    "slug": "mayabay",
+    "city_id": "dubai-ae",
+    "website": "https://www.mayabayrestaurant.com/dubai",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jumeirah Al Naseem Hotel, 906 Jumeirah Street, Umm Suqeim 3, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mimi Mei Fair",
+    "slug": "mimi-mei-fair",
+    "city_id": "dubai-ae",
+    "website": "https://mimimeifair.com/asian-chinese-restaurant-dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Address Residences, Opera District, Downtown Dubai, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mina Brasserie",
+    "slug": "mina-brasserie",
+    "city_id": "dubai-ae",
+    "website": "https://www.minabrasserie.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Four Seasons, Dubai International Financial Center, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mott 32",
+    "slug": "mott-32",
+    "city_id": "dubai-ae",
+    "website": "https://mott32.com/dubai",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Address Beach Resort, The Walk, Jumeriah Beach Residence, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Netsu by Ross Shonhan",
+    "slug": "netsu-by-ross-shonhan",
+    "city_id": "dubai-ae",
+    "website": "https://www.mandarinoriental.com/dubai/jumeira-beach/fine-dining/restaurants/japanese-cuisine/netsu-by-ross-shonhan",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mandarin Oriental Jumeira Hotel, Jumeirah Beach Road, Jumeirah 1, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ninive",
+    "slug": "ninive",
+    "city_id": "dubai-ae",
+    "website": "https://ninive.ae",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Emirates Towers Hotel, Sheikh Zayed Road, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Nobu Dubai",
+    "slug": "nobu-dubai",
+    "city_id": "dubai-ae",
+    "website": "https://www.nobudubai.com/noburestaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atlantis The Palm, 22nd Floor, Crescent Road, The Palm Jumeriah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Osteria Funkcoolio",
+    "slug": "osteria-funkcoolio",
+    "city_id": "dubai-ae",
+    "website": "https://www.funkcoolio.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "​La Cote B03 -R04, ​Port De La Mer, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pierchic",
+    "slug": "pierchic",
+    "city_id": "dubai-ae",
+    "website": "https://www.jumeirah.com/en/dine/dubai/al-qasr-pierchic",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jumeirah Al Qasr, Madinat Jumeirah, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Pierre's TT",
+    "slug": "pierres-tt",
+    "city_id": "dubai-ae",
+    "website": "https://www.pierresdubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "InterContinental Dubai Festival City Hotel, promenade level, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "RSVP",
+    "slug": "rsvp",
+    "city_id": "dubai-ae",
+    "website": "https://www.instagram.com/rsvprestaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Al Wasl Road, Jumeirah 2, Dubai, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rhodes w1",
+    "slug": "rhodes-w1",
+    "city_id": "dubai-ae",
+    "website": "https://www.rhodesw1-dubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mezzanine Florr, Grosvenor House Hotel, Al Emreef Street, Dubai Marina, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Riviera by Jean Imbert",
+    "slug": "riviera-by-jean-imbert",
+    "city_id": "dubai-ae",
+    "website": "https://www.dorchestercollection.com/dubai/the-lana/dining/riviera-by-jean-imbert",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Lana - Dorchester Collection, Marasi Drive, Business Bay, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Rockfish",
+    "slug": "rockfish",
+    "city_id": "dubai-ae",
+    "website": "https://www.jumeirah.com/en/dine/dubai/rockfish",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jumeirah Al Naseem Hotel, King Salman bin Abdulaziz Al Saud Street, Umm Suqeim 3, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ronin",
+    "slug": "ronin",
+    "city_id": "dubai-ae",
+    "website": "https://www.ronindubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "FIVE LUXE JBR, The Walk, Jumeirah Beach Residence, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Rüya",
+    "slug": "ruya",
+    "city_id": "dubai-ae",
+    "website": "https://ruyarestaurants.com/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The St. Regis Dubai, The Palm, Palm Jumeirah, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sea Fu",
+    "slug": "sea-fu",
+    "city_id": "dubai-ae",
+    "website": "https://www.seafudubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Four Seasons Resort Dubai Hotel, Jumeirah Beach Road, Jumeirah 2, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sexy Fish",
+    "slug": "sexy-fish",
+    "city_id": "dubai-ae",
+    "website": "https://sexyfishdubai.me/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Innovation One, 11th floor, DIFC, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shang Palace",
+    "slug": "shang-palace",
+    "city_id": "dubai-ae",
+    "website": "https://www.shangpalacedubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Shangri-La Dubai Hotel, 1st Floor, Sheikh Zayed Road, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Siraj",
+    "slug": "siraj",
+    "city_id": "dubai-ae",
+    "website": "https://sirajrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Souk Al Bahar, Dubai",
+    "price_tier": "$$"
+  },
+  {
+    "name": "StreetXO",
+    "slug": "streetxo",
+    "city_id": "dubai-ae",
+    "website": "https://streetxo.com/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4th Floor, One&Only One Za’abeel, Za'abeel 1, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Sucre",
+    "slug": "sucre",
+    "city_id": "dubai-ae",
+    "website": "https://sucredubai.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gate Village 5, DIFC, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "TERO - Unconventional Omakase",
+    "slug": "tero-unconventional-omakase",
+    "city_id": "dubai-ae",
+    "website": "https://www.terodubai.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Building 3, Dubai Hills Estate Business Park, Dubai Hills, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "TakaHisa",
+    "slug": "takahisa",
+    "city_id": "dubai-ae",
+    "website": "https://takahisa.ae/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Banyan Tree Dubai, Palace Tower, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Tang Town",
+    "slug": "tang-town",
+    "city_id": "dubai-ae",
+    "website": "https://tangtown.ae/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "BFM 17, Fountain Views, Dubai Mall, Downtown, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Artisan",
+    "slug": "the-artisan",
+    "city_id": "dubai-ae",
+    "website": "https://www.theartisan.ae/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Waldorf Astoria Hotel, DIFC, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Guild",
+    "slug": "the-guild",
+    "city_id": "dubai-ae",
+    "website": "https://www.theguilddubai.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Guild, ICD Brookfield Place, DIFC, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Spaniel",
+    "slug": "the-spaniel",
+    "city_id": "dubai-ae",
+    "website": "https://www.thespanieldxb.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bluewaters Island, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Trèsind",
+    "slug": "tresind",
+    "city_id": "dubai-ae",
+    "website": "https://tresind.com/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "One&Only Royal Mirage, Arabian Court, Dubai Marina, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "XU Dubai",
+    "slug": "xu-dubai",
+    "city_id": "dubai-ae",
+    "website": "https://xudubai.ae",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kempinski Hotel, 2nd floor, Mall of the Emirates, Sheikh Zayed Road, Al Barsha 1, Dubai",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Zuma",
+    "slug": "zuma",
+    "city_id": "dubai-ae",
+    "website": "https://zumarestaurant.com/locations/dubai/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Gate Village 6, DIFC, Dubai",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "estiatorio Milos",
+    "slug": "estiatorio-milos",
+    "city_id": "dubai-ae",
+    "website": "https://www.milosdubai.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Atlantis The Royal, Crescent Road, The Palm, Dubai",
+    "price_tier": "$$$$"
+  }
+]

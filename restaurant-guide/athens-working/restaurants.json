@@ -1,0 +1,242 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "athens-gr",
+ "restaurant_count": 6,
+ "restaurants": [
+  {
+   "restaurant_id": "athens-gr/akra",
+   "city_id": "athens-gr",
+   "slug": "akra",
+   "name": "Akra",
+   "website": "",
+   "address": "12 Aminta, Athens, 11635, Greece",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/attica/athens/restaurant/akra"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/attica/athens/restaurant/akra",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Greek",
+   "price_tier": "€"
+  },
+  {
+   "restaurant_id": "athens-gr/makris-athens",
+   "city_id": "athens-gr",
+   "slug": "makris-athens",
+   "name": "Makris Athens",
+   "website": "https://makrisathens.com/en/",
+   "address": "10 Astiggos - 119 Ermou Street, Athens, 10555, Greece",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/attica/athens/restaurant/makris-athens"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/attica/athens/restaurant/makris-athens",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "€€€€"
+  },
+  {
+   "restaurant_id": "athens-gr/nolan",
+   "city_id": "athens-gr",
+   "slug": "nolan",
+   "name": "Nolan",
+   "website": "https://www.nolanverse.com",
+   "address": "31-33 Voulis Street, Athens, 10557, Greece",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/attica/athens/restaurant/nolan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/attica/athens/restaurant/nolan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fusion",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "athens-gr/pharaoh",
+   "city_id": "athens-gr",
+   "slug": "pharaoh",
+   "name": "Pharaoh",
+   "website": "https://www.pharaoh.gr/",
+   "address": "54 Solomou, Athens, 10682, Greece",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/attica/athens/restaurant/pharaoh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/attica/athens/restaurant/pharaoh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Greek",
+   "price_tier": "€€"
+  },
+  {
+   "restaurant_id": "athens-gr/aneton",
+   "city_id": "athens-gr",
+   "slug": "aneton",
+   "name": "Aneton",
+   "website": "https://www.aneton.gr",
+   "address": "3 Navarchou Nikodimou Street, Athens, 10 557, Greece",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/attica/athens/restaurant/aneton"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/attica/athens/restaurant/aneton",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "athens-gr/linou-soumpasis-co",
+   "city_id": "athens-gr",
+   "slug": "linou-soumpasis-co",
+   "name": "Linou Soumpasis & Co.",
+   "website": "https://www.linousoumpasis.gr",
+   "address": "Kalamida 9 & Melanthiou 2 Street, Athens, 10554, Greece",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/attica/athens/restaurant/linou-soumpasis-k-sia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/attica/athens/restaurant/linou-soumpasis-k-sia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Greek",
+   "price_tier": "€€"
+  }
+ ]
+}

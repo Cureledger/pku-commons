@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Grünewald Chef’s Table",
+    "slug": "grunewald-chefs-table",
+    "city_id": "luxembourg-lu",
+    "website": "https://gct.lu",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2 Rue des Hauts-Fourneaux, 1719, Luxembourg",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "La Villa de Camille et Julien",
+    "slug": "la-villa-de-camille-et-julien",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.lavilla.lu/fr",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "5 rue de Pulvermühl, 2090, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Lys",
+    "slug": "le-lys",
+    "city_id": "luxembourg-lu",
+    "website": "https://villapetrusse.lu/fr/restaurant-le-lys.html",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1, Avenue Marie-Thérèse, 2132, Luxembourg",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mosconi",
+    "slug": "mosconi",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.mosconi.lu/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "13 rue Münster, 2160, Luxembourg",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ryôdô",
+    "slug": "ryodo",
+    "city_id": "luxembourg-lu",
+    "website": "https://ryodoes.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "27 rue Raymond Poincaré, 2342, Luxembourg",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bazaar",
+    "slug": "bazaar",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.bazaar.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "46 Place Guillaume II, 1648, Luxembourg",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Amélys",
+    "slug": "amelys",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.restaurant-amelys.lu/fr/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "12 boulevard Royal, 2449, Luxembourg",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bick Stuff",
+    "slug": "bick-stuff",
+    "city_id": "luxembourg-lu",
+    "website": "https://bickstuff.lu/accueil.html",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "95 rue de Clausen, 1342, Luxembourg",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie des Jardins",
+    "slug": "brasserie-des-jardins",
+    "city_id": "luxembourg-lu",
+    "website": "https://brasseriedesjardins.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "27b boulevard Marcel Cahen, 1311, Luxembourg",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Clairefontaine",
+    "slug": "clairefontaine",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.restaurantclairefontaine.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "9 place de Clairefontaine, 1341, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Equilibrium",
+    "slug": "equilibrium",
+    "city_id": "luxembourg-lu",
+    "website": "https://equilibriumrestaurant.lu",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "107 Rue de la Tour Jacob, 1831, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Hostellerie du Grünewald",
+    "slug": "hostellerie-du-grunewald",
+    "city_id": "luxembourg-lu",
+    "website": "https://hdg.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "10 route d'Echternach, 1453, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "L'Atelier Windsor",
+    "slug": "latelier-windsor",
+    "city_id": "luxembourg-lu",
+    "website": "https://atelierwindsor.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2 rue de Rollingergrund, 2440, Luxembourg",
+    "price_tier": "$$"
+  },
+  {
+    "name": "L'Opéra",
+    "slug": "lopera",
+    "city_id": "luxembourg-lu",
+    "website": "https://lopera.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "100 Rue de Rollingergrund, 2440, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Le Plëss",
+    "slug": "le-pless",
+    "city_id": "luxembourg-lu",
+    "website": "https://hotel-leplacedarmes.com/fr/restaurants/le-pless/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "18 place d'Armes, 1136, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "OiO",
+    "slug": "oio",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.oio.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "48 Montée de Clausen, 1343, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ristorante Roma",
+    "slug": "ristorante-roma",
+    "city_id": "luxembourg-lu",
+    "website": "https://roma.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "5 rue Louvigny, 1946, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Schéiss",
+    "slug": "scheiss",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.scheiss.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "142 Val Sainte-Croix, 1370, Luxembourg",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Um Plateau",
+    "slug": "um-plateau",
+    "city_id": "luxembourg-lu",
+    "website": "https://www.umplateau.lu/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "6 Plateau Altmünster, 1123, Luxembourg",
+    "price_tier": "$$$"
+  }
+]

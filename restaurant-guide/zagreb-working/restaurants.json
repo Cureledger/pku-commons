@@ -1,0 +1,164 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "zagreb-hr",
+ "restaurant_count": 4,
+ "restaurants": [
+  {
+   "restaurant_id": "zagreb-hr/nure",
+   "city_id": "zagreb-hr",
+   "slug": "nure",
+   "name": "Nuré",
+   "website": "",
+   "address": "Ilica 33/3, Zagreb, 10000, Croatia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/nure"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/nure",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "zagreb-hr/sol",
+   "city_id": "zagreb-hr",
+   "slug": "sol",
+   "name": "SOL",
+   "website": "",
+   "address": "Petrinjska ul. 2, Zagreb, 10000, Croatia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/sol-1241330"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/sol-1241330",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Croatian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "zagreb-hr/nicos-bar-bistro",
+   "city_id": "zagreb-hr",
+   "slug": "nicos-bar-bistro",
+   "name": "Nico's Bar & Bistro",
+   "website": "https://nicosbar.hr/zagreb-croatia/",
+   "address": "ul. Augusta Cesarca 6, Zagreb, 10000, Croatia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/nico-s-bar-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/nico-s-bar-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Croatian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "zagreb-hr/pod-zidom-bistro",
+   "city_id": "zagreb-hr",
+   "slug": "pod-zidom-bistro",
+   "name": "Pod Zidom Bistro",
+   "website": "https://podzidom.hr/",
+   "address": "Pod zidom 5, Zagreb, 10000, Croatia",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/pod-zidom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/zagreb-region/zagreb/restaurant/pod-zidom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Farm to table",
+   "price_tier": "$$"
+  }
+ ]
+}

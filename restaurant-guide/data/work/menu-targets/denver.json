@@ -1,0 +1,376 @@
+[
+  {
+    "name": "The Wolf's Tailor",
+    "slug": "the-wolfs-tailor",
+    "city_id": "denver-co-us",
+    "website": "https://www.thewolfstailor.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars",
+      "Green Star"
+    ],
+    "address": "4058 Tejon St., Denver, CO, 80211, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alma Fonda Fina",
+    "slug": "alma-fonda-fina",
+    "city_id": "denver-co-us",
+    "website": "https://www.almalohidenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2556 15th St., Denver, CO, 80211, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Beckon",
+    "slug": "beckon",
+    "city_id": "denver-co-us",
+    "website": "https://beckon-denver.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2843 Larimer St., Denver, CO, 80205, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Brutø",
+    "slug": "brutoe",
+    "city_id": "denver-co-us",
+    "website": "https://www.brutodenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "1801 Blake St., Denver, CO, 80202, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kizaki",
+    "slug": "kizaki",
+    "city_id": "denver-co-us",
+    "website": "https://kizakiden.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1551 S. Pearl St., Denver, CO, 80210, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Margot",
+    "slug": "margot",
+    "city_id": "denver-co-us",
+    "website": "https://www.margotdenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1551 S. Pearl St., Denver, CO, 80210, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mezcaleria Alma",
+    "slug": "mezcaleria-alma",
+    "city_id": "denver-co-us",
+    "website": "https://www.mezcaleriaalma.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2550 15th St., Denver, CO, 80211, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ash'Kara",
+    "slug": "ashkara",
+    "city_id": "denver-co-us",
+    "website": "https://www.ashkaradenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2005 W. 33rd Ave., Denver, CO, 80211, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Glo Noodle House",
+    "slug": "glo-noodle-house",
+    "city_id": "denver-co-us",
+    "website": "https://glonoodlehouse.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4450 W. 38th Ave., Ste. 130, Denver, CO, 80212, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hop Alley",
+    "slug": "hop-alley",
+    "city_id": "denver-co-us",
+    "website": "https://hopalleydenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3500 Larimer St., Denver, CO, 80205, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "La Diabla Pozole y Mezcal",
+    "slug": "la-diabla-pozole-y-mezcal",
+    "city_id": "denver-co-us",
+    "website": "https://www.ladiabladenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2233 Larimer St., Denver, CO, 80205, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "MAKfam",
+    "slug": "makfam",
+    "city_id": "denver-co-us",
+    "website": "https://www.makfam.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "39 W. 1st Ave., Denver, CO, 80223, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Mister Oso",
+    "slug": "mister-oso",
+    "city_id": "denver-co-us",
+    "website": "https://www.misterosodenver.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3163 Larimer St., Denver, CO, 80205, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tavernetta",
+    "slug": "tavernetta",
+    "city_id": "denver-co-us",
+    "website": "https://www.tavernettadenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Kimpton Hotel, 1889 16th St., Denver, CO, 80202, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Ginger Pig",
+    "slug": "the-ginger-pig",
+    "city_id": "denver-co-us",
+    "website": "https://www.gingerpig.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4262 Lowell Blvd., Denver, CO, 80211, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "A5 Steakhouse",
+    "slug": "a5-steakhouse",
+    "city_id": "denver-co-us",
+    "website": "https://www.a5denver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1600 15th St., Denver, CO, 80202, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alteño",
+    "slug": "alteno",
+    "city_id": "denver-co-us",
+    "website": "https://www.altenorestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Clayton Hotel & Members Club, 249 Clayton St., Denver, CO, 80206, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Barolo Grill",
+    "slug": "barolo-grill",
+    "city_id": "denver-co-us",
+    "website": "https://www.barologrilldenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3030 E. 6th Ave., Denver, CO, 80206, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Brasserie Brixton",
+    "slug": "brasserie-brixton",
+    "city_id": "denver-co-us",
+    "website": "https://www.brasseriebrixton.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3701 N. Williams St., Denver, CO, 80205, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Dio Mio",
+    "slug": "dio-mio",
+    "city_id": "denver-co-us",
+    "website": "https://www.diomiopasta.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3264 Larimer St., Denver, CO, 80205, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Guard and Grace",
+    "slug": "guard-and-grace",
+    "city_id": "denver-co-us",
+    "website": "https://www.guardandgrace.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1801 California St., Denver, CO, 80202, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hey Kiddo",
+    "slug": "hey-kiddo",
+    "city_id": "denver-co-us",
+    "website": "https://www.hk-oy.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4337 Tennyson St., Ste. 300, Denver, CO, 80212, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kawa Ni",
+    "slug": "kawa-ni",
+    "city_id": "denver-co-us",
+    "website": "https://kawanidenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1900 W. 32nd Ave., Denver, CO, 80211, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Marco's Coal-Fired",
+    "slug": "marcos-coal-fired",
+    "city_id": "denver-co-us",
+    "website": "https://www.marcoscfp.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2129 Larimer St., Denver, CO, 80205, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mercantile",
+    "slug": "mercantile",
+    "city_id": "denver-co-us",
+    "website": "https://www.mercantiledenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1701 Wynkoop St., Ste. 115, Denver, CO, 80202, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Restaurant Olivia",
+    "slug": "restaurant-olivia",
+    "city_id": "denver-co-us",
+    "website": "https://www.oliviadenver.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "290 S. Downing St., Denver, CO, 80209, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Safta",
+    "slug": "safta",
+    "city_id": "denver-co-us",
+    "website": "https://www.eatwithsafta.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Source Hotel, 3330 Brighton Blvd., Ste. 201, Denver, CO, 80216, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Smok",
+    "slug": "smok",
+    "city_id": "denver-co-us",
+    "website": "https://www.denversmok.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Source Hotel, 3330 Brighton Blvd., #202, Denver, CO, 80216, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Temaki Den",
+    "slug": "temaki-den",
+    "city_id": "denver-co-us",
+    "website": "https://www.temakiden.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "The Source Hotel, 3350 Brighton Blvd., Ste. 100, Denver, CO, 80216, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ukiyo",
+    "slug": "ukiyo",
+    "city_id": "denver-co-us",
+    "website": "https://ukiyoomakase.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1317 14th St., Ste. 0, Denver, CO, 80202, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Wildflower",
+    "slug": "wildflower",
+    "city_id": "denver-co-us",
+    "website": "https://www.wildflower-lohi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3638 Navajo St., Denver, CO, 80211, USA",
+    "price_tier": "$$$"
+  }
+]

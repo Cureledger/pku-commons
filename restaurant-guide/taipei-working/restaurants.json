@@ -1,0 +1,4698 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "taipei-tw",
+ "restaurant_count": 120,
+ "restaurants": [
+  {
+   "restaurant_id": "taipei-tw/yu-kapo",
+   "city_id": "taipei-tw",
+   "slug": "yu-kapo",
+   "name": "Yu Kapo",
+   "website": "",
+   "address": "9-1 Sanmin Road, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yu-kapo-1198592"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yu-kapo-1198592",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/a-cut",
+   "city_id": "taipei-tw",
+   "slug": "a-cut",
+   "name": "A Cut",
+   "website": "",
+   "address": "2F, Fubon Liaoning Building, 177 Liaoning Street, Zhongshan District, Taipei, 104105, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/a-cut"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/a-cut",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ban-bo",
+   "city_id": "taipei-tw",
+   "slug": "ban-bo",
+   "name": "Ban Bo",
+   "website": "",
+   "address": "38, Lane 265, Lequn 2nd Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ban-bo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ban-bo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/circum",
+   "city_id": "taipei-tw",
+   "slug": "circum",
+   "name": "Circum-",
+   "website": "",
+   "address": "B2, Regent Hotel, 3, Lane 39, Section 2, Zhongshan North Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/circum"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/circum",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/golden-formosa",
+   "city_id": "taipei-tw",
+   "slug": "golden-formosa",
+   "name": "Golden Formosa",
+   "website": "",
+   "address": "101 Tianmu East Road, Shilin District, Taipei, 111, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/golden-formosa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/golden-formosa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/impromptu-by-paul-lee",
+   "city_id": "taipei-tw",
+   "slug": "impromptu-by-paul-lee",
+   "name": "Impromptu by Paul Lee",
+   "website": "",
+   "address": "B1, Regent Hotel, 3, Lane 39, Section 2, Zhongshan North Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/impromptu-by-paul-lee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/impromptu-by-paul-lee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ken-anhe",
+   "city_id": "taipei-tw",
+   "slug": "ken-anhe",
+   "name": "Ken Anhe",
+   "website": "",
+   "address": "4, Lane 127, Section 1, Anhe Road, Da'an District, Taipei, 10681, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ken-an-ho"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ken-an-ho",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/kiku",
+   "city_id": "taipei-tw",
+   "slug": "kiku",
+   "name": "Kiku",
+   "website": "",
+   "address": "4, Lane 135, Section 1, Anhe Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kiku-1216129"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kiku-1216129",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/kitcho",
+   "city_id": "taipei-tw",
+   "slug": "kitcho",
+   "name": "Kitcho",
+   "website": "",
+   "address": "48, Lane 181, Section 4, Zhongxiao East Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kitcho"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kitcho",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ming-fu",
+   "city_id": "taipei-tw",
+   "slug": "ming-fu",
+   "name": "Ming Fu",
+   "website": "",
+   "address": "18-1, Lane 137, Section 2, Zhongshan North Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ming-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ming-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/motoichi",
+   "city_id": "taipei-tw",
+   "slug": "motoichi",
+   "name": "Motoichi",
+   "website": "",
+   "address": "11, Alley 27, Lane 216, Section 4, Zhongxiao East Road, Da’an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/motoichi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/motoichi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Tempura",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sushi-akira",
+   "city_id": "taipei-tw",
+   "slug": "sushi-akira",
+   "name": "Sushi Akira",
+   "website": "",
+   "address": "6-3, Lane 25, Shuangcheng Street, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-akira"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-akira",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sushi-ryu",
+   "city_id": "taipei-tw",
+   "slug": "sushi-ryu",
+   "name": "Sushi Ryu",
+   "website": "",
+   "address": "60-5, Section 2, Xinsheng North Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-ryu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-ryu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sushiyoshi",
+   "city_id": "taipei-tw",
+   "slug": "sushiyoshi",
+   "name": "Sushiyoshi",
+   "website": "",
+   "address": "12, Alley 19, Lane 216, Section 4, Zhongxiao East Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushiyoshi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushiyoshi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/t-t",
+   "city_id": "taipei-tw",
+   "slug": "t-t",
+   "name": "T+T",
+   "website": "",
+   "address": "11, Lane 165, Dunhua North Road, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/t-t"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/t-t",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/the-guest-house",
+   "city_id": "taipei-tw",
+   "slug": "the-guest-house",
+   "name": "The Guest House",
+   "website": "",
+   "address": "17F, Sheraton Grand Hotel, 12, Section 1, Zhongxiao East Road, Zhongzheng District, Taipei, 100, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/the-guest-house"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/the-guest-house",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/wok-by-obond",
+   "city_id": "taipei-tw",
+   "slug": "wok-by-obond",
+   "name": "Wok by O'BOND",
+   "website": "",
+   "address": "18 Long Jiang Road, Zhongshan District, Taipei, 104099, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/wok-by-o-bond"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/wok-by-o-bond",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/zea",
+   "city_id": "taipei-tw",
+   "slug": "zea",
+   "name": "ZEA",
+   "website": "",
+   "address": "5, Alley 20, Lane 300, Section 4, Ren'ai Road, Da’an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/zea"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/zea",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Latin American",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/chi-chia-chuang-changchun-road",
+   "city_id": "taipei-tw",
+   "slug": "chi-chia-chuang-changchun-road",
+   "name": "Chi Chia Chuang (Changchun Road)",
+   "website": "",
+   "address": "55 Changchun Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chi-chia-chuang-changchun-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chi-chia-chuang-changchun-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ching-jiao",
+   "city_id": "taipei-tw",
+   "slug": "ching-jiao",
+   "name": "Ching Jiao",
+   "website": "",
+   "address": "9, Section 2, Jinan Road, Zhongzheng District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ching-jiao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ching-jiao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/chung-chia-sheng-jian-bao",
+   "city_id": "taipei-tw",
+   "slug": "chung-chia-sheng-jian-bao",
+   "name": "Chung Chia Sheng Jian Bao",
+   "website": "",
+   "address": "Shilin Night Market, 38 Xiaodong Street, Shilin District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chung-chia-sheng-jian-bao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chung-chia-sheng-jian-bao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/clavius",
+   "city_id": "taipei-tw",
+   "slug": "clavius",
+   "name": "Clavius",
+   "website": "",
+   "address": "120 Fujin Street, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/clavius"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/clavius",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/da-qiao-tou-tube-rice-pudding-yanping-north-road",
+   "city_id": "taipei-tw",
+   "slug": "da-qiao-tou-tube-rice-pudding-yanping-north-road",
+   "name": "Da-Qiao-Tou Tube Rice Pudding (Yanping North Road)",
+   "website": "",
+   "address": "41, Section 3, Yanping North Road, Datong District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/da-qiao-tou-tube-rice-pudding"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/da-qiao-tou-tube-rice-pudding",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/hsiao-cho-chih-chia",
+   "city_id": "taipei-tw",
+   "slug": "hsiao-cho-chih-chia",
+   "name": "Hsiao Cho Chih Chia",
+   "website": "",
+   "address": "420 Jilin Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hsiao-cho-chih-chia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hsiao-cho-chih-chia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/hsiung-chi-scallion-pancake",
+   "city_id": "taipei-tw",
+   "slug": "hsiung-chi-scallion-pancake",
+   "name": "Hsiung Chi Scallion Pancake",
+   "website": "",
+   "address": "Gongguan Night Market, 2, Lane 108, Section 4, Luosifu Road, Zhongzheng District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hsiung-chi-scallion-pancake"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hsiung-chi-scallion-pancake",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/huang-chi-lu-rou-fan",
+   "city_id": "taipei-tw",
+   "slug": "huang-chi-lu-rou-fan",
+   "name": "Huang Chi Lu Rou Fan",
+   "website": "",
+   "address": "28, Lane 183, Section 2, Zhongshan North Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/huang-chi-lu-rou-fan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/huang-chi-lu-rou-fan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/inns-shuangcheng-street",
+   "city_id": "taipei-tw",
+   "slug": "inns-shuangcheng-street",
+   "name": "Inn's+ (Shuangcheng Street)",
+   "website": "",
+   "address": "8, Lane 28, Shuangcheng Street, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/inn-s"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/inn-s",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/jen-ho-yuan",
+   "city_id": "taipei-tw",
+   "slug": "jen-ho-yuan",
+   "name": "Jen Ho Yuan",
+   "website": "",
+   "address": "2F, 112, Section 2, Zhongshan North Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/jen-ho-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/jen-ho-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yunnanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/jin-shang-hsuan",
+   "city_id": "taipei-tw",
+   "slug": "jin-shang-hsuan",
+   "name": "Jin Shang Hsuan",
+   "website": "",
+   "address": "111, Lane 155, Dunhua North Road, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/jin-shang-hsuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/jin-shang-hsuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/lao-shan-dong-homemade-noodles",
+   "city_id": "taipei-tw",
+   "slug": "lao-shan-dong-homemade-noodles",
+   "name": "Lao Shan Dong Homemade Noodles",
+   "website": "",
+   "address": "Shop 15, B1, 70 Xining South Road, Wanhua District, Taipei, 108, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lao-shan-dong-homemade-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lao-shan-dong-homemade-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/mai-mien-yen-tsai",
+   "city_id": "taipei-tw",
+   "slug": "mai-mien-yen-tsai",
+   "name": "Mai Mien Yen Tsai",
+   "website": "",
+   "address": "106 Anxi Street, Datong District, Taipei, 103, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mai-mien-yen-tsai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mai-mien-yen-tsai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/open-smile",
+   "city_id": "taipei-tw",
+   "slug": "open-smile",
+   "name": "Open Smile",
+   "website": "",
+   "address": "441 Zhuangjing Road, Xinyi District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/open-smile"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/open-smile",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/pang",
+   "city_id": "taipei-tw",
+   "slug": "pang",
+   "name": "Pàng",
+   "website": "",
+   "address": "181 Wenchang Street, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/pang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/pang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mexican",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/saffron-fine-indian-cuisine",
+   "city_id": "taipei-tw",
+   "slug": "saffron-fine-indian-cuisine",
+   "name": "Saffron Fine Indian Cuisine",
+   "website": "",
+   "address": "38-6 Tianmu East Road, Shilin District, Taipei, 111, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/saffron"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/saffron",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sinchao-rice-shoppe",
+   "city_id": "taipei-tw",
+   "slug": "sinchao-rice-shoppe",
+   "name": "Sinchao Rice Shoppe",
+   "website": "",
+   "address": "2F, Breeze Xin Yi, 68, Section 5, Zhongxiao East Road, Xinyi District, Taipei, 110, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sinchao-rice-shoppe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sinchao-rice-shoppe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/soft-power",
+   "city_id": "taipei-tw",
+   "slug": "soft-power",
+   "name": "Soft Power",
+   "website": "",
+   "address": "21, Alley 30, Lane 135, Section 2, Minquan East Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/soft-power"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/soft-power",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/su-lai-chuan",
+   "city_id": "taipei-tw",
+   "slug": "su-lai-chuan",
+   "name": "Su Lai Chuan",
+   "website": "",
+   "address": "4, Lane 176, Section 3, Heping West Road, Wanhua District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/su-lai-chuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/su-lai-chuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/tableau-by-craig-yang",
+   "city_id": "taipei-tw",
+   "slug": "tableau-by-craig-yang",
+   "name": "Tableau by Craig Yang",
+   "website": "",
+   "address": "33, Lane 78, Section 1, Anhe Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tableau-by-craig-yang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tableau-by-craig-yang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/talking-heads",
+   "city_id": "taipei-tw",
+   "slug": "talking-heads",
+   "name": "Talking Heads",
+   "website": "",
+   "address": "25 Siwei Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/talking-heads"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/talking-heads",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/toriaezu-curry",
+   "city_id": "taipei-tw",
+   "slug": "toriaezu-curry",
+   "name": "Toriaezu Curry",
+   "website": "",
+   "address": "146 Sanmin Road, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/toriaezu-curry"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/toriaezu-curry",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Curry",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/tsui-feng-yuan",
+   "city_id": "taipei-tw",
+   "slug": "tsui-feng-yuan",
+   "name": "Tsui Feng Yuan",
+   "website": "",
+   "address": "5, Lane 8, Section 3, Bade Road, Songshan District, Taipei, 105, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tsui-feng-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tsui-feng-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/unnamed-clay-oven-roll",
+   "city_id": "taipei-tw",
+   "slug": "unnamed-clay-oven-roll",
+   "name": "Unnamed Clay Oven Roll",
+   "website": "",
+   "address": "Nanjichang Night Market, Stall 74, Lane 311, Section 2, Zhonghua Road, Zhongzheng District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/unnamed-clay-oven-roll"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/unnamed-clay-oven-roll",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/wu-wang-tsai-chi",
+   "city_id": "taipei-tw",
+   "slug": "wu-wang-tsai-chi",
+   "name": "Wu Wang Tsai Chi",
+   "website": "",
+   "address": "Nanjichang Night Market, 29, Lane 313, Section 2, Zhonghua Road, Zhongzheng District, Taipei, 100, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/wu-wang-tsai-chi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/wu-wang-tsai-chi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/yu-yu-1969",
+   "city_id": "taipei-tw",
+   "slug": "yu-yu-1969",
+   "name": "Yu Yu 1969",
+   "website": "",
+   "address": "48 Liaoning Street, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yu-yu-1969"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yu-yu-1969",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/yuan-fang-guabao",
+   "city_id": "taipei-tw",
+   "slug": "yuan-fang-guabao",
+   "name": "Yuan Fang Guabao",
+   "website": "",
+   "address": "Huaxi Street Night Market, Stall 161, 17-2 Huaxi Street, Wanhua District, Taipei, 108, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yuan-fang-guabao"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yuan-fang-guabao",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/antico-forno",
+   "city_id": "taipei-tw",
+   "slug": "antico-forno",
+   "name": "Antico Forno",
+   "website": "",
+   "address": "141 Rui'an Street, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/antico-forno"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/antico-forno",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/baho-daan",
+   "city_id": "taipei-tw",
+   "slug": "baho-daan",
+   "name": "Baho (Da'an)",
+   "website": "",
+   "address": "4, Lane 102, Section 1, Anhe Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/baho"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/baho",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/brise",
+   "city_id": "taipei-tw",
+   "slug": "brise",
+   "name": "Brisé",
+   "website": "",
+   "address": "8 Lane 92, Section 1, Jianguo North Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/brise"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/brise",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/chaud-doux",
+   "city_id": "taipei-tw",
+   "slug": "chaud-doux",
+   "name": "Chaud Doux",
+   "website": "",
+   "address": "11 Alley 6, Lane 113, Section 3, Minsheng East Road, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chaud-doux"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chaud-doux",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/cheng-jia",
+   "city_id": "taipei-tw",
+   "slug": "cheng-jia",
+   "name": "Cheng Jia",
+   "website": "",
+   "address": "6, Lane 92, Section 2, Minquan East Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/cheng-jia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/cheng-jia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/chuan-mu-yuan",
+   "city_id": "taipei-tw",
+   "slug": "chuan-mu-yuan",
+   "name": "Chuan Mu Yuan",
+   "website": "",
+   "address": "120, Section 2, Chengde Road, Datong District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chuan-mu-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/chuan-mu-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/fon-ce",
+   "city_id": "taipei-tw",
+   "slug": "fon-ce",
+   "name": "Fon-Cé",
+   "website": "",
+   "address": "15, Lane 233, Section 1, Dunhua South Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/fon-ce"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/fon-ce",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Latin American",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/gi-yuan",
+   "city_id": "taipei-tw",
+   "slug": "gi-yuan",
+   "name": "Gi Yuan",
+   "website": "",
+   "address": "324, Section 1, Dunhua South Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/gi-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/gi-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/good-friend-cold-noodles",
+   "city_id": "taipei-tw",
+   "slug": "good-friend-cold-noodles",
+   "name": "Good Friend Cold Noodles",
+   "website": "",
+   "address": "Shilin Night Market, 31 Danan Road, Shilin District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/good-friend-cold-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/good-friend-cold-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/halal-chinese-beef-noodles-daan",
+   "city_id": "taipei-tw",
+   "slug": "halal-chinese-beef-noodles-daan",
+   "name": "Halal Chinese Beef Noodles (Da'an)",
+   "website": "",
+   "address": "1, Alley 7, Lane 137, Yanji Street, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/halal-chinese-beef-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/halal-chinese-beef-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/izmir-turk-kitchen",
+   "city_id": "taipei-tw",
+   "slug": "izmir-turk-kitchen",
+   "name": "Izmir Turk Kitchen",
+   "website": "",
+   "address": "14, Lane 147, Section 1, Kee Lung Road, Xinyi District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/izmir-turk-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/izmir-turk-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Turkish",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/komboi",
+   "city_id": "taipei-tw",
+   "slug": "komboi",
+   "name": "Komboi",
+   "website": "",
+   "address": "28, Lane 270, Section 1, Dunhua South Road, Da’an District, Taipei, 10685, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/komboi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/komboi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Modern Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/kou-gyu-rou",
+   "city_id": "taipei-tw",
+   "slug": "kou-gyu-rou",
+   "name": "Kou Gyu Rou",
+   "website": "",
+   "address": "6 Minle Street, Datong District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kou-gyu-rou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kou-gyu-rou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/lin",
+   "city_id": "taipei-tw",
+   "slug": "lin",
+   "name": "Lin",
+   "website": "",
+   "address": "6, Alley 25, Lane 300, Section 4, Ren’ai Road, Da’an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/lin-ju",
+   "city_id": "taipei-tw",
+   "slug": "lin-ju",
+   "name": "Lin Ju",
+   "website": "",
+   "address": "100 Dunhua North Road, Shongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lin-ju"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lin-ju",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/lins-vegetable-lamb-hotpot",
+   "city_id": "taipei-tw",
+   "slug": "lins-vegetable-lamb-hotpot",
+   "name": "Lin's Vegetable Lamb Hotpot",
+   "website": "",
+   "address": "327 Jilin Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lin-s-vegetable-lamb-hotpot"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/lin-s-vegetable-lamb-hotpot",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hotpot",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/mochi-baby",
+   "city_id": "taipei-tw",
+   "slug": "mochi-baby",
+   "name": "Mochi Baby",
+   "website": "",
+   "address": "111 Raohe Street, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mochi-baby"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mochi-baby",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/muji-beef-noodles",
+   "city_id": "taipei-tw",
+   "slug": "muji-beef-noodles",
+   "name": "Muji Beef Noodles",
+   "website": "",
+   "address": "239 Wuxing Street, Xinyi District, Taipei, 110, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/muji-beef-noodles"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/muji-beef-noodles",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/rong-rong-yuan",
+   "city_id": "taipei-tw",
+   "slug": "rong-rong-yuan",
+   "name": "Rong Rong Yuan",
+   "website": "",
+   "address": "2F, 25, Section 4, Xinyi Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/rong-rong-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/rong-rong-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Zhejiang",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sansan-bistro",
+   "city_id": "taipei-tw",
+   "slug": "sansan-bistro",
+   "name": "Sansan Bistro",
+   "website": "",
+   "address": "170, Section 2, Dunhua South Road, Da'an District, Taipei, 106033, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sansan-bistro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sansan-bistro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sasa",
+   "city_id": "taipei-tw",
+   "slug": "sasa",
+   "name": "Sasa",
+   "website": "",
+   "address": "6, Lane 42, Section 2, Zhongshan North Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sasa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sasa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/set",
+   "city_id": "taipei-tw",
+   "slug": "set",
+   "name": "Set.",
+   "website": "",
+   "address": "110, Section 2, Chengde Road, Datong District, Taipei, 103, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/set"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/set",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/shih-chia-big-rice-ball",
+   "city_id": "taipei-tw",
+   "slug": "shih-chia-big-rice-ball",
+   "name": "Shih Chia Big Rice Ball",
+   "website": "",
+   "address": "58, Section 3, Yanping North Road, Datong District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/shih-chia-big-rice-ball"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/shih-chia-big-rice-ball",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sushi-kaori",
+   "city_id": "taipei-tw",
+   "slug": "sushi-kaori",
+   "name": "Sushi Kaori",
+   "website": "",
+   "address": "10, Lane 458, Linsen North Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-kaori"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-kaori",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sushi-nomura",
+   "city_id": "taipei-tw",
+   "slug": "sushi-nomura",
+   "name": "Sushi Nomura",
+   "website": "",
+   "address": "4, Alley 19, Lane 300, Section 4, Ren'ai Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-nomura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-nomura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sushi-touryuumon",
+   "city_id": "taipei-tw",
+   "slug": "sushi-touryuumon",
+   "name": "Sushi Touryuumon",
+   "website": "",
+   "address": "16, Alley 27, Lane 216, Zhongxiao East Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-touryuumon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-touryuumon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/tajimaya-shabu-shabu",
+   "city_id": "taipei-tw",
+   "slug": "tajimaya-shabu-shabu",
+   "name": "Tajimaya Shabu Shabu",
+   "website": "",
+   "address": "5F, THE ARCADE, 166 Dunhua North Road, Songshan District, Taipei, 105, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tajimaya-shabu-shabu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tajimaya-shabu-shabu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shabu-shabu",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/tempura-sugimura",
+   "city_id": "taipei-tw",
+   "slug": "tempura-sugimura",
+   "name": "Tempura Sugimura",
+   "website": "",
+   "address": "2F, Marriott Midtown,199 Lequn 2nd Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tempura-sugimura"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tempura-sugimura",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Tempura",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/uke",
+   "city_id": "taipei-tw",
+   "slug": "uke",
+   "name": "Uke",
+   "website": "",
+   "address": "37, Lane 78, Section 1, Anhe Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/uke"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/uke",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/wamaki",
+   "city_id": "taipei-tw",
+   "slug": "wamaki",
+   "name": "Wamaki",
+   "website": "",
+   "address": "1, Lane 36, Section 2, Changan East Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/wamaki"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/wamaki",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/xiao-ping-kitchen-zhongshan",
+   "city_id": "taipei-tw",
+   "slug": "xiao-ping-kitchen-zhongshan",
+   "name": "Xiao Ping Kitchen (Zhongshan)",
+   "website": "",
+   "address": "130 Zhongyuan Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/xiao-ping-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/xiao-ping-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/yuan-huan-pien-oyster-egg-omelette",
+   "city_id": "taipei-tw",
+   "slug": "yuan-huan-pien-oyster-egg-omelette",
+   "name": "Yuan Huan Pien Oyster Egg Omelette",
+   "website": "",
+   "address": "Ningxia Night Market, 46 Ningxia Road, Datong District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yuan-huan-pien-oyster-egg-omelette"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yuan-huan-pien-oyster-egg-omelette",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Street Food",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/yuu",
+   "city_id": "taipei-tw",
+   "slug": "yuu",
+   "name": "Yuu",
+   "website": "",
+   "address": "15, Alley 33, Lane 216, Section 4, Zhongxiao East Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yuu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yuu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/zaap",
+   "city_id": "taipei-tw",
+   "slug": "zaap",
+   "name": "Zaap",
+   "website": "",
+   "address": "6, Lane 345, Wuxing Street, Xinyi District, Taipei, 110, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/zaap"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/zaap",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/fumee",
+   "city_id": "taipei-tw",
+   "slug": "fumee",
+   "name": "fumée",
+   "website": "",
+   "address": "B3, Regent Hotel, 3, Lane 39, Section 2, Zhongshan North Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/fumee"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/fumee",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Yakitori",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ecru",
+   "city_id": "taipei-tw",
+   "slug": "ecru",
+   "name": "ÉCRU",
+   "website": "",
+   "address": "19, Lane 177, Section 1, Dunhua South Road, Da’an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ecru"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ecru",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/tairroir",
+   "city_id": "taipei-tw",
+   "slug": "tairroir",
+   "name": "Taïrroir",
+   "website": "https://www.tairroir.com/",
+   "address": "6F, 299 Lequn 3rd Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Three Stars",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tairroir"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tairroir",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/eika",
+   "city_id": "taipei-tw",
+   "slug": "eika",
+   "name": "Eika",
+   "website": "https://eika.tw",
+   "address": "58 Minle Street, Datong District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/eika"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/eika",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/mizue",
+   "city_id": "taipei-tw",
+   "slug": "mizue",
+   "name": "Mizue",
+   "website": "https://capellahotels.com/zh-tc/capella-taipei/dining",
+   "address": "2F, Capella, 139 Dunhua North Road, Songshan District, Taipei, 105021, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mizue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mizue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/mudan",
+   "city_id": "taipei-tw",
+   "slug": "mudan",
+   "name": "Mudan",
+   "website": "https://mudantempura.com",
+   "address": "17, Lane 52, Siwei Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mudan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mudan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Tempura",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/nobuo",
+   "city_id": "taipei-tw",
+   "slug": "nobuo",
+   "name": "NOBUO",
+   "website": "https://Nobuo.tw",
+   "address": "8 Tai'an Street, Zhongzheng District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/nobuo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/nobuo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/logy",
+   "city_id": "taipei-tw",
+   "slug": "logy",
+   "name": "logy",
+   "website": "https://logy.tw",
+   "address": "39, Lane 258, Ruiguang Road, Neihu District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/logy"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/logy",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Asian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ad-astra",
+   "city_id": "taipei-tw",
+   "slug": "ad-astra",
+   "name": "Ad Astra",
+   "website": "https://www.adastra.com.tw",
+   "address": "23, Lane 45, Section 2, Zhongshan North Road, Zhongshan District, Taipei, 10450, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ad-astra-1206669"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ad-astra-1206669",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/fujin-tree-taiwanese-cuisine-champagne-songshan",
+   "city_id": "taipei-tw",
+   "slug": "fujin-tree-taiwanese-cuisine-champagne-songshan",
+   "name": "Fujin Tree Taiwanese Cuisine & Champagne (Songshan)",
+   "website": "https://www.fujintreeshop.com/",
+   "address": "17, Lane 199, Dunhua North Road, Songshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/fujin-tree-taiwanese-cuisine-champagne-songshan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/fujin-tree-taiwanese-cuisine-champagne-songshan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/mume",
+   "city_id": "taipei-tw",
+   "slug": "mume",
+   "name": "Mume",
+   "website": "https://www.mume.tw",
+   "address": "28 Siwei Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mume"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/mume",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sushi-kajin",
+   "city_id": "taipei-tw",
+   "slug": "sushi-kajin",
+   "name": "Sushi Kajin",
+   "website": "https://www.sushi-kajin.com",
+   "address": "28 Jilin Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-kajin"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sushi-kajin",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sushi",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ya-ge",
+   "city_id": "taipei-tw",
+   "slug": "ya-ge",
+   "name": "Ya Ge",
+   "website": "https://www.mandarinoriental.com/en/taipei/songshan/dine/ya-ge",
+   "address": "3F, Mandarin Oriental Hotel, 158 Dunhua North Road, Songshan District, Taipei, 105, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ya-ge"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ya-ge",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/amaze",
+   "city_id": "taipei-tw",
+   "slug": "amaze",
+   "name": "aMaze",
+   "website": "https://www.amaze598.com/",
+   "address": "598 Mingshui Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/amaze"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/amaze",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/de-nuit",
+   "city_id": "taipei-tw",
+   "slug": "de-nuit",
+   "name": "de nuit",
+   "website": "https://www.denuit.com.tw",
+   "address": "175, Section 4, Xinyi Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/de-nuit"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/de-nuit",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/din-tai-fung-xinyi-road",
+   "city_id": "taipei-tw",
+   "slug": "din-tai-fung-xinyi-road",
+   "name": "Din Tai Fung (Xinyi Road)",
+   "website": "https://www.dintaifung.com.tw/eng/index.php",
+   "address": "277, Section 2, Xinyi Road, Da'an District, Taipei, 110, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/din-tai-fung-xinyi-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/din-tai-fung-xinyi-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Shanghainese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/hugh-dessert-dining",
+   "city_id": "taipei-tw",
+   "slug": "hugh-dessert-dining",
+   "name": "HUGH dessert dining",
+   "website": "https://hughdessert.com/dining",
+   "address": "56, Lane 136, Section 3, Chongqing North Road, Datong District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hugh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hugh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Creative",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/hang-zhou-xiao-long-bao-daan",
+   "city_id": "taipei-tw",
+   "slug": "hang-zhou-xiao-long-bao-daan",
+   "name": "Hang Zhou Xiao Long Bao (Da'an)",
+   "website": "https://www.thebestxiaolongbao.com/",
+   "address": "17 & 19, Section 2, Hangzhou South Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hang-zhou-xiao-long-bao-da-an"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hang-zhou-xiao-long-bao-da-an",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Dim Sum",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/little-tree-food-daan-road",
+   "city_id": "taipei-tw",
+   "slug": "little-tree-food-daan-road",
+   "name": "Little Tree Food (Da'an Road)",
+   "website": "https://www.littletreefood.com",
+   "address": "17, Lane 116, Section 1, Da'an Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/little-tree-food-da-an-road"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/little-tree-food-da-an-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/little-tree-food-da-an-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/moonmoonfood-qingdao-east-road",
+   "city_id": "taipei-tw",
+   "slug": "moonmoonfood-qingdao-east-road",
+   "name": "MoonMoonFood (Qingdao East Road)",
+   "website": "https://www.moonmoonfood.com",
+   "address": "6-2 Qingdao East Road, Zhongzheng District, Taipei, 100, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/shuang-yue-food"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/shuang-yue-food",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sung-chu-yuan",
+   "city_id": "taipei-tw",
+   "slug": "sung-chu-yuan",
+   "name": "Sung Chu Yuan",
+   "website": "https://www.28616261.com.tw",
+   "address": "546 Yonggong Road, Shilin District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sung-chu-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sung-chu-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/wangs-broth",
+   "city_id": "taipei-tw",
+   "slug": "wangs-broth",
+   "name": "Wang's Broth",
+   "website": "https://wangsbroth.com",
+   "address": "Huaxi Street Night Market, Stall 153, 17-4 Huaxi Street, Wanhua District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hsiao-wang-steamed-minced-pork-with-pickles-in-broth"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hsiao-wang-steamed-minced-pork-with-pickles-in-broth",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/yi-jia-zi",
+   "city_id": "taipei-tw",
+   "slug": "yi-jia-zi",
+   "name": "Yi Jia Zi",
+   "website": "https://home.yi-jia-zi.com/",
+   "address": "79 Kangding Road, Wanhua District, Taipei, 108, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yi-jia-zi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/yi-jia-zi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Small eats",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "taipei-tw/a-cheng-goose-zhongshan",
+   "city_id": "taipei-tw",
+   "slug": "a-cheng-goose-zhongshan",
+   "name": "A Cheng Goose (Zhongshan)",
+   "website": "https://www.acheng.com.tw/",
+   "address": "162 Jilin Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/a-cheng-goose-zhongshan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/a-cheng-goose-zhongshan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/aleisha",
+   "city_id": "taipei-tw",
+   "slug": "aleisha",
+   "name": "Aleisha",
+   "website": "https://www.aleisha.tw",
+   "address": "16, Alley 4, Lane 217, Section 3, Zhongxiao East Road, Da’an District, Taipei, 106080, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/aleisha"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/aleisha",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Mediterranean Cuisine",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/bencotto",
+   "city_id": "taipei-tw",
+   "slug": "bencotto",
+   "name": "Bencotto",
+   "website": "https://www.mandarinoriental.com/en/taipei/songshan/dine/bencotto",
+   "address": "6F, Mandarin Oriental Hotel, 158 Dunhua North Road, Songshan District, Taipei, 105, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/bencotto"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/bencotto",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/dannys-steakhouse",
+   "city_id": "taipei-tw",
+   "slug": "dannys-steakhouse",
+   "name": "Danny's Steakhouse",
+   "website": "https://www.danhouse.com.tw/en/",
+   "address": "58 Lequn 3rd Road, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/danny-s-steakhouse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/danny-s-steakhouse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Steakhouse",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/dasuke",
+   "city_id": "taipei-tw",
+   "slug": "dasuke",
+   "name": "Dasuke",
+   "website": "https://tw.sakemaru.me/pages/dasuke",
+   "address": "375-2 Siwei Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/dasuke"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/dasuke",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/embers",
+   "city_id": "taipei-tw",
+   "slug": "embers",
+   "name": "EMBERS",
+   "website": "https://www.embersdining.com",
+   "address": "24, Lane 122, Section 4, Ren-Ai Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/embers"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/embers"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/embers",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Taiwanese contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/ephernite",
+   "city_id": "taipei-tw",
+   "slug": "ephernite",
+   "name": "Ephernité",
+   "website": "https://ephernite.com",
+   "address": "233, Section 2, Anhe Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ephernite"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/ephernite",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/hijo",
+   "city_id": "taipei-tw",
+   "slug": "hijo",
+   "name": "Hijo",
+   "website": "https://www.hijo.com.tw",
+   "address": "170, Section 2, Chang'an East Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hijo"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/hijo",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Seafood",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/koichiro",
+   "city_id": "taipei-tw",
+   "slug": "koichiro",
+   "name": "KOICHIRO",
+   "website": "https://koichiro.com.tw/",
+   "address": "5F, 301 Lequn 3rd Road, Zhongshan District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/koichiro"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/koichiro",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/kur",
+   "city_id": "taipei-tw",
+   "slug": "kur",
+   "name": "KUR",
+   "website": "https://kur.tw",
+   "address": "6, Lane 109, Section 1, Anhe Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kur"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/kur",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Japanese Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/may-snow-hakka-food",
+   "city_id": "taipei-tw",
+   "slug": "may-snow-hakka-food",
+   "name": "May Snow Hakka Food",
+   "website": "https://www.maysnow.com.tw",
+   "address": "16, Lane 329, Section 1, Dunhua South Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/may-snow-hakka-food"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/may-snow-hakka-food",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hakkanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/pei-full",
+   "city_id": "taipei-tw",
+   "slug": "pei-full",
+   "name": "PEI FULL",
+   "website": "https://www.unitedhotel.com.tw/dining/page/1",
+   "address": "2F, United Hotel, 200 Guangfu South Road, Da’an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/pei-full"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/pei-full",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Jiangzhe",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/rong-ju",
+   "city_id": "taipei-tw",
+   "slug": "rong-ju",
+   "name": "Rong Ju",
+   "website": "https://capellahotels.com/capella-taipei/dining/rong-ju",
+   "address": "Capella, 139 Dunhua North Road, Songshan District, Taipei, 105021, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/rong-ju"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/rong-ju",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/sate-house",
+   "city_id": "taipei-tw",
+   "slug": "sate-house",
+   "name": "Sate House",
+   "website": "https://satehouse.eatingout.com.tw/",
+   "address": "15 Leli Road, Da'an District, Taipei, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sate-house"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/sate-house",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Indonesian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/thai-thai",
+   "city_id": "taipei-tw",
+   "slug": "thai-thai",
+   "name": "Thai & Thai",
+   "website": "https://www.thaiandthai.com.tw/",
+   "address": "5F, THE ARCADE, 158 Dunhua North Road, Songshan District, Taipei, 105, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/thai-thai"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/thai-thai",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/the-dragon",
+   "city_id": "taipei-tw",
+   "slug": "the-dragon",
+   "name": "The Dragon",
+   "website": "https://www.marriott.com/en-us/hotels/tpest-sheraton-grand-taipei-hotel/dining",
+   "address": "B1, Sheraton Grand Hotel, 12, Section 1, Zhongxiao East Road, Zhongzheng District, Taipei, 100, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/the-dragon"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/the-dragon",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/tutto-bello",
+   "city_id": "taipei-tw",
+   "slug": "tutto-bello",
+   "name": "Tutto Bello",
+   "website": "https://www.tuttobello.com.tw",
+   "address": "15, Lane 25, Shuangcheng Street, Zhongshan District, Taipei, 104, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tutto-bello"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/tutto-bello",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Italian Contemporary",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "taipei-tw/vanne-yakiniku",
+   "city_id": "taipei-tw",
+   "slug": "vanne-yakiniku",
+   "name": "Vanne Yakiniku",
+   "website": "https://www.minamiaoyama-fan-yakiniku.com.tw",
+   "address": "2F, 235, Section 1, Dunhua South Road, Da'an District, Taipei, 106, Taiwan",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/taipei-region/taipei/restaurant/vanne-yakiniku"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/taipei-region/taipei/restaurant/vanne-yakiniku",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Barbecue",
+   "price_tier": "$$$"
+  }
+ ]
+}

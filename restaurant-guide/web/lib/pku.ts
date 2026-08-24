@@ -28,9 +28,12 @@ export function loadPkuFile(): PkuFile {
 export function loadPkuRestaurant(slug: string): PkuRestaurant | undefined {
   const restaurant = loadRestaurant(slug);
   const keys = new Set(
-    [slug, restaurant?.slug, ...(restaurant?.aliases ?? [])].filter(
-      (s): s is string => Boolean(s),
-    ),
+    [
+      slug,
+      restaurant?.slug,
+      restaurant?.chain,
+      ...(restaurant?.aliases ?? []),
+    ].filter((s): s is string => Boolean(s)),
   );
   return loadPkuFile().restaurants.find((r) => keys.has(r.slug));
 }
@@ -104,10 +107,18 @@ export function loadPkuCards(
     .map((restaurant) => {
       const entry =
         pkuBySlug.get(restaurant.slug) ??
+        (restaurant.chain ? pkuBySlug.get(restaurant.chain) : undefined) ??
         restaurant.aliases?.map((alias) => pkuBySlug.get(alias)).find(Boolean);
       return { restaurant, entry, score: scorePku(entry, restaurant) };
     })
-    .filter((card) => !requirePicks || (card.entry?.picks.length ?? 0) > 0)
+    .filter((card) => {
+      if (!requirePicks) return true;
+      if ((card.entry?.picks.length ?? 0) > 0) return true;
+      return (
+        card.restaurant.provenance?.source === "operator_import" &&
+        Boolean(card.restaurant.menu_urls?.length)
+      );
+    })
     .sort((a, b) => {
       if (b.score.total !== a.score.total) return b.score.total - a.score.total;
       if (b.score.mains !== a.score.mains) return b.score.mains - a.score.mains;

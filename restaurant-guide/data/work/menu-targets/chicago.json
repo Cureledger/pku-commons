@@ -1,0 +1,1228 @@
+[
+  {
+    "name": "Smyth",
+    "slug": "smyth",
+    "city_id": "chicago-il-us",
+    "website": "https://www.smythandtheloyalist.com/",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "177 N. Ada St., Chicago, IL, 60607, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Alinea",
+    "slug": "alinea",
+    "city_id": "chicago-il-us",
+    "website": "https://www.alinearestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "1723 N. Halsted St., Chicago, IL, 60614, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Ever",
+    "slug": "ever",
+    "city_id": "chicago-il-us",
+    "website": "https://www.ever-restaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "1340 W. Fulton St., Chicago, IL, 60607, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kasama",
+    "slug": "kasama",
+    "city_id": "chicago-il-us",
+    "website": "https://www.kasamachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "1001 N. Winchester Ave., Chicago, IL, 60622, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Oriole",
+    "slug": "oriole",
+    "city_id": "chicago-il-us",
+    "website": "https://www.oriolechicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "661 W. Walnut St., Chicago, IL, 60661, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Boka",
+    "slug": "boka",
+    "city_id": "chicago-il-us",
+    "website": "https://www.bokachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1729 N. Halsted St., Chicago, IL, 60614, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Cariño",
+    "slug": "carino",
+    "city_id": "chicago-il-us",
+    "website": "https://www.carinochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "4662 N. Broadway, Chicago, IL, 60640, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "EL Ideas",
+    "slug": "el-ideas",
+    "city_id": "chicago-il-us",
+    "website": "https://www.elideas.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2419 W. 14th St., Chicago, IL, 60608, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Elske",
+    "slug": "elske",
+    "city_id": "chicago-il-us",
+    "website": "https://www.elskerestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1350 W. Randolph Ave., Chicago, IL, 60607, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Esmé",
+    "slug": "esme",
+    "city_id": "chicago-il-us",
+    "website": "https://www.esmechicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2200 N. Clark St., Chicago, IL, 60614, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Feld",
+    "slug": "feld",
+    "city_id": "chicago-il-us",
+    "website": "https://www.feldrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star",
+      "Green Star"
+    ],
+    "address": "2018 W. Chicago Ave., Chicago, IL, 60622, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Galit",
+    "slug": "galit",
+    "city_id": "chicago-il-us",
+    "website": "https://www.galitrestaurant.com",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2429 N. Lincoln Ave., Chicago, IL, 60614, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Indienne",
+    "slug": "indienne",
+    "city_id": "chicago-il-us",
+    "website": "https://indiennechicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "217 W. Huron St., Chicago, IL, 60654, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Mako",
+    "slug": "mako",
+    "city_id": "chicago-il-us",
+    "website": "https://www.makochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "731 W. Lake St., Chicago, IL, 60661, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Moody Tongue",
+    "slug": "moody-tongue",
+    "city_id": "chicago-il-us",
+    "website": "https://www.moodytongue.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "2515 S. Wabash Ave., Chicago, IL, 60616, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Next",
+    "slug": "next",
+    "city_id": "chicago-il-us",
+    "website": "https://www.nextrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "953 W. Fulton Market, Chicago, IL, 60607, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Schwa",
+    "slug": "schwa",
+    "city_id": "chicago-il-us",
+    "website": "https://schwarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "1466 N. Ashland Ave., Chicago, IL, 60662, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sepia",
+    "slug": "sepia",
+    "city_id": "chicago-il-us",
+    "website": "https://www.sepiachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "123 N. Jefferson St., Chicago, IL, 60661, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Topolobampo",
+    "slug": "topolobampo",
+    "city_id": "chicago-il-us",
+    "website": "https://topolochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "445 N. Clark St., Chicago, IL, 60654, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Birrieria Zaragoza",
+    "slug": "birrieria-zaragoza",
+    "city_id": "chicago-il-us",
+    "website": "https://www.birrieriazaragoza.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4852 S. Pulaski Rd., Chicago, IL, 60632, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Boonie's",
+    "slug": "boonies",
+    "city_id": "chicago-il-us",
+    "website": "https://www.booniefoods.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4337 N. Western Ave., Chicago, IL, 60618, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Cellar Door Provisions",
+    "slug": "cellar-door-provisions",
+    "city_id": "chicago-il-us",
+    "website": "https://www.cellardoorprovisions.com",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3025 W. Diversey Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chef’s Special Cocktail Bar",
+    "slug": "chefs-special-cocktail-bar",
+    "city_id": "chicago-il-us",
+    "website": "https://chefsspecialbar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2165 N. Western Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chilam Balam",
+    "slug": "chilam-balam",
+    "city_id": "chicago-il-us",
+    "website": "https://www.chilambalamchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3023 N. Broadway, Chicago, IL, 60657, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ciccio Mio",
+    "slug": "ciccio-mio",
+    "city_id": "chicago-il-us",
+    "website": "https://cicciomio.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "226 W. Kinzie St., Chicago, IL, 60654, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Daisies",
+    "slug": "daisies",
+    "city_id": "chicago-il-us",
+    "website": "https://www.daisieschicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand",
+      "Green Star"
+    ],
+    "address": "2375 Milwaukee Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Frontera Grill",
+    "slug": "frontera-grill",
+    "city_id": "chicago-il-us",
+    "website": "https://www.fronteragrill.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "445 N. Clark St., Chicago, IL, 60654, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Ghin Khao",
+    "slug": "ghin-khao",
+    "city_id": "chicago-il-us",
+    "website": "https://www.ghinkhaochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2128 W. Cermak Rd., Chicago, IL, 60608, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Giant",
+    "slug": "giant",
+    "city_id": "chicago-il-us",
+    "website": "https://www.giantrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3209 W. Armitage Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gilt Bar",
+    "slug": "gilt-bar",
+    "city_id": "chicago-il-us",
+    "website": "https://www.giltbarchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "230 W. Kinzie St., Chicago, IL, 60654, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Girl & The Goat",
+    "slug": "girl-the-goat",
+    "city_id": "chicago-il-us",
+    "website": "https://girlandthegoat.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "809 W. Randolph St., Chicago, IL, 60607, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "HaiSous",
+    "slug": "haisous",
+    "city_id": "chicago-il-us",
+    "website": "https://www.haisous.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1800 S. Carpenter Ave., Chicago, IL, 60608, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kie-Gol-Lanee",
+    "slug": "kie-gol-lanee",
+    "city_id": "chicago-il-us",
+    "website": "https://kiegol.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "5004 N. Sheridan Rd., Chicago, IL, 60640, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lardon",
+    "slug": "lardon",
+    "city_id": "chicago-il-us",
+    "website": "https://www.lardonchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2200 California Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Longman & Eagle",
+    "slug": "longman-eagle",
+    "city_id": "chicago-il-us",
+    "website": "https://www.longmanandeagle.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2657 N. Kedzie Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Lula Cafe",
+    "slug": "lula-cafe",
+    "city_id": "chicago-il-us",
+    "website": "https://www.lulacafe.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2537 N. Kedzie Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mi Tocaya",
+    "slug": "mi-tocaya",
+    "city_id": "chicago-il-us",
+    "website": "https://www.mitocaya.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2800 W. Logan Blvd., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mirra",
+    "slug": "mirra",
+    "city_id": "chicago-il-us",
+    "website": "https://mirrachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1954 W. Armitage Ave., Chicago, IL, 60622, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Mott St.",
+    "slug": "mott-st",
+    "city_id": "chicago-il-us",
+    "website": "https://www.mottstreetchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1401 N. Ashland Ave., Chicago, IL, 60622, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Munno Pizzeria & Bistro",
+    "slug": "munno-pizzeria-bistro",
+    "city_id": "chicago-il-us",
+    "website": "https://www.munnochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "4656 N. Clark St., Chicago, IL, 60640, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nadu",
+    "slug": "nadu",
+    "city_id": "chicago-il-us",
+    "website": "https://www.naduchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2518 N. Lincoln Ave., Chicago, IL, 60614, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Perilla",
+    "slug": "perilla",
+    "city_id": "chicago-il-us",
+    "website": "https://www.perillachicago.com/perilla-fare-overview/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "401 N. Milwaukee Ave., Chicago, IL, 60654, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Pleasant House Pub",
+    "slug": "pleasant-house-pub",
+    "city_id": "chicago-il-us",
+    "website": "https://www.pleasanthousepub.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2119 S. Halstead St., Chicago, IL, 60608, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sifr",
+    "slug": "sifr",
+    "city_id": "chicago-il-us",
+    "website": "https://www.sifrchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "660 N. Orleans St., Chicago, IL, 60654, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sochi",
+    "slug": "sochi",
+    "city_id": "chicago-il-us",
+    "website": "https://www.sochikitchen.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1358 W. Belmont Ave., Chicago, IL, 60657, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Sol de Mexico",
+    "slug": "sol-de-mexico",
+    "city_id": "chicago-il-us",
+    "website": "https://soldemexicochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3018 N. Cicero Ave., Chicago, IL, 60641, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Superkhana International",
+    "slug": "superkhana-international",
+    "city_id": "chicago-il-us",
+    "website": "https://www.superkhanachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "3059 W. Diversey Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Table, Donkey and Stick",
+    "slug": "table-donkey-and-stick",
+    "city_id": "chicago-il-us",
+    "website": "https://www.tabledonkeystick.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2728 W. Armitage Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Taqueria Chingón",
+    "slug": "taqueria-chingon",
+    "city_id": "chicago-il-us",
+    "website": "https://www.taqueriachingon.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "817 W. Fulton Market, Chicago, IL, 60607, USA",
+    "price_tier": "$"
+  },
+  {
+    "name": "Union",
+    "slug": "union",
+    "city_id": "chicago-il-us",
+    "website": "https://www.unionlogansquare.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "2202 N. California Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Virtue",
+    "slug": "virtue",
+    "city_id": "chicago-il-us",
+    "website": "https://www.virtuerestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "1462 E. 53rd St., Chicago, IL, 60615, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Alla Vita",
+    "slug": "alla-vita",
+    "city_id": "chicago-il-us",
+    "website": "https://www.allavitachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "564 W. Randolph St., Chicago, IL, 60661, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Andros Taverna",
+    "slug": "andros-taverna",
+    "city_id": "chicago-il-us",
+    "website": "https://www.androstaverna.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2542 N. Milwaukee Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Anelya",
+    "slug": "anelya",
+    "city_id": "chicago-il-us",
+    "website": "https://www.anelyarestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3472 N. Elston Ave., Chicago, IL, 60618, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Astor Club: Chef's Table",
+    "slug": "astor-club-chefs-table",
+    "city_id": "chicago-il-us",
+    "website": "https://astorclub.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "24 E. Goethe St., Chicago, IL, 60610, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Azul Mariscos + Muelle",
+    "slug": "azul-mariscos-muelle",
+    "city_id": "chicago-il-us",
+    "website": "https://www.azulmariscos.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1177 N. Elston Ave., Chicago, IL, 60642, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bavette’s Bar & Boeuf",
+    "slug": "bavettes-bar-boeuf",
+    "city_id": "chicago-il-us",
+    "website": "https://bavettessteakhouse.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "218 W. Kinzie St., Chicago, IL, 60654, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Bayan Ko",
+    "slug": "bayan-ko",
+    "city_id": "chicago-il-us",
+    "website": "https://bayankochicago.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1810 W. Montrose Ave., Chicago, IL, 60613, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Beity",
+    "slug": "beity",
+    "city_id": "chicago-il-us",
+    "website": "https://www.beitychicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "813 W. Fulton St., Chicago, IL, 60607, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Chez Joël",
+    "slug": "chez-joel",
+    "city_id": "chicago-il-us",
+    "website": "https://www.chezjoelbistro.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1119 W. Taylor St., Chicago, IL, 60607, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chicago Cut",
+    "slug": "chicago-cut",
+    "city_id": "chicago-il-us",
+    "website": "https://www.chicagocutsteakhouse.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "300 N. LaSalle St., Chicago, IL, 60654, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Coalfire",
+    "slug": "coalfire",
+    "city_id": "chicago-il-us",
+    "website": "https://coalfirechicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1321 W. Grand Ave., Chicago, IL, 60622, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Creepies",
+    "slug": "creepies",
+    "city_id": "chicago-il-us",
+    "website": "https://www.creepieschicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1360 W. Randolph St., Chicago, IL, 60607, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Demera",
+    "slug": "demera",
+    "city_id": "chicago-il-us",
+    "website": "https://demerachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "4801 N. Broadway, Chicago, IL, 60640, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Elina's",
+    "slug": "elinas",
+    "city_id": "chicago-il-us",
+    "website": "https://www.elinaschicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1202 W. Grand Ave., Chicago, IL, 60642, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "GG's Chicken Shop",
+    "slug": "ggs-chicken-shop",
+    "city_id": "chicago-il-us",
+    "website": "https://www.ggchickenshop.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3325 N. Southport Ave., Chicago, IL, 60657, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gaijin",
+    "slug": "gaijin",
+    "city_id": "chicago-il-us",
+    "website": "https://gaijinchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "950 W. Lake St., Chicago, IL, 60607, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Hugo’s Frog Bar & Fish House",
+    "slug": "hugos-frog-bar-fish-house",
+    "city_id": "chicago-il-us",
+    "website": "https://www.hugosfrogbar.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1024 N. Rush St., Chicago, IL, 60611, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Ina Mae",
+    "slug": "ina-mae",
+    "city_id": "chicago-il-us",
+    "website": "https://www.inamaetavern.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1415 N. Wood St., Chicago, IL, 60622, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Itoko",
+    "slug": "itoko",
+    "city_id": "chicago-il-us",
+    "website": "https://www.itokochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3325 N. Southport Ave., Chicago, IL, 60657, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Jeong",
+    "slug": "jeong",
+    "city_id": "chicago-il-us",
+    "website": "https://jeongchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1460 W. Chicago Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "John's Food and Wine",
+    "slug": "johns-food-and-wine",
+    "city_id": "chicago-il-us",
+    "website": "https://www.johnsfoodandwine.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2114 N. Halsted St., Chicago, IL, 60614, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kumiko",
+    "slug": "kumiko",
+    "city_id": "chicago-il-us",
+    "website": "https://www.barkumiko.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "630 W. Lake St., Chicago, IL, 60661, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kyoten Next Door",
+    "slug": "kyoten-next-door",
+    "city_id": "chicago-il-us",
+    "website": "https://kyotenrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2513 W. Armitage Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Lou Mitchell's",
+    "slug": "lou-mitchells",
+    "city_id": "chicago-il-us",
+    "website": "https://www.loumitchells.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "565 W. Jackson Blvd., Chicago, IL, 60661, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Maple & Ash",
+    "slug": "maple-ash",
+    "city_id": "chicago-il-us",
+    "website": "https://mapleandash.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "8 W. Maple St., Chicago, IL, 60610, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Maxwells Trading",
+    "slug": "maxwells-trading",
+    "city_id": "chicago-il-us",
+    "website": "https://www.maxwellstrading.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1516 W. Carroll Ave., Chicago, IL, 60607, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Momotaro",
+    "slug": "momotaro",
+    "city_id": "chicago-il-us",
+    "website": "https://www.momotarochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "820 W. Lake St., Chicago, IL, 60607, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Monteverde",
+    "slug": "monteverde",
+    "city_id": "chicago-il-us",
+    "website": "https://monteverdechicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1020 W. Madison St., Chicago, IL, 60607, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "North Pond",
+    "slug": "north-pond",
+    "city_id": "chicago-il-us",
+    "website": "https://northpondrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2610 N. Cannon Dr., Chicago, IL, 60614, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Obélix",
+    "slug": "obelix",
+    "city_id": "chicago-il-us",
+    "website": "https://www.obelixchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "700 N. Sedgwick St., Chicago, IL, 60654, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Oliver's",
+    "slug": "olivers",
+    "city_id": "chicago-il-us",
+    "website": "https://www.eatatolivers.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1639 S. Wabash Ave., Chicago, IL, 60616, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Omakase Yume",
+    "slug": "omakase-yume",
+    "city_id": "chicago-il-us",
+    "website": "https://www.omakaseyume.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "651 W. Washington Blvd., Chicago, IL, 60661, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Osteria Langhe",
+    "slug": "osteria-langhe",
+    "city_id": "chicago-il-us",
+    "website": "https://www.osterialanghe.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2824 W. Armitage Ave., Chicago, IL, 60647, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Pizza Friendly Pizza",
+    "slug": "pizza-friendly-pizza",
+    "city_id": "chicago-il-us",
+    "website": "https://www.pizzafriendlypizza.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1039 N. Western Ave., Chicago, IL, 60622, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Prime & Provisions",
+    "slug": "prime-provisions",
+    "city_id": "chicago-il-us",
+    "website": "https://www.primeandprovisions.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "222 N. LaSalle St., Chicago, IL, 60601, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Provaré",
+    "slug": "provare",
+    "city_id": "chicago-il-us",
+    "website": "https://www.provarechicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1523 W. Chicago Ave., Chicago, IL, 60642, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "ROOP Chicago",
+    "slug": "roop-chicago",
+    "city_id": "chicago-il-us",
+    "website": "https://www.roopchicago.com/roohreservations",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "736 W. Randolph St., Chicago, IL, 60661, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "RPM Steak",
+    "slug": "rpm-steak",
+    "city_id": "chicago-il-us",
+    "website": "https://www.rpmrestaurants.com/rpm-steak-chicago/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "66 W. Kinzie St., Chicago, IL, 60654, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Rose Mary",
+    "slug": "rose-mary",
+    "city_id": "chicago-il-us",
+    "website": "https://www.rosemarychicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "932 W. Fulton Market, Chicago, IL, 60607, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "S.K.Y.",
+    "slug": "s-k-y",
+    "city_id": "chicago-il-us",
+    "website": "https://www.skyrestaurantchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2300 N. Lincoln Park W., Chicago, IL, 60614, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Swift & Sons",
+    "slug": "swift-sons",
+    "city_id": "chicago-il-us",
+    "website": "https://www.swiftandsonschicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1000 W. Fulton Market, Chicago, IL, 60607, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Coach House by Wazwan",
+    "slug": "the-coach-house-by-wazwan",
+    "city_id": "chicago-il-us",
+    "website": "https://www.coachhousechi.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1742 W. Division St., Chicago, IL, 60622, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "The Gundis",
+    "slug": "the-gundis",
+    "city_id": "chicago-il-us",
+    "website": "https://thegundis.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2909 N. Clark St., Chicago, IL, 60657, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Perch",
+    "slug": "the-perch",
+    "city_id": "chicago-il-us",
+    "website": "https://www.perchchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "1932 W. Division St., Chicago, IL, 60622, USA",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Tied House",
+    "slug": "tied-house",
+    "city_id": "chicago-il-us",
+    "website": "https://www.schubastiedhouse.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3157 N. Southport Ave., Chicago, IL, 60657, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Tzuco",
+    "slug": "tzuco",
+    "city_id": "chicago-il-us",
+    "website": "https://www.tzuco.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "720 N. State St., Chicago, IL, 60654, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Valhalla",
+    "slug": "valhalla",
+    "city_id": "chicago-il-us",
+    "website": "https://www.valhallachicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "2020 W. Division St., Chicago, IL, 60622, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Warlord",
+    "slug": "warlord",
+    "city_id": "chicago-il-us",
+    "website": "https://warlordchicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "3198 N. Milwaukee Ave., Chicago, IL, 60618, USA",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Yao Yao",
+    "slug": "yao-yao",
+    "city_id": "chicago-il-us",
+    "website": "https://www.yaoyaochicago.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "230 W. Cermak Rd., Chicago, IL, 60616, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "avec",
+    "slug": "avec",
+    "city_id": "chicago-il-us",
+    "website": "https://www.avecrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "615 W. Randolph St., Chicago, IL, 60661, USA",
+    "price_tier": "$$"
+  },
+  {
+    "name": "mfk.",
+    "slug": "mfk",
+    "city_id": "chicago-il-us",
+    "website": "https://www.mfkrestaurant.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "432 W. Diversey Pkwy., Chicago, IL, 60614, USA",
+    "price_tier": "$$$"
+  }
+]

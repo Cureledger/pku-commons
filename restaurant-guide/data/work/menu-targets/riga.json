@@ -1,0 +1,230 @@
+[
+  {
+    "name": "JOHN Chef's Hall",
+    "slug": "john-chefs-hall",
+    "city_id": "riga-lv",
+    "website": "https://jch.johnrestaurant.com/eng",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "A22 Hotel, Ausekļa iela 22, Riga, 1010, Latvia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Max Cekot Kitchen",
+    "slug": "max-cekot-kitchen",
+    "city_id": "riga-lv",
+    "website": "https://maxcekot.com/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Jelgavas iela 42, Riga, 1004, Latvia",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Milda",
+    "slug": "milda",
+    "city_id": "riga-lv",
+    "website": "https://www.restoransmilda.lv",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Grēcinieku iela 26, Riga, 1050, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "SMØR Bistro",
+    "slug": "smoer-bistro",
+    "city_id": "riga-lv",
+    "website": "https://smorbistro.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Krišjāņa Valdemāra iela 27-29, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Shōyu",
+    "slug": "shoyu",
+    "city_id": "riga-lv",
+    "website": "https://www.shoyu.lv",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Ausekļa iela 20, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Snatch",
+    "slug": "snatch",
+    "city_id": "riga-lv",
+    "website": "https://snatch.lv/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Elizabetes iela 39, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "3 Chefs",
+    "slug": "3-chefs",
+    "city_id": "riga-lv",
+    "website": "https://www.3pavari.lv",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Torņa iela 4, Jekaba Arcade 2b, Riga, 1050, Latvia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "BABO",
+    "slug": "babo",
+    "city_id": "riga-lv",
+    "website": "https://babo.lv",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dzirnavu Iela 42, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Chef's Corner Restaurant",
+    "slug": "chefs-corner-restaurant",
+    "city_id": "riga-lv",
+    "website": "https://chefscorner.lv",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Jeruzalemes iela 5, Riga, 1010, Latvia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Entresol",
+    "slug": "entresol",
+    "city_id": "riga-lv",
+    "website": "https://entresol.lv",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Elizabetes iela 22, Riga, 1050, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "LOWINE",
+    "slug": "lowine",
+    "city_id": "riga-lv",
+    "website": "https://www.lowinebar.lv",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dzirnavu iela 43, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Dome",
+    "slug": "le-dome",
+    "city_id": "riga-lv",
+    "website": "https://www.domehotel.lv/en/restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dome Hotel & Spa, Miesnieku iela 4, Riga, 1050, Latvia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Māsa",
+    "slug": "masa",
+    "city_id": "riga-lv",
+    "website": "https://masariga.lv/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dzirnavu iela 31, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Neiburgs",
+    "slug": "neiburgs",
+    "city_id": "riga-lv",
+    "website": "https://neiburgs.com/restaurant",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Neiburgs Hotel, Jauniela 25/27, Riga, 1050, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Riviera",
+    "slug": "riviera",
+    "city_id": "riga-lv",
+    "website": "https://rivierarestorans.lv/restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dzirnavu iela 31, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Seasons",
+    "slug": "seasons",
+    "city_id": "riga-lv",
+    "website": "https://grandpalaceriga.com/restaurant/seasons-restaurant/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Grand Palace Hotel, Pils iela 12, Riga, 1050, Latvia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Stage22",
+    "slug": "stage22",
+    "city_id": "riga-lv",
+    "website": "https://www.kempinski.com/en/grand-hotel-kempinski-riga/restaurants-bars/stage22",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Aspazijas bulvāris 22, Riga, 1050, Latvia",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "The Catch",
+    "slug": "the-catch",
+    "city_id": "riga-lv",
+    "website": "https://thecatch.lv/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dzirnavu iela 34, Riga, 1010, Latvia",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Whitehouse",
+    "slug": "whitehouse",
+    "city_id": "riga-lv",
+    "website": "https://whitehouserestorans.lv",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Vermane Park, Terbatas iela 2, Riga, 1050, Latvia",
+    "price_tier": "$$"
+  }
+]

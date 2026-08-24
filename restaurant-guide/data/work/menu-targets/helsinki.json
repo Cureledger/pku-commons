@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Grön",
+    "slug": "gron",
+    "city_id": "helsinki-fi",
+    "website": "https://www.restaurantgron.com/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Albertinkatu 36, Helsinki, 00180, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Palace",
+    "slug": "palace",
+    "city_id": "helsinki-fi",
+    "website": "https://palacerestaurant.fi/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Eteläranta 10, Helsinki, 00130, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Boreal",
+    "slug": "boreal",
+    "city_id": "helsinki-fi",
+    "website": "https://www.borealhki.fi/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Uudenmaankatu 9, Helsinki, 00120, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Demo",
+    "slug": "demo",
+    "city_id": "helsinki-fi",
+    "website": "https://www.restaurantdemo.fi/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Itämerenkatu 25, Helsinki, 00180, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Finnjävel Salonki",
+    "slug": "finnjavel-salonki",
+    "city_id": "helsinki-fi",
+    "website": "https://www.finnjavel.fi/salonki/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ainonkatu 3, Helsinki, 00100, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "city_id": "helsinki-fi",
+    "website": "https://www.olo-ravintola.fi/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Pohjoisesplanadi 5, Helsinki, 00170, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "305",
+    "slug": "305",
+    "city_id": "helsinki-fi",
+    "website": "https://www.ravintola305.fi",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Toinen linja 3, Helsinki, 00530, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bona Fide",
+    "slug": "bona-fide",
+    "city_id": "helsinki-fi",
+    "website": "https://bonafide.fi/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Vironkatu 8, Helsinki, 00170, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Nolla",
+    "slug": "nolla",
+    "city_id": "helsinki-fi",
+    "website": "https://www.restaurantnolla.com/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Fredrikinkatu 22, Helsinki, 00120, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Aoi",
+    "slug": "aoi",
+    "city_id": "helsinki-fi",
+    "website": "https://www.restaurantaoi.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Neitsytpolku 10, Helsinki, 00140, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Bistro Bardot",
+    "slug": "bistro-bardot",
+    "city_id": "helsinki-fi",
+    "website": "https://www.bardot.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kluuvikatu 1, Helsinki, 00100, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Bistro Ego",
+    "slug": "bistro-ego",
+    "city_id": "helsinki-fi",
+    "website": "https://ego-ravintola.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Korkeavuorenkatu 27, Helsinki, 00140, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Boon Nam",
+    "slug": "boon-nam",
+    "city_id": "helsinki-fi",
+    "website": "https://www.boonnam.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Lönnrotinkatu 4, Helsinki, 00120, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Boulevard",
+    "slug": "boulevard",
+    "city_id": "helsinki-fi",
+    "website": "https://boulevard.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bulevardi 6, Helsinki, 00120, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Café Savoy",
+    "slug": "cafe-savoy",
+    "city_id": "helsinki-fi",
+    "website": "https://cafesavoy.fi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Eteläesplanadi 14, Helsinki, 00 130, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Flor",
+    "slug": "flor",
+    "city_id": "helsinki-fi",
+    "website": "https://www.restaurantflor.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Iso Roobertinkatu 16, Helsinki, 00120, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Gaijin",
+    "slug": "gaijin",
+    "city_id": "helsinki-fi",
+    "website": "https://www.gaijin.fi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bulevardi 6, Helsinki, 00120, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Kuurna",
+    "slug": "kuurna",
+    "city_id": "helsinki-fi",
+    "website": "https://www.kuurna.fi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Meritullinkatu 6, Helsinki, 00170, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Latitude 25",
+    "slug": "latitude-25",
+    "city_id": "helsinki-fi",
+    "website": "https://www.latitude25.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Albertinkatu 19, Helsinki, 00120, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Le Ankka",
+    "slug": "le-ankka",
+    "city_id": "helsinki-fi",
+    "website": "https://www.leankka.fi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Huvilakatu 28, Helsinki, 00150, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Le Coucou Vert",
+    "slug": "le-coucou-vert",
+    "city_id": "helsinki-fi",
+    "website": "https://www.lecoucouvert.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Bulevardi 32, Helsinki, 00120, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Muru",
+    "slug": "muru",
+    "city_id": "helsinki-fi",
+    "website": "https://www.murudining.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Fredrikinkatu 41, Helsinki, 00120, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Natura",
+    "slug": "natura",
+    "city_id": "helsinki-fi",
+    "website": "https://www.restaurantnatura.com/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Iso Roobertinkatu 11, Helsinki, 00120, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Nokka",
+    "slug": "nokka",
+    "city_id": "helsinki-fi",
+    "website": "https://nokkahelsinki.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kanavaranta 7f, Helsinki, 00160, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Savoy",
+    "slug": "savoy",
+    "city_id": "helsinki-fi",
+    "website": "https://savoyhelsinki.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Eteläesplanadi 14, Helsinki, 00130, Finland",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Shelter",
+    "slug": "shelter",
+    "city_id": "helsinki-fi",
+    "website": "https://www.shelter.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kanavaranta 7, Helsinki, 00160, Finland",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Spis",
+    "slug": "spis",
+    "city_id": "helsinki-fi",
+    "website": "https://spis.fi/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kasarmikatu 26, Helsinki, 00130, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vinkkeli",
+    "slug": "vinkkeli",
+    "city_id": "helsinki-fi",
+    "website": "https://www.ravintolavinkkeli.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Pieni Roobertinkatu 8, Helsinki, 00130, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Young Hearts",
+    "slug": "young-hearts",
+    "city_id": "helsinki-fi",
+    "website": "https://www.younghearts.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Runeberginkatu 55, Helsinki, 00260, Finland",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "plein",
+    "slug": "plein",
+    "city_id": "helsinki-fi",
+    "website": "https://www.plein.fi",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Suvannontie 18, Helsinki, 00510, Finland",
+    "price_tier": "$$$"
+  }
+]

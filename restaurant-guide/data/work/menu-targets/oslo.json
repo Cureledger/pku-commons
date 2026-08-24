@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Maaemo",
+    "slug": "maaemo",
+    "city_id": "oslo-no",
+    "website": "https://www.maaemo.no",
+    "menu_urls": [],
+    "awards": [
+      "Three Stars"
+    ],
+    "address": "Dronning Eufemias gate 23, Oslo, 0194, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Kontrast",
+    "slug": "kontrast",
+    "city_id": "oslo-no",
+    "website": "https://www.restaurant-kontrast.no/",
+    "menu_urls": [],
+    "awards": [
+      "Two Stars"
+    ],
+    "address": "Maridalsveien 15, Oslo, 0175, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Credo",
+    "slug": "credo",
+    "city_id": "oslo-no",
+    "website": "https://www.restaurantcredo.no",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "The National Library, Henrik Ibsens Gate 110, Oslo, 0255, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Hot Shop",
+    "slug": "hot-shop",
+    "city_id": "oslo-no",
+    "website": "https://www.restauranthotshop.no",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Københavngata 18, Oslo, 0566, Norway",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Mon Oncle",
+    "slug": "mon-oncle",
+    "city_id": "oslo-no",
+    "website": "https://www.mononcle.no",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Universitetsgata 9, Oslo, 0164, Norway",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "SAVAGE",
+    "slug": "savage",
+    "city_id": "oslo-no",
+    "website": "https://www.restaurantsavage.no/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Nedre Slottsgate 2, Oslo, 0153, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sabi Omakase Oslo",
+    "slug": "sabi-omakase-oslo",
+    "city_id": "oslo-no",
+    "website": "https://www.omakaseoslo.no/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Ruseløkkveien 3, Oslo, 0251, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Stallen",
+    "slug": "stallen",
+    "city_id": "oslo-no",
+    "website": "https://www.restaurantstallen.no/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Underhaugsveien 28, Oslo, 0354, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Statholdergaarden",
+    "slug": "statholdergaarden",
+    "city_id": "oslo-no",
+    "website": "https://www.statholdergaarden.no/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Rådhusgate 11, Oslo, 0151, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "À L'aise",
+    "slug": "a-laise",
+    "city_id": "oslo-no",
+    "website": "https://www.alaise.no/",
+    "menu_urls": [],
+    "awards": [
+      "One Star"
+    ],
+    "address": "Essendrops gate 6, Oslo, 0368, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Frances Vinbar",
+    "slug": "frances-vinbar",
+    "city_id": "oslo-no",
+    "website": "https://www.frances.no",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Henrik Ibsens gate 48, Oslo, 0255, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "The Little Pickle",
+    "slug": "the-little-pickle",
+    "city_id": "oslo-no",
+    "website": "https://www.thelittlepickle.no/",
+    "menu_urls": [],
+    "awards": [
+      "Bib Gourmand"
+    ],
+    "address": "Jens Bjelkes gate 9A, Oslo, 0562, Norway",
+    "price_tier": "$"
+  },
+  {
+    "name": "Arakataka",
+    "slug": "arakataka",
+    "city_id": "oslo-no",
+    "website": "https://www.arakataka.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Mariboes gate 7, Oslo, 0183, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Betong",
+    "slug": "betong",
+    "city_id": "oslo-no",
+    "website": "https://www.restaurantbetong.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Operagata 77D, Oslo, 0194, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Brasserie Blanche",
+    "slug": "brasserie-blanche",
+    "city_id": "oslo-no",
+    "website": "https://www.blanche.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Josefinesgate 23, Oslo, 0351, Norway",
+    "price_tier": "$"
+  },
+  {
+    "name": "Brasserie Hansken",
+    "slug": "brasserie-hansken",
+    "city_id": "oslo-no",
+    "website": "https://www.brasseriehansken.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Christiania torv 4, Oslo, 0158, Norway",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Cru",
+    "slug": "cru",
+    "city_id": "oslo-no",
+    "website": "https://www.cru.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dronning Eufemias gate 6, Oslo, 0191, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Eero",
+    "slug": "eero",
+    "city_id": "oslo-no",
+    "website": "https://www.eero.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Henrik Ibsens gate 48, Oslo, 0255, Norway",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "FYR Bistronomi & Bar",
+    "slug": "fyr-bistronomi-bar",
+    "city_id": "oslo-no",
+    "website": "https://www.fyrbistronomi.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Underhaugsveien 28, Oslo, 0354, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Festningen Restaurant",
+    "slug": "festningen-restaurant",
+    "city_id": "oslo-no",
+    "website": "https://www.festningenrestaurant.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Akerhus Fortress, Myntgata 9, Oslo, 0151, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Izakaya by Vladimir Pak",
+    "slug": "izakaya-by-vladimir-pak",
+    "city_id": "oslo-no",
+    "website": "https://izakayabyvladimirpak.omakasegroup.no/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Kirkegata 1, Oslo, 0153, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Kolonialen Bislett",
+    "slug": "kolonialen-bislett",
+    "city_id": "oslo-no",
+    "website": "https://www.kolonialenbislett.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sofies gate 16, Oslo, 0170, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Madonna",
+    "slug": "madonna",
+    "city_id": "oslo-no",
+    "website": "https://www.madonnaoslo.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Operagata 17, Oslo, 0194, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Plah",
+    "slug": "plah",
+    "city_id": "oslo-no",
+    "website": "https://plah.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Sommerrogata 1, Oslo, 0255, Norway",
+    "price_tier": "$$$$"
+  },
+  {
+    "name": "Sjømagasinet",
+    "slug": "sjoemagasinet",
+    "city_id": "oslo-no",
+    "website": "https://www.sjomagasinet.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Tjuvholmen allé 14, Oslo, 0252, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Smalhans",
+    "slug": "smalhans",
+    "city_id": "oslo-no",
+    "website": "https://www.smalhans.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Ullevålsveien 43, Oslo, 0171, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Statholderens Mat og Vinkjeller",
+    "slug": "statholderens-mat-og-vinkjeller",
+    "city_id": "oslo-no",
+    "website": "https://www.statholdergaarden.no",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Rådhusgate 11, Oslo, 0151, Norway",
+    "price_tier": "$$$"
+  },
+  {
+    "name": "Vaaghals",
+    "slug": "vaaghals",
+    "city_id": "oslo-no",
+    "website": "https://www.vaaghals.com",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dronning Eufemias gate 8, Oslo, 0191, Norway",
+    "price_tier": "$$"
+  },
+  {
+    "name": "Varemottaket",
+    "slug": "varemottaket",
+    "city_id": "oslo-no",
+    "website": "https://polsemakeri.no/varemottaket-restauranten-oslobukta/",
+    "menu_urls": [],
+    "awards": [
+      "Selected"
+    ],
+    "address": "Dronning Eufemias gate 37, Oslo, 0194, Norway",
+    "price_tier": "$$$$"
+  }
+]

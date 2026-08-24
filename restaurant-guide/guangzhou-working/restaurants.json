@@ -1,0 +1,3601 @@
+{
+ "schema_version": "working-v1",
+ "note": "No posted menu. Not shown. A PKU family needs the menu in advance.",
+ "city_id": "guangzhou-cn",
+ "restaurant_count": 92,
+ "restaurants": [
+  {
+   "restaurant_id": "guangzhou-cn/song",
+   "city_id": "guangzhou-cn",
+   "slug": "song",
+   "name": "Song",
+   "website": "",
+   "address": "Shop 417, 4F, G.T. Land Plaza Winter, 16 Zhujiang East Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/song"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/song",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/suyab-courtyardpickmoon-gourmet",
+   "city_id": "guangzhou-cn",
+   "slug": "suyab-courtyardpickmoon-gourmet",
+   "name": "Suyab Courtyard・Pickmoon Gourmet",
+   "website": "",
+   "address": "348 Yingbin Road, Panyu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/suyab-courtyard%E3%83%BBpickmoon-gourmet"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/suyab-courtyard%E3%83%BBpickmoon-gourmet",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/xin-ji",
+   "city_id": "guangzhou-cn",
+   "slug": "xin-ji",
+   "name": "Xin Ji",
+   "website": "",
+   "address": "270 Changdi Damalu, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-ji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-ji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/yong",
+   "city_id": "guangzhou-cn",
+   "slug": "yong",
+   "name": "Yong",
+   "website": "",
+   "address": "Xi'an Garden, 18 Xuguyuan Road, Yuexiu, Guangzhou, 510000, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yong"
+    },
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Green Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yong"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yong",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/yu-garden",
+   "city_id": "guangzhou-cn",
+   "slug": "yu-garden",
+   "name": "Yu Garden",
+   "website": "",
+   "address": "6 Tianshun Road, Huangpu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yu-garden"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yu-garden",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Fujian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/chuang-fa",
+   "city_id": "guangzhou-cn",
+   "slug": "chuang-fa",
+   "name": "Chuang Fa",
+   "website": "",
+   "address": "512-2 Guangfu North Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chuang-fa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chuang-fa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/da-ge-fan-tangxiayong-west-road",
+   "city_id": "guangzhou-cn",
+   "slug": "da-ge-fan-tangxiayong-west-road",
+   "name": "Da Ge Fan (Tangxiayong West Road)",
+   "website": "",
+   "address": "1F, Tian Hui Building, 69 Tangxiayong West Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/da-ge-fan-tangxiayong-west-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/da-ge-fan-tangxiayong-west-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/dai-yong-town",
+   "city_id": "guangzhou-cn",
+   "slug": "dai-yong-town",
+   "name": "Dai Yong Town",
+   "website": "",
+   "address": "59 Tianhe East Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dai-yong-town"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dai-yong-town",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/dayang-wenming-road",
+   "city_id": "guangzhou-cn",
+   "slug": "dayang-wenming-road",
+   "name": "Dayang (Wenming Road)",
+   "website": "",
+   "address": "160-1 Wenming Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dayang-wenming-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dayang-wenming-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/ease-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "ease-yuexiu",
+   "name": "Ease (Yuexiu)",
+   "website": "",
+   "address": "112A, 1F, Newspaper Printing Service Building, 289 Art Park, 289 Guangzhou Middle Avenue, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ease-yuexiu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ease-yuexiu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/enning-liu-fu-ji-donghua-east-road",
+   "city_id": "guangzhou-cn",
+   "slug": "enning-liu-fu-ji-donghua-east-road",
+   "name": "Enning Liu Fu Ji (Donghua East Road)",
+   "website": "",
+   "address": "547 Donghua East Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/enning-liu-fu-ji-donghua-east-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/enning-liu-fu-ji-donghua-east-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/ft-bak-kut-teh-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "ft-bak-kut-teh-yuexiu",
+   "name": "FT · Bak Kut Teh (Yuexiu)",
+   "website": "",
+   "address": "Wonderful Life Mansion, 36-48 Wenming Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ft-bak-kut-teh"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ft-bak-kut-teh",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "South East Asian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/fa-sing-garden-jinsui-road",
+   "city_id": "guangzhou-cn",
+   "slug": "fa-sing-garden-jinsui-road",
+   "name": "Fa Sing Garden (Jinsui Road)",
+   "website": "",
+   "address": "5F, Grand Mercure, 62 Jinsui Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/fa-sing-garden-jinsui-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/fa-sing-garden-jinsui-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/hai-men-yu-zi-dian-yanling-road",
+   "city_id": "guangzhou-cn",
+   "slug": "hai-men-yu-zi-dian-yanling-road",
+   "name": "Hai Men Yu Zi Dian (Yanling Road)",
+   "website": "",
+   "address": "1-2F, Jinyan Mansion, 120 Yanling Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-men-yu-zi-dian-yanling-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-men-yu-zi-dian-yanling-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/hai-xian-jie-cai-guan",
+   "city_id": "guangzhou-cn",
+   "slug": "hai-xian-jie-cai-guan",
+   "name": "Hai Xian Jie Cai Guan",
+   "website": "",
+   "address": "152-2 Haizhu South Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-xian-jie-cai-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-xian-jie-cai-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/hua-ge-si-chu",
+   "city_id": "guangzhou-cn",
+   "slug": "hua-ge-si-chu",
+   "name": "Hua Ge Si Chu",
+   "website": "",
+   "address": "443 Guangfu North Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hua-ge-si-chu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hua-ge-si-chu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/hui-xing-yuan",
+   "city_id": "guangzhou-cn",
+   "slug": "hui-xing-yuan",
+   "name": "Hui Xing Yuan",
+   "website": "",
+   "address": "177 Xiaobei Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hui-xing-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hui-xing-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/hunan-cuisine",
+   "city_id": "guangzhou-cn",
+   "slug": "hunan-cuisine",
+   "name": "Hunan Cuisine",
+   "website": "",
+   "address": "2842-39 East Xingang Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hunan-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hunan-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/jia-yuan",
+   "city_id": "guangzhou-cn",
+   "slug": "jia-yuan",
+   "name": "Jia Yuan",
+   "website": "",
+   "address": "7 Xingrenli, Guangxiao Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jia-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jia-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/jian-ji-liwan",
+   "city_id": "guangzhou-cn",
+   "slug": "jian-ji-liwan",
+   "name": "Jian Ji (Liwan)",
+   "website": "",
+   "address": "299-303 Changshou East Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jian-ji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jian-ji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/lao-xiguan-laifen-wenming-road",
+   "city_id": "guangzhou-cn",
+   "slug": "lao-xiguan-laifen-wenming-road",
+   "name": "Lao Xiguan Laifen (Wenming Road)",
+   "website": "",
+   "address": "216 Wenming Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lao-xiguan-laifen-wenming-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lao-xiguan-laifen-wenming-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/liang-jie-nanning-pumiao-shengzha-mifen",
+   "city_id": "guangzhou-cn",
+   "slug": "liang-jie-nanning-pumiao-shengzha-mifen",
+   "name": "Liang Jie Nanning Pumiao Shengzha Mifen",
+   "website": "",
+   "address": "242 Yinghua Street, Xiaogang Bay, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/liang-jie-nanning-pumiao-shengzha-mifen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/liang-jie-nanning-pumiao-shengzha-mifen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/lingnan-haiyanlou-binjiang-east-road",
+   "city_id": "guangzhou-cn",
+   "slug": "lingnan-haiyanlou-binjiang-east-road",
+   "name": "Lingnan Haiyanlou (Binjiang East Road)",
+   "website": "",
+   "address": "2-3F, Jiangpan Huating, 1040 Binjiang East Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-yan-lou-binjiang-east-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-yan-lou-binjiang-east-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/mamak",
+   "city_id": "guangzhou-cn",
+   "slug": "mamak",
+   "name": "Mamak",
+   "website": "",
+   "address": "Shop 082C, East 1 Street, B1 Level, Fashion Tianhe Plaza, 299 Tianhe Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/mamak"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/mamak",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Malaysian",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/mian-ji-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "mian-ji-yuexiu",
+   "name": "Mian Ji (Yuexiu)",
+   "website": "",
+   "address": "224 Dezheng Middle Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/mian-ji-yuexiu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/mian-ji-yuexiu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/nan-yuan",
+   "city_id": "guangzhou-cn",
+   "slug": "nan-yuan",
+   "name": "Nan Yuan",
+   "website": "",
+   "address": "142 Qianjin Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/nan-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/nan-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/qi-cun-da-tou-hui",
+   "city_id": "guangzhou-cn",
+   "slug": "qi-cun-da-tou-hui",
+   "name": "Qi Cun Da Tou Hui",
+   "website": "",
+   "address": "2F, 20 Haiwen Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/taste-soar-%C3%97-da-tou-hui"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/taste-soar-%C3%97-da-tou-hui",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/rong-yi-fa-niu-za-dian-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "rong-yi-fa-niu-za-dian-yuexiu",
+   "name": "Rong Yi Fa Niu Za Dian (Yuexiu)",
+   "website": "",
+   "address": "56 Shishu Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/rong-yi-fa-niu-za-dian-shishu-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/rong-yi-fa-niu-za-dian-shishu-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/sa-er-ta-dongxiang-shou-zhua",
+   "city_id": "guangzhou-cn",
+   "slug": "sa-er-ta-dongxiang-shou-zhua",
+   "name": "Sa Er Ta Dongxiang Shou Zhua",
+   "website": "",
+   "address": "103 Baohan Zhijie, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/sa-er-ta-dongxiang-shou-zhua"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/sa-er-ta-dongxiang-shou-zhua",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Xibei",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/song-yuan",
+   "city_id": "guangzhou-cn",
+   "slug": "song-yuan",
+   "name": "Song Yuan",
+   "website": "",
+   "address": "A101-201, LYK Park, 14-1 Hedong Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/song-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/song-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/soodle",
+   "city_id": "guangzhou-cn",
+   "slug": "soodle",
+   "name": "Soodle",
+   "website": "",
+   "address": "Shop 309, 3F, Adjoining Building, Kingold Century, 62 Jinsui Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/soodle-jinsui-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/soodle-jinsui-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/stay-here",
+   "city_id": "guangzhou-cn",
+   "slug": "stay-here",
+   "name": "Stay Here",
+   "website": "",
+   "address": "Shop 2, 23 Xigang Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/stay-here"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/stay-here",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/temple-street",
+   "city_id": "guangzhou-cn",
+   "slug": "temple-street",
+   "name": "Temple Street",
+   "website": "",
+   "address": "10 Dongdi Second Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/temple-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/temple-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/tong-ji",
+   "city_id": "guangzhou-cn",
+   "slug": "tong-ji",
+   "name": "Tong Ji",
+   "website": "",
+   "address": "3 Fuguangli, Changshou East Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tong-ji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tong-ji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles and Congee",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/wei-shi-jia",
+   "city_id": "guangzhou-cn",
+   "slug": "wei-shi-jia",
+   "name": "Wei Shi Jia",
+   "website": "",
+   "address": "598 Jiefang North Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wei-shi-jia"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wei-shi-jia",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/wen-ji-yixinji",
+   "city_id": "guangzhou-cn",
+   "slug": "wen-ji-yixinji",
+   "name": "Wen Ji Yixinji",
+   "website": "",
+   "address": "10 Xuanyuanqiao, 76 Baohua Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wen-ji-yixinji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wen-ji-yixinji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/xiang-qun-longjin-east-road",
+   "city_id": "guangzhou-cn",
+   "slug": "xiang-qun-longjin-east-road",
+   "name": "Xiang Qun (Longjin East Road)",
+   "website": "",
+   "address": "853-857 Longjin East Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiang-qun-longjin-east-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiang-qun-longjin-east-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/xiguan-zhuyuan-lizhiwan",
+   "city_id": "guangzhou-cn",
+   "slug": "xiguan-zhuyuan-lizhiwan",
+   "name": "Xiguan Zhuyuan (Lizhiwan)",
+   "website": "",
+   "address": "C4, Phase 2, Lizhiwan Scenic Area, Huangsha Avenue, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiguan-zhuyuan-lizhiwan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiguan-zhuyuan-lizhiwan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/xiguan-zhuyuan-shiba-fu",
+   "city_id": "guangzhou-cn",
+   "slug": "xiguan-zhuyuan-shiba-fu",
+   "name": "Xiguan Zhuyuan (Shiba Fu)",
+   "website": "",
+   "address": "107 Shiba Fu South Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiguan-zhuyuan-shiba-fu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiguan-zhuyuan-shiba-fu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/xin-tai-le-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "xin-tai-le-yuexiu",
+   "name": "Xin Tai Le (Yuexiu)",
+   "website": "",
+   "address": "1-2F, Sino Trade Centre, 65 Panfu Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-tai-le-yuexiu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-tai-le-yuexiu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/xin-wen-ji-panfu-road",
+   "city_id": "guangzhou-cn",
+   "slug": "xin-wen-ji-panfu-road",
+   "name": "Xin Wen Ji (Panfu Road)",
+   "website": "",
+   "address": "1-3F, Sino Trade Centre, 67 Panfu Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-wen-ji-yuexiu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-wen-ji-yuexiu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/xing-fu-yi-zhan-yulei-third-street",
+   "city_id": "guangzhou-cn",
+   "slug": "xing-fu-yi-zhan-yulei-third-street",
+   "name": "Xing Fu Yi Zhan (Yulei Third Street)",
+   "website": "",
+   "address": "8 Yulei Third Street, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xing-fu-yi-zhan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xing-fu-yi-zhan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Sichuan",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/ya-yuan",
+   "city_id": "guangzhou-cn",
+   "slug": "ya-yuan",
+   "name": "Ya Yuan",
+   "website": "",
+   "address": "14 Chaotian Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ya-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ya-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/yao-ji",
+   "city_id": "guangzhou-cn",
+   "slug": "yao-ji",
+   "name": "Yao Ji",
+   "website": "",
+   "address": "15 Long Yuan Road, Panyu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yao-ji"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yao-ji",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/yong-zuo",
+   "city_id": "guangzhou-cn",
+   "slug": "yong-zuo",
+   "name": "Yong Zuo",
+   "website": "",
+   "address": "2 Baoye North Street, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yong-zuo-baoye-north-street"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yong-zuo-baoye-north-street",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Congee",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/zhou-men",
+   "city_id": "guangzhou-cn",
+   "slug": "zhou-men",
+   "name": "Zhou Men",
+   "website": "",
+   "address": "Shop 103, 172 Zhoumen Street, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zhou-men"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zhou-men",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/zhu-zai-ji-shi-fu-jiangnan-avenue",
+   "city_id": "guangzhou-cn",
+   "slug": "zhu-zai-ji-shi-fu-jiangnan-avenue",
+   "name": "Zhu Zai Ji Shi Fu (Jiangnan Avenue)",
+   "website": "",
+   "address": "429 Jiangnan Avenue South, Haizhu, Guangzhou, 510260, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zhu-zai-ji-shi-fu-jiangnan-avenue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zhu-zai-ji-shi-fu-jiangnan-avenue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/zijin-shi-fang",
+   "city_id": "guangzhou-cn",
+   "slug": "zijin-shi-fang",
+   "name": "Zijin Shi Fang",
+   "website": "",
+   "address": "39-1 Zishan Street, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zijin-shi-fang"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zijin-shi-fang",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/bingsheng-pin-wei-dongxiao-road",
+   "city_id": "guangzhou-cn",
+   "slug": "bingsheng-pin-wei-dongxiao-road",
+   "name": "BingSheng Pin Wei (Dongxiao Road)",
+   "website": "",
+   "address": "33 Dongxiao Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-pin-wei-dongxiao-road"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-pin-wei-dongxiao-road",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/chao-ji-claypot-rice-liwan",
+   "city_id": "guangzhou-cn",
+   "slug": "chao-ji-claypot-rice-liwan",
+   "name": "Chao Ji Claypot Rice (Liwan)",
+   "website": "",
+   "address": "723 Longjin East Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chao-ji-claypot-rice-liwan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chao-ji-claypot-rice-liwan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/chao-yue",
+   "city_id": "guangzhou-cn",
+   "slug": "chao-yue",
+   "name": "Chao Yue",
+   "website": "",
+   "address": "Shop 36-1, West Gate, The Canton Place, Qingfeng Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chao-yue"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chao-yue",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/delightful-house",
+   "city_id": "guangzhou-cn",
+   "slug": "delightful-house",
+   "name": "Delightful House",
+   "website": "",
+   "address": "153 Hanxi Avenue Middle, Panyu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/delightful-house"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/delightful-house",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/four-seasons-pavilion-run",
+   "city_id": "guangzhou-cn",
+   "slug": "four-seasons-pavilion-run",
+   "name": "Four Seasons Pavilion · Rùn",
+   "website": "",
+   "address": "2F, 9 South Door, Hall 3, Liu Hua Exhibition and Trade Center, 117 Liuhua Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/four-seasons-pavilion-duck-yuexiu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/four-seasons-pavilion-duck-yuexiu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/gu-yuan",
+   "city_id": "guangzhou-cn",
+   "slug": "gu-yuan",
+   "name": "Gu Yuan",
+   "website": "",
+   "address": "Room 103, 665 Huacheng Avenue, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/gu-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/gu-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/guo-fan-jia-yan",
+   "city_id": "guangzhou-cn",
+   "slug": "guo-fan-jia-yan",
+   "name": "Guo Fan Jia Yan",
+   "website": "",
+   "address": "2F, 123 TangAn Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/guo-fan-jia-yan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/guo-fan-jia-yan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hunanese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/he-yuan-tianhe",
+   "city_id": "guangzhou-cn",
+   "slug": "he-yuan-tianhe",
+   "name": "He Yuan (Tianhe)",
+   "website": "",
+   "address": "Level 3 and 3M, IMP, 68 Huacheng Avenue, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/he-yuan-tianhe"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/he-yuan-tianhe",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/li-chateau",
+   "city_id": "guangzhou-cn",
+   "slug": "li-chateau",
+   "name": "Li Château",
+   "website": "",
+   "address": "Basement 1 level, 228 Tianhe Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/li-chateau"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/li-chateau",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "European",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/liang-jia-cai-guan",
+   "city_id": "guangzhou-cn",
+   "slug": "liang-jia-cai-guan",
+   "name": "Liang Jia Cai Guan",
+   "website": "",
+   "address": "683 Nanhua East Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/liang-jia-cai-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/liang-jia-cai-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/plant-based-kitchen",
+   "city_id": "guangzhou-cn",
+   "slug": "plant-based-kitchen",
+   "name": "Plant-Based Kitchen",
+   "website": "",
+   "address": "Shop 201, 2F, One St, 11-17 Xinsheng Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/plant-based-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/plant-based-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/sing-wan-loi-noodle-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "sing-wan-loi-noodle-yuexiu",
+   "name": "Sing Wan Loi Noodle (Yuexiu)",
+   "website": "",
+   "address": "181 Middle Guangzhou Avenue, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/sing-wan-loi-noodle"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/sing-wan-loi-noodle",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Noodles",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/tang-shi-meishi",
+   "city_id": "guangzhou-cn",
+   "slug": "tang-shi-meishi",
+   "name": "Tang Shi Meishi",
+   "website": "",
+   "address": "717 Longjin East Road, Liwan, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tang-shi-meishi"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tang-shi-meishi",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/tao-gie-mie-zhou",
+   "city_id": "guangzhou-cn",
+   "slug": "tao-gie-mie-zhou",
+   "name": "Tao Gie Mie Zhou",
+   "website": "",
+   "address": "Building 9, Hunter Lane, Liede Xipu Street, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tao-gie-mie-zhou"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tao-gie-mie-zhou",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/tao-tao-ju-ya-yuan",
+   "city_id": "guangzhou-cn",
+   "slug": "tao-tao-ju-ya-yuan",
+   "name": "Tao Tao Ju · Ya Yuan",
+   "website": "",
+   "address": "6F, Central Tower, 5 Xiancun Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tao-tao-ju-ya-yuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tao-tao-ju-ya-yuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/taozui-guan",
+   "city_id": "guangzhou-cn",
+   "slug": "taozui-guan",
+   "name": "Taozui Guan",
+   "website": "",
+   "address": "Building 10, Zone B, Zhujiang Party Pier Beer Culture & Art Zone, 118 Modisha Street, Haizhu, Guangzhou, 510200, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/taozui-guan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/taozui-guan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chinese Contemporary",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/thai-alley-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "thai-alley-yuexiu",
+   "name": "Thai Alley (Yuexiu)",
+   "website": "",
+   "address": "Shop 219, 2F, Man Lap Fong, 9 Qingbo Road, Ersha Island, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/thai-alley"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/thai-alley",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Thai",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/the-eminent",
+   "city_id": "guangzhou-cn",
+   "slug": "the-eminent",
+   "name": "The Eminent",
+   "website": "",
+   "address": "L4, Four Seas Bay, Four Seas City, 388 Hanxi East Avenue, Panyu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-eminent"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-eminent",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/tian-shui",
+   "city_id": "guangzhou-cn",
+   "slug": "tian-shui",
+   "name": "Tian Shui",
+   "website": "",
+   "address": "A249-A251, 2F, Oriental Landmark, 68 Wende North Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tian-shui-yuexiu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tian-shui-yuexiu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/tongtown",
+   "city_id": "guangzhou-cn",
+   "slug": "tongtown",
+   "name": "Tongtown",
+   "website": "",
+   "address": "4F, R&F Center, 10 Huaxia Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tongtown"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tongtown",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/tung-fook-superior-cuisine",
+   "city_id": "guangzhou-cn",
+   "slug": "tung-fook-superior-cuisine",
+   "name": "Tung Fook Superior Cuisine",
+   "website": "",
+   "address": "Room 104, 20 Haiming Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tung-fook-superior-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tung-fook-superior-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/wing-lee-restaurant-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "wing-lee-restaurant-yuexiu",
+   "name": "Wing Lee Restaurant (Yuexiu)",
+   "website": "",
+   "address": "2-3F, Xianjian Building, 259 Yanjiang Zhonglu, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wing-lee-restaurant"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wing-lee-restaurant",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/yushan-soup-liede-xipu-street",
+   "city_id": "guangzhou-cn",
+   "slug": "yushan-soup-liede-xipu-street",
+   "name": "Yushan Soup (Liede Xipu Street)",
+   "website": "",
+   "address": "Shop 103, 10 Liede Xipu Street, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yushan-soup"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yushan-soup",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/zen-tea",
+   "city_id": "guangzhou-cn",
+   "slug": "zen-tea",
+   "name": "Zen Tea",
+   "website": "",
+   "address": "on the side of main entrance of Xiaogang Park, 146 Qianjin Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zen-tea"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zen-tea",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Vegetarian",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/jiang-by-chef-fei",
+   "city_id": "guangzhou-cn",
+   "slug": "jiang-by-chef-fei",
+   "name": "Jiang by Chef Fei",
+   "website": "https://www.mandarinoriental.com/en/guangzhou/tianhe/dine/jiang-by-chef-fei",
+   "address": "3F, Mandarin Oriental Hotel, 389 Tianhe Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Two Stars",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jiang-by-chef-fei"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jiang-by-chef-fei",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/bingsheng-mansion-xiancun-road",
+   "city_id": "guangzhou-cn",
+   "slug": "bingsheng-mansion-xiancun-road",
+   "name": "BingSheng Mansion (Xiancun Road)",
+   "website": "https://www.bingsheng.com",
+   "address": "5F, Shoufu Mansion, 2 Xiancun Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-mansion"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-mansion",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/bingsheng-private-kitchen-tianhe-east-road",
+   "city_id": "guangzhou-cn",
+   "slug": "bingsheng-private-kitchen-tianhe-east-road",
+   "name": "BingSheng Private Kitchen (Tianhe East Road)",
+   "website": "https://www.bingsheng.com",
+   "address": "178 Tianhe East Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-private-kitchen"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-private-kitchen",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/chowa",
+   "city_id": "guangzhou-cn",
+   "slug": "chowa",
+   "name": "Chōwa",
+   "website": "https://zhenhe.ja8.zhutuiwang.com/unishop",
+   "address": "Shop C04-1, South Gate, The Canton Place, 46 Haifeng Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chowa"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chowa",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Innovative",
+   "price_tier": "$$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/imperial-treasure-fine-teochew-cuisine",
+   "city_id": "guangzhou-cn",
+   "slug": "imperial-treasure-fine-teochew-cuisine",
+   "name": "Imperial Treasure Fine Teochew Cuisine",
+   "website": "https://www.imperialtreasure.com.cn/china/",
+   "address": "L307, 3F, Taikoo Hui, 383 Tianhe Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/imperial-treasure-fine-teochew-cuisine-1190416"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/imperial-treasure-fine-teochew-cuisine-1190416",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Chao Zhou",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/lai-heen",
+   "city_id": "guangzhou-cn",
+   "slug": "lai-heen",
+   "name": "Lai Heen",
+   "website": "https://www.ritzcarlton.com/en/hotels/canrz-the-ritz-carlton-guangzhou/dining/",
+   "address": "3F, The Ritz-Carlton Hotel, 3 Xing An Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lai-heen-559155"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lai-heen-559155",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/wisca-haizhu",
+   "city_id": "guangzhou-cn",
+   "slug": "wisca-haizhu",
+   "name": "Wisca (Haizhu)",
+   "website": "https://www.wisca.cn/",
+   "address": "172 Binjiang West Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "One Star",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wisca-haizhu"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:32+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wisca-haizhu",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/ze-8-haizhu",
+   "city_id": "guangzhou-cn",
+   "slug": "ze-8-haizhu",
+   "name": "Ze 8 (Haizhu)",
+   "website": "https://www.wisca.cn/",
+   "address": "174 Binjiang West Road, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Bib Gourmand",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ze-8"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ze-8",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/beiyuan-cuisine",
+   "city_id": "guangzhou-cn",
+   "slug": "beiyuan-cuisine",
+   "name": "Beiyuan Cuisine",
+   "website": "https://www.beiyuancuisine.com/",
+   "address": "202 Xiaobei Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/beiyuan-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/beiyuan-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/deli-boutiqueuncle-de-abalone",
+   "city_id": "guangzhou-cn",
+   "slug": "deli-boutiqueuncle-de-abalone",
+   "name": "Deli Boutique・Uncle De Abalone",
+   "website": "https://www.deshubaoyu.com/",
+   "address": "909 Xingye Avenue, Nancun Town, Panyu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/deli-boutique%E3%83%BBuncle-de-abalone"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/deli-boutique%E3%83%BBuncle-de-abalone",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/dr-xus-wellbeing-branch-tianhe",
+   "city_id": "guangzhou-cn",
+   "slug": "dr-xus-wellbeing-branch-tianhe",
+   "name": "Dr. Xu's Wellbeing Branch (Tianhe)",
+   "website": "https://www.nanhaiyucun.com",
+   "address": "7F, Concord Center, 57 Linjiang Avenue, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dr-xu-s-wellbeing-branch"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dr-xu-s-wellbeing-branch",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/emmelyn",
+   "city_id": "guangzhou-cn",
+   "slug": "emmelyn",
+   "name": "Emmelyn",
+   "website": "https://www.clubemmelyn.com/",
+   "address": "Unit 101, Kingold Century, 62 Jinsui Road, Zhujiang New Town, Tianhe, Guangzhou, 510000, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/emmelyn"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/emmelyn",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "French Contemporary",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/ersha-no-1",
+   "city_id": "guangzhou-cn",
+   "slug": "ersha-no-1",
+   "name": "Ersha No.1",
+   "website": "https://www.nanhaiyucun.com",
+   "address": "5F, Man Lap Fong, 9 Qingbo Road, Ersha Island, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/er-sha-no-1"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/er-sha-no-1",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/famous-cuisine-tianhe-north-road",
+   "city_id": "guangzhou-cn",
+   "slug": "famous-cuisine-tianhe-north-road",
+   "name": "Famous Cuisine (Tianhe North Road)",
+   "website": "https://www.hl-bandao.com",
+   "address": "2-3F, China Mayors Plaza, 189 Tianhe North Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/famous-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/famous-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/the-legend",
+   "city_id": "guangzhou-cn",
+   "slug": "the-legend",
+   "name": "The Legend",
+   "website": "https://www.star-river.com/",
+   "address": "3F, Star River Bay Center, 168 Pazhou Avenue, Haizhu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-legend"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-legend",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/the-peach-blossom-yuexiu",
+   "city_id": "guangzhou-cn",
+   "slug": "the-peach-blossom-yuexiu",
+   "name": "The Peach Blossom (Yuexiu)",
+   "website": "https://gardenhotel.com/tyg",
+   "address": "3F, LN Garden Hotel, 368 Huanshi East Road, Yuexiu, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/peach-blossom"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/peach-blossom",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/the-penthouse",
+   "city_id": "guangzhou-cn",
+   "slug": "the-penthouse",
+   "name": "The Penthouse",
+   "website": "https://www.hyatt.com/en-US/hotel/china/grand-hyatt-guangzhou/guagh/dining",
+   "address": "23 & 25F, South Tower, Grand Hyatt Hotel, 12 Zhujiang West Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-penthouse"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-penthouse",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/wenjian-hainan-cuisine",
+   "city_id": "guangzhou-cn",
+   "slug": "wenjian-hainan-cuisine",
+   "name": "Wenjian Hainan Cuisine",
+   "website": "https://www.hainan-wenjian.com/",
+   "address": "Shop 502, 5F, K11 Art Mall, 6 Zhujiang East Road, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wj-hainan-cuisine"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wj-hainan-cuisine",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Hainanese",
+   "price_tier": "$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/yue-jing-xuan",
+   "city_id": "guangzhou-cn",
+   "slug": "yue-jing-xuan",
+   "name": "Yue Jing Xuan",
+   "website": "https://www.hyatt.com/park-hyatt/en-US/guaph-park-hyatt-guangzhou/dining/yue-jing-xuan",
+   "address": "68F, Park Hyatt, 16 Huaxia Road, Zhujiang New Town, Tianhe, Guangzhou, 510623, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yue-jing-xuan"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yue-jing-xuan",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  },
+  {
+   "restaurant_id": "guangzhou-cn/yun-pavilion",
+   "city_id": "guangzhou-cn",
+   "slug": "yun-pavilion",
+   "name": "Yun Pavilion",
+   "website": "https://www.hilton.com/en/hotels/canxwci-conrad-guangzhou/dining/",
+   "address": "5F, Conrad Hotel, 222 Xingmin Road, Zhujiang New Town, Tianhe, Guangzhou, Chinese Mainland",
+   "menu_urls": [],
+   "reservation_platform": "",
+   "awards": [
+    {
+     "program": "MICHELIN Guide",
+     "tier": "Selected",
+     "citation": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yun-pavilion"
+    }
+   ],
+   "provenance": {
+    "source": "award",
+    "added_by": "nina",
+    "added_utc": "2026-08-24T00:25:33+00:00",
+    "citations": [
+     "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yun-pavilion",
+     "https://github.com/ngshiheng/michelin-my-maps"
+    ]
+   },
+   "census": {
+    "status": "no_menu_captured"
+   },
+   "accommodation": {
+    "status": "unverified",
+    "note": "'unverified' is not zero. Set only by direct contact."
+   },
+   "signals": {},
+   "aliases": [],
+   "harvest_categories": [],
+   "notes": "",
+   "cuisine": "Cantonese",
+   "price_tier": "$$$"
+  }
+ ]
+}
