@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
-<link href="assets/styles.css" rel="stylesheet"/>
+<link href="assets/styles.css?v=20260906" rel="stylesheet"/>
 <style>
 .ab-hero { background: var(--ink); color: #fff; padding: 56px 0 46px; }
 .ab-hero .kicker { color: #b9c4ff; background: none; padding: 0; border: none; border-radius: 0; }
@@ -16,28 +16,12 @@
 .ab-hero .lede { color: #d7d7d2; max-width: 66ch; font-size: 1.1rem; }
 .ab-hero .hero-foot { color: #9a9a95; font-size: .85rem; margin-top: 20px; max-width: 78ch; }
 
-.tabbar { position: sticky; top: 56px; z-index: 8; background: rgba(255,255,255,.94); backdrop-filter: saturate(1.4) blur(8px); border-bottom: 1px solid var(--line); }
-.tabbar .wrap { display: flex; flex-wrap: wrap; gap: 4px 6px; padding-top: 8px; padding-bottom: 8px; }
-.tab { flex: 0 0 auto; font-family: var(--font-disp); font-weight: 600; font-size: .88rem; color: var(--ink-soft); padding: 7px 13px; border-radius: 999px; cursor: pointer; border: 1px solid transparent; white-space: nowrap; background: none; }
-.tab:hover { color: var(--ink); background: var(--wash); }
-.tab.active { color: #fff; background: var(--blue); border-color: var(--blue); }
-
-.panel { display: none; padding: 34px 0 20px; }
-.panel.active { display: block; }
-.panel-head h2 { margin-bottom: 6px; }
-
-.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 18px 0 14px; }
-.toolbar input[type=search]{ font-family: var(--font); font-size: .92rem; padding: 8px 12px; border: 1px solid var(--line); border-radius: var(--radius-sm); min-width: 220px; flex: 1 1 220px; max-width: 340px; }
-.count { margin-left: auto; font-family: var(--font-mono); font-size: .78rem; color: var(--ink-faint); }
-
-.tbl-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
-table.data { width: 100%; border-collapse: collapse; font-size: .9rem; }
-table.data th { text-align: left; font-family: var(--font-disp); font-weight: 600; font-size: .76rem; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-faint); padding: 11px 14px; border-bottom: 1px solid var(--line); background: var(--wash); white-space: nowrap; }
-table.data td { padding: 11px 14px; border-bottom: 1px solid var(--line-2); vertical-align: top; }
-table.data tr:last-child td { border-bottom: none; }
-table.data tr:hover td { background: var(--wash); }
-td.pm { font-family: var(--font-mono); font-size: .8rem; white-space: nowrap; }
-td.jr { white-space: nowrap; color: var(--ink-soft); font-size: .82rem; }
+.section { padding: 26px 0 2px; max-width: 78ch; }
+.section h2 { margin-bottom: 10px; }
+ul.studies { list-style: none; padding: 0; margin: 0; }
+ul.studies li { margin: 0 0 14px; padding-left: 16px; text-indent: -16px; font-size: .95rem; line-height: 1.55; }
+ul.studies .pm a { font-family: var(--font-mono); font-size: .85rem; }
+ul.studies .jr { color: var(--ink-soft); }
 .loading, .empty { padding: 40px 16px; text-align: center; color: var(--ink-faint); font-family: var(--font-mono); font-size: .85rem; }
 .disclaimer { border-top: 1px solid var(--line); padding: 22px 0 34px; color: var(--ink-faint); font-size: .84rem; }
 </style>
@@ -48,14 +32,26 @@ td.jr { white-space: nowrap; color: var(--ink-soft); font-size: .82rem; }
 <div class="wrap">
 <a class="brand" href="index.html"><img class="brand-logo" src="assets/pku-commons-logo.png" alt="PKU Commons logo" width="28" height="28"/>PKU <span>Commons</span></a>
 <div class="spacer"></div>
-<a class="link" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">Developers</a>
-<a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
-<a class="link" href="families.html">Families</a>
-<a class="link" href="hackathon.html">Hackathon</a>
-<a class="link" href="index.html">Market Atlas</a>
-<a class="link" href="markets.html">Prediction Markets</a>
-<a class="link" href="guidelines.html">Guidelines</a>
-<a class="link" href="adult-burden.html" aria-current="page">Adult Burden</a>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Markets <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="index.html">Atlas</a>
+<a href="markets.html">Prediction Markets</a>
+</div></div>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Evidence <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="guidelines.html">Guidelines</a>
+<a href="adult-burden.html" aria-current="page">Adult Burden</a>
+</div></div>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Community <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="families.html">Families</a>
+<a href="clinicians.html">Clinicians &amp; Researchers</a>
+</div></div>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Build <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">Developers</a>
+<a href="hackathon.html">Hackathon</a>
+</div></div>
 </div>
 </nav>
 
@@ -70,8 +66,7 @@ and numeric claim verified against live PubMed records via NCBI E-utilities on 2
 </div>
 </section>
 
-<div class="tabbar"><div class="wrap" id="tabbar"></div></div>
-<main class="wrap" id="panels"></main>
+<main class="wrap" id="sections"></main>
 
 <section class="disclaimer">
 <div class="wrap">
@@ -83,57 +78,24 @@ canonical markdown: <a href="adult-burden/evidence.md">adult-burden/evidence.md<
 
 <script>
 const FILE='adult-burden/data/studies.json';
-let RECS=[], DOMAINS=[];
-const state={};
-
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
-function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9]+/g,'-');}
-
 async function load(){
-  const tabbar=document.getElementById('tabbar'), panels=document.getElementById('panels');
+  const el=document.getElementById('sections');
   let j;
   try{
     const res=await fetch(FILE,{cache:'no-store'});
     if(!res.ok) throw new Error('HTTP '+res.status);
     j=await res.json();
-  }catch(e){
-    panels.innerHTML='<div class="loading">Could not load studies.json — '+esc(e.message)+'</div>';
-    return;
-  }
-  RECS=j.records||[];
-  DOMAINS=[...new Set(RECS.map(r=>r.domain))];
-  DOMAINS.forEach((d,i)=>{
-    const id=slug(d);
-    const t=document.createElement('button');t.className='tab'+(i===0?' active':'');
-    t.textContent=d+' ('+RECS.filter(r=>r.domain===d).length+')';t.dataset.id=id;
-    t.onclick=()=>selectTab(id);tabbar.appendChild(t);
-    const p=document.createElement('section');p.className='panel'+(i===0?' active':'');p.id='panel-'+id;
-    p.innerHTML='<div class="panel-head"><h2>'+esc(d)+'</h2></div>'+
-      '<div class="toolbar"><input type="search" placeholder="Search…" oninput="onSearch(\''+id+'\',this.value)"/>'+
-      '<span class="count" id="count-'+id+'"></span></div>'+
-      '<div class="tbl-wrap" id="body-'+id+'"></div>';
-    panels.appendChild(p);
-    state[id]={q:'',domain:d};
-    draw(id);
-  });
-}
-function selectTab(id){
-  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.id===id));
-  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id==='panel-'+id));
-}
-function onSearch(id,v){state[id].q=v.toLowerCase();draw(id);}
-function draw(id){
-  const st=state[id];
-  let rows=RECS.filter(r=>r.domain===st.domain);
-  if(st.q) rows=rows.filter(r=>(r.pmid+' '+r.journal+' '+r.year+' '+r.summary).toLowerCase().includes(st.q));
-  document.getElementById('count-'+id).textContent=rows.length+' of '+RECS.filter(r=>r.domain===st.domain).length;
-  const body=document.getElementById('body-'+id);
-  if(!rows.length){body.innerHTML='<div class="empty">No matches.</div>';return;}
-  body.innerHTML='<table class="data"><thead><tr><th>PubMed</th><th>Journal · Year</th><th>Study</th></tr></thead><tbody>'+
-    rows.map(r=>'<tr><td class="pm"><a href="'+esc(r.sources[0].url)+'" target="_blank" rel="noopener">PMID:'+esc(r.pmid)+'</a></td>'+
-      '<td class="jr">'+esc(r.journal)+' · '+esc(r.year)+'</td>'+
-      '<td>'+esc(r.summary)+'</td></tr>').join('')+
-    '</tbody></table>';
+  }catch(e){el.innerHTML='<div class="loading">Could not load studies.json — '+esc(e.message)+'</div>';return;}
+  const recs=j.records||[];
+  const domains=[...new Set(recs.map(r=>r.domain))];
+  el.innerHTML=domains.map(d=>{
+    const rows=recs.filter(r=>r.domain===d);
+    return '<section class="section"><h2>'+esc(d)+'</h2><ul class="studies">'+
+      rows.map(r=>'<li><span class="pm"><a href="'+esc(r.sources[0].url)+'" target="_blank" rel="noopener">PMID:'+esc(r.pmid)+'</a></span> '+
+        '<span class="jr">('+esc(r.journal)+', '+esc(r.year)+')</span> — '+esc(r.summary)+'</li>').join('')+
+      '</ul></section>';
+  }).join('');
 }
 load();
 </script>

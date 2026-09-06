@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
-<link href="assets/styles.css" rel="stylesheet"/>
+<link href="assets/styles.css?v=20260906" rel="stylesheet"/>
 <style>
 .pmk-hero { background: var(--ink); color: #fff; padding: 56px 0 46px; }
 .pmk-hero .kicker { color: #b9c4ff; }
@@ -55,13 +55,26 @@
 <div class="wrap">
 <a class="brand" href="index.html"><img class="brand-logo" src="assets/pku-commons-logo.png" alt="PKU Commons logo" width="28" height="28"/>PKU <span>Commons</span></a>
 <div class="spacer"></div>
-<a class="link" href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">Developers</a>
-<a class="link" href="clinicians.html">Clinicians &amp; Researchers</a>
-<a class="link" href="families.html">Families</a>
-<a class="link" href="hackathon.html">Hackathon</a>
-<a class="link" href="index.html">Market Atlas</a>
-<a class="link" href="markets.html" aria-current="page">Prediction Markets</a>
-<a class="link" href="guidelines.html">Guidelines</a>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Markets <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="index.html">Atlas</a>
+<a href="markets.html" aria-current="page">Prediction Markets</a>
+</div></div>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Evidence <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="guidelines.html">Guidelines</a>
+<a href="adult-burden.html">Adult Burden</a>
+</div></div>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Community <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="families.html">Families</a>
+<a href="clinicians.html">Clinicians &amp; Researchers</a>
+</div></div>
+<div class="navgroup"><button class="link" type="button" aria-haspopup="true">Build <span class="caret">&#9662;</span></button>
+<div class="menu">
+<a href="https://github.com/Cureledger/pku-commons" rel="noopener" target="_blank">Developers</a>
+<a href="hackathon.html">Hackathon</a>
+</div></div>
 </div>
 </nav>
 

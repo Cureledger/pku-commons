@@ -364,3 +364,15 @@ footer .wrap { display:flex; flex-wrap:wrap; gap: 24px; justify-content: space-b
 .pill { display:inline-block; background:var(--teal-wash); color:var(--teal-dk); font-size:.78rem; font-weight:600; padding:3px 10px; border-radius:999px; margin:2px 4px 2px 0; }
 .note { font-size:.86rem; color:var(--ink-soft); font-style: italic; }
 hr.soft { border:none; border-top:1px solid var(--line); margin: 32px 0; }
+
+/* ---- grouped nav dropdowns ---- */
+.navgroup { position: relative; }
+.navgroup > .link { background: none; border: none; cursor: pointer; font-family: var(--font); padding: 0; display: inline-flex; align-items: center; gap: 5px; }
+.navgroup > .link .caret { font-size: .62rem; color: var(--ink-faint); }
+.navgroup .menu { display: none; position: absolute; top: calc(100% + 8px); left: -10px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius-sm); box-shadow: var(--shadow); padding: 6px; min-width: 200px; z-index: 20; }
+.navgroup .menu::before { content: ""; position: absolute; top: -9px; left: 0; right: 0; height: 10px; }
+.navgroup:hover .menu, .navgroup.open .menu, .navgroup:focus-within .menu { display: block; }
+.navgroup .menu a { display: block; padding: 9px 12px; text-decoration: none; color: var(--ink-soft); font-size: .93rem; font-weight: 500; border-radius: 6px; white-space: nowrap; }
+.navgroup .menu a:hover { background: var(--wash); color: var(--ink); }
+.navgroup .menu a[aria-current="page"] { color: var(--blue-dk); background: var(--blue-wash); }
+@media (max-width: 640px){ .nav .navgroup { display: none; } }
