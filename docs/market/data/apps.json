@@ -1,7 +1,7 @@
 {
   "dataset": "apps",
   "title": "PKU apps & software",
-  "updated": "2026-07-26",
+  "updated": "2026-09-14",
   "source_note": "Compiled from App Store / Google Play listings, developer and manufacturer sites (Cycle Pharmaceuticals, Nutricia/Danone, Vitaflo/Nestle Health Science, Ajinomoto Cambrooke), the flok / National PKU News nonprofit, howmuchphe.org, community app roundups, and the Cureledger / PKU Commons project pages for Phebe. Market-facing facts only: who builds each tool, business model, platform, and whether it survives. The recurring pattern across the category is fragmentation into many solo- or small-shop apps that go unmaintained when one developer moves on; PKU Commons exists as a response to exactly that survival problem. Cost, backing, and status are marked estimate where a listing did not state them explicitly.",
   "records": [
     {
@@ -91,17 +91,17 @@
     },
     {
       "name": "PKU Tools",
-      "developer": "Andre Reus (solo developer)",
-      "category": "phe-estimator",
+      "developer": "Andre Reus",
+      "category": "diet-tracker",
       "platforms": "Android (TWA) / web",
       "cost": "freemium",
-      "backing": "solo-dev",
+      "backing": "open-source / solo-dev",
       "status": "live",
-      "notes": "All-in-one tool (scale, nutrition table, calculator) with food-database search, barcode scanning, and a phe/protein converter; also lets the user describe or photograph a food and have AI estimate weight and nutrition. Solo-developed lineage dating to 2013; last updated April 2025, so currently maintained but carries classic single-developer continuity risk.",
-      "market_signal": "Shows solo devs are already bolting AI photo-estimation onto legacy apps; feature-competitive but one person away from going stale.",
+      "notes": "Diet tracker for PKU, launched in 2020 and in continuous development since. Web app, distributed on Android as a TWA, so updates ship through the website rather than store releases. Open source under AGPL-3.0 with the code, data model and history public. Features: food-database search, barcode scanning, phe/protein calculation, diary logging, diet reports, blood-value tracking, own and community foods, and an AI calculator with two modes — estimate (weight and nutrition from a description or photo) and label (extracts the printed values; phe is used as printed, or calculated from printed protein with a standard factor for the food type). Successor to PKU Manager and Phe Rechner.",
       "sources": [
         {"title": "PKU Tools: All-in-One Nutrition App for PKU", "url": "https://pkutools.com/"},
-        {"title": "PKU Tools on Google Play", "url": "https://play.google.com/store/apps/details?id=com.pkutools.twa"}
+        {"title": "PKU Tools on Google Play", "url": "https://play.google.com/store/apps/details?id=com.pkutools.twa"},
+        {"title": "pkutools-3 source repository (AGPL-3.0)", "url": "https://github.com/andrereus/pkutools-3"}
       ],
       "confidence": "sourced"
     },
@@ -185,19 +185,17 @@
     },
     {
       "name": "PKU Manager / Phe Rechner",
-      "developer": "Solo developer (creator of the early Android app 'Phe Rechner')",
+      "developer": "Andre Reus",
       "category": "diet-tracker",
       "platforms": "Android",
-      "cost": "unknown",
+      "cost": "free",
       "backing": "solo-dev",
-      "status": "unknown",
-      "notes": "PKU Manager descends from Phe Rechner, one of the first PKU apps for Android, and is associated with the PKU Tools ecosystem. Represents the early-generation solo-built German-language phe calculators; current maintenance and store availability are uncertain, an example of the aging-solo-app risk.",
-      "market_signal": "Emblem of the first solo-app generation; several such apps are semi-abandoned, which is the exact continuity gap PKU Commons targets.",
+      "status": "succeeded by PKU Tools",
+      "notes": "Predecessors of PKU Tools, both free and both discontinued by succession: Phe Rechner, one of the first PKU apps for Android, was succeeded by PKU Manager, which was succeeded by PKU Tools (2020).",
       "sources": [
-        {"title": "PKU Apps roundup", "url": "http://pku-apps.com/"},
         {"title": "PKU Tools", "url": "https://pkutools.com/"}
       ],
-      "confidence": "estimate"
+      "confidence": "sourced"
     },
     {
       "name": "Nutricia Homeward MyConneX / LowPro App",
