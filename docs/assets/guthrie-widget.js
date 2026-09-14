@@ -44,17 +44,26 @@
     "";
 
   // Cloudflare Turnstile token plumbing. Tokens are single-use and expire
-  // (~5 min), so we mint a FRESH one for every request (reset before each)
-  // instead of caching — a stale/expired cached token is the usual cause of an
-  // intermittent 403. Sends are serialized (the `busy` flag), so one pending
-  // resolver is enough. Transient challenge failures are retried.
+  // (~5 min), so one is minted AHEAD of each question — when the panel opens,
+  // and again right after a token is spent — and handed over the moment the
+  // person sends. (Minting in the send path re-ran the challenge on every
+  // question and gave up after 9 s, less than a person needs when Cloudflare
+  // shows its "verify you are human" box, so those requests went out
+  // tokenless and got a 403.) Turnstile replaces an expired token on its own
+  // (refresh-expired: auto). Sends are serialized (the `busy` flag), so one
+  // pending resolver is enough.
   var _tsId = null,
     _tsHost = null, // visible in-panel container the challenge renders into
     _tsLoading = false,
+    _tsMinting = false, // a challenge is running
+    _tsToken = "", // latest unused token, minted ahead of time
     _tsPending = null; // (token) => void, set while a send awaits a token
   function _tsDeliver(token) {
+    _tsMinting = false;
+    var t = token || "";
     var cb = _tsPending;
-    if (cb) cb(token || "");
+    if (cb) { cb(t); return; }
+    _tsToken = t;
   }
   function _tsRender() {
     if (_tsId !== null || !window.turnstile) return;
@@ -64,11 +73,17 @@
     // request. A non-interactive / invisible site key shows nothing here; a
     // managed one shows its small inline challenge.
     var host = _tsHost || document.body;
+    _tsMinting = true;
     _tsId = window.turnstile.render(host, {
       sitekey: TURNSTILE_SITEKEY,
+      // Show the box only when Cloudflare actually needs the person to
+      // interact; a non-interactive pass renders nothing.
+      appearance: "interaction-only",
+      "refresh-expired": "auto",
+      retry: "auto",
       callback: function (t) { _tsDeliver(t); },
       "error-callback": function () { _tsDeliver(""); },
-      "expired-callback": function () { _tsDeliver(""); },
+      "expired-callback": function () { _tsToken = ""; _tsDeliver(""); },
     });
   }
   function _tsLoad() {
@@ -81,21 +96,35 @@
     s.onload = _tsRender;
     document.head.appendChild(s);
   }
-  // Force a fresh challenge: load+render on first use, else reset the widget.
-  function _tsTrigger() {
+  // Start minting a token: load+render on first use, else reset the widget.
+  // No-op while a challenge is already running unless `force`.
+  function _tsMint(force) {
     if (!TURNSTILE_SITEKEY) return;
+    if (_tsMinting && !force) return;
     if (!window.turnstile) { _tsLoad(); return; }
     if (_tsId === null) { _tsRender(); return; }
+    _tsMinting = true;
     try { window.turnstile.reset(_tsId); } catch (e) { _tsDeliver(""); }
   }
-  // Resolve to a FRESH single-use token, or "" if disabled/unavailable. Retries
-  // transient failures and never hangs the chat (falls back to "" by ~9s).
-  function getTurnstileToken() {
+  // Hand out a token for one question: the one minted ahead if there is one
+  // (and start the next), else wait for the widget — long enough for a person
+  // to tick the box if Cloudflare shows one (it renders inside the panel).
+  // "" if Turnstile is off or nothing arrived in time (the server then 403s).
+  var TS_WAIT_MS = 20000;
+  function getTurnstileToken(forceFresh) {
     return new Promise(function (resolve) {
       if (!TURNSTILE_SITEKEY) { resolve(""); return; }
+      if (_tsToken && !forceFresh) {
+        var ready = _tsToken;
+        _tsToken = "";
+        _tsMint(); // the next one, in the background
+        resolve(ready);
+        return;
+      }
+      _tsToken = "";
       var done = false,
         tries = 0;
-      var timer = setTimeout(function () { finish(""); }, 9000);
+      var timer = setTimeout(function () { finish(""); }, TS_WAIT_MS);
       function finish(tok) {
         if (done) return;
         done = true;
@@ -106,11 +135,12 @@
       function handle(tok) {
         if (done) return;
         if (tok) { finish(tok); return; }
-        if (++tries < 4) setTimeout(_tsTrigger, 500); // retry a fresh challenge
-        else finish("");
+        // "" = error / expiry: try a fresh challenge a few times, then let the
+        // deadline decide (Turnstile also retries on its own).
+        if (++tries < 4) setTimeout(function () { _tsMint(true); }, 500);
       }
       _tsPending = handle;
-      _tsTrigger();
+      _tsMint(forceFresh);
     });
   }
 
@@ -404,17 +434,14 @@
     busy = true;
     send.disabled = true;
     showTyping();
-    function doFetch() {
-      return getTurnstileToken()
-        .then(function (tsToken) {
-          var headers = { "Content-Type": "application/json" };
-          if (tsToken) headers["cf-turnstile-response"] = tsToken;
-          return fetch(API_BASE + "/api/ask", {
-            method: "POST",
-            headers: headers,
-            body: JSON.stringify({ question: text }),
-          });
-        })
+    function fetchWith(tsToken) {
+      var headers = { "Content-Type": "application/json" };
+      if (tsToken) headers["cf-turnstile-response"] = tsToken;
+      return fetch(API_BASE + "/api/ask", {
+        method: "POST",
+        headers: headers,
+        body: JSON.stringify({ question: text }),
+      })
         .then(function (res) {
           return res
             .json()
@@ -427,17 +454,23 @@
         });
     }
 
-    doFetch()
+    getTurnstileToken()
+      .then(fetchWith)
       .then(function (r) {
-        // A 403 is almost always a stale/rejected Turnstile token — retry once
-        // with a freshly minted token before surfacing an error.
-        return r.status === 403 ? doFetch() : r;
+        // A 403 is a rejected or missing Turnstile token — mint a fresh one and
+        // retry once before surfacing an error. No fresh token = no point.
+        if (r.status !== 403) return r;
+        return getTurnstileToken(true).then(function (t) {
+          return t ? fetchWith(t) : r;
+        });
       })
       .then(function (r) {
         hideTyping();
         if (!r.ok) {
           if (r.status === 429) {
             addBot("You're sending questions faster than I can answer. Give it a moment and try again.", [], []);
+          } else if (r.status === 403) {
+            addBot("Cloudflare couldn't verify this browser. If a \"verify you are human\" box is showing below, tick it and ask again.", [], []);
           } else {
             addBot("I'm having trouble reaching the research service right now. Please try again in a moment.", [], []);
           }
@@ -461,6 +494,8 @@
         busy = false;
         updateSend();
         input.focus();
+        // Have the next token ready before the person types the next question.
+        if (!_tsToken && !_tsPending) _tsMint();
       });
   }
 
@@ -472,7 +507,7 @@
   function openPanel() {
     panel.classList.add("gth-open");
     launch.style.display = "none";
-    _tsLoad(); // warm up Turnstile on first open (no-op unless a site key is set)
+    _tsMint(); // mint the first token on open (no-op unless a site key is set)
     if (!greeted) {
       greeted = true;
       addBot(GREETING, [], []);
