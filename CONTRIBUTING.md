@@ -1,5 +1,12 @@
 # Contributing to PKU Commons
 
+**Spotted an error, an inconsistency, or something out of date?** Pull requests are welcome.
+Fix it and open a PR, or [open an issue](https://github.com/Cureledger/pku-commons/issues/new)
+if you would rather flag it than fix it. That goes for everything in this repository: the
+benchmark, the food list, the docs, and the market datasets under
+[`docs/market/data/`](docs/market/data/). If a record describes your product, your clinic, or
+your work and gets it wrong, a correction PR with a source is the fastest way to set it right.
+
 Thank you for helping make PKU tools reliable and for keeping them that way. This project is
 infrastructure. Your contribution gets measured, cited, and outlives whoever wrote it.
 
