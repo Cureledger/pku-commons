@@ -1,0 +1,24 @@
+# Weekly, grouped version updates. Security updates are separate and immediate.
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /guthrie-research-agent/serve
+    schedule:
+      interval: weekly
+      day: monday
+    groups:
+      minor-and-patch:
+        update-types: [minor, patch]
+  - package-ecosystem: docker
+    directory: /guthrie-research-agent/serve
+    schedule:
+      interval: weekly
+      day: monday
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+    groups:
+      actions:
+        patterns: ["*"]
