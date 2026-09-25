@@ -5,6 +5,9 @@ name: benchmark
 # baseline. A regression (MAE up or within-band % down beyond tolerance) fails the check.
 # It also runs the food-list Layer-1 validation (every row must be cited).
 
+permissions:
+  contents: read
+
 on:
   pull_request:
     paths:
