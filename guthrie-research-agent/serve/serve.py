@@ -75,6 +75,17 @@ RATE_LIMIT_WINDOW = 60.0
 #      / NEXT_PUBLIC_TURNSTILE_SITE_KEY pair.
 TURNSTILE_SECRET = os.environ.get("TURNSTILE_SECRET_KEY", "").strip()
 TURNSTILE_VERIFY_URL = "https://challenges.cloudflare.com/turnstile/v0/siteverify"
+# A token solved on some other site that embeds our site key would still
+# verify; siteverify reports the hostname it was solved on, so only tokens
+# from the pages we serve the widget on count. Defaults to the CORS origins.
+TURNSTILE_HOSTNAMES = {
+    h.strip().lower()
+    for h in os.environ.get(
+        "GUTHRIE_TURNSTILE_HOSTNAMES",
+        ",".join(urllib.parse.urlparse(o).hostname or "" for o in ALLOWED_ORIGINS),
+    ).split(",")
+    if h.strip()
+}
 
 app = FastAPI(title="Guthrie - PKU research agent", version="0")
 app.add_middleware(
@@ -85,13 +96,24 @@ app.add_middleware(
 _rl_hits: dict[str, deque] = {}
 
 
+def _client_ip(request: Request) -> str:
+    """The address the nearest trusted proxy saw, not one the caller typed.
+
+    Railway's edge appends the real client address to X-Forwarded-For, so the
+    LAST entry is trustworthy; the first is whatever the caller sent (a spoofed
+    header used to give every request its own rate-limit bucket)."""
+    xff = request.headers.get("x-forwarded-for", "")
+    if xff:
+        last = xff.split(",")[-1].strip()
+        if last:
+            return last
+    return request.client.host if request.client else "unknown"
+
+
 @app.middleware("http")
 async def rate_limit(request: Request, call_next):
     if request.url.path.startswith("/api/"):
-        ip = (
-            request.headers.get("x-forwarded-for", "").split(",")[0].strip()
-            or (request.client.host if request.client else "unknown")
-        )
+        ip = _client_ip(request)
         now = time.monotonic()
         dq = _rl_hits.setdefault(ip, deque())
         while dq and now - dq[0] > RATE_LIMIT_WINDOW:
@@ -127,7 +149,12 @@ def _verify_turnstile(token: str) -> bool:
         if not res.get("success"):
             print(f"[turnstile] siteverify failed: errors={res.get('error-codes')} "
                   f"hostname={res.get('hostname')}", flush=True)
-        return bool(res.get("success"))
+            return False
+        hostname = str(res.get("hostname") or "").lower()
+        if TURNSTILE_HOSTNAMES and hostname not in TURNSTILE_HOSTNAMES:
+            print(f"[turnstile] token solved on unexpected hostname={hostname}", flush=True)
+            return False
+        return True
     except Exception as e:
         print(f"[turnstile] siteverify error: {e}", flush=True)
         return False

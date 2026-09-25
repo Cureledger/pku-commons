@@ -61,7 +61,9 @@ jobs:
       - name: Fetch corpus (PubMed, key-free)
         env:
           NCBI_CONTACT_EMAIL: ${{ vars.NCBI_CONTACT_EMAIL }}
-        run: python build/fetch_corpus.py --max "${{ github.event.inputs.max_records || '4000' }}"
+          # Dispatch input goes through env, never into the script text.
+          MAX_RECORDS: ${{ github.event.inputs.max_records || '4000' }}
+        run: python build/fetch_corpus.py --max "$MAX_RECORDS"
 
       - name: Fetch guideline full text (best-effort)
         run: python build/fetch_guidelines_fulltext.py || echo "guidelines fetch skipped/failed; continuing with the literature corpus"
