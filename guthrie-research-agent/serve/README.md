@@ -29,8 +29,10 @@ docker build -f serve/Dockerfile -t guthrie-svc .      # run from guthrie/
 # Fly:     fly launch --dockerfile serve/Dockerfile ; fly secrets set ANTHROPIC_API_KEY=sk-...
 ```
 
-Set `GUTHRIE_CORS_ORIGINS` to your site's origins (default already allows
-cureledger.com + localhost:3000).
+The default `GUTHRIE_CORS_ORIGINS` allows only pku-commons.org and www; for
+local development set it, e.g. `GUTHRIE_CORS_ORIGINS=http://localhost:3000`.
+`/api/ask` takes the question only: how many passages it reads, the answer
+length and the relevance floor are the server's choice.
 
 ## Endpoints
 

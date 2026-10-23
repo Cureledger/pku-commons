@@ -41,7 +41,7 @@ refresh on a schedule (weekly + on-demand) with no maintainer.
 |---|---|---|
 | `ANTHROPIC_API_KEY` | — (required) | Grounding LLM |
 | `GUTHRIE_ANSWER_MODEL` | `claude-haiku-4-5-20251001` | Answer model (use a **live** id; dated snapshots get retired → 404) |
-| `GUTHRIE_CORS_ORIGINS` | pku-commons.org + www + cureledger.com + localhost | Browser origins allowed to call `/api/*` |
+| `GUTHRIE_CORS_ORIGINS` | pku-commons.org + www | Browser origins allowed to call `/api/*` (also the hostnames Turnstile tokens must come from) |
 | `GUTHRIE_API_TOKEN` | unset (open) | If set, `/api/*` requires `Authorization: Bearer <token>`. Not usable from the public widget — reserve for server-to-server callers |
 | `GUTHRIE_RATE_LIMIT_PER_MIN` | `20` | Per-IP sliding-window cap (denial-of-wallet guard) |
 | `TURNSTILE_SECRET_KEY` | unset (off) | If set, `/api/ask` requires a valid Cloudflare Turnstile token and verifies it server-side. See below |
