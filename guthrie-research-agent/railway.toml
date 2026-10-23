@@ -8,7 +8,7 @@
 #   ANTHROPIC_API_KEY   — funded key on a workspace with model access
 # Optional:
 #   GUTHRIE_ANSWER_MODEL      (default claude-haiku-4-5-20251001)
-#   GUTHRIE_CORS_ORIGINS      (default already includes pku-commons.org)
+#   GUTHRIE_CORS_ORIGINS      (default: pku-commons.org and www only)
 #   GUTHRIE_API_TOKEN         (set to require Bearer auth on /api/*)
 #   GUTHRIE_RATE_LIMIT_PER_MIN(default 20)
 

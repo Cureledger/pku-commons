@@ -44,12 +44,14 @@ import kernel  # noqa: E402
 # GUTHRIE_ANSWER_MODEL. The scored gate (refusal, citations, medical flag) lives
 # in kernel.py, not the LLM; the model only phrases the grounded answer.
 ANSWER_MODEL = os.environ.get("GUTHRIE_ANSWER_MODEL", "claude-haiku-4-5-20251001")
+# The pages the chat box is on. cureledger.com's chat was removed in October
+# 2026 and localhost is for development (set GUTHRIE_CORS_ORIGINS for that), so
+# neither is a default: the Turnstile hostnames below come from this list too.
 ALLOWED_ORIGINS = [
     o.strip()
     for o in os.environ.get(
         "GUTHRIE_CORS_ORIGINS",
-        "https://pku-commons.org,https://www.pku-commons.org,"
-        "https://cureledger.com,https://www.cureledger.com,http://localhost:3000",
+        "https://pku-commons.org,https://www.pku-commons.org",
     ).split(",")
     if o.strip()
 ]
@@ -74,6 +76,8 @@ RATE_LIMIT_WINDOW = 60.0
 #      (public) lives in the widget; matches the other repos' TURNSTILE_SECRET_KEY
 #      / NEXT_PUBLIC_TURNSTILE_SITE_KEY pair.
 TURNSTILE_SECRET = os.environ.get("TURNSTILE_SECRET_KEY", "").strip()
+if not TURNSTILE_SECRET:
+    print("[turnstile] TURNSTILE_SECRET_KEY is not set: /api/ask answers any script", flush=True)
 TURNSTILE_VERIFY_URL = "https://challenges.cloudflare.com/turnstile/v0/siteverify"
 # A token solved on some other site that embeds our site key would still
 # verify; siteverify reports the hostname it was solved on, so only tokens
@@ -87,7 +91,9 @@ TURNSTILE_HOSTNAMES = {
     if h.strip()
 }
 
-app = FastAPI(title="Guthrie - PKU research agent", version="0")
+# No /docs, /redoc or /openapi.json: they advertised the API (and its cost
+# knobs) to anyone. The chat box is the only client.
+app = FastAPI(title="Guthrie - PKU research agent", version="0", docs_url=None, redoc_url=None, openapi_url=None)
 app.add_middleware(
     CORSMiddleware, allow_origins=ALLOWED_ORIGINS, allow_methods=["*"],
     allow_headers=["*"],
@@ -173,11 +179,17 @@ def require_turnstile(request: Request):
         raise HTTPException(status_code=403, detail="Turnstile verification failed")
 
 
+# A public question is the question and nothing else. The caller used to choose
+# how many passages to read (k, up to 20), a longer answer mode, and the
+# relevance floor (0 skipped the off-topic refusal), which made each call cost
+# up to several times more and the agent a free general-purpose model. The
+# chat box only ever sent the question; these are the server's choice now.
+ASK_K = 8
+ASK_MODE = "brief"
+
+
 class AskBody(BaseModel):
     question: str = Field(min_length=1, max_length=2000)
-    k: int = Field(default=8, ge=1, le=20)
-    mode: str = Field(default="brief", max_length=32)
-    min_relevance: float = Field(default=kernel.DEFAULT_MIN_RELEVANCE, ge=0.0, le=1.0)
 
 
 class SearchBody(BaseModel):
@@ -189,7 +201,9 @@ class SearchBody(BaseModel):
 def _anthropic_llm(prompt, system, max_tokens):
     """The grounding call, via the Anthropic API (stands in for host.llm)."""
     import anthropic
-    client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
+    # Reads ANTHROPIC_API_KEY. A short timeout and one retry: the SDK's default
+    # waits up to 10 minutes, holding a worker thread the whole time.
+    client = anthropic.Anthropic(timeout=30.0, max_retries=1)
     msg = client.messages.create(
         model=ANSWER_MODEL, max_tokens=max_tokens, system=system,
         messages=[{"role": "user", "content": prompt}])
@@ -207,8 +221,8 @@ def health():
 def ask(body: AskBody, _=Depends(require_token), __=Depends(require_turnstile)):
     # SAME code path as the skill + eval: kernel.pku_ask owns the refusal gate,
     # medical flag, and citation logic. We only inject the grounding LLM.
-    r = kernel.pku_ask(body.question, k=body.k, mode=body.mode,
-                       min_relevance=body.min_relevance, llm=_anthropic_llm)
+    r = kernel.pku_ask(body.question, k=ASK_K, mode=ASK_MODE,
+                       min_relevance=kernel.DEFAULT_MIN_RELEVANCE, llm=_anthropic_llm)
     # trim hit payload for the wire (drop full passage text)
     r["hits"] = [{"citation": h["citation"], "title": h["title"],
                   "url": h["url"], "source": h["source"],
